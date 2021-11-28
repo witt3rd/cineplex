@@ -46,7 +46,7 @@ def get_playlists_from_db(channel_id):
     logger = Logger()
     logger.debug(f"getting playlists from db for {channel_id=}")
 
-    return json.loads(get_db().get(channel_id))
+    return json.loads(get_db().get(f'playlists#{channel_id}'))
 
 
 def save_playlists(channel_id, playlists, to_disk=True):
@@ -58,7 +58,7 @@ def save_playlists(channel_id, playlists, to_disk=True):
         with open(os.path.join(DATA_DIR, f"playlists_{channel_id}.json"), "w") as result:
             json.dump(playlists, result, indent=2)
 
-    get_db().set(channel_id, json.dumps(playlists))
+    get_db().set(f'playlists#{channel_id}', json.dumps(playlists))
 
 
 def get_playlist_items_from_youtube(playlist_id):
