@@ -18,6 +18,7 @@ DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 
 # Paths
+DATA_DIR = os.getenv("DATA_DIR", "./data")
 MEDIA_ROOT = os.getenv("MEDIA_ROOT")
 METADATA_DIR = os.getenv("METADATA_DIR")
 THUMBNAIL_DIR = os.getenv("THUMBNAIL_DIR")

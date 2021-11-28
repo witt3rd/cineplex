@@ -13,6 +13,7 @@ google-auth-oauthlib = "^0.4.6"
 google-auth-httplib2 = "^0.1.0"
 hiredis = "^2.0.0"
 redis = "^4.0.2"
+typer = "^0.4.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

@@ -58,7 +58,6 @@ cover/
 *.pot
 
 # Django stuff:
-logs/
 *.log
 local_settings.py
 db.sqlite3
@@ -142,6 +141,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# App data
+logs/
+data/
 
 # App secrets
 youtube.keys.json
