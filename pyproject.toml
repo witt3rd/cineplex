@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "raytube"
+version = "0.1.0"
+description = ""
+authors = ["witt3rd <donald@witt3rd.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ray = {extras = ["default", "data", "serve"], version = "^1.8.0"}
+python-dotenv = "^0.19.2"
+google-api-python-client = "^2.31.0"
+google-auth-oauthlib = "^0.4.6"
+google-auth-httplib2 = "^0.1.0"
+hiredis = "^2.0.0"
+redis = "^4.0.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+autopep8 = "^1.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
