@@ -2,7 +2,9 @@ import os
 import typer
 from cineplex.playlists import (
     get_playlists_from_db,
-    get_playlists_from_youtube
+    get_playlists_from_youtube,
+    get_playlist_items_from_db,
+    get_playlist_items_from_youtube,
 )
 from cineplex.settings import (
     DATA_DIR,
@@ -34,6 +36,24 @@ def print_playlists(playlists_with_meta):
             f'{id}: {snippet["title"]} ({contentDetails["itemCount"]})')
 
 
+def print_playlist_items(items_with_meta):
+    playlist_id = items_with_meta['playlist_id']
+    retrieved_on = items_with_meta['retrieved_on']
+    items = items_with_meta['items']
+
+    print(f"Playlist items for {playlist_id=} as of {retrieved_on}:")
+
+    # sort items by position
+    items.sort(key=lambda x: x['snippet']['position'])
+
+    for item in items:
+        id = item['id']
+        snippet = item['snippet']
+        video_id = snippet['resourceId']['videoId']
+        print(
+            f'{snippet["position"]:04d}) {video_id}: {snippet["channelTitle"]}: {snippet["title"]} @ {snippet["publishedAt"]}')
+
+
 @app.command()
 def update_my_playlists():
     """Get my playlists"""
@@ -60,6 +80,20 @@ def list_playlists(channel_id: str):
     """List playlists for a channel"""
     playlists_with_meta = get_playlists_from_db(channel_id)
     print_playlists(playlists_with_meta)
+
+
+@app.command()
+def update_playlist_items(playlist_id: str):
+    """Get playlist items for a playlist"""
+    items_with_meta = get_playlist_items_from_youtube(playlist_id)
+    print_playlist_items(items_with_meta)
+
+
+@app.command()
+def list_playlist_items(playlist_id: str):
+    """List playlist items for a playlist"""
+    items_with_meta = get_playlist_items_from_db(playlist_id)
+    print_playlist_items(items_with_meta)
 
 
 @app.command()
