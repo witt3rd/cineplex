@@ -6,15 +6,14 @@ from cineplex.playlists import (
     get_playlist_items_from_db,
     get_playlist_items_from_youtube,
 )
-from cineplex.settings import (
-    DATA_DIR,
-    YOUTUBE_MY_CHANNEL_ID,
-)
+from cineplex.config import Settings
+
+settings = Settings()
 
 app = typer.Typer()
 
-if not os.path.isdir(DATA_DIR):
-    os.mkdir(DATA_DIR)
+if not os.path.isdir(settings.data_dir):
+    os.mkdir(settings.data_dir)
 
 
 def print_playlists(playlists_with_meta):
@@ -57,14 +56,15 @@ def print_playlist_items(items_with_meta):
 @app.command()
 def update_my_playlists():
     """Get my playlists"""
-    playlists_with_meta = get_playlists_from_youtube(YOUTUBE_MY_CHANNEL_ID)
+    playlists_with_meta = get_playlists_from_youtube(
+        settings.youtube_my_channel_id)
     print_playlists(playlists_with_meta)
 
 
 @app.command()
 def list_my_playlists():
     """List my playlists"""
-    playlists_with_meta = get_playlists_from_db(YOUTUBE_MY_CHANNEL_ID)
+    playlists_with_meta = get_playlists_from_db(settings.youtube_my_channel_id)
     print_playlists(playlists_with_meta)
 
 
@@ -99,7 +99,7 @@ def list_playlist_items(playlist_id: str):
 @app.command()
 def offline_my_playlists():
     """Get my playlists"""
-    playlists_with_meta = get_playlists_from_db(YOUTUBE_MY_CHANNEL_ID)
+    playlists_with_meta = get_playlists_from_db(settings.youtube_my_channel_id)
     print_playlists(playlists_with_meta)
 
 

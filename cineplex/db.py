@@ -1,10 +1,11 @@
 import redis
-from settings import (
-    DB,
-    DB_HOST,
-    DB_PORT
-)
+from config import Settings
+
+settings = Settings()
 
 
 def get_db():
-    return redis.StrictRedis(host=DB_HOST, port=DB_PORT, db=DB)
+    return redis.StrictRedis(
+        host=settings.db_host,
+        port=settings.db_port,
+        db=settings.db)

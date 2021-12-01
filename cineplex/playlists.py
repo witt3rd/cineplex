@@ -4,7 +4,9 @@ from datetime import datetime
 from youtube import youtube_api
 from db import get_db
 from logger import Logger
-from settings import DATA_DIR
+from config import Settings
+
+settings = Settings()
 
 
 def get_playlists_from_youtube(channel_id):
@@ -55,7 +57,7 @@ def save_playlists(channel_id, playlists_with_meta, to_disk=True):
     logger.debug(f"saving playlists for {channel_id=}")
 
     if to_disk:
-        with open(os.path.join(DATA_DIR, f"playlists_{channel_id}.json"), "w") as result:
+        with open(os.path.join(settings.data_dir, f"playlists_{channel_id}.json"), "w") as result:
             json.dump(playlists_with_meta, result, indent=2)
 
     get_db().set(f'playlists#{channel_id}', json.dumps(playlists_with_meta))
@@ -109,7 +111,7 @@ def save_playlist_items(playlist_id, items_with_meta, to_disk=True):
     logger.debug(f"saving playlist items for {playlist_id=}")
 
     if to_disk:
-        with open(os.path.join(DATA_DIR, f"playlist_items_{playlist_id}.json"), "w") as result:
+        with open(os.path.join(settings.data_dir, f"playlist_items_{playlist_id}.json"), "w") as result:
             json.dump(items_with_meta, result, indent=2)
 
     get_db().set(f'playlist_items#{playlist_id}', json.dumps(items_with_meta))

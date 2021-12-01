@@ -1,12 +1,7 @@
 import logging
 import os
 import datetime
-
-from settings import (
-    LOG_NAME,
-    LOG_DIR,
-    LOG_LEVEL
-)
+from config import Settings
 
 
 class Logger:
@@ -16,25 +11,26 @@ class Logger:
         if cls._logger is None:
             cls._logger = super().__new__(cls, *args, **kwargs)
 
-            cls._logger = logging.getLogger(LOG_NAME)
-            cls._logger.setLevel(LOG_LEVEL)
+            settings = Settings()
+
+            cls._logger = logging.getLogger(settings.log_name)
+            cls._logger.setLevel(settings.log_level)
             formatter = logging.Formatter(
                 '%(asctime)-23s | %(levelname)-8s| %(filename)s:%(lineno)s | %(message)s')
 
             now = datetime.datetime.now()
 
-            if not os.path.isdir(LOG_DIR):
-                os.mkdir(LOG_DIR)
+            if not os.path.isdir(settings.log_dir):
+                os.mkdir(settings.log_dir)
             fileHandler = logging.FileHandler(
-                os.path.join(LOG_DIR, f'{LOG_NAME}.{now.strftime("%Y-%m-%d")}.log'))
-
-            streamHandler = logging.StreamHandler()
-
+                os.path.join(settings.log_dir, f'{settings.log_name}.{now.strftime("%Y-%m-%d")}.log'))
             fileHandler.setFormatter(formatter)
-            streamHandler.setFormatter(formatter)
-
             cls._logger.addHandler(fileHandler)
-            cls._logger.addHandler(streamHandler)
+
+            if settings.log_to_console:
+                consoleHandler = logging.StreamHandler()
+                consoleHandler.setFormatter(formatter)
+                cls._logger.addHandler(consoleHandler)
 
         return cls._logger
 
