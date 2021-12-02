@@ -15,6 +15,9 @@ class Settings(BaseSettings):
     db_host: str
     db_port: int
 
+    mongo_url: str = "mongodb://localhost:27017"
+    mongo_db: str = "cineplex"
+
     data_dir: str = './data'
     tmp_dir: str = './tmp'
 

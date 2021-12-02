@@ -1,10 +1,12 @@
 import os
 import typer
-from cineplex.playlists import (
-    get_playlists_from_db,
-    get_playlists_from_youtube,
+from cineplex.youtube_playlists import (
+    get_channel_playlists_from_db,
+    get_channel_playlists_from_youtube,
+    save_channel_playlists,
     get_playlist_items_from_db,
     get_playlist_items_from_youtube,
+    save_playlist_items,
 )
 from cineplex.config import Settings
 
@@ -16,8 +18,8 @@ if not os.path.isdir(settings.data_dir):
     os.mkdir(settings.data_dir)
 
 
-def print_playlists(playlists_with_meta):
-    channel_id = playlists_with_meta['channel_id']
+def print_channel_playlists(playlists_with_meta):
+    channel_id = playlists_with_meta['_id']
     retrieved_on = playlists_with_meta['retrieved_on']
     playlists = playlists_with_meta['playlists']
 
@@ -56,36 +58,40 @@ def print_playlist_items(items_with_meta):
 @app.command()
 def update_my_playlists():
     """Get my playlists"""
-    playlists_with_meta = get_playlists_from_youtube(
+    playlists_with_meta = get_channel_playlists_from_youtube(
         settings.youtube_my_channel_id)
-    print_playlists(playlists_with_meta)
+    save_channel_playlists(playlists_with_meta)
+    print_channel_playlists(playlists_with_meta)
 
 
 @app.command()
 def list_my_playlists():
     """List my playlists"""
-    playlists_with_meta = get_playlists_from_db(settings.youtube_my_channel_id)
-    print_playlists(playlists_with_meta)
+    playlists_with_meta = get_channel_playlists_from_db(
+        settings.youtube_my_channel_id)
+    print_channel_playlists(playlists_with_meta)
 
 
 @app.command()
 def update_playlists(channel_id: str):
     """Get playlists for a channel"""
-    playlists_with_meta = get_playlists_from_youtube(channel_id)
-    print_playlists(playlists_with_meta)
+    playlists_with_meta = get_channel_playlists_from_youtube(channel_id)
+    save_channel_playlists(playlists_with_meta)
+    print_channel_playlists(playlists_with_meta)
 
 
 @app.command()
 def list_playlists(channel_id: str):
     """List playlists for a channel"""
-    playlists_with_meta = get_playlists_from_db(channel_id)
-    print_playlists(playlists_with_meta)
+    playlists_with_meta = get_channel_playlists_from_db(channel_id)
+    print_channel_playlists(playlists_with_meta)
 
 
 @app.command()
 def update_playlist_items(playlist_id: str):
     """Get playlist items for a playlist"""
     items_with_meta = get_playlist_items_from_youtube(playlist_id)
+    save_playlist_items(playlist_id, items_with_meta)
     print_playlist_items(items_with_meta)
 
 
@@ -99,8 +105,9 @@ def list_playlist_items(playlist_id: str):
 @app.command()
 def offline_my_playlists():
     """Get my playlists"""
-    playlists_with_meta = get_playlists_from_db(settings.youtube_my_channel_id)
-    print_playlists(playlists_with_meta)
+    playlists_with_meta = get_channel_playlists_from_db(
+        settings.youtube_my_channel_id)
+    print_channel_playlists(playlists_with_meta)
 
 
 @app.command()

@@ -9,33 +9,35 @@ from cineplex.config import Settings
 settings = Settings()
 
 
-def get_playlists_from_youtube(channel_id):
+def get_channel_from_youtube(channel_ids):
+
+    channel_ids_string = ','.join(channel_ids)
 
     logger = Logger()
-    logger.debug(f"getting playlists for {channel_id=}")
+    logger.debug(f"getting channel for {channel_ids_string=}")
 
     youtube = youtube_api()
 
-    request = youtube.playlists().list(
-        channelId=channel_id,
-        part="id,snippet,contentDetails",
+    request = youtube.channels().list(
+        part="snippet,contentDetails,statistics,brandingSettings",
+        id=channel_ids_string,
         maxResults=50,
-        fields='nextPageToken,items(id,snippet,contentDetails)'
     )
 
-    playlists = []
+    channels = []
 
     while request:
         response = request.execute()
-        playlists.extend(response['items'])
-        request = youtube.playlists().list_next(request, response)
+        channels.extend(response['items'])
+        request = youtube.channels().list_next(request, response)
 
-    playlists_with_meta = {}
-    playlists_with_meta['channel_id'] = channel_id
-    playlists_with_meta['retrieved_on'] = str(datetime.now())
-    playlists_with_meta['playlists'] = playlists
+    for channel in channels:
+        playlists_with_meta = {}
+        playlists_with_meta['channel_id'] = channel['id']
+        playlists_with_meta['retrieved_on'] = str(datetime.now())
+        playlists_with_meta[''] = playlists
 
-    save_playlists(channel_id, playlists_with_meta)
+        save_playlists(channel_id, playlists_with_meta)
 
     logger.info(
         f"retrieved and saved {len(playlists)} playlists for {channel_id=}")
