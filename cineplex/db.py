@@ -1,5 +1,5 @@
 import redis
-from config import Settings
+from cineplex.config import Settings
 
 settings = Settings()
 

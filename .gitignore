@@ -144,7 +144,7 @@ cython_debug/
 
 # App data
 logs/
-data/
+# data/
 
 # App secrets
 youtube.keys.json

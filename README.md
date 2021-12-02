@@ -1,7 +1,11 @@
 # Cineplex
 
+## Dependencies
+
+- [ffmpeg](http://ffmpeg.org/)
+
 ## CLI
 
 ```bash
-PYTHONPATH="cineplex" python cineplex.py
+python cineplex.py --help
 ```

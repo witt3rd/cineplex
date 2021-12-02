@@ -16,10 +16,12 @@ class Settings(BaseSettings):
     db_port: int
 
     data_dir: str = './data'
+    tmp_dir: str = './tmp'
 
-    youtube_videos_dir: str = './data/youtube/videos'
+    youtube_videos_dir: str = '/Volumes/media/youtube/videos'
+    youtube_channels_dir: str = '/Volumes/media/youtube/channels'
+    youtube_metadata_dir: str = '/Volumes/media/youtube/metadata'
     youtube_thumbnails_dir: str = '/Volumes/media/youtube/thumbnails'
-    youtub_metadata_dir: str = '/Volumes/media/youtube/metadata'
 
     log_name: str = ''
     log_level: str = 'INFO'

@@ -1,7 +1,7 @@
 import logging
 import os
 import datetime
-from config import Settings
+from cineplex.config import Settings
 
 
 class Logger:

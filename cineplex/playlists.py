@@ -1,10 +1,10 @@
 import json
 import os
 from datetime import datetime
-from youtube import youtube_api
-from db import get_db
-from logger import Logger
-from config import Settings
+from cineplex.youtube import youtube_api
+from cineplex.db import get_db
+from cineplex.logger import Logger
+from cineplex.config import Settings
 
 settings = Settings()
 
