@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCOkL7q2SeGZeZuj22njMYEA",
+  "retrieved_on": "2021-12-05 03:47:37.514187",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "IpZ4bjciyJFO2wIjCLChe1uWi1o",
+    "id": "UCOkL7q2SeGZeZuj22njMYEA",
+    "snippet": {
+      "title": "Caddicarus",
+      "description": "I'm Caddy, and I do long stupid videos. Some on movies, some on Nursery Rhyme VHS tapes, some on Peppa Pig, and mostly about video games. From PS1 classics to brand new modern Steam trash, I go through it all and go slightly insane. Enjoy.\n\nAnd don't forget - please,\n\n\u24e2\u24e4\u24d1\u24e2\u00a9\u24e1\u24d8\u24d1\u24d4 and hit that bell.\n\nIt's free!\n\nAny business inquiries can be made to my email address at caddicarus@28thave.com",
+      "customUrl": "caddicarus",
+      "publishedAt": "2011-09-10T12:59:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ4GHJBVQcPG3ZH5EuBzv-pReTpMdYi1-p3OZ4yHQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ4GHJBVQcPG3ZH5EuBzv-pReTpMdYi1-p3OZ4yHQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ4GHJBVQcPG3ZH5EuBzv-pReTpMdYi1-p3OZ4yHQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Caddicarus",
+        "description": "I'm Caddy, and I do long stupid videos. Some on movies, some on Nursery Rhyme VHS tapes, some on Peppa Pig, and mostly about video games. From PS1 classics to brand new modern Steam trash, I go through it all and go slightly insane. Enjoy.\n\nAnd don't forget - please,\n\n\u24e2\u24e4\u24d1\u24e2\u00a9\u24e1\u24d8\u24d1\u24d4 and hit that bell.\n\nIt's free!\n\nAny business inquiries can be made to my email address at caddicarus@28thave.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOkL7q2SeGZeZuj22njMYEA"
+      }
+    },
+    "statistics": {
+      "viewCount": "250163350",
+      "subscriberCount": "899000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "509"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Caddicarus",
+        "description": "I'm Caddy, and I do long stupid videos. Some on movies, some on Nursery Rhyme VHS tapes, some on Peppa Pig, and mostly about video games. From PS1 classics to brand new modern Steam trash, I go through it all and go slightly insane. Enjoy.\n\nAnd don't forget - please,\n\n\u24e2\u24e4\u24d1\u24e2\u00a9\u24e1\u24d8\u24d1\u24d4 and hit that bell.\n\nIt's free!\n\nAny business inquiries can be made to my email address at caddicarus@28thave.com",
+        "keywords": "\"game reviews\" review \"video games\" \"top 10\" \"top ten\" retro modern ps3 peanutbuttergamer pbg \"the completionist\" dykgaming jontron \"hidden block\" hiddenblock brutalmoose reviews gameplay funny comedy",
+        "unsubscribedTrailer": "4YwoRFFiqsQ",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/TTjurEz52M7iBrKWcKP8jLOmLMuXUNe5HcM16eBNLjTRPqJmFkh5yMezCCU45rAz7jBTh5wrXQ"
+      }
+    }
+  }
+}

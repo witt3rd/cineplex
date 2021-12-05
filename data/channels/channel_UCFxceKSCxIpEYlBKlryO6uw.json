@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCFxceKSCxIpEYlBKlryO6uw",
+  "retrieved_on": "2021-12-05 03:47:33.306700",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "SOAjW-jpmIc6YhcvtBU94EM476w",
+    "id": "UCFxceKSCxIpEYlBKlryO6uw",
+    "snippet": {
+      "title": "University of Notre Dame",
+      "description": "The University of Notre Dame, founded in 1842 by a priest of the Congregation of Holy Cross, is an independent, national Catholic university located in Notre Dame, Indiana, adjacent to the city of South Bend and approximately 90 miles east of Chicago.",
+      "customUrl": "nddotedu",
+      "publishedAt": "2007-03-29T13:51:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjsooRN5dHS0XGWPHhoZ0Q8AeXo8T6K9Fy3HA5ww=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjsooRN5dHS0XGWPHhoZ0Q8AeXo8T6K9Fy3HA5ww=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjsooRN5dHS0XGWPHhoZ0Q8AeXo8T6K9Fy3HA5ww=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "University of Notre Dame",
+        "description": "The University of Notre Dame, founded in 1842 by a priest of the Congregation of Holy Cross, is an independent, national Catholic university located in Notre Dame, Indiana, adjacent to the city of South Bend and approximately 90 miles east of Chicago."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFxceKSCxIpEYlBKlryO6uw"
+      }
+    },
+    "statistics": {
+      "viewCount": "21498755",
+      "subscriberCount": "41600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1158"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "University of Notre Dame",
+        "description": "The University of Notre Dame, founded in 1842 by a priest of the Congregation of Holy Cross, is an independent, national Catholic university located in Notre Dame, Indiana, adjacent to the city of South Bend and approximately 90 miles east of Chicago.",
+        "keywords": "notre dame university higher education college scholar official public affairs south bend du lac \"notre dame\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "zXqhbHfrj-c",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/pYhbfJk3Orj8TFgKojd0K-1zxyz0J6i9pLZsNkUZffpmFWhD1IFcLWlOgEr2JG_BqYKhpJr2Iw"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCe4_UPAmhz2sqorGbF8oZHA",
+  "retrieved_on": "2021-12-05 03:47:28.552323",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "I8q_qgu73jXYUykB8scTChM5PYM",
+    "id": "UCe4_UPAmhz2sqorGbF8oZHA",
+    "snippet": {
+      "title": "Luke Stephens",
+      "description": "A channel committed to deep diving into the intricacies of the gaming industry. Game news, reviews, game critiques, analyses, and extensive rants.",
+      "customUrl": "lukestephenstv",
+      "publishedAt": "2009-11-15T22:04:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVWoSMYeFA4d1aumvcx_C6dkK9dhOYeCG_1GB6IA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVWoSMYeFA4d1aumvcx_C6dkK9dhOYeCG_1GB6IA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVWoSMYeFA4d1aumvcx_C6dkK9dhOYeCG_1GB6IA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Luke Stephens",
+        "description": "A channel committed to deep diving into the intricacies of the gaming industry. Game news, reviews, game critiques, analyses, and extensive rants."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUe4_UPAmhz2sqorGbF8oZHA"
+      }
+    },
+    "statistics": {
+      "viewCount": "37494254",
+      "subscriberCount": "232000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "403"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Luke Stephens",
+        "description": "A channel committed to deep diving into the intricacies of the gaming industry. Game news, reviews, game critiques, analyses, and extensive rants.",
+        "keywords": "\"luke stephens\" gaming critique review \"assassins creed\" \"the witcher 3\" uncharted \"the last of us\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "HTSjbkTabpI",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/G64I5yWHhJ7Cg4iT8Ma8iZhNBiqSM-nRiIioqu_LcqryULyRvEx3gEU7-RA8iwLCkoeEd94Lxg"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCOXozGixyiY0yMnaUDmByCA",
+  "retrieved_on": "2021-12-05 03:47:36.809244",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ZfhWIZ6Rwy_1rdHuYO8cgjV173k",
+    "id": "UCOXozGixyiY0yMnaUDmByCA",
+    "snippet": {
+      "title": "Electron Dance",
+      "description": "Electron Dance produces thoughtful short films about videogames. Always something in the works - never sure when it's going to hit the channel, though!",
+      "customUrl": "electrondance",
+      "publishedAt": "2007-05-27T13:44:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNdTex78Je2fxa5KdoMAiMCs4Vw71JbqEa4PGI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNdTex78Je2fxa5KdoMAiMCs4Vw71JbqEa4PGI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNdTex78Je2fxa5KdoMAiMCs4Vw71JbqEa4PGI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Electron Dance",
+        "description": "Electron Dance produces thoughtful short films about videogames. Always something in the works - never sure when it's going to hit the channel, though!"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOXozGixyiY0yMnaUDmByCA"
+      }
+    },
+    "statistics": {
+      "viewCount": "374041",
+      "subscriberCount": "5300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "63"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Electron Dance",
+        "description": "Electron Dance produces thoughtful short films about videogames. Always something in the works - never sure when it's going to hit the channel, though!",
+        "keywords": "videogames",
+        "trackingAnalyticsAccountId": "UA-21838212-2",
+        "unsubscribedTrailer": "2fDUFVu5seg",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/2vP7BEXSy18ndRm1L2_uQXW4Cjtup7Pnndj30El4uQ3e_zXOhrN9GYl_MV5AmPdQPu7yLCccig"
+      }
+    }
+  }
+}

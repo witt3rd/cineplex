@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCG1uayRlzz3ahT8ISRdyw7Q",
+  "retrieved_on": "2021-12-05 03:47:31.805404",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rKNn0o1GXVWZiawtPLWUJPi9CTY",
+    "id": "UCG1uayRlzz3ahT8ISRdyw7Q",
+    "snippet": {
+      "title": "Genetically Modified Skeptic",
+      "description": "I'm an atheist, but even more than that, I'm a skeptic. I have strict standards of evidence, and hold doubt as a virtue. To those skeptical toward religion: I urge you to apply similar rationality to the claims of alternative medicine and other pseudo-science. To religious individuals who are skeptical toward pseudo-science: I implore you to extend your skepticism into the realm of faith. Evaluate claims, demand evidence, scrutinize the absurd, and stay skeptical.\n\n\nThe email address below is for professional inquiries only.",
+      "customUrl": "geneticallymodifiedskeptic",
+      "publishedAt": "2017-01-13T19:07:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQH_aNrvBBf5h18ThG6x8Nc54ys1yxbMTLhC7hhcQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQH_aNrvBBf5h18ThG6x8Nc54ys1yxbMTLhC7hhcQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQH_aNrvBBf5h18ThG6x8Nc54ys1yxbMTLhC7hhcQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Genetically Modified Skeptic",
+        "description": "I'm an atheist, but even more than that, I'm a skeptic. I have strict standards of evidence, and hold doubt as a virtue. To those skeptical toward religion: I urge you to apply similar rationality to the claims of alternative medicine and other pseudo-science. To religious individuals who are skeptical toward pseudo-science: I implore you to extend your skepticism into the realm of faith. Evaluate claims, demand evidence, scrutinize the absurd, and stay skeptical.\n\n\nThe email address below is for professional inquiries only."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUG1uayRlzz3ahT8ISRdyw7Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "46880582",
+      "subscriberCount": "463000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "129"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Genetically Modified Skeptic",
+        "description": "I'm an atheist, but even more than that, I'm a skeptic. I have strict standards of evidence, and hold doubt as a virtue. To those skeptical toward religion: I urge you to apply similar rationality to the claims of alternative medicine and other pseudo-science. To religious individuals who are skeptical toward pseudo-science: I implore you to extend your skepticism into the realm of faith. Evaluate claims, demand evidence, scrutinize the absurd, and stay skeptical.\n\n\nThe email address below is for professional inquiries only.",
+        "keywords": "atheism skepticism religion atheist agnostic skeptic pseudoscience alternative medicine positive essential oils godless freethinker freethought DFW Texas genetically modified GMO activist activism debunk debunked critical thinking humanist humanism",
+        "unsubscribedTrailer": "j93haB27zI4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/6w5lExeWY_ROS9CcwaPKxw1i9rXzP3YQ_GVZYi4aSnBWfpqLcZCnTNmL2-fspCQayAL4RH_uhA"
+      }
+    }
+  }
+}

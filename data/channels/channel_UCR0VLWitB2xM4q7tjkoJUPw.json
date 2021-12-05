@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCR0VLWitB2xM4q7tjkoJUPw",
+  "retrieved_on": "2021-12-05 03:47:38.478898",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "s9OIJAzTZO854TGefo_SqWBiHoA",
+    "id": "UCR0VLWitB2xM4q7tjkoJUPw",
+    "snippet": {
+      "title": "Vlog Creations",
+      "description": "This channels first intention is to provide entertainment through a balance of comedy, courage, creativity and consideration in a consistent manner. My desire, and ultimate intent, is that nobody feels attacked or upset as a result of our jokes. While we realize that this does happen sometimes due to the nature of our performances, continuous effort to entertain is always the first priority.\n\nSecond, I want you to feel personally connected to me by being open about my thoughts, emotions, vulnerabilities, and advice I believe to be worth sharing. I want your life to improve as a result of watching these videos. I want to inspire you to not be afraid of pursuing what you want. I want to give you hope and tangible solutions for the conflicts in your life that seem impossible. Every video will not embody all these intentions. The channel, as a whole, will strive for this each and every day.",
+      "customUrl": "vlogcreations",
+      "publishedAt": "2016-11-29T18:48:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQRxBs-EHSGoD_MTirvQWAQ3Q0zBLc0p25QJulO=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQRxBs-EHSGoD_MTirvQWAQ3Q0zBLc0p25QJulO=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQRxBs-EHSGoD_MTirvQWAQ3Q0zBLc0p25QJulO=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Vlog Creations",
+        "description": "This channels first intention is to provide entertainment through a balance of comedy, courage, creativity and consideration in a consistent manner. My desire, and ultimate intent, is that nobody feels attacked or upset as a result of our jokes. While we realize that this does happen sometimes due to the nature of our performances, continuous effort to entertain is always the first priority.\n\nSecond, I want you to feel personally connected to me by being open about my thoughts, emotions, vulnerabilities, and advice I believe to be worth sharing. I want your life to improve as a result of watching these videos. I want to inspire you to not be afraid of pursuing what you want. I want to give you hope and tangible solutions for the conflicts in your life that seem impossible. Every video will not embody all these intentions. The channel, as a whole, will strive for this each and every day."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUR0VLWitB2xM4q7tjkoJUPw"
+      }
+    },
+    "statistics": {
+      "viewCount": "659395083",
+      "subscriberCount": "3110000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "353"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Vlog Creations",
+        "description": "This channels first intention is to provide entertainment through a balance of comedy, courage, creativity and consideration in a consistent manner. My desire, and ultimate intent, is that nobody feels attacked or upset as a result of our jokes. While we realize that this does happen sometimes due to the nature of our performances, continuous effort to entertain is always the first priority.\n\nSecond, I want you to feel personally connected to me by being open about my thoughts, emotions, vulnerabilities, and advice I believe to be worth sharing. I want your life to improve as a result of watching these videos. I want to inspire you to not be afraid of pursuing what you want. I want to give you hope and tangible solutions for the conflicts in your life that seem impossible. Every video will not embody all these intentions. The channel, as a whole, will strive for this each and every day.",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/CcsJ_sVx5_UPSPbDnkmo4ied4rlIKrDZKTtj_rEjxP_M0xnUP_B6vhNK6fpG3602LUIVF_zXSgk"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCD9GOFU87O9OMKuEVs-IyBQ",
+  "retrieved_on": "2021-12-05 03:47:30.682783",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lIn0yi1DveblznYJJThgqBHqWjs",
+    "id": "UCD9GOFU87O9OMKuEVs-IyBQ",
+    "snippet": {
+      "title": "vekmehel ofkirr",
+      "description": "",
+      "publishedAt": "2014-12-20T20:36:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRRv1KRTUZ2tct2LTNpUpePFWcy5hgG27yJv6fz=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRRv1KRTUZ2tct2LTNpUpePFWcy5hgG27yJv6fz=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRRv1KRTUZ2tct2LTNpUpePFWcy5hgG27yJv6fz=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "vekmehel ofkirr",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUD9GOFU87O9OMKuEVs-IyBQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "3457669",
+      "subscriberCount": "24600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "vekmehel ofkirr"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCf5Rzk7DofjZctBGDzcRVRA",
+  "retrieved_on": "2021-12-05 03:47:30.163052",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YYzqNZxF-oU7_pmdeHFBFYIuAmU",
+    "id": "UCf5Rzk7DofjZctBGDzcRVRA",
+    "snippet": {
+      "title": "Sebastian Schuchmann",
+      "description": "A.I. and Machine Learning for everybody!  Sometimes I am teaching machines how to play games via Reinforcement Learning in Unity3D and sometimes I am exploring the deep history of A.I. \n\nThe tools I use: Unity3D with ML-Agents.",
+      "customUrl": "sebastianschuchmannai",
+      "publishedAt": "2017-06-17T17:38:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMZG5BP4Q-aZVyq6nj1BGcQSn-7qzxUj5zJH49WHk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMZG5BP4Q-aZVyq6nj1BGcQSn-7qzxUj5zJH49WHk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMZG5BP4Q-aZVyq6nj1BGcQSn-7qzxUj5zJH49WHk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sebastian Schuchmann",
+        "description": "A.I. and Machine Learning for everybody!  Sometimes I am teaching machines how to play games via Reinforcement Learning in Unity3D and sometimes I am exploring the deep history of A.I. \n\nThe tools I use: Unity3D with ML-Agents."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUf5Rzk7DofjZctBGDzcRVRA"
+      }
+    },
+    "statistics": {
+      "viewCount": "362724",
+      "subscriberCount": "7850",
+      "hiddenSubscriberCount": false,
+      "videoCount": "34"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sebastian Schuchmann",
+        "description": "A.I. and Machine Learning for everybody!  Sometimes I am teaching machines how to play games via Reinforcement Learning in Unity3D and sometimes I am exploring the deep history of A.I. \n\nThe tools I use: Unity3D with ML-Agents.",
+        "keywords": "AI \"Artificial Intelligence\" \"Machine Learning\" \"Reinforcement Learning\" \"AI LEARNS\" Unity3D ML-Agents PPO ML Games"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/2gIcRH6ErzLwzZ5ONBxx4b07TaqsSz_boJ7h2DVknFWPC_B9izaGUIuXJw4RoIXj-5SjmsGH9w"
+      }
+    }
+  }
+}

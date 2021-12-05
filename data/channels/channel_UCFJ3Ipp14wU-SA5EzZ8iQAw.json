@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCFJ3Ipp14wU-SA5EzZ8iQAw",
+  "retrieved_on": "2021-12-05 03:47:35.580917",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nzRoYNxUviwjHsOcau9mxKYKspU",
+    "id": "UCFJ3Ipp14wU-SA5EzZ8iQAw",
+    "snippet": {
+      "title": "Rex Mundi",
+      "description": "Things. Because.",
+      "publishedAt": "2014-04-08T14:02:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNEE1reIbI5OM_9-mgpy6RA2aepyc28GQdTe8wjA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNEE1reIbI5OM_9-mgpy6RA2aepyc28GQdTe8wjA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNEE1reIbI5OM_9-mgpy6RA2aepyc28GQdTe8wjA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rex Mundi",
+        "description": "Things. Because."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFJ3Ipp14wU-SA5EzZ8iQAw"
+      }
+    },
+    "statistics": {
+      "viewCount": "144586",
+      "hiddenSubscriberCount": true,
+      "videoCount": "1"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rex Mundi",
+        "description": "Things. Because.",
+        "keywords": "Things gaming games"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/YulkIkuwweY4IH70IPFCev2aqoKXEP6HlCnT7p2j6YKLQEnLFo_C6YI_VH5t7oH8m35lskVyJA"
+      }
+    }
+  }
+}

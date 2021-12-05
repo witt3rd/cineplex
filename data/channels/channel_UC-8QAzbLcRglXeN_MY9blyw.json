@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC-8QAzbLcRglXeN_MY9blyw",
+  "retrieved_on": "2021-12-05 03:47:28.552313",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "_k3Kc-YWqFgy9OZ0IZMoKlog9Bw",
+    "id": "UC-8QAzbLcRglXeN_MY9blyw",
+    "snippet": {
+      "title": "Ben Awad",
+      "description": "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
+      "customUrl": "benawad97",
+      "publishedAt": "2011-10-01T14:10:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ben Awad",
+        "description": "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU-8QAzbLcRglXeN_MY9blyw"
+      }
+    },
+    "statistics": {
+      "viewCount": "32889956",
+      "subscriberCount": "365000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1093"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ben Awad",
+        "description": "I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",
+        "keywords": "react graphql typescript",
+        "unsubscribedTrailer": "bx3--22D4E4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/0NtgPTTqEsh9HDZAyHqn-1oYjw5AV9YGEH11MA1--lq9ksTwPJPpS2JH5PFwdU9LBxQ3AU_aEg"
+      }
+    }
+  }
+}

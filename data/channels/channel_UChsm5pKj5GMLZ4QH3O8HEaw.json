@@ -1,0 +1,61 @@
+{
+  "channel_id": "UChsm5pKj5GMLZ4QH3O8HEaw",
+  "retrieved_on": "2021-12-05 03:47:38.478812",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HrSfXWmhRLZ6yR1u7LlErDmPlVA",
+    "id": "UChsm5pKj5GMLZ4QH3O8HEaw",
+    "snippet": {
+      "title": "Quest Mode",
+      "description": "Quest Mode is a channel where you can enjoy high-quality, independent gaming content that is safe for work and focused on console platforms..",
+      "customUrl": "questmode",
+      "publishedAt": "2015-03-27T04:51:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoULxaE-dQa43I_-PHXRynvJZbbyLnBTUU2rFBQQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoULxaE-dQa43I_-PHXRynvJZbbyLnBTUU2rFBQQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoULxaE-dQa43I_-PHXRynvJZbbyLnBTUU2rFBQQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Quest Mode",
+        "description": "Quest Mode is a channel where you can enjoy high-quality, independent gaming content that is safe for work and focused on console platforms.."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhsm5pKj5GMLZ4QH3O8HEaw"
+      }
+    },
+    "statistics": {
+      "viewCount": "14513977",
+      "subscriberCount": "74300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "105"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Quest Mode",
+        "description": "Quest Mode is a channel where you can enjoy high-quality, independent gaming content that is safe for work and focused on console platforms..",
+        "moderateComments": true,
+        "unsubscribedTrailer": "8JxgCH_Ctu4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Tq-FSOGxQ0ziriy3YkpO8t-d9b-GYO-052wtZO-r1WQnDhPRrdnKmJCUYxZkiMkc8kGyxF2V"
+      }
+    }
+  }
+}

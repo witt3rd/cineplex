@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCcVClhnvO2PaYoiJstwphpg",
+  "retrieved_on": "2021-12-05 03:47:39.693645",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4aD-dZspgXesX0IC6IjQkJo7KpQ",
+    "id": "UCcVClhnvO2PaYoiJstwphpg",
+    "snippet": {
+      "title": "dyc3",
+      "description": "I like to code. I also make music.",
+      "customUrl": "rollthedyc3",
+      "publishedAt": "2018-11-06T20:07:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-7YFXTPPT6s2JBJW2XA2BNxzXccnefmhXpSDQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-7YFXTPPT6s2JBJW2XA2BNxzXccnefmhXpSDQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-7YFXTPPT6s2JBJW2XA2BNxzXccnefmhXpSDQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "dyc3",
+        "description": "I like to code. I also make music."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUcVClhnvO2PaYoiJstwphpg"
+      }
+    },
+    "statistics": {
+      "viewCount": "970620",
+      "subscriberCount": "16700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "dyc3",
+        "description": "I like to code. I also make music.",
+        "keywords": "music edm software programming",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7nhPkUqA_ijD1UkxIQ-hIOooikTru9ttzXtvo2lYv22Hr4gFtGuE7vRUAsoX-DkAgqgNQHndb6E"
+      }
+    }
+  }
+}

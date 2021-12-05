@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+  "retrieved_on": "2021-12-05 03:47:28.057558",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YE7qjZ6FvVvF4vL0KPLJesVls-E",
+    "id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+    "snippet": {
+      "title": "Hacksmith Industries",
+      "description": "We take fictional ideas from movies, video games & comics, and make real working prototypes!\n\nI quit my full-time job as an engineer and product developer to make only the coolest inventions -- just for you guys -- right here on YouTube. We show the engineering process of making our projects to inspire others into STEM fields, and to show that anything is possible with science!\n\nPlease send media inquires through https://www.hacksmith.tech/contact\n\nFor FAQ please visit https://www.hacksmith.tech/faq",
+      "customUrl": "thehacksmith",
+      "publishedAt": "2006-04-20T20:46:43Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIVmGmKNu2nQxFdqnAFnX4Dlul1aQ8zOnszBuw8g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIVmGmKNu2nQxFdqnAFnX4Dlul1aQ8zOnszBuw8g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIVmGmKNu2nQxFdqnAFnX4Dlul1aQ8zOnszBuw8g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Hacksmith Industries",
+        "description": "We take fictional ideas from movies, video games & comics, and make real working prototypes!\n\nI quit my full-time job as an engineer and product developer to make only the coolest inventions -- just for you guys -- right here on YouTube. We show the engineering process of making our projects to inspire others into STEM fields, and to show that anything is possible with science!\n\nPlease send media inquires through https://www.hacksmith.tech/contact\n\nFor FAQ please visit https://www.hacksmith.tech/faq"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUjgpFI5dU-D1-kh9H1muoxQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1219695967",
+      "subscriberCount": "12300000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "713"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Hacksmith Industries",
+        "description": "We take fictional ideas from movies, video games & comics, and make real working prototypes!\n\nI quit my full-time job as an engineer and product developer to make only the coolest inventions -- just for you guys -- right here on YouTube. We show the engineering process of making our projects to inspire others into STEM fields, and to show that anything is possible with science!\n\nPlease send media inquires through https://www.hacksmith.tech/contact\n\nFor FAQ please visit https://www.hacksmith.tech/faq",
+        "keywords": "DIY props cosplay prop replicas tech engineering gadgets make it real prototyping marvel \"make it real\" science \"prop replicas\" \"real working props\" \"extreme cosplay\" \"stark industries\" \"hacksmith industries\" \"real life tony stark\" technology \"real life iron man\"",
+        "trackingAnalyticsAccountId": "UA-79392132-2",
+        "moderateComments": true,
+        "unsubscribedTrailer": "Su-kyDfcs1w",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/VGD2JfONKqeoHgzeAC7BhzLw-V_YwfoZkStg_Ul5oOK_2aQK6bL6NckNgGz08gRmx_Pp2qI"
+      }
+    }
+  }
+}

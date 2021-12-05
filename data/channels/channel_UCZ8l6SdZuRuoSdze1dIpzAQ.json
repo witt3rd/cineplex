@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCZ8l6SdZuRuoSdze1dIpzAQ",
+  "retrieved_on": "2021-12-05 03:47:39.473141",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-D8-XJ_re4tKu-6PW99naoBW5CI",
+    "id": "UCZ8l6SdZuRuoSdze1dIpzAQ",
+    "snippet": {
+      "title": "Chromatogiraffery",
+      "description": "Hi I'm Chris and I'm a chemistry phd student with a love for scientific instrumentation!\n\nMostly chromatography and particle spectroscopy. Design and construction of scientific instruments, spectrometers and such.\n\nFeel free to send me an email! \nStick around!",
+      "publishedAt": "2018-09-19T21:52:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2yKKeZ7mGGMasvjx-VxcZgPgAvI35hIOqreKS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2yKKeZ7mGGMasvjx-VxcZgPgAvI35hIOqreKS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2yKKeZ7mGGMasvjx-VxcZgPgAvI35hIOqreKS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Chromatogiraffery",
+        "description": "Hi I'm Chris and I'm a chemistry phd student with a love for scientific instrumentation!\n\nMostly chromatography and particle spectroscopy. Design and construction of scientific instruments, spectrometers and such.\n\nFeel free to send me an email! \nStick around!"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZ8l6SdZuRuoSdze1dIpzAQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "32302",
+      "subscriberCount": "507",
+      "hiddenSubscriberCount": false,
+      "videoCount": "11"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chromatogiraffery",
+        "description": "Hi I'm Chris and I'm a chemistry phd student with a love for scientific instrumentation!\n\nMostly chromatography and particle spectroscopy. Design and construction of scientific instruments, spectrometers and such.\n\nFeel free to send me an email! \nStick around!",
+        "keywords": "\"DIY science\" \"DIY physics\" \"DIY particle accelerator\" \"particle accelerator\" \"diy chemistry\" \"mass spectrometer\" \"high vacuum\" \"ultrahigh vacuum\" diy science physics \"experimental physics\" \"particle physics\" \"diy particle physics\" chromatography \"gas chromatography\" \"diy gas chromatograph\" \"vacuum pump\" \"diy vacuum pump\" \"diy vacuum gauge\" \"homemade scientific\" \"scientific instruments\" \"gamma spectroscopy\" spectroscopy spectrometry spectrometer \"nim bin\" \"nuclear instrumentation\" nucleonics"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/lWWsqtOmpJKmfP85d0nnrS8rllXQMVyVKJ9y0hgpxSXZ7EJD4vsW0KIi3wexs9TKonLcrYhzrw"
+      }
+    }
+  }
+}

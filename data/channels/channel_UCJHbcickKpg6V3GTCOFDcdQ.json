@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCJHbcickKpg6V3GTCOFDcdQ",
+  "retrieved_on": "2021-12-05 03:47:33.604485",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "yG4ZK4PtBjXbppl6A9A0K_UaPRI",
+    "id": "UCJHbcickKpg6V3GTCOFDcdQ",
+    "snippet": {
+      "title": "Reboot Develop",
+      "description": "The most high-end and unique game developers and games industry conference in Europe in it's fifth edition will be gathering absolutely top notch speaker lineup of 100+ speakers and more then 1500+ attendees!\n\nIt will be taking place from 19th to 21st of April 2018 in legendary city of Dubrovnik at luxurious Sheraton Dubrovnik resort.",
+      "customUrl": "rebootdevelop",
+      "publishedAt": "2017-05-09T09:21:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLStTljDA-D8Xe0-EbtreCk4rrp17KDgQHwvYCe2PA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLStTljDA-D8Xe0-EbtreCk4rrp17KDgQHwvYCe2PA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLStTljDA-D8Xe0-EbtreCk4rrp17KDgQHwvYCe2PA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Reboot Develop",
+        "description": "The most high-end and unique game developers and games industry conference in Europe in it's fifth edition will be gathering absolutely top notch speaker lineup of 100+ speakers and more then 1500+ attendees!\n\nIt will be taking place from 19th to 21st of April 2018 in legendary city of Dubrovnik at luxurious Sheraton Dubrovnik resort."
+      },
+      "country": "HR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJHbcickKpg6V3GTCOFDcdQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "127188",
+      "subscriberCount": "819",
+      "hiddenSubscriberCount": false,
+      "videoCount": "39"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Reboot Develop",
+        "description": "The most high-end and unique game developers and games industry conference in Europe in it's fifth edition will be gathering absolutely top notch speaker lineup of 100+ speakers and more then 1500+ attendees!\n\nIt will be taking place from 19th to 21st of April 2018 in legendary city of Dubrovnik at luxurious Sheraton Dubrovnik resort.",
+        "keywords": "\"game developers conference\" \"games industry conferences\" \"games industry\" \"game developers\" gaming",
+        "unsubscribedTrailer": "R7bOAEEyCfI",
+        "country": "HR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/kLO03mbl8BMIjSDIK9yoNPV0JsNuKrguI8ALBmAkYWzKYMApjBuzaJ6FptITpSLWt1iYoxxaTiM"
+      }
+    }
+  }
+}

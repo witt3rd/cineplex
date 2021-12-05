@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCSnqXeK94-iNmwqGO__eJ5g",
+  "retrieved_on": "2021-12-05 03:47:39.693554",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "XD3Q-IPNGx5L6zZLCc3dZtJkjCU",
+    "id": "UCSnqXeK94-iNmwqGO__eJ5g",
+    "snippet": {
+      "title": "Steve Wallis",
+      "description": "ABC, Always be camping. Welcome to my channel! I camp all the time. I\u2019ve lived in vehicles, motorhomes, tents, forests, and in down by the river! I boondock, backpack, cycle, gold mine, raft, and car camp my way around Canada. I camp 4 seasons in some of the coldest places inhabited by man. I\u2019m no survivalist, but I try to avoid public campgrounds. I\u2019m usually up to something strange and genuinely interesting to the outdoors crowd. Check it out!\n\nYes, after many requests... I have made T-shirts and Hoodies Available. You can grab one here if you are interested! \nhttps://www.bonfire.com/store/steve-wallis-camping\nhttps://teespring.com/campingwithsteve\n\n\nBitcoin: \n\n1H6DCJdXADYRPPvto8yNexrV6guenDxAUz\n\nMailing Address:\n",
+      "customUrl": "thestevewallis",
+      "publishedAt": "2010-04-19T21:50:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTExZG7_ogo-414XtvqNHvxZ3bXLElyxzGcXEWW2Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTExZG7_ogo-414XtvqNHvxZ3bXLElyxzGcXEWW2Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTExZG7_ogo-414XtvqNHvxZ3bXLElyxzGcXEWW2Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Steve Wallis",
+        "description": "ABC, Always be camping. Welcome to my channel! I camp all the time. I\u2019ve lived in vehicles, motorhomes, tents, forests, and in down by the river! I boondock, backpack, cycle, gold mine, raft, and car camp my way around Canada. I camp 4 seasons in some of the coldest places inhabited by man. I\u2019m no survivalist, but I try to avoid public campgrounds. I\u2019m usually up to something strange and genuinely interesting to the outdoors crowd. Check it out!\n\nYes, after many requests... I have made T-shirts and Hoodies Available. You can grab one here if you are interested! \nhttps://www.bonfire.com/store/steve-wallis-camping\nhttps://teespring.com/campingwithsteve\n\n\nBitcoin: \n\n1H6DCJdXADYRPPvto8yNexrV6guenDxAUz\n\nMailing Address:\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUSnqXeK94-iNmwqGO__eJ5g"
+      }
+    },
+    "statistics": {
+      "viewCount": "108374297",
+      "subscriberCount": "756000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "225"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Steve Wallis",
+        "description": "ABC, Always be camping. Welcome to my channel! I camp all the time. I\u2019ve lived in vehicles, motorhomes, tents, forests, and in down by the river! I boondock, backpack, cycle, gold mine, raft, and car camp my way around Canada. I camp 4 seasons in some of the coldest places inhabited by man. I\u2019m no survivalist, but I try to avoid public campgrounds. I\u2019m usually up to something strange and genuinely interesting to the outdoors crowd. Check it out!\n\nYes, after many requests... I have made T-shirts and Hoodies Available. You can grab one here if you are interested! \nhttps://www.bonfire.com/store/steve-wallis-camping\nhttps://teespring.com/campingwithsteve\n\n\nBitcoin: \n\n1H6DCJdXADYRPPvto8yNexrV6guenDxAUz\n\nMailing Address:\n",
+        "keywords": "camping boondocking tent \"camping with steve\" diy \"stealth camping\" \"winter camping\" outdoors \"hunker down\" \"wood stove\" \"step 2\" \"steve wallis\" stealth",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/AAiIxDlrZo1jqA8KV13_9vaHFNBjhIE0vikzKuj3AgEKaT5AjFM85KX7uTeyyrmMukPgggCoiu0"
+      }
+    }
+  }
+}

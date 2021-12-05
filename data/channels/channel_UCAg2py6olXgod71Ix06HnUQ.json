@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCAg2py6olXgod71Ix06HnUQ",
+  "retrieved_on": "2021-12-05 03:47:36.814716",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "tYpQpDR9xug8YA50P8yT8ihIDXc",
+    "id": "UCAg2py6olXgod71Ix06HnUQ",
+    "snippet": {
+      "title": "Tarodev",
+      "description": "Develop video games like a pro!\n\nWhether you're a beginner or a seasoned game developer, you'll find lots of useful tips and tricks to boost your development career. \n\nDISCORD: https://discord.gg/GqeHHnhHpz\n",
+      "customUrl": "tarodev",
+      "publishedAt": "2021-01-24T04:21:46.915185Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/sAJdevQrqluwcQjxKSS10LvrqkfuoIoBN0JFrxVbO4yhAKr5oWsf_95X_5ZXMwmk7dg-sKMi=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/sAJdevQrqluwcQjxKSS10LvrqkfuoIoBN0JFrxVbO4yhAKr5oWsf_95X_5ZXMwmk7dg-sKMi=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/sAJdevQrqluwcQjxKSS10LvrqkfuoIoBN0JFrxVbO4yhAKr5oWsf_95X_5ZXMwmk7dg-sKMi=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tarodev",
+        "description": "Develop video games like a pro!\n\nWhether you're a beginner or a seasoned game developer, you'll find lots of useful tips and tricks to boost your development career. \n\nDISCORD: https://discord.gg/GqeHHnhHpz\n"
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUAg2py6olXgod71Ix06HnUQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "376697",
+      "subscriberCount": "9180",
+      "hiddenSubscriberCount": false,
+      "videoCount": "65"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tarodev",
+        "description": "Develop video games like a pro!\n\nWhether you're a beginner or a seasoned game developer, you'll find lots of useful tips and tricks to boost your development career. \n\nDISCORD: https://discord.gg/GqeHHnhHpz\n",
+        "keywords": "tarodev unity unity3d tutorial game c# introduction code coding develop \"game development\" \"game dev\"",
+        "unsubscribedTrailer": "7EZ2F-TzHYw",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/0pylW9nM9vS6RY2sZj6zY4G46bdWu3JJual1S7fK8SzXyd7F75FZBo73NDmXrCsuuYRgoAPW"
+      }
+    }
+  }
+}

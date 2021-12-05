@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCkeJqeBQOwpN3MsomDAKy1g",
+  "retrieved_on": "2021-12-05 03:47:30.960812",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "SVfnEElIDgIf0fyyjRdPSUlJ49E",
+    "id": "UCkeJqeBQOwpN3MsomDAKy1g",
+    "snippet": {
+      "title": "EMH Music",
+      "description": "EMH Music | Electro - Minimal - House is a French music network devoted to promote artists & labels dedicated to bringing you a large variety of Electronic Music.",
+      "customUrl": "emhmusicpromo",
+      "publishedAt": "2012-08-28T21:31:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyFn00Wnle79gU2a8FjRGsY09xU2lEe0L9hU7n7A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyFn00Wnle79gU2a8FjRGsY09xU2lEe0L9hU7n7A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyFn00Wnle79gU2a8FjRGsY09xU2lEe0L9hU7n7A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "EMH Music",
+        "description": "EMH Music | Electro - Minimal - House is a French music network devoted to promote artists & labels dedicated to bringing you a large variety of Electronic Music."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkeJqeBQOwpN3MsomDAKy1g"
+      }
+    },
+    "statistics": {
+      "viewCount": "76975836",
+      "subscriberCount": "349000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "74"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "EMH Music",
+        "description": "EMH Music | Electro - Minimal - House is a French music network devoted to promote artists & labels dedicated to bringing you a large variety of Electronic Music.",
+        "keywords": "\"electro minimal house\" music \"electro house\" complextro \"electro music\" edm \"minimal techno\" \"tech house\" \"glitch hop\" \"deep house\" deep \"tropical house\" \"future house\" bass promo techno dubstep 2014 2015 2016 monstercat proximity melbourne bounce overwerk n'to worakls \"virtual riot\" minecraft games",
+        "trackingAnalyticsAccountId": "UA-31992382-1",
+        "unsubscribedTrailer": "zRPIXNKPD-k",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/BB2jqewAqMDu8xW3aFENKkvPxuASty_R05h3TVfHxgaisVeNHLdQQZ7EqA9ZgEsLudtZDuPRpf8"
+      }
+    }
+  }
+}

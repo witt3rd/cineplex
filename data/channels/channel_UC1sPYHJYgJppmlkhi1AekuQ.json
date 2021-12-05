@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC1sPYHJYgJppmlkhi1AekuQ",
+  "retrieved_on": "2021-12-05 03:47:40.292832",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "_l0uRXazQN6Ch9re-5Mwlrq10Nc",
+    "id": "UC1sPYHJYgJppmlkhi1AekuQ",
+    "snippet": {
+      "title": "AmplifyDIY",
+      "description": "I'm constantly building or fixing something, and love to share my processes and what I learn with you.\n\nCome along and let's build something together!\n\nDISCLAIMER: While every effort is made to show correct and safe procedures and practices, follow these video guides at your own risk. AmplifyDIY and YouTube will not be held liable for any damage, injury, or negative outcome of any kind that results from following the steps presented in these videos. Try anything you see on this channel at your own risk. If you are ever in doubt about your abilities and resources, it's always better to consult a professional. \n\nRemember to have fun!",
+      "customUrl": "amplifydiy",
+      "publishedAt": "2018-03-12T23:57:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTuNMzWBA9rbjDNIjRDv9YH1ILYOaLUeLRl4Aoo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTuNMzWBA9rbjDNIjRDv9YH1ILYOaLUeLRl4Aoo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTuNMzWBA9rbjDNIjRDv9YH1ILYOaLUeLRl4Aoo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AmplifyDIY",
+        "description": "I'm constantly building or fixing something, and love to share my processes and what I learn with you.\n\nCome along and let's build something together!\n\nDISCLAIMER: While every effort is made to show correct and safe procedures and practices, follow these video guides at your own risk. AmplifyDIY and YouTube will not be held liable for any damage, injury, or negative outcome of any kind that results from following the steps presented in these videos. Try anything you see on this channel at your own risk. If you are ever in doubt about your abilities and resources, it's always better to consult a professional. \n\nRemember to have fun!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU1sPYHJYgJppmlkhi1AekuQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "13892247",
+      "subscriberCount": "96300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "74"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "AmplifyDIY",
+        "description": "I'm constantly building or fixing something, and love to share my processes and what I learn with you.\n\nCome along and let's build something together!\n\nDISCLAIMER: While every effort is made to show correct and safe procedures and practices, follow these video guides at your own risk. AmplifyDIY and YouTube will not be held liable for any damage, injury, or negative outcome of any kind that results from following the steps presented in these videos. Try anything you see on this channel at your own risk. If you are ever in doubt about your abilities and resources, it's always better to consult a professional. \n\nRemember to have fun!",
+        "keywords": "DIY \"Do It Yourself\" Maker Woodworking Tools Creator maintenance upkeep \"preventative maintenance\" \"Home ownership\" \"home improvement\" \"learn how\" \"simple construction\" building repair \"home upgrade\" \"basic plumbing\" \"basic electrical\" \"basic concrete work\" tutorials \"in depth tutorials\" \"detailed explanations\"",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/hFkCxCTNM00-ayAsaNhaXy8OP2-asdAiYWvBWUR0By-NUhM32X0Za2nX6T4EbyVtDnxmHc21Zg"
+      }
+    }
+  }
+}

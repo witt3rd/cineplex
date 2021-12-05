@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCeIg_PnAoyd1w6y8BelLdiQ",
+  "retrieved_on": "2021-12-05 03:47:28.304288",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xg8HI80CMI9jmAqYDYkItFtRXOY",
+    "id": "UCeIg_PnAoyd1w6y8BelLdiQ",
+    "snippet": {
+      "title": "Ziverge",
+      "description": "The official YouTube channel of Ziverge Technologies.",
+      "customUrl": "ziverge",
+      "publishedAt": "2020-01-14T12:50:17.455841Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQamx_GMlmYzrf6jQbFVEYiIrtz2p6hoVjXzpeu=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQamx_GMlmYzrf6jQbFVEYiIrtz2p6hoVjXzpeu=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQamx_GMlmYzrf6jQbFVEYiIrtz2p6hoVjXzpeu=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ziverge",
+        "description": "The official YouTube channel of Ziverge Technologies."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUeIg_PnAoyd1w6y8BelLdiQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "156505",
+      "subscriberCount": "2090",
+      "hiddenSubscriberCount": false,
+      "videoCount": "90"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ziverge",
+        "description": "The official YouTube channel of Ziverge Technologies.",
+        "keywords": "scala \"functional programming\" jvm zio",
+        "country": "US"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCJOh5FKisc0hUlEeWFBlD-w",
+  "retrieved_on": "2021-12-05 03:47:30.682856",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "b5Y-aPVKWV8aIDVKBGPgCOdLvkU",
+    "id": "UCJOh5FKisc0hUlEeWFBlD-w",
+    "snippet": {
+      "title": "jan Misali",
+      "description": "I'm Mitch. in toki pona, my name is Misali, which is why I call myself \"jan Misali\". I'm non-binary (he/they), autistic, and aro/ace.\n\nthe main focus of this channel is the Conlang Critic series, which is about reviewing constructed languages. I make other videos too, which are sometimes good. I recommend not watching anything I made before 2018.\n\njan Misali is brought to you by the letter w and the number six.",
+      "customUrl": "hbmmaster",
+      "publishedAt": "2011-06-28T18:17:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT20AcvAw3P2TJT8P2s-Giz4lgpNjFyh38WNkgvxg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT20AcvAw3P2TJT8P2s-Giz4lgpNjFyh38WNkgvxg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT20AcvAw3P2TJT8P2s-Giz4lgpNjFyh38WNkgvxg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "jan Misali",
+        "description": "I'm Mitch. in toki pona, my name is Misali, which is why I call myself \"jan Misali\". I'm non-binary (he/they), autistic, and aro/ace.\n\nthe main focus of this channel is the Conlang Critic series, which is about reviewing constructed languages. I make other videos too, which are sometimes good. I recommend not watching anything I made before 2018.\n\njan Misali is brought to you by the letter w and the number six."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJOh5FKisc0hUlEeWFBlD-w"
+      }
+    },
+    "statistics": {
+      "viewCount": "19992086",
+      "subscriberCount": "183000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "166"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "jan Misali",
+        "description": "I'm Mitch. in toki pona, my name is Misali, which is why I call myself \"jan Misali\". I'm non-binary (he/they), autistic, and aro/ace.\n\nthe main focus of this channel is the Conlang Critic series, which is about reviewing constructed languages. I make other videos too, which are sometimes good. I recommend not watching anything I made before 2018.\n\njan Misali is brought to you by the letter w and the number six.",
+        "keywords": "HBMmaster HBM master TGQTSBFH Music Conlang Critic jan Misali toki pona language linguistics mashups seximal",
+        "unsubscribedTrailer": "gi1-ZWiqjD8",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/cQMgJ5_AzvBsUDvMx0SoLsnxQ6b2l7GkwyVnpPmSNA8hSRwdIPPueAswG1pIHmuVLQPnBk9mKno"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC8g0HP1M957M7l8wJQfcuWQ",
+  "retrieved_on": "2021-12-05 03:47:36.348815",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "J5UduSCjpU8LewNzOzHFZ_yL4t8",
+    "id": "UC8g0HP1M957M7l8wJQfcuWQ",
+    "snippet": {
+      "title": "Sanjay C",
+      "description": "Music production, gear, and tips. I post videos about the latest music gear including keyboards, audio interfaces, plugins, microphones, and more. I also create music production tutorials - how to make beats, how to produce tracks, and process vocals. I compare some of the best new gear out there and always brings you the latest news happening in the music production world. Sanjay C News is a one of a kind source for the latest in music gear and plugin releases, free plugins, and the best deals. Watch my Music Gear News series every Saturday morning. ",
+      "customUrl": "sanjayc",
+      "publishedAt": "2007-04-12T13:27:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSJ6E38nJAZFYa-epy0rMqPf0252PNLBFy7ZVlbptI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSJ6E38nJAZFYa-epy0rMqPf0252PNLBFy7ZVlbptI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSJ6E38nJAZFYa-epy0rMqPf0252PNLBFy7ZVlbptI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sanjay C",
+        "description": "Music production, gear, and tips. I post videos about the latest music gear including keyboards, audio interfaces, plugins, microphones, and more. I also create music production tutorials - how to make beats, how to produce tracks, and process vocals. I compare some of the best new gear out there and always brings you the latest news happening in the music production world. Sanjay C News is a one of a kind source for the latest in music gear and plugin releases, free plugins, and the best deals. Watch my Music Gear News series every Saturday morning. "
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU8g0HP1M957M7l8wJQfcuWQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "26293256",
+      "subscriberCount": "349000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "334"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sanjay C",
+        "description": "Music production, gear, and tips. I post videos about the latest music gear including keyboards, audio interfaces, plugins, microphones, and more. I also create music production tutorials - how to make beats, how to produce tracks, and process vocals. I compare some of the best new gear out there and always brings you the latest news happening in the music production world. Sanjay C News is a one of a kind source for the latest in music gear and plugin releases, free plugins, and the best deals. Watch my Music Gear News series every Saturday morning. ",
+        "keywords": "\"music production\" Seaboard \"Ableton Live\" ableton live \"electronic music\" technology gadgets \"Mobile music\" dj producer beats \"beat maker\" \"beat making\" \"home studio\" \"music education\" \"music technology\" seaboard \"native instruments\"",
+        "trackingAnalyticsAccountId": "UA-116575090-1",
+        "unsubscribedTrailer": "w-XUB7eldzo",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/srAmtncVwxezJgVXBI_sBSoxwJD43tF8mOoKJCZuHCx0u5N0v_sbtfzK7p8itS9zpwbMCcoJ"
+      }
+    }
+  }
+}

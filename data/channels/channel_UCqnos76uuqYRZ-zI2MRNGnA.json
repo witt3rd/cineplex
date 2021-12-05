@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCqnos76uuqYRZ-zI2MRNGnA",
+  "retrieved_on": "2021-12-05 03:47:39.473168",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "OZ5vHg1ULum9Gcx2VuwxQgMg290",
+    "id": "UCqnos76uuqYRZ-zI2MRNGnA",
+    "snippet": {
+      "title": "Dan Golding - Video Essays",
+      "description": "Movies, music, maybe games.",
+      "customUrl": "dangoldingvideoessays",
+      "publishedAt": "2016-09-15T09:26:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSddEMSoEb87vMRBmAa30MOdyJ0AtXn9-NDxFQj=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSddEMSoEb87vMRBmAa30MOdyJ0AtXn9-NDxFQj=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSddEMSoEb87vMRBmAa30MOdyJ0AtXn9-NDxFQj=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dan Golding - Video Essays",
+        "description": "Movies, music, maybe games."
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUqnos76uuqYRZ-zI2MRNGnA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1574414",
+      "subscriberCount": "23400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "8"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dan Golding - Video Essays",
+        "description": "Movies, music, maybe games.",
+        "keywords": "Film \"film music\" \"video essays\"",
+        "unsubscribedTrailer": "j14-dJFeaM8",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/tXY4sMNyxY9GFrtd4zcZHw7sBawQPjpWkKehZodf7k3QBlHWz4b3j7R_JumVtNdCRPa8-Ixu-RI"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "channel_id": "UC_wbVsZY1gbgrVgMbOSMCyA",
+  "retrieved_on": "2021-12-05 03:47:35.580933",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "hJreBBdD1FEfWyhnXCs8YoZw29M",
+    "id": "UC_wbVsZY1gbgrVgMbOSMCyA",
+    "snippet": {
+      "title": "Jason Gregory",
+      "description": "Jason Gregory is an author, philosopher, and spiritual teacher specializing in Eastern and Western philosophy, comparative religion, psychology, cognitive science, metaphysics, and ancient cultures. He is the author of Effortless Living, Fasting the Mind, Enlightenment Now, and The Science and Practice of Humility. For many years he has lived in Asia studying the spiritual traditions and meditative practices of Buddhism, Hinduism, and Taoism, visiting some of the most remote places in the world. \n\nThe primary focus of his work is Eastern spirituality and culture, for which he is an expert. For over a decade he has been teaching the philosophy of the East and their meditative practices, expounding the benefits of their importance in the modern world and, as a result, how they will transform our lives to live more optimally and peacefully.\n\n Visit his website http://jasongregory.org",
+      "publishedAt": "2011-01-02T10:33:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpnfnXTE4JnHecV8061BS3VVnKo6N820T7rInV_A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpnfnXTE4JnHecV8061BS3VVnKo6N820T7rInV_A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpnfnXTE4JnHecV8061BS3VVnKo6N820T7rInV_A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Jason Gregory",
+        "description": "Jason Gregory is an author, philosopher, and spiritual teacher specializing in Eastern and Western philosophy, comparative religion, psychology, cognitive science, metaphysics, and ancient cultures. He is the author of Effortless Living, Fasting the Mind, Enlightenment Now, and The Science and Practice of Humility. For many years he has lived in Asia studying the spiritual traditions and meditative practices of Buddhism, Hinduism, and Taoism, visiting some of the most remote places in the world. \n\nThe primary focus of his work is Eastern spirituality and culture, for which he is an expert. For over a decade he has been teaching the philosophy of the East and their meditative practices, expounding the benefits of their importance in the modern world and, as a result, how they will transform our lives to live more optimally and peacefully.\n\n Visit his website http://jasongregory.org"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU_wbVsZY1gbgrVgMbOSMCyA"
+      }
+    },
+    "statistics": {
+      "viewCount": "4966061",
+      "subscriberCount": "52200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "339"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jason Gregory",
+        "description": "Jason Gregory is an author, philosopher, and spiritual teacher specializing in Eastern and Western philosophy, comparative religion, psychology, cognitive science, metaphysics, and ancient cultures. He is the author of Effortless Living, Fasting the Mind, Enlightenment Now, and The Science and Practice of Humility. For many years he has lived in Asia studying the spiritual traditions and meditative practices of Buddhism, Hinduism, and Taoism, visiting some of the most remote places in the world. \n\nThe primary focus of his work is Eastern spirituality and culture, for which he is an expert. For over a decade he has been teaching the philosophy of the East and their meditative practices, expounding the benefits of their importance in the modern world and, as a result, how they will transform our lives to live more optimally and peacefully.\n\n Visit his website http://jasongregory.org",
+        "unsubscribedTrailer": "TRgoD9AV95Q"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jQHdtCgtmQtGXvRHnvxifT-i5Hj_hFjOXIqHRY8p2kQ_RN06rmB99uWUpZxxChoHdPMrgb3nwA"
+      }
+    }
+  }
+}

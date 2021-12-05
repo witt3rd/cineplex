@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCf-vkEWu0vkp3OxckYdTCcw",
+  "retrieved_on": "2021-12-05 03:47:38.208122",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4Jj7U1vEOllq82Eyj_fV1NQ8zlg",
+    "id": "UCf-vkEWu0vkp3OxckYdTCcw",
+    "snippet": {
+      "title": "Bound to Divide",
+      "description": "I produce and teach people how to produce melodic house music. Signed to Monstercat Silk, Colorize, Enormous Tunes, Sekora, and more.",
+      "customUrl": "boundtodivide",
+      "publishedAt": "2011-03-15T16:31:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRAY32zdDWW5i0Ou_6B1gqoN2Y5mqmWTnq7c4VEVQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRAY32zdDWW5i0Ou_6B1gqoN2Y5mqmWTnq7c4VEVQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRAY32zdDWW5i0Ou_6B1gqoN2Y5mqmWTnq7c4VEVQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Bound to Divide",
+        "description": "I produce and teach people how to produce melodic house music. Signed to Monstercat Silk, Colorize, Enormous Tunes, Sekora, and more."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUf-vkEWu0vkp3OxckYdTCcw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1366890",
+      "subscriberCount": "17300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "294"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Bound to Divide",
+        "description": "I produce and teach people how to produce melodic house music. Signed to Monstercat Silk, Colorize, Enormous Tunes, Sekora, and more.",
+        "keywords": "Music \"ableton tutorial\" \"deep house tutorial\" \"deep house\" \"how to make deep house in ableton\" \"ableton remake\" \"music production\"",
+        "unsubscribedTrailer": "aw9_OcBLet0",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/R4eGwLIlhJ3-qV2FZyLc_vnLRAfMAvax2n3PKf3_zml_JkfdJh_XpkxUD_KtNmeDoPIrGjtUCg"
+      }
+    }
+  }
+}

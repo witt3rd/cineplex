@@ -1,0 +1,57 @@
+{
+  "channel_id": "UC4m17sf8GYMMXutCY1dAm5Q",
+  "retrieved_on": "2021-12-05 03:47:39.473149",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "kBCaLOuXHLG3kOwcqraHSSsQ4ag",
+    "id": "UC4m17sf8GYMMXutCY1dAm5Q",
+    "snippet": {
+      "title": "Will Rosen",
+      "description": "",
+      "publishedAt": "2013-08-05T09:57:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXr0ywwJPJoxgLU3KnEcCWhO41vRcQPyZkpoZJDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXr0ywwJPJoxgLU3KnEcCWhO41vRcQPyZkpoZJDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXr0ywwJPJoxgLU3KnEcCWhO41vRcQPyZkpoZJDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Will Rosen",
+        "description": ""
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4m17sf8GYMMXutCY1dAm5Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "32985",
+      "subscriberCount": "419",
+      "hiddenSubscriberCount": false,
+      "videoCount": "18"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Will Rosen",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/RfwdUwMNX3WbfEhRZsGhwfJIfGvD2-Cu6CjcGDCme1yxse3FbCjLTToNwUgEC5rKbriRqVna0Q"
+      }
+    }
+  }
+}

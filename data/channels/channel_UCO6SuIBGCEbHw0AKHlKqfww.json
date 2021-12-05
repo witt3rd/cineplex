@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCO6SuIBGCEbHw0AKHlKqfww",
+  "retrieved_on": "2021-12-05 03:47:29.188819",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BGBtAxK9BcmYs1SFInJHJIzxMmg",
+    "id": "UCO6SuIBGCEbHw0AKHlKqfww",
+    "snippet": {
+      "title": "Seven Beats Music",
+      "description": "\u2022 Seven Beats Music \u2022 \n\nOne of the best labels you can bump into. Levitating between trip-hop & deep house, organic & oriental sound, here you'll find various selection of seamlessly mixed DJ sets, magical Spiritual Journey mixes and eclectic Coffeeshop Selections.\n\nEnjoy the vibe!\n\nContact: sevenbeatslabel@gmail.com",
+      "customUrl": "sevenbeatsmusic",
+      "publishedAt": "2008-10-15T18:03:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/OZOFK51P0CmV4byrcfnjvKgeVvsYdy6DMqx8xUa94K0cfeGvdhBZjGjkm_w4Ckd0cdaK2u4c=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/OZOFK51P0CmV4byrcfnjvKgeVvsYdy6DMqx8xUa94K0cfeGvdhBZjGjkm_w4Ckd0cdaK2u4c=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/OZOFK51P0CmV4byrcfnjvKgeVvsYdy6DMqx8xUa94K0cfeGvdhBZjGjkm_w4Ckd0cdaK2u4c=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Seven Beats Music",
+        "description": "\u2022 Seven Beats Music \u2022 \n\nOne of the best labels you can bump into. Levitating between trip-hop & deep house, organic & oriental sound, here you'll find various selection of seamlessly mixed DJ sets, magical Spiritual Journey mixes and eclectic Coffeeshop Selections.\n\nEnjoy the vibe!\n\nContact: sevenbeatslabel@gmail.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUO6SuIBGCEbHw0AKHlKqfww"
+      }
+    },
+    "statistics": {
+      "viewCount": "32165121",
+      "subscriberCount": "153000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "94"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Seven Beats Music",
+        "description": "\u2022 Seven Beats Music \u2022 \n\nOne of the best labels you can bump into. Levitating between trip-hop & deep house, organic & oriental sound, here you'll find various selection of seamlessly mixed DJ sets, magical Spiritual Journey mixes and eclectic Coffeeshop Selections.\n\nEnjoy the vibe!\n\nContact: sevenbeatslabel@gmail.com",
+        "keywords": "\"seven beats music\" \"special coffeeshop selection\" \"spiritual journey\" \"chill music\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "LzlZ29f4APU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ABbEValBV4zi4BU_wchnopHdYAqBw3iZG__a1mfkqYEgDRSv0pJHtc1SnYL0uIE96-r1CFhx"
+      }
+    }
+  }
+}

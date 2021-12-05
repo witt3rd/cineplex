@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCbRj3Tcy1Zoz3rcf83nW5kw",
+  "retrieved_on": "2021-12-05 03:47:28.920444",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "OJzP77jflUAbtUWU6OWWp185v0s",
+    "id": "UCbRj3Tcy1Zoz3rcf83nW5kw",
+    "snippet": {
+      "title": "SAM THE COOKING GUY",
+      "description": "Hey all, we're here for one reason - to make your food life better. And to entertain you - ok, so I guess that's two reasons. In any case, if you love food that\u2019s big in taste but small in effort, and served with a side of irreverence, you\u2019ve come to the right place. \n\nWatch my videos for easy-to-make recipes, kitchen basics and, if I may say so myself, a lot of fun. The goal is to show you that cooking doesn\u2019t have to be hard, it just has to be delicious.\n--\nPlease SUBSCRIBE and enable notifications to see NEW EPISODES uploaded every MONDAY + WEDNESDAY + FRIDAY \n\nFor instant updates check out the links below and FOLLOW me on social media where you can stay up to date on new episodes and what's going on in my life. THANK YOU!",
+      "customUrl": "samthecookingguy",
+      "publishedAt": "2011-07-22T05:32:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRaQaea9PCjL3YVL0hSqkuSnty3OQeg_uir9069Wg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRaQaea9PCjL3YVL0hSqkuSnty3OQeg_uir9069Wg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRaQaea9PCjL3YVL0hSqkuSnty3OQeg_uir9069Wg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SAM THE COOKING GUY",
+        "description": "Hey all, we're here for one reason - to make your food life better. And to entertain you - ok, so I guess that's two reasons. In any case, if you love food that\u2019s big in taste but small in effort, and served with a side of irreverence, you\u2019ve come to the right place. \n\nWatch my videos for easy-to-make recipes, kitchen basics and, if I may say so myself, a lot of fun. The goal is to show you that cooking doesn\u2019t have to be hard, it just has to be delicious.\n--\nPlease SUBSCRIBE and enable notifications to see NEW EPISODES uploaded every MONDAY + WEDNESDAY + FRIDAY \n\nFor instant updates check out the links below and FOLLOW me on social media where you can stay up to date on new episodes and what's going on in my life. THANK YOU!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUbRj3Tcy1Zoz3rcf83nW5kw"
+      }
+    },
+    "statistics": {
+      "viewCount": "438280425",
+      "subscriberCount": "3140000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1451"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SAM THE COOKING GUY",
+        "description": "Hey all, we're here for one reason - to make your food life better. And to entertain you - ok, so I guess that's two reasons. In any case, if you love food that\u2019s big in taste but small in effort, and served with a side of irreverence, you\u2019ve come to the right place. \n\nWatch my videos for easy-to-make recipes, kitchen basics and, if I may say so myself, a lot of fun. The goal is to show you that cooking doesn\u2019t have to be hard, it just has to be delicious.\n--\nPlease SUBSCRIBE and enable notifications to see NEW EPISODES uploaded every MONDAY + WEDNESDAY + FRIDAY \n\nFor instant updates check out the links below and FOLLOW me on social media where you can stay up to date on new episodes and what's going on in my life. THANK YOU!",
+        "keywords": "\"youtube cooking channel\" \"best online cooking show\" \"quick recipes\" \"easy recipes\" \"food channel\" \"cooking videos\" \"cooking tips\" \"best cooking channel\" \"sam the cooking guy\" \"sam the cooking guy youtube\" \"sam the cooking guy channel\" \"recipe videos\" recipes cooking food \"youtube sam the cooking guy\" \"sam the cooking guy food\" \"sam the cooking guy recipes\"",
+        "unsubscribedTrailer": "2dlLQ6L4it4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Nyb4l7wqKG6jWoJz_xtDGosxxpgR5dAc0VYmvHKlk4vJcUMYsS8KvqU3Bdf0dr7hUvUpdWShxA"
+      }
+    }
+  }
+}

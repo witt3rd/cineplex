@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCy1q18ivH441PJQAoTYf9pQ",
+  "retrieved_on": "2021-12-05 03:47:36.348840",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "sGME3mQUjtIGWzJop0Hz9j8fPF8",
+    "id": "UCy1q18ivH441PJQAoTYf9pQ",
+    "snippet": {
+      "title": "Electron Dust",
+      "description": "Mechatronics, Robotics, Programming.",
+      "customUrl": "electrondust",
+      "publishedAt": "2006-06-11T12:57:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRS-lBa-Jxe54Rw_4lYyugkAAo8QR027MMYMd_tbQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRS-lBa-Jxe54Rw_4lYyugkAAo8QR027MMYMd_tbQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRS-lBa-Jxe54Rw_4lYyugkAAo8QR027MMYMd_tbQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "Electron Dust",
+        "description": "Mechatronics, Robotics, Programming."
+      },
+      "country": "JP"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUy1q18ivH441PJQAoTYf9pQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "8278790",
+      "subscriberCount": "40900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "28"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Electron Dust",
+        "description": "Mechatronics, Robotics, Programming.",
+        "keywords": "Mechatronics Robotics Robot \"Robot Arm\" Arduino",
+        "defaultLanguage": "en-GB",
+        "country": "JP"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/FElRjzGP_ZNW_FrwNGw_xEF2ySmEA2kCQwV625tktS2iGQUCPSVbKNM06obwPheAZwVyXx4IISY"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCjworrkHw9HjWkQClzkD4og",
+  "retrieved_on": "2021-12-05 03:47:28.552277",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "MaWyuR-nH89S7PPVa2Y_3JxvoOQ",
+    "id": "UCjworrkHw9HjWkQClzkD4og",
+    "snippet": {
+      "title": "Speakers of Wisdom",
+      "description": "It's a channel of all the big thinkers and speakers of wisdom nowadays and of past times. It shell be a contribution for the days of today to wake up and to ask yourself which way you want to live.",
+      "publishedAt": "2018-09-02T16:50:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQU00QzpWxsPrK5cgEPBhtmjzjyWHLlI9Ev26Nj=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQU00QzpWxsPrK5cgEPBhtmjzjyWHLlI9Ev26Nj=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQU00QzpWxsPrK5cgEPBhtmjzjyWHLlI9Ev26Nj=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Speakers of Wisdom",
+        "description": "It's a channel of all the big thinkers and speakers of wisdom nowadays and of past times. It shell be a contribution for the days of today to wake up and to ask yourself which way you want to live."
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUjworrkHw9HjWkQClzkD4og"
+      }
+    },
+    "statistics": {
+      "viewCount": "924633",
+      "subscriberCount": "8770",
+      "hiddenSubscriberCount": false,
+      "videoCount": "15"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Speakers of Wisdom",
+        "description": "It's a channel of all the big thinkers and speakers of wisdom nowadays and of past times. It shell be a contribution for the days of today to wake up and to ask yourself which way you want to live.",
+        "keywords": "\"alan watts\" \"eckhart tolle\" sadhguru wisdom speaker now awakening awake self \"empower yourself\" \"motivational speech\"",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/tr2Hb3ajWvNXeepr6SOovAItm7X5sVH0CbTsTNEKc_OAOTqyVxvP_M4IrYAOBLTtRa8_Kt0"
+      }
+    }
+  }
+}

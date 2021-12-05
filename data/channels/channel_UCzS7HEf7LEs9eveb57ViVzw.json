@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCzS7HEf7LEs9eveb57ViVzw",
+  "retrieved_on": "2021-12-05 03:47:31.805472",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "F27lH9WOuw4dpwRDwOUF2YjbCWY",
+    "id": "UCzS7HEf7LEs9eveb57ViVzw",
+    "snippet": {
+      "title": "midevilone",
+      "description": "I am a problem solver who loves to learn new processes and methods. Follow me as I embark on random practical adventures in problem-solving and building stuff.",
+      "publishedAt": "2008-03-05T01:43:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT8EZAvjG8t6A5a9EXH5Co1TYkOsKMrkg4Wy0F7=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT8EZAvjG8t6A5a9EXH5Co1TYkOsKMrkg4Wy0F7=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT8EZAvjG8t6A5a9EXH5Co1TYkOsKMrkg4Wy0F7=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "midevilone",
+        "description": "I am a problem solver who loves to learn new processes and methods. Follow me as I embark on random practical adventures in problem-solving and building stuff."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzS7HEf7LEs9eveb57ViVzw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1383575",
+      "subscriberCount": "2520",
+      "hiddenSubscriberCount": false,
+      "videoCount": "12"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "midevilone",
+        "description": "I am a problem solver who loves to learn new processes and methods. Follow me as I embark on random practical adventures in problem-solving and building stuff."
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/hpA3QwmvgLoFQEr3lvODv65KAmft09SyIkEEDBqHQdXj4uuLpAPkEv5du44u45Y8mP7uzEq1EQ"
+      }
+    }
+  }
+}

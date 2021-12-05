@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCfmAjVU0aF41zi7oWB8_TUg",
+  "retrieved_on": "2021-12-05 03:47:39.939337",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "WiBDW7ycsTTQzas3R7W8hHfqd9c",
+    "id": "UCfmAjVU0aF41zi7oWB8_TUg",
+    "snippet": {
+      "title": "NewJazz",
+      "description": "Lessons in Modern & Modal Jazz Improvisation.\n\nWe'll try to free ourselves from conform institutional thinking and approach Music in new ways. This is about NewJazz and not OldJazz. So we live on the edge; sometimes we'll fall into the deep and sometimes we'll go right to the top.\n\nI like to keep on being \"small\". I run the NewJazz project by myself and I do not make a business concept out of it (no sponsors or merchandise either). I read all of your comments and I try hard to answer all of your questions. I love to be in touch.\n\nApproximately by the end of every month I'll upload a NewJazz lesson. All my lessons are designed so that you can approach them in NO specific order. I try to make them all start out easy. If a lesson becomes too advanced (or weird), just skip to another one. So pick out a subject that you love and let Music grow from there\u2026 in that way you are always motivated. \nMotivation makes Music!\n\nOliver Prehn, NewJazz, Master in Music & Multimedia and Bus Driver\n",
+      "customUrl": "newjazz",
+      "publishedAt": "2014-08-04T21:50:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTe9T-1CnrMV6ByEYglpksIP8ll4Nz11fcKo6kTHA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTe9T-1CnrMV6ByEYglpksIP8ll4Nz11fcKo6kTHA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTe9T-1CnrMV6ByEYglpksIP8ll4Nz11fcKo6kTHA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NewJazz",
+        "description": "Lessons in Modern & Modal Jazz Improvisation.\n\nWe'll try to free ourselves from conform institutional thinking and approach Music in new ways. This is about NewJazz and not OldJazz. So we live on the edge; sometimes we'll fall into the deep and sometimes we'll go right to the top.\n\nI like to keep on being \"small\". I run the NewJazz project by myself and I do not make a business concept out of it (no sponsors or merchandise either). I read all of your comments and I try hard to answer all of your questions. I love to be in touch.\n\nApproximately by the end of every month I'll upload a NewJazz lesson. All my lessons are designed so that you can approach them in NO specific order. I try to make them all start out easy. If a lesson becomes too advanced (or weird), just skip to another one. So pick out a subject that you love and let Music grow from there\u2026 in that way you are always motivated. \nMotivation makes Music!\n\nOliver Prehn, NewJazz, Master in Music & Multimedia and Bus Driver\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfmAjVU0aF41zi7oWB8_TUg"
+      }
+    },
+    "statistics": {
+      "viewCount": "13601085",
+      "subscriberCount": "283000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "75"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NewJazz",
+        "description": "Lessons in Modern & Modal Jazz Improvisation.\n\nWe'll try to free ourselves from conform institutional thinking and approach Music in new ways. This is about NewJazz and not OldJazz. So we live on the edge; sometimes we'll fall into the deep and sometimes we'll go right to the top.\n\nI like to keep on being \"small\". I run the NewJazz project by myself and I do not make a business concept out of it (no sponsors or merchandise either). I read all of your comments and I try hard to answer all of your questions. I love to be in touch.\n\nApproximately by the end of every month I'll upload a NewJazz lesson. All my lessons are designed so that you can approach them in NO specific order. I try to make them all start out easy. If a lesson becomes too advanced (or weird), just skip to another one. So pick out a subject that you love and let Music grow from there\u2026 in that way you are always motivated. \nMotivation makes Music!\n\nOliver Prehn, NewJazz, Master in Music & Multimedia and Bus Driver\n",
+        "keywords": "jazz music improvisation lessons tutorials",
+        "unsubscribedTrailer": "bRwdZ_jUt6w"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/CSpqleXurTCFL37VjwG-L8V7iYSAdSXBG4abkSrnpPOsWbrGXJnUDkXI_9D9l2PhZZZTOfxqqL8"
+      }
+    }
+  }
+}

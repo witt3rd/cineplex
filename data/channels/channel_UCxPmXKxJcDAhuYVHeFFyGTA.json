@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCxPmXKxJcDAhuYVHeFFyGTA",
+  "retrieved_on": "2021-12-05 03:47:32.314632",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "MmFjdqLEgZFB-ezFF06PoXhHm_k",
+    "id": "UCxPmXKxJcDAhuYVHeFFyGTA",
+    "snippet": {
+      "title": "Sebastian Maniscalco",
+      "description": "\u201cNOBODY DOES THIS\u201d TOUR IS LIVE!\nVisit SebastianLive.com for updates, new dates & exciting projects launching this year. The wait is over people. #NobodyDoesThis",
+      "customUrl": "sebastiancomedy",
+      "publishedAt": "2006-05-30T06:33:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/VZOyXyX3GDOejihLDt3EIIW-6CvOmmbdFqwhdy6ToHYHaP2a-IT_jTAi_2g5xBN0AnP86Txil0c=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/VZOyXyX3GDOejihLDt3EIIW-6CvOmmbdFqwhdy6ToHYHaP2a-IT_jTAi_2g5xBN0AnP86Txil0c=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/VZOyXyX3GDOejihLDt3EIIW-6CvOmmbdFqwhdy6ToHYHaP2a-IT_jTAi_2g5xBN0AnP86Txil0c=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sebastian Maniscalco",
+        "description": "\u201cNOBODY DOES THIS\u201d TOUR IS LIVE!\nVisit SebastianLive.com for updates, new dates & exciting projects launching this year. The wait is over people. #NobodyDoesThis"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUxPmXKxJcDAhuYVHeFFyGTA"
+      }
+    },
+    "statistics": {
+      "viewCount": "166813783",
+      "subscriberCount": "525000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "427"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sebastian Maniscalco",
+        "description": "\u201cNOBODY DOES THIS\u201d TOUR IS LIVE!\nVisit SebastianLive.com for updates, new dates & exciting projects launching this year. The wait is over people. #NobodyDoesThis",
+        "keywords": "Vince Vaughn Sebastian Maniscalco Italian Stand up corporate jersey shore chicago funny humor craigs",
+        "unsubscribedTrailer": "Fv-dQzdcV9M",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/1-LAJO-ZbFBkfl1FuxJ1Ql4zZ_cCa8fvoSVghqxmQbhSolS7mlwbeLm-tc6iQg_bwfG-nYAX6Q"
+      }
+    }
+  }
+}

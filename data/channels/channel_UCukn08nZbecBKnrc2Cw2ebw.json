@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCukn08nZbecBKnrc2Cw2ebw",
+  "retrieved_on": "2021-12-05 03:47:37.948855",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fme1BgUJZyNWlf6w22Qo-1wg5sQ",
+    "id": "UCukn08nZbecBKnrc2Cw2ebw",
+    "snippet": {
+      "title": "Intellectual Wave",
+      "description": "Intellectual Wave's mission is to educate, to enlighten, and spread knowledge all around the globe through providing entertaining documentary-style videos. \n\nEvery video take me about 80 to 100 hours of making, in order to complete. Even more if the video is longer. But i find a particular joy in making these videos and providing a educational value.\n\nIf you like our content, hit that subscribe button, and we wish from the depths of our hearts that these videos might help anyone who watches them, and gives them a better perspective in resolving the issues in their everyday life, and improve their lives to the better. \n\n\ud835\udc08\ud835\udc27\ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26 : @intellectualwave\n\ud835\udc12\ud835\udc2e\ud835\udc1b\ud835\udc2c\ud835\udc1c\ud835\udc2b\ud835\udc22\ud835\udc1b\ud835\udc1e  : https://www.youtube.com/IntellectualWave\n\n",
+      "customUrl": "intellectualwave",
+      "publishedAt": "2014-09-03T11:24:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GjHbRjR80QuZMEh3w0f_iedlTjqi_OTL0ibZ-xvsSndz-GDFCGCwjRcqU4uxCTUw31J_wbZANQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GjHbRjR80QuZMEh3w0f_iedlTjqi_OTL0ibZ-xvsSndz-GDFCGCwjRcqU4uxCTUw31J_wbZANQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GjHbRjR80QuZMEh3w0f_iedlTjqi_OTL0ibZ-xvsSndz-GDFCGCwjRcqU4uxCTUw31J_wbZANQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Intellectual Wave",
+        "description": "Intellectual Wave's mission is to educate, to enlighten, and spread knowledge all around the globe through providing entertaining documentary-style videos. \n\nEvery video take me about 80 to 100 hours of making, in order to complete. Even more if the video is longer. But i find a particular joy in making these videos and providing a educational value.\n\nIf you like our content, hit that subscribe button, and we wish from the depths of our hearts that these videos might help anyone who watches them, and gives them a better perspective in resolving the issues in their everyday life, and improve their lives to the better. \n\n\ud835\udc08\ud835\udc27\ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26 : @intellectualwave\n\ud835\udc12\ud835\udc2e\ud835\udc1b\ud835\udc2c\ud835\udc1c\ud835\udc2b\ud835\udc22\ud835\udc1b\ud835\udc1e  : https://www.youtube.com/IntellectualWave\n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUukn08nZbecBKnrc2Cw2ebw"
+      }
+    },
+    "statistics": {
+      "viewCount": "6238843",
+      "hiddenSubscriberCount": true,
+      "videoCount": "30"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Intellectual Wave",
+        "description": "Intellectual Wave's mission is to educate, to enlighten, and spread knowledge all around the globe through providing entertaining documentary-style videos. \n\nEvery video take me about 80 to 100 hours of making, in order to complete. Even more if the video is longer. But i find a particular joy in making these videos and providing a educational value.\n\nIf you like our content, hit that subscribe button, and we wish from the depths of our hearts that these videos might help anyone who watches them, and gives them a better perspective in resolving the issues in their everyday life, and improve their lives to the better. \n\n\ud835\udc08\ud835\udc27\ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26 : @intellectualwave\n\ud835\udc12\ud835\udc2e\ud835\udc1b\ud835\udc2c\ud835\udc1c\ud835\udc2b\ud835\udc22\ud835\udc1b\ud835\udc1e  : https://www.youtube.com/IntellectualWave\n\n",
+        "keywords": "\"right now\" \"the book\" \"Alan watts\" consciousness drugs opinion meditation \"advance meditation\" alcohol drinks soul mind manifesting manifest changing \"the soul\" \"human brain\" craving trust courage willingness pride desire humiliation addiction affirmation release reason enlightenment bliss complete perfect Spiritual therapiudic \"the past\" serenety love \"the world\" \"alan watts\" \"terence mckenna\" philosophy",
+        "unsubscribedTrailer": "pDpqOTCh_fk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/sdJHi_wwURU5kBT0zQQvINCBKj-td22bBUFU2iDOPyt2sgw0WaYm90EO5uEC3VKtaKHibwqdDw"
+      }
+    }
+  }
+}

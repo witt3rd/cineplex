@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCVh43Xd-lPavK64eAzGG2yw",
+  "retrieved_on": "2021-12-05 03:47:38.852420",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "KnM46EBDkyU4TW8I-PORmdgjmpk",
+    "id": "UCVh43Xd-lPavK64eAzGG2yw",
+    "snippet": {
+      "title": "Citywokcitywall",
+      "description": "Citywokcitywall is creating stories and worlds\n",
+      "customUrl": "citywokcitywall",
+      "publishedAt": "2019-08-03T23:20:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSEEgPD6FmKwYx1xyYKVEt0YVFOzV4QKJ2H7z5-oQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSEEgPD6FmKwYx1xyYKVEt0YVFOzV4QKJ2H7z5-oQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSEEgPD6FmKwYx1xyYKVEt0YVFOzV4QKJ2H7z5-oQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Citywokcitywall",
+        "description": "Citywokcitywall is creating stories and worlds\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVh43Xd-lPavK64eAzGG2yw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2160362",
+      "subscriberCount": "46000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "37"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Citywokcitywall",
+        "description": "Citywokcitywall is creating stories and worlds\n",
+        "keywords": "\"Cities Skylines\" gaming simulation wok wall \"cities: skylines\" \"world building\" fiction \"science fiction\" \"cities skylines industries\" \"cities skylines sunset harbor\" \"cities skylines parklife\" \"cities skylines campus\" \"city builder\"",
+        "unsubscribedTrailer": "Nui4y_dbegU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/uGp08FmS5uenp2H7jP77avvrGUGOUwlr0pFmBGfT3YBYMli_msvdDKuE1CdRTg54FYdxocoF"
+      }
+    }
+  }
+}

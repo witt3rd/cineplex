@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCUPvKyKhh33gn0VatEjCrcQ",
+  "retrieved_on": "2021-12-05 03:47:31.215529",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "o_a-VHNY7FTdrv_TCiCu4ZNRYQ0",
+    "id": "UCUPvKyKhh33gn0VatEjCrcQ",
+    "snippet": {
+      "title": "Coding With Unity",
+      "description": "An independent game developer creating and designing with Unity3D and blender!",
+      "customUrl": "codingwithunity",
+      "publishedAt": "2007-06-07T08:00:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQC-b8NSodUbsJBSHIfg5WXfS_AbO2fi_wdzCSluw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQC-b8NSodUbsJBSHIfg5WXfS_AbO2fi_wdzCSluw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQC-b8NSodUbsJBSHIfg5WXfS_AbO2fi_wdzCSluw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Coding With Unity",
+        "description": "An independent game developer creating and designing with Unity3D and blender!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUPvKyKhh33gn0VatEjCrcQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "661849",
+      "subscriberCount": "9610",
+      "hiddenSubscriberCount": false,
+      "videoCount": "73"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Coding With Unity",
+        "description": "An independent game developer creating and designing with Unity3D and blender!",
+        "keywords": "Unity3d Unity2D HTML5 \"Unity Tutorial\" \"unity3d Tutorial\" \"unity2d tutorial\" \"Unity3d how to\" \"unity2d how to\" \"indie games\" \"coding with unity\" \"coding with\" \"with unity\" \"coding unity\"",
+        "trackingAnalyticsAccountId": "UA-133169774-2",
+        "unsubscribedTrailer": "_IqTeruf3-s",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jeeu5qEB_zMLFzw9HVJH0aJZYaUp_AU7ygtPExRdVkkE75MtT4eAZsncpXm6yeMmz0K_fDul8qw"
+      }
+    }
+  }
+}

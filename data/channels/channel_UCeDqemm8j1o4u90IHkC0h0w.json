@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCeDqemm8j1o4u90IHkC0h0w",
+  "retrieved_on": "2021-12-05 03:47:34.534429",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "2s1uXI1KluIZLNHF2jTIWOAWZcA",
+    "id": "UCeDqemm8j1o4u90IHkC0h0w",
+    "snippet": {
+      "title": "UNTOLD",
+      "description": "This is the official Youtube channel for the UNTOLD Festival, Romania's largest festival.",
+      "customUrl": "untoldfestival",
+      "publishedAt": "2014-12-30T19:04:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/YmJ2kdTXQLCq0cdabGcb3Wns_F9qnXgN97f7q96pNyIHX5rOImGMNeGO6gnIvtR3T2rDEdqz4w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/YmJ2kdTXQLCq0cdabGcb3Wns_F9qnXgN97f7q96pNyIHX5rOImGMNeGO6gnIvtR3T2rDEdqz4w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/YmJ2kdTXQLCq0cdabGcb3Wns_F9qnXgN97f7q96pNyIHX5rOImGMNeGO6gnIvtR3T2rDEdqz4w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "UNTOLD",
+        "description": "This is the official Youtube channel for the UNTOLD Festival, Romania's largest festival."
+      },
+      "country": "RO"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUeDqemm8j1o4u90IHkC0h0w"
+      }
+    },
+    "statistics": {
+      "viewCount": "26675977",
+      "subscriberCount": "121000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "295"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "UNTOLD",
+        "description": "This is the official Youtube channel for the UNTOLD Festival, Romania's largest festival.",
+        "trackingAnalyticsAccountId": "UA-58135412-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "v9Ic8u_V3Mo",
+        "country": "RO"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/nWETmfqIX2uuLy_5c32g6UbAHX1a87n2yhBRv5v5KnJSzUhYk6G7HkASyJpZXcyF_jpH8YzBzw"
+      }
+    }
+  }
+}

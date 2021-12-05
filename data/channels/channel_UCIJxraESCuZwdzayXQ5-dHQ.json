@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCIJxraESCuZwdzayXQ5-dHQ",
+  "retrieved_on": "2021-12-05 03:47:34.084410",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "t9DGY5X5FvsbHogHgRFtdONsswk",
+    "id": "UCIJxraESCuZwdzayXQ5-dHQ",
+    "snippet": {
+      "title": "David Russell Hamrick",
+      "description": "",
+      "publishedAt": "2013-11-13T13:46:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTwtj2STD5SChksb1q6eLcA6BD-9NwcM8rmPg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTwtj2STD5SChksb1q6eLcA6BD-9NwcM8rmPg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTwtj2STD5SChksb1q6eLcA6BD-9NwcM8rmPg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "David Russell Hamrick",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIJxraESCuZwdzayXQ5-dHQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "319733",
+      "subscriberCount": "292",
+      "hiddenSubscriberCount": false,
+      "videoCount": "5"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "David Russell Hamrick"
+      }
+    }
+  }
+}

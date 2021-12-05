@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCq4G66-BL1PvZtW6RLXCjBg",
+  "retrieved_on": "2021-12-05 03:47:38.208116",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "hA4L-SQmF_zppvPdOlqwBElprMM",
+    "id": "UCq4G66-BL1PvZtW6RLXCjBg",
+    "snippet": {
+      "title": "Ancient Astronaut Archive",
+      "description": "The Archive is a repository of data, research, and discoveries related to Earth's ancient past and origin. We are on an exploration of the more esoteric historical references that do not necessarily fit in with the current academic paradigm. Although the Archive is politically and religiously neutral, our various presentations and posts sometimes necessitate including historical references that analyze both. The Archive is simply asking \u201cwhat if?\u201d at the next level.\n\nPlease review our full content disclaimer and terms of use at this link: http://www.ancientastronautarchive.com/youtubedisclaimer/",
+      "customUrl": "ancientastronautarchive",
+      "publishedAt": "2014-10-15T15:12:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJoxpBqZKfEso2rs2FT2Ns4TVSIJaY-pT33yNu=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJoxpBqZKfEso2rs2FT2Ns4TVSIJaY-pT33yNu=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJoxpBqZKfEso2rs2FT2Ns4TVSIJaY-pT33yNu=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ancient Astronaut Archive",
+        "description": "The Archive is a repository of data, research, and discoveries related to Earth's ancient past and origin. We are on an exploration of the more esoteric historical references that do not necessarily fit in with the current academic paradigm. Although the Archive is politically and religiously neutral, our various presentations and posts sometimes necessitate including historical references that analyze both. The Archive is simply asking \u201cwhat if?\u201d at the next level.\n\nPlease review our full content disclaimer and terms of use at this link: http://www.ancientastronautarchive.com/youtubedisclaimer/"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUq4G66-BL1PvZtW6RLXCjBg"
+      }
+    },
+    "statistics": {
+      "viewCount": "15145524",
+      "subscriberCount": "264000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "80"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ancient Astronaut Archive",
+        "description": "The Archive is a repository of data, research, and discoveries related to Earth's ancient past and origin. We are on an exploration of the more esoteric historical references that do not necessarily fit in with the current academic paradigm. Although the Archive is politically and religiously neutral, our various presentations and posts sometimes necessitate including historical references that analyze both. The Archive is simply asking \u201cwhat if?\u201d at the next level.\n\nPlease review our full content disclaimer and terms of use at this link: http://www.ancientastronautarchive.com/youtubedisclaimer/",
+        "keywords": "Ancient History alien astronaut extraterrestrial documentary",
+        "moderateComments": true,
+        "unsubscribedTrailer": "08PyddjWS8o",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/elBlFaHBa9CuWNNMME0hhBF9gFiJoMVltNwXWHz7TzkDzpknPRUpd3BnHdbNWX0C5FuiPcKiFA"
+      }
+    }
+  }
+}

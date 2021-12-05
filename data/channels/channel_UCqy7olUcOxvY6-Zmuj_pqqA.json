@@ -1,0 +1,54 @@
+{
+  "channel_id": "UCqy7olUcOxvY6-Zmuj_pqqA",
+  "retrieved_on": "2021-12-05 03:47:34.534325",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "P5h4beD3AOxKqGqFsCEVWkh5dh0",
+    "id": "UCqy7olUcOxvY6-Zmuj_pqqA",
+    "snippet": {
+      "title": "MuhdZikry",
+      "description": "Armed With Science",
+      "publishedAt": "2015-06-13T02:26:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRs12N6dyplx6YPKJWtJIbRgDNc2VdAnv0c9zBDXYY=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRs12N6dyplx6YPKJWtJIbRgDNc2VdAnv0c9zBDXYY=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRs12N6dyplx6YPKJWtJIbRgDNc2VdAnv0c9zBDXYY=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MuhdZikry",
+        "description": "Armed With Science"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUqy7olUcOxvY6-Zmuj_pqqA"
+      }
+    },
+    "statistics": {
+      "viewCount": "15539384",
+      "subscriberCount": "61200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "43"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MuhdZikry",
+        "description": "Armed With Science",
+        "unsubscribedTrailer": "hseWOv2fvF4"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "channel_id": "UC4FSvHYsdEnLz6-dpWyzKxQ",
+  "retrieved_on": "2021-12-05 03:47:39.939441",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-jb_LQTNJwfDrGLoDRdUhyfQ4gs",
+    "id": "UC4FSvHYsdEnLz6-dpWyzKxQ",
+    "snippet": {
+      "title": "CQL",
+      "description": "",
+      "publishedAt": "2015-12-02T02:42:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlz44ULfDPacoXeLkjw48abltkWj2058PRfPOC=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlz44ULfDPacoXeLkjw48abltkWj2058PRfPOC=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlz44ULfDPacoXeLkjw48abltkWj2058PRfPOC=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CQL",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4FSvHYsdEnLz6-dpWyzKxQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "5646",
+      "subscriberCount": "273",
+      "hiddenSubscriberCount": false,
+      "videoCount": "13"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CQL",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/3CDHRG3v4sshaczLaeNWQorw0oeCy8rpcRUrO9BPGNJtgW_37Z4R9HsBDloX1UiYxAMItc90"
+      }
+    }
+  }
+}

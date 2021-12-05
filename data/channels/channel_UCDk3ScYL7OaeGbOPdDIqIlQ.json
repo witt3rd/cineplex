@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCDk3ScYL7OaeGbOPdDIqIlQ",
+  "retrieved_on": "2021-12-05 03:47:35.856639",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9Twt8Lm_t7_b5Pjk_ZNHFseV1Do",
+    "id": "UCDk3ScYL7OaeGbOPdDIqIlQ",
+    "snippet": {
+      "title": "MatterHackers",
+      "description": "Welcome to the MatterHackers 3D Printing Channel. Here you will find how-to tutorials, 3D printer and filament product reviews, inspiring 3D printing projects, and general shenanigans from time to time!\n\nThese videos are MatterHackers way of teaching, inspiring and empowering others to embrace the technology and make stuff using 3D printing. \n\nWe upload new videos every week - Subscribe to get notifications through the YouTube app!\n\n\u25bc To shop everything 3D printing, or to find out more information please visit our website \u25bc\nhttp://www.matterhackers.com/?rcode=YTUBE",
+      "customUrl": "matterhackers",
+      "publishedAt": "2012-09-26T22:10:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTSSZtGVD6pLGaeMSZ2LzS75ir6pa8GO22gmY-H=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTSSZtGVD6pLGaeMSZ2LzS75ir6pa8GO22gmY-H=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTSSZtGVD6pLGaeMSZ2LzS75ir6pa8GO22gmY-H=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MatterHackers",
+        "description": "Welcome to the MatterHackers 3D Printing Channel. Here you will find how-to tutorials, 3D printer and filament product reviews, inspiring 3D printing projects, and general shenanigans from time to time!\n\nThese videos are MatterHackers way of teaching, inspiring and empowering others to embrace the technology and make stuff using 3D printing. \n\nWe upload new videos every week - Subscribe to get notifications through the YouTube app!\n\n\u25bc To shop everything 3D printing, or to find out more information please visit our website \u25bc\nhttp://www.matterhackers.com/?rcode=YTUBE"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDk3ScYL7OaeGbOPdDIqIlQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "6890404",
+      "subscriberCount": "106000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "433"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MatterHackers",
+        "description": "Welcome to the MatterHackers 3D Printing Channel. Here you will find how-to tutorials, 3D printer and filament product reviews, inspiring 3D printing projects, and general shenanigans from time to time!\n\nThese videos are MatterHackers way of teaching, inspiring and empowering others to embrace the technology and make stuff using 3D printing. \n\nWe upload new videos every week - Subscribe to get notifications through the YouTube app!\n\n\u25bc To shop everything 3D printing, or to find out more information please visit our website \u25bc\nhttp://www.matterhackers.com/?rcode=YTUBE",
+        "keywords": "\"3d Printing\" \"3D printer\" \"3D print\" \"3d Filament\" \"3D printing projects\" cnc \"digital fabrication\" \"additive manufacturing\" pla petg \"how to 3d print\" \"3d printing software\" tinkercad",
+        "unsubscribedTrailer": "pUCa2hcgPEw",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/S9jpE_rV5S-dwKrAIMKYQj6Qr5IUgHuJwn9bgrNqCRJsbnfekD7YIlIJYENJXhSytUL7IMg4guI"
+      }
+    }
+  }
+}

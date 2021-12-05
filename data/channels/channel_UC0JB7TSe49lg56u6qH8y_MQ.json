@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC0JB7TSe49lg56u6qH8y_MQ",
+  "retrieved_on": "2021-12-05 03:47:28.057482",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "68s595Ob5Cj1zvwn7XEzZdLF1aQ",
+    "id": "UC0JB7TSe49lg56u6qH8y_MQ",
+    "snippet": {
+      "title": "GDC",
+      "description": "Welcome to the GDC YouTube channel, where you'll find clips and full length videos from GDC -- www.gdconf.com \n\nGDC is the world's largest professional game industry event, where programmers, artists, producers, game designers, audio professionals, business decision-makers and others involved in the development of interactive games and virtual reality gather to exchange ideas and shape the future of the industry.Take in in-depth talks, inspirational lectures and more from experts. \n\nSubscribe to the channel to stay on top of regular updates, and check out GDC Vault - www.gdcvault.com - for thousands of talks from our archives.",
+      "customUrl": "gdconf",
+      "publishedAt": "2015-03-23T21:01:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/MFaBDimWzjozoY0h7TTmrzTrlmJ0DDq1T8pJM9s2Mn2mHSOPVXqkE--zm20FvZkRShbupAVE2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/MFaBDimWzjozoY0h7TTmrzTrlmJ0DDq1T8pJM9s2Mn2mHSOPVXqkE--zm20FvZkRShbupAVE2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/MFaBDimWzjozoY0h7TTmrzTrlmJ0DDq1T8pJM9s2Mn2mHSOPVXqkE--zm20FvZkRShbupAVE2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "GDC",
+        "description": "Welcome to the GDC YouTube channel, where you'll find clips and full length videos from GDC -- www.gdconf.com \n\nGDC is the world's largest professional game industry event, where programmers, artists, producers, game designers, audio professionals, business decision-makers and others involved in the development of interactive games and virtual reality gather to exchange ideas and shape the future of the industry.Take in in-depth talks, inspirational lectures and more from experts. \n\nSubscribe to the channel to stay on top of regular updates, and check out GDC Vault - www.gdcvault.com - for thousands of talks from our archives."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU0JB7TSe49lg56u6qH8y_MQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "52311871",
+      "subscriberCount": "411000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2007"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "GDC",
+        "description": "Welcome to the GDC YouTube channel, where you'll find clips and full length videos from GDC -- www.gdconf.com \n\nGDC is the world's largest professional game industry event, where programmers, artists, producers, game designers, audio professionals, business decision-makers and others involved in the development of interactive games and virtual reality gather to exchange ideas and shape the future of the industry.Take in in-depth talks, inspirational lectures and more from experts. \n\nSubscribe to the channel to stay on top of regular updates, and check out GDC Vault - www.gdcvault.com - for thousands of talks from our archives.",
+        "keywords": "\"game development\" \"game developers conference\" \"video games\" \"making video games\" games \"game design\" \"game art\" \"game music\"",
+        "trackingAnalyticsAccountId": "UA-11233174-1",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/R94BLFqDrlMJvdf-FqJ4ZnECW5hSKSDkmlxgUumY5ic9q1VGnFF5T0uz8g189USLfHuvwNj75Q"
+      }
+    }
+  }
+}

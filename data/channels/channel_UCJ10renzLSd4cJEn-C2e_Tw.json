@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCJ10renzLSd4cJEn-C2e_Tw",
+  "retrieved_on": "2021-12-05 03:47:32.314687",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "dAJi0zjO4raFC5l7DCebfVRT_Do",
+    "id": "UCJ10renzLSd4cJEn-C2e_Tw",
+    "snippet": {
+      "title": "Dr. D-Flo",
+      "description": "My name is David Florian, and I go by the moniker Dr. D-Flo in the online world. My content focuses on digital fabrication techniques, which are any workflows that rely on a computer to control the manufacturing process. This includes both additive (e.g., 3D printers) and subtractive (e.g., CNC mills) machines. In the past, these devices were large, complex, and only found in industrial warehouses. But today, for a couple hundred dollars anyone can purchase a 3D printer, CNC router, or laser cutter.\n\nThis channel focuses on not only how to program and use these instruments but also how to build them. My video guides cover a spectrum of information for both the beginner and the seasoned DIYer. I error on the side of providing too much information because it can be frustrating to watch a video and leave with more questions than answers. \n\nI am always looking for project collaborators and industrial partners, so feel free to reach out to me through the email below or on my forum.\n\n\n\n",
+      "customUrl": "drdflo",
+      "publishedAt": "2016-11-08T03:19:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTLbjMqIE4g8iccOls8ibzYMUpkyzmNgT-rWbQznA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTLbjMqIE4g8iccOls8ibzYMUpkyzmNgT-rWbQznA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTLbjMqIE4g8iccOls8ibzYMUpkyzmNgT-rWbQznA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dr. D-Flo",
+        "description": "My name is David Florian, and I go by the moniker Dr. D-Flo in the online world. My content focuses on digital fabrication techniques, which are any workflows that rely on a computer to control the manufacturing process. This includes both additive (e.g., 3D printers) and subtractive (e.g., CNC mills) machines. In the past, these devices were large, complex, and only found in industrial warehouses. But today, for a couple hundred dollars anyone can purchase a 3D printer, CNC router, or laser cutter.\n\nThis channel focuses on not only how to program and use these instruments but also how to build them. My video guides cover a spectrum of information for both the beginner and the seasoned DIYer. I error on the side of providing too much information because it can be frustrating to watch a video and leave with more questions than answers. \n\nI am always looking for project collaborators and industrial partners, so feel free to reach out to me through the email below or on my forum.\n\n\n\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJ10renzLSd4cJEn-C2e_Tw"
+      }
+    },
+    "statistics": {
+      "viewCount": "5845054",
+      "subscriberCount": "68800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "46"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dr. D-Flo",
+        "description": "My name is David Florian, and I go by the moniker Dr. D-Flo in the online world. My content focuses on digital fabrication techniques, which are any workflows that rely on a computer to control the manufacturing process. This includes both additive (e.g., 3D printers) and subtractive (e.g., CNC mills) machines. In the past, these devices were large, complex, and only found in industrial warehouses. But today, for a couple hundred dollars anyone can purchase a 3D printer, CNC router, or laser cutter.\n\nThis channel focuses on not only how to program and use these instruments but also how to build them. My video guides cover a spectrum of information for both the beginner and the seasoned DIYer. I error on the side of providing too much information because it can be frustrating to watch a video and leave with more questions than answers. \n\nI am always looking for project collaborators and industrial partners, so feel free to reach out to me through the email below or on my forum.\n\n\n\n",
+        "keywords": "DIY \"3D Printing\" \"CNC Routers\" LEDs Clocks Modern",
+        "unsubscribedTrailer": "flN2F_oij2E"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Z95rsNdfGTTZZmz3g5Z8MTNHPAlnMDzeMd69QOOjKbYJYTEnRgUqNJx9jf7em9tgVU3-Et9hiZY"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCHYoe8kQ-7Gn9ASOlmI0k6Q",
+  "retrieved_on": "2021-12-05 03:47:40.292773",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9RDF5Wf7jTLkZen99M0Z1VeO7v0",
+    "id": "UCHYoe8kQ-7Gn9ASOlmI0k6Q",
+    "snippet": {
+      "title": "The Food Theorists",
+      "description": "Hello Internet! I'm MatPat and welcome to FOOD THEORY, where brain food is always on the menu! Are you ready to debunk food's greatest myths? Does using science to save money at your favorite restaurants sound appetizing to you? Then you are in for a treat! From the best hacks for your McDonald's fast food order to the dark history of food mascots, we cover it all! Get ready to take a big bite out of food's greatest mysteries and join the Food Theorist's community today!\n \nLove video games? Check out Game Theory!\n\u25ba https://www.youtube.com/user/MatthewPatrick13\n\nLove movies and TV? Try Film Theory!\n\u25ba  https://www.youtube.com/user/FilmTheorists\n\nWe have a strict policy on image use for our videos, which includes only using images licensed for reuse. If we use fanart we try to find a proper source to credit the artist, though things slip through. If you think we have used your art without your permission, let us know on the Game Theorist subreddit.\n\u25ba https://www.reddit.com/r/GameTheorists",
+      "customUrl": "foodtheorists",
+      "publishedAt": "2020-05-29T18:07:38.290404Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpzyDvxxw55qyn3SnikWgYRhDVonSOGV-A60_b=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpzyDvxxw55qyn3SnikWgYRhDVonSOGV-A60_b=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpzyDvxxw55qyn3SnikWgYRhDVonSOGV-A60_b=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Food Theorists",
+        "description": "Hello Internet! I'm MatPat and welcome to FOOD THEORY, where brain food is always on the menu! Are you ready to debunk food's greatest myths? Does using science to save money at your favorite restaurants sound appetizing to you? Then you are in for a treat! From the best hacks for your McDonald's fast food order to the dark history of food mascots, we cover it all! Get ready to take a big bite out of food's greatest mysteries and join the Food Theorist's community today!\n \nLove video games? Check out Game Theory!\n\u25ba https://www.youtube.com/user/MatthewPatrick13\n\nLove movies and TV? Try Film Theory!\n\u25ba  https://www.youtube.com/user/FilmTheorists\n\nWe have a strict policy on image use for our videos, which includes only using images licensed for reuse. If we use fanart we try to find a proper source to credit the artist, though things slip through. If you think we have used your art without your permission, let us know on the Game Theorist subreddit.\n\u25ba https://www.reddit.com/r/GameTheorists"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHYoe8kQ-7Gn9ASOlmI0k6Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "289130368",
+      "subscriberCount": "3200000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "77"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Food Theorists",
+        "description": "Hello Internet! I'm MatPat and welcome to FOOD THEORY, where brain food is always on the menu! Are you ready to debunk food's greatest myths? Does using science to save money at your favorite restaurants sound appetizing to you? Then you are in for a treat! From the best hacks for your McDonald's fast food order to the dark history of food mascots, we cover it all! Get ready to take a big bite out of food's greatest mysteries and join the Food Theorist's community today!\n \nLove video games? Check out Game Theory!\n\u25ba https://www.youtube.com/user/MatthewPatrick13\n\nLove movies and TV? Try Film Theory!\n\u25ba  https://www.youtube.com/user/FilmTheorists\n\nWe have a strict policy on image use for our videos, which includes only using images licensed for reuse. If we use fanart we try to find a proper source to credit the artist, though things slip through. If you think we have used your art without your permission, let us know on the Game Theorist subreddit.\n\u25ba https://www.reddit.com/r/GameTheorists",
+        "keywords": "\"food theory\" food cooking \"travel food\" education learn \"secret menu\" recipe recipes experiment \"taste test\" \"food history\" \"food science\" \"food hack\" \"street food\" \"fast food\" baking cook cooking \"food myths\" snack \"snack food\" \"drive through\" \"eat smart\" matpat",
+        "unsubscribedTrailer": "CPD8pxjf2mI",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/QAcgIAKhNepkkJgPJFZ2KctYvYJx7a_whY3xze5aAcF49dEPWUv-zotzIBudmQIFvDPFpoDx"
+      }
+    }
+  }
+}

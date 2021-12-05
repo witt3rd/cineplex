@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCzZpgppwC_XQMe8lFiI77-Q",
+  "retrieved_on": "2021-12-05 03:47:36.348940",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "yBT8qu_XD-STEt6We0f3Xnqf7xc",
+    "id": "UCzZpgppwC_XQMe8lFiI77-Q",
+    "snippet": {
+      "title": "John Doyle",
+      "description": "Commentary and interviews on news, culture, and politics from your favorite conservative pal.",
+      "customUrl": "johndoyle",
+      "publishedAt": "2018-10-10T16:23:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRp6g7INHOv2tpJ7rstimscP30hpkr9tqCSoRHx=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRp6g7INHOv2tpJ7rstimscP30hpkr9tqCSoRHx=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRp6g7INHOv2tpJ7rstimscP30hpkr9tqCSoRHx=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "John Doyle",
+        "description": "Commentary and interviews on news, culture, and politics from your favorite conservative pal."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzZpgppwC_XQMe8lFiI77-Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "26399955",
+      "subscriberCount": "323000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "194"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "John Doyle",
+        "description": "Commentary and interviews on news, culture, and politics from your favorite conservative pal.",
+        "keywords": "politics \"political commentary\" conservative america usa",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/rrLg_xCmG88hvp962VsChSQs3v9BdOCd5dE6ACA9s6xUXPR6epWRPX9NHtyRHPtx2r2b0VHNIQY"
+      }
+    }
+  }
+}

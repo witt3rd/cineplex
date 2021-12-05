@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
+  "retrieved_on": "2021-12-05 03:47:41.016872",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "EPG7e_shIg54ri6M4-HoFddM5Nk",
+    "id": "UCBp3w4DCEC64FZr4k9ROxig",
+    "snippet": {
+      "title": "Weights & Biases",
+      "description": "Weights and Biases builds developer tools for machine learning our tool helps with experiment tracking, model optimization, and dataset versioning. Our channel features tutorials on machine learning and deep learning, how to's and demo's of our app, our podcast Gradient Dissent - conversations with industry experts, and researchers presenting their latest works. \n\nWe\u2019re always free for academics and open source projects.",
+      "customUrl": "weightsbiases",
+      "publishedAt": "2018-07-17T18:18:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSRasaVwrStGr8jDS7BWmJ5aiX52KVZ3-yHkpVK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSRasaVwrStGr8jDS7BWmJ5aiX52KVZ3-yHkpVK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSRasaVwrStGr8jDS7BWmJ5aiX52KVZ3-yHkpVK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Weights & Biases",
+        "description": "Weights and Biases builds developer tools for machine learning our tool helps with experiment tracking, model optimization, and dataset versioning. Our channel features tutorials on machine learning and deep learning, how to's and demo's of our app, our podcast Gradient Dissent - conversations with industry experts, and researchers presenting their latest works. \n\nWe\u2019re always free for academics and open source projects."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUBp3w4DCEC64FZr4k9ROxig"
+      }
+    },
+    "statistics": {
+      "viewCount": "1101403",
+      "subscriberCount": "22700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "293"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Weights & Biases",
+        "description": "Weights and Biases builds developer tools for machine learning our tool helps with experiment tracking, model optimization, and dataset versioning. Our channel features tutorials on machine learning and deep learning, how to's and demo's of our app, our podcast Gradient Dissent - conversations with industry experts, and researchers presenting their latest works. \n\nWe\u2019re always free for academics and open source projects.",
+        "keywords": "Machine Learning artificial intelligence tutorials podcasts \"deep learning\" pytorch keras tensorflow ai",
+        "unsubscribedTrailer": "krWjJcW80_A",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/gv9yoHEkN29KmizxI7JDu8SuMc1qVjAaph6Z1WegAttmNCKir3kvVpZL-6BdvugUapZhbpndmA"
+      }
+    }
+  }
+}

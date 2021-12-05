@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC4K6tc2C0hauYw5SoXNtkbA",
+  "retrieved_on": "2021-12-05 03:47:32.562655",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JRfmrdfrJlSspNMeFaywq7zzJ_k",
+    "id": "UC4K6tc2C0hauYw5SoXNtkbA",
+    "snippet": {
+      "title": "Reid Stefan",
+      "description": "Tutorials about recording, mixing, vocals, Ableton and Pro Tools by the Realest Puppet In The Game",
+      "customUrl": "reidstefanmusic",
+      "publishedAt": "2011-11-07T15:37:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQFQ-EPWXy2ObiBsOwkafqfGgYRC1JabUe9EG6w1w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQFQ-EPWXy2ObiBsOwkafqfGgYRC1JabUe9EG6w1w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQFQ-EPWXy2ObiBsOwkafqfGgYRC1JabUe9EG6w1w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Reid Stefan",
+        "description": "Tutorials about recording, mixing, vocals, Ableton and Pro Tools by the Realest Puppet In The Game"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4K6tc2C0hauYw5SoXNtkbA"
+      }
+    },
+    "statistics": {
+      "viewCount": "14068688",
+      "subscriberCount": "269000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "333"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Reid Stefan",
+        "description": "Tutorials about recording, mixing, vocals, Ableton and Pro Tools by the Realest Puppet In The Game",
+        "keywords": "Ableton Tutorials VST Plugin Review Music Production Reid Stefan Puppet Show How To make Hip Hop beats \"ableton 10\" \"pro tools\" puppet vocal vocals autotune \"realest puppet\" \"waves plugins\" uad \"pro tools\" tutorial",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/BfQ8Uz-TB6difSI70tJzdO-BALMz7z-MXrQP9W-82GEg_SEgYeUhMCfulqk96Zj1N4Xs5M40gA"
+      }
+    }
+  }
+}

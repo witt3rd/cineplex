@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCF25AcGNwFB34HvTTj-0jfg",
+  "retrieved_on": "2021-12-05 03:47:30.682859",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "MNJ-pQrMkqJcHMUHQjqraM1gX3o",
+    "id": "UCF25AcGNwFB34HvTTj-0jfg",
+    "snippet": {
+      "title": "AIB",
+      "description": "AIB provides inspiring and informative programming to feed your mind, body and spirit \u2013 from learning a new language to exploring new ideas.  We invite you to enjoy content that expands your horizons, stimulates thought, encourages creativity and motivates action.   A wealth of knowledge and enlightening entertainment are at your fingertips when you enjoy AIB programming!",
+      "customUrl": "aibnetwork",
+      "publishedAt": "2014-04-24T17:41:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRpOByYhIkls2XmykxkOR6QIhO9NajJ5JmKfqn_AA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRpOByYhIkls2XmykxkOR6QIhO9NajJ5JmKfqn_AA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRpOByYhIkls2XmykxkOR6QIhO9NajJ5JmKfqn_AA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AIB",
+        "description": "AIB provides inspiring and informative programming to feed your mind, body and spirit \u2013 from learning a new language to exploring new ideas.  We invite you to enjoy content that expands your horizons, stimulates thought, encourages creativity and motivates action.   A wealth of knowledge and enlightening entertainment are at your fingertips when you enjoy AIB programming!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUF25AcGNwFB34HvTTj-0jfg"
+      }
+    },
+    "statistics": {
+      "viewCount": "56450869",
+      "subscriberCount": "424000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1055"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "AIB",
+        "description": "AIB provides inspiring and informative programming to feed your mind, body and spirit \u2013 from learning a new language to exploring new ideas.  We invite you to enjoy content that expands your horizons, stimulates thought, encourages creativity and motivates action.   A wealth of knowledge and enlightening entertainment are at your fingertips when you enjoy AIB programming!",
+        "keywords": "AIB \"AIB Studios\" \"AIB Network\" \"Atlanta Interfaith Broadcasters\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "I2AufowyjGI",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/wUZ82LCelN-19MvSzn6XxjEmn00u2k5-vgv_2_1dSb23vEwL-F4h1uw4KywlCKur9QmMoiSL"
+      }
+    }
+  }
+}

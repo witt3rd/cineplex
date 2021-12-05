@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCI-Am0t4qQaP_Do9FwMWw3Q",
+  "retrieved_on": "2021-12-05 03:47:37.030680",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HZJ71aPmVmDNbOgFpq7-ZhhtWbw",
+    "id": "UCI-Am0t4qQaP_Do9FwMWw3Q",
+    "snippet": {
+      "title": "Ice Age Farmer",
+      "description": "The Ice Age Farmer broadcast looks deeply at the future of our food supply, from the agenda to defile and centralize control to how this must inform our response:  a rapid move back to decentralized, regenerative food system.\n\nI recommend subscribing on another platform such as:\n\nhttps://iceagefarmer.com/\n\nor https://bitchute.com/iceagefarmer\nor https://odysee.com/@iceagefarmer\n\nFollow on telegram:  https://t.me/iceagefarmer\n",
+      "customUrl": "iceagefarmer",
+      "publishedAt": "2015-04-14T05:02:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTrdmVQ6sMQbs--yIHliS3n8eHFEEMnATSR7Y5N=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTrdmVQ6sMQbs--yIHliS3n8eHFEEMnATSR7Y5N=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTrdmVQ6sMQbs--yIHliS3n8eHFEEMnATSR7Y5N=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ice Age Farmer",
+        "description": "The Ice Age Farmer broadcast looks deeply at the future of our food supply, from the agenda to defile and centralize control to how this must inform our response:  a rapid move back to decentralized, regenerative food system.\n\nI recommend subscribing on another platform such as:\n\nhttps://iceagefarmer.com/\n\nor https://bitchute.com/iceagefarmer\nor https://odysee.com/@iceagefarmer\n\nFollow on telegram:  https://t.me/iceagefarmer\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUI-Am0t4qQaP_Do9FwMWw3Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "2488218",
+      "subscriberCount": "278000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "72"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ice Age Farmer",
+        "description": "The Ice Age Farmer broadcast looks deeply at the future of our food supply, from the agenda to defile and centralize control to how this must inform our response:  a rapid move back to decentralized, regenerative food system.\n\nI recommend subscribing on another platform such as:\n\nhttps://iceagefarmer.com/\n\nor https://bitchute.com/iceagefarmer\nor https://odysee.com/@iceagefarmer\n\nFollow on telegram:  https://t.me/iceagefarmer\n",
+        "keywords": "\"little ice age\" \"grand solar minimum\" \"self sufficiency\" \"mini ice age\" \"solar grand minimum\" surviving \"food shortage\" \"food prices\" \"global cooling\" \"solar minimum\" permaculture prepping prepper \"ice age farmer\"",
+        "trackingAnalyticsAccountId": "UA-25397891-2",
+        "moderateComments": true,
+        "unsubscribedTrailer": "3yiVqH4ToCU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/9GY-mk7JpWJEW2xrb2v0D9kYxOk68oi1fOMnsZV-08ZaAPPFf1BIAZVgBd9RvzsVAhgHDCaefw"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "channel_id": "UC76AVf2JkrwjxNKMuPpscHQ",
+  "retrieved_on": "2021-12-05 03:47:33.306805",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xa8Hbw1E-vUqqOtOs0Vx52SCFzI",
+    "id": "UC76AVf2JkrwjxNKMuPpscHQ",
+    "snippet": {
+      "title": "Docker",
+      "description": "Docker helps millions of developers efficiently and collaboratively build, share and run applications. The Docker collaborative application development platform provides developers with an unmatched experience for an integrated, reliable and secure workflow that accelerates app delivery from code to the cloud. Through a combination of the world\u2019s largest marketplace of trusted content and integrations with leading tools, Docker allows teams to rapidly create modern applications. For more information, visit www.docker.com",
+      "customUrl": "dockerio",
+      "publishedAt": "2013-09-27T00:27:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQumu1LGdEYS-psZhdueZKt5Ef0abnbakGlOIvIr0w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQumu1LGdEYS-psZhdueZKt5Ef0abnbakGlOIvIr0w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQumu1LGdEYS-psZhdueZKt5Ef0abnbakGlOIvIr0w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Docker",
+        "description": "Docker helps millions of developers efficiently and collaboratively build, share and run applications. The Docker collaborative application development platform provides developers with an unmatched experience for an integrated, reliable and secure workflow that accelerates app delivery from code to the cloud. Through a combination of the world\u2019s largest marketplace of trusted content and integrations with leading tools, Docker allows teams to rapidly create modern applications. For more information, visit www.docker.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU76AVf2JkrwjxNKMuPpscHQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "4613286",
+      "subscriberCount": "82700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "803"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Docker",
+        "description": "Docker helps millions of developers efficiently and collaboratively build, share and run applications. The Docker collaborative application development platform provides developers with an unmatched experience for an integrated, reliable and secure workflow that accelerates app delivery from code to the cloud. Through a combination of the world\u2019s largest marketplace of trusted content and integrations with leading tools, Docker allows teams to rapidly create modern applications. For more information, visit www.docker.com",
+        "keywords": "Docker virtualization containers LXC open source Linux cloud computing \"developer tools\" container microservices \"docker training\" \"docker learning\" \"docker desktop\" \"container software\" \"container orchestration\" \"windows containers\" \"linux containers\" \"ci cd\" \"developer workflow\" containerd \"what is a container\" \"what are containers\" kubernetes \"docker kubernetes\" \"docker compose\" \"docker containers\"",
+        "trackingAnalyticsAccountId": "UA-6096819-14",
+        "moderateComments": true,
+        "unsubscribedTrailer": "iqqDU2crIEQ",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/8e4JeFEut_R5CHrGHePLnqd444tc4T7kQV6SZ-JkR71ZZRLW1JjWmjyD9QRkOF8E_i9GgyanWA"
+      }
+    }
+  }
+}

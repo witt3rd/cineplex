@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCwyfHOB4mEQ1Ib3LWTBSRXA",
+  "retrieved_on": "2021-12-05 03:47:32.034221",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "NosKtXIFGrZfY4hYqzJAHYnwdNk",
+    "id": "UCwyfHOB4mEQ1Ib3LWTBSRXA",
+    "snippet": {
+      "title": "Agonised by Love - Topic",
+      "description": "",
+      "publishedAt": "2013-10-22T21:05:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3JMv5KljBnmvyHv5_eZ8-tooZiCf5EK-6KTX2vcUf7jH4JJ3ZsLz8H2to_wXHlKOG6mbQqTQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3JMv5KljBnmvyHv5_eZ8-tooZiCf5EK-6KTX2vcUf7jH4JJ3ZsLz8H2to_wXHlKOG6mbQqTQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3JMv5KljBnmvyHv5_eZ8-tooZiCf5EK-6KTX2vcUf7jH4JJ3ZsLz8H2to_wXHlKOG6mbQqTQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Agonised by Love - Topic",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwyfHOB4mEQ1Ib3LWTBSRXA"
+      }
+    },
+    "statistics": {
+      "viewCount": "4977",
+      "subscriberCount": "37",
+      "hiddenSubscriberCount": false,
+      "videoCount": "60"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Agonised by Love - Topic"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/LXtKMuSGntw6-0hKeyyz5VZaV_RRCYf6tLb6VnvHuNUxw3XvFP5JHKo24D2hz96XGXeTjUbjmQ"
+      }
+    }
+  }
+}

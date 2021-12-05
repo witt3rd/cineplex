@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC4OAAbxtB6QEKaTDb-SEe-Q",
+  "retrieved_on": "2021-12-05 03:47:35.055179",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Fwood9qBbCDlrwENX4n2QLIomMg",
+    "id": "UC4OAAbxtB6QEKaTDb-SEe-Q",
+    "snippet": {
+      "title": "Ricky Tinez",
+      "description": "Focusing on Music from beginner to expert",
+      "customUrl": "rickytinez",
+      "publishedAt": "2013-08-06T01:33:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR45abQP5mWwaZLrQgBEhZC2oJ0d6D4FMiKxrKV1Ao=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR45abQP5mWwaZLrQgBEhZC2oJ0d6D4FMiKxrKV1Ao=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR45abQP5mWwaZLrQgBEhZC2oJ0d6D4FMiKxrKV1Ao=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ricky Tinez",
+        "description": "Focusing on Music from beginner to expert"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4OAAbxtB6QEKaTDb-SEe-Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "14569282",
+      "subscriberCount": "126000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "246"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ricky Tinez",
+        "description": "Focusing on Music from beginner to expert",
+        "keywords": "music song production \"music production\" learn tutorial \"music theory\" electronic producer \"how to\" \"Modular Synthesizer\" eurorack synthesizer synth \"beat making\" beats novation mpc elektron \"mpc 3000\" \"mpc 4000\" dawless \"house music\" minimal minimalism \"music studio\" \"how to record\"",
+        "unsubscribedTrailer": "ngFK2YOmuCU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/hxulh-8CNSjH9Aan10u-JsLa8OH630SRa1wzvAS-1z9aju_RwWB-C6ICy_rFscliSB84mOEF"
+      }
+    }
+  }
+}

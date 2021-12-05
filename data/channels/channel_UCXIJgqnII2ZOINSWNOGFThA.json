@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCXIJgqnII2ZOINSWNOGFThA",
+  "retrieved_on": "2021-12-05 03:47:28.552377",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "TquF1se7AdsGLsZMg8WZDyh6mWc",
+    "id": "UCXIJgqnII2ZOINSWNOGFThA",
+    "snippet": {
+      "title": "Fox News",
+      "description": "FOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. A top cable network in both total viewers and Adults 25-54, FNC has been the most-watched news channel in the country for almost two decades and according to Public Policy Polling is the most trusted television news source in the country. FNC is available in more than 89 million homes and dominates the cable news landscape, routinely notching 12 of the top 15 programs in the genre.",
+      "customUrl": "foxnews",
+      "publishedAt": "2006-09-19T01:48:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRwOrnjFVwxW5doBQvjN2YMjWbAquy6_hdLumzwrdQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRwOrnjFVwxW5doBQvjN2YMjWbAquy6_hdLumzwrdQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRwOrnjFVwxW5doBQvjN2YMjWbAquy6_hdLumzwrdQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fox News",
+        "description": "FOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. A top cable network in both total viewers and Adults 25-54, FNC has been the most-watched news channel in the country for almost two decades and according to Public Policy Polling is the most trusted television news source in the country. FNC is available in more than 89 million homes and dominates the cable news landscape, routinely notching 12 of the top 15 programs in the genre."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    "statistics": {
+      "viewCount": "9433092314",
+      "subscriberCount": "8540000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "76129"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Fox News",
+        "description": "FOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. A top cable network in both total viewers and Adults 25-54, FNC has been the most-watched news channel in the country for almost two decades and according to Public Policy Polling is the most trusted television news source in the country. FNC is available in more than 89 million homes and dominates the cable news landscape, routinely notching 12 of the top 15 programs in the genre.",
+        "keywords": "\"Fox News\" \"Fox News Channel\" FNC \"Breaking News\" \"Live News\" \"The Five\" \"Dana Perino\" \"Greg Gutfeld\" \"Geraldo Rivera\" \"Judge Jeanine\" \"Fox News Sunday\" \"Neil Cavuto\" \"Martha MacCallum\" Outnumbered \"Harris Faulkner\" \"Bill Hemmer\" \"Bret Baier\" \"Special Report\" \"Tucker Carlson Tonight\" Hannity \"Fox and Friends\" \"Media Buzz\" \"Howard Kurtz\" \"Shannon Bream\" \"Fox News @Night\" \"Laura Ingraham\" \"Sean Hannity\" \"Tucker Carlson\" \"Fox and Friends\"",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Z8k5UscXokspcZ08gESqeDVT0felB_rK71MrXad13aXdGOEEEgLM1GsNg8zHblVDLgWupINeJg"
+      }
+    }
+  }
+}

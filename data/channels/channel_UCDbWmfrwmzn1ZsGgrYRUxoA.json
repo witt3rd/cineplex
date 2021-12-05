@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCDbWmfrwmzn1ZsGgrYRUxoA",
+  "retrieved_on": "2021-12-05 03:47:30.163186",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "6Z14Czc-lbRKD3r5KezoxWgbs3A",
+    "id": "UCDbWmfrwmzn1ZsGgrYRUxoA",
+    "snippet": {
+      "title": "The Post Apocalyptic Inventor",
+      "description": "This is a science and technology channel mainly focused on electrical and mechanical engineering.\nhttps://www.patreon.com/TPAI\nhttps://www.subscribestar.com/TPAI\n\n",
+      "customUrl": "thepostapocalypticinventor",
+      "publishedAt": "2013-09-17T11:24:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCWdP5yMf440UFLK1FbcHcUSoO7QZdVkdbpWNd=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCWdP5yMf440UFLK1FbcHcUSoO7QZdVkdbpWNd=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCWdP5yMf440UFLK1FbcHcUSoO7QZdVkdbpWNd=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Post Apocalyptic Inventor",
+        "description": "This is a science and technology channel mainly focused on electrical and mechanical engineering.\nhttps://www.patreon.com/TPAI\nhttps://www.subscribestar.com/TPAI\n\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDbWmfrwmzn1ZsGgrYRUxoA"
+      }
+    },
+    "statistics": {
+      "viewCount": "46194946",
+      "subscriberCount": "471000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "208"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Post Apocalyptic Inventor",
+        "description": "This is a science and technology channel mainly focused on electrical and mechanical engineering.\nhttps://www.patreon.com/TPAI\nhttps://www.subscribestar.com/TPAI\n\n",
+        "keywords": "\"tool repair\" \"tool restoration\" \"german tools\" upcylcing",
+        "unsubscribedTrailer": "W9GXv-i45Xo"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/kiOAz84ZqW53bUgGGzUhwVlITiAGAL4x_snjWYYbLrZRItoQfaaxsOtUujtQW-bM4hpL-khF"
+      }
+    }
+  }
+}

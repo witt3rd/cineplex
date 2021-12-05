@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCmGSJVG3mCRXVOP4yZrU1Dw",
+  "retrieved_on": "2021-12-05 03:47:28.552360",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YZDMJldIYcguAkEffvnPoTxgiSU",
+    "id": "UCmGSJVG3mCRXVOP4yZrU1Dw",
+    "snippet": {
+      "title": "Johnny Harris",
+      "description": "I make videos about maps and many other things. \nMedia/News rep: marc.paskin@unitedtalent.com\nBrand/YouTube/Social rep: rebecca.bibb@unitedtalent.com\nI recently launched: http://brighttrip.com where we make and sell travel courses",
+      "customUrl": "johnnyharrisvox",
+      "publishedAt": "2011-06-08T02:06:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQfM2RzsEcepG6xkKhsp0Qs5n0ktaWWDgrhee-_tg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQfM2RzsEcepG6xkKhsp0Qs5n0ktaWWDgrhee-_tg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQfM2RzsEcepG6xkKhsp0Qs5n0ktaWWDgrhee-_tg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Johnny Harris",
+        "description": "I make videos about maps and many other things. \nMedia/News rep: marc.paskin@unitedtalent.com\nBrand/YouTube/Social rep: rebecca.bibb@unitedtalent.com\nI recently launched: http://brighttrip.com where we make and sell travel courses"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmGSJVG3mCRXVOP4yZrU1Dw"
+      }
+    },
+    "statistics": {
+      "viewCount": "114777379",
+      "subscriberCount": "1920000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "87"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Johnny Harris",
+        "description": "I make videos about maps and many other things. \nMedia/News rep: marc.paskin@unitedtalent.com\nBrand/YouTube/Social rep: rebecca.bibb@unitedtalent.com\nI recently launched: http://brighttrip.com where we make and sell travel courses",
+        "keywords": "Vox Travel Documentary Vlog \"Johnny Harris Vox\" \"Vox Borders\" \"Johnny Harris Borders\"",
+        "unsubscribedTrailer": "p7_TZagxjyk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/XI3Ty2Zip-oYepcVNkTfpVq4MiJuJQ_OEYkVSJORYRbsSeXkquQ9du10hKtbrTL5A8jaLgXlhA"
+      }
+    }
+  }
+}

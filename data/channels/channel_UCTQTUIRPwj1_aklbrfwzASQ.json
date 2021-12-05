@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCTQTUIRPwj1_aklbrfwzASQ",
+  "retrieved_on": "2021-12-05 03:47:32.562689",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "M-G7P_sfETnbGV6pOgiEXZq--tk",
+    "id": "UCTQTUIRPwj1_aklbrfwzASQ",
+    "snippet": {
+      "title": "SunShine",
+      "description": "",
+      "publishedAt": "2007-06-23T19:40:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRyickQYpByJBOOT8sU-MeapCad1X-9hKu8FWw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRyickQYpByJBOOT8sU-MeapCad1X-9hKu8FWw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRyickQYpByJBOOT8sU-MeapCad1X-9hKu8FWw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SunShine",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTQTUIRPwj1_aklbrfwzASQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "861168",
+      "subscriberCount": "22900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "55"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SunShine",
+        "keywords": "RC airplanes Music fun \"3d printing\"",
+        "unsubscribedTrailer": "DFjD8iOUx0I"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Cnm7PgsUe90I7yxi_Ve2HyMnECPeJmFU89OISJj3fdnqCk4pPibINF0LZdf71Hyq1hB63Moi"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCwIbQjoUUGfL5nM30r0fmQw",
+  "retrieved_on": "2021-12-05 03:47:37.030686",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "0FSsu_C_1tIpkuY-IQYWfthsBZI",
+    "id": "UCwIbQjoUUGfL5nM30r0fmQw",
+    "snippet": {
+      "title": "Rutgers University",
+      "description": "Rutgers, The State University of New Jersey (also known as Rutgers University), is the largest institution for higher education in the state of New Jersey. It was originally chartered as Queen's College in 1766 and is the eighth-oldest college in the United States. \n\nRutgers is the largest university within New Jersey's state university system, and it was ranked 54th in the world academically in a 2008 survey conducted by the Institute of Higher Education at Shanghai Jiao Tong University. The university offers more than 100 distinct bachelor, 100 master, and 80 doctoral and professional degree programs across 175 academic departments, 29 degree-granting schools and colleges, 16 of which offer graduate programs of study.\n",
+      "customUrl": "rutgersu",
+      "publishedAt": "2006-03-24T16:53:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT6hFTFq-ce7WC8b_-KhbtDxgvXJHVfsfejfgzJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT6hFTFq-ce7WC8b_-KhbtDxgvXJHVfsfejfgzJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT6hFTFq-ce7WC8b_-KhbtDxgvXJHVfsfejfgzJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rutgers University",
+        "description": "Rutgers, The State University of New Jersey (also known as Rutgers University), is the largest institution for higher education in the state of New Jersey. It was originally chartered as Queen's College in 1766 and is the eighth-oldest college in the United States. \n\nRutgers is the largest university within New Jersey's state university system, and it was ranked 54th in the world academically in a 2008 survey conducted by the Institute of Higher Education at Shanghai Jiao Tong University. The university offers more than 100 distinct bachelor, 100 master, and 80 doctoral and professional degree programs across 175 academic departments, 29 degree-granting schools and colleges, 16 of which offer graduate programs of study.\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwIbQjoUUGfL5nM30r0fmQw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2191321",
+      "subscriberCount": "10000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "885"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rutgers University",
+        "description": "Rutgers, The State University of New Jersey (also known as Rutgers University), is the largest institution for higher education in the state of New Jersey. It was originally chartered as Queen's College in 1766 and is the eighth-oldest college in the United States. \n\nRutgers is the largest university within New Jersey's state university system, and it was ranked 54th in the world academically in a 2008 survey conducted by the Institute of Higher Education at Shanghai Jiao Tong University. The university offers more than 100 distinct bachelor, 100 master, and 80 doctoral and professional degree programs across 175 academic departments, 29 degree-granting schools and colleges, 16 of which offer graduate programs of study.\n",
+        "keywords": "rutgers university new jersey brunswick camden newark research faculty student higher education",
+        "unsubscribedTrailer": "AaGU6corHJQ",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/-kk7j_IPNBJCt9eJD1Z0l1UOGu3FR7eqLDNRAlkpbn3WMfOO1Ynvc9Uc34o9m5tXHy3zrGzopw"
+      }
+    }
+  }
+}

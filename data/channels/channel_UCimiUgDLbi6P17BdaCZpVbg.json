@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCimiUgDLbi6P17BdaCZpVbg",
+  "retrieved_on": "2021-12-05 03:47:28.920422",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "eEXFhhcNUtDWFBc99aFaUt5H9dQ",
+    "id": "UCimiUgDLbi6P17BdaCZpVbg",
+    "snippet": {
+      "title": "exurb1a",
+      "description": "Universe is weird, yo.\n\nSecond channel for silliness \u25ba https://www.youtube.com/channel/UCcoO-8J0EYQHGPFQqwmAzVQ\n\nBooks what I wrote \u25ba https://tinyurl.com/ycnl5bo3 \nT-shirts, mugs, and sadness \u25ba https://teespring.com/stores/exurb1a\nDiscord server \u25ba https://discord.gg/76ybBSR\nLike shit music? I attempt to make that \u25ba https://soundcloud.com/exurbia-1\nFacebook \u25ba https://www.facebook.com/exurb1a/\nPatreon \u25ba https://www.patreon.com/exurb1r?ty=h\n\nFor sending me personalised insults, please direct them at: exurb1achannel@gmail.com",
+      "customUrl": "exurb1a",
+      "publishedAt": "2012-02-14T10:02:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRW1mS55t1oEOW5kq-ww-0_5naTNWotshNsWwTx-g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRW1mS55t1oEOW5kq-ww-0_5naTNWotshNsWwTx-g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRW1mS55t1oEOW5kq-ww-0_5naTNWotshNsWwTx-g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "exurb1a",
+        "description": "Universe is weird, yo.\n\nSecond channel for silliness \u25ba https://www.youtube.com/channel/UCcoO-8J0EYQHGPFQqwmAzVQ\n\nBooks what I wrote \u25ba https://tinyurl.com/ycnl5bo3 \nT-shirts, mugs, and sadness \u25ba https://teespring.com/stores/exurb1a\nDiscord server \u25ba https://discord.gg/76ybBSR\nLike shit music? I attempt to make that \u25ba https://soundcloud.com/exurbia-1\nFacebook \u25ba https://www.facebook.com/exurb1a/\nPatreon \u25ba https://www.patreon.com/exurb1r?ty=h\n\nFor sending me personalised insults, please direct them at: exurb1achannel@gmail.com"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUimiUgDLbi6P17BdaCZpVbg"
+      }
+    },
+    "statistics": {
+      "viewCount": "167013190",
+      "subscriberCount": "2290000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "79"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "exurb1a",
+        "description": "Universe is weird, yo.\n\nSecond channel for silliness \u25ba https://www.youtube.com/channel/UCcoO-8J0EYQHGPFQqwmAzVQ\n\nBooks what I wrote \u25ba https://tinyurl.com/ycnl5bo3 \nT-shirts, mugs, and sadness \u25ba https://teespring.com/stores/exurb1a\nDiscord server \u25ba https://discord.gg/76ybBSR\nLike shit music? I attempt to make that \u25ba https://soundcloud.com/exurbia-1\nFacebook \u25ba https://www.facebook.com/exurb1a/\nPatreon \u25ba https://www.patreon.com/exurb1r?ty=h\n\nFor sending me personalised insults, please direct them at: exurb1achannel@gmail.com",
+        "unsubscribedTrailer": "SvbTFwXagdQ"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/g6lMyki4kg-ggL1v-pVr_kRcGsLRiggf3AtNez8Rk13GEsg0Rghr00aULfSzJXo5Usu4dr7wrw"
+      }
+    }
+  }
+}

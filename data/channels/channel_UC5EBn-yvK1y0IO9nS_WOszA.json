@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC5EBn-yvK1y0IO9nS_WOszA",
+  "retrieved_on": "2021-12-05 03:47:36.095901",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "CRf9G62roUXjmZdEMY18P0tonLM",
+    "id": "UC5EBn-yvK1y0IO9nS_WOszA",
+    "snippet": {
+      "title": "TheEpicCuber",
+      "description": "Hello everyone! I am TheEpicCuber and I strive to make entertaining and professional videos. On this channel you will mostly find Rubik's cube related videos. Enjoy the content!",
+      "customUrl": "theepiccuber",
+      "publishedAt": "2015-02-16T15:11:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSAm7HqnEmgTcErmzk-yQg_1Iw-tPb9VjeTzPXJtg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSAm7HqnEmgTcErmzk-yQg_1Iw-tPb9VjeTzPXJtg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSAm7HqnEmgTcErmzk-yQg_1Iw-tPb9VjeTzPXJtg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TheEpicCuber",
+        "description": "Hello everyone! I am TheEpicCuber and I strive to make entertaining and professional videos. On this channel you will mostly find Rubik's cube related videos. Enjoy the content!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5EBn-yvK1y0IO9nS_WOszA"
+      }
+    },
+    "statistics": {
+      "viewCount": "6190107",
+      "subscriberCount": "26000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "179"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TheEpicCuber",
+        "description": "Hello everyone! I am TheEpicCuber and I strive to make entertaining and professional videos. On this channel you will mostly find Rubik's cube related videos. Enjoy the content!",
+        "keywords": "Cubing Rubik's Solve \"Speed Cube\" Tutorial Unboxing Review",
+        "unsubscribedTrailer": "30vrxuJfIiI",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/hmzJHG-k5uICCNLloDDKlB7k5eiSH9k-36sPnwnBhlocaA1eNT0KXPp5K89s1HDwl30SCzEQ"
+      }
+    }
+  }
+}

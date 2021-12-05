@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC8FCFpPpUMhfVwzXDJrru8w",
+  "retrieved_on": "2021-12-05 03:47:34.308897",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fSqlyefwBVOFJzuDZyfb7Iqvhw4",
+    "id": "UC8FCFpPpUMhfVwzXDJrru8w",
+    "snippet": {
+      "title": "Nick Uhas",
+      "description": "Graduated with a Bachelors of Science from The Ohio State University (Biology Major)\n\nThis channel is all about learning by doing! \n\nTo get more info on a Live Science Show check out this site! www.NickipediaLive.com",
+      "customUrl": "nickipedia",
+      "publishedAt": "2008-11-02T21:24:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQN6UYDQ1Y7ei_yNnCjNJ58gddF5MNkiB70M36wJA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQN6UYDQ1Y7ei_yNnCjNJ58gddF5MNkiB70M36wJA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQN6UYDQ1Y7ei_yNnCjNJ58gddF5MNkiB70M36wJA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Nick Uhas",
+        "description": "Graduated with a Bachelors of Science from The Ohio State University (Biology Major)\n\nThis channel is all about learning by doing! \n\nTo get more info on a Live Science Show check out this site! www.NickipediaLive.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU8FCFpPpUMhfVwzXDJrru8w"
+      }
+    },
+    "statistics": {
+      "viewCount": "74096924",
+      "subscriberCount": "696000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "322"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Nick Uhas",
+        "description": "Graduated with a Bachelors of Science from The Ohio State University (Biology Major)\n\nThis channel is all about learning by doing! \n\nTo get more info on a Live Science Show check out this site! www.NickipediaLive.com",
+        "keywords": "Nickipedia Nick Uhas",
+        "unsubscribedTrailer": "PdlmBsd8Lwk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/xE2aylSd6XW7Kzp0I9axj_M6m87UHyqmZ2GoI_r8AYnTqR6maGAmDvBxdErj4YNnD9bTivk8ow"
+      }
+    }
+  }
+}

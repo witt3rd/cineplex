@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCTBZHxp9PrUjD1BnbDBZLoQ",
+  "retrieved_on": "2021-12-05 03:47:30.436651",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Ge0GRcLSgCQcgH6Hv6EDYrmZh_Q",
+    "id": "UCTBZHxp9PrUjD1BnbDBZLoQ",
+    "snippet": {
+      "title": "Adeptus Psychonautica",
+      "description": "Reviews, commentary, and observations on all things relating to the psychedelic community.\n\nI\u2019ve been an active member of the psychedelic community for several years, taking part in various retreats across Europe and Peru. I created this channel as a way to document my adventures, and as a way to comment on conversations that arise within the global psychedelic community.\n\nI do reviews of ayahuasca retreats, trip reports on my own personal experiences, commentary on hot topics related to psychedelics, and share my general musings on what I think is happening with these amazing substances\n\nI would love to collaborate with any other YouTubers who are interested in these topics. If anyone has a project in mind then feel free to reach out via my email address which is below.",
+      "customUrl": "adeptuspsychonautica",
+      "publishedAt": "2018-06-16T18:01:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/TxeOeimaIgjIRfoKbhAPKyOQI0OZKf4H-S0VFgLjB4dbb92eKHMYD079LuEgNoLsI2khCoNfxzg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/TxeOeimaIgjIRfoKbhAPKyOQI0OZKf4H-S0VFgLjB4dbb92eKHMYD079LuEgNoLsI2khCoNfxzg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/TxeOeimaIgjIRfoKbhAPKyOQI0OZKf4H-S0VFgLjB4dbb92eKHMYD079LuEgNoLsI2khCoNfxzg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Adeptus Psychonautica",
+        "description": "Reviews, commentary, and observations on all things relating to the psychedelic community.\n\nI\u2019ve been an active member of the psychedelic community for several years, taking part in various retreats across Europe and Peru. I created this channel as a way to document my adventures, and as a way to comment on conversations that arise within the global psychedelic community.\n\nI do reviews of ayahuasca retreats, trip reports on my own personal experiences, commentary on hot topics related to psychedelics, and share my general musings on what I think is happening with these amazing substances\n\nI would love to collaborate with any other YouTubers who are interested in these topics. If anyone has a project in mind then feel free to reach out via my email address which is below."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTBZHxp9PrUjD1BnbDBZLoQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1545461",
+      "subscriberCount": "21800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "160"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Adeptus Psychonautica",
+        "description": "Reviews, commentary, and observations on all things relating to the psychedelic community.\n\nI\u2019ve been an active member of the psychedelic community for several years, taking part in various retreats across Europe and Peru. I created this channel as a way to document my adventures, and as a way to comment on conversations that arise within the global psychedelic community.\n\nI do reviews of ayahuasca retreats, trip reports on my own personal experiences, commentary on hot topics related to psychedelics, and share my general musings on what I think is happening with these amazing substances\n\nI would love to collaborate with any other YouTubers who are interested in these topics. If anyone has a project in mind then feel free to reach out via my email address which is below.",
+        "keywords": "psychedelics ayahuasca DMT \"Plant medicines\" \"ayahuasca retreats\" sapo rap\u00e8 \"San Pedro\" \"Adeptus Psychonautica\" \"magic mushrooms\" psilocybin 5MEO \"5 MEO\" kambo",
+        "unsubscribedTrailer": "OxYsZiaow5c",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/0wbCTbyo7SZA1Ko44exXxKsoqelgaiconZ_jIUBSYGTeDZwy8XJlhALZX5Uo2CEB_y8S5dqP"
+      }
+    }
+  }
+}

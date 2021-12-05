@@ -1,0 +1,55 @@
+{
+  "channel_id": "UC88M-XNc4BlzJVJvOyiHZDQ",
+  "retrieved_on": "2021-12-05 03:47:37.514108",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jwPyF7yZTJ3cRTEL1IZy__2OGLs",
+    "id": "UC88M-XNc4BlzJVJvOyiHZDQ",
+    "snippet": {
+      "title": "Pieter Abbeel",
+      "description": "Various Teaching and Research Videos",
+      "customUrl": "pieterabbeel",
+      "publishedAt": "2010-09-12T03:00:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSwvYuuMPcgk6BjOHMvkn1j4T6taYtwXm-2Buochg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSwvYuuMPcgk6BjOHMvkn1j4T6taYtwXm-2Buochg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSwvYuuMPcgk6BjOHMvkn1j4T6taYtwXm-2Buochg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Pieter Abbeel",
+        "description": "Various Teaching and Research Videos"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU88M-XNc4BlzJVJvOyiHZDQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1001746",
+      "subscriberCount": "10700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "80"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Pieter Abbeel",
+        "description": "Various Teaching and Research Videos",
+        "keywords": "\"artificial intelligence\" robotics \"machine learning\""
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCDfHkEuoKb_TXYkQY6BkIIg",
+  "retrieved_on": "2021-12-05 03:47:35.580897",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YP9XEaIoGASeYObMAVIxFZoHsnM",
+    "id": "UCDfHkEuoKb_TXYkQY6BkIIg",
+    "snippet": {
+      "title": "Mod\u2022U: Powerful Concepts in Social Science",
+      "description": "ModU is a collection of modular video learning produced by Duke University's Social Science Research Institute about research methods and topics in the social sciences.   Our website, modu.ssri.duke.edu, will use a flexible modular system that breaks these videos into playlists, chapters, and series on different topics that students of many disciplines will find useful to demystify confusion or help add connective structure to isolated concepts.  The site will also sort these concepts and methods by keywords and provide interesting poll questions to help you see the applications of research concepts.\n\nVisit us soon at modu.ssri.duke.edu for much more!",
+      "customUrl": "modupowerfulconceptsinsocialscience",
+      "publishedAt": "2014-07-10T18:14:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTPp7WGOqZ0W1bwX_T38gV-ZSHQxpOMvJ5a0UoIaA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTPp7WGOqZ0W1bwX_T38gV-ZSHQxpOMvJ5a0UoIaA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTPp7WGOqZ0W1bwX_T38gV-ZSHQxpOMvJ5a0UoIaA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mod\u2022U: Powerful Concepts in Social Science",
+        "description": "ModU is a collection of modular video learning produced by Duke University's Social Science Research Institute about research methods and topics in the social sciences.   Our website, modu.ssri.duke.edu, will use a flexible modular system that breaks these videos into playlists, chapters, and series on different topics that students of many disciplines will find useful to demystify confusion or help add connective structure to isolated concepts.  The site will also sort these concepts and methods by keywords and provide interesting poll questions to help you see the applications of research concepts.\n\nVisit us soon at modu.ssri.duke.edu for much more!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDfHkEuoKb_TXYkQY6BkIIg"
+      }
+    },
+    "statistics": {
+      "viewCount": "2117865",
+      "subscriberCount": "14800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "261"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mod\u2022U: Powerful Concepts in Social Science",
+        "description": "ModU is a collection of modular video learning produced by Duke University's Social Science Research Institute about research methods and topics in the social sciences.   Our website, modu.ssri.duke.edu, will use a flexible modular system that breaks these videos into playlists, chapters, and series on different topics that students of many disciplines will find useful to demystify confusion or help add connective structure to isolated concepts.  The site will also sort these concepts and methods by keywords and provide interesting poll questions to help you see the applications of research concepts.\n\nVisit us soon at modu.ssri.duke.edu for much more!",
+        "keywords": "education \"social science\" research undergraduate graduate university student Duke University",
+        "unsubscribedTrailer": "Wvbp5QgRFQk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/M84ZvbTSdmPZX_baCa88l8tUBzejHLMacUdZk-zZCM_0yJb0BpnM5GUrH_Vs1Umm_f4B0prn"
+      }
+    }
+  }
+}

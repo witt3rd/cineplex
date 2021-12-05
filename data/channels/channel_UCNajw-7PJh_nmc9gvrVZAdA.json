@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCNajw-7PJh_nmc9gvrVZAdA",
+  "retrieved_on": "2021-12-05 03:47:30.960766",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "VwSViUUYZkrHk6OmB8nrOeg53tc",
+    "id": "UCNajw-7PJh_nmc9gvrVZAdA",
+    "snippet": {
+      "title": "Radio Theory",
+      "description": "Electronic music.\n\nNot-for-profit channel.\n\nRadio Theory & Acid in June. \n\nSharing audio information.",
+      "customUrl": "radiotheory",
+      "publishedAt": "2015-04-07T09:45:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/4WTMhaT_5KuBRnCfKgf-Ek0JUIhX4351AUrh-k0W_B4qodFKSVAqrcnvVdHe2EYhqIUumTCJHQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/4WTMhaT_5KuBRnCfKgf-Ek0JUIhX4351AUrh-k0W_B4qodFKSVAqrcnvVdHe2EYhqIUumTCJHQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/4WTMhaT_5KuBRnCfKgf-Ek0JUIhX4351AUrh-k0W_B4qodFKSVAqrcnvVdHe2EYhqIUumTCJHQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "Radio Theory",
+        "description": "Electronic music.\n\nNot-for-profit channel.\n\nRadio Theory & Acid in June. \n\nSharing audio information."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUNajw-7PJh_nmc9gvrVZAdA"
+      }
+    },
+    "statistics": {
+      "viewCount": "13784708",
+      "subscriberCount": "49600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "84"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Radio Theory",
+        "description": "Electronic music.\n\nNot-for-profit channel.\n\nRadio Theory & Acid in June. \n\nSharing audio information.",
+        "keywords": "acid techno sets \"music sets\" electronic music \"music mixes\" \"for set\" \"for sets\" \"electronic music\" electronica",
+        "moderateComments": true,
+        "unsubscribedTrailer": "R17VQOnEzN0",
+        "defaultLanguage": "en-GB",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/hZTHOOXwhWX1C0nqXzMvcJMFShJL1L6dSDreSMc_75702c-6KSeco_6AMoKT3bm64o9I3lZ4gno"
+      }
+    }
+  }
+}

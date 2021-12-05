@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCGl66MHcjMDJyIPZkuKULSQ",
+  "retrieved_on": "2021-12-05 03:47:33.604606",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "75xvId9DU6kobUeral0prbCaHlc",
+    "id": "UCGl66MHcjMDJyIPZkuKULSQ",
+    "snippet": {
+      "title": "Brayden Girard",
+      "description": "Husband and Father of two, CrossFit enthusiast, Web Design agency owner,  College professor and average gamer.... the Java keeps me going.\n\nHere to create educational code and app tutorials, talk tech and hardware, play fun and live gaming content. \n\nCatch me live:  Mon - Thurs 10pm EST - https://caffeine.tv/JavaDad\n",
+      "customUrl": "braydengirard",
+      "publishedAt": "2020-08-12T01:09:02.448966Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSCLIrAtUjhMBqmBJ6_8bJcN28-s_l_iiM5KcK8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSCLIrAtUjhMBqmBJ6_8bJcN28-s_l_iiM5KcK8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSCLIrAtUjhMBqmBJ6_8bJcN28-s_l_iiM5KcK8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Brayden Girard",
+        "description": "Husband and Father of two, CrossFit enthusiast, Web Design agency owner,  College professor and average gamer.... the Java keeps me going.\n\nHere to create educational code and app tutorials, talk tech and hardware, play fun and live gaming content. \n\nCatch me live:  Mon - Thurs 10pm EST - https://caffeine.tv/JavaDad\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUGl66MHcjMDJyIPZkuKULSQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "83344",
+      "subscriberCount": "1870",
+      "hiddenSubscriberCount": false,
+      "videoCount": "57"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Brayden Girard",
+        "description": "Husband and Father of two, CrossFit enthusiast, Web Design agency owner,  College professor and average gamer.... the Java keeps me going.\n\nHere to create educational code and app tutorials, talk tech and hardware, play fun and live gaming content. \n\nCatch me live:  Mon - Thurs 10pm EST - https://caffeine.tv/JavaDad\n",
+        "keywords": "gaming \"call of duty\" cod \"modern warfare\" warzone \"first person shooter\" pc \"pc gaming\" \"battle royal\" competative esports tutorials \"web development\" \"web design\" shopify node angular javascript liquid html css",
+        "unsubscribedTrailer": "P6gEnVlJPOc",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/JNtLp-RuOmkgIZCslCWZ_kXTcMQwf7dVLQ1nAmv__epWwTDjCQhmwtJBjMHWm6l1iqBRrZud7A"
+      }
+    }
+  }
+}

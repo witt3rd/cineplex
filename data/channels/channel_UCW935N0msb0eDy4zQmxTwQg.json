@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCW935N0msb0eDy4zQmxTwQg",
+  "retrieved_on": "2021-12-05 03:47:32.034150",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Rg_Hd2CxEog4lRFy9eyU3MmpcwQ",
+    "id": "UCW935N0msb0eDy4zQmxTwQg",
+    "snippet": {
+      "title": "ODESZA",
+      "description": "Welcome to the official YouTube channel of ODESZA, a Seattle-based production duo consisting of Catacombkid and BeachesBeaches.\n\nBRONSON - The new project from ODESZA & Golden Features - https://youtube.com/wearebronson",
+      "customUrl": "odesza",
+      "publishedAt": "2013-01-10T15:49:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR5pm7W6BoD227zbdMk7K8pkWQrx_1RxqlBikLriA=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR5pm7W6BoD227zbdMk7K8pkWQrx_1RxqlBikLriA=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR5pm7W6BoD227zbdMk7K8pkWQrx_1RxqlBikLriA=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ODESZA",
+        "description": "Welcome to the official YouTube channel of ODESZA, a Seattle-based production duo consisting of Catacombkid and BeachesBeaches.\n\nBRONSON - The new project from ODESZA & Golden Features - https://youtube.com/wearebronson"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUW935N0msb0eDy4zQmxTwQg"
+      }
+    },
+    "statistics": {
+      "viewCount": "321828733",
+      "subscriberCount": "616000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "194"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ODESZA",
+        "description": "Welcome to the official YouTube channel of ODESZA, a Seattle-based production duo consisting of Catacombkid and BeachesBeaches.\n\nBRONSON - The new project from ODESZA & Golden Features - https://youtube.com/wearebronson",
+        "keywords": "\"ODESZA Live\" ODESZA \"Say My Name\" \"In Return\" \"Harrison Mills\" \"Clayton Knight\" \"All We Need\" Bloom"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/PxaWgxcMeKn4famYvqW0JNTO5HOvcZ-x68HN-as_DohENsbXq7WQruO2Vi03iPMuNDkNwx9I"
+      }
+    }
+  }
+}

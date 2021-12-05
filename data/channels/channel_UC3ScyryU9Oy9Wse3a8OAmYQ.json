@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+  "retrieved_on": "2021-12-05 03:47:30.163035",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "eDDBVYZL7IJVwA4p8fy3qX-Klxw",
+    "id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "snippet": {
+      "title": "FRONTLINE PBS | Official",
+      "description": "FRONTLINE is investigative journalism that questions, explains and changes our world. \n\nYou can watch more than 200 of our documentaries, for free, any time, here: www.pbs.org/frontline\n\nFunding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Major funding for FRONTLINE is provided by the Ford Foundation. Additional funding is provided by the Abrams Foundation; the John D. and Catherine T. MacArthur Foundation; Park Foundation; and the FRONTLINE Journalism Fund with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen.\n",
+      "customUrl": "frontline",
+      "publishedAt": "2013-08-07T21:14:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSiL9pA-0x54neM9qVCWm6kR1rUx8ARFCSWks19Cw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSiL9pA-0x54neM9qVCWm6kR1rUx8ARFCSWks19Cw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSiL9pA-0x54neM9qVCWm6kR1rUx8ARFCSWks19Cw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "FRONTLINE PBS | Official",
+        "description": "FRONTLINE is investigative journalism that questions, explains and changes our world. \n\nYou can watch more than 200 of our documentaries, for free, any time, here: www.pbs.org/frontline\n\nFunding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Major funding for FRONTLINE is provided by the Ford Foundation. Additional funding is provided by the Abrams Foundation; the John D. and Catherine T. MacArthur Foundation; Park Foundation; and the FRONTLINE Journalism Fund with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen.\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3ScyryU9Oy9Wse3a8OAmYQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "210045106",
+      "subscriberCount": "1260000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "786"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "FRONTLINE PBS | Official",
+        "description": "FRONTLINE is investigative journalism that questions, explains and changes our world. \n\nYou can watch more than 200 of our documentaries, for free, any time, here: www.pbs.org/frontline\n\nFunding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Major funding for FRONTLINE is provided by the Ford Foundation. Additional funding is provided by the Abrams Foundation; the John D. and Catherine T. MacArthur Foundation; Park Foundation; and the FRONTLINE Journalism Fund with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen.\n",
+        "keywords": "\"documentary film\" \"pbs program\" \"investigative journalism\"",
+        "trackingAnalyticsAccountId": "UA-3988874-6",
+        "unsubscribedTrailer": "AWrR5dGlkgw",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/_7AA7tGATb7tHpVVZq57wEm8NFYmmEvV5Vti1MPp5T1FFB8ngmpGnd_NUlOPxdzEQ1kDavwG"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCl6341jkNXtIke0--R0Bg6w",
+  "retrieved_on": "2021-12-05 03:47:36.095860",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "zyFa_WYfPdAj2-SyKGuHrBKQ83M",
+    "id": "UCl6341jkNXtIke0--R0Bg6w",
+    "snippet": {
+      "title": "Craig Hinrichs",
+      "description": "I am an Accelerated Learning Fanatic. I love learning new things. \n\nWatch video's of me making games, playing games and drawing art for games. \n\nI love pixel art, chip tune music and explaining how I work.",
+      "customUrl": "craighinrichs",
+      "publishedAt": "2008-03-02T04:09:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSgkwhVa_D-ZfwWocSTHMPAFlo7B-DCs_dOsd5zHQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSgkwhVa_D-ZfwWocSTHMPAFlo7B-DCs_dOsd5zHQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSgkwhVa_D-ZfwWocSTHMPAFlo7B-DCs_dOsd5zHQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Craig Hinrichs",
+        "description": "I am an Accelerated Learning Fanatic. I love learning new things. \n\nWatch video's of me making games, playing games and drawing art for games. \n\nI love pixel art, chip tune music and explaining how I work."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUl6341jkNXtIke0--R0Bg6w"
+      }
+    },
+    "statistics": {
+      "viewCount": "52756",
+      "subscriberCount": "369",
+      "hiddenSubscriberCount": false,
+      "videoCount": "79"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Craig Hinrichs",
+        "description": "I am an Accelerated Learning Fanatic. I love learning new things. \n\nWatch video's of me making games, playing games and drawing art for games. \n\nI love pixel art, chip tune music and explaining how I work.",
+        "keywords": "gamedev art music pixel unity tutorial",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/B0Us8hhOfxq7aLTuZyXYCMiiCwEvReXv7LTty-QjMo3fDxClaJn9UaH3uT-1glWtNY_FCzWbMAY"
+      }
+    }
+  }
+}

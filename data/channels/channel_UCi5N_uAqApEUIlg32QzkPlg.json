@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCi5N_uAqApEUIlg32QzkPlg",
+  "retrieved_on": "2021-12-05 03:47:32.034115",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "2eN4OeQPAVPvKpE7k5V7PdU5pUs",
+    "id": "UCi5N_uAqApEUIlg32QzkPlg",
+    "snippet": {
+      "title": "Bret Weinstein",
+      "description": "Videos about adaptive evolution, good governance, the breakdown of civil discourse and subsequent mayhem at Evergreen and other college campuses, and about the emerging Coalition of the Reasonable.",
+      "customUrl": "bretweinsteindarkhorse",
+      "publishedAt": "2014-04-23T02:40:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIJOQwkd55IIt3JT6fF2CdmvTVvAEyMyP-Fc70=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIJOQwkd55IIt3JT6fF2CdmvTVvAEyMyP-Fc70=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIJOQwkd55IIt3JT6fF2CdmvTVvAEyMyP-Fc70=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Bret Weinstein",
+        "description": "Videos about adaptive evolution, good governance, the breakdown of civil discourse and subsequent mayhem at Evergreen and other college campuses, and about the emerging Coalition of the Reasonable."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUi5N_uAqApEUIlg32QzkPlg"
+      }
+    },
+    "statistics": {
+      "viewCount": "29485915",
+      "subscriberCount": "395000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "287"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Bret Weinstein",
+        "description": "Videos about adaptive evolution, good governance, the breakdown of civil discourse and subsequent mayhem at Evergreen and other college campuses, and about the emerging Coalition of the Reasonable.",
+        "keywords": "Evolution Selection Adaptation Trade-offs \"Bret Weinstein\" Governance \"Heather Heying\"",
+        "unsubscribedTrailer": "rnClIOoYCFg",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/RTexOxDbC3igPqtJtD7C5i2IEfvTOmzE0pusaUvFVN3LjE8f1WD6JZWn1nbcOrvNFTphOvFn"
+      }
+    }
+  }
+}

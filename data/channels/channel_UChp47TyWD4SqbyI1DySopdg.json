@@ -1,0 +1,60 @@
+{
+  "channel_id": "UChp47TyWD4SqbyI1DySopdg",
+  "retrieved_on": "2021-12-05 03:47:30.960896",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "oh8rrGyM4vav3aM_8KIRuEf3AKM",
+    "id": "UChp47TyWD4SqbyI1DySopdg",
+    "snippet": {
+      "title": "SnippetofWisdom",
+      "description": "Dedicated to Philosophy.\n\nWeekly Uploads.\n\nAll of these Snips are HOMEMADE and UNIQUE, These Videos are NOT Re-Uploaded from other channels.\n\n(Best With Headphones)\n",
+      "customUrl": "snippetofwisdom",
+      "publishedAt": "2017-02-26T01:31:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSAo1K302C09o_LUlBARp6dUq3bnbloE9h18ahK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSAo1K302C09o_LUlBARp6dUq3bnbloE9h18ahK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSAo1K302C09o_LUlBARp6dUq3bnbloE9h18ahK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SnippetofWisdom",
+        "description": "Dedicated to Philosophy.\n\nWeekly Uploads.\n\nAll of these Snips are HOMEMADE and UNIQUE, These Videos are NOT Re-Uploaded from other channels.\n\n(Best With Headphones)\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhp47TyWD4SqbyI1DySopdg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1102595",
+      "subscriberCount": "8890",
+      "hiddenSubscriberCount": false,
+      "videoCount": "830"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SnippetofWisdom",
+        "description": "Dedicated to Philosophy.\n\nWeekly Uploads.\n\nAll of these Snips are HOMEMADE and UNIQUE, These Videos are NOT Re-Uploaded from other channels.\n\n(Best With Headphones)\n",
+        "keywords": "Philosophy AlanWatts TerenceMcKenna Poetry \"Dolores Cannon\" QHHT Wisdom \"Life and Death\" meaning poem HD \"High Quality\" SOW Snippet clip lecture \"Alan Watts\" \"Terence McKenna\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/LQwXOfcu2A8AAstkNBZgRpR9b0HgIcWqyaMIYbvc0Ju4GYu1Mtf-nAWirFzdk7Tkv7-9beT7"
+      }
+    }
+  }
+}

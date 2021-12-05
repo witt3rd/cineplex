@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCgRQHK8Ttr1j9xCEpCAlgbQ",
+  "retrieved_on": "2021-12-05 03:47:31.570452",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "q_JD0ClHWI_mnec0gAuQv72W4Xw",
+    "id": "UCgRQHK8Ttr1j9xCEpCAlgbQ",
+    "snippet": {
+      "title": "Variety",
+      "description": "Variety is the leading daily source of entertainment news and analysis, with access to the most influential events, innovative panel discussions, top film festivals and unmatched awards season coverage.",
+      "customUrl": "variety",
+      "publishedAt": "2006-03-04T06:29:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRibilYytD-x9XaThYf3qXRf-a-uUnAUWRHDnNk9w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRibilYytD-x9XaThYf3qXRf-a-uUnAUWRHDnNk9w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRibilYytD-x9XaThYf3qXRf-a-uUnAUWRHDnNk9w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Variety",
+        "description": "Variety is the leading daily source of entertainment news and analysis, with access to the most influential events, innovative panel discussions, top film festivals and unmatched awards season coverage."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgRQHK8Ttr1j9xCEpCAlgbQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "427529245",
+      "subscriberCount": "882000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "4202"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Variety",
+        "description": "Variety is the leading daily source of entertainment news and analysis, with access to the most influential events, innovative panel discussions, top film festivals and unmatched awards season coverage.",
+        "keywords": "variety daily entertainment breaking news reviews film tv screening series legit movies movie interview \"behind the scenes\" sundance \"film festival\" \"film making\" trailers trailer",
+        "unsubscribedTrailer": "eq0vxugX7gk"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/d-PSMKsfKie4O36uNUiT3JQ5ZUVwEsYSRjY1YpY5C3auV-1MUgnqHFbXXl3iqnmpyGGyjPyt"
+      }
+    }
+  }
+}

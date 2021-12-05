@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCfM16DTFqDGnfIVft9K2qCQ",
+  "retrieved_on": "2021-12-05 03:47:29.188795",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5bC4wWUHlrm4HDG-AMuuT_-oKJY",
+    "id": "UCfM16DTFqDGnfIVft9K2qCQ",
+    "snippet": {
+      "title": "Unus Annus Archive",
+      "description": "Join Our Discord: https://discord.gg/Cw3KUx78y8\nThis account is not going to be making any money it souly will just be reuploads so unus annus never dies, Love you Mark and Ethan. This wasnt easy to download all full quality videos, and im sorry if i disappointed you both.",
+      "customUrl": "unusannusarchives",
+      "publishedAt": "2020-08-14T19:33:43.004459Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_tekKV0gpudW9FgGfHD5jV_bfnSAkmTzwCa37=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_tekKV0gpudW9FgGfHD5jV_bfnSAkmTzwCa37=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_tekKV0gpudW9FgGfHD5jV_bfnSAkmTzwCa37=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Unus Annus Archive",
+        "description": "Join Our Discord: https://discord.gg/Cw3KUx78y8\nThis account is not going to be making any money it souly will just be reuploads so unus annus never dies, Love you Mark and Ethan. This wasnt easy to download all full quality videos, and im sorry if i disappointed you both."
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfM16DTFqDGnfIVft9K2qCQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "81208",
+      "subscriberCount": "25300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Unus Annus Archive",
+        "description": "Join Our Discord: https://discord.gg/Cw3KUx78y8\nThis account is not going to be making any money it souly will just be reuploads so unus annus never dies, Love you Mark and Ethan. This wasnt easy to download all full quality videos, and im sorry if i disappointed you both.",
+        "keywords": "Archive Unus Annus \"Unus Annus\" Death dead dying coffin funny fun laugh tiktok gaming boy girl life live no yes yeah nah always hell heaven living",
+        "moderateComments": true,
+        "country": "AU"
+      }
+    }
+  }
+}

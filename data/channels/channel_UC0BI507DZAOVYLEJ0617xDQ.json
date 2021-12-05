@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC0BI507DZAOVYLEJ0617xDQ",
+  "retrieved_on": "2021-12-05 03:47:29.188808",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5NgFTav4FGBUdAmB9d02PlhvXrg",
+    "id": "UC0BI507DZAOVYLEJ0617xDQ",
+    "snippet": {
+      "title": "Omar Balfaqih",
+      "description": "Game Developer & Filmmaker\nIn this channel, you will find tutorials on how to create your own game and some of my short films.\nIf you have any questions or a tutorial request, just leave a comment or message me.\n\nLEARN | CREATE | SHARE",
+      "customUrl": "obalfaqih",
+      "publishedAt": "2011-07-10T19:57:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdEeW801YpHxau8_LtYJ66k0BPVWTSe3XaHk6M2w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdEeW801YpHxau8_LtYJ66k0BPVWTSe3XaHk6M2w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdEeW801YpHxau8_LtYJ66k0BPVWTSe3XaHk6M2w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Omar Balfaqih",
+        "description": "Game Developer & Filmmaker\nIn this channel, you will find tutorials on how to create your own game and some of my short films.\nIf you have any questions or a tutorial request, just leave a comment or message me.\n\nLEARN | CREATE | SHARE"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU0BI507DZAOVYLEJ0617xDQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "717731",
+      "subscriberCount": "10500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "85"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Omar Balfaqih",
+        "description": "Game Developer & Filmmaker\nIn this channel, you will find tutorials on how to create your own game and some of my short films.\nIf you have any questions or a tutorial request, just leave a comment or message me.\n\nLEARN | CREATE | SHARE",
+        "keywords": "Unity3D Tutorials filmmaking \"unity tutorials\"",
+        "trackingAnalyticsAccountId": "UA-53570418-1",
+        "unsubscribedTrailer": "7ZIisO6Fu8M"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Y3YrAwYUIF9FkNAw4-ylipRXsF-6z7vUGc8uGIqZ_XYdtO--nIc9mxiTO47lN2NNpU6Qlt5NNZ0"
+      }
+    }
+  }
+}

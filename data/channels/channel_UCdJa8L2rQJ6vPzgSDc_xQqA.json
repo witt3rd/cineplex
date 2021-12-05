@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCdJa8L2rQJ6vPzgSDc_xQqA",
+  "retrieved_on": "2021-12-05 03:47:29.188877",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "tzG6I_52FPxvY0tD9teydZgZ4Z0",
+    "id": "UCdJa8L2rQJ6vPzgSDc_xQqA",
+    "snippet": {
+      "title": "Coccolino Deep",
+      "description": "Coccolino Deep is meant to capture melancholic shades of electronic music. The Blends create a special ambience with the combination of the music and magical atmosphere giving wings to the mind and a charm to sadness. The beat has magnetism and will mesmerize any meditative music lover by provoking a spiritual trip through his infinite soothing sounds and deep grooves. Listen as you take on new dimensions of his musical world where love, dark and dreaming are endless.",
+      "customUrl": "coccolinodeepchannel",
+      "publishedAt": "2012-03-08T00:31:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMgc0waZtfFAqG-T5-pQmsAlA7WKYkD31Y5bTLKQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMgc0waZtfFAqG-T5-pQmsAlA7WKYkD31Y5bTLKQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMgc0waZtfFAqG-T5-pQmsAlA7WKYkD31Y5bTLKQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Coccolino Deep",
+        "description": "Coccolino Deep is meant to capture melancholic shades of electronic music. The Blends create a special ambience with the combination of the music and magical atmosphere giving wings to the mind and a charm to sadness. The beat has magnetism and will mesmerize any meditative music lover by provoking a spiritual trip through his infinite soothing sounds and deep grooves. Listen as you take on new dimensions of his musical world where love, dark and dreaming are endless."
+      },
+      "country": "IT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUdJa8L2rQJ6vPzgSDc_xQqA"
+      }
+    },
+    "statistics": {
+      "viewCount": "96974851",
+      "subscriberCount": "264000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "231"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Coccolino Deep",
+        "description": "Coccolino Deep is meant to capture melancholic shades of electronic music. The Blends create a special ambience with the combination of the music and magical atmosphere giving wings to the mind and a charm to sadness. The beat has magnetism and will mesmerize any meditative music lover by provoking a spiritual trip through his infinite soothing sounds and deep grooves. Listen as you take on new dimensions of his musical world where love, dark and dreaming are endless.",
+        "keywords": "\"Coccolino Deep\"",
+        "unsubscribedTrailer": "sbFOJN5tq1s",
+        "country": "IT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/VM8CUYLdqIwjaUwRV2IRbpJyKDtBMHyKp7xfnrM-xcVn8ofJaocgZvKRv7mO-DmlyWk4l4cfWw"
+      }
+    }
+  }
+}

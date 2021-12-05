@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCNZYpcqym8gHcNg2GWcC6nQ",
+  "retrieved_on": "2021-12-05 03:47:34.308920",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4f7ISVUxlptAuz6cIUWzCV_IrXk",
+    "id": "UCNZYpcqym8gHcNg2GWcC6nQ",
+    "snippet": {
+      "title": "S!X - Music",
+      "description": "S!X - Music is an independent Hip-Hop label.\n\nSoundcloud : https://soundcloud.com/s1xmusic\nFacebook : https://www.facebook.com/s1xmusic/\nBandcamp : https://s1x-music.bandcamp.com/music\nInstagram : https://www.instagram.com/s1x.music/\nTwitter : https://twitter.com/S1X_Music\n\nChannel Header by Ingrid Sasu: \nhttps://www.artstation.com/ruxandra",
+      "customUrl": "sxmusicsupplier",
+      "publishedAt": "2013-03-09T15:24:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRUvX-C7E8OWZzkxYSkSX8x-EXocN1RASUyhCCIQw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRUvX-C7E8OWZzkxYSkSX8x-EXocN1RASUyhCCIQw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRUvX-C7E8OWZzkxYSkSX8x-EXocN1RASUyhCCIQw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "S!X - Music",
+        "description": "S!X - Music is an independent Hip-Hop label.\n\nSoundcloud : https://soundcloud.com/s1xmusic\nFacebook : https://www.facebook.com/s1xmusic/\nBandcamp : https://s1x-music.bandcamp.com/music\nInstagram : https://www.instagram.com/s1x.music/\nTwitter : https://twitter.com/S1X_Music\n\nChannel Header by Ingrid Sasu: \nhttps://www.artstation.com/ruxandra"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUNZYpcqym8gHcNg2GWcC6nQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "48356653",
+      "subscriberCount": "170000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "377"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "S!X - Music",
+        "description": "S!X - Music is an independent Hip-Hop label.\n\nSoundcloud : https://soundcloud.com/s1xmusic\nFacebook : https://www.facebook.com/s1xmusic/\nBandcamp : https://s1x-music.bandcamp.com/music\nInstagram : https://www.instagram.com/s1x.music/\nTwitter : https://twitter.com/S1X_Music\n\nChannel Header by Ingrid Sasu: \nhttps://www.artstation.com/ruxandra",
+        "keywords": "Musik Trip-Hop Trip Hop Hip Lo-Fi Downtempo Beat Sample Chill Nujazz Abstract Instrumental Rap",
+        "unsubscribedTrailer": "Mha92VNKdUM",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/lMPFAIL3wKNsxluvRX5bAhC7Ha1lcdibyI0LcBBUEYd3SuSp34fPBYySMa1QF3fRbCme2QLpPw"
+      }
+    }
+  }
+}

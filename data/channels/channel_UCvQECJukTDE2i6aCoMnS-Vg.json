@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCvQECJukTDE2i6aCoMnS-Vg",
+  "retrieved_on": "2021-12-05 03:47:30.960921",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Kx24Xtt6gQwXz_RQU8G4ncBEC3E",
+    "id": "UCvQECJukTDE2i6aCoMnS-Vg",
+    "snippet": {
+      "title": "Big Think",
+      "description": "Big Think is the leading source of expert-driven, actionable, educational content -- with thousands of videos, featuring experts ranging from Bill Clinton to Bill Nye, we help you get smarter, faster. Get actionable lessons from the world\u2019s greatest thinkers & doers. Our experts are either disrupting or leading their respective fields. We aim to help you explore the big ideas and core skills that define knowledge in the 21st century, so you can apply them to the questions and challenges in your own life. Other Frequent contributors include Michio Kaku & Neil DeGrasse Tyson.\n\nHead to Bigthink.com for a multitude of articles just as informative and satisfying as our videos. New articles posted daily on a range of intellectual topics. \u200bJoin Big Think Edge, to gain access to an immense library of content. It features insight from many of the most celebrated and intelligent individuals in the world today.\n\n   - Subscribe for daily videos.\n   - Business inquiries and fan suggestions welcome.",
+      "customUrl": "bigthink",
+      "publishedAt": "2006-10-01T18:37:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXw8xzgPAinxvye1bcc9hbR8BOJIZAS7BKEP23Ag=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXw8xzgPAinxvye1bcc9hbR8BOJIZAS7BKEP23Ag=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXw8xzgPAinxvye1bcc9hbR8BOJIZAS7BKEP23Ag=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Big Think",
+        "description": "Big Think is the leading source of expert-driven, actionable, educational content -- with thousands of videos, featuring experts ranging from Bill Clinton to Bill Nye, we help you get smarter, faster. Get actionable lessons from the world\u2019s greatest thinkers & doers. Our experts are either disrupting or leading their respective fields. We aim to help you explore the big ideas and core skills that define knowledge in the 21st century, so you can apply them to the questions and challenges in your own life. Other Frequent contributors include Michio Kaku & Neil DeGrasse Tyson.\n\nHead to Bigthink.com for a multitude of articles just as informative and satisfying as our videos. New articles posted daily on a range of intellectual topics. \u200bJoin Big Think Edge, to gain access to an immense library of content. It features insight from many of the most celebrated and intelligent individuals in the world today.\n\n   - Subscribe for daily videos.\n   - Business inquiries and fan suggestions welcome."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvQECJukTDE2i6aCoMnS-Vg"
+      }
+    },
+    "statistics": {
+      "viewCount": "434372201",
+      "subscriberCount": "3560000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "8630"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Big Think",
+        "description": "Big Think is the leading source of expert-driven, actionable, educational content -- with thousands of videos, featuring experts ranging from Bill Clinton to Bill Nye, we help you get smarter, faster. Get actionable lessons from the world\u2019s greatest thinkers & doers. Our experts are either disrupting or leading their respective fields. We aim to help you explore the big ideas and core skills that define knowledge in the 21st century, so you can apply them to the questions and challenges in your own life. Other Frequent contributors include Michio Kaku & Neil DeGrasse Tyson.\n\nHead to Bigthink.com for a multitude of articles just as informative and satisfying as our videos. New articles posted daily on a range of intellectual topics. \u200bJoin Big Think Edge, to gain access to an immense library of content. It features insight from many of the most celebrated and intelligent individuals in the world today.\n\n   - Subscribe for daily videos.\n   - Business inquiries and fan suggestions welcome.",
+        "keywords": "\"Big Think\" BigThink.com bigthink science philosophy tech \"big bang\" einstein \"albert einstein\" \"nikola tesla\" tesla physics \"general relativity\" gravity \"michio kaku\" \"bill nye\" \"neil degrasse tyson\" universe mindfulness happiness \"navy seals\" \"sam harris\" \"bryan cranston\" dimension \"henry rollins\" learning \"soft skills\" AI anxiety astronomer astronaut brain neuroscience \"big bang\" creativity climate climate capitalism evolution \"dark matter\" sociopath \"richard dawkins\" sleep reality psychopath \"quantum computing\" negotiation \"slavoj zizek\" zizek \"steven pinker\" \"big things\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "YBN4xI3Z-lc",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/xJSyTKgqJmU2Wz00Jggv_oeXTHxeOnu-zoNqZ7TyPBQNRQJ2q8ckFj1QLjsLJfZLQ8BkAsXd"
+      }
+    }
+  }
+}

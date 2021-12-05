@@ -1,0 +1,61 @@
+{
+  "channel_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "retrieved_on": "2021-12-05 03:47:35.856738",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JPh46BeeAvSWzJN776O0MexIZco",
+    "id": "UClt01z1wHHT7c5lKcU8pxRQ",
+    "snippet": {
+      "title": "hbomberguy",
+      "description": "I make videos\n\nSend all enquiries to contact@hbomb.zone",
+      "customUrl": "hbomberguy",
+      "publishedAt": "2006-05-28T10:30:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT7HwScqlt1VQiUWKbiEH1RPAoUlpX0HKaVfQlSAw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT7HwScqlt1VQiUWKbiEH1RPAoUlpX0HKaVfQlSAw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT7HwScqlt1VQiUWKbiEH1RPAoUlpX0HKaVfQlSAw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "hbomberguy",
+        "description": "I make videos\n\nSend all enquiries to contact@hbomb.zone"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUlt01z1wHHT7c5lKcU8pxRQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "108672241",
+      "subscriberCount": "927000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "66"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "hbomberguy",
+        "description": "I make videos\n\nSend all enquiries to contact@hbomb.zone",
+        "keywords": "hbomb hbomberguy",
+        "moderateComments": true,
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/NsvaX3qvR113saY5BreVAMQW3RTYe1LS7VYoGjfGwRAGPePfpx3uKSRlBJUlRziBgwDgG-4vgQ"
+      }
+    }
+  }
+}

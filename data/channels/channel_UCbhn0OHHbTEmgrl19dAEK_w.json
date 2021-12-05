@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCbhn0OHHbTEmgrl19dAEK_w",
+  "retrieved_on": "2021-12-05 03:47:28.304175",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mdYMT7tkBz3039WiiRZJuq9B6Lk",
+    "id": "UCbhn0OHHbTEmgrl19dAEK_w",
+    "snippet": {
+      "title": "Arrival",
+      "description": "Zero-emission solutions for cities. Human-centred, intelligent design - to revitalise public transportation.",
+      "customUrl": "arrivaluk",
+      "publishedAt": "2016-04-12T09:28:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AlWcwk0JYDp5H47MfH0OaJhPxW1xQ0ny1s9XxZ06vDL5s31BZpDZ1tFLokxQ7ARS2vkfxZ-7sA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AlWcwk0JYDp5H47MfH0OaJhPxW1xQ0ny1s9XxZ06vDL5s31BZpDZ1tFLokxQ7ARS2vkfxZ-7sA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AlWcwk0JYDp5H47MfH0OaJhPxW1xQ0ny1s9XxZ06vDL5s31BZpDZ1tFLokxQ7ARS2vkfxZ-7sA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Arrival",
+        "description": "Zero-emission solutions for cities. Human-centred, intelligent design - to revitalise public transportation."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUbhn0OHHbTEmgrl19dAEK_w"
+      }
+    },
+    "statistics": {
+      "viewCount": "3153099",
+      "subscriberCount": "35800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "26"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Arrival",
+        "description": "Zero-emission solutions for cities. Human-centred, intelligent design - to revitalise public transportation.",
+        "keywords": "electric \"electric vehicles\" vans mobility automotive technology \"Arrival Ltd\" Arrival \"Arrival Company\" sustainability EVs \"deep tech\" robotics AI buses transport \"public transport\" \"commercial vehicles\"",
+        "trackingAnalyticsAccountId": "UA-105075982-2",
+        "unsubscribedTrailer": "0vktIin4v_s",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jBNMHrM02mgIQ7144hWABJcyfSpArKjzqv6R8sDDb19SJ2TUD2h72__XMWqONvWjX1mosxcnaQ"
+      }
+    }
+  }
+}

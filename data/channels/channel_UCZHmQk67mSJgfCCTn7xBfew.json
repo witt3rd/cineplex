@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+  "retrieved_on": "2021-12-05 03:47:28.057543",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mYRIHNqIj7Fo5GJJIWaoQhIsM20",
+    "id": "UCZHmQk67mSJgfCCTn7xBfew",
+    "snippet": {
+      "title": "Yannic Kilcher",
+      "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society.\n\nTwitter: https://twitter.com/ykilcher\nDiscord: https://discord.gg/4H8xxDF\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n\n\n\n",
+      "customUrl": "yannickilcher",
+      "publishedAt": "2013-11-18T16:54:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQzqqKbjLJPwUxjbRR3y8g5Yn9MsW0C-AfgUNxzWTE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQzqqKbjLJPwUxjbRR3y8g5Yn9MsW0C-AfgUNxzWTE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQzqqKbjLJPwUxjbRR3y8g5Yn9MsW0C-AfgUNxzWTE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Yannic Kilcher",
+        "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society.\n\nTwitter: https://twitter.com/ykilcher\nDiscord: https://discord.gg/4H8xxDF\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n\n\n\n"
+      },
+      "country": "CH"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZHmQk67mSJgfCCTn7xBfew"
+      }
+    },
+    "statistics": {
+      "viewCount": "5052013",
+      "subscriberCount": "113000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "294"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Yannic Kilcher",
+        "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society.\n\nTwitter: https://twitter.com/ykilcher\nDiscord: https://discord.gg/4H8xxDF\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n\n\n\n",
+        "keywords": "\"machine learning\" \"deep learning\" papers academia arxiv \"reinforcement learning\" \"artificial intelligence\" ai ml research google openai transformers gpt-3 programming \"neural networks\" \"reinforcement learning\" \"natural language processing\" \"attention mechanism\" \"machine learning news\" explained \"machine learning explained\" \"machine learning tutorial\" \"deep learning explained\" \"deep learning tutorial\" \"neural networks explained\" \"neural networks tutorial\" \"tensorflow tutorial\" \"pytorch tutorial\"",
+        "unsubscribedTrailer": "rR5_emVeyBk",
+        "country": "CH"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/V5tY3i1gSQKSYLNtanocpUq7AKWV5nTQS_3Rttel7eOpqOWuK-0zYPyhbXRlJbXR2MCBAnrX"
+      }
+    }
+  }
+}

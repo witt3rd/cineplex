@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCjrL1ugI6xGqQ7VEyV6aRAg",
+  "retrieved_on": "2021-12-05 03:47:30.960886",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "F7kF0yCtpCP5Xq9h-Kh8-aj4H_I",
+    "id": "UCjrL1ugI6xGqQ7VEyV6aRAg",
+    "snippet": {
+      "title": "BBQ Pit Boys",
+      "description": "YouTube's #1 Channel for BBQ and Grilling with 850+ instructional recipes on video, 340 million video views, and over 5 million Subscribers and Followers across Social Media platforms. Watch the BBQ Pit Boys demonstrate the techniques for cooking up some classic barbecue and grilling recipes, show you what BBQ tools you'll need, how to select the correct cuts of meat for the grill or smoker, and the tips and tricks on how to be a Pitmaster. Sign-up, join, or form a BBQ Pit Boys Chapter, by heading on over to our Website -now over 18,000 member Chapters in 100+ countries Worldwide. Contact us below or head on over to our website. Business inquiries welcomed.! ",
+      "customUrl": "bbqpitboys",
+      "publishedAt": "2007-01-17T12:41:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ65gL4Of8r4-KUwx_JtsJtB7KCV-N6NyCoQK9Xeg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ65gL4Of8r4-KUwx_JtsJtB7KCV-N6NyCoQK9Xeg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ65gL4Of8r4-KUwx_JtsJtB7KCV-N6NyCoQK9Xeg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "BBQ Pit Boys",
+        "description": "YouTube's #1 Channel for BBQ and Grilling with 850+ instructional recipes on video, 340 million video views, and over 5 million Subscribers and Followers across Social Media platforms. Watch the BBQ Pit Boys demonstrate the techniques for cooking up some classic barbecue and grilling recipes, show you what BBQ tools you'll need, how to select the correct cuts of meat for the grill or smoker, and the tips and tricks on how to be a Pitmaster. Sign-up, join, or form a BBQ Pit Boys Chapter, by heading on over to our Website -now over 18,000 member Chapters in 100+ countries Worldwide. Contact us below or head on over to our website. Business inquiries welcomed.! "
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUjrL1ugI6xGqQ7VEyV6aRAg"
+      }
+    },
+    "statistics": {
+      "viewCount": "346262649",
+      "subscriberCount": "2160000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "975"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "BBQ Pit Boys",
+        "description": "YouTube's #1 Channel for BBQ and Grilling with 850+ instructional recipes on video, 340 million video views, and over 5 million Subscribers and Followers across Social Media platforms. Watch the BBQ Pit Boys demonstrate the techniques for cooking up some classic barbecue and grilling recipes, show you what BBQ tools you'll need, how to select the correct cuts of meat for the grill or smoker, and the tips and tricks on how to be a Pitmaster. Sign-up, join, or form a BBQ Pit Boys Chapter, by heading on over to our Website -now over 18,000 member Chapters in 100+ countries Worldwide. Contact us below or head on over to our website. Business inquiries welcomed.! ",
+        "keywords": "recipes recipe food \"bbq recipes\" barbecue bbq barbeque \"cooking channel\" \"food channel\" \"cooking show\" grill grilling beef chicken pork ribs fish cooking cook tailgating bar-b-que chef steak \"food network\" bbq-pitmasters Bacon pork-ribs beef-steak how-to charcoal pellet-grill weber gas-grill propane propane-grill ribeye pork-chop grilled lamb roast-lamb roast-beef pork-roast discover seasoning spice rub SPG sauce flavor flavour sear grilled-chicken grate cook cooked charbroil broil",
+        "moderateComments": true,
+        "unsubscribedTrailer": "lOpRyheS3Zs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/iD2U-_GJs-KfJQU8Z7t2jB6uXv906wNKogmXSrN0RVlaRkJi5Cp2kisK5v7LlthsJx0L4P-2cg"
+      }
+    }
+  }
+}

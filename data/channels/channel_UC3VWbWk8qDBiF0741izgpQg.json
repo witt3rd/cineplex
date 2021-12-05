@@ -1,0 +1,63 @@
+{
+  "channel_id": "UC3VWbWk8qDBiF0741izgpQg",
+  "retrieved_on": "2021-12-05 03:47:34.534376",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "hefT3UPsdTxwoyRXoowO5O90jxQ",
+    "id": "UC3VWbWk8qDBiF0741izgpQg",
+    "snippet": {
+      "title": "Med School Insiders",
+      "description": "Med School Insiders offers pre-med and medical students with high yield, evidence-based, and effective strategies on pursuing a career in medicine. Narrated by Dr. Kevin Jubbal M.D., our videos empower future doctors and physicians with the tools to live effectively both personally and professionally.\n\nMed School Insiders\n1887 WHITNEY MESA DR #7776\nHENDERSON, NV 89014\n\nDisclaimer: Content of Med School Insiders is the opinion of Dr. Jubbal and does not constitute medical advice. The content and associated links provide general information for general educational purposes only.",
+      "customUrl": "medschoolinsiders",
+      "publishedAt": "2016-10-04T23:49:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT5H57ZzRrbBIelkUv9V_ZrzU57DmgGLJfZeFAD=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT5H57ZzRrbBIelkUv9V_ZrzU57DmgGLJfZeFAD=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT5H57ZzRrbBIelkUv9V_ZrzU57DmgGLJfZeFAD=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Med School Insiders",
+        "description": "Med School Insiders offers pre-med and medical students with high yield, evidence-based, and effective strategies on pursuing a career in medicine. Narrated by Dr. Kevin Jubbal M.D., our videos empower future doctors and physicians with the tools to live effectively both personally and professionally.\n\nMed School Insiders\n1887 WHITNEY MESA DR #7776\nHENDERSON, NV 89014\n\nDisclaimer: Content of Med School Insiders is the opinion of Dr. Jubbal and does not constitute medical advice. The content and associated links provide general information for general educational purposes only."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3VWbWk8qDBiF0741izgpQg"
+      }
+    },
+    "statistics": {
+      "viewCount": "80076764",
+      "subscriberCount": "1350000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "258"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Med School Insiders",
+        "description": "Med School Insiders offers pre-med and medical students with high yield, evidence-based, and effective strategies on pursuing a career in medicine. Narrated by Dr. Kevin Jubbal M.D., our videos empower future doctors and physicians with the tools to live effectively both personally and professionally.\n\nMed School Insiders\n1887 WHITNEY MESA DR #7776\nHENDERSON, NV 89014\n\nDisclaimer: Content of Med School Insiders is the opinion of Dr. Jubbal and does not constitute medical advice. The content and associated links provide general information for general educational purposes only.",
+        "keywords": "\"med school\" \"medical school\" \"study strategies\" \"study tips\" \"med student\" doctor surgeon",
+        "trackingAnalyticsAccountId": "UA-85362519-2",
+        "moderateComments": true,
+        "unsubscribedTrailer": "MjXDWDtbVRM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/AvDAhSnQO8hNpEm5bmbgORJ0h_udZ8bIwO8UOyZbSzCNuWNIVs3JCpzq0Gef95Pp-7zuQ1Cw2g"
+      }
+    }
+  }
+}

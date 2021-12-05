@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCjRkUtHQ774mTg1vrQ6uA5A",
+  "retrieved_on": "2021-12-05 03:47:35.856840",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Z1-GAkrhtUsetAu4Oy7jujZ7GHI",
+    "id": "UCjRkUtHQ774mTg1vrQ6uA5A",
+    "snippet": {
+      "title": "Luke Towan",
+      "description": "\u270e My goal is to provide you with the absolute best tutorials on building realistic scenery dioramas and model railroad details showing you that anything is possible \ud83d\ude32\n\nWhether you\u2019re a total beginner or a seasoned professional you will surely find some useful tips and advice here.\n\nDon\u2019t be afraid to jump in the deep end and have a go at building your own scenery dioramas and models because if your anything like me you\u2019ll surprise yourself at how easy it is to make some great looking and very realistic models.\n\nThanks for stopping by, Cheers Luke \ud83d\ude09",
+      "customUrl": "luketowan",
+      "publishedAt": "2013-09-18T04:04:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTeLfc_3cBl8l53viWw8Lk5uJTcL4bkVFO5AcNaaw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTeLfc_3cBl8l53viWw8Lk5uJTcL4bkVFO5AcNaaw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTeLfc_3cBl8l53viWw8Lk5uJTcL4bkVFO5AcNaaw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Luke Towan",
+        "description": "\u270e My goal is to provide you with the absolute best tutorials on building realistic scenery dioramas and model railroad details showing you that anything is possible \ud83d\ude32\n\nWhether you\u2019re a total beginner or a seasoned professional you will surely find some useful tips and advice here.\n\nDon\u2019t be afraid to jump in the deep end and have a go at building your own scenery dioramas and models because if your anything like me you\u2019ll surprise yourself at how easy it is to make some great looking and very realistic models.\n\nThanks for stopping by, Cheers Luke \ud83d\ude09"
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUjRkUtHQ774mTg1vrQ6uA5A"
+      }
+    },
+    "statistics": {
+      "viewCount": "89614093",
+      "subscriberCount": "1160000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "106"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Luke Towan",
+        "description": "\u270e My goal is to provide you with the absolute best tutorials on building realistic scenery dioramas and model railroad details showing you that anything is possible \ud83d\ude32\n\nWhether you\u2019re a total beginner or a seasoned professional you will surely find some useful tips and advice here.\n\nDon\u2019t be afraid to jump in the deep end and have a go at building your own scenery dioramas and models because if your anything like me you\u2019ll surprise yourself at how easy it is to make some great looking and very realistic models.\n\nThanks for stopping by, Cheers Luke \ud83d\ude09",
+        "keywords": "Boulder Creek Railroad Luke Towan",
+        "trackingAnalyticsAccountId": "UA-64277772-2",
+        "unsubscribedTrailer": "YThJTafY5JU",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/uBmrAah0CP0WTtbD2OYZlMuKHH8gge0Ypbxm4c0EGfsdP4tfYllLwQ16dPLf_Ui3skXj-y2B2w"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCZuNN5_Qnv1rFyN5wqQtXmQ",
+  "retrieved_on": "2021-12-05 03:47:30.163189",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ADtEXOMPr736h9IenFCpj90UoIE",
+    "id": "UCZuNN5_Qnv1rFyN5wqQtXmQ",
+    "snippet": {
+      "title": "Dave Frampton",
+      "description": "I'm a solo game developer currently working on a huge game: Sapiens. Here on YouTube I'm chronicling the development in frequent devlogs, and posting a few other informative and behind the scenes videos.",
+      "publishedAt": "2009-05-23T10:52:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCODMD62CIfVhQy9kZ3KNergyJvwcRENid0PAnSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCODMD62CIfVhQy9kZ3KNergyJvwcRENid0PAnSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCODMD62CIfVhQy9kZ3KNergyJvwcRENid0PAnSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dave Frampton",
+        "description": "I'm a solo game developer currently working on a huge game: Sapiens. Here on YouTube I'm chronicling the development in frequent devlogs, and posting a few other informative and behind the scenes videos."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZuNN5_Qnv1rFyN5wqQtXmQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "2426070",
+      "subscriberCount": "28200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "81"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dave Frampton",
+        "description": "I'm a solo game developer currently working on a huge game: Sapiens. Here on YouTube I'm chronicling the development in frequent devlogs, and posting a few other informative and behind the scenes videos.",
+        "keywords": "sapiens blockheads game \"indie game development\" \"game development\" devlog \"game devlog\"",
+        "unsubscribedTrailer": "Amr5otowkNw"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/DtwGVI6e6ROXopTVxByzKn6MXOdtuV29TtBZkVhuhC2c0ZYb7RfCfvM8Vko82SSj0laFqx1Zrg"
+      }
+    }
+  }
+}

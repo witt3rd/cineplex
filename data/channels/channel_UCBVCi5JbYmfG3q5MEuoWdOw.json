@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCBVCi5JbYmfG3q5MEuoWdOw",
+  "retrieved_on": "2021-12-05 03:47:37.514129",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "sLTTxDr7AUYWWKkxvA7Iix8c4FI",
+    "id": "UCBVCi5JbYmfG3q5MEuoWdOw",
+    "snippet": {
+      "title": "Udacity",
+      "description": "Udacity, a pioneer in online education, is building \"University by Silicon Valley\", a new type of online university that:\n- teaches the actual programming skills that industry employers need today;\n- delivers credentials endorsed by employers, because they built them;\n- provides education at a fraction of the cost and time of traditional schools.\n\nWith industry giants - Google, AT&T, Facebook, Salesforce, Cloudera, etc. - we offer Nanodegree credentials, designed so professionals become Web Developers, Data Analysts, or Mobile Developers. Supported by our communities of coaches and students, our students learn programming and data science through a series of online courses and hand-on projects that help them practice and build a convincing portfolio.",
+      "customUrl": "udacity",
+      "publishedAt": "2012-02-02T20:15:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Yccv0SRpsqOjlDY9Xr3Jy3vjAm_i-iybPGp1Ymi0pMGOfHfkPwloeSKEhU7eKliWwoWAzK9W4w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Yccv0SRpsqOjlDY9Xr3Jy3vjAm_i-iybPGp1Ymi0pMGOfHfkPwloeSKEhU7eKliWwoWAzK9W4w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Yccv0SRpsqOjlDY9Xr3Jy3vjAm_i-iybPGp1Ymi0pMGOfHfkPwloeSKEhU7eKliWwoWAzK9W4w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Udacity",
+        "description": "Udacity, a pioneer in online education, is building \"University by Silicon Valley\", a new type of online university that:\n- teaches the actual programming skills that industry employers need today;\n- delivers credentials endorsed by employers, because they built them;\n- provides education at a fraction of the cost and time of traditional schools.\n\nWith industry giants - Google, AT&T, Facebook, Salesforce, Cloudera, etc. - we offer Nanodegree credentials, designed so professionals become Web Developers, Data Analysts, or Mobile Developers. Supported by our communities of coaches and students, our students learn programming and data science through a series of online courses and hand-on projects that help them practice and build a convincing portfolio."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUBVCi5JbYmfG3q5MEuoWdOw"
+      }
+    },
+    "statistics": {
+      "viewCount": "155764420",
+      "subscriberCount": "514000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "29849"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Udacity",
+        "description": "Udacity, a pioneer in online education, is building \"University by Silicon Valley\", a new type of online university that:\n- teaches the actual programming skills that industry employers need today;\n- delivers credentials endorsed by employers, because they built them;\n- provides education at a fraction of the cost and time of traditional schools.\n\nWith industry giants - Google, AT&T, Facebook, Salesforce, Cloudera, etc. - we offer Nanodegree credentials, designed so professionals become Web Developers, Data Analysts, or Mobile Developers. Supported by our communities of coaches and students, our students learn programming and data science through a series of online courses and hand-on projects that help them practice and build a convincing portfolio.",
+        "keywords": "course class cs programming education engineering \"machine learning\" technology education udacity \"artificial intelligence\" \"autonomous systems\" business",
+        "trackingAnalyticsAccountId": "UA-28524234-14",
+        "moderateComments": true,
+        "unsubscribedTrailer": "KTyvfMWekDU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "http://yt3.ggpht.com/pJB8_anVqH02cu-oTpTLJsBlRAtAMQsqWgnWRK2g5ZSLvp31bd0FHP0XXeyCh4UNcqbzmuZd3A"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCj1VqrHhDte54oLgPG4xpuQ",
+  "retrieved_on": "2021-12-05 03:47:33.306746",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "IQgLBitx9LUmdkae68xPvAPqvqE",
+    "id": "UCj1VqrHhDte54oLgPG4xpuQ",
+    "snippet": {
+      "title": "Stuff Made Here",
+      "description": "I've been building things for as long as I can remember. It all started when my dad exposed me to plastic model building and soldering when I was around 4 years old. That set me on a path to building increasingly complex things and becoming an engineer. My goal is to do the same for as many people as possible by exposing them to the joy of engineering, fabricating and creating things out of nothing. If I'm lucky a few people may become engineers, which would be great for the world. Engineering is awesome.\n\n",
+      "customUrl": "stuffmadehere",
+      "publishedAt": "2020-03-04T03:26:50.334487Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTxWiKJ2-n6RPoLq1XskpeLFu02J30pgs7lYBR=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTxWiKJ2-n6RPoLq1XskpeLFu02J30pgs7lYBR=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTxWiKJ2-n6RPoLq1XskpeLFu02J30pgs7lYBR=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Stuff Made Here",
+        "description": "I've been building things for as long as I can remember. It all started when my dad exposed me to plastic model building and soldering when I was around 4 years old. That set me on a path to building increasingly complex things and becoming an engineer. My goal is to do the same for as many people as possible by exposing them to the joy of engineering, fabricating and creating things out of nothing. If I'm lucky a few people may become engineers, which would be great for the world. Engineering is awesome.\n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUj1VqrHhDte54oLgPG4xpuQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "175749357",
+      "subscriberCount": "3500000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "25"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Stuff Made Here",
+        "description": "I've been building things for as long as I can remember. It all started when my dad exposed me to plastic model building and soldering when I was around 4 years old. That set me on a path to building increasingly complex things and becoming an engineer. My goal is to do the same for as many people as possible by exposing them to the joy of engineering, fabricating and creating things out of nothing. If I'm lucky a few people may become engineers, which would be great for the world. Engineering is awesome.\n\n",
+        "keywords": "engineering \"3D Printing\" \"plasma cutting\" design build make create programming python CAD machining welding tormach \"stuff made here\"",
+        "unsubscribedTrailer": "SjJulcvTA7Y",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/OOngB_Xrem5z-3t3mMU57hHnPd_lbplwjMyJAgs7ANCBfLdfLcBL8RSqrgQ0mm0pEFLcdOyMsQ"
+      }
+    }
+  }
+}

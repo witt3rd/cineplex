@@ -1,0 +1,53 @@
+{
+  "channel_id": "UCVGx4c1a52RkzM2yPsZ9yZw",
+  "retrieved_on": "2021-12-05 03:47:38.208167",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "NY-D9BuDZp83i-9jVf8rME72GJs",
+    "id": "UCVGx4c1a52RkzM2yPsZ9yZw",
+    "snippet": {
+      "title": "SciFiBMovieGuy",
+      "description": "",
+      "publishedAt": "2009-09-25T04:15:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQwjOL8rmW-W4J0J3X2ezrK6uc95ldzd2T78uGK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQwjOL8rmW-W4J0J3X2ezrK6uc95ldzd2T78uGK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQwjOL8rmW-W4J0J3X2ezrK6uc95ldzd2T78uGK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SciFiBMovieGuy",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVGx4c1a52RkzM2yPsZ9yZw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1191674",
+      "subscriberCount": "866",
+      "hiddenSubscriberCount": false,
+      "videoCount": "33"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SciFiBMovieGuy",
+        "keywords": "trailer B movie flick ufo alien sci-fi cult ufo flying saucer martian 50's horror drive-in theater"
+      }
+    }
+  }
+}

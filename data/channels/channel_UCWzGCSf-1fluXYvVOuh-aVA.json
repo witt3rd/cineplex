@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCWzGCSf-1fluXYvVOuh-aVA",
+  "retrieved_on": "2021-12-05 03:47:34.084523",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "od44CtRB7Ufvm7kYH3eRDyMgW5k",
+    "id": "UCWzGCSf-1fluXYvVOuh-aVA",
+    "snippet": {
+      "title": "Tycho",
+      "description": "TYCHO = ISO50",
+      "customUrl": "tychomusic",
+      "publishedAt": "2007-01-03T09:34:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxPkcqHqL8y2-NfnpmTeCJHQ7zE9XZktsvs9vqvA=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxPkcqHqL8y2-NfnpmTeCJHQ7zE9XZktsvs9vqvA=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxPkcqHqL8y2-NfnpmTeCJHQ7zE9XZktsvs9vqvA=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tycho",
+        "description": "TYCHO = ISO50"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUWzGCSf-1fluXYvVOuh-aVA"
+      }
+    },
+    "statistics": {
+      "viewCount": "26659348",
+      "subscriberCount": "77700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "58"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tycho",
+        "description": "TYCHO = ISO50",
+        "keywords": "tycho iso50 music electronic \"ninja tune\" \"Mom + Pop Music\" \"electronic music\"",
+        "unsubscribedTrailer": "pIRmRgq1bWk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/nd1MFZUO8x9j3q59izud_o-OCEkNF7cJ5b-Le77zRKe4lCqbgUf4eF7CXRjDWk2abb3Yrp-m"
+      }
+    }
+  }
+}

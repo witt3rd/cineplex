@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCmkeI_NrzwcIgZYHCFSxXTQ",
+  "retrieved_on": "2021-12-05 03:47:37.250719",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "PI9ubGOzUxf7W45dO0Bg6DP9YBo",
+    "id": "UCmkeI_NrzwcIgZYHCFSxXTQ",
+    "snippet": {
+      "title": "Graham Plowman - Composer",
+      "description": "Showcasing the work of H.P. Lovecraft and wider Cthulhu Mythos music composer, Graham Plowman.\n\nHorror music, Cthulhu music, Lovecraftian music, scary and dark music...It's what I do. All released music is available on iTunes, Bandcamp, Spotify, Amazon, and many other platforms. I also compose for film, games and generally any other media.\n\nContact me through email (click the button below to see my email address).",
+      "customUrl": "grahamplowmancomposer",
+      "publishedAt": "2006-07-07T13:24:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Y7NizgM65NU6Gn30dSSLSK6BnayFSXuphZTZ6cwpsGCHQAkrnP6s3a208_1TJKIxb3-sUwLBRhM=s88-c-k-c0x00ffffff-no-nd-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Y7NizgM65NU6Gn30dSSLSK6BnayFSXuphZTZ6cwpsGCHQAkrnP6s3a208_1TJKIxb3-sUwLBRhM=s240-c-k-c0x00ffffff-no-nd-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Y7NizgM65NU6Gn30dSSLSK6BnayFSXuphZTZ6cwpsGCHQAkrnP6s3a208_1TJKIxb3-sUwLBRhM=s800-c-k-c0x00ffffff-no-nd-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Graham Plowman - Composer",
+        "description": "Showcasing the work of H.P. Lovecraft and wider Cthulhu Mythos music composer, Graham Plowman.\n\nHorror music, Cthulhu music, Lovecraftian music, scary and dark music...It's what I do. All released music is available on iTunes, Bandcamp, Spotify, Amazon, and many other platforms. I also compose for film, games and generally any other media.\n\nContact me through email (click the button below to see my email address)."
+      },
+      "country": "IE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmkeI_NrzwcIgZYHCFSxXTQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "9860100",
+      "subscriberCount": "39300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "112"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Graham Plowman - Composer",
+        "description": "Showcasing the work of H.P. Lovecraft and wider Cthulhu Mythos music composer, Graham Plowman.\n\nHorror music, Cthulhu music, Lovecraftian music, scary and dark music...It's what I do. All released music is available on iTunes, Bandcamp, Spotify, Amazon, and many other platforms. I also compose for film, games and generally any other media.\n\nContact me through email (click the button below to see my email address).",
+        "keywords": "Lovecraft \"HP Lovecraft\" Cthulhu \"Horror Music\" \"creepy Music\" \"Film Score\" Soundtrack \"Epic Music\" \"scary music\" Tolkien Azathoth nyarlathotep \"great old ones\" \"outer gods\" shoggoths halloween \"king in yellow\" \"dark music\" \"dark orchestral\"",
+        "unsubscribedTrailer": "WICREUuY2sM",
+        "country": "IE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Z3YR3uCorvBpnrOZ_nG-cT_ni5weIn8LlWc45tUC1TT5Bfzbph_ujxcJ1pzbWREXpWBi8v7UHYA"
+      }
+    }
+  }
+}

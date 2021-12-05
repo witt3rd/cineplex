@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCf5POn4NNKIIGmXOu6qhbsQ",
+  "retrieved_on": "2021-12-05 03:47:32.034139",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "zTxSUVIloEJkZEeEuDwU6tGa0AI",
+    "id": "UCf5POn4NNKIIGmXOu6qhbsQ",
+    "snippet": {
+      "title": "Inside A Mind",
+      "description": "Reality and fiction blends together more than you'd believe. Sometimes it can be praised. Other's can be looked upon in disgust.\n\nThis channel takes a dive into the strangest corners of the internet. Analysing how artists incorporate their work into reality, and how the public react to it.",
+      "customUrl": "insideamindinsideamind",
+      "publishedAt": "2016-09-15T17:01:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ibk-iDUAgl47MyFgdmlVi0Mhmknvd8hO7PfcblzZVfDmx71DFs3BB04rWeIz-POMF1oqZF6os-o=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ibk-iDUAgl47MyFgdmlVi0Mhmknvd8hO7PfcblzZVfDmx71DFs3BB04rWeIz-POMF1oqZF6os-o=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ibk-iDUAgl47MyFgdmlVi0Mhmknvd8hO7PfcblzZVfDmx71DFs3BB04rWeIz-POMF1oqZF6os-o=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Inside A Mind",
+        "description": "Reality and fiction blends together more than you'd believe. Sometimes it can be praised. Other's can be looked upon in disgust.\n\nThis channel takes a dive into the strangest corners of the internet. Analysing how artists incorporate their work into reality, and how the public react to it."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUf5POn4NNKIIGmXOu6qhbsQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "77503934",
+      "subscriberCount": "739000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "88"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Inside A Mind",
+        "description": "Reality and fiction blends together more than you'd believe. Sometimes it can be praised. Other's can be looked upon in disgust.\n\nThis channel takes a dive into the strangest corners of the internet. Analysing how artists incorporate their work into reality, and how the public react to it.",
+        "keywords": "\"inside a mind\" theory \"The Universe\" \"Daisy Brown\" Cloverfield",
+        "unsubscribedTrailer": "RC9obLkKpUw",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/D9KsOJwwX76yRWOeRgLcIePLMfbQtE0ABS3TTJYlAwoUXhl8cqXo-my2vFqZlTm39BbQ1lH8xw"
+      }
+    }
+  }
+}

@@ -30,7 +30,7 @@ See also [Channel Playlists](#channel-playlists)
 
 #### YouTube Channels
 
-YouTube channels ... Channel related collections are prefixed with `yt_ch_<entity>`, where `<entity>` is one of the below.
+YouTube channels ... Channel related collections are prefixed with `yt_channel_<entity>`, where `<entity>` is one of the below.
 
 ##### Channel Info
 

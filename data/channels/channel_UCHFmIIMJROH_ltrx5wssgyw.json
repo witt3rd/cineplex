@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCHFmIIMJROH_ltrx5wssgyw",
+  "retrieved_on": "2021-12-05 03:47:31.570419",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-AADV3xxiJ9OcFCzyoVzoxsTRT8",
+    "id": "UCHFmIIMJROH_ltrx5wssgyw",
+    "snippet": {
+      "title": "KVZoneHD",
+      "description": "Welcome to KVZoneHD, home of:\n\u2714 Game-movie marathons with 100% Lore coverage\n\u2714 High-quality Full HD & Ultra HD 4K walkthroughs\n\u2714 Professionally edited playthroughs from PC & console games\n\nYour subscription and support helps a lot bringing new quality content to the channel.\nFollow our latest posts on:\nhttps://twitter.com/KVZGamingHD\nhttps://www.facebook.com/KVZGamingHD\n\nFor bussiness inquiries & collabs: kvzone@gmail.com",
+      "publishedAt": "2006-10-24T23:44:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRFOA_w4AMQsrbkeVPMEz6lVwxABcaBrC_N89XbFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRFOA_w4AMQsrbkeVPMEz6lVwxABcaBrC_N89XbFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRFOA_w4AMQsrbkeVPMEz6lVwxABcaBrC_N89XbFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "KVZoneHD",
+        "description": "Welcome to KVZoneHD, home of:\n\u2714 Game-movie marathons with 100% Lore coverage\n\u2714 High-quality Full HD & Ultra HD 4K walkthroughs\n\u2714 Professionally edited playthroughs from PC & console games\n\nYour subscription and support helps a lot bringing new quality content to the channel.\nFollow our latest posts on:\nhttps://twitter.com/KVZGamingHD\nhttps://www.facebook.com/KVZGamingHD\n\nFor bussiness inquiries & collabs: kvzone@gmail.com"
+      },
+      "country": "AR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHFmIIMJROH_ltrx5wssgyw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1560508",
+      "subscriberCount": "3970",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1524"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "KVZoneHD",
+        "description": "Welcome to KVZoneHD, home of:\n\u2714 Game-movie marathons with 100% Lore coverage\n\u2714 High-quality Full HD & Ultra HD 4K walkthroughs\n\u2714 Professionally edited playthroughs from PC & console games\n\nYour subscription and support helps a lot bringing new quality content to the channel.\nFollow our latest posts on:\nhttps://twitter.com/KVZGamingHD\nhttps://www.facebook.com/KVZGamingHD\n\nFor bussiness inquiries & collabs: kvzone@gmail.com",
+        "keywords": "\"Grand Theft Auto\" \"Grand Theft Auto V\" \"Grand Theft Auto IV\" \"The Last of Us\" \"The Last of Us 2\" \"Legend of Zelda\" Metroid \"Red Dead Redemption\" \"walkthrough part 1 no commentary\" \"no commentary\" \"walkthrough gameplay\" \"fanmade trailer\" \"game trailer\" \"game mashup\" \"XBOX One\" \"PS4 PRO\" \"Nintendo Wii\" \"Wii U\" \"Nintendo Switch\" \"Ultra HD 4K\" \"Ultra HD 4K 60fps\" \"PC ultra hd 4k\" \"Full HD\" \"Full HD 60fps\" \"1080p 60fps\" \"4K 60fps\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "dxBV_EHJe3Q",
+        "defaultLanguage": "en",
+        "country": "AR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/s_-7QbyTbVCtn2LMoNhwlfp3RU-jHp67hmKcZjVHa-URYw3RoCOYtDfBSmJ26sOrwg_GlIYyrw"
+      }
+    }
+  }
+}

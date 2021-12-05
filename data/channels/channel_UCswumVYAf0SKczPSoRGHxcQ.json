@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCswumVYAf0SKczPSoRGHxcQ",
+  "retrieved_on": "2021-12-05 03:47:28.920456",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "PkIDepR1E2EQZt5GsIXGiHXnuzQ",
+    "id": "UCswumVYAf0SKczPSoRGHxcQ",
+    "snippet": {
+      "title": "Worakls",
+      "description": "All socials on : https://lnk.to/worakls/\n\nThe young French prodigy Worakls is a composer above all. As he grew up in a family of musicians, he started to learn the piano at the age of 3. Soon after the Conservatory, he finds in electronic music a perfect way to give his melodies this incomparable onirism and strengh that suit them so well.\nHe draws his creativity from many genres such as movie soundtracks and classical music. In 2014, he creates the label Hungry Music with his friends N\u2019to and Joachim Pastor, allowing him to fully express those influences.\nEven before the release of his first album, several of his tracks already imposed themselves as classics of a genre. He is now unveiling his new project, Worakls Band, a live performance gathering several musicians (violin, alto, and cello).",
+      "customUrl": "worakls",
+      "publishedAt": "2008-08-18T09:32:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSr-B49AcJn5s7GtrzdKq096ZOa4kd-sGsxtFWIGQ=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSr-B49AcJn5s7GtrzdKq096ZOa4kd-sGsxtFWIGQ=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSr-B49AcJn5s7GtrzdKq096ZOa4kd-sGsxtFWIGQ=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Worakls",
+        "description": "All socials on : https://lnk.to/worakls/\n\nThe young French prodigy Worakls is a composer above all. As he grew up in a family of musicians, he started to learn the piano at the age of 3. Soon after the Conservatory, he finds in electronic music a perfect way to give his melodies this incomparable onirism and strengh that suit them so well.\nHe draws his creativity from many genres such as movie soundtracks and classical music. In 2014, he creates the label Hungry Music with his friends N\u2019to and Joachim Pastor, allowing him to fully express those influences.\nEven before the release of his first album, several of his tracks already imposed themselves as classics of a genre. He is now unveiling his new project, Worakls Band, a live performance gathering several musicians (violin, alto, and cello)."
+      },
+      "country": "FR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUswumVYAf0SKczPSoRGHxcQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "26700849",
+      "subscriberCount": "82400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "18"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Worakls",
+        "description": "All socials on : https://lnk.to/worakls/\n\nThe young French prodigy Worakls is a composer above all. As he grew up in a family of musicians, he started to learn the piano at the age of 3. Soon after the Conservatory, he finds in electronic music a perfect way to give his melodies this incomparable onirism and strengh that suit them so well.\nHe draws his creativity from many genres such as movie soundtracks and classical music. In 2014, he creates the label Hungry Music with his friends N\u2019to and Joachim Pastor, allowing him to fully express those influences.\nEven before the release of his first album, several of his tracks already imposed themselves as classics of a genre. He is now unveiling his new project, Worakls Band, a live performance gathering several musicians (violin, alto, and cello).",
+        "unsubscribedTrailer": "p0WFrHWwGZ0",
+        "country": "FR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/QAiuebwYID2MR94TGYOwk7ge3C7ajB7u_rdqySmIgxq8ut_tgKsjW8JlWx6NsM3-d1EJ0C7f8A"
+      }
+    }
+  }
+}

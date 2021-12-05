@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCtZE8Xa4ArAxQmHxRVtNnVg",
+  "retrieved_on": "2021-12-05 03:47:30.163042",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "WTurtoqlRY6cZ6jZa2K5cv3nRxk",
+    "id": "UCtZE8Xa4ArAxQmHxRVtNnVg",
+    "snippet": {
+      "title": "Bandsplaining",
+      "description": "Weird stories and lesser-known genres that don't get covered by Pitchfork.\n\n",
+      "customUrl": "bandsplaining",
+      "publishedAt": "2019-07-06T18:04:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS82MmGXsTXwumxYu9gziDwTE4A8C1KeTzA8C20=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS82MmGXsTXwumxYu9gziDwTE4A8C1KeTzA8C20=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS82MmGXsTXwumxYu9gziDwTE4A8C1KeTzA8C20=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Bandsplaining",
+        "description": "Weird stories and lesser-known genres that don't get covered by Pitchfork.\n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtZE8Xa4ArAxQmHxRVtNnVg"
+      }
+    },
+    "statistics": {
+      "viewCount": "9667779",
+      "subscriberCount": "148000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "16"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Bandsplaining",
+        "description": "Weird stories and lesser-known genres that don't get covered by Pitchfork.\n\n",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/5IXc5IQ_1d3qgfsOgjuUj-J_NnvEWKDnjyzV2VVGY0HlH0GyQXkQeVaU1gvg3Z6GEgTmYEar"
+      }
+    }
+  }
+}

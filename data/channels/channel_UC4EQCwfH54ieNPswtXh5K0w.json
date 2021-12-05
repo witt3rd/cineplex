@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC4EQCwfH54ieNPswtXh5K0w",
+  "retrieved_on": "2021-12-05 03:47:37.948916",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "0ymm4Sv2uXUSb0vZ5HvYvlYR-Wo",
+    "id": "UC4EQCwfH54ieNPswtXh5K0w",
+    "snippet": {
+      "title": "my mechanics insights",
+      "description": "Hello and welcome to my second channel.\nI'll use this channel to upload how-to videos and other videos that won't fit for my main channel.\nSubscribe for more and stay tuned.\n\nThanks for all your support, I really do appreciate it :-)",
+      "customUrl": "mymechanicsinsights",
+      "publishedAt": "2019-07-01T08:48:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMjlker7AUCcA7qna4Wj0tF_im3_uiSNJfMAON=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMjlker7AUCcA7qna4Wj0tF_im3_uiSNJfMAON=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMjlker7AUCcA7qna4Wj0tF_im3_uiSNJfMAON=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "my mechanics insights",
+        "description": "Hello and welcome to my second channel.\nI'll use this channel to upload how-to videos and other videos that won't fit for my main channel.\nSubscribe for more and stay tuned.\n\nThanks for all your support, I really do appreciate it :-)"
+      },
+      "country": "CH"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4EQCwfH54ieNPswtXh5K0w"
+      }
+    },
+    "statistics": {
+      "viewCount": "48063022",
+      "subscriberCount": "345000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "27"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "my mechanics insights",
+        "description": "Hello and welcome to my second channel.\nI'll use this channel to upload how-to videos and other videos that won't fit for my main channel.\nSubscribe for more and stay tuned.\n\nThanks for all your support, I really do appreciate it :-)",
+        "keywords": "restoration \"my mechanics\" woodworking \"bluing steel\" \"polish aluminium\" \"polish steel\" \"metal work\" lathe \"lathe work\" \"mill work\" craftsman \"perfect restoration\" \"best restoration\" \"how to\" diy homeshop \"impossible restoration\" \"old tools\" antique \"antique tools\" old vintage \"vintage tools\" patina techniques",
+        "moderateComments": true,
+        "unsubscribedTrailer": "J73Xurq70H4",
+        "country": "CH"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Rf7yzlVZJ8WKoxCKIq7DciYp1TyeyjV36VGgRkP7ADSb4tvcWQJU7EkR-wX41X8wBlSILKCs3A"
+      }
+    }
+  }
+}

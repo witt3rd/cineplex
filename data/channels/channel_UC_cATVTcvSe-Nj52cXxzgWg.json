@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC_cATVTcvSe-Nj52cXxzgWg",
+  "retrieved_on": "2021-12-05 03:47:38.852268",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "EEQ3alHOpVeTFE140vG9otM3IMQ",
+    "id": "UC_cATVTcvSe-Nj52cXxzgWg",
+    "snippet": {
+      "title": "Ayee",
+      "description": "LittleBigPlanet Content Creator/Archiver\n\n",
+      "customUrl": "ayeegaming",
+      "publishedAt": "2014-08-11T13:05:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTIcSxauvrfMYRjHf6HOfJL7eJO28OmNODbl9rmEQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTIcSxauvrfMYRjHf6HOfJL7eJO28OmNODbl9rmEQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTIcSxauvrfMYRjHf6HOfJL7eJO28OmNODbl9rmEQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ayee",
+        "description": "LittleBigPlanet Content Creator/Archiver\n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU_cATVTcvSe-Nj52cXxzgWg"
+      }
+    },
+    "statistics": {
+      "viewCount": "54801281",
+      "subscriberCount": "92200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "6289"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ayee",
+        "description": "LittleBigPlanet Content Creator/Archiver\n\n",
+        "keywords": "Gameplay \"Little Big Planet\" LBP Ayee Sackboy PS4 LBP3 LBP2 playstation EpicLBPTime \"Epic LBP Time\" ps5 \"playstation 5\" \"video game\" littlebigplanet Playthrough Multiplayer Planet Oddsock Toggle \"sackboy ps5\" PS3 walkthrough \"little big planet 3 gameplay\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "SHY1i9mcAQY",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/zYJpFxxc67sBWIZ4kU6GMvzHO_IvY7nrfhqF5la1yRgmRCneV6GfJ4FeInWtsBypMWvFHGjG-w"
+      }
+    }
+  }
+}

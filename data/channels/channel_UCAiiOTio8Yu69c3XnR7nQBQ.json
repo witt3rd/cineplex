@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCAiiOTio8Yu69c3XnR7nQBQ",
+  "retrieved_on": "2021-12-05 03:47:32.562704",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "CGeaGjqkD-0pqH1rUvqm3cozPLg",
+    "id": "UCAiiOTio8Yu69c3XnR7nQBQ",
+    "snippet": {
+      "title": "System Crafters",
+      "description": "System Crafters is the home for computer enthusiasts who love to craft their own computing experience.  We talk about Emacs, GNU/Linux, Guix, and other assorted tools that allow you to build a fully custom computing experience that YOU control.\n\nNew live streams every Friday at 9:15 am Pacific Time!",
+      "customUrl": "systemcrafters",
+      "publishedAt": "2016-07-25T19:53:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT72aOkUoACtBRm4dgZIfMbMx_YVY2g0DpijJI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT72aOkUoACtBRm4dgZIfMbMx_YVY2g0DpijJI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT72aOkUoACtBRm4dgZIfMbMx_YVY2g0DpijJI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "System Crafters",
+        "description": "System Crafters is the home for computer enthusiasts who love to craft their own computing experience.  We talk about Emacs, GNU/Linux, Guix, and other assorted tools that allow you to build a fully custom computing experience that YOU control.\n\nNew live streams every Friday at 9:15 am Pacific Time!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUAiiOTio8Yu69c3XnR7nQBQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1173998",
+      "subscriberCount": "17800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "131"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "System Crafters",
+        "description": "System Crafters is the home for computer enthusiasts who love to craft their own computing experience.  We talk about Emacs, GNU/Linux, Guix, and other assorted tools that allow you to build a fully custom computing experience that YOU control.\n\nNew live streams every Friday at 9:15 am Pacific Time!",
+        "keywords": "programming code coding languages \"functional programming\" emacs guix \"game development\" \"game programming\" f# linux vim editors",
+        "moderateComments": true,
+        "unsubscribedTrailer": "bEfYm8sAaQg",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/wZPQXRO4qeti6imMlGRbxBY9WDMgxT7_9ZZ0ihqJjflYS08qkHmaj3wBujeI2xsxlJFinxhRd8o"
+      }
+    }
+  }
+}

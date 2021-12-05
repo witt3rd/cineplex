@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCyxv-Kecjm1eH83nmDmVlvA",
+  "retrieved_on": "2021-12-05 03:47:39.693620",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BdtSZMr21Zh2OAigOC6JpfLtEJg",
+    "id": "UCyxv-Kecjm1eH83nmDmVlvA",
+    "snippet": {
+      "title": "Diet Doctor",
+      "description": "We make low carb and keto simple. \n\nDietDoctor.com is the world's number one low-carb site. Follow us for delicious recipes, inspiration and tools to make your low-carb and keto lifestyle simple.\n\nThis YouTube channel does not contain all our videos. For the full experience and to support our mission, subscribe at DietDoctor.com. Try for a month for free!\n\nLearn more:\nhttps://www.dietdoctor.com/about\n\nDISCLAIMER\nTo achieve our mission of making low carb simple we provide visitors with the knowledge, tools and inspiration we believe they will benefit from, to the best of our ability. However, we cannot and do not make any representations or warranty. The information we provide at DietDoctor.com is not intended to replace consultation with a qualified medical professional. For questions or concerns about any medical conditions you may have, please contact your doctor.\n\nBy using our YouTube channel you accept the full terms of use as described here:\nhttps://www.dietdoctor.com/terms",
+      "customUrl": "dietdoctorvideo",
+      "publishedAt": "2006-10-29T09:31:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQuJQN1HljFZqB0czl9g8k-mxJaNZgFEGTN5uSg1g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQuJQN1HljFZqB0czl9g8k-mxJaNZgFEGTN5uSg1g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQuJQN1HljFZqB0czl9g8k-mxJaNZgFEGTN5uSg1g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Diet Doctor",
+        "description": "We make low carb and keto simple. \n\nDietDoctor.com is the world's number one low-carb site. Follow us for delicious recipes, inspiration and tools to make your low-carb and keto lifestyle simple.\n\nThis YouTube channel does not contain all our videos. For the full experience and to support our mission, subscribe at DietDoctor.com. Try for a month for free!\n\nLearn more:\nhttps://www.dietdoctor.com/about\n\nDISCLAIMER\nTo achieve our mission of making low carb simple we provide visitors with the knowledge, tools and inspiration we believe they will benefit from, to the best of our ability. However, we cannot and do not make any representations or warranty. The information we provide at DietDoctor.com is not intended to replace consultation with a qualified medical professional. For questions or concerns about any medical conditions you may have, please contact your doctor.\n\nBy using our YouTube channel you accept the full terms of use as described here:\nhttps://www.dietdoctor.com/terms"
+      },
+      "country": "SE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUyxv-Kecjm1eH83nmDmVlvA"
+      }
+    },
+    "statistics": {
+      "viewCount": "34929008",
+      "subscriberCount": "458000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "818"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Diet Doctor",
+        "description": "We make low carb and keto simple. \n\nDietDoctor.com is the world's number one low-carb site. Follow us for delicious recipes, inspiration and tools to make your low-carb and keto lifestyle simple.\n\nThis YouTube channel does not contain all our videos. For the full experience and to support our mission, subscribe at DietDoctor.com. Try for a month for free!\n\nLearn more:\nhttps://www.dietdoctor.com/about\n\nDISCLAIMER\nTo achieve our mission of making low carb simple we provide visitors with the knowledge, tools and inspiration we believe they will benefit from, to the best of our ability. However, we cannot and do not make any representations or warranty. The information we provide at DietDoctor.com is not intended to replace consultation with a qualified medical professional. For questions or concerns about any medical conditions you may have, please contact your doctor.\n\nBy using our YouTube channel you accept the full terms of use as described here:\nhttps://www.dietdoctor.com/terms",
+        "keywords": "\"Diet Doctor\" keto \"keto diet\" LCHF \"low carb diet\" \"low carb\"",
+        "trackingAnalyticsAccountId": "UA-27479337-1",
+        "unsubscribedTrailer": "OBIPG3bq_MI",
+        "country": "SE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/XF3RULeMJRFIwcJOCoF1PR1ZDvwAmpaXqyblzlXQXA6d4MsvdKixIKEvhx8em9BW8ureqk5Z"
+      }
+    }
+  }
+}

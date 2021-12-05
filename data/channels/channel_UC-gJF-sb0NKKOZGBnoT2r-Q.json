@@ -1,0 +1,53 @@
+{
+  "channel_id": "UC-gJF-sb0NKKOZGBnoT2r-Q",
+  "retrieved_on": "2021-12-05 03:47:32.898653",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jcv8fDkhQiKmHAiXuheUvxvv7X4",
+    "id": "UC-gJF-sb0NKKOZGBnoT2r-Q",
+    "snippet": {
+      "title": "xuan-gottfried YANG",
+      "description": "topology(with priority stable homotopy theory) and its interface with Arithmetic geometry \n\nunivalent homotopy type theory\n\ncategorical logic\n\nmathematical linguistics\n\ntheoretical computer science",
+      "publishedAt": "2013-07-09T12:52:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ2RaNwN9-VdxZoQym5le1VFuiMjLZRfvWKtk_hLg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ2RaNwN9-VdxZoQym5le1VFuiMjLZRfvWKtk_hLg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ2RaNwN9-VdxZoQym5le1VFuiMjLZRfvWKtk_hLg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "xuan-gottfried YANG",
+        "description": "topology(with priority stable homotopy theory) and its interface with Arithmetic geometry \n\nunivalent homotopy type theory\n\ncategorical logic\n\nmathematical linguistics\n\ntheoretical computer science"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU-gJF-sb0NKKOZGBnoT2r-Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "794725",
+      "subscriberCount": "2120",
+      "hiddenSubscriberCount": false,
+      "videoCount": "237"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "xuan-gottfried YANG",
+        "description": "topology(with priority stable homotopy theory) and its interface with Arithmetic geometry \n\nunivalent homotopy type theory\n\ncategorical logic\n\nmathematical linguistics\n\ntheoretical computer science"
+      }
+    }
+  }
+}

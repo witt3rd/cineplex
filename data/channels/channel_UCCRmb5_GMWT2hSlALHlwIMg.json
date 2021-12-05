@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCCRmb5_GMWT2hSlALHlwIMg",
+  "retrieved_on": "2021-12-05 03:47:35.288783",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "2KbFqaJ2UAs-k6A2gyUEzn43OV8",
+    "id": "UCCRmb5_GMWT2hSlALHlwIMg",
+    "snippet": {
+      "title": "Sharcnet HPC",
+      "description": "This channel provides public access to recordings of SHARCNET training events. These recordings are part of a presentation series organized by SHARCNET staff. For more information about SHARCNET events visit our calendar at https://www.sharcnet.ca/my/news/calendar.\n\nSHARCNET is a consortium of 18 Canadian academic institutions who share a network of high performance computers. With this infrastructure we enable world-class academic research. We aim to:\n\n    accelerate computational academic research,\n    attract the best students and faculty to our partner institutions by providing cutting edge expertise and hardware,\n    and link academic researchers with corporate partners in a search for new business opportunities\n\nSHARCNET is a partner organization of Compute Ontario and the Compute/Calcul Canada national advanced research computing platform.",
+      "publishedAt": "2012-09-13T18:20:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoMzhui8Z_ehhJbOThsOvCncdfNFBWnNM_w6AE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoMzhui8Z_ehhJbOThsOvCncdfNFBWnNM_w6AE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoMzhui8Z_ehhJbOThsOvCncdfNFBWnNM_w6AE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sharcnet HPC",
+        "description": "This channel provides public access to recordings of SHARCNET training events. These recordings are part of a presentation series organized by SHARCNET staff. For more information about SHARCNET events visit our calendar at https://www.sharcnet.ca/my/news/calendar.\n\nSHARCNET is a consortium of 18 Canadian academic institutions who share a network of high performance computers. With this infrastructure we enable world-class academic research. We aim to:\n\n    accelerate computational academic research,\n    attract the best students and faculty to our partner institutions by providing cutting edge expertise and hardware,\n    and link academic researchers with corporate partners in a search for new business opportunities\n\nSHARCNET is a partner organization of Compute Ontario and the Compute/Calcul Canada national advanced research computing platform."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUCRmb5_GMWT2hSlALHlwIMg"
+      }
+    },
+    "statistics": {
+      "viewCount": "600314",
+      "subscriberCount": "3260",
+      "hiddenSubscriberCount": false,
+      "videoCount": "186"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sharcnet HPC",
+        "description": "This channel provides public access to recordings of SHARCNET training events. These recordings are part of a presentation series organized by SHARCNET staff. For more information about SHARCNET events visit our calendar at https://www.sharcnet.ca/my/news/calendar.\n\nSHARCNET is a consortium of 18 Canadian academic institutions who share a network of high performance computers. With this infrastructure we enable world-class academic research. We aim to:\n\n    accelerate computational academic research,\n    attract the best students and faculty to our partner institutions by providing cutting edge expertise and hardware,\n    and link academic researchers with corporate partners in a search for new business opportunities\n\nSHARCNET is a partner organization of Compute Ontario and the Compute/Calcul Canada national advanced research computing platform.",
+        "keywords": "hpc \"high performance computing\" \"advanced research computing\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "vU2aBjOQ-GA",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/oaDNX7zJIC4TzSeLmx2Curu9H_u1herwhvWtBu77o-H5wgaAqRDLPAXrVlMuuSdZo8FUyKlVGA"
+      }
+    }
+  }
+}

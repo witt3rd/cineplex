@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCFK6NCbuCIVzA6Yj1G_ZqCg",
+  "retrieved_on": "2021-12-05 03:47:28.920465",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "pOIeTWherEij-pGcDbBlW5eqJhA",
+    "id": "UCFK6NCbuCIVzA6Yj1G_ZqCg",
+    "snippet": {
+      "title": "Code Monkey",
+      "description": "Hello and Welcome!\nI'm your Code Monkey and here you will learn everything about Game Development in Unity using C# taught by a Professional Indie Game Developer.\n\nWatch the free Video Tutorials or learn from my complete Step-by-step Courses \nhttps://unitycodemonkey.com/courses\n\nCheck out the official website to download the free Project Files and Utilities for every video \nhttps://unitycodemonkey.com/\n\nI've been developing games for several years with 8 published games on Steam and now I'm sharing my knowledge to help you on your own game development journey.\n\nIf you have any questions post them in the comments and I'll do my best to help.\n\nMy Steam Games are available at http://www.endlessloopstudios.com/ with a special bundle available at https://unitycodemonkey.com/gamebundle\n- Battle Royale Tycoon\n- Ninja Tycoon\n- Hyper Knights\n- Hyper Knights: Battles\n- Blueprint Tycoon\n- Game Corp DX\n- Survivor Squad: Gauntlets\n- Survivor Squad",
+      "customUrl": "codemonkeyunity",
+      "publishedAt": "2018-04-29T11:34:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSytshEDVi3QtCANqdCWdEOAG2P7mynM6wmK-Wy=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSytshEDVi3QtCANqdCWdEOAG2P7mynM6wmK-Wy=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSytshEDVi3QtCANqdCWdEOAG2P7mynM6wmK-Wy=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Code Monkey",
+        "description": "Hello and Welcome!\nI'm your Code Monkey and here you will learn everything about Game Development in Unity using C# taught by a Professional Indie Game Developer.\n\nWatch the free Video Tutorials or learn from my complete Step-by-step Courses \nhttps://unitycodemonkey.com/courses\n\nCheck out the official website to download the free Project Files and Utilities for every video \nhttps://unitycodemonkey.com/\n\nI've been developing games for several years with 8 published games on Steam and now I'm sharing my knowledge to help you on your own game development journey.\n\nIf you have any questions post them in the comments and I'll do my best to help.\n\nMy Steam Games are available at http://www.endlessloopstudios.com/ with a special bundle available at https://unitycodemonkey.com/gamebundle\n- Battle Royale Tycoon\n- Ninja Tycoon\n- Hyper Knights\n- Hyper Knights: Battles\n- Blueprint Tycoon\n- Game Corp DX\n- Survivor Squad: Gauntlets\n- Survivor Squad"
+      },
+      "country": "PT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFK6NCbuCIVzA6Yj1G_ZqCg"
+      }
+    },
+    "statistics": {
+      "viewCount": "21937168",
+      "subscriberCount": "335000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "517"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Code Monkey",
+        "description": "Hello and Welcome!\nI'm your Code Monkey and here you will learn everything about Game Development in Unity using C# taught by a Professional Indie Game Developer.\n\nWatch the free Video Tutorials or learn from my complete Step-by-step Courses \nhttps://unitycodemonkey.com/courses\n\nCheck out the official website to download the free Project Files and Utilities for every video \nhttps://unitycodemonkey.com/\n\nI've been developing games for several years with 8 published games on Steam and now I'm sharing my knowledge to help you on your own game development journey.\n\nIf you have any questions post them in the comments and I'll do my best to help.\n\nMy Steam Games are available at http://www.endlessloopstudios.com/ with a special bundle available at https://unitycodemonkey.com/gamebundle\n- Battle Royale Tycoon\n- Ninja Tycoon\n- Hyper Knights\n- Hyper Knights: Battles\n- Blueprint Tycoon\n- Game Corp DX\n- Survivor Squad: Gauntlets\n- Survivor Squad",
+        "keywords": "unity \"unity 2d\" \"unity 3d\" \"game development\" \"unity tutorial\" \"unity how to\" gamedev learn tutorials tutorial courses 2d 3d \"unity 2d tutorial\" programming \"learn to code\" \"learn programming\" coding c# \"software development\" \"unity tutorials\" \"software development\" software \"learn unity\" \"learn c#\" \"code monkey\" \"unity tutorials\"",
+        "trackingAnalyticsAccountId": "UA-119041100-2",
+        "unsubscribedTrailer": "e7cwJqvq_Fo",
+        "country": "PT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/_nII_xPQjl0vJ4xLacJ__me7gAA2ctCcNeRuW0_21BlX5hREIOspVx1Mx7mM_RslppU422dl"
+      }
+    }
+  }
+}

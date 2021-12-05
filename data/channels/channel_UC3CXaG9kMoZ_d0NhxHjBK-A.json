@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC3CXaG9kMoZ_d0NhxHjBK-A",
+  "retrieved_on": "2021-12-05 03:47:32.562764",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QkRUw9F8IAbzI6ElbnU_NQfUweI",
+    "id": "UC3CXaG9kMoZ_d0NhxHjBK-A",
+    "snippet": {
+      "title": "Frank Drive",
+      "description": "Welcome, traveler. Your journey has been a strange one. Let's give it a good soundtrack. A Retrowave hub with all its sub genres. Synth, Vapor, Future, Space, Chill, Pop, Electro, Dark, Horror, Cyberpunk, Outrun and more. The right sound for the right aesthetic. Choose your destination and let me be your Driver... \n\nNeonSlate.net\n",
+      "customUrl": "frankdiggler",
+      "publishedAt": "2008-01-25T17:24:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQe58-PqWzM2AofFLOrh02D4Z_DR85by7q3RERWlw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQe58-PqWzM2AofFLOrh02D4Z_DR85by7q3RERWlw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQe58-PqWzM2AofFLOrh02D4Z_DR85by7q3RERWlw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Frank Drive",
+        "description": "Welcome, traveler. Your journey has been a strange one. Let's give it a good soundtrack. A Retrowave hub with all its sub genres. Synth, Vapor, Future, Space, Chill, Pop, Electro, Dark, Horror, Cyberpunk, Outrun and more. The right sound for the right aesthetic. Choose your destination and let me be your Driver... \n\nNeonSlate.net\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3CXaG9kMoZ_d0NhxHjBK-A"
+      }
+    },
+    "statistics": {
+      "viewCount": "842998",
+      "subscriberCount": "3170",
+      "hiddenSubscriberCount": false,
+      "videoCount": "73"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Frank Drive",
+        "description": "Welcome, traveler. Your journey has been a strange one. Let's give it a good soundtrack. A Retrowave hub with all its sub genres. Synth, Vapor, Future, Space, Chill, Pop, Electro, Dark, Horror, Cyberpunk, Outrun and more. The right sound for the right aesthetic. Choose your destination and let me be your Driver... \n\nNeonSlate.net\n",
+        "keywords": "music retrowave synthwave synth mix \"new retrowave\" vaporwave synthpop \"future funk\" chillwave dreamwave electrowave",
+        "moderateComments": true,
+        "unsubscribedTrailer": "8gA3sq1NfaU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/wvtfsB0Uf9uQMVeTX7BlchkRhGnw2C9TAYTuItPpwXGLpvmF9eVNz-WIXL97K3CW1pTsDXrj6zM"
+      }
+    }
+  }
+}

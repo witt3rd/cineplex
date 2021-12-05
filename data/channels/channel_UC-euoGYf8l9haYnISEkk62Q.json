@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC-euoGYf8l9haYnISEkk62Q",
+  "retrieved_on": "2021-12-05 03:47:39.473133",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "1eXM0FI03p5YDl11qRGkwfhTg68",
+    "id": "UC-euoGYf8l9haYnISEkk62Q",
+    "snippet": {
+      "title": "La CreArthur",
+      "description": "D\u00e9veloppeur de jeux vid\u00e9os et skateur, les vid\u00e9os sur cette chaine sont tr\u00e8s vari\u00e9es, abonnes-toi ! :D",
+      "customUrl": "lacrearthur",
+      "publishedAt": "2016-06-18T11:00:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXI8atozven3ROiHe1gO-ejhdIGkXI7jKnj2EvDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXI8atozven3ROiHe1gO-ejhdIGkXI7jKnj2EvDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXI8atozven3ROiHe1gO-ejhdIGkXI7jKnj2EvDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "La CreArthur",
+        "description": "D\u00e9veloppeur de jeux vid\u00e9os et skateur, les vid\u00e9os sur cette chaine sont tr\u00e8s vari\u00e9es, abonnes-toi ! :D"
+      },
+      "country": "FR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU-euoGYf8l9haYnISEkk62Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "77627",
+      "subscriberCount": "1030",
+      "hiddenSubscriberCount": false,
+      "videoCount": "45"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "La CreArthur",
+        "description": "D\u00e9veloppeur de jeux vid\u00e9os et skateur, les vid\u00e9os sur cette chaine sont tr\u00e8s vari\u00e9es, abonnes-toi ! :D",
+        "keywords": "Gaming Programming VideoGame Game JeuxVideos Cyprien Squeezie Benzaie BobLennon",
+        "unsubscribedTrailer": "8wBQ5sEav54",
+        "country": "FR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/ZI24IaIjDzeU0THIYWdzHTvltQG6_G51_lbTgmPfFnMh1iNB9OKPCv6N7b4eXcGPR23zSTaPGGg"
+      }
+    }
+  }
+}

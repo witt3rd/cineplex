@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCu7_D0o48KbfhpEohoP7YSQ",
+  "retrieved_on": "2021-12-05 03:47:36.348810",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fffGW5Cmk0-cvf1V48HMJU9oOvc",
+    "id": "UCu7_D0o48KbfhpEohoP7YSQ",
+    "snippet": {
+      "title": "Andreas Spiess",
+      "description": "Small electronic projects, tutorials, and reviews for sensors, ESP8266, Arduino, Raspberry Pi, and ESP32",
+      "customUrl": "andreasspiess",
+      "publishedAt": "2015-06-22T04:28:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCHaPEbeyOMxBd467rNUz-zl5kZaTIuWhLZ1v39Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCHaPEbeyOMxBd467rNUz-zl5kZaTIuWhLZ1v39Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCHaPEbeyOMxBd467rNUz-zl5kZaTIuWhLZ1v39Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Andreas Spiess",
+        "description": "Small electronic projects, tutorials, and reviews for sensors, ESP8266, Arduino, Raspberry Pi, and ESP32"
+      },
+      "country": "CH"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUu7_D0o48KbfhpEohoP7YSQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "33229396",
+      "subscriberCount": "353000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "400"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Andreas Spiess",
+        "description": "Small electronic projects, tutorials, and reviews for sensors, ESP8266, Arduino, Raspberry Pi, and ESP32",
+        "keywords": "Electronics Projects: Sensors IOT ESP8266 \"Raspberry Pi\" Arduino ESP32",
+        "moderateComments": true,
+        "unsubscribedTrailer": "a6mjt8tWUws",
+        "country": "CH"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/hvYvWMrsloK4lgFkL9_2dp50DIrbdr6JccZE8L7s7SDsdv2Qt9QRuRd9RoCFg38zZmlyOat4ak4"
+      }
+    }
+  }
+}

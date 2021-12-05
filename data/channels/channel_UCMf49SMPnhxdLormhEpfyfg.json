@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCMf49SMPnhxdLormhEpfyfg",
+  "retrieved_on": "2021-12-05 03:47:41.016848",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "dXH7_Rj14Soe9kGrNHC8hdcYS_s",
+    "id": "UCMf49SMPnhxdLormhEpfyfg",
+    "snippet": {
+      "title": "Stephen Hawes",
+      "description": "I'm Stephen, and I love making stuff!",
+      "customUrl": "stephentherobot",
+      "publishedAt": "2013-10-28T22:02:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQI8-tPlQkNzD9ckpdqYlOQxG7H81PpgM-MQkCItXI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQI8-tPlQkNzD9ckpdqYlOQxG7H81PpgM-MQkCItXI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQI8-tPlQkNzD9ckpdqYlOQxG7H81PpgM-MQkCItXI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Stephen Hawes",
+        "description": "I'm Stephen, and I love making stuff!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMf49SMPnhxdLormhEpfyfg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1586170",
+      "subscriberCount": "33300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "101"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Stephen Hawes",
+        "description": "I'm Stephen, and I love making stuff!",
+        "unsubscribedTrailer": "QEt8pGoKgL0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/p_DOq68p9RolUSWPk4iWK9GFXqnvdT4fEl4r2y3KKECFzBNfKxvow8M6PLpixWHE31FWU9UtVg"
+      }
+    }
+  }
+}

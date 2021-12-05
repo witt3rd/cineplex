@@ -1,0 +1,54 @@
+{
+  "channel_id": "UCNnijRpxZ546ygb6onIrA0Q",
+  "retrieved_on": "2021-12-05 03:47:39.126005",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "VCBgcWwpxfyFy2RxE-niyEqQ1sc",
+    "id": "UCNnijRpxZ546ygb6onIrA0Q",
+    "snippet": {
+      "title": "Alexander Uggla",
+      "description": "I make games and other stuff and have opinions on a bunch of things. \n\n\n",
+      "customUrl": "alexanderuggla",
+      "publishedAt": "2013-11-11T19:23:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Z9b8jG63dp3tTI4QLx3Kn2K--JrdTZRrIQ8nrOGxGFQtyxvVPQwtPhP5rs5MOvn9TRwGHJ3_TQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Z9b8jG63dp3tTI4QLx3Kn2K--JrdTZRrIQ8nrOGxGFQtyxvVPQwtPhP5rs5MOvn9TRwGHJ3_TQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Z9b8jG63dp3tTI4QLx3Kn2K--JrdTZRrIQ8nrOGxGFQtyxvVPQwtPhP5rs5MOvn9TRwGHJ3_TQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Alexander Uggla",
+        "description": "I make games and other stuff and have opinions on a bunch of things. \n\n\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUNnijRpxZ546ygb6onIrA0Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "24987",
+      "subscriberCount": "364",
+      "hiddenSubscriberCount": false,
+      "videoCount": "4"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Alexander Uggla",
+        "description": "I make games and other stuff and have opinions on a bunch of things. \n\n\n"
+      }
+    }
+  }
+}

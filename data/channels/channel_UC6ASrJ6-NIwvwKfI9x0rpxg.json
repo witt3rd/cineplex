@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC6ASrJ6-NIwvwKfI9x0rpxg",
+  "retrieved_on": "2021-12-05 03:47:34.793986",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "A6iEeDH9j6Ia0WhT0Mx-5FCttMc",
+    "id": "UC6ASrJ6-NIwvwKfI9x0rpxg",
+    "snippet": {
+      "title": "NonDualiteit",
+      "description": "Het kanaal met interviews over nondualiteit, advaita en bewustzijn. Initiatiefnemers zijn Paul Smit (cabaretier en coach) en Patrick Kicken (radiodeejay en doerak)",
+      "publishedAt": "2010-04-24T23:00:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJrqjhZuScCEgLRCMuhfb0mHT77RwiAJGv2S9_5g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJrqjhZuScCEgLRCMuhfb0mHT77RwiAJGv2S9_5g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJrqjhZuScCEgLRCMuhfb0mHT77RwiAJGv2S9_5g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NonDualiteit",
+        "description": "Het kanaal met interviews over nondualiteit, advaita en bewustzijn. Initiatiefnemers zijn Paul Smit (cabaretier en coach) en Patrick Kicken (radiodeejay en doerak)"
+      },
+      "country": "NL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU6ASrJ6-NIwvwKfI9x0rpxg"
+      }
+    },
+    "statistics": {
+      "viewCount": "5009973",
+      "subscriberCount": "15800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "847"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NonDualiteit",
+        "description": "Het kanaal met interviews over nondualiteit, advaita en bewustzijn. Initiatiefnemers zijn Paul Smit (cabaretier en coach) en Patrick Kicken (radiodeejay en doerak)",
+        "keywords": "nondualiteit advaita nondualisme bewustzijn a-dvaita interviews",
+        "unsubscribedTrailer": "dzkwT6efs1k",
+        "country": "NL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/FvyF3fjVP0B4WwAXybwG8T-Dhu5P4GkTwHEA-vFBX_bAqrZ6PL3NO5AnXz-lvOtQLo4ghru2VA"
+      }
+    }
+  }
+}

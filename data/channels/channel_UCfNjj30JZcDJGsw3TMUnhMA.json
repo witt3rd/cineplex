@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCfNjj30JZcDJGsw3TMUnhMA",
+  "retrieved_on": "2021-12-05 03:47:32.034109",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4pTiyc3R76FGXKOmF-ViVFFzAWM",
+    "id": "UCfNjj30JZcDJGsw3TMUnhMA",
+    "snippet": {
+      "title": "Kyle Banks // Farewell North",
+      "description": "Hey, I'm Kyle and I'm working on a solo indie game called Farewell North, which is all about restoring color to a dark and desolate archipelago. Farewell North is an open world stealth exploration game, and my goal with this channel is to bring you into the development process so you can not only see how the game progresses from it's early days all the way up to the launch on Steam in 2022, but also to get your ideas and insights implemented into the game!",
+      "customUrl": "farewellnorth",
+      "publishedAt": "2020-10-04T15:23:28.265224Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJoLdsUxJkYyLNNVjn5Ip__UAxVZ8W8eqNJbFh=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJoLdsUxJkYyLNNVjn5Ip__UAxVZ8W8eqNJbFh=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJoLdsUxJkYyLNNVjn5Ip__UAxVZ8W8eqNJbFh=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Kyle Banks // Farewell North",
+        "description": "Hey, I'm Kyle and I'm working on a solo indie game called Farewell North, which is all about restoring color to a dark and desolate archipelago. Farewell North is an open world stealth exploration game, and my goal with this channel is to bring you into the development process so you can not only see how the game progresses from it's early days all the way up to the launch on Steam in 2022, but also to get your ideas and insights implemented into the game!"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfNjj30JZcDJGsw3TMUnhMA"
+      }
+    },
+    "statistics": {
+      "viewCount": "741421",
+      "subscriberCount": "14400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "20"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Kyle Banks // Farewell North",
+        "description": "Hey, I'm Kyle and I'm working on a solo indie game called Farewell North, which is all about restoring color to a dark and desolate archipelago. Farewell North is an open world stealth exploration game, and my goal with this channel is to bring you into the development process so you can not only see how the game progresses from it's early days all the way up to the launch on Steam in 2022, but also to get your ideas and insights implemented into the game!",
+        "keywords": "\"indie game\" indiegame \"indie dev\" indiedev \"game dev\" gamedev \"dev log\" \"develop log\" \"developer log\" \"indie log\" \"game log\" indielog \"farewell north\" unity madewithunity unity3d",
+        "unsubscribedTrailer": "-j5CIaQQaTA",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/X3LQD6Ii6Xt7xExA8ESs1rvcL_NbUTEycdWxuYOQE4bep9m4eXZ7DHYPd5tWpGPsuS5wSLz9Dg"
+      }
+    }
+  }
+}

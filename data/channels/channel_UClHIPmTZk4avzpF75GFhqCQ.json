@@ -1,0 +1,58 @@
+{
+  "channel_id": "UClHIPmTZk4avzpF75GFhqCQ",
+  "retrieved_on": "2021-12-05 03:47:34.793892",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "7z9X_rCI1PMvu_uABeLdfDKro-U",
+    "id": "UClHIPmTZk4avzpF75GFhqCQ",
+    "snippet": {
+      "title": "William Forsche",
+      "description": "This channel is dedicated to classic cinema and the people involved with its production.\r\nCovering all areas of film production but with a focus on special effects, and make-up.",
+      "publishedAt": "2011-09-03T22:43:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR3QpmyZG7xWayMCHTrAIa40doXTOK3Y5Urs4hG=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR3QpmyZG7xWayMCHTrAIa40doXTOK3Y5Urs4hG=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR3QpmyZG7xWayMCHTrAIa40doXTOK3Y5Urs4hG=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "William Forsche",
+        "description": "This channel is dedicated to classic cinema and the people involved with its production.\r\nCovering all areas of film production but with a focus on special effects, and make-up."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUlHIPmTZk4avzpF75GFhqCQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "16390849",
+      "subscriberCount": "15600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "316"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "William Forsche",
+        "description": "This channel is dedicated to classic cinema and the people involved with its production.\r\nCovering all areas of film production but with a focus on special effects, and make-up.",
+        "keywords": "William Forsche Foertsch special make-up makeup effects prosthetics animatronics documentary moviemaking",
+        "unsubscribedTrailer": "k9YBvQptW0I"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/F5gQHxPpXOtFOKW5nLBa1uOQ5-wR0k6Sn6VJ4rThO2-6UkYEKCj7-2ANPeVja5n6P-jkHkst"
+      }
+    }
+  }
+}

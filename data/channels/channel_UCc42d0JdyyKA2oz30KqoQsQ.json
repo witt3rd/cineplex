@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCc42d0JdyyKA2oz30KqoQsQ",
+  "retrieved_on": "2021-12-05 03:47:35.856825",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Nw5Vanh7QJE-FCO-EWGKk41rOd4",
+    "id": "UCc42d0JdyyKA2oz30KqoQsQ",
+    "snippet": {
+      "title": "eed3si9n",
+      "description": "",
+      "publishedAt": "2006-11-22T04:27:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSbULeEvCB3Zyza6UMfjLsrVlSO4fYD9s7AZw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSbULeEvCB3Zyza6UMfjLsrVlSO4fYD9s7AZw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSbULeEvCB3Zyza6UMfjLsrVlSO4fYD9s7AZw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "eed3si9n",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUc42d0JdyyKA2oz30KqoQsQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "3922",
+      "subscriberCount": "93",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "eed3si9n"
+      }
+    }
+  }
+}

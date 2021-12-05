@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCU9vMv2QS6yvcNuJ6A5KuWA",
+  "retrieved_on": "2021-12-05 03:47:38.852343",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "iSEb2SXmebenXNHIXnBjCWzaeXI",
+    "id": "UCU9vMv2QS6yvcNuJ6A5KuWA",
+    "snippet": {
+      "title": "drewstarr71",
+      "description": "LAWFUL REBELLION!   I DO NOT CONSENT!   \u039c\u039f\u039b\u03a9\u039d \u039b\u0391\u0392\u0395   I am a political atheist!\n\nWhen Injustice becomes law, Resistance\ufeff becomes duty!\n\n\nSheeple willful ignorance: (noun) - The practice or act of intentional and blatant avoidance, disregard or disagreement with facts, empirical evidence and well-founded arguments because they oppose or contradict your own existing personal beliefs.",
+      "publishedAt": "2008-01-20T07:52:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT0H7eYAl9gywtKfthQWAVWujjfWmjOazEsKxkRAw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT0H7eYAl9gywtKfthQWAVWujjfWmjOazEsKxkRAw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT0H7eYAl9gywtKfthQWAVWujjfWmjOazEsKxkRAw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "drewstarr71",
+        "description": "LAWFUL REBELLION!   I DO NOT CONSENT!   \u039c\u039f\u039b\u03a9\u039d \u039b\u0391\u0392\u0395   I am a political atheist!\n\nWhen Injustice becomes law, Resistance\ufeff becomes duty!\n\n\nSheeple willful ignorance: (noun) - The practice or act of intentional and blatant avoidance, disregard or disagreement with facts, empirical evidence and well-founded arguments because they oppose or contradict your own existing personal beliefs."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUU9vMv2QS6yvcNuJ6A5KuWA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1299571",
+      "subscriberCount": "3410",
+      "hiddenSubscriberCount": false,
+      "videoCount": "82"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "drewstarr71",
+        "description": "LAWFUL REBELLION!   I DO NOT CONSENT!   \u039c\u039f\u039b\u03a9\u039d \u039b\u0391\u0392\u0395   I am a political atheist!\n\nWhen Injustice becomes law, Resistance\ufeff becomes duty!\n\n\nSheeple willful ignorance: (noun) - The practice or act of intentional and blatant avoidance, disregard or disagreement with facts, empirical evidence and well-founded arguments because they oppose or contradict your own existing personal beliefs.",
+        "moderateComments": true
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/gCBGTX6GcEhylRrJ5_DXZ62nh8O9UN4F41kxoSFomCX9lUtT3hJjAEwHadl1om34yekqSeJc"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCIKlsX1qfGqKPt4KAW-JOZg",
+  "retrieved_on": "2021-12-05 03:47:29.489795",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-4xiWA3cBgmMnRetIRt91KrbglY",
+    "id": "UCIKlsX1qfGqKPt4KAW-JOZg",
+    "snippet": {
+      "title": "Star Wars Explained",
+      "description": "Subscribe to see new videos every day covering Star Wars Canon and Legends lore.  I talk about characters, history, ships, technology, aliens, planets, behind the scenes, books, comics, video games, TV, and of course the films.  If it\u2019s Star Wars, you can learn about it here.\n\nMailing Address\nStar Wars Explained\n1227 Rockbridge Rd SW\nSte 208 PMB 264\n",
+      "customUrl": "starwarsexplained",
+      "publishedAt": "2014-11-24T17:51:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSl0B3h9rC_RFvXsBJCGAiyIyS53NCtN7brRa1wQA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSl0B3h9rC_RFvXsBJCGAiyIyS53NCtN7brRa1wQA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSl0B3h9rC_RFvXsBJCGAiyIyS53NCtN7brRa1wQA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Star Wars Explained",
+        "description": "Subscribe to see new videos every day covering Star Wars Canon and Legends lore.  I talk about characters, history, ships, technology, aliens, planets, behind the scenes, books, comics, video games, TV, and of course the films.  If it\u2019s Star Wars, you can learn about it here.\n\nMailing Address\nStar Wars Explained\n1227 Rockbridge Rd SW\nSte 208 PMB 264\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIKlsX1qfGqKPt4KAW-JOZg"
+      }
+    },
+    "statistics": {
+      "viewCount": "221762533",
+      "subscriberCount": "705000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2780"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Star Wars Explained",
+        "description": "Subscribe to see new videos every day covering Star Wars Canon and Legends lore.  I talk about characters, history, ships, technology, aliens, planets, behind the scenes, books, comics, video games, TV, and of course the films.  If it\u2019s Star Wars, you can learn about it here.\n\nMailing Address\nStar Wars Explained\n1227 Rockbridge Rd SW\nSte 208 PMB 264\n",
+        "keywords": "\"Star Wars\" \"Darth Vader\" \"The Force Awakens\" \"Star Wars Rebels\" \"Star Wars Comics\" \"Star Wars Books\" \"A New Hope\" \"The Empire Strikes Back\" \"Return of the Jedi\" \"The Phantom Menace\" \"Attack of the Clones\" \"Revenge of the Sith\" \"Star Wars Legends\" Lightsaber X-Wing Jedi Sith \"Star Wars Lore\"",
+        "unsubscribedTrailer": "rBg3GDiwXVs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/tlF1lFd6icusWL-_QdVdoJdu0GKSi5ujNxxuUTuih08QBs6OOwiNO2gIeWKyWsyutXxKvWirpw"
+      }
+    }
+  }
+}

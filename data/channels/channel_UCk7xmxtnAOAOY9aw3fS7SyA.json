@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCk7xmxtnAOAOY9aw3fS7SyA",
+  "retrieved_on": "2021-12-05 03:47:40.782060",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4fyptVs3QUqvi_Ek2b8645xW-vA",
+    "id": "UCk7xmxtnAOAOY9aw3fS7SyA",
+    "snippet": {
+      "title": "Transcendental Meditation",
+      "description": "\"Transcendental Meditation opens the awareness to the infinite reservoir of energy, creativity, and intelligence that lies deep within everyone. By enlivening this most basic level of life, Transcendental Meditation is that one simple procedure which can raise the life of every individual and every society to its full dignity, in which problems are absent and perfect health, happiness, and a rapid pace of progress are the natural features of life.\" \n- Maharishi Mahesh Yogi (Founder of Transcendental Meditation)\n\nTranscendental Meditation is practiced for 20 minutes in the morning and evening, while sitting comfortably with the eyes closed. During this technique, the individual's awareness settles down and experiences the source of thought - a unique state of restful alertness. \n\nDuring the past 50 years, more than six million people from all backgrounds have learned the Transcendental Meditation technique and enjoy its wide range of benefits in all areas of life.",
+      "customUrl": "meditationchannel",
+      "publishedAt": "2008-12-31T10:52:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQuj20MfyNyZBAjWiSrGdlgSP3rwENLXQZiuS5TPw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQuj20MfyNyZBAjWiSrGdlgSP3rwENLXQZiuS5TPw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQuj20MfyNyZBAjWiSrGdlgSP3rwENLXQZiuS5TPw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Transcendental Meditation",
+        "description": "\"Transcendental Meditation opens the awareness to the infinite reservoir of energy, creativity, and intelligence that lies deep within everyone. By enlivening this most basic level of life, Transcendental Meditation is that one simple procedure which can raise the life of every individual and every society to its full dignity, in which problems are absent and perfect health, happiness, and a rapid pace of progress are the natural features of life.\" \n- Maharishi Mahesh Yogi (Founder of Transcendental Meditation)\n\nTranscendental Meditation is practiced for 20 minutes in the morning and evening, while sitting comfortably with the eyes closed. During this technique, the individual's awareness settles down and experiences the source of thought - a unique state of restful alertness. \n\nDuring the past 50 years, more than six million people from all backgrounds have learned the Transcendental Meditation technique and enjoy its wide range of benefits in all areas of life."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUk7xmxtnAOAOY9aw3fS7SyA"
+      }
+    },
+    "statistics": {
+      "viewCount": "11244073",
+      "subscriberCount": "118000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "158"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Transcendental Meditation",
+        "description": "\"Transcendental Meditation opens the awareness to the infinite reservoir of energy, creativity, and intelligence that lies deep within everyone. By enlivening this most basic level of life, Transcendental Meditation is that one simple procedure which can raise the life of every individual and every society to its full dignity, in which problems are absent and perfect health, happiness, and a rapid pace of progress are the natural features of life.\" \n- Maharishi Mahesh Yogi (Founder of Transcendental Meditation)\n\nTranscendental Meditation is practiced for 20 minutes in the morning and evening, while sitting comfortably with the eyes closed. During this technique, the individual's awareness settles down and experiences the source of thought - a unique state of restful alertness. \n\nDuring the past 50 years, more than six million people from all backgrounds have learned the Transcendental Meditation technique and enjoy its wide range of benefits in all areas of life.",
+        "keywords": "Transcendental Meditation TM Maharishi Mahesh Yogi Mantra Technique How Benefits Transcend Meditate Health Peace Stress Relief Anxiety Blood Pressure depression",
+        "trackingAnalyticsAccountId": "UA-10643814-5",
+        "moderateComments": true,
+        "unsubscribedTrailer": "nF4HPegyGgU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/vNZ-2jXGhEyT6FRm2gYoXJ-MqQV8zRZFrgzfHjTyVArU6vTE9gsvnOeekxzlJ-1Mrs_4dow7eA"
+      }
+    }
+  }
+}

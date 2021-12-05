@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC8YKE7-YPx8-QpB7uV5ZJjQ",
+  "retrieved_on": "2021-12-05 03:47:39.125994",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nTeO7Eu8ehwrw1YsJ7SX-Hk3E6g",
+    "id": "UC8YKE7-YPx8-QpB7uV5ZJjQ",
+    "snippet": {
+      "title": "Oversampled",
+      "description": "Oversampled is helping out producers by bringing quality sounds, music production tutorials and fresh inspirations.\n\nNever enough samples to get oversampled.\nOversampled - you can say your project is oversampled when there is no more space for samples.\n\nIf you want to talk to me, ask me some questions or just be friends :)\nhttps://instagram.com/oversampled.us\n\n\nMy studio equipment:\n*Audio interface: NI Komplete Audio 6\n*DAW: Ableton Live 10 Suite\n*Headphones: Bayerdynamic DT1990 Pro 250Ohm\n*Monitors: Yamaha HS8\n*Mic: Audio-Technica AT2020\n*MIDI Controller: Komplete Kontrol S88 MKII\n\nPC Specs:\n*OS: Windows 10\n*CPU: AMD Ryzen 9 3900X 12-Core 3.80 GHz\n*RAM: 32GB\n*GPU: Nvidia RTX 2070 Super\n*SSD: 1TB (3500 MB/s R/W)\n\nMy Ableton theme: https://www.livethemes.co/themes/yello-by-live-themes-remixed/28636\nMy Serum skin: https://www.defrocksounds.com/product/deluxerock-basic/\n",
+      "customUrl": "oversampled",
+      "publishedAt": "2015-01-19T08:51:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQgxctka38u7yM8k7HUw_GxRI06vq6mBVPw1xjXoQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQgxctka38u7yM8k7HUw_GxRI06vq6mBVPw1xjXoQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQgxctka38u7yM8k7HUw_GxRI06vq6mBVPw1xjXoQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Oversampled",
+        "description": "Oversampled is helping out producers by bringing quality sounds, music production tutorials and fresh inspirations.\n\nNever enough samples to get oversampled.\nOversampled - you can say your project is oversampled when there is no more space for samples.\n\nIf you want to talk to me, ask me some questions or just be friends :)\nhttps://instagram.com/oversampled.us\n\n\nMy studio equipment:\n*Audio interface: NI Komplete Audio 6\n*DAW: Ableton Live 10 Suite\n*Headphones: Bayerdynamic DT1990 Pro 250Ohm\n*Monitors: Yamaha HS8\n*Mic: Audio-Technica AT2020\n*MIDI Controller: Komplete Kontrol S88 MKII\n\nPC Specs:\n*OS: Windows 10\n*CPU: AMD Ryzen 9 3900X 12-Core 3.80 GHz\n*RAM: 32GB\n*GPU: Nvidia RTX 2070 Super\n*SSD: 1TB (3500 MB/s R/W)\n\nMy Ableton theme: https://www.livethemes.co/themes/yello-by-live-themes-remixed/28636\nMy Serum skin: https://www.defrocksounds.com/product/deluxerock-basic/\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU8YKE7-YPx8-QpB7uV5ZJjQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "5140450",
+      "subscriberCount": "60600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "267"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Oversampled",
+        "description": "Oversampled is helping out producers by bringing quality sounds, music production tutorials and fresh inspirations.\n\nNever enough samples to get oversampled.\nOversampled - you can say your project is oversampled when there is no more space for samples.\n\nIf you want to talk to me, ask me some questions or just be friends :)\nhttps://instagram.com/oversampled.us\n\n\nMy studio equipment:\n*Audio interface: NI Komplete Audio 6\n*DAW: Ableton Live 10 Suite\n*Headphones: Bayerdynamic DT1990 Pro 250Ohm\n*Monitors: Yamaha HS8\n*Mic: Audio-Technica AT2020\n*MIDI Controller: Komplete Kontrol S88 MKII\n\nPC Specs:\n*OS: Windows 10\n*CPU: AMD Ryzen 9 3900X 12-Core 3.80 GHz\n*RAM: 32GB\n*GPU: Nvidia RTX 2070 Super\n*SSD: 1TB (3500 MB/s R/W)\n\nMy Ableton theme: https://www.livethemes.co/themes/yello-by-live-themes-remixed/28636\nMy Serum skin: https://www.defrocksounds.com/product/deluxerock-basic/\n",
+        "keywords": "\"music production\" \"future bass\" \"ableton live\" \"sample packs\" \"how to make music\" \"music production tutorial\"",
+        "unsubscribedTrailer": "jkn1tQ0Ebuo",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/wGNDkvqDhmKCh09iJ9n9-eoXO9cXow9MKwMwXuB2xlqCfddEhVws7nZubdaaufKf2yy11yj4Gg"
+      }
+    }
+  }
+}

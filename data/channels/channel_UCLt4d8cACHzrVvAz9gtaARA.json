@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCLt4d8cACHzrVvAz9gtaARA",
+  "retrieved_on": "2021-12-05 03:47:33.852119",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "FsVxyF4lKfDtW8csDG1zvJrywIM",
+    "id": "UCLt4d8cACHzrVvAz9gtaARA",
+    "snippet": {
+      "title": "Neuralink",
+      "description": "Neuralink is developing high-bandwidth brain-machine interfaces.",
+      "customUrl": "neuralink",
+      "publishedAt": "2019-07-12T20:20:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQG7vrs6llKM8a5Eak_J69yz5wZW0xQuYDTy0Mq=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQG7vrs6llKM8a5Eak_J69yz5wZW0xQuYDTy0Mq=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQG7vrs6llKM8a5Eak_J69yz5wZW0xQuYDTy0Mq=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Neuralink",
+        "description": "Neuralink is developing high-bandwidth brain-machine interfaces."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UULt4d8cACHzrVvAz9gtaARA"
+      }
+    },
+    "statistics": {
+      "viewCount": "11692177",
+      "subscriberCount": "312000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "8"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Neuralink",
+        "description": "Neuralink is developing high-bandwidth brain-machine interfaces.",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/HGkUBZe1nObMX0Qsk-Q-Yzdw3ENy_lEuJW36czP-ND8QFAWMKjsBZnaze1XDngukb0WTfmDWnA"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCkgxMWPImqt1VxMaI9d79LA",
+  "retrieved_on": "2021-12-05 03:47:36.809228",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "K4P38suU8fMWEK1jqFH1IVIMk78",
+    "id": "UCkgxMWPImqt1VxMaI9d79LA",
+    "snippet": {
+      "title": "DIY Engineering",
+      "description": "high-tech projects from start to finish using consumer grade tools and modern ingenuity.",
+      "customUrl": "diyengineering",
+      "publishedAt": "2016-06-24T20:13:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTAA6U1T1v7a4qVFxp9GdzJ0FJq0pxZ5UcGZcYG=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTAA6U1T1v7a4qVFxp9GdzJ0FJq0pxZ5UcGZcYG=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTAA6U1T1v7a4qVFxp9GdzJ0FJq0pxZ5UcGZcYG=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DIY Engineering",
+        "description": "high-tech projects from start to finish using consumer grade tools and modern ingenuity."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkgxMWPImqt1VxMaI9d79LA"
+      }
+    },
+    "statistics": {
+      "viewCount": "745127",
+      "subscriberCount": "22100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "93"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "DIY Engineering",
+        "description": "high-tech projects from start to finish using consumer grade tools and modern ingenuity.",
+        "keywords": "DIY Engineering cnc \"3d printing\" help maker fabrication drone \"racing drone\" art laser programming electronics digital fusion360 autodesk 5-axis software design digitalfabrication",
+        "unsubscribedTrailer": "SRaY6kN6Dug",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7JVKDdMHmx6WukLOfQkXqEZS4hCCT4KpNeKCWTCkowFVzYnpZvSSOd9NfH7rrkLnEoEAAaesOg"
+      }
+    }
+  }
+}

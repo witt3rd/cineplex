@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCDZESjYAwh-ws7ZSZZ8DKeg",
+  "retrieved_on": "2021-12-05 03:47:39.939438",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "w4FIJBpupknSJ4P1A4yV9dvAcH0",
+    "id": "UCDZESjYAwh-ws7ZSZZ8DKeg",
+    "snippet": {
+      "title": "skippy62able",
+      "description": "Welcome to the land of The L.A. BEAST!!!!\n\nI am currently a Professional Competitive Eater, and a YouTube Entertainer! I like to do all the crazy and seemingly impossible tasks that the average human being would never even consider doing. \n\nPLEASE CHECK OUT ALL MY LINKS BELOW AND MAKE SURE TO FOLLOW AND SUBSCRIBE TO L.A. BEAST TO KEEP UP ON HIS LATEST EVENTS AND ACTIVITIES\n\n",
+      "customUrl": "labeast",
+      "publishedAt": "2010-08-07T17:25:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT77zB4EnvXePuNnOzYFkMERzpUuQ4fu0lR1rEG=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT77zB4EnvXePuNnOzYFkMERzpUuQ4fu0lR1rEG=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT77zB4EnvXePuNnOzYFkMERzpUuQ4fu0lR1rEG=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "skippy62able",
+        "description": "Welcome to the land of The L.A. BEAST!!!!\n\nI am currently a Professional Competitive Eater, and a YouTube Entertainer! I like to do all the crazy and seemingly impossible tasks that the average human being would never even consider doing. \n\nPLEASE CHECK OUT ALL MY LINKS BELOW AND MAKE SURE TO FOLLOW AND SUBSCRIBE TO L.A. BEAST TO KEEP UP ON HIS LATEST EVENTS AND ACTIVITIES\n\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDZESjYAwh-ws7ZSZZ8DKeg"
+      }
+    },
+    "statistics": {
+      "viewCount": "480205197",
+      "subscriberCount": "2730000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "392"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "skippy62able",
+        "description": "Welcome to the land of The L.A. BEAST!!!!\n\nI am currently a Professional Competitive Eater, and a YouTube Entertainer! I like to do all the crazy and seemingly impossible tasks that the average human being would never even consider doing. \n\nPLEASE CHECK OUT ALL MY LINKS BELOW AND MAKE SURE TO FOLLOW AND SUBSCRIBE TO L.A. BEAST TO KEEP UP ON HIS LATEST EVENTS AND ACTIVITIES\n\n",
+        "keywords": "\"L.A. Beast\" \"La Beast\" Labeast LABEAST \"savage nation\" \"la beast skippy\" \"skippy 62 la beast\" skippy62able",
+        "unsubscribedTrailer": "bAm9B7PWsVc"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/MFSNMDm_8Oa0Ohq2ZyS8BnJU2EcywWiMcG6a_jkUD5rg9_jTwFzsl1S3Ad6zX2FSywVG8XT8fg"
+      }
+    }
+  }
+}

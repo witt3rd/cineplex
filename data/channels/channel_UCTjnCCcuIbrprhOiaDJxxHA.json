@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCTjnCCcuIbrprhOiaDJxxHA",
+  "retrieved_on": "2021-12-05 03:47:28.304285",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "bW3N8jweGlaKN5HSvn4lnpzZsZI",
+    "id": "UCTjnCCcuIbrprhOiaDJxxHA",
+    "snippet": {
+      "title": "Infallible Code",
+      "description": "Unity tutorials for game programmers. Learn about frameworks, design patterns, unit testing, and more. Our goal is to give you the tools to be the best Unity developer possible.",
+      "customUrl": "infalliblecode",
+      "publishedAt": "2011-07-10T14:58:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSr0hBiKGLJcVSiy-dpTdH6t1ILrnGDxnebx7hNEA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSr0hBiKGLJcVSiy-dpTdH6t1ILrnGDxnebx7hNEA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSr0hBiKGLJcVSiy-dpTdH6t1ILrnGDxnebx7hNEA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Infallible Code",
+        "description": "Unity tutorials for game programmers. Learn about frameworks, design patterns, unit testing, and more. Our goal is to give you the tools to be the best Unity developer possible."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTjnCCcuIbrprhOiaDJxxHA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2790056",
+      "subscriberCount": "49700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "229"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Infallible Code",
+        "description": "Unity tutorials for game programmers. Learn about frameworks, design patterns, unit testing, and more. Our goal is to give you the tools to be the best Unity developer possible.",
+        "keywords": "unity \"unity tutorials\" \"game development\" \"game programming\" \"game code\"",
+        "trackingAnalyticsAccountId": "UA-93347241-2",
+        "moderateComments": true,
+        "unsubscribedTrailer": "1ebBJt4Ltms",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/d4XLWH4l_7aOmAVbu0gDw3N3sWL_30jShPNfmU0p73IUyshw4AkvLRvatV7Qo-xrMQumVzrZLA"
+      }
+    }
+  }
+}

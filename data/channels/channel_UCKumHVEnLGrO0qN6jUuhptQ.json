@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCKumHVEnLGrO0qN6jUuhptQ",
+  "retrieved_on": "2021-12-05 03:47:36.809269",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jEDibv5Hpm8cI6bA59JznihhHtQ",
+    "id": "UCKumHVEnLGrO0qN6jUuhptQ",
+    "snippet": {
+      "title": "Driving Music",
+      "description": "youtube.com/DrivingMusic\n\nMusic + Driving\n\n171,000 kilometres as of June 1, 2020. \n\n\n\n\n\nWe are full-time graduate students.\n\n\n\nAds are automatically added by Youtube. We have no control concerning the adverts. Support your artists by attending their shows.",
+      "customUrl": "drivingmusic",
+      "publishedAt": "2012-02-02T18:40:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQKF6kpVpBgVBB4YSg6I5zzJpILWdNLKNP9p8ScjQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQKF6kpVpBgVBB4YSg6I5zzJpILWdNLKNP9p8ScjQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQKF6kpVpBgVBB4YSg6I5zzJpILWdNLKNP9p8ScjQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Driving Music",
+        "description": "youtube.com/DrivingMusic\n\nMusic + Driving\n\n171,000 kilometres as of June 1, 2020. \n\n\n\n\n\nWe are full-time graduate students.\n\n\n\nAds are automatically added by Youtube. We have no control concerning the adverts. Support your artists by attending their shows."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUKumHVEnLGrO0qN6jUuhptQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "10114859",
+      "subscriberCount": "44200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2551"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Driving Music",
+        "description": "youtube.com/DrivingMusic\n\nMusic + Driving\n\n171,000 kilometres as of June 1, 2020. \n\n\n\n\n\nWe are full-time graduate students.\n\n\n\nAds are automatically added by Youtube. We have no control concerning the adverts. Support your artists by attending their shows.",
+        "keywords": "random every day life driving automobile car city living alive urban country suburb dashcam pov music",
+        "trackingAnalyticsAccountId": "UA-62224371-2",
+        "moderateComments": true,
+        "unsubscribedTrailer": "s5Taby54hzk",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/NkZi0enDDpkaPhZ1mHM4Bv4OFcMn18-JKb7IajkZSLhkSbAQQNXf5K9mdQXwryjhbAi5PMD5sm4"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+  "retrieved_on": "2021-12-05 03:47:38.208078",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "X9nssjFszI69k_d81NOjgzxH6F8",
+    "id": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+    "snippet": {
+      "title": "Databricks",
+      "description": "Databricks is the data and AI company. Thousands of organizations worldwide \u2014 including Comcast, Cond\u00e9 Nast, Nationwide and H&M \u2014 rely on Databricks\u2019 open and unified platform for data engineering, machine learning and analytics. Databricks is venture-backed and headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark\u2122, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the world\u2019s toughest problems.",
+      "customUrl": "databricks",
+      "publishedAt": "2014-07-02T00:25:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/_7KEqCHnfwYCkZmPrEAinVpFFKpvyK9IGcHDsZtaj68aCOi6Ige1Zl3B6MjHZUuurc-WjEv1tVM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/_7KEqCHnfwYCkZmPrEAinVpFFKpvyK9IGcHDsZtaj68aCOi6Ige1Zl3B6MjHZUuurc-WjEv1tVM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/_7KEqCHnfwYCkZmPrEAinVpFFKpvyK9IGcHDsZtaj68aCOi6Ige1Zl3B6MjHZUuurc-WjEv1tVM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Databricks",
+        "description": "Databricks is the data and AI company. Thousands of organizations worldwide \u2014 including Comcast, Cond\u00e9 Nast, Nationwide and H&M \u2014 rely on Databricks\u2019 open and unified platform for data engineering, machine learning and analytics. Databricks is venture-backed and headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark\u2122, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the world\u2019s toughest problems."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3q8O3Bh2Le8Rj1-Q-_UUbA"
+      }
+    },
+    "statistics": {
+      "viewCount": "8558537",
+      "subscriberCount": "52700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1900"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Databricks",
+        "description": "Databricks is the data and AI company. Thousands of organizations worldwide \u2014 including Comcast, Cond\u00e9 Nast, Nationwide and H&M \u2014 rely on Databricks\u2019 open and unified platform for data engineering, machine learning and analytics. Databricks is venture-backed and headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark\u2122, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the world\u2019s toughest problems.",
+        "keywords": "Databricks Spark \"Delta Lake\" DeltaLakeOSS SparkSummit \"Spark Summit\" \"Apache Spark\" \"Data Science\" \"Machine Learning\" \"Data Engineering\" Lakehouse \"Data Lakehouse\" ETL \"Data + AI Summit\" \"Data AI Summit\" \"Delta Live Tables\" \"Databricks SQL\"",
+        "unsubscribedTrailer": "9foZiwwvj4g",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/FQfLFq1JJevRHjHihJxHvU-lwWnNBn-954o93CixBzJ-lhpgg8a39SZiWHoeY7sR3JnwG709DI4"
+      }
+    }
+  }
+}

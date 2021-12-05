@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCT5C7yaO3RVuOgwP8JVAujQ",
+  "retrieved_on": "2021-12-05 03:47:34.793964",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4GYpjA9hd0C2nk1OhPinVwvpy9A",
+    "id": "UCT5C7yaO3RVuOgwP8JVAujQ",
+    "snippet": {
+      "title": "Taskmaster",
+      "description": "Welcome to the official Taskmaster YouTube channel. \n\nWatch Taskmaster episodes from around the globe, as well as best bits, compilations and everything in between. \n\nSeries 12 of Taskmaster starts Thursday 23rd September on Channel 4. \n\nEmmy Award nominated, and BAFTA and Broadcast Award winning Taskmaster, hosted by Greg Davies as The Taskmaster and his loyal assistant Little Alex Horne, challenges some of the funniest people in the country to use their wit, wile, and wisdom to impress The Taskmaster. Join us in this hyper-competitive and hyper-ridiculous mission to beat The Taskmaster.\n\nBy submitting any material to #HomeTasking in any way, you grant Avalon Television Limited (and its parents, successors, licensees and assignees) the non-exclusive licence to use the material without charge in any way via any media (including any television programme), worldwide, in perpetuity.",
+      "customUrl": "taskmaster",
+      "publishedAt": "2019-10-03T09:19:15Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxYa9UdMM_Td4htVJonfFUirMtQtWMmY0yrHAd=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxYa9UdMM_Td4htVJonfFUirMtQtWMmY0yrHAd=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxYa9UdMM_Td4htVJonfFUirMtQtWMmY0yrHAd=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Taskmaster",
+        "description": "Welcome to the official Taskmaster YouTube channel. \n\nWatch Taskmaster episodes from around the globe, as well as best bits, compilations and everything in between. \n\nSeries 12 of Taskmaster starts Thursday 23rd September on Channel 4. \n\nEmmy Award nominated, and BAFTA and Broadcast Award winning Taskmaster, hosted by Greg Davies as The Taskmaster and his loyal assistant Little Alex Horne, challenges some of the funniest people in the country to use their wit, wile, and wisdom to impress The Taskmaster. Join us in this hyper-competitive and hyper-ridiculous mission to beat The Taskmaster.\n\nBy submitting any material to #HomeTasking in any way, you grant Avalon Television Limited (and its parents, successors, licensees and assignees) the non-exclusive licence to use the material without charge in any way via any media (including any television programme), worldwide, in perpetuity."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUT5C7yaO3RVuOgwP8JVAujQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "244520618",
+      "subscriberCount": "785000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "486"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Taskmaster",
+        "description": "Welcome to the official Taskmaster YouTube channel. \n\nWatch Taskmaster episodes from around the globe, as well as best bits, compilations and everything in between. \n\nSeries 12 of Taskmaster starts Thursday 23rd September on Channel 4. \n\nEmmy Award nominated, and BAFTA and Broadcast Award winning Taskmaster, hosted by Greg Davies as The Taskmaster and his loyal assistant Little Alex Horne, challenges some of the funniest people in the country to use their wit, wile, and wisdom to impress The Taskmaster. Join us in this hyper-competitive and hyper-ridiculous mission to beat The Taskmaster.\n\nBy submitting any material to #HomeTasking in any way, you grant Avalon Television Limited (and its parents, successors, licensees and assignees) the non-exclusive licence to use the material without charge in any way via any media (including any television programme), worldwide, in perpetuity.",
+        "keywords": "Taskmaster \"Taskmaster Full Episodes\" \"Alex Horne\" \"Greg Davies\"",
+        "unsubscribedTrailer": "pnDLLisVsOQ",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/hMsiCbPRS2L_H8jgZxvoUrUXYvB_6Vt0EhmkUdUukuYVWJ5DUzbbpTlYNFQ4bcirEBB6i25lPwc"
+      }
+    }
+  }
+}

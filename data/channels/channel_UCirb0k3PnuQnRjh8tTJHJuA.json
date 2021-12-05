@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCirb0k3PnuQnRjh8tTJHJuA",
+  "retrieved_on": "2021-12-05 03:47:39.939420",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "bosH0BQOkL3_JnyAGTKVBAXW04Y",
+    "id": "UCirb0k3PnuQnRjh8tTJHJuA",
+    "snippet": {
+      "title": "Kimberly Fessel",
+      "description": "Welcome to my channel!  My channel currently features videos about Python, data visualizations packages, and visual explanations of plots and metrics.  You can watch my full \"Introduction to Seaborn\" playlist, check out some specific Matplotlib tips, or see other visual interpretations of data concepts.   I currently work as Director of Data Science at Metis.  Thanks for stopping by and let me know what type of content you would like to see next -- cheers!",
+      "customUrl": "kimberlyfessel",
+      "publishedAt": "2011-10-21T01:05:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCZ3Hdmzs0mRpbcHfhTEOHWUBhJ9FaLlRNaU7Rfw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCZ3Hdmzs0mRpbcHfhTEOHWUBhJ9FaLlRNaU7Rfw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCZ3Hdmzs0mRpbcHfhTEOHWUBhJ9FaLlRNaU7Rfw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Kimberly Fessel",
+        "description": "Welcome to my channel!  My channel currently features videos about Python, data visualizations packages, and visual explanations of plots and metrics.  You can watch my full \"Introduction to Seaborn\" playlist, check out some specific Matplotlib tips, or see other visual interpretations of data concepts.   I currently work as Director of Data Science at Metis.  Thanks for stopping by and let me know what type of content you would like to see next -- cheers!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUirb0k3PnuQnRjh8tTJHJuA"
+      }
+    },
+    "statistics": {
+      "viewCount": "247912",
+      "subscriberCount": "6750",
+      "hiddenSubscriberCount": false,
+      "videoCount": "54"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Kimberly Fessel",
+        "description": "Welcome to my channel!  My channel currently features videos about Python, data visualizations packages, and visual explanations of plots and metrics.  You can watch my full \"Introduction to Seaborn\" playlist, check out some specific Matplotlib tips, or see other visual interpretations of data concepts.   I currently work as Director of Data Science at Metis.  Thanks for stopping by and let me know what type of content you would like to see next -- cheers!",
+        "keywords": "Python \"data science\" dataviz \"data visualization\" seaborn \"machine learning\" matplotlib \"Kimberly Fessel\" \"matplotlib tips\" \"intro to seaborn\" \"data visualizations explained\" \"data analytics\" \"Python programming\" \"matplotlib tips and tricks\" \"how to make data visuals\"",
+        "unsubscribedTrailer": "uZlMNUPA26E",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/SpJ94-ZhwSoRQo-oAWbH7JUVJFt0Trf-Gm-dnyQbUv86yZEOsEvzvRUi5dxwNBRnSX7KeL68EQ"
+      }
+    }
+  }
+}

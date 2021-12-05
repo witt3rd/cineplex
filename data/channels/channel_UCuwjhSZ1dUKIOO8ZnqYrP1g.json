@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCuwjhSZ1dUKIOO8ZnqYrP1g",
+  "retrieved_on": "2021-12-05 03:47:36.348894",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lG1pH0JEhUCP6Oqq4sz_vDeY3zY",
+    "id": "UCuwjhSZ1dUKIOO8ZnqYrP1g",
+    "snippet": {
+      "title": "The 3D Printing Zone",
+      "description": "3D Printing projects, tutorials and demonstrations for nerds of all nerd levels.\n\nInterested in sponsoring a video? Please use the email address below to get in touch.\n",
+      "customUrl": "the3dprintingzone",
+      "publishedAt": "2018-08-03T05:59:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTGLk6TbkTB9v2SPSLonNTQaAqKr-LKjdE9c4HG=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTGLk6TbkTB9v2SPSLonNTQaAqKr-LKjdE9c4HG=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTGLk6TbkTB9v2SPSLonNTQaAqKr-LKjdE9c4HG=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The 3D Printing Zone",
+        "description": "3D Printing projects, tutorials and demonstrations for nerds of all nerd levels.\n\nInterested in sponsoring a video? Please use the email address below to get in touch.\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUuwjhSZ1dUKIOO8ZnqYrP1g"
+      }
+    },
+    "statistics": {
+      "viewCount": "3048153",
+      "subscriberCount": "51700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "24"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The 3D Printing Zone",
+        "description": "3D Printing projects, tutorials and demonstrations for nerds of all nerd levels.\n\nInterested in sponsoring a video? Please use the email address below to get in touch.\n",
+        "keywords": "\"3D Printing\" 3D printing zone \"3D printer\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Oy0EXZqWu5JYOOUITFtnB342fL8WYm6kw8SLKsYao5MF_ZDDH2xW-d87ISpBaIY16aleACUiDg"
+      }
+    }
+  }
+}

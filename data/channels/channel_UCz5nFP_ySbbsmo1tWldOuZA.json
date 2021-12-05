@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCz5nFP_ySbbsmo1tWldOuZA",
+  "retrieved_on": "2021-12-05 03:47:40.782164",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "3QY8Op07bhn6ScEKWSczR46FzIs",
+    "id": "UCz5nFP_ySbbsmo1tWldOuZA",
+    "snippet": {
+      "title": "ROLI",
+      "description": "We are a design-led technology company based in Dalston, London. \n\nWe make hardware and software that increases the bandwidth of interaction between people and technology.\n\nWe are ROLI.",
+      "customUrl": "weareroli",
+      "publishedAt": "2012-11-08T10:07:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQkcdrY7saj-unzSeO6a0f9rGrDZpVF-T3-xESMNA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQkcdrY7saj-unzSeO6a0f9rGrDZpVF-T3-xESMNA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQkcdrY7saj-unzSeO6a0f9rGrDZpVF-T3-xESMNA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ROLI",
+        "description": "We are a design-led technology company based in Dalston, London. \n\nWe make hardware and software that increases the bandwidth of interaction between people and technology.\n\nWe are ROLI."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUz5nFP_ySbbsmo1tWldOuZA"
+      }
+    },
+    "statistics": {
+      "viewCount": "73289325",
+      "subscriberCount": "277000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "428"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ROLI",
+        "description": "We are a design-led technology company based in Dalston, London. \n\nWe make hardware and software that increases the bandwidth of interaction between people and technology.\n\nWe are ROLI.",
+        "keywords": "\"Seaboard GRAND\" \"Roland Lamb\" \"Seaboard RISE\" \"Best MIDI Controller\" MIDI Seaboard ROLI \"ROLI keyboard\" \"Expressive keyboard\" LUMI \"LUMI studio\" \"LUMI Keys\" equator2 \"best synth\" \"best soft synth\" MPE Cypher2 Strobe2 \"roli lumi\" \"free plugins\" \"illuminated keyboard\" pitchbend aftertouch 5D 4D \"MPE Compatible\" \"sound design\" \"music producer\" VST AU \"VST compatible\" \"Best patches\" \"Best presets\" FXpansion",
+        "trackingAnalyticsAccountId": "UA-36852551-1",
+        "unsubscribedTrailer": "Xd_FJDUfVuE",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/8otrwQipDxzrpC7C_5xkIPDISrIZBkVZUWw2EXM3qOt6uMy2nLO6hwCxCSSeUf_9IiIN5YtINw"
+      }
+    }
+  }
+}

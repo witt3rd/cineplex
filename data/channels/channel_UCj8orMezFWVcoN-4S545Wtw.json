@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCj8orMezFWVcoN-4S545Wtw",
+  "retrieved_on": "2021-12-05 03:47:37.250630",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "AKRJw5D1A03HVbDIZXjvWmg3VJE",
+    "id": "UCj8orMezFWVcoN-4S545Wtw",
+    "snippet": {
+      "title": "Max Derrat",
+      "description": "Staying yellow since 2015. :D \n\nBack in 2015, I began to produce videos on what interested \u201cme\u201d. What began as an occasional hobby turned into a passion as I realized that there is always something new to learn, or when given the opportunity to teach and/or help others each and every day.\n \nOriginally, I was focused on video games and movies and took them at face value which is what we should be able to do at times; sit back, relax, enjoy and turn off the thought process, (if we are ever truly able to do so). Eventually my interest and research in psychology, philosophy and their effect on the world and, in this case, specifically the area of entertainment, led me to further research. \n \nMore recently, I have been drawn to the important topics of mental health and autism. Never has there been a more important time for us to be informed, raise awareness and support one another throughout the various challenges we are faced with in life.",
+      "publishedAt": "2014-06-03T22:41:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/7SA-HV_W8L2buzyMfZ7srjj7E3SpgMwwNk8X9M3Ttk5Wa2P0jo2wM7pBROZjhzdub1z-B-d0Rw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/7SA-HV_W8L2buzyMfZ7srjj7E3SpgMwwNk8X9M3Ttk5Wa2P0jo2wM7pBROZjhzdub1z-B-d0Rw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/7SA-HV_W8L2buzyMfZ7srjj7E3SpgMwwNk8X9M3Ttk5Wa2P0jo2wM7pBROZjhzdub1z-B-d0Rw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Max Derrat",
+        "description": "Staying yellow since 2015. :D \n\nBack in 2015, I began to produce videos on what interested \u201cme\u201d. What began as an occasional hobby turned into a passion as I realized that there is always something new to learn, or when given the opportunity to teach and/or help others each and every day.\n \nOriginally, I was focused on video games and movies and took them at face value which is what we should be able to do at times; sit back, relax, enjoy and turn off the thought process, (if we are ever truly able to do so). Eventually my interest and research in psychology, philosophy and their effect on the world and, in this case, specifically the area of entertainment, led me to further research. \n \nMore recently, I have been drawn to the important topics of mental health and autism. Never has there been a more important time for us to be informed, raise awareness and support one another throughout the various challenges we are faced with in life."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUj8orMezFWVcoN-4S545Wtw"
+      }
+    },
+    "statistics": {
+      "viewCount": "25786637",
+      "subscriberCount": "218000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "338"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Max Derrat",
+        "description": "Staying yellow since 2015. :D \n\nBack in 2015, I began to produce videos on what interested \u201cme\u201d. What began as an occasional hobby turned into a passion as I realized that there is always something new to learn, or when given the opportunity to teach and/or help others each and every day.\n \nOriginally, I was focused on video games and movies and took them at face value which is what we should be able to do at times; sit back, relax, enjoy and turn off the thought process, (if we are ever truly able to do so). Eventually my interest and research in psychology, philosophy and their effect on the world and, in this case, specifically the area of entertainment, led me to further research. \n \nMore recently, I have been drawn to the important topics of mental health and autism. Never has there been a more important time for us to be informed, raise awareness and support one another throughout the various challenges we are faced with in life.",
+        "keywords": "Max Derrat MaxDerrat MaxDerratProductions Gaming MentalHealth MentalHealthAwareness Analysis AutismAwareness ContentCreator Writer Journalist Producer ASD MentalHealthAdvocate",
+        "unsubscribedTrailer": "jIYBod0ge3Y",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/cJt6SBFvDjvX6e6qXzmNx7hlcb_DkWPtGAvQMje5dnj4fFeTjt3nyL_E9BQAXpOSzRVF7aSA"
+      }
+    }
+  }
+}

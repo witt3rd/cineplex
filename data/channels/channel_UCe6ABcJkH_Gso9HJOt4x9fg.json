@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCe6ABcJkH_Gso9HJOt4x9fg",
+  "retrieved_on": "2021-12-05 03:47:34.308935",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8MGGTdl9Xn37ZhDqSnzp160t8mI",
+    "id": "UCe6ABcJkH_Gso9HJOt4x9fg",
+    "snippet": {
+      "title": "Jack of Some",
+      "description": "Hi. Thank you for checking out my channel. I like all things FOSS and have a particular affinity for Spacemacs, i3, and zsh. I also professionally use python, deep learning, and the robot operating system. In the channel I'm trying to create lessons on how to use a number of these technologies with a laser focus on making the videos as short as they can be.\n\nI hope you like my content. Please consider subscribing and leaving comments about what you'd like to see a video on. Also consider following me on twitter (https://twitter.com/safijari)",
+      "customUrl": "jackofsome",
+      "publishedAt": "2019-03-29T22:16:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT0goDTHl33ypwPN9IJU1SE_S2B1oR4n3qtlyp-=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT0goDTHl33ypwPN9IJU1SE_S2B1oR4n3qtlyp-=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT0goDTHl33ypwPN9IJU1SE_S2B1oR4n3qtlyp-=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Jack of Some",
+        "description": "Hi. Thank you for checking out my channel. I like all things FOSS and have a particular affinity for Spacemacs, i3, and zsh. I also professionally use python, deep learning, and the robot operating system. In the channel I'm trying to create lessons on how to use a number of these technologies with a laser focus on making the videos as short as they can be.\n\nI hope you like my content. Please consider subscribing and leaving comments about what you'd like to see a video on. Also consider following me on twitter (https://twitter.com/safijari)"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUe6ABcJkH_Gso9HJOt4x9fg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1513067",
+      "subscriberCount": "26500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "34"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jack of Some",
+        "description": "Hi. Thank you for checking out my channel. I like all things FOSS and have a particular affinity for Spacemacs, i3, and zsh. I also professionally use python, deep learning, and the robot operating system. In the channel I'm trying to create lessons on how to use a number of these technologies with a laser focus on making the videos as short as they can be.\n\nI hope you like my content. Please consider subscribing and leaving comments about what you'd like to see a video on. Also consider following me on twitter (https://twitter.com/safijari)",
+        "keywords": "Programming Linux \"text editor\" python Emacs spacemacs vim \"computer vision\" \"deep learning\"",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/QCGd62mMGC62Yv6h7KQPQVFuXqwEu7AADS9E6YHDUiqjP4u7p158O-lK88AxoqwznXXHXsG3sQ"
+      }
+    }
+  }
+}

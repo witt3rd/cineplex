@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCGpHnJ3Er16l4urR01OXAkg",
+  "retrieved_on": "2021-12-05 03:47:37.514275",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lDTE_9McUz7vLiGbYLjXmJUQnWg",
+    "id": "UCGpHnJ3Er16l4urR01OXAkg",
+    "snippet": {
+      "title": "Sketch",
+      "description": "Hey everyone,\nThis channel is focused on game development and computing in general.\nHope you enjoy!",
+      "publishedAt": "2016-09-03T08:54:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHusA0vIS9HQ1Y4PWzeG6zvlvavSu08VcQDap_RA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHusA0vIS9HQ1Y4PWzeG6zvlvavSu08VcQDap_RA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHusA0vIS9HQ1Y4PWzeG6zvlvavSu08VcQDap_RA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sketch",
+        "description": "Hey everyone,\nThis channel is focused on game development and computing in general.\nHope you enjoy!"
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUGpHnJ3Er16l4urR01OXAkg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1375487",
+      "subscriberCount": "18700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "24"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sketch",
+        "description": "Hey everyone,\nThis channel is focused on game development and computing in general.\nHope you enjoy!",
+        "unsubscribedTrailer": "osqC1-j0Oa8",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/zyqbWQr9AHAL8FwyECqFeA_hGOwmh8DxUqCbb0rzmic_WiZ5gbzM1Ncm8kKTkz9uKOU5WI26"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCZvxw99l3xDC6BIHb8nJKGg",
+  "retrieved_on": "2021-12-05 03:47:40.782089",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "SGm_k42yRwmQasiKOxleAWX1GQU",
+    "id": "UCZvxw99l3xDC6BIHb8nJKGg",
+    "snippet": {
+      "title": "ElderFox Documentaries",
+      "description": "Here, you can learn, be entertained and find comfort. It's our mission to make interesting, thought provoking and fun videos about Space, Science and History. A new video every Saturday!\n\nWe are on the road to 1 Million subscribers, join the team now by subscribing!\nhttps://www.youtube.com/channel/UCZvxw99l3xDC6BIHb8nJKGg?sub_confirmation=1\n\nWhy should I subscribe? \nIf you are interested at all in the type of videos we make, then by subscribing you help to get more of these videos on YouTube. There is a direct correlation between the amount of subscribers we have, and the amount of videos we can post. Each and every one of you that decides to subscribe makes a difference. Join the team today!\n\nFeel free to send video suggestions/ask questions at elderfoxdocumentaries@gmail.com\n\nPlease note: We are not affiliated with NASA in any way, we just want more people to be inspired by their great work.",
+      "customUrl": "elderfoxdocumentaries",
+      "publishedAt": "2008-10-19T12:51:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS1_IZmvsaYSPDmAfsy0yVZVYREwOnhcgsnpFDO2g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS1_IZmvsaYSPDmAfsy0yVZVYREwOnhcgsnpFDO2g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS1_IZmvsaYSPDmAfsy0yVZVYREwOnhcgsnpFDO2g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ElderFox Documentaries",
+        "description": "Here, you can learn, be entertained and find comfort. It's our mission to make interesting, thought provoking and fun videos about Space, Science and History. A new video every Saturday!\n\nWe are on the road to 1 Million subscribers, join the team now by subscribing!\nhttps://www.youtube.com/channel/UCZvxw99l3xDC6BIHb8nJKGg?sub_confirmation=1\n\nWhy should I subscribe? \nIf you are interested at all in the type of videos we make, then by subscribing you help to get more of these videos on YouTube. There is a direct correlation between the amount of subscribers we have, and the amount of videos we can post. Each and every one of you that decides to subscribe makes a difference. Join the team today!\n\nFeel free to send video suggestions/ask questions at elderfoxdocumentaries@gmail.com\n\nPlease note: We are not affiliated with NASA in any way, we just want more people to be inspired by their great work."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZvxw99l3xDC6BIHb8nJKGg"
+      }
+    },
+    "statistics": {
+      "viewCount": "81406529",
+      "subscriberCount": "420000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "50"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ElderFox Documentaries",
+        "description": "Here, you can learn, be entertained and find comfort. It's our mission to make interesting, thought provoking and fun videos about Space, Science and History. A new video every Saturday!\n\nWe are on the road to 1 Million subscribers, join the team now by subscribing!\nhttps://www.youtube.com/channel/UCZvxw99l3xDC6BIHb8nJKGg?sub_confirmation=1\n\nWhy should I subscribe? \nIf you are interested at all in the type of videos we make, then by subscribing you help to get more of these videos on YouTube. There is a direct correlation between the amount of subscribers we have, and the amount of videos we can post. Each and every one of you that decides to subscribe makes a difference. Join the team today!\n\nFeel free to send video suggestions/ask questions at elderfoxdocumentaries@gmail.com\n\nPlease note: We are not affiliated with NASA in any way, we just want more people to be inspired by their great work.",
+        "keywords": "Elderfox documentaries. Mars rover images and space documentaries",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/OddFFd8YhQbIbPxqcQToNiqYUU-gfYMqo6Y3piLmwG6TVfbACrLlL5qCHBPibwk8kuWSy_A1_w"
+      }
+    }
+  }
+}

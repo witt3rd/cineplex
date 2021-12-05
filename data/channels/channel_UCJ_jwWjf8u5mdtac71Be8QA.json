@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCJ_jwWjf8u5mdtac71Be8QA",
+  "retrieved_on": "2021-12-05 03:47:32.314706",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HCPRCxUS85znRXTJLwWxZJl08sk",
+    "id": "UCJ_jwWjf8u5mdtac71Be8QA",
+    "snippet": {
+      "title": "Hildegard von Blingin'",
+      "description": "Bardcore for the discerning clergyman, noble, or muck-gathering peasant.\n\nI am a Canadian singer/illustrator who started making Bardcore in the Spring of 2020. If you're new to Bardcore, it is a pastiche genre that takes modern songs and makes them \"old-timey\" through the use of Medieval and Renaissance inspired instrumentation, as well as Shakespearean-ish lyrics.\nUnless otherwise credited, the majority of the instrumentals were created by me. They feature a mix of virtual and real instruments, including the Celtic harp, Irish whistle, and recorder. Several videos feature my brother, known here as Friar Funk. \n\nLooking to use any of this channel's music in a non-profit video, play, podcast, video game mod, etc? Please go ahead so long as you provide proper credit to any of the artists included on the track. Feel free to send me an email to let me know where it's been used! Lastly, I do not take commissions, but appreciate the interest.\n",
+      "customUrl": "hildegardvonblingin",
+      "publishedAt": "2006-07-09T06:06:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQYnHCWaDyAeDsXVGYA4W0WEyZ2i3AVF-pm0d8l=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQYnHCWaDyAeDsXVGYA4W0WEyZ2i3AVF-pm0d8l=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQYnHCWaDyAeDsXVGYA4W0WEyZ2i3AVF-pm0d8l=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Hildegard von Blingin'",
+        "description": "Bardcore for the discerning clergyman, noble, or muck-gathering peasant.\n\nI am a Canadian singer/illustrator who started making Bardcore in the Spring of 2020. If you're new to Bardcore, it is a pastiche genre that takes modern songs and makes them \"old-timey\" through the use of Medieval and Renaissance inspired instrumentation, as well as Shakespearean-ish lyrics.\nUnless otherwise credited, the majority of the instrumentals were created by me. They feature a mix of virtual and real instruments, including the Celtic harp, Irish whistle, and recorder. Several videos feature my brother, known here as Friar Funk. \n\nLooking to use any of this channel's music in a non-profit video, play, podcast, video game mod, etc? Please go ahead so long as you provide proper credit to any of the artists included on the track. Feel free to send me an email to let me know where it's been used! Lastly, I do not take commissions, but appreciate the interest.\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJ_jwWjf8u5mdtac71Be8QA"
+      }
+    },
+    "statistics": {
+      "viewCount": "38356538",
+      "subscriberCount": "817000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "13"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Hildegard von Blingin'",
+        "description": "Bardcore for the discerning clergyman, noble, or muck-gathering peasant.\n\nI am a Canadian singer/illustrator who started making Bardcore in the Spring of 2020. If you're new to Bardcore, it is a pastiche genre that takes modern songs and makes them \"old-timey\" through the use of Medieval and Renaissance inspired instrumentation, as well as Shakespearean-ish lyrics.\nUnless otherwise credited, the majority of the instrumentals were created by me. They feature a mix of virtual and real instruments, including the Celtic harp, Irish whistle, and recorder. Several videos feature my brother, known here as Friar Funk. \n\nLooking to use any of this channel's music in a non-profit video, play, podcast, video game mod, etc? Please go ahead so long as you provide proper credit to any of the artists included on the track. Feel free to send me an email to let me know where it's been used! Lastly, I do not take commissions, but appreciate the interest.\n",
+        "keywords": "Medieval \"Medieval Music\" \"Medieval Style\" \"Medieval Covers\" \"medieval style music\" \"medieval singing\" \"fantasy music\" \"tavern music\" bardcore \"Hildegard von Blingin'\" \"Hildegard von Bingen\"",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/BpNn8US9sw8AVVv0tYcd4OFXN3pzy_Ly7nQl80_Eg-nNi_l6ZKP3PodR3pTEbO2D6D1WPsBUUg"
+      }
+    }
+  }
+}

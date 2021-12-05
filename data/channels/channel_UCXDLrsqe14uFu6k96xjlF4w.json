@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCXDLrsqe14uFu6k96xjlF4w",
+  "retrieved_on": "2021-12-05 03:47:35.288820",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "znGGVPtg5G-Mfv_du4P188frKPw",
+    "id": "UCXDLrsqe14uFu6k96xjlF4w",
+    "snippet": {
+      "title": "Codingflag",
+      "description": "The Codingflag is a resource to learn all things web development and web design. \nLearn on your lunch break or wake up and enjoy a cup of coffee with us to learn something new.",
+      "customUrl": "codingflag",
+      "publishedAt": "2017-06-17T13:28:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ64UiWfNfYsDpAajCsY1AN7BGCeoSkwRjerwQX=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ64UiWfNfYsDpAajCsY1AN7BGCeoSkwRjerwQX=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ64UiWfNfYsDpAajCsY1AN7BGCeoSkwRjerwQX=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Codingflag",
+        "description": "The Codingflag is a resource to learn all things web development and web design. \nLearn on your lunch break or wake up and enjoy a cup of coffee with us to learn something new."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXDLrsqe14uFu6k96xjlF4w"
+      }
+    },
+    "statistics": {
+      "viewCount": "1306734",
+      "subscriberCount": "9980",
+      "hiddenSubscriberCount": false,
+      "videoCount": "184"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Codingflag",
+        "description": "The Codingflag is a resource to learn all things web development and web design. \nLearn on your lunch break or wake up and enjoy a cup of coffee with us to learn something new.",
+        "keywords": "Codingflag",
+        "unsubscribedTrailer": "kOJEWNPYBUo"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/8h5-cPzHx3nkSizNXjzQ-sN9XJpS7y6AVqe5zvh3jNQshG2AkyC4t_gb720ADHC0Xk4VF7lbXg"
+      }
+    }
+  }
+}

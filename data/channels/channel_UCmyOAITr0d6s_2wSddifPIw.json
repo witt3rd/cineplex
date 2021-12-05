@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCmyOAITr0d6s_2wSddifPIw",
+  "retrieved_on": "2021-12-05 03:47:35.856707",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QjXbEpvv2O1Lap-uZnKEUXsv8c8",
+    "id": "UCmyOAITr0d6s_2wSddifPIw",
+    "snippet": {
+      "title": "LifeKILLED",
+      "description": "",
+      "publishedAt": "2012-07-07T16:54:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQqC0843XlG74iIwQYhuyzXDXMzQGVv_gp7RHyi=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQqC0843XlG74iIwQYhuyzXDXMzQGVv_gp7RHyi=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQqC0843XlG74iIwQYhuyzXDXMzQGVv_gp7RHyi=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LifeKILLED",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmyOAITr0d6s_2wSddifPIw"
+      }
+    },
+    "statistics": {
+      "viewCount": "48047",
+      "subscriberCount": "249",
+      "hiddenSubscriberCount": false,
+      "videoCount": "7"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "LifeKILLED"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCOGA5JnlIF7spbyEDAkFG-g",
+  "retrieved_on": "2021-12-05 03:47:33.604529",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lopMefgbfm6R0pYp7vF7ITr42xM",
+    "id": "UCOGA5JnlIF7spbyEDAkFG-g",
+    "snippet": {
+      "title": "Fast Solution",
+      "description": "Best Unity 3D Video Tutorials In English, Hindi & Urdu. Learn to create unity 2d and 3d games the easy way. Learn Programming languages c#, java, c++ and more coming soon.",
+      "customUrl": "fastsolution",
+      "publishedAt": "2012-08-02T13:58:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRy1iuYyi-Q0SWgZNUWH10Spo7i7hBtMHxGllMajA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRy1iuYyi-Q0SWgZNUWH10Spo7i7hBtMHxGllMajA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRy1iuYyi-Q0SWgZNUWH10Spo7i7hBtMHxGllMajA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fast Solution",
+        "description": "Best Unity 3D Video Tutorials In English, Hindi & Urdu. Learn to create unity 2d and 3d games the easy way. Learn Programming languages c#, java, c++ and more coming soon."
+      },
+      "country": "PK"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOGA5JnlIF7spbyEDAkFG-g"
+      }
+    },
+    "statistics": {
+      "viewCount": "1733272",
+      "subscriberCount": "10800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "459"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Fast Solution",
+        "description": "Best Unity 3D Video Tutorials In English, Hindi & Urdu. Learn to create unity 2d and 3d games the easy way. Learn Programming languages c#, java, c++ and more coming soon.",
+        "keywords": "Unity 3d 2d Game development tutorials",
+        "unsubscribedTrailer": "uphnCxOYORU",
+        "country": "PK"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/oS9xLy8JjU-dKg0PG3_caTJMMtn8kN9aTjUsQKbDqjPubPDlmoec9zEOa6KcP_8YaMIwf4kHbw"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCbw0AvHJITSzq326nq34CgQ",
+  "retrieved_on": "2021-12-05 03:47:39.125999",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "3flmjd51zFv2JTkPP7rUNageV58",
+    "id": "UCbw0AvHJITSzq326nq34CgQ",
+    "snippet": {
+      "title": "DE4AL7",
+      "description": "\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435\nI do not own the rights to any of the music heard in these videos. All content belong to it's respective parties, no infringement intended. If you are a composer or rights holder feel free to message me if you want anything taken down.\n\nQ: Where that song plays?\nA: Ask your mom.\n\nQ: *Asks why original soundtrack for Far Cry 5 marked as \"Unreleased\"*\nA:\"Unreleased\" - not (or not yet) made available for distribution or publication\n\nQ;Is This on Spotify?\nA: NO NO AND NO.",
+      "customUrl": "de4al7",
+      "publishedAt": "2012-12-08T14:15:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNIT0p52hIz1cTcQg-kgUxvTAzfwKKHppMVF4t3w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNIT0p52hIz1cTcQg-kgUxvTAzfwKKHppMVF4t3w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNIT0p52hIz1cTcQg-kgUxvTAzfwKKHppMVF4t3w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DE4AL7",
+        "description": "\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435\nI do not own the rights to any of the music heard in these videos. All content belong to it's respective parties, no infringement intended. If you are a composer or rights holder feel free to message me if you want anything taken down.\n\nQ: Where that song plays?\nA: Ask your mom.\n\nQ: *Asks why original soundtrack for Far Cry 5 marked as \"Unreleased\"*\nA:\"Unreleased\" - not (or not yet) made available for distribution or publication\n\nQ;Is This on Spotify?\nA: NO NO AND NO."
+      },
+      "country": "RU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUbw0AvHJITSzq326nq34CgQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "26452506",
+      "subscriberCount": "9830",
+      "hiddenSubscriberCount": false,
+      "videoCount": "306"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "DE4AL7",
+        "description": "\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435\nI do not own the rights to any of the music heard in these videos. All content belong to it's respective parties, no infringement intended. If you are a composer or rights holder feel free to message me if you want anything taken down.\n\nQ: Where that song plays?\nA: Ask your mom.\n\nQ: *Asks why original soundtrack for Far Cry 5 marked as \"Unreleased\"*\nA:\"Unreleased\" - not (or not yet) made available for distribution or publication\n\nQ;Is This on Spotify?\nA: NO NO AND NO.",
+        "keywords": "videogame soundtrack trailer music rebuild of evangelion ost Life is Strange Soundtrack \"life is strange 2 soundtrack\"",
+        "moderateComments": true,
+        "country": "RU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/qh6SZTUESLVbz01RSbqm3RQzO_33lj79XQhlnNhkH0SA9saXevXKQ7XUYuNzt4GCv5YiJYuHnQ"
+      }
+    }
+  }
+}

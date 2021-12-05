@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCiSKdk1VLuw3bpn788ABH-w",
+  "retrieved_on": "2021-12-05 03:47:33.852141",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Vsy0C5H8l4DlQBd1rVaX7bPbcOA",
+    "id": "UCiSKdk1VLuw3bpn788ABH-w",
+    "snippet": {
+      "title": "Relax Music Meditation",
+      "description": "Hi!  I'm Jeff and I like to provide music compilations for creators that can be used in their next video.  On my channel, you'll find music of various types to help express the mood that you are trying to creating in your viewer.  Feel free to explore the compilations that I have created, many of which can be used in your video without a Content-ID claim.  This is a great plus and will help you as a creator retain full rights to your videos.  My goal is to help make video creation a fast and frictionless process by providing creators with easy to use and rights-cleared background music for their videos.\n\nAlso on this channel is music that helps you calm and hopefully decrease your stress level.  There are plenty of ways to get riled up throughout the day, but my goal is to provide calming music and relaxing backgrounds to promote happiness and stress relief.  I figure a less stressed world is more fun for everybody.\n\nTo your success, and to a happy, stress-free life!\n\n~ Jeff",
+      "customUrl": "relaxmusicmeditations",
+      "publishedAt": "2017-02-25T04:59:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCpR_cWUppD3G_oLzQ7i9cDl8-vFvZ-dT64sj-Cw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCpR_cWUppD3G_oLzQ7i9cDl8-vFvZ-dT64sj-Cw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCpR_cWUppD3G_oLzQ7i9cDl8-vFvZ-dT64sj-Cw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Relax Music Meditation",
+        "description": "Hi!  I'm Jeff and I like to provide music compilations for creators that can be used in their next video.  On my channel, you'll find music of various types to help express the mood that you are trying to creating in your viewer.  Feel free to explore the compilations that I have created, many of which can be used in your video without a Content-ID claim.  This is a great plus and will help you as a creator retain full rights to your videos.  My goal is to help make video creation a fast and frictionless process by providing creators with easy to use and rights-cleared background music for their videos.\n\nAlso on this channel is music that helps you calm and hopefully decrease your stress level.  There are plenty of ways to get riled up throughout the day, but my goal is to provide calming music and relaxing backgrounds to promote happiness and stress relief.  I figure a less stressed world is more fun for everybody.\n\nTo your success, and to a happy, stress-free life!\n\n~ Jeff"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUiSKdk1VLuw3bpn788ABH-w"
+      }
+    },
+    "statistics": {
+      "viewCount": "1759290",
+      "subscriberCount": "8000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "15"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Relax Music Meditation",
+        "description": "Hi!  I'm Jeff and I like to provide music compilations for creators that can be used in their next video.  On my channel, you'll find music of various types to help express the mood that you are trying to creating in your viewer.  Feel free to explore the compilations that I have created, many of which can be used in your video without a Content-ID claim.  This is a great plus and will help you as a creator retain full rights to your videos.  My goal is to help make video creation a fast and frictionless process by providing creators with easy to use and rights-cleared background music for their videos.\n\nAlso on this channel is music that helps you calm and hopefully decrease your stress level.  There are plenty of ways to get riled up throughout the day, but my goal is to provide calming music and relaxing backgrounds to promote happiness and stress relief.  I figure a less stressed world is more fun for everybody.\n\nTo your success, and to a happy, stress-free life!\n\n~ Jeff",
+        "keywords": "backgrounds \"screen savers\" \"screensavers nature\" \"no copyright\" \"copyright free music\" \"no copyright music\" \"royalty free\" \"royalty free music\" vlog \"vlog music\" \"copyright free background music\" \"music copyright free\" \"royalty free background music\" \"relax meditation music\" \"relax music meditation\" \"no copyright sounds\"",
+        "trackingAnalyticsAccountId": "UA-128736911-3",
+        "unsubscribedTrailer": "O-5Va8TAUNk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/xW-toMPuL8woZUoOPaHJW-B8RJH0QTtYfNqMn_My2_jmC9DJPduCB0iDWn3ruJ6scVoLMgk9lQ"
+      }
+    }
+  }
+}

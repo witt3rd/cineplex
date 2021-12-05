@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCVy-vHKZkh1vlLHWp955qww",
+  "retrieved_on": "2021-12-05 03:47:37.514231",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "i45hvItQPVLXet46yObmN9juraM",
+    "id": "UCVy-vHKZkh1vlLHWp955qww",
+    "snippet": {
+      "title": "How To Do It All",
+      "description": "See all the steps for solving tech problems or just getting more out of What you're using. Whether it's a computer tip, tweaks and tricks for your DVR, or ways to get more out of your smartphone, you'll find it in CNET How to. Each video is helpfully rated easy, medium, difficult or supergeek. Check out CNET How To at https://www.cnet.com/how-to/",
+      "customUrl": "cnethowto",
+      "publishedAt": "2018-03-21T21:35:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO6CmfYkpgU9s_HIn4cYmI_1AltxNImssHCsQ5=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO6CmfYkpgU9s_HIn4cYmI_1AltxNImssHCsQ5=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO6CmfYkpgU9s_HIn4cYmI_1AltxNImssHCsQ5=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "How To Do It All",
+        "description": "See all the steps for solving tech problems or just getting more out of What you're using. Whether it's a computer tip, tweaks and tricks for your DVR, or ways to get more out of your smartphone, you'll find it in CNET How to. Each video is helpfully rated easy, medium, difficult or supergeek. Check out CNET How To at https://www.cnet.com/how-to/"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVy-vHKZkh1vlLHWp955qww"
+      }
+    },
+    "statistics": {
+      "viewCount": "19151198",
+      "subscriberCount": "117000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "222"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "How To Do It All",
+        "description": "See all the steps for solving tech problems or just getting more out of What you're using. Whether it's a computer tip, tweaks and tricks for your DVR, or ways to get more out of your smartphone, you'll find it in CNET How to. Each video is helpfully rated easy, medium, difficult or supergeek. Check out CNET How To at https://www.cnet.com/how-to/",
+        "keywords": "CNET \"How To\" \"How to tech\" \"tech how to\" \"how to videos\" tech technology",
+        "moderateComments": true,
+        "unsubscribedTrailer": "vMT1QCkOAbM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/8ZlOHysAeaKt7faJ_UcPTy2SDnTt7KNtcop7JjBVrBqgJJ5RI67FgNCu23g2InIhUoXywHmArQ"
+      }
+    }
+  }
+}

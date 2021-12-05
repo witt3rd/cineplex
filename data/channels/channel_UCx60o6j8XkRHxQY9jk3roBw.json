@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCx60o6j8XkRHxQY9jk3roBw",
+  "retrieved_on": "2021-12-05 03:47:29.489859",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "g6J20PVkBU3xtWk2bQcCS3I2is0",
+    "id": "UCx60o6j8XkRHxQY9jk3roBw",
+    "snippet": {
+      "title": "Daniel B. Proth\u00e8se - Topic",
+      "description": "",
+      "publishedAt": "2017-02-06T11:05:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/WB-tFQ0FZYDuCcYzn-ZiuOyah8CwntChCD1a-ddNsA6bxzcJ9zbwxkCh_7_Ve37NDTdhzIZs=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/WB-tFQ0FZYDuCcYzn-ZiuOyah8CwntChCD1a-ddNsA6bxzcJ9zbwxkCh_7_Ve37NDTdhzIZs=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/WB-tFQ0FZYDuCcYzn-ZiuOyah8CwntChCD1a-ddNsA6bxzcJ9zbwxkCh_7_Ve37NDTdhzIZs=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Daniel B. Proth\u00e8se - Topic",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUx60o6j8XkRHxQY9jk3roBw"
+      }
+    },
+    "statistics": {
+      "viewCount": "3863",
+      "subscriberCount": "27",
+      "hiddenSubscriberCount": false,
+      "videoCount": "39"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Daniel B. Proth\u00e8se - Topic"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/WJK7QYK_jaRdoWPCa6WXGeSTsXAURRJutdHlBCqc8GZpsZSGtDKnbraKsAq9saoenGQltKygdw"
+      }
+    }
+  }
+}

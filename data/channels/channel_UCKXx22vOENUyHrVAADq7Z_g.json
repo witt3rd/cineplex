@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCKXx22vOENUyHrVAADq7Z_g",
+  "retrieved_on": "2021-12-05 03:47:40.531398",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "iIB5838ROuL71i73PWjUo43wznU",
+    "id": "UCKXx22vOENUyHrVAADq7Z_g",
+    "snippet": {
+      "title": "Geek's Lesson",
+      "description": "This channel is about the art of computer science, consisting of educational contents from experts all around the world. We provide contents related to computer science domain such as Mathematics, Machine Learning, IT security, System Administration, Deep learning, Data Science, Natural language processing and Statistics.  All contents of this channel solely dedicated for educational or research purpose in computer science.",
+      "customUrl": "geekslesson",
+      "publishedAt": "2018-06-07T07:57:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOiCd8Xcl333BaOEClAz55bIBOFfBB1oDznJM9Sg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOiCd8Xcl333BaOEClAz55bIBOFfBB1oDznJM9Sg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOiCd8Xcl333BaOEClAz55bIBOFfBB1oDznJM9Sg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Geek's Lesson",
+        "description": "This channel is about the art of computer science, consisting of educational contents from experts all around the world. We provide contents related to computer science domain such as Mathematics, Machine Learning, IT security, System Administration, Deep learning, Data Science, Natural language processing and Statistics.  All contents of this channel solely dedicated for educational or research purpose in computer science."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUKXx22vOENUyHrVAADq7Z_g"
+      }
+    },
+    "statistics": {
+      "viewCount": "16717100",
+      "subscriberCount": "498000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "66"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Geek's Lesson",
+        "description": "This channel is about the art of computer science, consisting of educational contents from experts all around the world. We provide contents related to computer science domain such as Mathematics, Machine Learning, IT security, System Administration, Deep learning, Data Science, Natural language processing and Statistics.  All contents of this channel solely dedicated for educational or research purpose in computer science.",
+        "keywords": "Computer science lesson learn expert knowledge",
+        "unsubscribedTrailer": "highTG0A1ts",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/GtBsLu2C1a3KJThfXXPxqJJZdyIF-I1VmiJEBXPwX311xqV0wGAtINPBGcLdtg2uKYqLcoLsfjw"
+      }
+    }
+  }
+}

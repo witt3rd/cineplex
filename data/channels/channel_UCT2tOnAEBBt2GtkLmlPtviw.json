@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCT2tOnAEBBt2GtkLmlPtviw",
+  "retrieved_on": "2021-12-05 03:47:40.531431",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fOkoMuYsbbu5iNRRYLMEaKET3vE",
+    "id": "UCT2tOnAEBBt2GtkLmlPtviw",
+    "snippet": {
+      "title": "ChapterVox",
+      "description": "Audiobooks on YouTube, uploading classic books, short stories & vintage poetry - many with captions to read along online.",
+      "customUrl": "chaptervox",
+      "publishedAt": "2014-01-23T20:27:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQZ1NRbaROe_uztU-n3gFvP3S7uj8s7mgMg0KY4wg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQZ1NRbaROe_uztU-n3gFvP3S7uj8s7mgMg0KY4wg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQZ1NRbaROe_uztU-n3gFvP3S7uj8s7mgMg0KY4wg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ChapterVox",
+        "description": "Audiobooks on YouTube, uploading classic books, short stories & vintage poetry - many with captions to read along online."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUT2tOnAEBBt2GtkLmlPtviw"
+      }
+    },
+    "statistics": {
+      "viewCount": "7621741",
+      "subscriberCount": "19800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "298"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ChapterVox",
+        "description": "Audiobooks on YouTube, uploading classic books, short stories & vintage poetry - many with captions to read along online.",
+        "keywords": "\"free audiobooks\" \"audiobooks on youtube\" fiction poetry \"english literature\" reading book books novel poems \"short stories\" \"classic books\" \"listen online\" \"most popular books\" \"classic fiction\" \"famous authors\" \"famous writers\" \"narrated books\" \"oscar wilde\" \"solomon northup\" \"12 years a slave\" \"dorian gray\" \"the catcher in the rye\" \"of mice and men\" \"william shakespeare\" \"the king in yellow\" \"james joyce\" stories library study \"learn english\" free \"learning resources\"",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/DRBqrTlgDw8P-9vTzEgDGWtNTAJXff3FwL4Q_mLtxIFtdnIG5rwgha5Nh9egXhd2r7N4eblfXA"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCHnj59g7jezwTy5GeL8EA_g",
+  "retrieved_on": "2021-12-05 03:47:35.288834",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "FLG303t6Wzq_TxeIEmB_PT_5hY8",
+    "id": "UCHnj59g7jezwTy5GeL8EA_g",
+    "snippet": {
+      "title": "MindYourDecisions",
+      "description": "Presh Talwalkar studied Mathematics and Economics at Stanford and posts brain teasers, riddles, logic puzzles, viral math problems, and topics from viewers around the world.\n\n2017 Shorty Awards Nominee in STEM (Science, Technology, Engineering, and Math) along with winner Bill Nye; nominees: Adam Savage, Dr. Sandra Lee, Simone Giertz, Tim Peake, Unbox Therapy, Elon Musk, Gizmoslip, Hope Jahren, Life Noggin, and Nerdwriter.\n\nPress\nhttp://mindyourdecisions.com/blog/press\n\nMy Books on Amazon\nhttps://www.amazon.com/Presh-Talwalkar/e/B008DKL6VG/\n\nSend me your suggestions: click on \"for business inquiries\" to see my email address.\n\n*I am not accepting sponsorships/partnerships at this time, but I am happy to discuss great opportunities.\n\nTwitter @preshtalwalkar\n\nFor links in my video descriptions: as an Amazon Associate I earn from qualifying purchases. This has no effect on the price for you.",
+      "publishedAt": "2012-01-08T06:09:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT_p7D8DpqINAWe7qAgmPDPy82zRpnjwaAPhae7=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT_p7D8DpqINAWe7qAgmPDPy82zRpnjwaAPhae7=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT_p7D8DpqINAWe7qAgmPDPy82zRpnjwaAPhae7=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MindYourDecisions",
+        "description": "Presh Talwalkar studied Mathematics and Economics at Stanford and posts brain teasers, riddles, logic puzzles, viral math problems, and topics from viewers around the world.\n\n2017 Shorty Awards Nominee in STEM (Science, Technology, Engineering, and Math) along with winner Bill Nye; nominees: Adam Savage, Dr. Sandra Lee, Simone Giertz, Tim Peake, Unbox Therapy, Elon Musk, Gizmoslip, Hope Jahren, Life Noggin, and Nerdwriter.\n\nPress\nhttp://mindyourdecisions.com/blog/press\n\nMy Books on Amazon\nhttps://www.amazon.com/Presh-Talwalkar/e/B008DKL6VG/\n\nSend me your suggestions: click on \"for business inquiries\" to see my email address.\n\n*I am not accepting sponsorships/partnerships at this time, but I am happy to discuss great opportunities.\n\nTwitter @preshtalwalkar\n\nFor links in my video descriptions: as an Amazon Associate I earn from qualifying purchases. This has no effect on the price for you."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHnj59g7jezwTy5GeL8EA_g"
+      }
+    },
+    "statistics": {
+      "viewCount": "363469163",
+      "subscriberCount": "2540000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "654"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MindYourDecisions",
+        "description": "Presh Talwalkar studied Mathematics and Economics at Stanford and posts brain teasers, riddles, logic puzzles, viral math problems, and topics from viewers around the world.\n\n2017 Shorty Awards Nominee in STEM (Science, Technology, Engineering, and Math) along with winner Bill Nye; nominees: Adam Savage, Dr. Sandra Lee, Simone Giertz, Tim Peake, Unbox Therapy, Elon Musk, Gizmoslip, Hope Jahren, Life Noggin, and Nerdwriter.\n\nPress\nhttp://mindyourdecisions.com/blog/press\n\nMy Books on Amazon\nhttps://www.amazon.com/Presh-Talwalkar/e/B008DKL6VG/\n\nSend me your suggestions: click on \"for business inquiries\" to see my email address.\n\n*I am not accepting sponsorships/partnerships at this time, but I am happy to discuss great opportunities.\n\nTwitter @preshtalwalkar\n\nFor links in my video descriptions: as an Amazon Associate I earn from qualifying purchases. This has no effect on the price for you.",
+        "keywords": "Mathematics Math Maths Riddles \"Brain Teasers\" Puzzles \"Math Tricks\" \"Mental Math\" \"Math Puzzle\" \"Presh Talwalkar\"",
+        "moderateComments": true
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/3GuK_UKtXFb5eTetYmm0xaqQIvQGYm1LKqNHdZkn59GVxjZ75kI-M6sgb8jXFGLUsAIKaveD6aQ"
+      }
+    }
+  }
+}

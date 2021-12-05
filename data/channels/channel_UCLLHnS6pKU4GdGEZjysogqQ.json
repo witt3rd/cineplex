@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCLLHnS6pKU4GdGEZjysogqQ",
+  "retrieved_on": "2021-12-05 03:47:37.514196",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-hXykAivTAO5Pq5T0DNj7nFokTw",
+    "id": "UCLLHnS6pKU4GdGEZjysogqQ",
+    "snippet": {
+      "title": "Boylei Hobby Time",
+      "description": "I\u2019m just trying to make fun things and inspire you to be creative.\n\nCreating an imaginary wild western world. Pioneer of the LED filament in model building.\n\nThe channel name comes from my favorite fish, Centropyge Boylei, also known as the Peppermint Angelfish. \n\nBoyleihobbies@gmail.com\n\nAs an Amazon Associate I earn from qualifying purchases linked in my videos.",
+      "customUrl": "boyleihobbytime",
+      "publishedAt": "2020-01-03T03:06:53.096898Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRNPaEdIirriox3UV496bczWoYdrcKa5v7PiYpGBA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRNPaEdIirriox3UV496bczWoYdrcKa5v7PiYpGBA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRNPaEdIirriox3UV496bczWoYdrcKa5v7PiYpGBA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Boylei Hobby Time",
+        "description": "I\u2019m just trying to make fun things and inspire you to be creative.\n\nCreating an imaginary wild western world. Pioneer of the LED filament in model building.\n\nThe channel name comes from my favorite fish, Centropyge Boylei, also known as the Peppermint Angelfish. \n\nBoyleihobbies@gmail.com\n\nAs an Amazon Associate I earn from qualifying purchases linked in my videos."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UULLHnS6pKU4GdGEZjysogqQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "13215685",
+      "subscriberCount": "193000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "83"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Boylei Hobby Time",
+        "description": "I\u2019m just trying to make fun things and inspire you to be creative.\n\nCreating an imaginary wild western world. Pioneer of the LED filament in model building.\n\nThe channel name comes from my favorite fish, Centropyge Boylei, also known as the Peppermint Angelfish. \n\nBoyleihobbies@gmail.com\n\nAs an Amazon Associate I earn from qualifying purchases linked in my videos.",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ZA06k1qhE6KiUv1h85TWq-WmRih2xaKZ6aTWoPgH4vrJmwYjmjQb5ut3xDQnTntXu0KEg3B8"
+      }
+    }
+  }
+}

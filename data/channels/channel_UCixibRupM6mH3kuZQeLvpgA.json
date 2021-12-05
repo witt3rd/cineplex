@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCixibRupM6mH3kuZQeLvpgA",
+  "retrieved_on": "2021-12-05 03:47:39.125959",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "tlrhrHrfNzhUmcLnwhhFluQu9Yo",
+    "id": "UCixibRupM6mH3kuZQeLvpgA",
+    "snippet": {
+      "title": "BM Sculptures",
+      "description": "Catch me on Season 3 of NBC's  \"Making It\" - now streaming on Hulu and Peacock TV\n\n My name is Blake McFarland and I am a retired professional baseball player (2011-2018 Toronto Blue Jays) turned full time artist and maker. I specialize in using recycled and mixed materials to create custom sculptures and interactions for clients. I am falling more in love with woodworking and metalworking and many of my videos show my love for this new form. \n\nIf you like my content please subscribe, it helps support me so I can keep making weekly videos. \n\nHave an idea and want to see it turn into reality? Shoot me an email through my website.\n\nCheck out my website at www.blakemcfarland.com\nInstagram & Facebook @Bmsculptures\n",
+      "customUrl": "bmsculptures",
+      "publishedAt": "2016-10-21T16:34:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTuVEFhbhkYb-VG3Mp0TOMxQIiahGBQ2hGUxRytYw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTuVEFhbhkYb-VG3Mp0TOMxQIiahGBQ2hGUxRytYw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTuVEFhbhkYb-VG3Mp0TOMxQIiahGBQ2hGUxRytYw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "BM Sculptures",
+        "description": "Catch me on Season 3 of NBC's  \"Making It\" - now streaming on Hulu and Peacock TV\n\n My name is Blake McFarland and I am a retired professional baseball player (2011-2018 Toronto Blue Jays) turned full time artist and maker. I specialize in using recycled and mixed materials to create custom sculptures and interactions for clients. I am falling more in love with woodworking and metalworking and many of my videos show my love for this new form. \n\nIf you like my content please subscribe, it helps support me so I can keep making weekly videos. \n\nHave an idea and want to see it turn into reality? Shoot me an email through my website.\n\nCheck out my website at www.blakemcfarland.com\nInstagram & Facebook @Bmsculptures\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUixibRupM6mH3kuZQeLvpgA"
+      }
+    },
+    "statistics": {
+      "viewCount": "6378221",
+      "subscriberCount": "92100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "60"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "BM Sculptures",
+        "description": "Catch me on Season 3 of NBC's  \"Making It\" - now streaming on Hulu and Peacock TV\n\n My name is Blake McFarland and I am a retired professional baseball player (2011-2018 Toronto Blue Jays) turned full time artist and maker. I specialize in using recycled and mixed materials to create custom sculptures and interactions for clients. I am falling more in love with woodworking and metalworking and many of my videos show my love for this new form. \n\nIf you like my content please subscribe, it helps support me so I can keep making weekly videos. \n\nHave an idea and want to see it turn into reality? Shoot me an email through my website.\n\nCheck out my website at www.blakemcfarland.com\nInstagram & Facebook @Bmsculptures\n",
+        "keywords": "sculpting carving diy \"how to\" \"bobby dukes\" art artwork \"tire art\" diresta \"sculpting clay\" clay working woodworking \"woodworking tools\" resin \"resin table\" welding \"tig welding\" \"metal working\" restoration axe \"axe restoration\" tools metalworking art rusty restoring \"sand blaster\" blake mcfarland \"making it\" woodwork woodworking tools \"tool restoration\" jazza \"bobby duke\" melting forging \"awesome restoration\" \"random hands\" \"bourbon moth\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/aj4FkY16OOnGh-bsDmYHTz4YzfSx9WuDPFL8zfomBAB0QWlz2vghGZaw0RmlN5BGUfsPwUUPIw"
+      }
+    }
+  }
+}

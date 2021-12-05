@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCrmzfpLoX_ogBgSShfaiQ4A",
+  "retrieved_on": "2021-12-05 03:47:30.682798",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "R86Gs6y5NMVPrfqypnEQkIItz0E",
+    "id": "UCrmzfpLoX_ogBgSShfaiQ4A",
+    "snippet": {
+      "title": "Twin Perfect",
+      "description": "Twin Perfect explains things. In some cases, we explain things you never thought could be explained. In others, we explain things you never knew needed an explanation! Our original mission was to rid the galaxy of low standards of entertainment. We've since discovered that the best way to do this is to arm our viewers with a unique perspective on entertainment media, culled from behind the scenes info and logical content analysis. We uncover hidden complexity in the blithely dismissed (Batman v Superman, Prometheus) and expose shallow value in the universally revered (Inception, Silent Hill).\n\nJoin us on our mission through the entertainment galaxy! Remember, it's okay to be wrong!",
+      "customUrl": "twinperfect",
+      "publishedAt": "2009-12-19T19:08:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS5pk4cu6Td0xopthHu7Z9HYpX0JMnwLX3EWyekiA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS5pk4cu6Td0xopthHu7Z9HYpX0JMnwLX3EWyekiA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS5pk4cu6Td0xopthHu7Z9HYpX0JMnwLX3EWyekiA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Twin Perfect",
+        "description": "Twin Perfect explains things. In some cases, we explain things you never thought could be explained. In others, we explain things you never knew needed an explanation! Our original mission was to rid the galaxy of low standards of entertainment. We've since discovered that the best way to do this is to arm our viewers with a unique perspective on entertainment media, culled from behind the scenes info and logical content analysis. We uncover hidden complexity in the blithely dismissed (Batman v Superman, Prometheus) and expose shallow value in the universally revered (Inception, Silent Hill).\n\nJoin us on our mission through the entertainment galaxy! Remember, it's okay to be wrong!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUrmzfpLoX_ogBgSShfaiQ4A"
+      }
+    },
+    "statistics": {
+      "viewCount": "21278677",
+      "subscriberCount": "111000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "75"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Twin Perfect",
+        "description": "Twin Perfect explains things. In some cases, we explain things you never thought could be explained. In others, we explain things you never knew needed an explanation! Our original mission was to rid the galaxy of low standards of entertainment. We've since discovered that the best way to do this is to arm our viewers with a unique perspective on entertainment media, culled from behind the scenes info and logical content analysis. We uncover hidden complexity in the blithely dismissed (Batman v Superman, Prometheus) and expose shallow value in the universally revered (Inception, Silent Hill).\n\nJoin us on our mission through the entertainment galaxy! Remember, it's okay to be wrong!",
+        "keywords": "Twin Perfect Rosseter Fungo DerFuzhwar Versiris Fuzh video games movies funny entertainment silent hill actually explained",
+        "unsubscribedTrailer": "7AYnF5hOhuM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/B5w3h4q3l44Sg0Pkf4-6l9pRmQ9_e7IF1DLvrbs3m9t2FNoEmvnlFVhYTNhHenfvjK5ACHjF"
+      }
+    }
+  }
+}

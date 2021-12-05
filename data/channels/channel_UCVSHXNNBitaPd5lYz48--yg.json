@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCVSHXNNBitaPd5lYz48--yg",
+  "retrieved_on": "2021-12-05 03:47:35.580894",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "g7NrIbl6e6L9UygPeYdx-MAiqnk",
+    "id": "UCVSHXNNBitaPd5lYz48--yg",
+    "snippet": {
+      "title": "Tech Ingredients",
+      "description": "",
+      "customUrl": "techingredients",
+      "publishedAt": "2013-06-01T05:30:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSt9hdTvo8aaZqMeYLFVKSz_24RySLg92vBoZD3=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSt9hdTvo8aaZqMeYLFVKSz_24RySLg92vBoZD3=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSt9hdTvo8aaZqMeYLFVKSz_24RySLg92vBoZD3=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tech Ingredients",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVSHXNNBitaPd5lYz48--yg"
+      }
+    },
+    "statistics": {
+      "viewCount": "33933035",
+      "subscriberCount": "660000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "125"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tech Ingredients",
+        "keywords": "Tech Lasers Drones",
+        "unsubscribedTrailer": "bRr8lrUc-GI",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/YPORoTQb40JqeyZpe_qtw6ySEvVmPIXfjGZweQk_luQoSAboOvrtCAfciYsGIzDBBSB6Cx6mgw"
+      }
+    }
+  }
+}

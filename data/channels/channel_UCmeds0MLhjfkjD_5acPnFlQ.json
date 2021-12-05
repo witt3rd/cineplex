@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCmeds0MLhjfkjD_5acPnFlQ",
+  "retrieved_on": "2021-12-05 03:47:35.580971",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "RUutbFgLAohU7y3Ot4qKCGO_MQc",
+    "id": "UCmeds0MLhjfkjD_5acPnFlQ",
+    "snippet": {
+      "title": "Giant Bomb",
+      "description": "Giant Bomb is here to give you what you need when it comes to the world of video games, new and old. Fire up a Quick Look, sit back, and enjoy, friends. We post videos nearly every day, so subscribe and stick around for awhile. Cool?",
+      "customUrl": "giantbomb",
+      "publishedAt": "2009-02-02T21:40:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSR872uVb9cj45mWUG7wb3Ok7SMSqjwxI5yvfpDbg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSR872uVb9cj45mWUG7wb3Ok7SMSqjwxI5yvfpDbg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSR872uVb9cj45mWUG7wb3Ok7SMSqjwxI5yvfpDbg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Giant Bomb",
+        "description": "Giant Bomb is here to give you what you need when it comes to the world of video games, new and old. Fire up a Quick Look, sit back, and enjoy, friends. We post videos nearly every day, so subscribe and stick around for awhile. Cool?"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmeds0MLhjfkjD_5acPnFlQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "181032252",
+      "subscriberCount": "261000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "7477"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Giant Bomb",
+        "description": "Giant Bomb is here to give you what you need when it comes to the world of video games, new and old. Fire up a Quick Look, sit back, and enjoy, friends. We post videos nearly every day, so subscribe and stick around for awhile. Cool?",
+        "keywords": "\"giant bomb\" \"video games\" \"jeff gerstmann\" \"quick look\" xbox playstation nintendo \"let's play\" gameplay \"giant bombcast\" \"game reviews\" gameplay bombcast ps5 \"xbox series x\" gaming",
+        "moderateComments": true,
+        "unsubscribedTrailer": "Rnf6i3Twdgk",
+        "country": "US"
+      }
+    }
+  }
+}

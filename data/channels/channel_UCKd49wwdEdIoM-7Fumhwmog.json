@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCKd49wwdEdIoM-7Fumhwmog",
+  "retrieved_on": "2021-12-05 03:47:40.782063",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "XpAFr5-EldRY5bHq9b_KcJwlfIc",
+    "id": "UCKd49wwdEdIoM-7Fumhwmog",
+    "snippet": {
+      "title": "Quint BUILDs",
+      "description": "My idea of fun is building difficult things and explaining them in a way that's easy to understand.  If you'd like to know how I learned to make stuff (and talk about it) check out this video on my 2nd channel: https://youtu.be/oqES86u8eTc     \n\nIf you like my stuff, subscribe and consider supporting the channel by becoming part of my \"Quint-essential\" support on Patreon:\n\nhttps://www.patreon.com/QuintBUILDs\n\nPatrons get early access to new videos and other perks.  I only do per-creation subscriptions and recommend setting a monthly limit in case I upload more than once in a month (which will be rare).  I also want to be able to take a month off without taking your money just because another month has passed!\n\nIf instead you prefer a one-time donation option, here's a PayPal address you can use: BUILD2LRN@GMAIL.COM\n\nThanks for watching... \n\n\u2013Quint",
+      "customUrl": "quintbuilds",
+      "publishedAt": "2018-12-27T01:01:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ8nPMoExVjsLg_jnUj7GgH_uA4K7X0QZAYPOEg-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ8nPMoExVjsLg_jnUj7GgH_uA4K7X0QZAYPOEg-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ8nPMoExVjsLg_jnUj7GgH_uA4K7X0QZAYPOEg-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Quint BUILDs",
+        "description": "My idea of fun is building difficult things and explaining them in a way that's easy to understand.  If you'd like to know how I learned to make stuff (and talk about it) check out this video on my 2nd channel: https://youtu.be/oqES86u8eTc     \n\nIf you like my stuff, subscribe and consider supporting the channel by becoming part of my \"Quint-essential\" support on Patreon:\n\nhttps://www.patreon.com/QuintBUILDs\n\nPatrons get early access to new videos and other perks.  I only do per-creation subscriptions and recommend setting a monthly limit in case I upload more than once in a month (which will be rare).  I also want to be able to take a month off without taking your money just because another month has passed!\n\nIf instead you prefer a one-time donation option, here's a PayPal address you can use: BUILD2LRN@GMAIL.COM\n\nThanks for watching... \n\n\u2013Quint"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUKd49wwdEdIoM-7Fumhwmog"
+      }
+    },
+    "statistics": {
+      "viewCount": "26593553",
+      "subscriberCount": "444000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "22"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Quint BUILDs",
+        "description": "My idea of fun is building difficult things and explaining them in a way that's easy to understand.  If you'd like to know how I learned to make stuff (and talk about it) check out this video on my 2nd channel: https://youtu.be/oqES86u8eTc     \n\nIf you like my stuff, subscribe and consider supporting the channel by becoming part of my \"Quint-essential\" support on Patreon:\n\nhttps://www.patreon.com/QuintBUILDs\n\nPatrons get early access to new videos and other perks.  I only do per-creation subscriptions and recommend setting a monthly limit in case I upload more than once in a month (which will be rare).  I also want to be able to take a month off without taking your money just because another month has passed!\n\nIf instead you prefer a one-time donation option, here's a PayPal address you can use: BUILD2LRN@GMAIL.COM\n\nThanks for watching... \n\n\u2013Quint",
+        "keywords": "build diy engineering science education arduino lathe CNC \"Quint Builds\" machining \"rain gutter\" \"wind power\" energy prototype fun new STEM technology math",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/_u5ZXjFEhopIKCKCmAjPrPHAc-cOzWfFbyQYIMHLeCVhsymw1xrlACftbiouLQmdsT53iosj"
+      }
+    }
+  }
+}

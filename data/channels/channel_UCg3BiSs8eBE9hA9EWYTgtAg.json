@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCg3BiSs8eBE9hA9EWYTgtAg",
+  "retrieved_on": "2021-12-05 03:47:36.581256",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "vtyij9zOgOXExJWKrdyvA3B3fW0",
+    "id": "UCg3BiSs8eBE9hA9EWYTgtAg",
+    "snippet": {
+      "title": "PartyElite",
+      "description": "Covering interesting games with any inkling of strategy, tactics, or role playing.\n\nGrab some channel merch here!\nhttps://partyelite.creator-spring.com/\n\nAnd Planet Zoo specific channel merch can be found separately, here (because there's so much of it!)\nhttps://elitezoo.creator-spring.com\n\nFor business inquiries: \ncontact@partyelite.gg\npartyelite@ricketypixel.com (old - will expire January 2022)\n\n\nMy rig:\nNVIDIA GeForce RTX 3090 \nIntel i9-7900x @ 3.3GHz\n32GB RAM (DDR4 3000)\nOS on Samsung SSD 850 EVO 500GB\nRODE NTG Shotgun Mic\nRazer Mamba Mouse\nRazer BlackWidow Chroma Keyboard\n4x WD My Book External Drives for Storage (no, not all for gaming)",
+      "customUrl": "partyelite",
+      "publishedAt": "2016-05-06T01:36:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqfsOplu_r3vnGQCIFp_z04gwW2xadQ-cGZrjA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqfsOplu_r3vnGQCIFp_z04gwW2xadQ-cGZrjA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqfsOplu_r3vnGQCIFp_z04gwW2xadQ-cGZrjA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PartyElite",
+        "description": "Covering interesting games with any inkling of strategy, tactics, or role playing.\n\nGrab some channel merch here!\nhttps://partyelite.creator-spring.com/\n\nAnd Planet Zoo specific channel merch can be found separately, here (because there's so much of it!)\nhttps://elitezoo.creator-spring.com\n\nFor business inquiries: \ncontact@partyelite.gg\npartyelite@ricketypixel.com (old - will expire January 2022)\n\n\nMy rig:\nNVIDIA GeForce RTX 3090 \nIntel i9-7900x @ 3.3GHz\n32GB RAM (DDR4 3000)\nOS on Samsung SSD 850 EVO 500GB\nRODE NTG Shotgun Mic\nRazer Mamba Mouse\nRazer BlackWidow Chroma Keyboard\n4x WD My Book External Drives for Storage (no, not all for gaming)"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUg3BiSs8eBE9hA9EWYTgtAg"
+      }
+    },
+    "statistics": {
+      "viewCount": "48416319",
+      "subscriberCount": "189000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2509"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PartyElite",
+        "description": "Covering interesting games with any inkling of strategy, tactics, or role playing.\n\nGrab some channel merch here!\nhttps://partyelite.creator-spring.com/\n\nAnd Planet Zoo specific channel merch can be found separately, here (because there's so much of it!)\nhttps://elitezoo.creator-spring.com\n\nFor business inquiries: \ncontact@partyelite.gg\npartyelite@ricketypixel.com (old - will expire January 2022)\n\n\nMy rig:\nNVIDIA GeForce RTX 3090 \nIntel i9-7900x @ 3.3GHz\n32GB RAM (DDR4 3000)\nOS on Samsung SSD 850 EVO 500GB\nRODE NTG Shotgun Mic\nRazer Mamba Mouse\nRazer BlackWidow Chroma Keyboard\n4x WD My Book External Drives for Storage (no, not all for gaming)",
+        "keywords": "gaming \"total war\" rts strategy",
+        "trackingAnalyticsAccountId": "UA-120613045-2",
+        "unsubscribedTrailer": "jeNyE-wS0IY"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/RRtfW19kfu6Okk2PK-5oayO0Q-1A9igzkGE20YPzJ8sKhdQ8x1KykhjYWRg_kHK3IWu8HUl7Vzk"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "channel_id": "UChqrDOwARrxdJF-ykAptc7w",
+  "retrieved_on": "2021-12-05 03:47:33.604585",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "hq8q6mXo84iYB90aiJWNBz31lFM",
+    "id": "UChqrDOwARrxdJF-ykAptc7w",
+    "snippet": {
+      "title": "Microsoft Visual Studio",
+      "description": "This is the official channel from Microsoft for events and videos related to Visual Studio, the amazing tools and services for you to create awesome software for yourself...or millions of people. To learn more, please visit https://www.visualstudio.com or follow us on Twitter @VisualStudio.\n\nMicrosoft YouTube Community Guidelines:\n\n1) Avoid explicit and inflammatory language \n2) Do not post repetitively nor spam our comment section \n3) Avoid posting personal information, such as: email, physical address, personal phone number, credit card information, or your site password. \n4) Please report posts that violate community guidelines using the spam button or YouTube\u2019s Reporting and Enforcement Center.",
+      "customUrl": "visualstudio",
+      "publishedAt": "2006-08-31T12:58:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQNyWKIntsji-dyTUlyU5ozyKbNUZiSWh2rB-rFZF4=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQNyWKIntsji-dyTUlyU5ozyKbNUZiSWh2rB-rFZF4=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQNyWKIntsji-dyTUlyU5ozyKbNUZiSWh2rB-rFZF4=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Microsoft Visual Studio",
+        "description": "This is the official channel from Microsoft for events and videos related to Visual Studio, the amazing tools and services for you to create awesome software for yourself...or millions of people. To learn more, please visit https://www.visualstudio.com or follow us on Twitter @VisualStudio.\n\nMicrosoft YouTube Community Guidelines:\n\n1) Avoid explicit and inflammatory language \n2) Do not post repetitively nor spam our comment section \n3) Avoid posting personal information, such as: email, physical address, personal phone number, credit card information, or your site password. \n4) Please report posts that violate community guidelines using the spam button or YouTube\u2019s Reporting and Enforcement Center."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhqrDOwARrxdJF-ykAptc7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "14654643",
+      "subscriberCount": "286000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "892"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Microsoft Visual Studio",
+        "description": "This is the official channel from Microsoft for events and videos related to Visual Studio, the amazing tools and services for you to create awesome software for yourself...or millions of people. To learn more, please visit https://www.visualstudio.com or follow us on Twitter @VisualStudio.\n\nMicrosoft YouTube Community Guidelines:\n\n1) Avoid explicit and inflammatory language \n2) Do not post repetitively nor spam our comment section \n3) Avoid posting personal information, such as: email, physical address, personal phone number, credit card information, or your site password. \n4) Please report posts that violate community guidelines using the spam button or YouTube\u2019s Reporting and Enforcement Center.",
+        "keywords": "\"Visual Studio\" \"Visual Studio Online\" \"software development\" \"dev tools\" \"visual studio\" IDE \"Visual Studio Team Services\" code coding debug dotnet c++",
+        "trackingAnalyticsAccountId": "UA-62780441-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "f8jXO946eDw",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/LK42VijKwiENd5dKS4cYv4wKCoUzCVP9W2PZ-GEv_FQBa0k64JaoZV9F142MfXvP9M6Xp2bq"
+      }
+    }
+  }
+}

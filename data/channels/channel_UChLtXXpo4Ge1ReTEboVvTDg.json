@@ -1,0 +1,64 @@
+{
+  "channel_id": "UChLtXXpo4Ge1ReTEboVvTDg",
+  "retrieved_on": "2021-12-05 03:47:40.531434",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "oGOc2odv4ILDcVTznARBtPVmNVI",
+    "id": "UChLtXXpo4Ge1ReTEboVvTDg",
+    "snippet": {
+      "title": "Global News",
+      "description": "Welcome to the official Global News channel on YouTube. Please subscribe and join us at our website: http://globalnews.ca.\n\nCommenting Policy:\nPlease keep your comments and posts clean, constructive and on topic. Unlawful, disrespectful, slanderous, defamatory, malicious, threatening, profane, obscene, tasteless or pornographic remarks will not be tolerated, and will be deleted without notice. Spam, graffiti, campaigning and advertising are also strictly prohibited. While we encourage free speech and debate, harassment and attacks on fellow YouTube users are unacceptable. Repeated abusers of this policy will be reported, and may be banned.\n\nSchedule of Original Content:\n\nDaily - Global National\nSunday - The West Block",
+      "customUrl": "globalnews",
+      "publishedAt": "2009-11-04T20:46:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSbSzdw08ZwPvnjrGyfcEMxwsReRl8F2UdwgfUehA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSbSzdw08ZwPvnjrGyfcEMxwsReRl8F2UdwgfUehA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSbSzdw08ZwPvnjrGyfcEMxwsReRl8F2UdwgfUehA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Global News",
+        "description": "Welcome to the official Global News channel on YouTube. Please subscribe and join us at our website: http://globalnews.ca.\n\nCommenting Policy:\nPlease keep your comments and posts clean, constructive and on topic. Unlawful, disrespectful, slanderous, defamatory, malicious, threatening, profane, obscene, tasteless or pornographic remarks will not be tolerated, and will be deleted without notice. Spam, graffiti, campaigning and advertising are also strictly prohibited. While we encourage free speech and debate, harassment and attacks on fellow YouTube users are unacceptable. Repeated abusers of this policy will be reported, and may be banned.\n\nSchedule of Original Content:\n\nDaily - Global National\nSunday - The West Block"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhLtXXpo4Ge1ReTEboVvTDg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1494990343",
+      "subscriberCount": "2840000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "26648"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Global News",
+        "description": "Welcome to the official Global News channel on YouTube. Please subscribe and join us at our website: http://globalnews.ca.\n\nCommenting Policy:\nPlease keep your comments and posts clean, constructive and on topic. Unlawful, disrespectful, slanderous, defamatory, malicious, threatening, profane, obscene, tasteless or pornographic remarks will not be tolerated, and will be deleted without notice. Spam, graffiti, campaigning and advertising are also strictly prohibited. While we encourage free speech and debate, harassment and attacks on fellow YouTube users are unacceptable. Repeated abusers of this policy will be reported, and may be banned.\n\nSchedule of Original Content:\n\nDaily - Global National\nSunday - The West Block",
+        "keywords": "\"Global News\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "hE1_bewlbQA",
+        "defaultLanguage": "en",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/giHaGcFOmlp1vZXMPyb6SUYMNP7Vuf4bMmhZ4CYx33FWahk5-3o-ydYsWpoRbKV8pFJ8k2Jj5w"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCRC6cNamj9tYAO6h_RXd5xA",
+  "retrieved_on": "2021-12-05 03:47:39.939504",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "uZTgaReOlLF5mtpHjEJ1gkIbAyY",
+    "id": "UCRC6cNamj9tYAO6h_RXd5xA",
+    "snippet": {
+      "title": "RTGame",
+      "description": "Hi I'm an Irish Guy that plays games. Enjoy my content, or else.\n\nAll of my videos are edited livestream highlights taken from my Twitch channel. My stream schedule is: \n~Tuesday & Thursday @ 7pm \n~Saturday & Sunday @ 3pm \nAll times based in Ireland. \n\nFor stream notifications, follow my Twitch channel, Twitter and Discord Server!\nIcon and art assets made by Akialyne. She's a smelly nerd: https://twitter.com/akialyne",
+      "customUrl": "rtgame",
+      "publishedAt": "2011-08-13T18:42:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lkuVbQ5BgmoWWQvZMS7wv_-ZZ-mIadKZDIEj5PdtAseERS6xPzmUSk9aFR66iTBs1r7gghLpzA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lkuVbQ5BgmoWWQvZMS7wv_-ZZ-mIadKZDIEj5PdtAseERS6xPzmUSk9aFR66iTBs1r7gghLpzA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lkuVbQ5BgmoWWQvZMS7wv_-ZZ-mIadKZDIEj5PdtAseERS6xPzmUSk9aFR66iTBs1r7gghLpzA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "RTGame",
+        "description": "Hi I'm an Irish Guy that plays games. Enjoy my content, or else.\n\nAll of my videos are edited livestream highlights taken from my Twitch channel. My stream schedule is: \n~Tuesday & Thursday @ 7pm \n~Saturday & Sunday @ 3pm \nAll times based in Ireland. \n\nFor stream notifications, follow my Twitch channel, Twitter and Discord Server!\nIcon and art assets made by Akialyne. She's a smelly nerd: https://twitter.com/akialyne"
+      },
+      "country": "IE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURC6cNamj9tYAO6h_RXd5xA"
+      }
+    },
+    "statistics": {
+      "viewCount": "919680924",
+      "subscriberCount": "2660000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "731"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "RTGame",
+        "description": "Hi I'm an Irish Guy that plays games. Enjoy my content, or else.\n\nAll of my videos are edited livestream highlights taken from my Twitch channel. My stream schedule is: \n~Tuesday & Thursday @ 7pm \n~Saturday & Sunday @ 3pm \nAll times based in Ireland. \n\nFor stream notifications, follow my Twitch channel, Twitter and Discord Server!\nIcon and art assets made by Akialyne. She's a smelly nerd: https://twitter.com/akialyne",
+        "keywords": "rtgame rtgamecrowd \"rt game\" rtgames \"rtgame twitch\"",
+        "unsubscribedTrailer": "E8en9C1xS2Q",
+        "defaultLanguage": "en-GB",
+        "country": "IE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/fEDt59r4-jh4ODapCg0TCoiajOfzGOXoZm2n6_2kQhV6ujt2t8PsoLZGTGtGxsPSoEIQ8SvSR40"
+      }
+    }
+  }
+}

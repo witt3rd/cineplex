@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCIUvL9I4Cgd1zSfwtgVNd-g",
+  "retrieved_on": "2021-12-05 03:47:35.580977",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "VyC-IqH2T0g4Q2B4upjpN1cPA1Q",
+    "id": "UCIUvL9I4Cgd1zSfwtgVNd-g",
+    "snippet": {
+      "title": "Emma Zoia puts pretty good music on Youtube",
+      "description": "Listen to the last mix i've made for NTS radio:\nhttps://soundcloud.com/emmataekozoia/puzzle-mix-for-space-afrika-on-nts-radio",
+      "customUrl": "emmazoiaputsprettygoodmusiconyoutube",
+      "publishedAt": "2016-09-29T10:59:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRG9_cUftvUFQbH_K8ZUnP4AjNBW_nY7Ly2AKnQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRG9_cUftvUFQbH_K8ZUnP4AjNBW_nY7Ly2AKnQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRG9_cUftvUFQbH_K8ZUnP4AjNBW_nY7Ly2AKnQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Emma Zoia puts pretty good music on Youtube",
+        "description": "Listen to the last mix i've made for NTS radio:\nhttps://soundcloud.com/emmataekozoia/puzzle-mix-for-space-afrika-on-nts-radio"
+      },
+      "country": "CH"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIUvL9I4Cgd1zSfwtgVNd-g"
+      }
+    },
+    "statistics": {
+      "viewCount": "3080562",
+      "subscriberCount": "22400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "74"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Emma Zoia puts pretty good music on Youtube",
+        "description": "Listen to the last mix i've made for NTS radio:\nhttps://soundcloud.com/emmataekozoia/puzzle-mix-for-space-afrika-on-nts-radio",
+        "country": "CH"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/smhbTwtBPMFlnqoTc8-wxnxC8pRI3WxhGKmBdlCNM3oByeHF6nlkNNCMncBwuOx97Y7OftvKow"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCzsd4-oyHhNbAXfceOQ5HTw",
+  "retrieved_on": "2021-12-05 03:47:30.436672",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "FCFYLLjsLKMnsNEcfTWq2KQfMw4",
+    "id": "UCzsd4-oyHhNbAXfceOQ5HTw",
+    "snippet": {
+      "title": "Venus Theory",
+      "description": "Home of Venus Theory and the DAWgs. I make music and sounds and teach you to do the same. Let's get learnin' and make some noise!\n\nFor inquiries, feel free to contact me at:\nhttps://venustheory.com/home#contact",
+      "customUrl": "venustheory",
+      "publishedAt": "2017-01-30T16:37:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTabzHd0n725ylYVqEYlDpJssICU3rqlnJ-a3K-aw=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTabzHd0n725ylYVqEYlDpJssICU3rqlnJ-a3K-aw=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTabzHd0n725ylYVqEYlDpJssICU3rqlnJ-a3K-aw=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Venus Theory",
+        "description": "Home of Venus Theory and the DAWgs. I make music and sounds and teach you to do the same. Let's get learnin' and make some noise!\n\nFor inquiries, feel free to contact me at:\nhttps://venustheory.com/home#contact"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzsd4-oyHhNbAXfceOQ5HTw"
+      }
+    },
+    "statistics": {
+      "viewCount": "5385648",
+      "subscriberCount": "81000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "280"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Venus Theory",
+        "description": "Home of Venus Theory and the DAWgs. I make music and sounds and teach you to do the same. Let's get learnin' and make some noise!\n\nFor inquiries, feel free to contact me at:\nhttps://venustheory.com/home#contact",
+        "keywords": "\"venus theory\" \"sound design\" bitwig \"fl studio\" ableton cubase \"pro tools\" \"logic pro x\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "7JcZ8kJTPg4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/WPH1OyePlPFP7SiZcs7jkCoYTzWykSgyh8yRoBuwAp5FNp82SfrCI4DuJO38Hf9Kl0SR__u1HQ"
+      }
+    }
+  }
+}

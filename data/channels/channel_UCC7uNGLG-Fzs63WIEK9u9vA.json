@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCC7uNGLG-Fzs63WIEK9u9vA",
+  "retrieved_on": "2021-12-05 03:47:37.514263",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JHKAaj8qQ3KhRscI4rexAWlauE8",
+    "id": "UCC7uNGLG-Fzs63WIEK9u9vA",
+    "snippet": {
+      "title": "DoctorDDub",
+      "description": "Let's Plays of all different varieties! I primarily play games that allow me to exercise my creativity or games with a fantastic story line. If you have any recommendations as to which games you'd like to see on the channel, don't hesitate to let me know!!!",
+      "customUrl": "doctorddub",
+      "publishedAt": "2016-03-10T19:07:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTPRANf66pmuYt7EvQMuWyj_ZmbCY4HL-GG4wK1ng=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTPRANf66pmuYt7EvQMuWyj_ZmbCY4HL-GG4wK1ng=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTPRANf66pmuYt7EvQMuWyj_ZmbCY4HL-GG4wK1ng=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DoctorDDub",
+        "description": "Let's Plays of all different varieties! I primarily play games that allow me to exercise my creativity or games with a fantastic story line. If you have any recommendations as to which games you'd like to see on the channel, don't hesitate to let me know!!!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUC7uNGLG-Fzs63WIEK9u9vA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1887181",
+      "subscriberCount": "18200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "840"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "DoctorDDub",
+        "description": "Let's Plays of all different varieties! I primarily play games that allow me to exercise my creativity or games with a fantastic story line. If you have any recommendations as to which games you'd like to see on the channel, don't hesitate to let me know!!!",
+        "keywords": "Gaming LP \"let's play\" \"game reviews\" \"game news\" \"video game news\" \"gaming videos\" \"video game tutorials\" \"stardew valley\" \"modded stardew valley\" \"how to mod stardew valley\" \"farming sims\" \"farming simulators\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7DPIahWKOz_9t3bsaKEmej_SAvWK_vzjOTw_FE-x6MrsgO3o3AmTpYmESN9oB6y180C0OSn_-Q"
+      }
+    }
+  }
+}

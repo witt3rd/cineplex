@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCspbgddCqN0QQkbldJ7TsGw",
+  "retrieved_on": "2021-12-05 03:47:35.580908",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "cBD8zuhHACDoKq5KYUSLbAgEgck",
+    "id": "UCspbgddCqN0QQkbldJ7TsGw",
+    "snippet": {
+      "title": "Mokhov - Topic",
+      "description": "Oleg Mokhov, known by his stage name Mokhov, is a Russian-born American electronic music producer based in Las Vegas. He creates his music in a mobile manner, programming and recording sounds with music software on a laptop in various locations.\nHis productions are influenced by electronic musicians such as Four Tet, Boards of Canada, and Aphex Twin. His productions were initially offered on three 3-track releases on netlabels, which are all free downloads: Glass Soul EP, Purity EP, and Midnight Love EP. In July 2011, he released his first full-length, Halcyon Days, which collected the nine previously-mentioned tracks and added a new track called \"Eternal Wings\". In October 2011, record label Made in Glitch released his first new material since his first full-length on the 4-track release Kickback EP. In May 2012, he released his second full-length in less than a year, Perfect Dream. In October 2012, Mad-Hop Records released his track \"U Know\" on the compilation album Mad-Hop Vol. 5. In April 2013, he released his third full-length, Magic Times, also in less than a year.\nIn June 2014, he released his fourth full-length, Future Hope.",
+      "publishedAt": "2013-12-23T19:21:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/M64bZiembtrOANuz7NIzwMnWAgtQfAaMjNCtFDVGeOG7cVKwTEmB_DvJUvVJr3fWUoT8M1z2CAs=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/M64bZiembtrOANuz7NIzwMnWAgtQfAaMjNCtFDVGeOG7cVKwTEmB_DvJUvVJr3fWUoT8M1z2CAs=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/M64bZiembtrOANuz7NIzwMnWAgtQfAaMjNCtFDVGeOG7cVKwTEmB_DvJUvVJr3fWUoT8M1z2CAs=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mokhov - Topic",
+        "description": "Oleg Mokhov, known by his stage name Mokhov, is a Russian-born American electronic music producer based in Las Vegas. He creates his music in a mobile manner, programming and recording sounds with music software on a laptop in various locations.\nHis productions are influenced by electronic musicians such as Four Tet, Boards of Canada, and Aphex Twin. His productions were initially offered on three 3-track releases on netlabels, which are all free downloads: Glass Soul EP, Purity EP, and Midnight Love EP. In July 2011, he released his first full-length, Halcyon Days, which collected the nine previously-mentioned tracks and added a new track called \"Eternal Wings\". In October 2011, record label Made in Glitch released his first new material since his first full-length on the 4-track release Kickback EP. In May 2012, he released his second full-length in less than a year, Perfect Dream. In October 2012, Mad-Hop Records released his track \"U Know\" on the compilation album Mad-Hop Vol. 5. In April 2013, he released his third full-length, Magic Times, also in less than a year.\nIn June 2014, he released his fourth full-length, Future Hope."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUspbgddCqN0QQkbldJ7TsGw"
+      }
+    },
+    "statistics": {
+      "viewCount": "530173",
+      "subscriberCount": "791",
+      "hiddenSubscriberCount": false,
+      "videoCount": "108"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mokhov - Topic",
+        "description": "Oleg Mokhov, known by his stage name Mokhov, is a Russian-born American electronic music producer based in Las Vegas. He creates his music in a mobile manner, programming and recording sounds with music software on a laptop in various locations.\nHis productions are influenced by electronic musicians such as Four Tet, Boards of Canada, and Aphex Twin. His productions were initially offered on three 3-track releases on netlabels, which are all free downloads: Glass Soul EP, Purity EP, and Midnight Love EP. In July 2011, he released his first full-length, Halcyon Days, which collected the nine previously-mentioned tracks and added a new track called \"Eternal Wings\". In October 2011, record label Made in Glitch released his first new material since his first full-length on the 4-track release Kickback EP. In May 2012, he released his second full-length in less than a year, Perfect Dream. In October 2012, Mad-Hop Records released his track \"U Know\" on the compilation album Mad-Hop Vol. 5. In April 2013, he released his third full-length, Magic Times, also in less than a year.\nIn June 2014, he released his fourth full-length, Future Hope."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/LW3e1Qnxz1-oALpgOyCHqc8LQS7MOIlFvBMNwtYyYbUyu65Up-N4-pl18GgBOUkKkNFu00AYkM0"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC7F-suscQATns3qRYHpyijw",
+  "retrieved_on": "2021-12-05 03:47:39.693629",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YVogA2zocSlBUVp7Bxdfew-BaCk",
+    "id": "UC7F-suscQATns3qRYHpyijw",
+    "snippet": {
+      "title": "Easy Composites Ltd",
+      "description": "Easy Composites Ltd is one of the World's premier suppliers of advanced composite materials and equipment. To believe in providing the best possible technical information and advice to help customers all over the world achieve better products and master cutting edge techniques. One way in which we do this is by creating comprehensive video tutorials on a range of composites processes and sharing them with everyone.\n\nWe hope you enjoy our videos; please watch, 'like' and comment to be a part of it.",
+      "publishedAt": "2010-12-07T12:47:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTH59mK5A8SZyKk_waTdZk5sDDcmBjckT26HSSV=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTH59mK5A8SZyKk_waTdZk5sDDcmBjckT26HSSV=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTH59mK5A8SZyKk_waTdZk5sDDcmBjckT26HSSV=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Easy Composites Ltd",
+        "description": "Easy Composites Ltd is one of the World's premier suppliers of advanced composite materials and equipment. To believe in providing the best possible technical information and advice to help customers all over the world achieve better products and master cutting edge techniques. One way in which we do this is by creating comprehensive video tutorials on a range of composites processes and sharing them with everyone.\n\nWe hope you enjoy our videos; please watch, 'like' and comment to be a part of it."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7F-suscQATns3qRYHpyijw"
+      }
+    },
+    "statistics": {
+      "viewCount": "25612493",
+      "subscriberCount": "284000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "37"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Easy Composites Ltd",
+        "description": "Easy Composites Ltd is one of the World's premier suppliers of advanced composite materials and equipment. To believe in providing the best possible technical information and advice to help customers all over the world achieve better products and master cutting edge techniques. One way in which we do this is by creating comprehensive video tutorials on a range of composites processes and sharing them with everyone.\n\nWe hope you enjoy our videos; please watch, 'like' and comment to be a part of it.",
+        "keywords": "carbon fibre composites techniques how-to learn guide tutorial",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7WE-DdsqlkRIpGqU1ymL_Kr4A1tL06gTBz5HkWnh3KAjshGVFC2BZpy4cfWoC2eoj9Pv2UuxJg"
+      }
+    }
+  }
+}

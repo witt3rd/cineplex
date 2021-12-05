@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC88A5W9XyWx7WSwthd5ykhw",
+  "retrieved_on": "2021-12-05 03:47:32.314672",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ffWPBNm2uXEwA18n4fgGE9Lg6x4",
+    "id": "UC88A5W9XyWx7WSwthd5ykhw",
+    "snippet": {
+      "title": "J. Krishnamurti - Official Channel",
+      "description": "This channel is managed by the Krishnamurti Foundation Trust\u200b\u200b, UK\u200b, and by the Krishnamurti Foundation of America.\n\nThe role of the foundations was described by Krishnamurti when he said,\u200b \u200b'The foundations will see to it that these teachings are kept whole, are not distorted, are not made corrupt. They will not give rise to any sectarian spirit in their activities... nor create any kind of place of worship around the teachings or the person.\u200b'\u200b\n\nWe maintain extensive archives of Krishnamurti's original works and all four Krishnamurti foundations are actively engaged in the publication of material in various forms. Please see the links to find out more about our many activities.\n\nOur videos contain thousands of subtitles in more than 30 languages, translated by volunteers from all over the world. If you would like to help us with translating subtitles, please contact us at digital@kfoundation.org\n\nThis organization is a registered charity. Registered charity number: 312865",
+      "customUrl": "kfoundation",
+      "publishedAt": "2006-11-16T10:44:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR9NXfMunGcCwsR2Vb5D4uodv-LK4JuMLhR_mUWTA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR9NXfMunGcCwsR2Vb5D4uodv-LK4JuMLhR_mUWTA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR9NXfMunGcCwsR2Vb5D4uodv-LK4JuMLhR_mUWTA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "J. Krishnamurti - Official Channel",
+        "description": "This channel is managed by the Krishnamurti Foundation Trust\u200b\u200b, UK\u200b, and by the Krishnamurti Foundation of America.\n\nThe role of the foundations was described by Krishnamurti when he said,\u200b \u200b'The foundations will see to it that these teachings are kept whole, are not distorted, are not made corrupt. They will not give rise to any sectarian spirit in their activities... nor create any kind of place of worship around the teachings or the person.\u200b'\u200b\n\nWe maintain extensive archives of Krishnamurti's original works and all four Krishnamurti foundations are actively engaged in the publication of material in various forms. Please see the links to find out more about our many activities.\n\nOur videos contain thousands of subtitles in more than 30 languages, translated by volunteers from all over the world. If you would like to help us with translating subtitles, please contact us at digital@kfoundation.org\n\nThis organization is a registered charity. Registered charity number: 312865"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU88A5W9XyWx7WSwthd5ykhw"
+      }
+    },
+    "statistics": {
+      "viewCount": "50215213",
+      "subscriberCount": "483000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1727"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "J. Krishnamurti - Official Channel",
+        "description": "This channel is managed by the Krishnamurti Foundation Trust\u200b\u200b, UK\u200b, and by the Krishnamurti Foundation of America.\n\nThe role of the foundations was described by Krishnamurti when he said,\u200b \u200b'The foundations will see to it that these teachings are kept whole, are not distorted, are not made corrupt. They will not give rise to any sectarian spirit in their activities... nor create any kind of place of worship around the teachings or the person.\u200b'\u200b\n\nWe maintain extensive archives of Krishnamurti's original works and all four Krishnamurti foundations are actively engaged in the publication of material in various forms. Please see the links to find out more about our many activities.\n\nOur videos contain thousands of subtitles in more than 30 languages, translated by volunteers from all over the world. If you would like to help us with translating subtitles, please contact us at digital@kfoundation.org\n\nThis organization is a registered charity. Registered charity number: 312865",
+        "keywords": "Krishnamurti \"Jiddu Krishnamurti\" \"J Krishnamurti\" education philosophy religion life intelligence humanity \"brockwood park\" \"brockwood park school\" \"krishnamurti foundation\" \"krishnamurti foundation trust\" \"video of krishnamurti\" \"official J. Krishnamurti channel\" \"official Krishnamurti videos\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "sMAjj1omBDo",
+        "defaultLanguage": "en-GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/g1nJqWDu_Oh7HbGtxfmmPCyQGpvFkWsojdHZpeO8elyaxSfbA6bdvIaRB3SMnD8CDEBcVVx59A"
+      }
+    }
+  }
+}

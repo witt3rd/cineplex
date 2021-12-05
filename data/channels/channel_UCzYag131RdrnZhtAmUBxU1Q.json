@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCzYag131RdrnZhtAmUBxU1Q",
+  "retrieved_on": "2021-12-05 03:47:31.570458",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "drZ5j_E-llbMEfIArY76xt5jxJw",
+    "id": "UCzYag131RdrnZhtAmUBxU1Q",
+    "snippet": {
+      "title": "Pegasus",
+      "description": "i talk",
+      "publishedAt": "2018-09-15T13:09:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/59Vlwy7KreDviHbpsmwtMCLxzhkbKkmHQLWHKdD1_3LBrNZqaNPzntroC5tZyF4SHrmbHBMW=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/59Vlwy7KreDviHbpsmwtMCLxzhkbKkmHQLWHKdD1_3LBrNZqaNPzntroC5tZyF4SHrmbHBMW=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/59Vlwy7KreDviHbpsmwtMCLxzhkbKkmHQLWHKdD1_3LBrNZqaNPzntroC5tZyF4SHrmbHBMW=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Pegasus",
+        "description": "i talk"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzYag131RdrnZhtAmUBxU1Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "171821911",
+      "subscriberCount": "754000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "731"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Pegasus",
+        "description": "i talk",
+        "keywords": "react",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/mlPgTWY1psrtoUS8W9nIaxbpbdr1ge7xhFKBAtc49we4byRk2Zcs7gkd30OQnsJ8U-7OxFF5T-A"
+      }
+    }
+  }
+}

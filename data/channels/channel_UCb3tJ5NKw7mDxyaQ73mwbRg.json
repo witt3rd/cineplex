@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCb3tJ5NKw7mDxyaQ73mwbRg",
+  "retrieved_on": "2021-12-05 03:47:31.215566",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "knAs_Yb6oKp09-NN5xFj6qT6oMM",
+    "id": "UCb3tJ5NKw7mDxyaQ73mwbRg",
+    "snippet": {
+      "title": "Kontor.TV",
+      "description": "Welcome to the official dance channel of Kontor Records. Discover the best 'Electronic Dance Music\u2018 videos in best quality!\nSubscribe and be a part of our massive community! \ud83d\ude4c",
+      "customUrl": "kontorrecords",
+      "publishedAt": "2006-03-14T13:56:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/etPaiBQv86Q-kzRkG73Q7HsczhC7ZG4mZrZ-yLh82vv9KTyJTfpSNKIkS7iV7YpJLkcp9l4u=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/etPaiBQv86Q-kzRkG73Q7HsczhC7ZG4mZrZ-yLh82vv9KTyJTfpSNKIkS7iV7YpJLkcp9l4u=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/etPaiBQv86Q-kzRkG73Q7HsczhC7ZG4mZrZ-yLh82vv9KTyJTfpSNKIkS7iV7YpJLkcp9l4u=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Kontor.TV",
+        "description": "Welcome to the official dance channel of Kontor Records. Discover the best 'Electronic Dance Music\u2018 videos in best quality!\nSubscribe and be a part of our massive community! \ud83d\ude4c"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUb3tJ5NKw7mDxyaQ73mwbRg"
+      }
+    },
+    "statistics": {
+      "viewCount": "6120143663",
+      "subscriberCount": "5890000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2186"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Kontor.TV",
+        "description": "Welcome to the official dance channel of Kontor Records. Discover the best 'Electronic Dance Music\u2018 videos in best quality!\nSubscribe and be a part of our massive community! \ud83d\ude4c",
+        "keywords": "Kontor Records Music KontorTV Kontor.TV EDM Channel Kanal Offiziel Official Label Dance Electro Electronic House Techno Hardwell Michael Mind Mike Candys Scooter Atb Rio Fedde Le Grand Martin Solveig DJ Antoine Armin van Buuren Avicii Tim Berg Atzen Welcome to St Tropez Novy Eric Chase Jerome Minimix Sunset Chill Top Of The Clubs Kon",
+        "trackingAnalyticsAccountId": "UA-12021900-2",
+        "unsubscribedTrailer": "OMtwO-xa3qM",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/HJRRgXKrReken-gWa0KF9t0ECrpS5WI5nSmbgKkqGSyr0xkIG-C_--M7vO7dR-c8D2_iLPzn2w"
+      }
+    }
+  }
+}

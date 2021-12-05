@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCKasm27doC-TBp_P59CwkXA",
+  "retrieved_on": "2021-12-05 03:47:39.473102",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ysuS8CE3azrTzWZ0Qu7gDCmLw54",
+    "id": "UCKasm27doC-TBp_P59CwkXA",
+    "snippet": {
+      "title": "Gregor Soundhome",
+      "description": "Gregors Soundhome is a channel that specializes in an oldschool deep house, minimal dNb and techno sound. All mixes are created in my music room on a classic deck by myself.\nI hope you enjoy it, and I'm happy to share the muzik I love with you by puttin' it into a mix.\nI also create a hardware setup for making own tracks or jam sessions. \n\n\nTHANKS FOR LISTENING ! :-)\nLOVE \ud83d\udc9a\n\nGregor\u270c\ufe0f\n\n\n\nTwitch:\n\nhttps://www.twitch.tv/gregor_soundhome\n\n\nDonations:\n\nhttps://www.paypal.com/donate/?token=FAv2mwGjY47CzarBBbHFgow4ZScONqM5899PVBMMNnOwJD_9DKpwScFEeyj_vT7i4PwS5W&country.x=DE&locale.x=DE\n\nMixcloud:\n\nhttps://www.mixcloud.com/randomtht/\n\n\n",
+      "customUrl": "gregorssoundhome",
+      "publishedAt": "2013-06-21T23:46:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSy6btNmkKrJe2fdi2_YkFEUuI-6wR-bBTlTV8JIQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSy6btNmkKrJe2fdi2_YkFEUuI-6wR-bBTlTV8JIQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSy6btNmkKrJe2fdi2_YkFEUuI-6wR-bBTlTV8JIQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Gregor Soundhome",
+        "description": "Gregors Soundhome is a channel that specializes in an oldschool deep house, minimal dNb and techno sound. All mixes are created in my music room on a classic deck by myself.\nI hope you enjoy it, and I'm happy to share the muzik I love with you by puttin' it into a mix.\nI also create a hardware setup for making own tracks or jam sessions. \n\n\nTHANKS FOR LISTENING ! :-)\nLOVE \ud83d\udc9a\n\nGregor\u270c\ufe0f\n\n\n\nTwitch:\n\nhttps://www.twitch.tv/gregor_soundhome\n\n\nDonations:\n\nhttps://www.paypal.com/donate/?token=FAv2mwGjY47CzarBBbHFgow4ZScONqM5899PVBMMNnOwJD_9DKpwScFEeyj_vT7i4PwS5W&country.x=DE&locale.x=DE\n\nMixcloud:\n\nhttps://www.mixcloud.com/randomtht/\n\n\n"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUKasm27doC-TBp_P59CwkXA"
+      }
+    },
+    "statistics": {
+      "viewCount": "4483936",
+      "subscriberCount": "19900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "51"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Gregor Soundhome",
+        "description": "Gregors Soundhome is a channel that specializes in an oldschool deep house, minimal dNb and techno sound. All mixes are created in my music room on a classic deck by myself.\nI hope you enjoy it, and I'm happy to share the muzik I love with you by puttin' it into a mix.\nI also create a hardware setup for making own tracks or jam sessions. \n\n\nTHANKS FOR LISTENING ! :-)\nLOVE \ud83d\udc9a\n\nGregor\u270c\ufe0f\n\n\n\nTwitch:\n\nhttps://www.twitch.tv/gregor_soundhome\n\n\nDonations:\n\nhttps://www.paypal.com/donate/?token=FAv2mwGjY47CzarBBbHFgow4ZScONqM5899PVBMMNnOwJD_9DKpwScFEeyj_vT7i4PwS5W&country.x=DE&locale.x=DE\n\nMixcloud:\n\nhttps://www.mixcloud.com/randomtht/\n\n\n",
+        "unsubscribedTrailer": "GYsQ3PAdBb4",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/AoGjFeXhuKZqoVSg_RMfq5IpWE2mE7pppOSjabYMs5cvVz6YkMMjWjJcO82xwOOsEvaOxK0ZcAU"
+      }
+    }
+  }
+}

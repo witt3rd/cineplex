@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCRzLw6L1ucjgB2BuJDtZ0bg",
+  "retrieved_on": "2021-12-05 03:47:35.856684",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lHohENhvDkdS0evOqzwYr-m58Bw",
+    "id": "UCRzLw6L1ucjgB2BuJDtZ0bg",
+    "snippet": {
+      "title": "Steep",
+      "description": "Hello everyone, welcome to my channel! My name is Steep, I am a Content Creator who loves playing all types of video games and interacting with you while I do it! Come stop by my live streams where tons of people just like you can hang out and have fun! Lets do this!\n\nSteep learning curves, chaotic results.\n\nIf this is up your alley, join the community and come participate with us! \n___________\nPC Specs:\nCPU: i7-8700K 3.70GHz\nGPU: NVIDIA GeForce GTX 1070 Ti\nRAM: 32GB\nWebcam: Logitech C615\nMouse: Razer Naga\nJoystick: Saitek X52 PRO\n___________\nFeel free to join me on my Live Streams: https://www.twitch.tv/steepfrugut",
+      "publishedAt": "2008-04-27T23:36:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR0-GTrwF5o967pD7E8Ekujpjfeu6-TPAHAjHrc6w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR0-GTrwF5o967pD7E8Ekujpjfeu6-TPAHAjHrc6w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR0-GTrwF5o967pD7E8Ekujpjfeu6-TPAHAjHrc6w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Steep",
+        "description": "Hello everyone, welcome to my channel! My name is Steep, I am a Content Creator who loves playing all types of video games and interacting with you while I do it! Come stop by my live streams where tons of people just like you can hang out and have fun! Lets do this!\n\nSteep learning curves, chaotic results.\n\nIf this is up your alley, join the community and come participate with us! \n___________\nPC Specs:\nCPU: i7-8700K 3.70GHz\nGPU: NVIDIA GeForce GTX 1070 Ti\nRAM: 32GB\nWebcam: Logitech C615\nMouse: Razer Naga\nJoystick: Saitek X52 PRO\n___________\nFeel free to join me on my Live Streams: https://www.twitch.tv/steepfrugut"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURzLw6L1ucjgB2BuJDtZ0bg"
+      }
+    },
+    "statistics": {
+      "viewCount": "3853681",
+      "subscriberCount": "16300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "604"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Steep",
+        "description": "Hello everyone, welcome to my channel! My name is Steep, I am a Content Creator who loves playing all types of video games and interacting with you while I do it! Come stop by my live streams where tons of people just like you can hang out and have fun! Lets do this!\n\nSteep learning curves, chaotic results.\n\nIf this is up your alley, join the community and come participate with us! \n___________\nPC Specs:\nCPU: i7-8700K 3.70GHz\nGPU: NVIDIA GeForce GTX 1070 Ti\nRAM: 32GB\nWebcam: Logitech C615\nMouse: Razer Naga\nJoystick: Saitek X52 PRO\n___________\nFeel free to join me on my Live Streams: https://www.twitch.tv/steepfrugut",
+        "keywords": "SteepFrugut Walkthru MMO \"Lets Play\" Game Gaming Help MMORPG",
+        "unsubscribedTrailer": "4hWLvd80CIU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/1Pv5HRgeGNu9lo909CljZ4j53FUhmrL0z-ULwfk5WY4aG9-QrjJpLWL-AuvH0QHJ3tnimHZgGw"
+      }
+    }
+  }
+}

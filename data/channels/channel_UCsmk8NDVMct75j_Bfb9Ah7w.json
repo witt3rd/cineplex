@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCsmk8NDVMct75j_Bfb9Ah7w",
+  "retrieved_on": "2021-12-05 03:47:36.348908",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jpmqxMUZb-h_1XWyh2NwgVLgF4w",
+    "id": "UCsmk8NDVMct75j_Bfb9Ah7w",
+    "snippet": {
+      "title": "Virtual Reality Oasis",
+      "description": "Hi, I'm Mike! \n\nI have a passion for virtual reality and all things tech. I love sharing my enthusiasm about virtual reality through my videos. I started my YouTube journey back in December 2016 when I uploaded my first ever video! I haven't looked back since and have continued to grow and improve on the platform.\n\nI host a weekly virtual reality Podcast called 'FReality Podcast' along with my fellow virtual reality content creators, Nathie, RowdyGuy and Zimtok5. Each week we discuss fresh news from the VR industry. The FReality Podcast has its own channel on YouTube.\n\nSubscribe to the channel and join me on my journey to see what the future will bring in this exciting and growing industry.\n\nFor behind the scenes information and more about me, follow me on social media and join my growing virtual reality Discord server.\n\nIf you're a developer and would like your game or experience featured on the channel, please contact me via my business email.",
+      "customUrl": "virtualrealityoasis",
+      "publishedAt": "2015-03-28T20:06:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRilFMYotBXG7yubOU_LfNufbPrBa6A5hl1fv8o4A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRilFMYotBXG7yubOU_LfNufbPrBa6A5hl1fv8o4A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRilFMYotBXG7yubOU_LfNufbPrBa6A5hl1fv8o4A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Virtual Reality Oasis",
+        "description": "Hi, I'm Mike! \n\nI have a passion for virtual reality and all things tech. I love sharing my enthusiasm about virtual reality through my videos. I started my YouTube journey back in December 2016 when I uploaded my first ever video! I haven't looked back since and have continued to grow and improve on the platform.\n\nI host a weekly virtual reality Podcast called 'FReality Podcast' along with my fellow virtual reality content creators, Nathie, RowdyGuy and Zimtok5. Each week we discuss fresh news from the VR industry. The FReality Podcast has its own channel on YouTube.\n\nSubscribe to the channel and join me on my journey to see what the future will bring in this exciting and growing industry.\n\nFor behind the scenes information and more about me, follow me on social media and join my growing virtual reality Discord server.\n\nIf you're a developer and would like your game or experience featured on the channel, please contact me via my business email."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUsmk8NDVMct75j_Bfb9Ah7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "81125657",
+      "subscriberCount": "519000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "556"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Virtual Reality Oasis",
+        "description": "Hi, I'm Mike! \n\nI have a passion for virtual reality and all things tech. I love sharing my enthusiasm about virtual reality through my videos. I started my YouTube journey back in December 2016 when I uploaded my first ever video! I haven't looked back since and have continued to grow and improve on the platform.\n\nI host a weekly virtual reality Podcast called 'FReality Podcast' along with my fellow virtual reality content creators, Nathie, RowdyGuy and Zimtok5. Each week we discuss fresh news from the VR industry. The FReality Podcast has its own channel on YouTube.\n\nSubscribe to the channel and join me on my journey to see what the future will bring in this exciting and growing industry.\n\nFor behind the scenes information and more about me, follow me on social media and join my growing virtual reality Discord server.\n\nIf you're a developer and would like your game or experience featured on the channel, please contact me via my business email.",
+        "keywords": "\"Virtual Reality\" VR \"Oculus Rift\" \"HTC Vive\" \"VR Gameplay\" \"VR Reviews\" \"Mixed Reality\" \"VR Gaming\" PSVR \"VR News\" \"VR How To Guide\" \"VR Oasis\" \"Oculus Quest\" \"Oculus Rift S\" \"Valve Index\"",
+        "moderateComments": true,
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/kaOAbsNq6zWklV4TAXHYSxZzXeicwToCUlXH5fGe_amMleqRhAF1ncVAtwBDwzkYqaYglG_U"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+  "retrieved_on": "2021-12-05 03:47:28.057503",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "vxDKEpHebC3DEQ-TesYUVLqSt2Y",
+    "id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "snippet": {
+      "title": "Two Minute Papers",
+      "description": "What a time to be alive!",
+      "customUrl": "karolyzsolnai",
+      "publishedAt": "2006-08-18T00:05:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTLu4CCb_xW8uvAFrEaI4FLQhlIgJE2Gx540mhIWA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTLu4CCb_xW8uvAFrEaI4FLQhlIgJE2Gx540mhIWA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTLu4CCb_xW8uvAFrEaI4FLQhlIgJE2Gx540mhIWA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Two Minute Papers",
+        "description": "What a time to be alive!"
+      },
+      "country": "HU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUbfYPyITQ-7l4upoX8nvctg"
+      }
+    },
+    "statistics": {
+      "viewCount": "82329307",
+      "subscriberCount": "1110000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "638"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Two Minute Papers",
+        "description": "What a time to be alive!",
+        "keywords": "\"two minute papers\" ai \"machine learning\" software gaming",
+        "unsubscribedTrailer": "Lu56xVlZ40M",
+        "country": "HU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/wodT6NfaH6dVCSPuRD30RTsn5R5xDpocC7A1F11g93VOD_VmklgE6VJAZp8-TE0FquZeW0sNZw"
+      }
+    }
+  }
+}

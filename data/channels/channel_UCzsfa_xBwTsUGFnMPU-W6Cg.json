@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCzsfa_xBwTsUGFnMPU-W6Cg",
+  "retrieved_on": "2021-12-05 03:47:28.920514",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5nhzvuBNJmE0uyhykfx5cYEMVbA",
+    "id": "UCzsfa_xBwTsUGFnMPU-W6Cg",
+    "snippet": {
+      "title": "MysteryOre",
+      "description": "I make Minecraft videos.",
+      "customUrl": "mysteryore",
+      "publishedAt": "2020-08-17T07:01:35.243964Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/xsegvwIOuXDWNikRqVCt0BKFBVK1GU66xRM7cxciIQqKT1CBcnJhL7GPQMLitmLb0T28idH_fA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/xsegvwIOuXDWNikRqVCt0BKFBVK1GU66xRM7cxciIQqKT1CBcnJhL7GPQMLitmLb0T28idH_fA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/xsegvwIOuXDWNikRqVCt0BKFBVK1GU66xRM7cxciIQqKT1CBcnJhL7GPQMLitmLb0T28idH_fA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MysteryOre",
+        "description": "I make Minecraft videos."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzsfa_xBwTsUGFnMPU-W6Cg"
+      }
+    },
+    "statistics": {
+      "viewCount": "64577261",
+      "subscriberCount": "624000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "5"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MysteryOre",
+        "description": "I make Minecraft videos.",
+        "keywords": "mysteryore \"mysteryore minecraft\" \"mysteryore minecraft channel\" \"mysteryore youtube\" \"mysteryore ign minecraft\" \"mysteryore ign\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/pA84OQNxsce4Aw8aTHXlZQfvMcIvlMGaR8khr1yhPQtihwr5VOGNCCaFqSDNPdjUQNcnDS8D"
+      }
+    }
+  }
+}

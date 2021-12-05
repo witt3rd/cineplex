@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCWYRT-NhEqkZ_afrqEgxYOQ",
+  "retrieved_on": "2021-12-05 03:47:35.055142",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Qw-gdYTbMHKYdTWHyqdhBg2ldxk",
+    "id": "UCWYRT-NhEqkZ_afrqEgxYOQ",
+    "snippet": {
+      "title": "JimmyTheGiant",
+      "description": "Storyteller, musician and sub culture enthusiast \n\nEmail: jimmythegiant@delkatalents.com (business enquiries only)\n",
+      "customUrl": "jimmythegiant",
+      "publishedAt": "2014-12-14T12:02:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmoplP0Rj2-sfJqRVmhleU5FWmocy9fvoNpI74Xg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmoplP0Rj2-sfJqRVmhleU5FWmocy9fvoNpI74Xg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmoplP0Rj2-sfJqRVmhleU5FWmocy9fvoNpI74Xg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "JimmyTheGiant",
+        "description": "Storyteller, musician and sub culture enthusiast \n\nEmail: jimmythegiant@delkatalents.com (business enquiries only)\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUWYRT-NhEqkZ_afrqEgxYOQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "21898971",
+      "subscriberCount": "155000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "118"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "JimmyTheGiant",
+        "description": "Storyteller, musician and sub culture enthusiast \n\nEmail: jimmythegiant@delkatalents.com (business enquiries only)\n",
+        "keywords": "Parkour freerunning urban uk hiphop rap streetwear fashion clothing",
+        "unsubscribedTrailer": "a8B07vN3bY4",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/hoygDW-Dl2w2diEqZq2MjVzKSlgNhausgs-Y_pnOIxc9K_HWp_LBQbPtShbTauQWQiavfwurqg"
+      }
+    }
+  }
+}

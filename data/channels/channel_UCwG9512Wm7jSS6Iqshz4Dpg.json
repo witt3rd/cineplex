@@ -1,0 +1,54 @@
+{
+  "channel_id": "UCwG9512Wm7jSS6Iqshz4Dpg",
+  "retrieved_on": "2021-12-05 03:47:34.793872",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "beZy8EX1B4IzB-P6hKf9Gw4QGzA",
+    "id": "UCwG9512Wm7jSS6Iqshz4Dpg",
+    "snippet": {
+      "title": "ACM SIGPLAN",
+      "description": "",
+      "publishedAt": "2018-11-18T19:10:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSeDQ41g1LtInxle1pH1DX3ysi3Uuf-P0KoWA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSeDQ41g1LtInxle1pH1DX3ysi3Uuf-P0KoWA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSeDQ41g1LtInxle1pH1DX3ysi3Uuf-P0KoWA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ACM SIGPLAN",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwG9512Wm7jSS6Iqshz4Dpg"
+      }
+    },
+    "statistics": {
+      "viewCount": "492225",
+      "subscriberCount": "4540",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1647"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ACM SIGPLAN",
+        "country": "US"
+      }
+    }
+  }
+}

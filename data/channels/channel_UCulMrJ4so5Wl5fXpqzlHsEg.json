@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCulMrJ4so5Wl5fXpqzlHsEg",
+  "retrieved_on": "2021-12-05 03:47:32.034193",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lGRuBnlgjIrcwFCqPsBJWWvGmTU",
+    "id": "UCulMrJ4so5Wl5fXpqzlHsEg",
+    "snippet": {
+      "title": "Dr. Joe Galati",
+      "description": "Welcome to the YouTube channel of Joe Galati, M.D. This channel is the portal for all of the videos related to Dr. Joe Galati and his new book EATING YOURSELF SICK. Visit www.drjoegalati.com for more about his practice and the services he offers. Dr. Joe Galati is a liver disease expert, radio host, entrepreneur, speaker, and author. Dr. Joe Galati can be heard every weekend on 740 KTRH (www.ktrh.com) when YOUR HEALTH FIRST airs at 7:00 p.m. CST. His practice is dedicated to those individuals with metabolic syndrome, fatty liver, cirrhosis, and advanced liver disease related to hepatitis C and fatty liver. Contact Dr. Galati at 713-634-5105 to learn more about the services offered.",
+      "customUrl": "joegalatimd",
+      "publishedAt": "2008-01-19T18:27:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQo0p4t9WxiLz2jGvqB9oqcpuXd_XA6BU-j-gZmNQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQo0p4t9WxiLz2jGvqB9oqcpuXd_XA6BU-j-gZmNQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQo0p4t9WxiLz2jGvqB9oqcpuXd_XA6BU-j-gZmNQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dr. Joe Galati",
+        "description": "Welcome to the YouTube channel of Joe Galati, M.D. This channel is the portal for all of the videos related to Dr. Joe Galati and his new book EATING YOURSELF SICK. Visit www.drjoegalati.com for more about his practice and the services he offers. Dr. Joe Galati is a liver disease expert, radio host, entrepreneur, speaker, and author. Dr. Joe Galati can be heard every weekend on 740 KTRH (www.ktrh.com) when YOUR HEALTH FIRST airs at 7:00 p.m. CST. His practice is dedicated to those individuals with metabolic syndrome, fatty liver, cirrhosis, and advanced liver disease related to hepatitis C and fatty liver. Contact Dr. Galati at 713-634-5105 to learn more about the services offered."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUulMrJ4so5Wl5fXpqzlHsEg"
+      }
+    },
+    "statistics": {
+      "viewCount": "8835360",
+      "subscriberCount": "18100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "205"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dr. Joe Galati",
+        "description": "Welcome to the YouTube channel of Joe Galati, M.D. This channel is the portal for all of the videos related to Dr. Joe Galati and his new book EATING YOURSELF SICK. Visit www.drjoegalati.com for more about his practice and the services he offers. Dr. Joe Galati is a liver disease expert, radio host, entrepreneur, speaker, and author. Dr. Joe Galati can be heard every weekend on 740 KTRH (www.ktrh.com) when YOUR HEALTH FIRST airs at 7:00 p.m. CST. His practice is dedicated to those individuals with metabolic syndrome, fatty liver, cirrhosis, and advanced liver disease related to hepatitis C and fatty liver. Contact Dr. Galati at 713-634-5105 to learn more about the services offered.",
+        "keywords": "hepatitis \"hepatitis C\" HCV \"hepatitis B\" HBV cirrhosis \"liver transplant\" NAFLD interferon ribavirin protease inhibitor boceprevir telaprevir incivik victrelis new treatments fatty liver disease non-alcoholic auto-immmune biopsy hepatologist hepatology specialists of texas joseph galati saira khaderi the methodist hospital medical center research",
+        "unsubscribedTrailer": "-aYp74QCP1k",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/X45Pi5Sy07eysltF7-jlMMRtBtHgvea34Z5u_frGAr2tSVFbN51srLGZBsEarADaZgN5Frej"
+      }
+    }
+  }
+}

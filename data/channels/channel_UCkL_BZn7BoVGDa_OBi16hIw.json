@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCkL_BZn7BoVGDa_OBi16hIw",
+  "retrieved_on": "2021-12-05 03:47:37.030748",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Zddqfj-hXBzcbw_V7tWb4s1R4MU",
+    "id": "UCkL_BZn7BoVGDa_OBi16hIw",
+    "snippet": {
+      "title": "Production Music Live",
+      "description": "Ableton Live Tutorials, Remakes, Tracks From Start To Finish, Templates and Sound Packs (by Tom & Francois) // Music Production & Sound Design Channel\nWebsite: https://www.productionmusiclive.com \n\n\u2605 LEARN MORE WITH OUR COURSES \u2605\n\nhttps://www.productionmusiclive.com/courses\n\n\u2022 How To Make Tracks from Start To Finish in Ableton Live\n\u2022 How To Write Chords and Melodies\n\u2022 How To Mix and Master your Tracks\n\n\n____________________________________________\nImpressum (see link below / siehe Link unten)",
+      "customUrl": "productionmusiclive",
+      "publishedAt": "2014-08-16T13:31:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQHbSyxfyludTamjyYvkQ-VWhYDoDP708OXg5mUrw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQHbSyxfyludTamjyYvkQ-VWhYDoDP708OXg5mUrw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQHbSyxfyludTamjyYvkQ-VWhYDoDP708OXg5mUrw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Production Music Live",
+        "description": "Ableton Live Tutorials, Remakes, Tracks From Start To Finish, Templates and Sound Packs (by Tom & Francois) // Music Production & Sound Design Channel\nWebsite: https://www.productionmusiclive.com \n\n\u2605 LEARN MORE WITH OUR COURSES \u2605\n\nhttps://www.productionmusiclive.com/courses\n\n\u2022 How To Make Tracks from Start To Finish in Ableton Live\n\u2022 How To Write Chords and Melodies\n\u2022 How To Mix and Master your Tracks\n\n\n____________________________________________\nImpressum (see link below / siehe Link unten)"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkL_BZn7BoVGDa_OBi16hIw"
+      }
+    },
+    "statistics": {
+      "viewCount": "12114424",
+      "subscriberCount": "130000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "441"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Production Music Live",
+        "description": "Ableton Live Tutorials, Remakes, Tracks From Start To Finish, Templates and Sound Packs (by Tom & Francois) // Music Production & Sound Design Channel\nWebsite: https://www.productionmusiclive.com \n\n\u2605 LEARN MORE WITH OUR COURSES \u2605\n\nhttps://www.productionmusiclive.com/courses\n\n\u2022 How To Make Tracks from Start To Finish in Ableton Live\n\u2022 How To Write Chords and Melodies\n\u2022 How To Mix and Master your Tracks\n\n\n____________________________________________\nImpressum (see link below / siehe Link unten)",
+        "keywords": "\"ableton live tutorials\" \"how to use ableton live\" \"music production\" tutorials \"music producer\" \"audio engineer\" \"how to make beats\" \"serum tutorials\" \"massive tutorials\" \"how to use massive\" \"arturia mini tutorials\" \"how to use arturia mini\" \"diva tutorials\" \"how to use diva\" \"techno tutorials\" \"melodic techno tutorials\" \"Melodic house\" \"Melodic techno\" \"Melodic deep\"",
+        "unsubscribedTrailer": "X_8zBzJfFXo",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/6DvsFOZmf0QdPpwrzgH0B5ow7X6UK07t6ll2u4777t88J_krDkh2o0BByCtHdWLXU4EmXl9AYJk"
+      }
+    }
+  }
+}

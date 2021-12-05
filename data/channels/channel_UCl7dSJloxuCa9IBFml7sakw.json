@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCl7dSJloxuCa9IBFml7sakw",
+  "retrieved_on": "2021-12-05 03:47:35.288847",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9PYFilbgCbPEUzRFl5CwC9LJrGY",
+    "id": "UCl7dSJloxuCa9IBFml7sakw",
+    "snippet": {
+      "title": "PolyMars",
+      "description": "I make things and talk about them",
+      "customUrl": "polymars",
+      "publishedAt": "2017-12-22T06:07:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTixF5vUgsFvPfXVFEHeRSrOYTTmJFl2C5h--oRuQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTixF5vUgsFvPfXVFEHeRSrOYTTmJFl2C5h--oRuQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTixF5vUgsFvPfXVFEHeRSrOYTTmJFl2C5h--oRuQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PolyMars",
+        "description": "I make things and talk about them"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUl7dSJloxuCa9IBFml7sakw"
+      }
+    },
+    "statistics": {
+      "viewCount": "8733108",
+      "subscriberCount": "141000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "24"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PolyMars",
+        "description": "I make things and talk about them",
+        "keywords": "polymars unity unity3d \"game dev\" \"indie dev\" remake devlog tutorial \"nintendo ds\" ds vita mod",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/AoezNm6OUeRB1OwaixnNvriKR7H5zWw8JjC4UHehpwhRefPxbDGDDDIjV_dzWT8sKZEPhjlkqg"
+      }
+    }
+  }
+}

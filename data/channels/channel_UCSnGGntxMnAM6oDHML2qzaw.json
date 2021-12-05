@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCSnGGntxMnAM6oDHML2qzaw",
+  "retrieved_on": "2021-12-05 03:47:37.728454",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nbR4rf130Dt2YmSJhX4L2JRrLq8",
+    "id": "UCSnGGntxMnAM6oDHML2qzaw",
+    "snippet": {
+      "title": "Haelian",
+      "description": "Hello friends, I go by Haelian and mostly play rogue-type games right now. I have a set streaming schedule on twitch, so come by to say hi some time http://twitch.tv/haelian",
+      "customUrl": "haelian",
+      "publishedAt": "2019-02-09T11:27:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSJZKlW1AQvtJVvL1GrMq5Mbo32cVXbAEwcgR52=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSJZKlW1AQvtJVvL1GrMq5Mbo32cVXbAEwcgR52=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSJZKlW1AQvtJVvL1GrMq5Mbo32cVXbAEwcgR52=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Haelian",
+        "description": "Hello friends, I go by Haelian and mostly play rogue-type games right now. I have a set streaming schedule on twitch, so come by to say hi some time http://twitch.tv/haelian"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUSnGGntxMnAM6oDHML2qzaw"
+      }
+    },
+    "statistics": {
+      "viewCount": "21104082",
+      "subscriberCount": "74400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "996"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Haelian",
+        "description": "Hello friends, I go by Haelian and mostly play rogue-type games right now. I have a set streaming schedule on twitch, so come by to say hi some time http://twitch.tv/haelian",
+        "keywords": "Hades speedrun \"world record\" \"high heat\" \"over powered\" op build guide \"let's play\" gameplay review rogue roguelike roguelite game",
+        "unsubscribedTrailer": "h3eWvh5Pco4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/rJGK4YgSDajCeNL1V6CR-hwbBpUlfr7l27KJX0aFNs77tfVGCZ1mETi1l_Q7e1SajLn-pq97"
+      }
+    }
+  }
+}

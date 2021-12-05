@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCQQFz2LkJMoqSFTas-oozOw",
+  "retrieved_on": "2021-12-05 03:47:40.782194",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "IJsZFK5pfgTHkwqjemgeOnZIWYk",
+    "id": "UCQQFz2LkJMoqSFTas-oozOw",
+    "snippet": {
+      "title": "FlippedNormals",
+      "description": "We aim to bring you high quality CG tutorials which are fun and educational. It's run by Henning Sanden and Morten Jaeger, who are former senior character artists in the film industry in London, having worked on movies such as Pacific Rim, Alien Covenant, Guardians of the Galaxy, Batman V Superman, among many others. \n\nWe also provide premium training, where we go in-depth into the topics we explore on this channel. Check out our website for more!\nhttps://flippednormals.com/",
+      "customUrl": "flippednormals",
+      "publishedAt": "2014-05-03T13:55:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRbKOgmbOzaIdie21_N6mriMkB6ABfebL3NDJLmDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRbKOgmbOzaIdie21_N6mriMkB6ABfebL3NDJLmDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRbKOgmbOzaIdie21_N6mriMkB6ABfebL3NDJLmDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "FlippedNormals",
+        "description": "We aim to bring you high quality CG tutorials which are fun and educational. It's run by Henning Sanden and Morten Jaeger, who are former senior character artists in the film industry in London, having worked on movies such as Pacific Rim, Alien Covenant, Guardians of the Galaxy, Batman V Superman, among many others. \n\nWe also provide premium training, where we go in-depth into the topics we explore on this channel. Check out our website for more!\nhttps://flippednormals.com/"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUQQFz2LkJMoqSFTas-oozOw"
+      }
+    },
+    "statistics": {
+      "viewCount": "20019885",
+      "subscriberCount": "254000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "364"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "FlippedNormals",
+        "description": "We aim to bring you high quality CG tutorials which are fun and educational. It's run by Henning Sanden and Morten Jaeger, who are former senior character artists in the film industry in London, having worked on movies such as Pacific Rim, Alien Covenant, Guardians of the Galaxy, Batman V Superman, among many others. \n\nWe also provide premium training, where we go in-depth into the topics we explore on this channel. Check out our website for more!\nhttps://flippednormals.com/",
+        "keywords": "3d tutorial sculpting zbrush blender sculpture \"3d tutorial\" artist \"3d model\" \"morten jaeger\" \"henning sanden\" substance adobe maya",
+        "unsubscribedTrailer": "suIAWoRapdo",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/g4logfxDOnx4z2TVL7HkYZGeQxs0LjG9sHPaMMoZqcwwzdRlTMRkh1t7m9WVGz_-cwo5fXFi"
+      }
+    }
+  }
+}

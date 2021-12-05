@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCOT2SiixhWhmkNo4PhG2zig",
+  "retrieved_on": "2021-12-05 03:47:38.478895",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "wJh7-tiPK8nTuVSNvFgnlfblnmM",
+    "id": "UCOT2SiixhWhmkNo4PhG2zig",
+    "snippet": {
+      "title": "toothmonster",
+      "description": "",
+      "publishedAt": "2012-04-19T05:24:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQXe8-eY9A7bJWEsUNNuf8_FOEjVB25wjP_U-w0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQXe8-eY9A7bJWEsUNNuf8_FOEjVB25wjP_U-w0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQXe8-eY9A7bJWEsUNNuf8_FOEjVB25wjP_U-w0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "toothmonster",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOT2SiixhWhmkNo4PhG2zig"
+      }
+    },
+    "statistics": {
+      "viewCount": "1170",
+      "subscriberCount": "8",
+      "hiddenSubscriberCount": false,
+      "videoCount": "13"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "toothmonster"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/T-KLE9HibN2jiNCsqbJ_2mXUUVuYLfvpCW62RnCrGIZRWEqvfrJHJI231aOCzCd7Byr97QJfCg"
+      }
+    }
+  }
+}

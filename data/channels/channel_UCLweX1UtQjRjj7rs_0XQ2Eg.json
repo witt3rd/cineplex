@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCLweX1UtQjRjj7rs_0XQ2Eg",
+  "retrieved_on": "2021-12-05 03:47:38.478808",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mqcK40GUcEGYIyIXh5MJI88QG-c",
+    "id": "UCLweX1UtQjRjj7rs_0XQ2Eg",
+    "snippet": {
+      "title": "Game Endeavor",
+      "description": "Howdy! And welcome to Game Endeavor. I'm developing \"Zoe and the Cursed Dreamer\". A 2D open world RPG, where you'll explore an immersive world, meet lovable characters, and live amongst them in your own home.\n\nMy main goal in making this channel is to create a strong tight-knit community. So leave comments and drop by the Discord to say hello. I look forward to hearing from you! Let us know what project piece of art you're working on. Our community is about sharing progress and growth.",
+      "customUrl": "gameendeavor",
+      "publishedAt": "2018-08-23T21:17:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTqFCx2tJ9HTJwJCN7m7xiev8TjEd1xr687z4mM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTqFCx2tJ9HTJwJCN7m7xiev8TjEd1xr687z4mM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTqFCx2tJ9HTJwJCN7m7xiev8TjEd1xr687z4mM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Game Endeavor",
+        "description": "Howdy! And welcome to Game Endeavor. I'm developing \"Zoe and the Cursed Dreamer\". A 2D open world RPG, where you'll explore an immersive world, meet lovable characters, and live amongst them in your own home.\n\nMy main goal in making this channel is to create a strong tight-knit community. So leave comments and drop by the Discord to say hello. I look forward to hearing from you! Let us know what project piece of art you're working on. Our community is about sharing progress and growth."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UULweX1UtQjRjj7rs_0XQ2Eg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1783391",
+      "subscriberCount": "60000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "50"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Game Endeavor",
+        "description": "Howdy! And welcome to Game Endeavor. I'm developing \"Zoe and the Cursed Dreamer\". A 2D open world RPG, where you'll explore an immersive world, meet lovable characters, and live amongst them in your own home.\n\nMy main goal in making this channel is to create a strong tight-knit community. So leave comments and drop by the Discord to say hello. I look forward to hearing from you! Let us know what project piece of art you're working on. Our community is about sharing progress and growth.",
+        "keywords": "Godot Game Development Tutorial \"Game Endeavor\" \"Game Endevor\" \"Game Endeaver\" \"Game Endever\" GameEndeavor GameEndeaver GameEndevor GameEndever",
+        "unsubscribedTrailer": "6BrZryMz-ac",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/0ua-YYdXCsiVY1Pt9-StkVKvAoQqIuqTGJIeLUZ0hkSysWgHNCHbaK-hu4xlsgLSkQMr_I9oLPY"
+      }
+    }
+  }
+}

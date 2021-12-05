@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCx_2Vso6Qz76n-w5KV8DZcA",
+  "retrieved_on": "2021-12-05 03:47:37.948850",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nS2eQsnEKAG-gp-aOPNekwCihgw",
+    "id": "UCx_2Vso6Qz76n-w5KV8DZcA",
+    "snippet": {
+      "title": "Allie Beth Stuckey",
+      "description": "Allie Beth Stuckey is an author, speaker, commentator and the host of the BlazeTV podcast, Relatable, where she analyzes culture, news, theology and politics from a Christian, conservative perspective. She also often satirizes politicians, the media and trends in popular culture. On this channel, you'll find her podcast, satire skits, as well as some of her speeches and media interviews.",
+      "customUrl": "alliebethstuckeyrelatable",
+      "publishedAt": "2016-01-22T23:28:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS0gjkiKbbWQUz3O4g-23V-_wNie-ef94_deEna=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS0gjkiKbbWQUz3O4g-23V-_wNie-ef94_deEna=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS0gjkiKbbWQUz3O4g-23V-_wNie-ef94_deEna=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Allie Beth Stuckey",
+        "description": "Allie Beth Stuckey is an author, speaker, commentator and the host of the BlazeTV podcast, Relatable, where she analyzes culture, news, theology and politics from a Christian, conservative perspective. She also often satirizes politicians, the media and trends in popular culture. On this channel, you'll find her podcast, satire skits, as well as some of her speeches and media interviews."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUx_2Vso6Qz76n-w5KV8DZcA"
+      }
+    },
+    "statistics": {
+      "viewCount": "17941293",
+      "subscriberCount": "176000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "517"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Allie Beth Stuckey",
+        "description": "Allie Beth Stuckey is an author, speaker, commentator and the host of the BlazeTV podcast, Relatable, where she analyzes culture, news, theology and politics from a Christian, conservative perspective. She also often satirizes politicians, the media and trends in popular culture. On this channel, you'll find her podcast, satire skits, as well as some of her speeches and media interviews.",
+        "keywords": "conservative news podcast christian \"reformed christian\" theology satire comedy \"allie beth stuckey YouTube Channel\" \"relatable with allie beth stuckey\" \"allie stuckey\" blazetv \"blaze tv\" \"allie stuckey podcast\" \"allie beth stuckey\" \"relatable with allie stuckey\"",
+        "unsubscribedTrailer": "5TEAe6O_gqk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/lo8XTdMRdTiwzqGcn9J14jnrY-ev-OqRi-ctoXqZKNRfcz50FXrXvp_0anYHfPS0etQMyM90__A"
+      }
+    }
+  }
+}

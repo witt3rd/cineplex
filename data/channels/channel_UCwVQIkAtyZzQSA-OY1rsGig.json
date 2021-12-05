@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCwVQIkAtyZzQSA-OY1rsGig",
+  "retrieved_on": "2021-12-05 03:47:36.348921",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "vl9j8bZSOlET1PNRIo73talCXVQ",
+    "id": "UCwVQIkAtyZzQSA-OY1rsGig",
+    "snippet": {
+      "title": "Chill Music Lab",
+      "description": "When we created this channel, we wanted to shed some light on how the music is made, educate and help people on how to navigate the intricacies of popular genres and how they can affect various activities. On this channel, we have a wide variety of playlists suited for all kinds of everyday tasks, such as work, studies, programming, sports, and more. We want to popularize music that will have a beneficial effect on productivity.\n\nMusic Lab is an independent digital music label and we love to empower artists and make them thrive, with our honest and transparent approach, creative thinking and passion. \n\nWe collaborate with independent artists and labels within the USA and around the world. Many composers and producers are often unfairly overlooked and we strive to promote such artists by exposing their work to the widest possible audience.\n\nFor collaborations, business inquiries and licensing please contact us via the email below.\n",
+      "customUrl": "musiclabchill",
+      "publishedAt": "2019-07-05T21:39:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/9k0N3CXvGaQj44oSDb-r63amGX2w-orEyp409sTBp0tK4WEuZTJcdhO5XzmWaschG1aCcVjWnA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/9k0N3CXvGaQj44oSDb-r63amGX2w-orEyp409sTBp0tK4WEuZTJcdhO5XzmWaschG1aCcVjWnA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/9k0N3CXvGaQj44oSDb-r63amGX2w-orEyp409sTBp0tK4WEuZTJcdhO5XzmWaschG1aCcVjWnA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Chill Music Lab",
+        "description": "When we created this channel, we wanted to shed some light on how the music is made, educate and help people on how to navigate the intricacies of popular genres and how they can affect various activities. On this channel, we have a wide variety of playlists suited for all kinds of everyday tasks, such as work, studies, programming, sports, and more. We want to popularize music that will have a beneficial effect on productivity.\n\nMusic Lab is an independent digital music label and we love to empower artists and make them thrive, with our honest and transparent approach, creative thinking and passion. \n\nWe collaborate with independent artists and labels within the USA and around the world. Many composers and producers are often unfairly overlooked and we strive to promote such artists by exposing their work to the widest possible audience.\n\nFor collaborations, business inquiries and licensing please contact us via the email below.\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwVQIkAtyZzQSA-OY1rsGig"
+      }
+    },
+    "statistics": {
+      "viewCount": "61100967",
+      "subscriberCount": "486000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "136"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chill Music Lab",
+        "description": "When we created this channel, we wanted to shed some light on how the music is made, educate and help people on how to navigate the intricacies of popular genres and how they can affect various activities. On this channel, we have a wide variety of playlists suited for all kinds of everyday tasks, such as work, studies, programming, sports, and more. We want to popularize music that will have a beneficial effect on productivity.\n\nMusic Lab is an independent digital music label and we love to empower artists and make them thrive, with our honest and transparent approach, creative thinking and passion. \n\nWe collaborate with independent artists and labels within the USA and around the world. Many composers and producers are often unfairly overlooked and we strive to promote such artists by exposing their work to the widest possible audience.\n\nFor collaborations, business inquiries and licensing please contact us via the email below.\n",
+        "keywords": "\"work music\" Chillstep \"background music\" \"Inspirational music\" \"Chill Music\" chillout downtempo \"music education\" \"music genres\" \"music radio\" \"24/7 radio\" \"music lab\" \"programming music\" \"coding music\" \"music for work\" \"study music\" \"future garage playlist\" \"trading music\" \"crypto music\"",
+        "trackingAnalyticsAccountId": "UA-141264261-2",
+        "unsubscribedTrailer": "KBL5I32fHfQ",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/WrzZcoVdL_8NoHom97C5s4gryJ1E507HjSjvTGubuQqhDUGwhRGiG6oOed2bJuE37NVcZXlfdA"
+      }
+    }
+  }
+}

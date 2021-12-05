@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCicD3sjxyC8veXiqP9pOHnA",
+  "retrieved_on": "2021-12-05 03:47:34.793976",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "wpz1a5uAdd4CTsyZkepV1HhBeXc",
+    "id": "UCicD3sjxyC8veXiqP9pOHnA",
+    "snippet": {
+      "title": "Chicago Haskell",
+      "description": "The Chicago Haskell programming language group. http://ChicagoHaskell.com | http://meetup.com/ChicagoHaskell | @ChicagoHaskell",
+      "customUrl": "chicagohaskell",
+      "publishedAt": "2015-10-22T15:31:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuj2EL-lAHbR9VVzZX9MsiiwL7Vd2in-KDHBpV=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuj2EL-lAHbR9VVzZX9MsiiwL7Vd2in-KDHBpV=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuj2EL-lAHbR9VVzZX9MsiiwL7Vd2in-KDHBpV=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Chicago Haskell",
+        "description": "The Chicago Haskell programming language group. http://ChicagoHaskell.com | http://meetup.com/ChicagoHaskell | @ChicagoHaskell"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUicD3sjxyC8veXiqP9pOHnA"
+      }
+    },
+    "statistics": {
+      "viewCount": "27640",
+      "subscriberCount": "399",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chicago Haskell",
+        "description": "The Chicago Haskell programming language group. http://ChicagoHaskell.com | http://meetup.com/ChicagoHaskell | @ChicagoHaskell",
+        "keywords": "haskell \"functional programming\" \"programming language\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/QDobUjgcQuGScJ7W15fvchTEacMeYIZb4NWAWVRnjx570DyxyWbHKP88B81AKifhNf7iRr-Mv8k"
+      }
+    }
+  }
+}

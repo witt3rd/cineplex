@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCaupkIjnvJ0vXHFHjrjbVMQ",
+  "retrieved_on": "2021-12-05 03:47:29.489779",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Om5JtNcSyvVTFll3F-offuQNbbk",
+    "id": "UCaupkIjnvJ0vXHFHjrjbVMQ",
+    "snippet": {
+      "title": "cedec0",
+      "description": "",
+      "publishedAt": "2007-12-17T22:39:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_US0-JpTfwZWEy4w85v86C4naFpCXyv5qiPZO=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_US0-JpTfwZWEy4w85v86C4naFpCXyv5qiPZO=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_US0-JpTfwZWEy4w85v86C4naFpCXyv5qiPZO=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "cedec0",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUaupkIjnvJ0vXHFHjrjbVMQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "463441",
+      "subscriberCount": "2360",
+      "hiddenSubscriberCount": false,
+      "videoCount": "16"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "cedec0"
+      }
+    }
+  }
+}

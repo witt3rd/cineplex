@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCiEKDhv4v0YTc-ZtpABkXZA",
+  "retrieved_on": "2021-12-05 03:47:36.809257",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5r1VlMR4SmuNHJL8glRpWOHFdZc",
+    "id": "UCiEKDhv4v0YTc-ZtpABkXZA",
+    "snippet": {
+      "title": "Goo Goo Dolls",
+      "description": "'It's Christmas All Over' Deluxe Edition is OUT NOW featuring two new tracks !! https://GooGooDolls.lnk.to/christmasdeluxe \ud83c\udf84",
+      "customUrl": "googoodolls",
+      "publishedAt": "2006-04-02T17:53:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRYKFEs5O0drYoBqpRSHE9TrPGs8UeHqPiiUs-_wg=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRYKFEs5O0drYoBqpRSHE9TrPGs8UeHqPiiUs-_wg=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRYKFEs5O0drYoBqpRSHE9TrPGs8UeHqPiiUs-_wg=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Goo Goo Dolls",
+        "description": "'It's Christmas All Over' Deluxe Edition is OUT NOW featuring two new tracks !! https://GooGooDolls.lnk.to/christmasdeluxe \ud83c\udf84"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUiEKDhv4v0YTc-ZtpABkXZA"
+      }
+    },
+    "statistics": {
+      "viewCount": "660270337",
+      "subscriberCount": "753000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "348"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Goo Goo Dolls",
+        "description": "'It's Christmas All Over' Deluxe Edition is OUT NOW featuring two new tracks !! https://GooGooDolls.lnk.to/christmasdeluxe \ud83c\udf84",
+        "keywords": "goo dolls john rzeznik rob takac \"Goo Goo Dolls\"",
+        "trackingAnalyticsAccountId": "UA-12821183-3",
+        "unsubscribedTrailer": "vH3r2z_Rx2s",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/p0dUaGwNVJ-RrG_6QNvu_j__KqSjjFv3cMx3uRdq2hJf7UPd_E-n656kn1n9hoCVDL6epfUu1w"
+      }
+    }
+  }
+}

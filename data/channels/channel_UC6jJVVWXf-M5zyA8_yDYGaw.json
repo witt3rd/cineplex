@@ -1,0 +1,55 @@
+{
+  "channel_id": "UC6jJVVWXf-M5zyA8_yDYGaw",
+  "retrieved_on": "2021-12-05 03:47:40.292859",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4rkbXMUY9vXTwpLnUlxF7aEhsy0",
+    "id": "UC6jJVVWXf-M5zyA8_yDYGaw",
+    "snippet": {
+      "title": "Keedeeg",
+      "description": "",
+      "publishedAt": "2006-05-20T00:35:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQGCDMViENY7yiIW5uzoRALTWT-iFWdUiiRzFXf=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQGCDMViENY7yiIW5uzoRALTWT-iFWdUiiRzFXf=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQGCDMViENY7yiIW5uzoRALTWT-iFWdUiiRzFXf=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Keedeeg",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU6jJVVWXf-M5zyA8_yDYGaw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2821656",
+      "subscriberCount": "5400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "38"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Keedeeg"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/jOi5VmFyD43Oz64ezr2YucW6s20JJD3Hx3a1gx5inYbjs8NRT8PAB0KHr5EWFzEvrwls6PQo"
+      }
+    }
+  }
+}

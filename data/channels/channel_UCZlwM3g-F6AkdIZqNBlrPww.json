@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCZlwM3g-F6AkdIZqNBlrPww",
+  "retrieved_on": "2021-12-05 03:47:40.782132",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "tT7khzxp7EDiKrAqB6XzO5MLXus",
+    "id": "UCZlwM3g-F6AkdIZqNBlrPww",
+    "snippet": {
+      "title": "OUROBOROS ARQ",
+      "description": "architecture construction\n\n\ncontact mail--- ouroboros.arq@gmail.com\n\n\n\ncorreo de contacto ------ ouroboros.arq@gmail.com",
+      "customUrl": "ouroborosarq",
+      "publishedAt": "2017-07-22T00:55:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Ag1r1U41yauqUuHZmhECVcOmtZKg9W11dGyoCIdT0nxsXqEBzWlaCQ_tNM1YUw-w7RoyzHOy=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Ag1r1U41yauqUuHZmhECVcOmtZKg9W11dGyoCIdT0nxsXqEBzWlaCQ_tNM1YUw-w7RoyzHOy=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Ag1r1U41yauqUuHZmhECVcOmtZKg9W11dGyoCIdT0nxsXqEBzWlaCQ_tNM1YUw-w7RoyzHOy=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "OUROBOROS ARQ",
+        "description": "architecture construction\n\n\ncontact mail--- ouroboros.arq@gmail.com\n\n\n\ncorreo de contacto ------ ouroboros.arq@gmail.com"
+      },
+      "country": "CO"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZlwM3g-F6AkdIZqNBlrPww"
+      }
+    },
+    "statistics": {
+      "viewCount": "471718077",
+      "subscriberCount": "2730000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "61"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "OUROBOROS ARQ",
+        "description": "architecture construction\n\n\ncontact mail--- ouroboros.arq@gmail.com\n\n\n\ncorreo de contacto ------ ouroboros.arq@gmail.com",
+        "keywords": "construcci\u00f3n arquitectura maquetas dise\u00f1o",
+        "country": "CO"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/lAEBNmBRirmvFXYbslcDb95Us4yK-s0_es-gpnOgdIQEqOWCf7Vm3D8DkC469oHQc9epsiWI"
+      }
+    }
+  }
+}

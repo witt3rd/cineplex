@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC2-slOJImuSc20Drbf88qvg",
+  "retrieved_on": "2021-12-05 03:47:32.314719",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "o-VsKAzXUDkbXJf0Ko0Q_dgPffY",
+    "id": "UC2-slOJImuSc20Drbf88qvg",
+    "snippet": {
+      "title": "Classsed",
+      "description": "Classsed is a channel where you can learn about the latest and the best web development technologies. Ranging from front-end frameworks like Angular and React, to Back-end languages like Node.js and PHP, to databases like MongoDB and MySQL, to cloud platforms like AWS, Firebase and Digital Ocean. More cool tech includes Babel, Webpack, Gulp, Bootstrap, Next.js, Vue, Redux, TypeScript, Laravel, Ionic and many more amazing tools that are best fit for developping and maintaining the best modern web applications.",
+      "customUrl": "classsed",
+      "publishedAt": "2019-01-02T13:32:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRt97dnbFx-k5-u3Xm_MFljXhqljR-viTrsTf80=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRt97dnbFx-k5-u3Xm_MFljXhqljR-viTrsTf80=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRt97dnbFx-k5-u3Xm_MFljXhqljR-viTrsTf80=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Classsed",
+        "description": "Classsed is a channel where you can learn about the latest and the best web development technologies. Ranging from front-end frameworks like Angular and React, to Back-end languages like Node.js and PHP, to databases like MongoDB and MySQL, to cloud platforms like AWS, Firebase and Digital Ocean. More cool tech includes Babel, Webpack, Gulp, Bootstrap, Next.js, Vue, Redux, TypeScript, Laravel, Ionic and many more amazing tools that are best fit for developping and maintaining the best modern web applications."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2-slOJImuSc20Drbf88qvg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1436770",
+      "subscriberCount": "24800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "152"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Classsed",
+        "description": "Classsed is a channel where you can learn about the latest and the best web development technologies. Ranging from front-end frameworks like Angular and React, to Back-end languages like Node.js and PHP, to databases like MongoDB and MySQL, to cloud platforms like AWS, Firebase and Digital Ocean. More cool tech includes Babel, Webpack, Gulp, Bootstrap, Next.js, Vue, Redux, TypeScript, Laravel, Ionic and many more amazing tools that are best fit for developping and maintaining the best modern web applications.",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/gnlnWqL5ZyxQbNtMxC17rDf38E2TN36kDHQWywvMrxukn-py-N5fCexbZgs1V5Q2m6_8cj03I0c"
+      }
+    }
+  }
+}

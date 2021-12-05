@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC35oMZUFNV5CaZEQOa6Piew",
+  "retrieved_on": "2021-12-05 03:47:39.693637",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "XhAfbOptZpzrG8Q4IsRUrbREZN8",
+    "id": "UC35oMZUFNV5CaZEQOa6Piew",
+    "snippet": {
+      "title": "Syhgma",
+      "description": "",
+      "customUrl": "syhgma",
+      "publishedAt": "2017-04-14T00:18:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/JNcSmAiq097Zqiz3_JEDRvP_91MDhNjN7Czrx7X4T4KsdU4g4VVNDwgNs15CvlRqsAwhlNY-=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/JNcSmAiq097Zqiz3_JEDRvP_91MDhNjN7Czrx7X4T4KsdU4g4VVNDwgNs15CvlRqsAwhlNY-=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/JNcSmAiq097Zqiz3_JEDRvP_91MDhNjN7Czrx7X4T4KsdU4g4VVNDwgNs15CvlRqsAwhlNY-=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Syhgma",
+        "description": ""
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU35oMZUFNV5CaZEQOa6Piew"
+      }
+    },
+    "statistics": {
+      "viewCount": "1604303",
+      "subscriberCount": "10700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "9"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Syhgma",
+        "keywords": "im lemon",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/o7J4VrgP_Mr9W0hWCHAfjxFW0tc1v7suJ6PoGDZ9P26AvvWi7gBm4IMH9RSYAI4WmGr8eRqFaw"
+      }
+    }
+  }
+}

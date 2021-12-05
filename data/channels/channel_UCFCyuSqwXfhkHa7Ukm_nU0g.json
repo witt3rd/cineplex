@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCFCyuSqwXfhkHa7Ukm_nU0g",
+  "retrieved_on": "2021-12-05 03:47:39.125962",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "E5Ix-BczLwYEa3taqh2zo74BO8w",
+    "id": "UCFCyuSqwXfhkHa7Ukm_nU0g",
+    "snippet": {
+      "title": "Juutas",
+      "description": "Hi, I'm Juutas! Welcome to my gaming channel :) \nI create many kinds of video game related videos including reviews, guides and commentaries.\n\n\nIf you wish to donate to me: https://www.twitchalerts.com/donate/blueberryknights\n\nBanner art made by: Johann_893961",
+      "publishedAt": "2011-10-24T09:36:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSpLEfngxkrN83lRnxXsWBm1hT4AX17Wrq6MuIK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSpLEfngxkrN83lRnxXsWBm1hT4AX17Wrq6MuIK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSpLEfngxkrN83lRnxXsWBm1hT4AX17Wrq6MuIK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Juutas",
+        "description": "Hi, I'm Juutas! Welcome to my gaming channel :) \nI create many kinds of video game related videos including reviews, guides and commentaries.\n\n\nIf you wish to donate to me: https://www.twitchalerts.com/donate/blueberryknights\n\nBanner art made by: Johann_893961"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFCyuSqwXfhkHa7Ukm_nU0g"
+      }
+    },
+    "statistics": {
+      "viewCount": "6086588",
+      "subscriberCount": "28100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "480"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Juutas",
+        "description": "Hi, I'm Juutas! Welcome to my gaming channel :) \nI create many kinds of video game related videos including reviews, guides and commentaries.\n\n\nIf you wish to donate to me: https://www.twitchalerts.com/donate/blueberryknights\n\nBanner art made by: Johann_893961",
+        "unsubscribedTrailer": "hRFgQS4eUg0"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/wfkT_xJ8WFl24cWdGCBVa5uXETrqx1k501QQ6EB7RZ5-jFpgEbqOrYs72sVrwdpKPBciEJpAdWw"
+      }
+    }
+  }
+}

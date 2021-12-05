@@ -1,0 +1,63 @@
+{
+  "channel_id": "UClx4wL3dpASGZopYk-3Y0yQ",
+  "retrieved_on": "2021-12-05 03:47:31.215418",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "L9gfbmbIf77ifIkO4lsvFGV-ryA",
+    "id": "UClx4wL3dpASGZopYk-3Y0yQ",
+    "snippet": {
+      "title": "Transcending Vibrations",
+      "description": "100% original meditation music for higher consciousness by artist/producer Brian Woodcock of Massachusetts. Transcending Vibrations, Pinealwave, and Dubwave are the three different artist names under the label of Woodcock Productions, bringing three unique styles of powerful, consciousness expanding meditation music.",
+      "customUrl": "transcendingvibrations",
+      "publishedAt": "2014-12-04T05:38:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdqA4NOqbUpbkJNSn6awWNTsr8eH5L56t-sOdF2Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdqA4NOqbUpbkJNSn6awWNTsr8eH5L56t-sOdF2Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdqA4NOqbUpbkJNSn6awWNTsr8eH5L56t-sOdF2Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Transcending Vibrations",
+        "description": "100% original meditation music for higher consciousness by artist/producer Brian Woodcock of Massachusetts. Transcending Vibrations, Pinealwave, and Dubwave are the three different artist names under the label of Woodcock Productions, bringing three unique styles of powerful, consciousness expanding meditation music."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUlx4wL3dpASGZopYk-3Y0yQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "47228442",
+      "subscriberCount": "430000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "207"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Transcending Vibrations",
+        "description": "100% original meditation music for higher consciousness by artist/producer Brian Woodcock of Massachusetts. Transcending Vibrations, Pinealwave, and Dubwave are the three different artist names under the label of Woodcock Productions, bringing three unique styles of powerful, consciousness expanding meditation music.",
+        "keywords": "meditation brainwave soundscape delta alpha theta beta gamma wave isochronic monaural beats music pinelwave third eye opening elevation consciousness extrasensory creativity enhancing increase wave waves brain mind",
+        "unsubscribedTrailer": "6RiMcW6Rk7g",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/JKFGeLvF1cx_ZGZG37D0hpBNSF3mZlXqUtcMSs9bit36oWO1q5bhT0XkjEOHpk0r3Pb7OJzX7n4"
+      }
+    }
+  }
+}

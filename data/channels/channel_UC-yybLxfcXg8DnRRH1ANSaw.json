@@ -1,0 +1,52 @@
+{
+  "channel_id": "UC-yybLxfcXg8DnRRH1ANSaw",
+  "retrieved_on": "2021-12-05 03:47:38.852306",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Lv3XD3Cag3ZSu2xvlilD-jLDGOk",
+    "id": "UC-yybLxfcXg8DnRRH1ANSaw",
+    "snippet": {
+      "title": "Selene Halat",
+      "description": "",
+      "publishedAt": "2009-07-28T14:50:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTg15zipB94Wnzf5nTMCoffS03VIEbTKpEXtbsecw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTg15zipB94Wnzf5nTMCoffS03VIEbTKpEXtbsecw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTg15zipB94Wnzf5nTMCoffS03VIEbTKpEXtbsecw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Selene Halat",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU-yybLxfcXg8DnRRH1ANSaw"
+      }
+    },
+    "statistics": {
+      "viewCount": "3576224",
+      "subscriberCount": "2110",
+      "hiddenSubscriberCount": false,
+      "videoCount": "14"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Selene Halat"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCIXjev1_mJ1plJhF9lGarQg",
+  "retrieved_on": "2021-12-05 03:47:34.084377",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "x-zHmvwYO6O8Nw8CmuaC80WAzIE",
+    "id": "UCIXjev1_mJ1plJhF9lGarQg",
+    "snippet": {
+      "title": "Ryan King Art",
+      "description": "My name is Ryan King. I am a 3d artist, and I create Blender Tutorials And Art Videos here on my YouTube Channel. I'm trying to do this for a full time living, so your support is greatly appreciated!\n\nSUPPORT THE CHANNEL:\nGumroad: https://gumroad.com/ryankingart\nPatreon: https://www.patreon.com/ryankingart\nYouTube Memberships: https://www.youtube.com/channel/UCIXjev1_mJ1plJhF9lGarQg/join\n\nABOUT AND LINKS:\nCheck out my website about page for more info:\nhttps://ryankingart.wordpress.com/77-2/\n\nCONTACT:\nYou can contact me via my website contact page.\nhttps://ryankingart.wordpress.com/contact/\n",
+      "customUrl": "ryankingart",
+      "publishedAt": "2019-09-26T00:34:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/brNbsw_dUsp-n-01NbsCXwnOfnbUBML0tOtRrs6Um9NsHIfQki0xPHzsM0C1-3nEdGqcIdgOIQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/brNbsw_dUsp-n-01NbsCXwnOfnbUBML0tOtRrs6Um9NsHIfQki0xPHzsM0C1-3nEdGqcIdgOIQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/brNbsw_dUsp-n-01NbsCXwnOfnbUBML0tOtRrs6Um9NsHIfQki0xPHzsM0C1-3nEdGqcIdgOIQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ryan King Art",
+        "description": "My name is Ryan King. I am a 3d artist, and I create Blender Tutorials And Art Videos here on my YouTube Channel. I'm trying to do this for a full time living, so your support is greatly appreciated!\n\nSUPPORT THE CHANNEL:\nGumroad: https://gumroad.com/ryankingart\nPatreon: https://www.patreon.com/ryankingart\nYouTube Memberships: https://www.youtube.com/channel/UCIXjev1_mJ1plJhF9lGarQg/join\n\nABOUT AND LINKS:\nCheck out my website about page for more info:\nhttps://ryankingart.wordpress.com/77-2/\n\nCONTACT:\nYou can contact me via my website contact page.\nhttps://ryankingart.wordpress.com/contact/\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIXjev1_mJ1plJhF9lGarQg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1969144",
+      "subscriberCount": "31400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "258"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ryan King Art",
+        "description": "My name is Ryan King. I am a 3d artist, and I create Blender Tutorials And Art Videos here on my YouTube Channel. I'm trying to do this for a full time living, so your support is greatly appreciated!\n\nSUPPORT THE CHANNEL:\nGumroad: https://gumroad.com/ryankingart\nPatreon: https://www.patreon.com/ryankingart\nYouTube Memberships: https://www.youtube.com/channel/UCIXjev1_mJ1plJhF9lGarQg/join\n\nABOUT AND LINKS:\nCheck out my website about page for more info:\nhttps://ryankingart.wordpress.com/77-2/\n\nCONTACT:\nYou can contact me via my website contact page.\nhttps://ryankingart.wordpress.com/contact/\n",
+        "keywords": "\"Blender Tutorial\" \"Blender Art\" \"Blender Animation\" \"Ryan King\" \"Ryan King Art\" Artwork Sculpting Filmmaking learning education tutorial Blender Art 3d art 3d artist education \"digital sculpting\" tutorials",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ujm8WheH6p5y1nm62bhpfH1J4P4XqrKLRZz_5IDSGlb50Kx3KiwYuw_xMyylo1R23wzpIGnt1A"
+      }
+    }
+  }
+}

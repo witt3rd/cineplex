@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCO4rvxZ-bJ6uGDeSkMCmzEg",
+  "retrieved_on": "2021-12-05 03:47:33.852094",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "J6ZtE_2ZnpgUaaaZpM-zkMncKcA",
+    "id": "UCO4rvxZ-bJ6uGDeSkMCmzEg",
+    "snippet": {
+      "title": "Bay Area Buggs",
+      "description": "Welcome!\nMy channel is primarily gaming, I started my channel with GTA 4 and a mod called LCPDFR. I have since expanded my channel to not just one game but multiple games. I currently play GTA 5 Role-Play the most. I will continue to play more & more games and hopefully you will join me!\n\n\u25baChannel Art\u25bc\nAll Art Was Created by Tommy Rios\nTommy's Website: http://battletr.wix.com/officialriosdesigns",
+      "customUrl": "bayareabuggs",
+      "publishedAt": "2011-05-14T09:01:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJTtW83RaMqyRkzxvxFSqiKp4WVEYkb3Wh2PgUEQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJTtW83RaMqyRkzxvxFSqiKp4WVEYkb3Wh2PgUEQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTJTtW83RaMqyRkzxvxFSqiKp4WVEYkb3Wh2PgUEQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Bay Area Buggs",
+        "description": "Welcome!\nMy channel is primarily gaming, I started my channel with GTA 4 and a mod called LCPDFR. I have since expanded my channel to not just one game but multiple games. I currently play GTA 5 Role-Play the most. I will continue to play more & more games and hopefully you will join me!\n\n\u25baChannel Art\u25bc\nAll Art Was Created by Tommy Rios\nTommy's Website: http://battletr.wix.com/officialriosdesigns"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUO4rvxZ-bJ6uGDeSkMCmzEg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1168102349",
+      "subscriberCount": "2430000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2961"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Bay Area Buggs",
+        "description": "Welcome!\nMy channel is primarily gaming, I started my channel with GTA 4 and a mod called LCPDFR. I have since expanded my channel to not just one game but multiple games. I currently play GTA 5 Role-Play the most. I will continue to play more & more games and hopefully you will join me!\n\n\u25baChannel Art\u25bc\nAll Art Was Created by Tommy Rios\nTommy's Website: http://battletr.wix.com/officialriosdesigns",
+        "keywords": "Grand Theft Auto Five Multiplayer Simulator mods Gameplay Play-Through Group Friends Funny \"Multiplayer with Mods\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/UnxneGC9jUE2Qzx2BCVcUyTACv_T6FPe0yYw5xHZrkIv1WJRNITUQzb9F1rFsUCDt9cxZT8_"
+      }
+    }
+  }
+}

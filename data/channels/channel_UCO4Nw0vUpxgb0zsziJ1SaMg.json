@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCO4Nw0vUpxgb0zsziJ1SaMg",
+  "retrieved_on": "2021-12-05 03:47:30.682901",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "sjiQnKQabHZ7TOq4HL436Q289Pc",
+    "id": "UCO4Nw0vUpxgb0zsziJ1SaMg",
+    "snippet": {
+      "title": "Justin Brown - Primal Video",
+      "description": "Welcome to Primal Video! Justin and Mike here, and we're all about helping you AMPLIFY your Business & Brand with Video.\n\nIt's not JUST about Video Creation... Sure, we've got video editing tutorials, gear reviews, and a heap of video production tips & tricks to level up the quality of your content. But what good is quality video without an end RESULT?!\n\nOur thoughts exactly. That's why we also cover a TON of Video marketing tips, tactics & strategies, YouTube ranking tutorials and other cool stuff to help you 10X your results from those amazing new videos!\n\nSounding up your alley? Hit that SUBSCRIBE button and we'll see you in the comments!\n\n*FREE GUIDE* How to Edit Video FASTER: http://pvid.io/pvmethod\n\n- ABOUT -\nTwo Brothers: Justin's the 'video guy', with top-level credits and distribution strategy on international film, documentary & extreme sports productions. Mike's the 'process & strategy' side of things, a reformed accountant, Business Development exec and marketer.",
+      "customUrl": "primalvideo",
+      "publishedAt": "2013-04-11T00:06:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTL_W-9K19MMWe6lfwT_cCML50sggZbdB5nXRBVkw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTL_W-9K19MMWe6lfwT_cCML50sggZbdB5nXRBVkw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTL_W-9K19MMWe6lfwT_cCML50sggZbdB5nXRBVkw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Justin Brown - Primal Video",
+        "description": "Welcome to Primal Video! Justin and Mike here, and we're all about helping you AMPLIFY your Business & Brand with Video.\n\nIt's not JUST about Video Creation... Sure, we've got video editing tutorials, gear reviews, and a heap of video production tips & tricks to level up the quality of your content. But what good is quality video without an end RESULT?!\n\nOur thoughts exactly. That's why we also cover a TON of Video marketing tips, tactics & strategies, YouTube ranking tutorials and other cool stuff to help you 10X your results from those amazing new videos!\n\nSounding up your alley? Hit that SUBSCRIBE button and we'll see you in the comments!\n\n*FREE GUIDE* How to Edit Video FASTER: http://pvid.io/pvmethod\n\n- ABOUT -\nTwo Brothers: Justin's the 'video guy', with top-level credits and distribution strategy on international film, documentary & extreme sports productions. Mike's the 'process & strategy' side of things, a reformed accountant, Business Development exec and marketer."
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUO4Nw0vUpxgb0zsziJ1SaMg"
+      }
+    },
+    "statistics": {
+      "viewCount": "99683193",
+      "subscriberCount": "1120000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "416"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Justin Brown - Primal Video",
+        "description": "Welcome to Primal Video! Justin and Mike here, and we're all about helping you AMPLIFY your Business & Brand with Video.\n\nIt's not JUST about Video Creation... Sure, we've got video editing tutorials, gear reviews, and a heap of video production tips & tricks to level up the quality of your content. But what good is quality video without an end RESULT?!\n\nOur thoughts exactly. That's why we also cover a TON of Video marketing tips, tactics & strategies, YouTube ranking tutorials and other cool stuff to help you 10X your results from those amazing new videos!\n\nSounding up your alley? Hit that SUBSCRIBE button and we'll see you in the comments!\n\n*FREE GUIDE* How to Edit Video FASTER: http://pvid.io/pvmethod\n\n- ABOUT -\nTwo Brothers: Justin's the 'video guy', with top-level credits and distribution strategy on international film, documentary & extreme sports productions. Mike's the 'process & strategy' side of things, a reformed accountant, Business Development exec and marketer.",
+        "keywords": "\"Primal Video\" \"Justin Brown\" \"filming with smartphone\" \"video marketing\" \"how to grow on youtube\" \"video editing\" \"edit video faster\" \"how to create videos\" \"how to make youtube videos\" \"how to make videos\" \"youtube tutorial\" \"youtube tips\" \"online video marketing\" \"youtube strategy\" \"best youtube gear\" \"best camera\" \"best video gear\" \"professional video\" \"video production\" \"video with iphone\" \"android video\" \"video with android\" \"best dslr\" \"how to edit video\" \"how to get more subscribers\"",
+        "trackingAnalyticsAccountId": "UA-52656644-2",
+        "moderateComments": true,
+        "unsubscribedTrailer": "XtSBbfkAoCg",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/3bKrxgE_J9V16MPrSHQfPLiJ62MhRPy-7nm2spr5ptKT8RCgoVFpE8DCsHowro2KjNFFpChE5xM"
+      }
+    }
+  }
+}

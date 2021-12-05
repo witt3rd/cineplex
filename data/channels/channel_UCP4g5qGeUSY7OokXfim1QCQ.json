@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCP4g5qGeUSY7OokXfim1QCQ",
+  "retrieved_on": "2021-12-05 03:47:32.562662",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "SsPBTrBbAWsuGzBNoGoG21Mba8U",
+    "id": "UCP4g5qGeUSY7OokXfim1QCQ",
+    "snippet": {
+      "title": "Knoldus Inc.",
+      "description": "Knoldus engineers digital systems with a product mindset to deliver an objective competitive advantage to the business. We modernize enterprises through cutting-edge digital engineering by leveraging Functional Programming (Scala, Rust, Java) and Fast Data (Spark, Flink) ecosystems. Our mission is to provide reactively and streaming fast data solutions that are message-driven, elastic, resilient, and responsive to build High-Performance Systems.\n\nKnoldus is fortified by an expansive network of certified strategic partners like Lightbend (Scala ecosystem), IBM, Datastax(Cassandra and Graph ecosystem), Confluent(Kafka ecosystem), and Databricks(Spark in the Big Data space); helps enterprise clients \u2013 including many Fortune 500 companies \u2013 to create the next-generation capabilities that set them apart and create new opportunities. With a team of 175+ seasoned experts, Knoldus is headquartered in Canada with delivery centres in Chicago, New Delhi, Noida, and Singapore.",
+      "customUrl": "knoldus",
+      "publishedAt": "2015-04-19T09:21:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTqxAQd1Rptf_NRXOdEzPnfbWi6zLBsvjS84m_M6g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTqxAQd1Rptf_NRXOdEzPnfbWi6zLBsvjS84m_M6g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTqxAQd1Rptf_NRXOdEzPnfbWi6zLBsvjS84m_M6g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Knoldus Inc.",
+        "description": "Knoldus engineers digital systems with a product mindset to deliver an objective competitive advantage to the business. We modernize enterprises through cutting-edge digital engineering by leveraging Functional Programming (Scala, Rust, Java) and Fast Data (Spark, Flink) ecosystems. Our mission is to provide reactively and streaming fast data solutions that are message-driven, elastic, resilient, and responsive to build High-Performance Systems.\n\nKnoldus is fortified by an expansive network of certified strategic partners like Lightbend (Scala ecosystem), IBM, Datastax(Cassandra and Graph ecosystem), Confluent(Kafka ecosystem), and Databricks(Spark in the Big Data space); helps enterprise clients \u2013 including many Fortune 500 companies \u2013 to create the next-generation capabilities that set them apart and create new opportunities. With a team of 175+ seasoned experts, Knoldus is headquartered in Canada with delivery centres in Chicago, New Delhi, Noida, and Singapore."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUP4g5qGeUSY7OokXfim1QCQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "279223",
+      "subscriberCount": "1810",
+      "hiddenSubscriberCount": false,
+      "videoCount": "497"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Knoldus Inc.",
+        "description": "Knoldus engineers digital systems with a product mindset to deliver an objective competitive advantage to the business. We modernize enterprises through cutting-edge digital engineering by leveraging Functional Programming (Scala, Rust, Java) and Fast Data (Spark, Flink) ecosystems. Our mission is to provide reactively and streaming fast data solutions that are message-driven, elastic, resilient, and responsive to build High-Performance Systems.\n\nKnoldus is fortified by an expansive network of certified strategic partners like Lightbend (Scala ecosystem), IBM, Datastax(Cassandra and Graph ecosystem), Confluent(Kafka ecosystem), and Databricks(Spark in the Big Data space); helps enterprise clients \u2013 including many Fortune 500 companies \u2013 to create the next-generation capabilities that set them apart and create new opportunities. With a team of 175+ seasoned experts, Knoldus is headquartered in Canada with delivery centres in Chicago, New Delhi, Noida, and Singapore.",
+        "keywords": "\"Functional Programming\" Scala Akka Blockchain Spark Microservices \"Rust Programming Language\" AI/ML \"Artificial Intelligence\" \"Machine Learning\" \"Fast Data Solution\"",
+        "trackingAnalyticsAccountId": "UA-33254737-1",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/cz-H9xJw-W6yakRYEBk6V-kACCDrscrAq6caS_SH_WwSRRGx7D6-9mXo57kfDobDqU0bqu1-"
+      }
+    }
+  }
+}

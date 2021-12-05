@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC2avWDLN1EI3r1RZ_dlSxCw",
+  "retrieved_on": "2021-12-05 03:47:29.188790",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lnpPC_1UOFn-MEGqwQ7zEEpZsyk",
+    "id": "UC2avWDLN1EI3r1RZ_dlSxCw",
+    "snippet": {
+      "title": "Integza",
+      "description": "THIS IS INTEGZA !!!\n\nThis channel is dedicated to making videos about stuff I ( Joel) find interesting or intriguing and that's it, basically.\nFor questions that are not business-related, you can reach me at integza@gmail.com.\n\nIntegza Discord Server:https://discord.gg/Q4SxgyXTDZ\n",
+      "customUrl": "integza",
+      "publishedAt": "2015-08-10T18:28:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2Wpx1LwYIHZMVarwHq3mvrMVRAB44RDVRJuUUhw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2Wpx1LwYIHZMVarwHq3mvrMVRAB44RDVRJuUUhw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2Wpx1LwYIHZMVarwHq3mvrMVRAB44RDVRJuUUhw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Integza",
+        "description": "THIS IS INTEGZA !!!\n\nThis channel is dedicated to making videos about stuff I ( Joel) find interesting or intriguing and that's it, basically.\nFor questions that are not business-related, you can reach me at integza@gmail.com.\n\nIntegza Discord Server:https://discord.gg/Q4SxgyXTDZ\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2avWDLN1EI3r1RZ_dlSxCw"
+      }
+    },
+    "statistics": {
+      "viewCount": "29027528",
+      "subscriberCount": "517000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "64"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Integza",
+        "description": "THIS IS INTEGZA !!!\n\nThis channel is dedicated to making videos about stuff I ( Joel) find interesting or intriguing and that's it, basically.\nFor questions that are not business-related, you can reach me at integza@gmail.com.\n\nIntegza Discord Server:https://discord.gg/Q4SxgyXTDZ\n",
+        "keywords": "Fun Culture Science Engineering",
+        "unsubscribedTrailer": "RExAzZ9xNf0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/idVLjAvJzxswwEFf3saJQNRDQmLhJ8GC98CyBQmo6DSm5sQcXANHZoJA8t6HIqdPY-39TxDV"
+      }
+    }
+  }
+}

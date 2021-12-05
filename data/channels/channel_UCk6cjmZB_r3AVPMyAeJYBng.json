@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCk6cjmZB_r3AVPMyAeJYBng",
+  "retrieved_on": "2021-12-05 03:47:32.562748",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fCOajyJX23-ZWH4vlS12-SrPJmA",
+    "id": "UCk6cjmZB_r3AVPMyAeJYBng",
+    "snippet": {
+      "title": "Jake Roper",
+      "description": "Hi, I'm Jake. I make movies. I also run Vsauce3. \n\nYou're pretty neat.",
+      "customUrl": "jakerawr",
+      "publishedAt": "2014-04-16T19:54:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNFiXj60DFzjefk20XINkymDkoqm5poYmJSv0f=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNFiXj60DFzjefk20XINkymDkoqm5poYmJSv0f=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNFiXj60DFzjefk20XINkymDkoqm5poYmJSv0f=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Jake Roper",
+        "description": "Hi, I'm Jake. I make movies. I also run Vsauce3. \n\nYou're pretty neat."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUk6cjmZB_r3AVPMyAeJYBng"
+      }
+    },
+    "statistics": {
+      "viewCount": "12693229",
+      "subscriberCount": "309000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "108"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jake Roper",
+        "description": "Hi, I'm Jake. I make movies. I also run Vsauce3. \n\nYou're pretty neat.",
+        "keywords": "jake roper rawr vsauce3 tacos",
+        "unsubscribedTrailer": "T5g2mNCdLjs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/4JX2YbUdadoexp4NJXRoktwSQY3HAmJOBD8unP8onqUqrZhVlSs2RJg11ry8ARNSxSxoAOx9nA"
+      }
+    }
+  }
+}

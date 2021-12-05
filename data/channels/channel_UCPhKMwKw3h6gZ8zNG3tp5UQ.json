@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCPhKMwKw3h6gZ8zNG3tp5UQ",
+  "retrieved_on": "2021-12-05 03:47:31.805398",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "htU9rrokaiiYJLpt9XOgLlFutEk",
+    "id": "UCPhKMwKw3h6gZ8zNG3tp5UQ",
+    "snippet": {
+      "title": "Nelly's Security",
+      "description": "We created this channel to allow everyone access to our security videos.  We have many different security videos uploaded such as tutorials, comparisons, and general information.  We extensively test our products and create the videos to help our customers with a visual aid and easy to follow instructions.",
+      "customUrl": "nellyssecurity",
+      "publishedAt": "2011-03-02T23:49:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThZaPfYTkkkx8VzEFrj9QImBv2GKi-kRerl21A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThZaPfYTkkkx8VzEFrj9QImBv2GKi-kRerl21A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThZaPfYTkkkx8VzEFrj9QImBv2GKi-kRerl21A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Nelly's Security",
+        "description": "We created this channel to allow everyone access to our security videos.  We have many different security videos uploaded such as tutorials, comparisons, and general information.  We extensively test our products and create the videos to help our customers with a visual aid and easy to follow instructions."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPhKMwKw3h6gZ8zNG3tp5UQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "6489907",
+      "subscriberCount": "28400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "283"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Nelly's Security",
+        "description": "We created this channel to allow everyone access to our security videos.  We have many different security videos uploaded such as tutorials, comparisons, and general information.  We extensively test our products and create the videos to help our customers with a visual aid and easy to follow instructions.",
+        "keywords": "\"security camera\" \"security camera wholesale\" \"security camera custom branding\" \"best security cameras\" \"surveillance system\" \"surveillance equipment\" \"security camera supplier\" cctv",
+        "unsubscribedTrailer": "KGflHGqrsUs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/0-4d2Siyen7BLxe4Hh6442wQSBrrkY8ZQ1wyng1HvCWxLhErLOkJHZ7BEorsxT3iGZ47pqRz77Y"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCjCpZyil4D8TBb5nVTMMaUw",
+  "retrieved_on": "2021-12-05 03:47:30.163049",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "XntPzXEuYMMt4Sh_92b_GhSsQ7A",
+    "id": "UCjCpZyil4D8TBb5nVTMMaUw",
+    "snippet": {
+      "title": "Dapper Dino",
+      "description": "Welcome to the channel. I'm here to introduce people to coding and give them the motivation and assistance that they need to start the projects that would otherwise never be conceived. Be sure to subscribe if you like what you see and I would highly recommend joining our Discord server to stay up to date with what's going on in our community and take part in helping others or in our small organised events. Be sure to also check out all our social media pages and I'll be seeing you around. Dapper Dino, Coding: Easy as 1, 2, Tea\n\nChannel Logo and Banner created by: https://www.instagram.com/silvesii/",
+      "customUrl": "dapperdinocodingtutorials",
+      "publishedAt": "2018-02-26T18:13:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTwecwpZ8XenagM27bnIVWXaOwyxaXYCjNb3SYMoA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTwecwpZ8XenagM27bnIVWXaOwyxaXYCjNb3SYMoA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTwecwpZ8XenagM27bnIVWXaOwyxaXYCjNb3SYMoA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dapper Dino",
+        "description": "Welcome to the channel. I'm here to introduce people to coding and give them the motivation and assistance that they need to start the projects that would otherwise never be conceived. Be sure to subscribe if you like what you see and I would highly recommend joining our Discord server to stay up to date with what's going on in our community and take part in helping others or in our small organised events. Be sure to also check out all our social media pages and I'll be seeing you around. Dapper Dino, Coding: Easy as 1, 2, Tea\n\nChannel Logo and Banner created by: https://www.instagram.com/silvesii/"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUjCpZyil4D8TBb5nVTMMaUw"
+      }
+    },
+    "statistics": {
+      "viewCount": "4613507",
+      "subscriberCount": "47300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "414"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dapper Dino",
+        "description": "Welcome to the channel. I'm here to introduce people to coding and give them the motivation and assistance that they need to start the projects that would otherwise never be conceived. Be sure to subscribe if you like what you see and I would highly recommend joining our Discord server to stay up to date with what's going on in our community and take part in helping others or in our small organised events. Be sure to also check out all our social media pages and I'll be seeing you around. Dapper Dino, Coding: Easy as 1, 2, Tea\n\nChannel Logo and Banner created by: https://www.instagram.com/silvesii/",
+        "keywords": "Unity C# Dapper Dino Discord Bot",
+        "unsubscribedTrailer": "4Mf81GdEDU8",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/OVoB77gkaQ0ef-vehAslDG_m-t19OD4euumkU79E3mYfvaWsjPYZkRrobghoOrJNmP_Z5R_atg"
+      }
+    }
+  }
+}

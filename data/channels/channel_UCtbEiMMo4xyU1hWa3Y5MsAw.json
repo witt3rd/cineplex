@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCtbEiMMo4xyU1hWa3Y5MsAw",
+  "retrieved_on": "2021-12-05 03:47:33.852110",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "6RkNUjwONTKzD3bzpU-5AByFcUk",
+    "id": "UCtbEiMMo4xyU1hWa3Y5MsAw",
+    "snippet": {
+      "title": "Pragmatic Entertainment",
+      "description": "Welcome to the channel!\n\nYou can expect videos that at least are entertaining, but ideally contain a message that can make life better, truthful and more beautiful. Knowledge with an emphasis on practical application. \n\nWith the right frame of mind almost everything is interesting. Some of my interests include: science, philosophy, psychology, personal growth, literature, and yes... a little politics.\n\nIf you like what you see, please subscribe to the channel. This is just the beginning",
+      "customUrl": "pragmaticentertainment",
+      "publishedAt": "2006-10-18T16:00:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/0bu4drC3cwvsgbM1Y0dqIhAIwgab7Y_5yT6PjCF_05DLpaEkNKLdc49d5RdtZrXFj6sSYIjf5g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/0bu4drC3cwvsgbM1Y0dqIhAIwgab7Y_5yT6PjCF_05DLpaEkNKLdc49d5RdtZrXFj6sSYIjf5g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/0bu4drC3cwvsgbM1Y0dqIhAIwgab7Y_5yT6PjCF_05DLpaEkNKLdc49d5RdtZrXFj6sSYIjf5g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Pragmatic Entertainment",
+        "description": "Welcome to the channel!\n\nYou can expect videos that at least are entertaining, but ideally contain a message that can make life better, truthful and more beautiful. Knowledge with an emphasis on practical application. \n\nWith the right frame of mind almost everything is interesting. Some of my interests include: science, philosophy, psychology, personal growth, literature, and yes... a little politics.\n\nIf you like what you see, please subscribe to the channel. This is just the beginning"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtbEiMMo4xyU1hWa3Y5MsAw"
+      }
+    },
+    "statistics": {
+      "viewCount": "10420652",
+      "subscriberCount": "31500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "134"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Pragmatic Entertainment",
+        "description": "Welcome to the channel!\n\nYou can expect videos that at least are entertaining, but ideally contain a message that can make life better, truthful and more beautiful. Knowledge with an emphasis on practical application. \n\nWith the right frame of mind almost everything is interesting. Some of my interests include: science, philosophy, psychology, personal growth, literature, and yes... a little politics.\n\nIf you like what you see, please subscribe to the channel. This is just the beginning",
+        "unsubscribedTrailer": "jdDBXFXTvWI"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/0GVcdpBxnf19u_evUCwBlRFxixkakgXlIqB-Ir_27kBuYvikPAZWirqkI-5H-pDLTDDruWAL5w"
+      }
+    }
+  }
+}

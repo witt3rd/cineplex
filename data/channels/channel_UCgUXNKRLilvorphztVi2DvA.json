@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCgUXNKRLilvorphztVi2DvA",
+  "retrieved_on": "2021-12-05 03:47:38.478904",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5XfBawq1WrkpK1grGOMN3XbFdlA",
+    "id": "UCgUXNKRLilvorphztVi2DvA",
+    "snippet": {
+      "title": "Martin Klekner",
+      "description": "Freelance Director, CG Artist\nFormer Cinematic Director for Kingdom Come Deliverance\nwww.kingdomcomerpg.com",
+      "customUrl": "martinklekner",
+      "publishedAt": "2006-05-01T14:04:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-Q4eT9UWtjNkglQtEkELfaLRORSuiubH59g--Og=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-Q4eT9UWtjNkglQtEkELfaLRORSuiubH59g--Og=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-Q4eT9UWtjNkglQtEkELfaLRORSuiubH59g--Og=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Martin Klekner",
+        "description": "Freelance Director, CG Artist\nFormer Cinematic Director for Kingdom Come Deliverance\nwww.kingdomcomerpg.com"
+      },
+      "country": "CZ"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgUXNKRLilvorphztVi2DvA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1378526",
+      "subscriberCount": "33300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "75"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Martin Klekner",
+        "description": "Freelance Director, CG Artist\nFormer Cinematic Director for Kingdom Come Deliverance\nwww.kingdomcomerpg.com",
+        "keywords": "Ancient Greece 3D Blender Substance Heroes Bronze History Tutorial",
+        "unsubscribedTrailer": "auG6nB4Ri2o",
+        "country": "CZ"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/AY3k68dqFu-M4KKAPWx7XA3RlKFjCz8QQ3tvClQgegz3GoKdqzirQFdDZmaCDz9Wz3oyT8TMvQ"
+      }
+    }
+  }
+}

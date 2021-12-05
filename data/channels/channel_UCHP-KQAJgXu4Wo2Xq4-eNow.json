@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCHP-KQAJgXu4Wo2Xq4-eNow",
+  "retrieved_on": "2021-12-05 03:47:35.856848",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "AulpD5uqHmEerPyatwuWJG_xIIs",
+    "id": "UCHP-KQAJgXu4Wo2Xq4-eNow",
+    "snippet": {
+      "title": "Reverb",
+      "description": "Reverb.com is the online marketplace to buy, sell, and learn about new, used, and vintage music gear. \n\nSince launching in 2013, Reverb's YouTube channel has grown into one of the world\u2019s most popular music gear channels, connecting millions of people around the world to the gear and inspiration they need to make music.",
+      "customUrl": "reverb",
+      "publishedAt": "2012-12-29T15:09:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQKwcE-Fae7PTwuIZBaWkBTdLHkTjnsmDOI_83r0w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQKwcE-Fae7PTwuIZBaWkBTdLHkTjnsmDOI_83r0w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQKwcE-Fae7PTwuIZBaWkBTdLHkTjnsmDOI_83r0w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Reverb",
+        "description": "Reverb.com is the online marketplace to buy, sell, and learn about new, used, and vintage music gear. \n\nSince launching in 2013, Reverb's YouTube channel has grown into one of the world\u2019s most popular music gear channels, connecting millions of people around the world to the gear and inspiration they need to make music."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHP-KQAJgXu4Wo2Xq4-eNow"
+      }
+    },
+    "statistics": {
+      "viewCount": "183865340",
+      "subscriberCount": "719000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2225"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Reverb",
+        "description": "Reverb.com is the online marketplace to buy, sell, and learn about new, used, and vintage music gear. \n\nSince launching in 2013, Reverb's YouTube channel has grown into one of the world\u2019s most popular music gear channels, connecting millions of people around the world to the gear and inspiration they need to make music.",
+        "keywords": "Reverb Marketplace Gear Instruments Music Demos Lessons \"Musical Instruments\"",
+        "trackingAnalyticsAccountId": "UA-15611038-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "XGKQZKXSx-0"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/tzjnH9qevtsU4Ro2m8XYVfYJLRXswTVK3ZwX8vnbmTPq2WlLY966M1oVYPhNx6UwnR4Dcu5Kvw"
+      }
+    }
+  }
+}

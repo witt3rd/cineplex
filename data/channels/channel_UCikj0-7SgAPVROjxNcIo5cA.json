@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCikj0-7SgAPVROjxNcIo5cA",
+  "retrieved_on": "2021-12-05 03:47:40.782206",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "XLFWLCR2kv6ZFs9W9hguz5oU-8Q",
+    "id": "UCikj0-7SgAPVROjxNcIo5cA",
+    "snippet": {
+      "title": "Front 242 - Topic",
+      "description": "Front 242 is a Belgian electronic music group that came into prominence during the 1980s. Pioneering the style they called electronic body music, they are a profound influence on the electronic and industrial music genres.",
+      "publishedAt": "2013-07-20T07:08:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/a2Yh3jNUQuSBFjZolQhHNJPsy-Z2kB3jlpNBN8YPSjbjtjRI7NDlS0c2Khe6LYEYVKqKq3bWxA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/a2Yh3jNUQuSBFjZolQhHNJPsy-Z2kB3jlpNBN8YPSjbjtjRI7NDlS0c2Khe6LYEYVKqKq3bWxA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/a2Yh3jNUQuSBFjZolQhHNJPsy-Z2kB3jlpNBN8YPSjbjtjRI7NDlS0c2Khe6LYEYVKqKq3bWxA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Front 242 - Topic",
+        "description": "Front 242 is a Belgian electronic music group that came into prominence during the 1980s. Pioneering the style they called electronic body music, they are a profound influence on the electronic and industrial music genres."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUikj0-7SgAPVROjxNcIo5cA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2464623",
+      "subscriberCount": "8450",
+      "hiddenSubscriberCount": false,
+      "videoCount": "421"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Front 242 - Topic",
+        "description": "Front 242 is a Belgian electronic music group that came into prominence during the 1980s. Pioneering the style they called electronic body music, they are a profound influence on the electronic and industrial music genres."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/_a_rpJw0DZuIz-6uG0sGQS_ivcGqlFu4mCilFPytpL6RH9nhTYW9QtUfS-JibJSQ8KBGjupW"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCd_lJ4zSp9wZDNyeKCWUstg",
+  "retrieved_on": "2021-12-05 03:47:39.693682",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mriO088aPgy0Xq9HVKuy2onQwWQ",
+    "id": "UCd_lJ4zSp9wZDNyeKCWUstg",
+    "snippet": {
+      "title": "Ask Gamedev",
+      "description": "We're a group of game industry veterans that make videos on the game development industry and how to make video games.\n\nWorking in videogames we get a lot of questions from friends, family, and people that are either curious about the industry, wanting to get started in the industry, or simply just love talking games. \n\nThis channel is for anyone that wants to know about the insiders perspective on game development. \n\nAsk a Question!\nWe answer your #gamedev questions! If you\u2019re curious about anything in the game development world, leave a comment or tweet us at @askgamedev \n\nFollow us:\nFacebook: https://www.facebook.com/askgamedev/\nInstagram: https://www.instagram.com/askgamedev/\nTwitter: https://twitter.com/askgamedev \nWeb: http://www.askgamedev.com\n\nAttribution:\nEmoji artwork by EmojiOne (https://www.emojione.com)\nComputer icon by Twemoji (https://github.com/twitter/twemoji)",
+      "customUrl": "askgamedev",
+      "publishedAt": "2017-10-17T22:36:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSPG_do4_gbBWG3USgxgu9t0CJzjQV4VkcV2gcR=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSPG_do4_gbBWG3USgxgu9t0CJzjQV4VkcV2gcR=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSPG_do4_gbBWG3USgxgu9t0CJzjQV4VkcV2gcR=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ask Gamedev",
+        "description": "We're a group of game industry veterans that make videos on the game development industry and how to make video games.\n\nWorking in videogames we get a lot of questions from friends, family, and people that are either curious about the industry, wanting to get started in the industry, or simply just love talking games. \n\nThis channel is for anyone that wants to know about the insiders perspective on game development. \n\nAsk a Question!\nWe answer your #gamedev questions! If you\u2019re curious about anything in the game development world, leave a comment or tweet us at @askgamedev \n\nFollow us:\nFacebook: https://www.facebook.com/askgamedev/\nInstagram: https://www.instagram.com/askgamedev/\nTwitter: https://twitter.com/askgamedev \nWeb: http://www.askgamedev.com\n\nAttribution:\nEmoji artwork by EmojiOne (https://www.emojione.com)\nComputer icon by Twemoji (https://github.com/twitter/twemoji)"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUd_lJ4zSp9wZDNyeKCWUstg"
+      }
+    },
+    "statistics": {
+      "viewCount": "9642705",
+      "subscriberCount": "195000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "114"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ask Gamedev",
+        "description": "We're a group of game industry veterans that make videos on the game development industry and how to make video games.\n\nWorking in videogames we get a lot of questions from friends, family, and people that are either curious about the industry, wanting to get started in the industry, or simply just love talking games. \n\nThis channel is for anyone that wants to know about the insiders perspective on game development. \n\nAsk a Question!\nWe answer your #gamedev questions! If you\u2019re curious about anything in the game development world, leave a comment or tweet us at @askgamedev \n\nFollow us:\nFacebook: https://www.facebook.com/askgamedev/\nInstagram: https://www.instagram.com/askgamedev/\nTwitter: https://twitter.com/askgamedev \nWeb: http://www.askgamedev.com\n\nAttribution:\nEmoji artwork by EmojiOne (https://www.emojione.com)\nComputer icon by Twemoji (https://github.com/twitter/twemoji)",
+        "keywords": "\"video game development\" gamedev \"video game engines\" indie video development Godot unreal unity Buildbox gamemaker games \"inde games\" software",
+        "trackingAnalyticsAccountId": "UA-34936561-8",
+        "unsubscribedTrailer": "NgmpQm58qzg",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/kz9p74R6bDjbEZujnEkEr2ovvYjl7w3zG5yYvFx2Gugm_nZ1GRC-hROS__1W2didQW81fxh0"
+      }
+    }
+  }
+}

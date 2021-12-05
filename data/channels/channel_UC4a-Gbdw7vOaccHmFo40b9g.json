@@ -1,0 +1,63 @@
+{
+  "channel_id": "UC4a-Gbdw7vOaccHmFo40b9g",
+  "retrieved_on": "2021-12-05 03:47:29.852512",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "WJmYOFu30MCZtwHGLLPcJ5f1CcY",
+    "id": "UC4a-Gbdw7vOaccHmFo40b9g",
+    "snippet": {
+      "title": "Khan Academy",
+      "description": "Khan Academy is a 501(c)(3) nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Our interactive practice problems, articles, and videos help students succeed in math, biology, chemistry, physics, history, economics, finance, grammar, and many other topics. \n\nKhan Academy provides teachers with data on how their students are doing so they can identify gaps in learning and provide tailored instruction. We  also offer free personalized SAT and LSAT practice in partnership with the College Board and the Law School Admission Council. \n\nOur resources have been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy each month.",
+      "customUrl": "khanacademy",
+      "publishedAt": "2006-11-17T02:12:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR6qTmyVat23xumcrc-FO1kqvP3VziTqQNK6dz8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR6qTmyVat23xumcrc-FO1kqvP3VziTqQNK6dz8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR6qTmyVat23xumcrc-FO1kqvP3VziTqQNK6dz8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Khan Academy",
+        "description": "Khan Academy is a 501(c)(3) nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Our interactive practice problems, articles, and videos help students succeed in math, biology, chemistry, physics, history, economics, finance, grammar, and many other topics. \n\nKhan Academy provides teachers with data on how their students are doing so they can identify gaps in learning and provide tailored instruction. We  also offer free personalized SAT and LSAT practice in partnership with the College Board and the Law School Admission Council. \n\nOur resources have been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy each month."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4a-Gbdw7vOaccHmFo40b9g"
+      }
+    },
+    "statistics": {
+      "viewCount": "1925783917",
+      "subscriberCount": "7000000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "8140"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Khan Academy",
+        "description": "Khan Academy is a 501(c)(3) nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Our interactive practice problems, articles, and videos help students succeed in math, biology, chemistry, physics, history, economics, finance, grammar, and many other topics. \n\nKhan Academy provides teachers with data on how their students are doing so they can identify gaps in learning and provide tailored instruction. We  also offer free personalized SAT and LSAT practice in partnership with the College Board and the Law School Admission Council. \n\nOur resources have been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy each month.",
+        "keywords": "\"free online classes\" \"math tutorials\" \"science tutorials\" \"online education\" \"video classes\" \"arts and humanities videos\" \"online lessons\" \"online learning\"",
+        "trackingAnalyticsAccountId": "UA-22062823-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "I8XdUy-wyyM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/c12IFsoSGduhzK--P4CswSY5oy6Gib4CkSRi1Y7rGzc4N-gsFaA5kWnDMfpHo4NnC0wBlHAohQ"
+      }
+    }
+  }
+}

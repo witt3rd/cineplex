@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCR35rzd4LLomtQout93gi0w",
+  "retrieved_on": "2021-12-05 03:47:28.057500",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "OZUvZSMOeVtT48Bsx6Nvj75Di4Y",
+    "id": "UCR35rzd4LLomtQout93gi0w",
+    "snippet": {
+      "title": "Game Dev Guide",
+      "description": "Learn how to make games in Unity!\n\nHosted by Matt Gambell an independent Game Developer (and former evangelist for Unity Technologies). Game Dev Guide videos offer easy to digest tips, tricks and tutorials using professional experience within a wide variety of game development topics. \n\nWith an entertaining presentation style and an engineering focused approach to problem solving, Game Dev Guide offers scalable solutions to your everyday development problems without wasting your time.\n",
+      "customUrl": "gamedevguide",
+      "publishedAt": "2019-02-27T02:26:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSfpRjSVQjGmIJzFqaW7No6pC6lXo3rMLDHKCQB9A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSfpRjSVQjGmIJzFqaW7No6pC6lXo3rMLDHKCQB9A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSfpRjSVQjGmIJzFqaW7No6pC6lXo3rMLDHKCQB9A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Game Dev Guide",
+        "description": "Learn how to make games in Unity!\n\nHosted by Matt Gambell an independent Game Developer (and former evangelist for Unity Technologies). Game Dev Guide videos offer easy to digest tips, tricks and tutorials using professional experience within a wide variety of game development topics. \n\nWith an entertaining presentation style and an engineering focused approach to problem solving, Game Dev Guide offers scalable solutions to your everyday development problems without wasting your time.\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUR35rzd4LLomtQout93gi0w"
+      }
+    },
+    "statistics": {
+      "viewCount": "2654238",
+      "subscriberCount": "77300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "36"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Game Dev Guide",
+        "description": "Learn how to make games in Unity!\n\nHosted by Matt Gambell an independent Game Developer (and former evangelist for Unity Technologies). Game Dev Guide videos offer easy to digest tips, tricks and tutorials using professional experience within a wide variety of game development topics. \n\nWith an entertaining presentation style and an engineering focused approach to problem solving, Game Dev Guide offers scalable solutions to your everyday development problems without wasting your time.\n",
+        "keywords": "unity game development tutorials \"learn unity\" \"how to make games\" \"make games in unity\" videogames gamedev guide programming \"getting started making games\" \"matt gambell\"",
+        "unsubscribedTrailer": "Jufdyjl6poo",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/o2wRJi8TpHTL8g0SfN5dUPLxBbjtDAxKPjvt3vWFCMcdVUOO1NCiNE6SDNskp-3Jjh3A3Qcp"
+      }
+    }
+  }
+}

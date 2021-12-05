@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCYO7h2SOZjRah8bhyOXtGHw",
+  "retrieved_on": "2021-12-05 03:47:38.852445",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "XkHuX98KU8dLzvZqiLbcsafdyaU",
+    "id": "UCYO7h2SOZjRah8bhyOXtGHw",
+    "snippet": {
+      "title": "Alex Proyas",
+      "description": "All things Alex Proyas... Director of THE CROW, DARK CITY, I ROBOT, KNOWING, GODS OF EGYPT",
+      "customUrl": "mysteryclockcinema",
+      "publishedAt": "2016-07-31T07:18:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/T7EH1PLoEhr1w30eKlNz-kjpA14RsN5Z47c1fzmOmiZnj1VD7h6pqGYgVEsaR-tdrg7ZjLr4=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/T7EH1PLoEhr1w30eKlNz-kjpA14RsN5Z47c1fzmOmiZnj1VD7h6pqGYgVEsaR-tdrg7ZjLr4=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/T7EH1PLoEhr1w30eKlNz-kjpA14RsN5Z47c1fzmOmiZnj1VD7h6pqGYgVEsaR-tdrg7ZjLr4=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Alex Proyas",
+        "description": "All things Alex Proyas... Director of THE CROW, DARK CITY, I ROBOT, KNOWING, GODS OF EGYPT"
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYO7h2SOZjRah8bhyOXtGHw"
+      }
+    },
+    "statistics": {
+      "viewCount": "167835",
+      "subscriberCount": "6100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "57"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Alex Proyas",
+        "description": "All things Alex Proyas... Director of THE CROW, DARK CITY, I ROBOT, KNOWING, GODS OF EGYPT",
+        "keywords": "Proyas movies philosophy filmmaker resource \"Alex Proyas\"",
+        "unsubscribedTrailer": "KjmCw3HsW7g",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/HiXVETZLY1Zr6tnTUSeXM1vP752o2P7o5TJLm6OZFacd6ImIAF3QijqICiL0tYyjHtxcmjIPep0"
+      }
+    }
+  }
+}

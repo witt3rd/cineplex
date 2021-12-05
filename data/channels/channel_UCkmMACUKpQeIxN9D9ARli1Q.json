@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCkmMACUKpQeIxN9D9ARli1Q",
+  "retrieved_on": "2021-12-05 03:47:31.215438",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "OEgc8iMOHVg8arF5cCm6rgsRq2M",
+    "id": "UCkmMACUKpQeIxN9D9ARli1Q",
+    "snippet": {
+      "title": "Shadiversity",
+      "description": "WELCOME!\n\nHere you'll find such videos related but not limited to:\n\nSWORDS, Science fiction, fantasy, philosophy and SWORDS!\n\nSo really anything related to being a nerd.",
+      "publishedAt": "2013-08-07T02:31:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfqFh12PYkkvPyqVW-djYVePitVNEFClwZogi7WQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfqFh12PYkkvPyqVW-djYVePitVNEFClwZogi7WQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfqFh12PYkkvPyqVW-djYVePitVNEFClwZogi7WQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Shadiversity",
+        "description": "WELCOME!\n\nHere you'll find such videos related but not limited to:\n\nSWORDS, Science fiction, fantasy, philosophy and SWORDS!\n\nSo really anything related to being a nerd."
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkmMACUKpQeIxN9D9ARli1Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "202841077",
+      "subscriberCount": "1280000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "561"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Shadiversity",
+        "description": "WELCOME!\n\nHere you'll find such videos related but not limited to:\n\nSWORDS, Science fiction, fantasy, philosophy and SWORDS!\n\nSo really anything related to being a nerd.",
+        "keywords": "Pop culture swords medieval education castle castles middle ages rpg fantasy video game roleplaying role",
+        "unsubscribedTrailer": "Y1mo5TvHJrM",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/C5yXlZGnTPMo_58c0r8iVIaLLVN28at4m1l1IQ6AlXt-oUP_-AXSkj1DsNZhD5LD5941AU26Ng"
+      }
+    }
+  }
+}

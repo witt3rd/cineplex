@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCJquYOG5EL82sKTfH9aMA9Q",
+  "retrieved_on": "2021-12-05 03:47:31.805410",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "gYiCr1KVfR8flPdBI3pxoziqnNE",
+    "id": "UCJquYOG5EL82sKTfH9aMA9Q",
+    "snippet": {
+      "title": "Rick Beato",
+      "description": "Everything Music",
+      "customUrl": "rickbeato",
+      "publishedAt": "2006-05-23T21:13:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT6ck5p3kvuEMSLqzf9aviTcwthTLwoSZnjuJAvhw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT6ck5p3kvuEMSLqzf9aviTcwthTLwoSZnjuJAvhw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT6ck5p3kvuEMSLqzf9aviTcwthTLwoSZnjuJAvhw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rick Beato",
+        "description": "Everything Music"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJquYOG5EL82sKTfH9aMA9Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "375990468",
+      "subscriberCount": "2680000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "907"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rick Beato",
+        "description": "Everything Music",
+        "keywords": "\"music theory\" \"jazz improvisation\" guitar piano lesson lecture \"perfect pitch\" learn \"film scoring\" \"music production\" \"What Makes This Song Great?\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "iioDUyYb4Fs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/eQLr0tOKbUf2UqOfIZ2WQGxXouOl3xxA8VN4bCjG9_WyduAvNYBWRv9nWkLrTBQ9rhx9YEH5mA"
+      }
+    }
+  }
+}

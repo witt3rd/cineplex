@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCh1XXAWClU4QKAxnH8ksKEQ",
+  "retrieved_on": "2021-12-05 03:47:34.534424",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "D7ZqTq1IApYjcZw0090gi2SbbZE",
+    "id": "UCh1XXAWClU4QKAxnH8ksKEQ",
+    "snippet": {
+      "title": "intellectgrime",
+      "description": "Hi there! I'm Mai, an Egyptian artist and academic who loves pushing the boundaries of thought. Stick around if you'd like to have some interesting and meaningful conversations with like-minded people. ",
+      "customUrl": "intellectgrime",
+      "publishedAt": "2017-08-20T11:14:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtqhTjpnJwuS9AQj95jyUsx_RlX4oKWuBDlqiuEQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtqhTjpnJwuS9AQj95jyUsx_RlX4oKWuBDlqiuEQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtqhTjpnJwuS9AQj95jyUsx_RlX4oKWuBDlqiuEQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "intellectgrime",
+        "description": "Hi there! I'm Mai, an Egyptian artist and academic who loves pushing the boundaries of thought. Stick around if you'd like to have some interesting and meaningful conversations with like-minded people. "
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUh1XXAWClU4QKAxnH8ksKEQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "177151",
+      "hiddenSubscriberCount": true,
+      "videoCount": "113"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "intellectgrime",
+        "description": "Hi there! I'm Mai, an Egyptian artist and academic who loves pushing the boundaries of thought. Stick around if you'd like to have some interesting and meaningful conversations with like-minded people. ",
+        "keywords": "philosophy poetry \"language learning\" discourse theories ideas \"philosophy student\" study poet",
+        "unsubscribedTrailer": "h1aw5vPEXfk",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Ic2DrD5mXjeB4ZY_bPRL4diAyWtUQTdGJ7uTxOXRj-cYWutAn9ITsTvrEqDfWyvQSp-EfTyDQw"
+      }
+    }
+  }
+}

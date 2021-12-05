@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCc-N24Y5OA0gqbjBwe1ttfA",
+  "retrieved_on": "2021-12-05 03:47:28.057563",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "NTBBD9pwAoxDO9pn0end3DSLufc",
+    "id": "UCc-N24Y5OA0gqbjBwe1ttfA",
+    "snippet": {
+      "title": "Weird History",
+      "description": "Welcome to the chronicles of history that your social studies class never covered in high school. This is for the extreme, the unexpected, the untold and the flat-out weird parts of history. Because as weird as people seem today, we don't hold a candle to history.",
+      "customUrl": "weirdhistory",
+      "publishedAt": "2017-06-06T18:02:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTiNfocLifjSbvVnn4UFWQSVK85Pmy6z-Cvo_sv=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTiNfocLifjSbvVnn4UFWQSVK85Pmy6z-Cvo_sv=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTiNfocLifjSbvVnn4UFWQSVK85Pmy6z-Cvo_sv=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Weird History",
+        "description": "Welcome to the chronicles of history that your social studies class never covered in high school. This is for the extreme, the unexpected, the untold and the flat-out weird parts of history. Because as weird as people seem today, we don't hold a candle to history."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUc-N24Y5OA0gqbjBwe1ttfA"
+      }
+    },
+    "statistics": {
+      "viewCount": "401195393",
+      "subscriberCount": "3440000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "451"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Weird History",
+        "description": "Welcome to the chronicles of history that your social studies class never covered in high school. This is for the extreme, the unexpected, the untold and the flat-out weird parts of history. Because as weird as people seem today, we don't hold a candle to history.",
+        "keywords": "\"weird history\" \"historical facts\" history \"history cartoons\" \"history of\" entertainment education",
+        "unsubscribedTrailer": "Rvugv3QYSdM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/H_IoVhMJqoJ8p-bCCrtNbYQA7EnsRjDq9LBIQ4sB5swWAKT1xKfoN1H8HRB91_yeG0mn7b9fjA"
+      }
+    }
+  }
+}

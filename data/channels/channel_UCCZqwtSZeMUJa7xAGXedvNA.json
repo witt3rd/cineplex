@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCCZqwtSZeMUJa7xAGXedvNA",
+  "retrieved_on": "2021-12-05 03:47:34.534395",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "PArMqDuuYw7Aj4btpE3sl8yemLg",
+    "id": "UCCZqwtSZeMUJa7xAGXedvNA",
+    "snippet": {
+      "title": "DCP Web Designers",
+      "description": "Welcome to DCP Web Designers YouTube Channel. If you want to learn new tech skills then our channel is the right place for you. You can find 700+ free video tutorials on a wide range of software apps such as:\n\nGIMP\nPhotoshop\nBlender 3D\nMovie Edit Pro\nDavinci Resolve\nPremiere Pro\nLibre Office Cal, Writer, Impress\nOpenOffice Cal, Writer, Impress\nMicrosoft Excel Word, Outlook, Powerpoint\nFacebook, Twitter, Pinterest, Instagram\nYouTube\nGoogle Chrome\nHTML5 and CSS3\nWoocommerce\nWordPress \nSmall Business Bookkeeping\nGoogle Chrome \nPayPal\n\nMy ultimate goal is to share as much of my knowledge as possible for FREE! Why may ask why am I doing that? Well, someone had to teach me right? So why not share that knowledge and help other people? Lots of my knowledge has been gained from reading many books over the years, but I find video tutorials are easier to understand and follow. So, join me on this knowledge journey and don't forget to have fun!\n\nPankaj Shah\n\nDCP Web Designers\n\nwww.dcpweb.co.uk\n",
+      "customUrl": "dcpwebdesigners",
+      "publishedAt": "2010-03-12T00:42:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2vxswCjGTJ76aCQp9NQmUZx1Jdf2F9TWlqu4qObI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2vxswCjGTJ76aCQp9NQmUZx1Jdf2F9TWlqu4qObI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2vxswCjGTJ76aCQp9NQmUZx1Jdf2F9TWlqu4qObI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DCP Web Designers",
+        "description": "Welcome to DCP Web Designers YouTube Channel. If you want to learn new tech skills then our channel is the right place for you. You can find 700+ free video tutorials on a wide range of software apps such as:\n\nGIMP\nPhotoshop\nBlender 3D\nMovie Edit Pro\nDavinci Resolve\nPremiere Pro\nLibre Office Cal, Writer, Impress\nOpenOffice Cal, Writer, Impress\nMicrosoft Excel Word, Outlook, Powerpoint\nFacebook, Twitter, Pinterest, Instagram\nYouTube\nGoogle Chrome\nHTML5 and CSS3\nWoocommerce\nWordPress \nSmall Business Bookkeeping\nGoogle Chrome \nPayPal\n\nMy ultimate goal is to share as much of my knowledge as possible for FREE! Why may ask why am I doing that? Well, someone had to teach me right? So why not share that knowledge and help other people? Lots of my knowledge has been gained from reading many books over the years, but I find video tutorials are easier to understand and follow. So, join me on this knowledge journey and don't forget to have fun!\n\nPankaj Shah\n\nDCP Web Designers\n\nwww.dcpweb.co.uk\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUCZqwtSZeMUJa7xAGXedvNA"
+      }
+    },
+    "statistics": {
+      "viewCount": "9497743",
+      "subscriberCount": "48400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "758"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "DCP Web Designers",
+        "description": "Welcome to DCP Web Designers YouTube Channel. If you want to learn new tech skills then our channel is the right place for you. You can find 700+ free video tutorials on a wide range of software apps such as:\n\nGIMP\nPhotoshop\nBlender 3D\nMovie Edit Pro\nDavinci Resolve\nPremiere Pro\nLibre Office Cal, Writer, Impress\nOpenOffice Cal, Writer, Impress\nMicrosoft Excel Word, Outlook, Powerpoint\nFacebook, Twitter, Pinterest, Instagram\nYouTube\nGoogle Chrome\nHTML5 and CSS3\nWoocommerce\nWordPress \nSmall Business Bookkeeping\nGoogle Chrome \nPayPal\n\nMy ultimate goal is to share as much of my knowledge as possible for FREE! Why may ask why am I doing that? Well, someone had to teach me right? So why not share that knowledge and help other people? Lots of my knowledge has been gained from reading many books over the years, but I find video tutorials are easier to understand and follow. So, join me on this knowledge journey and don't forget to have fun!\n\nPankaj Shah\n\nDCP Web Designers\n\nwww.dcpweb.co.uk\n",
+        "keywords": "\"Woocommerce tutorial\" \"wordpress tutorial\" \"bookkeeping tutorial\" \"graphic design tutorial\" \"social media tutorial\" \"web design tutorial\" \"premiere pro tutorial\" \"gimp tutorial\" \"davinci resolve tutorial\" \"blender 3d tutorial\" \"facebook tutorial\" \"twitter tutorial\" \"bookkeeping tutorial\" \"excel tutorial\" \"word tutorial\" \"libre office tutorial\" \"open office tutorial\" \"powerpoint tutorial\" \"google chrome tutorial\" \"photoshop tutorial\" \"software tutorials\" \"SEO tutorial\" \"social media tutorial\"",
+        "unsubscribedTrailer": "6CgO6eg7VWI",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ClftoyPfKdq2BU9BvsJhM6U77Ceakg56vB5Lrp8CbOKcYapJ1G52yACKfhosNhUrAHVVB14HQg"
+      }
+    }
+  }
+}

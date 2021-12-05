@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC7EVSn5inapL20oPSwAwEUg",
+  "retrieved_on": "2021-12-05 03:47:37.030698",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nNm8HfVMcs6K7zKABfAJTwRxl7w",
+    "id": "UC7EVSn5inapL20oPSwAwEUg",
+    "snippet": {
+      "title": "Bek Brace",
+      "description": "Technology , Programming and Web Development",
+      "publishedAt": "2020-01-30T19:00:29.142389Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/5_hw0KhHw69hPYpfhjKkQaazY0aDCf1eMpQ67Bh_pLD2DxVwlxJwRHwM4481vgFRzMhtSd9XTQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/5_hw0KhHw69hPYpfhjKkQaazY0aDCf1eMpQ67Bh_pLD2DxVwlxJwRHwM4481vgFRzMhtSd9XTQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/5_hw0KhHw69hPYpfhjKkQaazY0aDCf1eMpQ67Bh_pLD2DxVwlxJwRHwM4481vgFRzMhtSd9XTQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Bek Brace",
+        "description": "Technology , Programming and Web Development"
+      },
+      "country": "PL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7EVSn5inapL20oPSwAwEUg"
+      }
+    },
+    "statistics": {
+      "viewCount": "219543",
+      "subscriberCount": "4580",
+      "hiddenSubscriberCount": false,
+      "videoCount": "110"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Bek Brace",
+        "description": "Technology , Programming and Web Development",
+        "keywords": "programming react javascript python vue fullstack full-stack fastapi \"farm stack\" \"machine learning\" \"python automation\"",
+        "unsubscribedTrailer": "F5OUT3ijk8M",
+        "defaultLanguage": "en",
+        "country": "PL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/HJw2tOXWlgyanYyiSlb-kxHTprLLgaVu7c1lJhuHmWMLEDpSoA0W5T7tJBnWAA9rV332LVmK"
+      }
+    }
+  }
+}

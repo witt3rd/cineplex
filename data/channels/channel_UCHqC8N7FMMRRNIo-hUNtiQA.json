@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCHqC8N7FMMRRNIo-hUNtiQA",
+  "retrieved_on": "2021-12-05 03:47:34.308893",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "qhg6gjG4y5d2WReVcn3FjPZFiPc",
+    "id": "UCHqC8N7FMMRRNIo-hUNtiQA",
+    "snippet": {
+      "title": "Brian McKenna",
+      "description": "",
+      "customUrl": "brianmckennapuffnfresh",
+      "publishedAt": "2006-04-26T06:31:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS9k88rfk9rsfa_GPkMPQL_k42MTl4VVdrYXg9VyNc=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS9k88rfk9rsfa_GPkMPQL_k42MTl4VVdrYXg9VyNc=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS9k88rfk9rsfa_GPkMPQL_k42MTl4VVdrYXg9VyNc=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Brian McKenna",
+        "description": ""
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHqC8N7FMMRRNIo-hUNtiQA"
+      }
+    },
+    "statistics": {
+      "viewCount": "244509",
+      "subscriberCount": "1370",
+      "hiddenSubscriberCount": false,
+      "videoCount": "30"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Brian McKenna",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/egJVdlcmcDGKywBhrkjKjHZDxb_hrJJqlAidcILXQHa0l2lwTS-4WdGGBX2WHlX2VXGT1gdh"
+      }
+    }
+  }
+}

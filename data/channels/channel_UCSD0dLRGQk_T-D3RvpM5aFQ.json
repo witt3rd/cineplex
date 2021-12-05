@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCSD0dLRGQk_T-D3RvpM5aFQ",
+  "retrieved_on": "2021-12-05 03:47:39.473192",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "cIVftBOGumL-KIk_HWz54h7iNSw",
+    "id": "UCSD0dLRGQk_T-D3RvpM5aFQ",
+    "snippet": {
+      "title": "WeAreDevelopers",
+      "description": "Our mission is to connect developers globally. WeAreDevelopers.com was founded in order to enable developers across the world to share their knowledge and experience with one another. The WeAreDevelopers Conference takes place in Vienna once per year and provides 8,000 developers with the latest insights.\n\nwww.wearedevelopers.com\nwww.facebook.com/wearedevelopers\nwww.twitter.org/wearedevs",
+      "publishedAt": "2016-05-02T06:16:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1UxxKIqcTvMJj0_Ct4RWg4iVda3ipTw8FQxy3XA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1UxxKIqcTvMJj0_Ct4RWg4iVda3ipTw8FQxy3XA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1UxxKIqcTvMJj0_Ct4RWg4iVda3ipTw8FQxy3XA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "WeAreDevelopers",
+        "description": "Our mission is to connect developers globally. WeAreDevelopers.com was founded in order to enable developers across the world to share their knowledge and experience with one another. The WeAreDevelopers Conference takes place in Vienna once per year and provides 8,000 developers with the latest insights.\n\nwww.wearedevelopers.com\nwww.facebook.com/wearedevelopers\nwww.twitter.org/wearedevs"
+      },
+      "country": "AT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUSD0dLRGQk_T-D3RvpM5aFQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1911353",
+      "subscriberCount": "24400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "483"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "WeAreDevelopers",
+        "description": "Our mission is to connect developers globally. WeAreDevelopers.com was founded in order to enable developers across the world to share their knowledge and experience with one another. The WeAreDevelopers Conference takes place in Vienna once per year and provides 8,000 developers with the latest insights.\n\nwww.wearedevelopers.com\nwww.facebook.com/wearedevelopers\nwww.twitter.org/wearedevs",
+        "keywords": "developers talks software devs",
+        "trackingAnalyticsAccountId": "UA-61991607-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "F0xjt8l7J_c",
+        "country": "AT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/u1KHfTgZnvtixKRtpN05p40V_nJI0C8Ldb35QSyPw5qi-hFVMypeEQDiCT3C9p1xwG2w_SX1YQ"
+      }
+    }
+  }
+}

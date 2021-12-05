@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+  "retrieved_on": "2021-12-05 03:47:30.163133",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "N-f9qV0pndoesNstFMxl9801mzE",
+    "id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+    "snippet": {
+      "title": "Branch Education",
+      "description": "The world is fascinating.  Rockets to space are landing themselves.  Cars are on the verge of driving themselves.  Microchips are continuing to become smaller and faster.  Each of these innovations takes billions or even trillions of person-hours to develop and another trillion hours to debug.  However understanding the in-depth details of these complex systems requires thousands of hours of research, curriculum building, and content streamlining.  Our objective is to make engaging content that answers each and every facet of these complex systems.  Currently, we are making and evolving our video content to be as engaging as possible.    \n\nWant to support in-depth engineering and technology education? Support us on Patreon:  http://www.patreon.com/brancheducation\n\nModeling is done in Blender 2.91 Cycles Render Engine, Adobe Premiere, and Reaper",
+      "customUrl": "brancheducation",
+      "publishedAt": "2018-05-14T20:46:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRBfaUGYx46OGYHut6eo2_cvPpkqBuxntKK6U8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRBfaUGYx46OGYHut6eo2_cvPpkqBuxntKK6U8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRBfaUGYx46OGYHut6eo2_cvPpkqBuxntKK6U8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Branch Education",
+        "description": "The world is fascinating.  Rockets to space are landing themselves.  Cars are on the verge of driving themselves.  Microchips are continuing to become smaller and faster.  Each of these innovations takes billions or even trillions of person-hours to develop and another trillion hours to debug.  However understanding the in-depth details of these complex systems requires thousands of hours of research, curriculum building, and content streamlining.  Our objective is to make engaging content that answers each and every facet of these complex systems.  Currently, we are making and evolving our video content to be as engaging as possible.    \n\nWant to support in-depth engineering and technology education? Support us on Patreon:  http://www.patreon.com/brancheducation\n\nModeling is done in Blender 2.91 Cycles Render Engine, Adobe Premiere, and Reaper"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUdp4_l1vPmpN-gDbUwhaRUQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "16901735",
+      "subscriberCount": "542000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "30"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Branch Education",
+        "description": "The world is fascinating.  Rockets to space are landing themselves.  Cars are on the verge of driving themselves.  Microchips are continuing to become smaller and faster.  Each of these innovations takes billions or even trillions of person-hours to develop and another trillion hours to debug.  However understanding the in-depth details of these complex systems requires thousands of hours of research, curriculum building, and content streamlining.  Our objective is to make engaging content that answers each and every facet of these complex systems.  Currently, we are making and evolving our video content to be as engaging as possible.    \n\nWant to support in-depth engineering and technology education? Support us on Patreon:  http://www.patreon.com/brancheducation\n\nModeling is done in Blender 2.91 Cycles Render Engine, Adobe Premiere, and Reaper",
+        "keywords": "Smartphone Engineering Education Technology Science",
+        "trackingAnalyticsAccountId": "UA-131029496-2",
+        "unsubscribedTrailer": "SAaESb4wTCM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/RXeZnusxTcFPYSDGMLkbs1ICkU9DX_VT_e1WGFUi_XIoBpdRjBmpNXJznbVOx0y8BNGUbY02PQ"
+      }
+    }
+  }
+}

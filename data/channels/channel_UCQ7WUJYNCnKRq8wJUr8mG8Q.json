@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCQ7WUJYNCnKRq8wJUr8mG8Q",
+  "retrieved_on": "2021-12-05 03:47:34.308954",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "z4cd4HfP5b5GtqPmocDmkio-TQg",
+    "id": "UCQ7WUJYNCnKRq8wJUr8mG8Q",
+    "snippet": {
+      "title": "TRON",
+      "description": "Welcome to the world of electronica or electro for short! Here you will find the home of all things Cybotron! Including album singles, original versions, remixes, etc. I hope you enjoy your stay & remember to always clear your displays!",
+      "publishedAt": "2013-09-25T22:05:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR8Bzfl1B2oBi6iaA0_qX_FFoG7QXuAgavzo-wlaA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR8Bzfl1B2oBi6iaA0_qX_FFoG7QXuAgavzo-wlaA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR8Bzfl1B2oBi6iaA0_qX_FFoG7QXuAgavzo-wlaA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TRON",
+        "description": "Welcome to the world of electronica or electro for short! Here you will find the home of all things Cybotron! Including album singles, original versions, remixes, etc. I hope you enjoy your stay & remember to always clear your displays!"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUQ7WUJYNCnKRq8wJUr8mG8Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "46546",
+      "subscriberCount": "256",
+      "hiddenSubscriberCount": false,
+      "videoCount": "38"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TRON",
+        "description": "Welcome to the world of electronica or electro for short! Here you will find the home of all things Cybotron! Including album singles, original versions, remixes, etc. I hope you enjoy your stay & remember to always clear your displays!"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/XpiSg0BT6DLpRSJj2Em0YL9PPnvVi20jEvfEtPKrOOdLL_pkHpKw04KJolgpR2nRPwv4v1jRnW8"
+      }
+    }
+  }
+}

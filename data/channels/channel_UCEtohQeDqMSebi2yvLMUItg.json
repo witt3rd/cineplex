@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCEtohQeDqMSebi2yvLMUItg",
+  "retrieved_on": "2021-12-05 03:47:30.682912",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lzYK4gOjYBSqxlr0_AY_YuT0d74",
+    "id": "UCEtohQeDqMSebi2yvLMUItg",
+    "snippet": {
+      "title": "LambdaConf",
+      "description": "The official YouTube account for LambdaConf, a series of events organized by Fantasyland Institute of Learning to promote the adoption and further development of functional programming.",
+      "customUrl": "lambdaconf",
+      "publishedAt": "2016-09-12T18:08:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSriq5P7SLZe-7dSV3BFqH_163zsyIDLY37Hu1Z=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSriq5P7SLZe-7dSV3BFqH_163zsyIDLY37Hu1Z=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSriq5P7SLZe-7dSV3BFqH_163zsyIDLY37Hu1Z=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LambdaConf",
+        "description": "The official YouTube account for LambdaConf, a series of events organized by Fantasyland Institute of Learning to promote the adoption and further development of functional programming."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUEtohQeDqMSebi2yvLMUItg"
+      }
+    },
+    "statistics": {
+      "viewCount": "337510",
+      "subscriberCount": "5030",
+      "hiddenSubscriberCount": false,
+      "videoCount": "437"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "LambdaConf",
+        "description": "The official YouTube account for LambdaConf, a series of events organized by Fantasyland Institute of Learning to promote the adoption and further development of functional programming.",
+        "keywords": "LambdaConf Conference \"Functional Programing\"",
+        "trackingAnalyticsAccountId": "UA-72127500-1"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/BqdrlArEZMd8VrFuPIP71L-wbdMLg_JXEsRiTxV7sGaiFvfS0dxSHMu-DAIQZLFICitinrlHiw"
+      }
+    }
+  }
+}

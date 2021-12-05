@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCJayvjGvKEblkA3KYK1BQQw",
+  "retrieved_on": "2021-12-05 03:47:28.304266",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ahCBDuqExETEfgzrKIieYzlrr08",
+    "id": "UCJayvjGvKEblkA3KYK1BQQw",
+    "snippet": {
+      "title": "khanacademymedicine",
+      "description": "Our mission is to provide a world-class education for anyone, anywhere. \r\nThis channel includes Khan Academy videos on Medicine, presented by Rishi Desai, MD.  \r\n\r\nAll Khan Academy content is available for free at www.khanacademy.org.",
+      "publishedAt": "2012-09-12T17:58:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRQLmefaH6EcR7BZzyqzS4G9Pqjo2Kz-wKXmKnh=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRQLmefaH6EcR7BZzyqzS4G9Pqjo2Kz-wKXmKnh=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRQLmefaH6EcR7BZzyqzS4G9Pqjo2Kz-wKXmKnh=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "khanacademymedicine",
+        "description": "Our mission is to provide a world-class education for anyone, anywhere. \r\nThis channel includes Khan Academy videos on Medicine, presented by Rishi Desai, MD.  \r\n\r\nAll Khan Academy content is available for free at www.khanacademy.org."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJayvjGvKEblkA3KYK1BQQw"
+      }
+    },
+    "statistics": {
+      "viewCount": "257362458",
+      "subscriberCount": "1480000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1261"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "khanacademymedicine",
+        "description": "Our mission is to provide a world-class education for anyone, anywhere. \r\nThis channel includes Khan Academy videos on Medicine, presented by Rishi Desai, MD.  \r\n\r\nAll Khan Academy content is available for free at www.khanacademy.org.",
+        "keywords": "\"khan academy\" medicine MCAT NCLEX-RN health disease science physiology pathophysiology pharmacology chemistry biology physics",
+        "unsubscribedTrailer": "cnzeoQz7TUc"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/H2d9P7Kt5zJFVCIOEq9mPo2zfHk7GyXp5pTo-P9wPzPgLABEalnfvySf0Oh2cmYzkAJfSPsYLbo"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCoDV3feNxJW4ItiCzje9Tvw",
+  "retrieved_on": "2021-12-05 03:47:35.856672",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xNT9CRqxhtKtmGkzKzQah2iz4jk",
+    "id": "UCoDV3feNxJW4ItiCzje9Tvw",
+    "snippet": {
+      "title": "Viral Hattrix",
+      "description": "On this channel, you will find:\nScience Projects\nArduino Projects\nRaspberry Pi Projects\nWindows 10 Themes\nRainmeter Customization Packs.\nand more...\n\nFor more information about us, visit:\nhttps://www.viralhattrix.com/p/about.html\n\nSupport me by subscribing to my Channel :)",
+      "customUrl": "viralhattrix",
+      "publishedAt": "2013-06-11T03:22:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSjsKIR_RLDcawzhRlEYd_Tg-od6W1qLYQbUr82Kg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSjsKIR_RLDcawzhRlEYd_Tg-od6W1qLYQbUr82Kg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSjsKIR_RLDcawzhRlEYd_Tg-od6W1qLYQbUr82Kg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Viral Hattrix",
+        "description": "On this channel, you will find:\nScience Projects\nArduino Projects\nRaspberry Pi Projects\nWindows 10 Themes\nRainmeter Customization Packs.\nand more...\n\nFor more information about us, visit:\nhttps://www.viralhattrix.com/p/about.html\n\nSupport me by subscribing to my Channel :)"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUoDV3feNxJW4ItiCzje9Tvw"
+      }
+    },
+    "statistics": {
+      "viewCount": "11203770",
+      "subscriberCount": "87100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "22"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Viral Hattrix",
+        "description": "On this channel, you will find:\nScience Projects\nArduino Projects\nRaspberry Pi Projects\nWindows 10 Themes\nRainmeter Customization Packs.\nand more...\n\nFor more information about us, visit:\nhttps://www.viralhattrix.com/p/about.html\n\nSupport me by subscribing to my Channel :)",
+        "keywords": "\"viral hattrix\" \"viral hatrix\" vh diy \"arduino 2018\" arduino gameplay \"vh gameplay\" tutorial \"vh tutorial\" science \"science vh\" \"arduino 2020\" \"raspberry pi\" \"raspberry pi 2020\" \"windows 10 theme\" theme",
+        "moderateComments": true,
+        "unsubscribedTrailer": "7CVQCqTUnJM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/dNmDuWCVdQ4XQCzGNvkxsSnOonPA3l0wG63CXGmBlJdLS7QuRhQCOa7K6L9QtMGx2kfPF6esQg"
+      }
+    }
+  }
+}

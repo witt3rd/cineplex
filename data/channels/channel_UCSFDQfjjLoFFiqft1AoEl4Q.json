@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCSFDQfjjLoFFiqft1AoEl4Q",
+  "retrieved_on": "2021-12-05 03:47:37.030661",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "pRzZmm3Z8gm1qFAtfJngCKZ8Bx0",
+    "id": "UCSFDQfjjLoFFiqft1AoEl4Q",
+    "snippet": {
+      "title": "Gamer Zone Point",
+      "description": "",
+      "publishedAt": "2017-03-11T08:41:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTkqsqekRNXgx9V7wHc4FxbWBUO7HkNwrtZBH3HRw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTkqsqekRNXgx9V7wHc4FxbWBUO7HkNwrtZBH3HRw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTkqsqekRNXgx9V7wHc4FxbWBUO7HkNwrtZBH3HRw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Gamer Zone Point",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUSFDQfjjLoFFiqft1AoEl4Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "4332",
+      "subscriberCount": "128",
+      "hiddenSubscriberCount": false,
+      "videoCount": "80"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Gamer Zone Point",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/yLF3EQE_a_CVjoJ3txmsjM707MwHsF_yAcU_4OdI3J456LtcHvqIhQeV0dh8FnpPBkdSs1v3vw"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCpEYMEafq3FsKCQXNliFY9A",
+  "retrieved_on": "2021-12-05 03:47:31.570476",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jvmP_NF0TVcduYa2fRKO_nauaRM",
+    "id": "UCpEYMEafq3FsKCQXNliFY9A",
+    "snippet": {
+      "title": "Arctic Empire",
+      "description": "Saving the world one track at a time! \nMelodic dubstep, chillstep and future bass enthusiast. \n\nSubmit music and artwork here: https://arcticempire.edmdistrict.com\nLabels & managers can contact me at arcticempire@outlook.com\nIf you have a question about the channel just send a message on Instagram.\n\nFAQ\nQ: Can I use the tracks posted on Arctic Empire on my youtube/twitch channel?\nA: It's not up to me to answer that, you need to ask the producer for permission to use their music.\n\nThanks for checking out the channel,\nNelson",
+      "customUrl": "sheepsempire",
+      "publishedAt": "2013-10-06T08:32:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLStzgZ8gyxclsjWrIi11msR2Dh6gGAvKvyKPjSCeg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLStzgZ8gyxclsjWrIi11msR2Dh6gGAvKvyKPjSCeg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLStzgZ8gyxclsjWrIi11msR2Dh6gGAvKvyKPjSCeg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Arctic Empire",
+        "description": "Saving the world one track at a time! \nMelodic dubstep, chillstep and future bass enthusiast. \n\nSubmit music and artwork here: https://arcticempire.edmdistrict.com\nLabels & managers can contact me at arcticempire@outlook.com\nIf you have a question about the channel just send a message on Instagram.\n\nFAQ\nQ: Can I use the tracks posted on Arctic Empire on my youtube/twitch channel?\nA: It's not up to me to answer that, you need to ask the producer for permission to use their music.\n\nThanks for checking out the channel,\nNelson"
+      },
+      "country": "NO"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUpEYMEafq3FsKCQXNliFY9A"
+      }
+    },
+    "statistics": {
+      "viewCount": "214527230",
+      "subscriberCount": "539000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "819"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Arctic Empire",
+        "description": "Saving the world one track at a time! \nMelodic dubstep, chillstep and future bass enthusiast. \n\nSubmit music and artwork here: https://arcticempire.edmdistrict.com\nLabels & managers can contact me at arcticempire@outlook.com\nIf you have a question about the channel just send a message on Instagram.\n\nFAQ\nQ: Can I use the tracks posted on Arctic Empire on my youtube/twitch channel?\nA: It's not up to me to answer that, you need to ask the producer for permission to use their music.\n\nThanks for checking out the channel,\nNelson",
+        "keywords": "\"arctic empire\" arctic empire chillstep pop edm \"melodic dubstep\" dubstep",
+        "trackingAnalyticsAccountId": "UA-142559714-1",
+        "unsubscribedTrailer": "iqEuJDQbGXg",
+        "country": "NO"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/l9RqH6XLnlQR3COunesm5gKnqhkhWaefdoSejPS9OgoiinrJGAhhjibRsEui1avw-VtEwZLrFE8"
+      }
+    }
+  }
+}

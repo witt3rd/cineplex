@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCkZ9hScI9M-_bQpILeogq-A",
+  "retrieved_on": "2021-12-05 03:47:36.581253",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "yQs7u88JVkHOmhTVCzh-pGHzMPg",
+    "id": "UCkZ9hScI9M-_bQpILeogq-A",
+    "snippet": {
+      "title": "Alien Vampires - Topic",
+      "description": "",
+      "publishedAt": "2013-10-20T21:06:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/nBcfQuSlH2LJAvEUGZ2brzFvrZGBcXCaaya0v1zgc3pNKN9chdPlVv9o4P_BauX0Gq8EjhHk4w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/nBcfQuSlH2LJAvEUGZ2brzFvrZGBcXCaaya0v1zgc3pNKN9chdPlVv9o4P_BauX0Gq8EjhHk4w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/nBcfQuSlH2LJAvEUGZ2brzFvrZGBcXCaaya0v1zgc3pNKN9chdPlVv9o4P_BauX0Gq8EjhHk4w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Alien Vampires - Topic",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkZ9hScI9M-_bQpILeogq-A"
+      }
+    },
+    "statistics": {
+      "viewCount": "1126914",
+      "subscriberCount": "2850",
+      "hiddenSubscriberCount": false,
+      "videoCount": "256"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Alien Vampires - Topic"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/hzbdtr7KWd5ZE2tEDXw01ufi9rb8Rf0DyCSL1MuW4RZ4rUc2l8vWAuy35cMJSms5ZsSzK7OrYLs"
+      }
+    }
+  }
+}

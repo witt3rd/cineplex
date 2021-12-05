@@ -1,0 +1,53 @@
+{
+  "channel_id": "UCclJNaBpJq5EaxTP7lc92OA",
+  "retrieved_on": "2021-12-05 03:47:32.314770",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "v9IwfLLGMx0DIizLuHRdc-TMysU",
+    "id": "UCclJNaBpJq5EaxTP7lc92OA",
+    "snippet": {
+      "title": "Fjonan Z.",
+      "description": "I use this channel currently to show my development progress of my little game project.",
+      "publishedAt": "2006-10-23T00:25:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnot21XwBIh7BDrjVqYK7UJL-8vSjfYkDGwZZZ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnot21XwBIh7BDrjVqYK7UJL-8vSjfYkDGwZZZ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnot21XwBIh7BDrjVqYK7UJL-8vSjfYkDGwZZZ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fjonan Z.",
+        "description": "I use this channel currently to show my development progress of my little game project."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUclJNaBpJq5EaxTP7lc92OA"
+      }
+    },
+    "statistics": {
+      "viewCount": "10352",
+      "subscriberCount": "16",
+      "hiddenSubscriberCount": false,
+      "videoCount": "31"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Fjonan Z.",
+        "description": "I use this channel currently to show my development progress of my little game project."
+      }
+    }
+  }
+}

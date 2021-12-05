@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCwdFFEihk5tBHriUscBgT7w",
+  "retrieved_on": "2021-12-05 03:47:37.728339",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "UnDBJOlT665WYvxcW5k1SlqUAng",
+    "id": "UCwdFFEihk5tBHriUscBgT7w",
+    "snippet": {
+      "title": "Dr. Ryan Ridden",
+      "description": "I'm a Post Doctoral Research Fellow at the Space Telescope Science Institute studying the frontiers of cosmic cataclysms. With my knowledge and love for science, I break down new discoveries and cool phenomena!",
+      "customUrl": "ryanridden",
+      "publishedAt": "2011-12-01T05:13:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLROG1kXoAw3zn2nUtqN7ENFPUVYNnX7aYMIumKbVZY=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLROG1kXoAw3zn2nUtqN7ENFPUVYNnX7aYMIumKbVZY=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLROG1kXoAw3zn2nUtqN7ENFPUVYNnX7aYMIumKbVZY=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dr. Ryan Ridden",
+        "description": "I'm a Post Doctoral Research Fellow at the Space Telescope Science Institute studying the frontiers of cosmic cataclysms. With my knowledge and love for science, I break down new discoveries and cool phenomena!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwdFFEihk5tBHriUscBgT7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "632526",
+      "subscriberCount": "9030",
+      "hiddenSubscriberCount": false,
+      "videoCount": "133"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dr. Ryan Ridden",
+        "description": "I'm a Post Doctoral Research Fellow at the Space Telescope Science Institute studying the frontiers of cosmic cataclysms. With my knowledge and love for science, I break down new discoveries and cool phenomena!",
+        "keywords": "Science news education physics Astronomy Space",
+        "unsubscribedTrailer": "-7izrug4fm4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/eKNkA5TvtumGC4OTNH78sWoWx9RA2gLZqmAUFpfHfN3Cz37UkjeFTvMQqqX5xKGaMqtBziF4Tiw"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
+  "retrieved_on": "2021-12-05 03:47:29.852562",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "wQlU68X9Yy8rGNuqP7Yp3zCdcQA",
+    "id": "UCdngmbVKX1Tgre699-XLlUA",
+    "snippet": {
+      "title": "TechWorld with Nana",
+      "description": "Helping people to learn DevOps topics easily \ud83d\udc99\n\nI create new videos every second week, topics include mainly DevOps tutorials. Subscribe and activate bell notification so you don't miss new videos :)\n\nI'm a Docker Captain, AWS Container Hero & CNCF Ambassador \ud83e\udd13  \ud83d\udcaa\n\n\u25ba  https://www.techworld-with-nana.com/\n\nTutorials so far\n - Docker\n - Kubernetes\n - Jenkins\n - Python\n - Ansible\n - Prometheus Monitoring\n - Terraform\n - YAML\n - & more!\n\nHave fun watching my videos! \ud83d\ude42",
+      "customUrl": "techworldwithnana",
+      "publishedAt": "2019-10-06T08:50:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-PgidQ0cYjiqG8YpXg_9DVvFrZnVduSC9vcx8pg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-PgidQ0cYjiqG8YpXg_9DVvFrZnVduSC9vcx8pg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-PgidQ0cYjiqG8YpXg_9DVvFrZnVduSC9vcx8pg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TechWorld with Nana",
+        "description": "Helping people to learn DevOps topics easily \ud83d\udc99\n\nI create new videos every second week, topics include mainly DevOps tutorials. Subscribe and activate bell notification so you don't miss new videos :)\n\nI'm a Docker Captain, AWS Container Hero & CNCF Ambassador \ud83e\udd13  \ud83d\udcaa\n\n\u25ba  https://www.techworld-with-nana.com/\n\nTutorials so far\n - Docker\n - Kubernetes\n - Jenkins\n - Python\n - Ansible\n - Prometheus Monitoring\n - Terraform\n - YAML\n - & more!\n\nHave fun watching my videos! \ud83d\ude42"
+      },
+      "country": "AT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUdngmbVKX1Tgre699-XLlUA"
+      }
+    },
+    "statistics": {
+      "viewCount": "14213899",
+      "subscriberCount": "371000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "88"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TechWorld with Nana",
+        "description": "Helping people to learn DevOps topics easily \ud83d\udc99\n\nI create new videos every second week, topics include mainly DevOps tutorials. Subscribe and activate bell notification so you don't miss new videos :)\n\nI'm a Docker Captain, AWS Container Hero & CNCF Ambassador \ud83e\udd13  \ud83d\udcaa\n\n\u25ba  https://www.techworld-with-nana.com/\n\nTutorials so far\n - Docker\n - Kubernetes\n - Jenkins\n - Python\n - Ansible\n - Prometheus Monitoring\n - Terraform\n - YAML\n - & more!\n\nHave fun watching my videos! \ud83d\ude42",
+        "keywords": "\"kubernetes tutorial\" \"docker tutorial\" tech \"tutorials for beginner\" devops \"kubernetes tutorial for beginners\" \"kubernetes course\" \"software development\" \"javascript tutorial\" \"javascript tutorial for beginners\" kubernetes docker \"docker tutorial for beginners\" jenkins \"jenkins tutorial\" \"jenkins tutorial for beginners\" \"devops tools\" \"devops tutorial for beginners\" \"kubernetes for beginners\" \"kubernetes vs docker\" \"kubernetes explained\" terraform \"prometheus monitoring\"",
+        "unsubscribedTrailer": "X48VuDVv0do",
+        "country": "AT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/DsSeKIKk0E45C_6WAcDZqocPp0frtj26-zEfLHUlWUmkaLLzFEHWaadaM5-vjLbuUI2v_CxeYg"
+      }
+    }
+  }
+}

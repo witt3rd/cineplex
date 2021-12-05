@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCBbnbBWJtwsf0jLGUwX5Q3g",
+  "retrieved_on": "2021-12-05 03:47:31.570367",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "dZ-YnHUpIIPEcSJ5hpa0PD2pASw",
+    "id": "UCBbnbBWJtwsf0jLGUwX5Q3g",
+    "snippet": {
+      "title": "Journey to the Microcosmos",
+      "description": "Take a dive into the tiny, unseen world that surrounds us! With music by Andrew Huang, footage from James Weiss, and narration by Hank Green, we want to take you on a fascinating, reflective journey through the microcosmos.",
+      "customUrl": "microcosmos",
+      "publishedAt": "2019-04-10T19:33:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/gKRoi_qYBWKJYIDdych5WF1R-3j0CSO7KaeCCpU3lwsWBHNij17ZHg5q_EfjFjArsBf18wtU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/gKRoi_qYBWKJYIDdych5WF1R-3j0CSO7KaeCCpU3lwsWBHNij17ZHg5q_EfjFjArsBf18wtU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/gKRoi_qYBWKJYIDdych5WF1R-3j0CSO7KaeCCpU3lwsWBHNij17ZHg5q_EfjFjArsBf18wtU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Journey to the Microcosmos",
+        "description": "Take a dive into the tiny, unseen world that surrounds us! With music by Andrew Huang, footage from James Weiss, and narration by Hank Green, we want to take you on a fascinating, reflective journey through the microcosmos."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUBbnbBWJtwsf0jLGUwX5Q3g"
+      }
+    },
+    "statistics": {
+      "viewCount": "25563393",
+      "subscriberCount": "598000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "125"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Journey to the Microcosmos",
+        "description": "Take a dive into the tiny, unseen world that surrounds us! With music by Andrew Huang, footage from James Weiss, and narration by Hank Green, we want to take you on a fascinating, reflective journey through the microcosmos.",
+        "keywords": "microscopy germs prokaryotes",
+        "unsubscribedTrailer": "sJVtNsezGUI",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/TJvU9sSpSQp5usycR9lFzrWDqIYIUMBunaDX272qSwBqcDa7vOxykg3_8Mez_ZSxOIp8S7mtIg"
+      }
+    }
+  }
+}

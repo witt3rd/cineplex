@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCSTTPGPS-lm0YVb4DMJ3lTA",
+  "retrieved_on": "2021-12-05 03:47:29.489833",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "KbrRAmiX6t7z0v-TaGS1_dm_Zw0",
+    "id": "UCSTTPGPS-lm0YVb4DMJ3lTA",
+    "snippet": {
+      "title": "drjoedispenza",
+      "description": "Change from the Inside Out",
+      "publishedAt": "2008-02-08T23:28:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfqLUYZolBIqSsKo2RqYaTBkc2fK6FAQXO7vpPmg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfqLUYZolBIqSsKo2RqYaTBkc2fK6FAQXO7vpPmg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfqLUYZolBIqSsKo2RqYaTBkc2fK6FAQXO7vpPmg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "drjoedispenza",
+        "description": "Change from the Inside Out"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUSTTPGPS-lm0YVb4DMJ3lTA"
+      }
+    },
+    "statistics": {
+      "viewCount": "30512993",
+      "subscriberCount": "612000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "752"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "drjoedispenza",
+        "description": "Change from the Inside Out",
+        "keywords": "\"dr joe dispenza\" neuroscience \"evolve your brain\" \"what the bleep\" tedx \"breaking the habit\" \"You are the Placebo\"",
+        "unsubscribedTrailer": "JDbqsgMwxR8",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/AxzyDz7OVUXgui8SlNnNqv6G8UabVWsfPxB2niY88wYy1BKqFB0ikxc3l-UqKQzEa19O7zB4gE8"
+      }
+    }
+  }
+}

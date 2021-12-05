@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCcgqJ1blFKqbC2bWGY4Opmg",
+  "retrieved_on": "2021-12-05 03:47:33.306727",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mqnzoe97h2ScFsQdhHOPfbpzb8g",
+    "id": "UCcgqJ1blFKqbC2bWGY4Opmg",
+    "snippet": {
+      "title": "Skyentific",
+      "description": "I developing 3D printed DIY Robots and Robotic Arms. I do different things related to robotics, motors and engineering. I am mostly interested in Robot Arms recently. The goal of this channel is to bring the bright robotic future! Subscribe!",
+      "customUrl": "skyentific",
+      "publishedAt": "2013-05-03T07:57:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQM-9cVr7izUSEJCK0rUmzYPxMBWKjEiF_YFJRJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQM-9cVr7izUSEJCK0rUmzYPxMBWKjEiF_YFJRJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQM-9cVr7izUSEJCK0rUmzYPxMBWKjEiF_YFJRJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Skyentific",
+        "description": "I developing 3D printed DIY Robots and Robotic Arms. I do different things related to robotics, motors and engineering. I am mostly interested in Robot Arms recently. The goal of this channel is to bring the bright robotic future! Subscribe!"
+      },
+      "country": "CH"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUcgqJ1blFKqbC2bWGY4Opmg"
+      }
+    },
+    "statistics": {
+      "viewCount": "4336578",
+      "subscriberCount": "76800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "106"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Skyentific",
+        "description": "I developing 3D printed DIY Robots and Robotic Arms. I do different things related to robotics, motors and engineering. I am mostly interested in Robot Arms recently. The goal of this channel is to bring the bright robotic future! Subscribe!",
+        "keywords": "DIY robotics \"robotic arm\" \"3D printing\" Arduino maker",
+        "unsubscribedTrailer": "Ml0KFi9nMVY",
+        "country": "CH"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/QJfZyu9gNP6_rha3lm7MVO-NQtHPh6JGviVaHBftDQTxEe_-qDqkjLBmNfOL3YueHc3XJ5gP"
+      }
+    }
+  }
+}

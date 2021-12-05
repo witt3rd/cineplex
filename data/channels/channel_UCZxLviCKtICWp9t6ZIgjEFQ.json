@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCZxLviCKtICWp9t6ZIgjEFQ",
+  "retrieved_on": "2021-12-05 03:47:39.693607",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "L5_36TxAb-lkS-5ycbJcX-qsKKU",
+    "id": "UCZxLviCKtICWp9t6ZIgjEFQ",
+    "snippet": {
+      "title": "Weslei Santos de Andrade",
+      "description": "Espirita Crist\u00e3o, devotado aos ensinos do nosso Mestre divino Jesus, musico por voca\u00e7\u00e3o, apaixonado por harmonias vocais e instrumentais, que para mim \u00e9 umas das mais belas express\u00f5es de Deus em sua cria\u00e7\u00e3o. Estudioso na \u00e1rea de astronomia e ci\u00eancias tecnol\u00f3gicas que me impulsiona cada vez mais em querer ser a cada dia um ser melhor, trabalhando minhas dificuldades com f\u00e9 e amparado por todos nossos benfeitores espirituais.\n\nEste canal se dedica a levar o consolador prometido a todos que de cora\u00e7\u00e3o aberto, queiram esclarecimentos libertadores e o benef\u00edcio de uma palavra edificante e salutar, onde somente o evangelho do amor, que nos trouxe o Cristo, tem essa capacidade de transpor as barreiras e correntes que nos prendem para a eternidade.\n\nSejam todos os amados e amadas irm\u00e3s, bem vindos com muito carinho e afeto!",
+      "publishedAt": "2015-10-28T14:43:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSvYSVy1Qiujh74HUL2cFy3GuxNTuZXJHaHqkTLHw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSvYSVy1Qiujh74HUL2cFy3GuxNTuZXJHaHqkTLHw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSvYSVy1Qiujh74HUL2cFy3GuxNTuZXJHaHqkTLHw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Weslei Santos de Andrade",
+        "description": "Espirita Crist\u00e3o, devotado aos ensinos do nosso Mestre divino Jesus, musico por voca\u00e7\u00e3o, apaixonado por harmonias vocais e instrumentais, que para mim \u00e9 umas das mais belas express\u00f5es de Deus em sua cria\u00e7\u00e3o. Estudioso na \u00e1rea de astronomia e ci\u00eancias tecnol\u00f3gicas que me impulsiona cada vez mais em querer ser a cada dia um ser melhor, trabalhando minhas dificuldades com f\u00e9 e amparado por todos nossos benfeitores espirituais.\n\nEste canal se dedica a levar o consolador prometido a todos que de cora\u00e7\u00e3o aberto, queiram esclarecimentos libertadores e o benef\u00edcio de uma palavra edificante e salutar, onde somente o evangelho do amor, que nos trouxe o Cristo, tem essa capacidade de transpor as barreiras e correntes que nos prendem para a eternidade.\n\nSejam todos os amados e amadas irm\u00e3s, bem vindos com muito carinho e afeto!"
+      },
+      "country": "BR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZxLviCKtICWp9t6ZIgjEFQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1762305",
+      "subscriberCount": "11900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "20"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Weslei Santos de Andrade",
+        "description": "Espirita Crist\u00e3o, devotado aos ensinos do nosso Mestre divino Jesus, musico por voca\u00e7\u00e3o, apaixonado por harmonias vocais e instrumentais, que para mim \u00e9 umas das mais belas express\u00f5es de Deus em sua cria\u00e7\u00e3o. Estudioso na \u00e1rea de astronomia e ci\u00eancias tecnol\u00f3gicas que me impulsiona cada vez mais em querer ser a cada dia um ser melhor, trabalhando minhas dificuldades com f\u00e9 e amparado por todos nossos benfeitores espirituais.\n\nEste canal se dedica a levar o consolador prometido a todos que de cora\u00e7\u00e3o aberto, queiram esclarecimentos libertadores e o benef\u00edcio de uma palavra edificante e salutar, onde somente o evangelho do amor, que nos trouxe o Cristo, tem essa capacidade de transpor as barreiras e correntes que nos prendem para a eternidade.\n\nSejam todos os amados e amadas irm\u00e3s, bem vindos com muito carinho e afeto!",
+        "country": "BR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/unEk_Tm2fsHnVWxy2cISN6HFdurMOeC4j48Qz53dEgmFMXUqj2O_ShydFJVcEc4Tb0gGwzHsle4"
+      }
+    }
+  }
+}

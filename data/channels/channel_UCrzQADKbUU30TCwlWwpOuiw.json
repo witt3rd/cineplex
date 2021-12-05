@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCrzQADKbUU30TCwlWwpOuiw",
+  "retrieved_on": "2021-12-05 03:47:38.852414",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4ajNWO4G9g6KbCeDMvJhLWpy2UE",
+    "id": "UCrzQADKbUU30TCwlWwpOuiw",
+    "snippet": {
+      "title": "CosmosC64",
+      "description": "Youtube channel of the Austrian C64 groups Cosmos and Cosmos Designs.",
+      "customUrl": "cosmosc64",
+      "publishedAt": "2010-05-30T18:31:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ85bqL_mJBBZhrrLGfO-q1v-Cz1_eXxHW-GSOE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ85bqL_mJBBZhrrLGfO-q1v-Cz1_eXxHW-GSOE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ85bqL_mJBBZhrrLGfO-q1v-Cz1_eXxHW-GSOE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CosmosC64",
+        "description": "Youtube channel of the Austrian C64 groups Cosmos and Cosmos Designs."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUrzQADKbUU30TCwlWwpOuiw"
+      }
+    },
+    "statistics": {
+      "viewCount": "813527",
+      "subscriberCount": "2340",
+      "hiddenSubscriberCount": false,
+      "videoCount": "17"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CosmosC64",
+        "description": "Youtube channel of the Austrian C64 groups Cosmos and Cosmos Designs.",
+        "keywords": "Cosmos Designs C64",
+        "unsubscribedTrailer": "SFqBkSJOYOQ"
+      }
+    }
+  }
+}

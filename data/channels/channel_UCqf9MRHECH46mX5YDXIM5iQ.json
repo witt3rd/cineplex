@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCqf9MRHECH46mX5YDXIM5iQ",
+  "retrieved_on": "2021-12-05 03:47:36.348943",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "gWfJr1iStiO5qFy7oag3xfRgAs4",
+    "id": "UCqf9MRHECH46mX5YDXIM5iQ",
+    "snippet": {
+      "title": "LuigiDonatello",
+      "description": "Since 2011 a proud promoter of Retro Electronic music. Artists like HOME-, Dance With The Dead, Timecop1983, Droid Bishop and more have their origins here. LuigiDonatello supports musical and visual artists and the revived 80's / early 90's lifestyle. We Are Sick And Tired of boring, repetitive mainstream and EDM.\n\nThis channel only works with PERMISSION from the musicians AND the visual artists! To showcase their work and improve their visibility.\n\nAre you an artist? Submit your music or visual art to the email adress. Genres include: Synthwave, Synthpop, OutRun, Dreamwave, Vaporwave, Darkwave, French Touch, Future Funk, Simpsonwave. Terms and conditions are in the email signature.\n\nSubscribe now and don't miss anything! If you wish, you can donate using the provided link.",
+      "customUrl": "luigidonatello",
+      "publishedAt": "2006-06-22T17:23:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSkp9vfUCe6ueJApv8ocVfodmTT5M-yJXC9ZOaHxg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSkp9vfUCe6ueJApv8ocVfodmTT5M-yJXC9ZOaHxg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSkp9vfUCe6ueJApv8ocVfodmTT5M-yJXC9ZOaHxg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LuigiDonatello",
+        "description": "Since 2011 a proud promoter of Retro Electronic music. Artists like HOME-, Dance With The Dead, Timecop1983, Droid Bishop and more have their origins here. LuigiDonatello supports musical and visual artists and the revived 80's / early 90's lifestyle. We Are Sick And Tired of boring, repetitive mainstream and EDM.\n\nThis channel only works with PERMISSION from the musicians AND the visual artists! To showcase their work and improve their visibility.\n\nAre you an artist? Submit your music or visual art to the email adress. Genres include: Synthwave, Synthpop, OutRun, Dreamwave, Vaporwave, Darkwave, French Touch, Future Funk, Simpsonwave. Terms and conditions are in the email signature.\n\nSubscribe now and don't miss anything! If you wish, you can donate using the provided link."
+      },
+      "country": "NL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUqf9MRHECH46mX5YDXIM5iQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "69473528",
+      "subscriberCount": "106000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2103"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "LuigiDonatello",
+        "description": "Since 2011 a proud promoter of Retro Electronic music. Artists like HOME-, Dance With The Dead, Timecop1983, Droid Bishop and more have their origins here. LuigiDonatello supports musical and visual artists and the revived 80's / early 90's lifestyle. We Are Sick And Tired of boring, repetitive mainstream and EDM.\n\nThis channel only works with PERMISSION from the musicians AND the visual artists! To showcase their work and improve their visibility.\n\nAre you an artist? Submit your music or visual art to the email adress. Genres include: Synthwave, Synthpop, OutRun, Dreamwave, Vaporwave, Darkwave, French Touch, Future Funk, Simpsonwave. Terms and conditions are in the email signature.\n\nSubscribe now and don't miss anything! If you wish, you can donate using the provided link.",
+        "keywords": "newretrowave synthwave 80s retro retrowave synthpop darkwave chillwave electro music eighties",
+        "moderateComments": true,
+        "unsubscribedTrailer": "8h0l8aqf8Bc",
+        "country": "NL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/aNiVJ4DV2uvJp69XyW_6VZOJqgZ0D2xkRIfSX-Q3npPGh26WI_D9kKt9ZPwcJfwLZvcgDpSesg"
+      }
+    }
+  }
+}

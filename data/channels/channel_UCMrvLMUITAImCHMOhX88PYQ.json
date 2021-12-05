@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCMrvLMUITAImCHMOhX88PYQ",
+  "retrieved_on": "2021-12-05 03:47:41.016884",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8qHwGUlk5huQXAac3Lc6ikpdbtw",
+    "id": "UCMrvLMUITAImCHMOhX88PYQ",
+    "snippet": {
+      "title": "PiXimperfect",
+      "description": "PiXimperfect, hosted by Unmesh Dinda, is a free resource for learning Photoshop and Lightroom. We believe in learning the concept, rather than learning the steps so that you can translate \"your\" imagination visually to the world. This will make you a better decision-maker, rather than letting others make decisions for you. Since every situation is different and the definition of \"beauty\" is subjective, it is essential that you master the approach, and then the steps will automatically follow.\n\nOur motto is \"Keep Creating.\" We always say to our students: \"Don't worry so much about the quality, because time will improve it. Don't spend so much time getting things pixel-perfect, so that you end up not finishing it. Just 'Keep Creating,' and your consistency will take care of the rest.\"\n\nPiXimperfect is free, and will always be.\n\u25ba Support the cause: https://pix.live/patreon",
+      "customUrl": "piximperfect",
+      "publishedAt": "2016-06-03T06:40:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQgA7j4Jx_I_Pz6_hV0CfHdNpvv23GaGSb1uEH=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQgA7j4Jx_I_Pz6_hV0CfHdNpvv23GaGSb1uEH=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQgA7j4Jx_I_Pz6_hV0CfHdNpvv23GaGSb1uEH=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PiXimperfect",
+        "description": "PiXimperfect, hosted by Unmesh Dinda, is a free resource for learning Photoshop and Lightroom. We believe in learning the concept, rather than learning the steps so that you can translate \"your\" imagination visually to the world. This will make you a better decision-maker, rather than letting others make decisions for you. Since every situation is different and the definition of \"beauty\" is subjective, it is essential that you master the approach, and then the steps will automatically follow.\n\nOur motto is \"Keep Creating.\" We always say to our students: \"Don't worry so much about the quality, because time will improve it. Don't spend so much time getting things pixel-perfect, so that you end up not finishing it. Just 'Keep Creating,' and your consistency will take care of the rest.\"\n\nPiXimperfect is free, and will always be.\n\u25ba Support the cause: https://pix.live/patreon"
+      },
+      "country": "IN"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMrvLMUITAImCHMOhX88PYQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "208793562",
+      "subscriberCount": "3390000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "720"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PiXimperfect",
+        "description": "PiXimperfect, hosted by Unmesh Dinda, is a free resource for learning Photoshop and Lightroom. We believe in learning the concept, rather than learning the steps so that you can translate \"your\" imagination visually to the world. This will make you a better decision-maker, rather than letting others make decisions for you. Since every situation is different and the definition of \"beauty\" is subjective, it is essential that you master the approach, and then the steps will automatically follow.\n\nOur motto is \"Keep Creating.\" We always say to our students: \"Don't worry so much about the quality, because time will improve it. Don't spend so much time getting things pixel-perfect, so that you end up not finishing it. Just 'Keep Creating,' and your consistency will take care of the rest.\"\n\nPiXimperfect is free, and will always be.\n\u25ba Support the cause: https://pix.live/patreon",
+        "keywords": "\"adobe photoshop tutorials\" \"lightroom tutorials\" \"photoshop tips and tricks\" \"how to photoshop\" \"learn photoshop\" \"photoshop tutorials free\"",
+        "trackingAnalyticsAccountId": "UA-85035879-3",
+        "moderateComments": true,
+        "unsubscribedTrailer": "I3dI5iHUH2U",
+        "country": "IN"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/0sBS_kdpKrxcIb09QdKjflrTqvH-5zYekw1zsPvz-wfPJjwdJuWAgvYm1thiyUMUtpUzujUYPcY"
+      }
+    }
+  }
+}

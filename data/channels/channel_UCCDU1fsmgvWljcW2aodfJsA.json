@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCCDU1fsmgvWljcW2aodfJsA",
+  "retrieved_on": "2021-12-05 03:47:34.308951",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BNOAml22TgDjnTWf-Prbi3-NfcM",
+    "id": "UCCDU1fsmgvWljcW2aodfJsA",
+    "snippet": {
+      "title": "Ars Technica",
+      "description": "At Ars Technica\u2014the name is Latin-derived for the \"art of technology\"\u2014we specialize in news and reviews, analysis of technology trends, and expert advice on topics ranging from the most fundamental aspects of technology to the many ways technology is helping us discover our world. We work for the reader who not only needs to keep up on technology, but is passionate about it.",
+      "publishedAt": "2009-09-13T20:20:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS__dzKP7GitI7ZTxRV39irNR9vRWv38Xrog6K3=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS__dzKP7GitI7ZTxRV39irNR9vRWv38Xrog6K3=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS__dzKP7GitI7ZTxRV39irNR9vRWv38Xrog6K3=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ars Technica",
+        "description": "At Ars Technica\u2014the name is Latin-derived for the \"art of technology\"\u2014we specialize in news and reviews, analysis of technology trends, and expert advice on topics ranging from the most fundamental aspects of technology to the many ways technology is helping us discover our world. We work for the reader who not only needs to keep up on technology, but is passionate about it."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUCDU1fsmgvWljcW2aodfJsA"
+      }
+    },
+    "statistics": {
+      "viewCount": "52069604",
+      "subscriberCount": "329000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "774"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ars Technica",
+        "description": "At Ars Technica\u2014the name is Latin-derived for the \"art of technology\"\u2014we specialize in news and reviews, analysis of technology trends, and expert advice on topics ranging from the most fundamental aspects of technology to the many ways technology is helping us discover our world. We work for the reader who not only needs to keep up on technology, but is passionate about it.",
+        "keywords": "\"ars technica\" tech technology gadget internet web \"apple news\" \"android news\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "zikI2fazPLo"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/8LcfS1TqkJjwwVvoGKVydpv66PzK_DRnIvjfgTW41a3wrSwSlNDRhz7396U4JLom2xDf-V-_3Q"
+      }
+    }
+  }
+}

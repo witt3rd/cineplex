@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCzO8FFsWxGdzr1rMAPtbUog",
+  "retrieved_on": "2021-12-05 03:47:37.728476",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "WMRR7lbTc1raHd7rZxdhI1u-T3g",
+    "id": "UCzO8FFsWxGdzr1rMAPtbUog",
+    "snippet": {
+      "title": "Francisco Iacobelli",
+      "description": "",
+      "publishedAt": "2006-08-29T17:06:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQpfE_6znQsmNHaRcHjBJ6hPCO8SYAH9PDeldj=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQpfE_6znQsmNHaRcHjBJ6hPCO8SYAH9PDeldj=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQpfE_6znQsmNHaRcHjBJ6hPCO8SYAH9PDeldj=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Francisco Iacobelli",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzO8FFsWxGdzr1rMAPtbUog"
+      }
+    },
+    "statistics": {
+      "viewCount": "2435027",
+      "subscriberCount": "8750",
+      "hiddenSubscriberCount": false,
+      "videoCount": "297"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Francisco Iacobelli"
+      }
+    }
+  }
+}

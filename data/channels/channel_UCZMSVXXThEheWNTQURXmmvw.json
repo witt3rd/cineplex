@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCZMSVXXThEheWNTQURXmmvw",
+  "retrieved_on": "2021-12-05 03:47:37.030654",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Xoi-xY6gIgfvjb2cogHtV076rG8",
+    "id": "UCZMSVXXThEheWNTQURXmmvw",
+    "snippet": {
+      "title": "Total 3D Printing",
+      "description": "",
+      "publishedAt": "2021-03-24T13:10:34.955793Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTTznB6JLdECzeFoHMQexxDX_Gv6cII8ZTK5lcc=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTTznB6JLdECzeFoHMQexxDX_Gv6cII8ZTK5lcc=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTTznB6JLdECzeFoHMQexxDX_Gv6cII8ZTK5lcc=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Total 3D Printing",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZMSVXXThEheWNTQURXmmvw"
+      }
+    },
+    "statistics": {
+      "viewCount": "9490",
+      "subscriberCount": "97",
+      "hiddenSubscriberCount": false,
+      "videoCount": "16"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Total 3D Printing",
+        "keywords": "\"3d printing\" \"3d printers\" \"3d modeling\"",
+        "country": "US"
+      }
+    }
+  }
+}

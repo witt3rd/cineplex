@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCH7ZDDbkEptVLI9Nsl6z6-g",
+  "retrieved_on": "2021-12-05 03:47:32.898699",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ds4-9nTF159REvJUY8wkEuoQseY",
+    "id": "UCH7ZDDbkEptVLI9Nsl6z6-g",
+    "snippet": {
+      "title": "Omar Santiago",
+      "description": "Source Code:  https://github.com/omarvision\nWebsite:   http://www.omarvision.com (currently looking for new home)\n\nThank you to all the subscribers, likes, and positive comments.\n\nI've been into game programming since I was 13 self-taught initially. Then college and hands on trained out there in the \"real\" world.  I have programmed professionally since 1998 in the commercial arena for various software companies creating software applications in health club, retail, health insurance, pharmaceuticals, and workforce concentrations.  \n\nThrough the videos on this channel, join me coding, modeling, and animating!  Express your creative power. You are smart! Periodically I hold kids coding camps for kids 4th grade and up. We make games together and have plenty of fun and learning to code, making games, and making new friends.  The kids coding camps I hold in various locations in the Tampa, Florida location.\n\nOtherwise the videos on YouTube are here to share with everyone!  Everyone can learn!",
+      "customUrl": "omarvision",
+      "publishedAt": "2006-12-22T02:37:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTDy8VZaBiEI4_wRFqQY6GqWHN0BQUUsgABIDzB=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTDy8VZaBiEI4_wRFqQY6GqWHN0BQUUsgABIDzB=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTDy8VZaBiEI4_wRFqQY6GqWHN0BQUUsgABIDzB=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Omar Santiago",
+        "description": "Source Code:  https://github.com/omarvision\nWebsite:   http://www.omarvision.com (currently looking for new home)\n\nThank you to all the subscribers, likes, and positive comments.\n\nI've been into game programming since I was 13 self-taught initially. Then college and hands on trained out there in the \"real\" world.  I have programmed professionally since 1998 in the commercial arena for various software companies creating software applications in health club, retail, health insurance, pharmaceuticals, and workforce concentrations.  \n\nThrough the videos on this channel, join me coding, modeling, and animating!  Express your creative power. You are smart! Periodically I hold kids coding camps for kids 4th grade and up. We make games together and have plenty of fun and learning to code, making games, and making new friends.  The kids coding camps I hold in various locations in the Tampa, Florida location.\n\nOtherwise the videos on YouTube are here to share with everyone!  Everyone can learn!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUH7ZDDbkEptVLI9Nsl6z6-g"
+      }
+    },
+    "statistics": {
+      "viewCount": "443033",
+      "subscriberCount": "2060",
+      "hiddenSubscriberCount": false,
+      "videoCount": "294"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Omar Santiago",
+        "description": "Source Code:  https://github.com/omarvision\nWebsite:   http://www.omarvision.com (currently looking for new home)\n\nThank you to all the subscribers, likes, and positive comments.\n\nI've been into game programming since I was 13 self-taught initially. Then college and hands on trained out there in the \"real\" world.  I have programmed professionally since 1998 in the commercial arena for various software companies creating software applications in health club, retail, health insurance, pharmaceuticals, and workforce concentrations.  \n\nThrough the videos on this channel, join me coding, modeling, and animating!  Express your creative power. You are smart! Periodically I hold kids coding camps for kids 4th grade and up. We make games together and have plenty of fun and learning to code, making games, and making new friends.  The kids coding camps I hold in various locations in the Tampa, Florida location.\n\nOtherwise the videos on YouTube are here to share with everyone!  Everyone can learn!",
+        "keywords": "omarvision \"game programming\" \"game development\" tutorials education learning \"kids coding\" \"video game development\"",
+        "trackingAnalyticsAccountId": "UA-124295722-1",
+        "unsubscribedTrailer": "rR3miSZxR3k",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/DgC1_BnWV3Hu3AWCUfDIBls34scP65-HU4iZm_4ydDrV2EBIVHsL1WVdNKHyxWLXwpfiVvIk0g"
+      }
+    }
+  }
+}

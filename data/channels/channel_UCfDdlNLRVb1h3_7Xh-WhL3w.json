@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCfDdlNLRVb1h3_7Xh-WhL3w",
+  "retrieved_on": "2021-12-05 03:47:35.055108",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ioAQoaGpgKzWMYBWtpIn5dxNeZ8",
+    "id": "UCfDdlNLRVb1h3_7Xh-WhL3w",
+    "snippet": {
+      "title": "TheDC Shorts",
+      "description": "Founded by Tucker Carlson, a 20-year veteran of print and broadcast media, and Neil Patel, former Chief Policy Adviser to Vice President Cheney, The Daily Caller is committed to providing its audience with original reporting, in-depth investigations, thought-provoking commentary, and breaking news.",
+      "publishedAt": "2010-07-09T15:52:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTk-2BvXJxZwFWBEodRNWIONqtI3IqY9QnXyK-G4w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTk-2BvXJxZwFWBEodRNWIONqtI3IqY9QnXyK-G4w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTk-2BvXJxZwFWBEodRNWIONqtI3IqY9QnXyK-G4w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TheDC Shorts",
+        "description": "Founded by Tucker Carlson, a 20-year veteran of print and broadcast media, and Neil Patel, former Chief Policy Adviser to Vice President Cheney, The Daily Caller is committed to providing its audience with original reporting, in-depth investigations, thought-provoking commentary, and breaking news."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfDdlNLRVb1h3_7Xh-WhL3w"
+      }
+    },
+    "statistics": {
+      "viewCount": "262897318",
+      "subscriberCount": "344000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "5442"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TheDC Shorts",
+        "description": "Founded by Tucker Carlson, a 20-year veteran of print and broadcast media, and Neil Patel, former Chief Policy Adviser to Vice President Cheney, The Daily Caller is committed to providing its audience with original reporting, in-depth investigations, thought-provoking commentary, and breaking news.",
+        "keywords": "News Media Politics Entertainment Sports",
+        "trackingAnalyticsAccountId": "UA-12159302-1"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/BypsNHAN_UhoVdkAjgChX4B4elv2EcTuGb9boPUJp9V9fCpb8Dl-a001_MJ1UmWxHiJTw-8Sgg"
+      }
+    }
+  }
+}

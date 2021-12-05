@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCuNhGhbemBkdflZ1FGJ0lUQ",
+  "retrieved_on": "2021-12-05 03:47:33.604547",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lIswiti7Jze5dhiUILZXWUuGbdo",
+    "id": "UCuNhGhbemBkdflZ1FGJ0lUQ",
+    "snippet": {
+      "title": "Ducky 3D",
+      "description": "Hi my name is Nathan Duck, i'm a graphic designer and amateur 3D artist. I make Tutorials for beginners. My videos are mainly focused on the abstract and ways to make things visually intriguing",
+      "publishedAt": "2018-04-05T23:47:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQeEhlQFqIR-B0-b2a1s1LtuBEXT0ZnZMjcq4B9tw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQeEhlQFqIR-B0-b2a1s1LtuBEXT0ZnZMjcq4B9tw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQeEhlQFqIR-B0-b2a1s1LtuBEXT0ZnZMjcq4B9tw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ducky 3D",
+        "description": "Hi my name is Nathan Duck, i'm a graphic designer and amateur 3D artist. I make Tutorials for beginners. My videos are mainly focused on the abstract and ways to make things visually intriguing"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUuNhGhbemBkdflZ1FGJ0lUQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "20894254",
+      "subscriberCount": "293000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "295"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ducky 3D",
+        "description": "Hi my name is Nathan Duck, i'm a graphic designer and amateur 3D artist. I make Tutorials for beginners. My videos are mainly focused on the abstract and ways to make things visually intriguing",
+        "keywords": "Blender \"Blender 3D\" \"Blender Foundation\" \"Ducky 3D\" snort COVID snip snif"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/NqA8WaWu2WpjCHSymQOnbPGjA4Nu5UkLwRQJmYy7m85u_rnNevGuPOqJE0RMWDefzudcBEkauQ"
+      }
+    }
+  }
+}

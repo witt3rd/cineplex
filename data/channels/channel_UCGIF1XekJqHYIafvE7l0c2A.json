@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCGIF1XekJqHYIafvE7l0c2A",
+  "retrieved_on": "2021-12-05 03:47:33.604501",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "f5rtHKOlshHVVYxXHiNUaonRXA4",
+    "id": "UCGIF1XekJqHYIafvE7l0c2A",
+    "snippet": {
+      "title": "First Gear Games",
+      "description": "Game design company and educational resource.\n\nFirstGearGames Discord: https://discord.gg/NqzSEqR",
+      "customUrl": "firstgeargames",
+      "publishedAt": "2016-06-02T00:53:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRt7AwtEIdwCoWRtQnv0hGTy5iN-Fx1RwwAzuiZ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRt7AwtEIdwCoWRtQnv0hGTy5iN-Fx1RwwAzuiZ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRt7AwtEIdwCoWRtQnv0hGTy5iN-Fx1RwwAzuiZ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "First Gear Games",
+        "description": "Game design company and educational resource.\n\nFirstGearGames Discord: https://discord.gg/NqzSEqR"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUGIF1XekJqHYIafvE7l0c2A"
+      }
+    },
+    "statistics": {
+      "viewCount": "977944",
+      "subscriberCount": "6080",
+      "hiddenSubscriberCount": false,
+      "videoCount": "142"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "First Gear Games",
+        "description": "Game design company and educational resource.\n\nFirstGearGames Discord: https://discord.gg/NqzSEqR",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/lsWm2vCPnACJpixD7iy2_xaUIIHoZBAT_ECpI0Pn_KVePYpRFamg2AQfewQYWZlIT_j4trwQ8g"
+      }
+    }
+  }
+}

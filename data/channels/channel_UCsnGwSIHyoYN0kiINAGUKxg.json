@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCsnGwSIHyoYN0kiINAGUKxg",
+  "retrieved_on": "2021-12-05 03:47:28.304183",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "aUIrN_OSGCwalfNlyzr27Og47V0",
+    "id": "UCsnGwSIHyoYN0kiINAGUKxg",
+    "snippet": {
+      "title": "Wolfgang's Channel",
+      "description": "Hi! My name is Wolfgang and I make videos about tech, Linux and computers.\n\nThe most reliable way to contact me is Twitter DMs \u2013 @notthebeeee\nYou can also write me an e-mail at the address below, I read all of the messages, but sometimes I'm too lazy to reply, please don't take it personally!\n\nBrands and companies, please note that I'm NOT interested in promoting VPNs, online or mobile games, \"privacy apps\", Bluetooth headphones, CS:GO/Windows 10/etc. license keys and other similar products. The email inquiries concerning the aformentioned products or services will be ignored.",
+      "customUrl": "wolfgangschannel",
+      "publishedAt": "2018-05-14T10:27:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRA_v2TeG0DVX1BFFKvDg5mwmSGPC5fk7uWctPeSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRA_v2TeG0DVX1BFFKvDg5mwmSGPC5fk7uWctPeSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRA_v2TeG0DVX1BFFKvDg5mwmSGPC5fk7uWctPeSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Wolfgang's Channel",
+        "description": "Hi! My name is Wolfgang and I make videos about tech, Linux and computers.\n\nThe most reliable way to contact me is Twitter DMs \u2013 @notthebeeee\nYou can also write me an e-mail at the address below, I read all of the messages, but sometimes I'm too lazy to reply, please don't take it personally!\n\nBrands and companies, please note that I'm NOT interested in promoting VPNs, online or mobile games, \"privacy apps\", Bluetooth headphones, CS:GO/Windows 10/etc. license keys and other similar products. The email inquiries concerning the aformentioned products or services will be ignored."
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUsnGwSIHyoYN0kiINAGUKxg"
+      }
+    },
+    "statistics": {
+      "viewCount": "9055338",
+      "subscriberCount": "129000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "57"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Wolfgang's Channel",
+        "description": "Hi! My name is Wolfgang and I make videos about tech, Linux and computers.\n\nThe most reliable way to contact me is Twitter DMs \u2013 @notthebeeee\nYou can also write me an e-mail at the address below, I read all of the messages, but sometimes I'm too lazy to reply, please don't take it personally!\n\nBrands and companies, please note that I'm NOT interested in promoting VPNs, online or mobile games, \"privacy apps\", Bluetooth headphones, CS:GO/Windows 10/etc. license keys and other similar products. The email inquiries concerning the aformentioned products or services will be ignored.",
+        "keywords": "tech linux computer unix privacy security android phone smartphone laptop thinkpad",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/rjlfSuf8m2wouhldH-XEQtai-vMeoR_Gc-4FLilBaWg8U8ozESJj7olKKhw4-xi9n8QyC8NPGw"
+      }
+    }
+  }
+}

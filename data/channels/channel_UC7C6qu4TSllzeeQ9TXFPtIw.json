@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC7C6qu4TSllzeeQ9TXFPtIw",
+  "retrieved_on": "2021-12-05 03:47:33.852022",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "cmlfn2R5cwQuWNo_mMEtsl91MqU",
+    "id": "UC7C6qu4TSllzeeQ9TXFPtIw",
+    "snippet": {
+      "title": "Dubious Consumption",
+      "description": "Welcome to Dubious Consumption, a video essay channel that explores movies, books, games, as well as anything that grabs my attention. I make roughly 7-15 minute videos that engage in deep dives into my favorite things.\n\nI tend to describe the things I like as \u201cmore interesting than good.\u201d Everyone has run into a horrible movie, a la The Room, Sharknado, or near misses such as The Ninth Gate, YellowBrickRoad, or Daybreakers. I\u2019m here to celebrate the ideas that were good on paper but fell through in the creative process.\n\nLearn more about us at http://www.patreon.com/justindherd\n\nEPIC: E94UKY",
+      "customUrl": "dubiousconsumption",
+      "publishedAt": "2016-11-11T04:50:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmK_I5cvRRD3oGFfACo0RXqAuj-B7ZIgvM2NMUsA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmK_I5cvRRD3oGFfACo0RXqAuj-B7ZIgvM2NMUsA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmK_I5cvRRD3oGFfACo0RXqAuj-B7ZIgvM2NMUsA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dubious Consumption",
+        "description": "Welcome to Dubious Consumption, a video essay channel that explores movies, books, games, as well as anything that grabs my attention. I make roughly 7-15 minute videos that engage in deep dives into my favorite things.\n\nI tend to describe the things I like as \u201cmore interesting than good.\u201d Everyone has run into a horrible movie, a la The Room, Sharknado, or near misses such as The Ninth Gate, YellowBrickRoad, or Daybreakers. I\u2019m here to celebrate the ideas that were good on paper but fell through in the creative process.\n\nLearn more about us at http://www.patreon.com/justindherd\n\nEPIC: E94UKY"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7C6qu4TSllzeeQ9TXFPtIw"
+      }
+    },
+    "statistics": {
+      "viewCount": "359548",
+      "subscriberCount": "2640",
+      "hiddenSubscriberCount": false,
+      "videoCount": "26"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dubious Consumption",
+        "description": "Welcome to Dubious Consumption, a video essay channel that explores movies, books, games, as well as anything that grabs my attention. I make roughly 7-15 minute videos that engage in deep dives into my favorite things.\n\nI tend to describe the things I like as \u201cmore interesting than good.\u201d Everyone has run into a horrible movie, a la The Room, Sharknado, or near misses such as The Ninth Gate, YellowBrickRoad, or Daybreakers. I\u2019m here to celebrate the ideas that were good on paper but fell through in the creative process.\n\nLearn more about us at http://www.patreon.com/justindherd\n\nEPIC: E94UKY",
+        "keywords": "\"dubious consumption\" film movies television \"video essay\" nerd essay analysis review commentary horror animation anime \"stephen king's it\" \"house of leaves\" \"time travel\"",
+        "trackingAnalyticsAccountId": "UA-40961571-1",
+        "unsubscribedTrailer": "du2R47kMuDE",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/pj9F8AtfW_PC2cEkOObDiAwYJvtocXBjqpS6D2coEpZXVQ1inadpaGpa-k5ddfKYEUqAYCTP"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCuXWJFax4xubbWDudVMx92g",
+  "retrieved_on": "2021-12-05 03:47:38.478955",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "GOCEt4fE6KEBRMg2IZg2K4zSVj4",
+    "id": "UCuXWJFax4xubbWDudVMx92g",
+    "snippet": {
+      "title": "R\u00e9gion Dents du Midi",
+      "description": "Check out what's going on in the R\u00e9gion Dents du Midi and the resorts of Champ\u00e9ry, Les Crosets, Champoussin, Morgins and Val-d'Illiez. Welcome to the swiss side of Les Portes du Soleil area. Ski, snowboard, mountain bike and hiking paradise.",
+      "customUrl": "regiondentsdumidi",
+      "publishedAt": "2012-02-16T13:21:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQRC43MRoReVISC7FTEAoyqAfqU0MLHvnc3UUeIQg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQRC43MRoReVISC7FTEAoyqAfqU0MLHvnc3UUeIQg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQRC43MRoReVISC7FTEAoyqAfqU0MLHvnc3UUeIQg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "R\u00e9gion Dents du Midi",
+        "description": "Check out what's going on in the R\u00e9gion Dents du Midi and the resorts of Champ\u00e9ry, Les Crosets, Champoussin, Morgins and Val-d'Illiez. Welcome to the swiss side of Les Portes du Soleil area. Ski, snowboard, mountain bike and hiking paradise."
+      },
+      "country": "CH"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUuXWJFax4xubbWDudVMx92g"
+      }
+    },
+    "statistics": {
+      "viewCount": "836636",
+      "subscriberCount": "4500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "132"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "R\u00e9gion Dents du Midi",
+        "description": "Check out what's going on in the R\u00e9gion Dents du Midi and the resorts of Champ\u00e9ry, Les Crosets, Champoussin, Morgins and Val-d'Illiez. Welcome to the swiss side of Les Portes du Soleil area. Ski, snowboard, mountain bike and hiking paradise.",
+        "keywords": "Valais Wallis Tourisme Champ\u00e9ry Portes du Soleil mountain bike ski snowboard hiking climbing canyoning morgins",
+        "trackingAnalyticsAccountId": "UA-57252378-7",
+        "country": "CH"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/m-eyT7kGKtdg47UzpN8DHsCeLxXFVPZNWttk73UaFlSzYtqPWuU7kQGk1JJTaRYRZvRDo_OxeVA"
+      }
+    }
+  }
+}

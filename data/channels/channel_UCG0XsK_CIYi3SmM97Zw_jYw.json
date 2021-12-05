@@ -1,0 +1,53 @@
+{
+  "channel_id": "UCG0XsK_CIYi3SmM97Zw_jYw",
+  "retrieved_on": "2021-12-05 03:47:28.304230",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "uxgyPmeK9xoxApwg4P2avclgnuU",
+    "id": "UCG0XsK_CIYi3SmM97Zw_jYw",
+    "snippet": {
+      "title": "Carson Long",
+      "description": "",
+      "publishedAt": "2011-08-25T07:04:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIpN0meSOvKO7m9RJiFOD63C7y1hA3avSwNg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIpN0meSOvKO7m9RJiFOD63C7y1hA3avSwNg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRIpN0meSOvKO7m9RJiFOD63C7y1hA3avSwNg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Carson Long",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUG0XsK_CIYi3SmM97Zw_jYw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2455455",
+      "subscriberCount": "1920",
+      "hiddenSubscriberCount": false,
+      "videoCount": "908"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Carson Long",
+        "unsubscribedTrailer": "jB26XZHPEbI"
+      }
+    }
+  }
+}

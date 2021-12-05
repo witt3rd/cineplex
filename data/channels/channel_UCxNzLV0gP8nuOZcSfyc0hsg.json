@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCxNzLV0gP8nuOZcSfyc0hsg",
+  "retrieved_on": "2021-12-05 03:47:36.348977",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "KWXJQdz--gTev_8Irarc9xGZI1s",
+    "id": "UCxNzLV0gP8nuOZcSfyc0hsg",
+    "snippet": {
+      "title": "Abhishek Agarrwal",
+      "description": "Hi, my name is Abhishek Agarwal and in this channel I'll share my learning with QlikView & Other related tools, technologies & concepts. I use couple of different tools & visualization techniques to create Business Dashboards and Reports and I'm really excited after learning it's new cool features.\n\nThe objective of this channel is to help you if you are planning to learn these new tools & technologies. Your suggestions and comments are welcome to improve the content.\n\nI hope you'll find my contribution an addition into your learning.\n\n-Abhishek\ndatantools.com",
+      "customUrl": "abhishekagarrwal",
+      "publishedAt": "2008-12-14T08:10:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSg004CtG2iTDahizTRJRsz2HD7ZBwm0TKUJ-JoLn8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSg004CtG2iTDahizTRJRsz2HD7ZBwm0TKUJ-JoLn8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSg004CtG2iTDahizTRJRsz2HD7ZBwm0TKUJ-JoLn8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Abhishek Agarrwal",
+        "description": "Hi, my name is Abhishek Agarwal and in this channel I'll share my learning with QlikView & Other related tools, technologies & concepts. I use couple of different tools & visualization techniques to create Business Dashboards and Reports and I'm really excited after learning it's new cool features.\n\nThe objective of this channel is to help you if you are planning to learn these new tools & technologies. Your suggestions and comments are welcome to improve the content.\n\nI hope you'll find my contribution an addition into your learning.\n\n-Abhishek\ndatantools.com"
+      },
+      "country": "IN"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUxNzLV0gP8nuOZcSfyc0hsg"
+      }
+    },
+    "statistics": {
+      "viewCount": "6653517",
+      "hiddenSubscriberCount": true,
+      "videoCount": "1111"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Abhishek Agarrwal",
+        "description": "Hi, my name is Abhishek Agarwal and in this channel I'll share my learning with QlikView & Other related tools, technologies & concepts. I use couple of different tools & visualization techniques to create Business Dashboards and Reports and I'm really excited after learning it's new cool features.\n\nThe objective of this channel is to help you if you are planning to learn these new tools & technologies. Your suggestions and comments are welcome to improve the content.\n\nI hope you'll find my contribution an addition into your learning.\n\n-Abhishek\ndatantools.com",
+        "keywords": "\"dashboard business intelligence\" \"qlikview set analysis\" \"set analysis qlikview\" \"qlikview data analysis\" \"qlikview analysis\" \"qlik sense tutorial for beginners\" qliksense qlik \"qlikview training videos\" \"qlikview tutorial\" \"qlikview training\" \"qlik tutorial\" \"learn tableau\" python \"machine learning\" \"Google Data Studio Tutorials\" \"Python tutorials\" \"R Programming Tutorials\" \"Qlik Sense Projects\" \"Python Projects\" \"Data Science Projects\" \"Machine Learning Projects\" \"Julia Programming Tutorial\"",
+        "unsubscribedTrailer": "iE3amT-K4h0",
+        "defaultLanguage": "en",
+        "country": "IN"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/hwffSQ9Q2o58IdcXUA7bCKvUlnj7FICmFhkAcqtgXzBv5LDkxC-sgPV0kENpgOVACJl9_9MwWw"
+      }
+    }
+  }
+}

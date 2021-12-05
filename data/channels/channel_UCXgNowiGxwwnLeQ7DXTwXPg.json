@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCXgNowiGxwwnLeQ7DXTwXPg",
+  "retrieved_on": "2021-12-05 03:47:34.084520",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "kbWydJAX2D4eLKdNxoKM1VtNZxw",
+    "id": "UCXgNowiGxwwnLeQ7DXTwXPg",
+    "snippet": {
+      "title": "The Science Asylum",
+      "description": "At the Science Asylum, Nick Lucid is absurdly excited about science and math. We hope that you feel safe to be excited about it too.\n\nCrazy = Very enthusiastic, passionate, fanatical, excited, and/or obsessed.\nAsylum = Haven, refuge, sanctuary, shelter, and/or safe house.\n\nSnail Mail (if you're into that):\nScience Asylum\n43311 Joy Road #135\nCanton, MI 48187",
+      "customUrl": "scienceasylum",
+      "publishedAt": "2012-12-06T05:33:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVET_h9VkqBGp7OkXEYcu9m1B5qFOBrKoNeWuzqw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVET_h9VkqBGp7OkXEYcu9m1B5qFOBrKoNeWuzqw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVET_h9VkqBGp7OkXEYcu9m1B5qFOBrKoNeWuzqw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Science Asylum",
+        "description": "At the Science Asylum, Nick Lucid is absurdly excited about science and math. We hope that you feel safe to be excited about it too.\n\nCrazy = Very enthusiastic, passionate, fanatical, excited, and/or obsessed.\nAsylum = Haven, refuge, sanctuary, shelter, and/or safe house.\n\nSnail Mail (if you're into that):\nScience Asylum\n43311 Joy Road #135\nCanton, MI 48187"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXgNowiGxwwnLeQ7DXTwXPg"
+      }
+    },
+    "statistics": {
+      "viewCount": "35989605",
+      "subscriberCount": "450000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "166"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Science Asylum",
+        "description": "At the Science Asylum, Nick Lucid is absurdly excited about science and math. We hope that you feel safe to be excited about it too.\n\nCrazy = Very enthusiastic, passionate, fanatical, excited, and/or obsessed.\nAsylum = Haven, refuge, sanctuary, shelter, and/or safe house.\n\nSnail Mail (if you're into that):\nScience Asylum\n43311 Joy Road #135\nCanton, MI 48187",
+        "keywords": "Science Education Physics Biology Psychology Comedy",
+        "moderateComments": true,
+        "unsubscribedTrailer": "Ga0TKrylnXY",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/c6YMtXSntk6XRTIKe9_OYn7oM7q8O2Ob03CmsFydoULCKFUPoqkyg5h4TI6ASFgRujP6wGCpxiI"
+      }
+    }
+  }
+}

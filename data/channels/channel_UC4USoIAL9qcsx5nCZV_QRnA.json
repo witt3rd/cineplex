@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC4USoIAL9qcsx5nCZV_QRnA",
+  "retrieved_on": "2021-12-05 03:47:40.782200",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "vbzIszfUSkxf99x3f1PLiZj88rI",
+    "id": "UC4USoIAL9qcsx5nCZV_QRnA",
+    "snippet": {
+      "title": "iDubbbzTV",
+      "description": "YO YO YO YO YO YO YO YO YOOOOOOOOOOOOOOOOOO, WUDDDDUPPPPPP! \n\nChannel Art by: @mushbuh\n\nWebsite: idubbbz.com\n\nTwitter: Twitter.com/idubbbz\nFacebook: Facebook.com/idubbbz",
+      "customUrl": "idubbbztv",
+      "publishedAt": "2012-08-18T04:11:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUFIQCUHI66PDzFq4a-iDGCHaVLRrdGjZ-8ZJ0iw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUFIQCUHI66PDzFq4a-iDGCHaVLRrdGjZ-8ZJ0iw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUFIQCUHI66PDzFq4a-iDGCHaVLRrdGjZ-8ZJ0iw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "iDubbbzTV",
+        "description": "YO YO YO YO YO YO YO YO YOOOOOOOOOOOOOOOOOO, WUDDDDUPPPPPP! \n\nChannel Art by: @mushbuh\n\nWebsite: idubbbz.com\n\nTwitter: Twitter.com/idubbbz\nFacebook: Facebook.com/idubbbz"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4USoIAL9qcsx5nCZV_QRnA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1438961909",
+      "subscriberCount": "7810000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "285"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "iDubbbzTV",
+        "description": "YO YO YO YO YO YO YO YO YOOOOOOOOOOOOOOOOOO, WUDDDDUPPPPPP! \n\nChannel Art by: @mushbuh\n\nWebsite: idubbbz.com\n\nTwitter: Twitter.com/idubbbz\nFacebook: Facebook.com/idubbbz",
+        "keywords": "idubbbz idubbz kickstarter crap bad unboxing complains",
+        "unsubscribedTrailer": "GYk4ymtQ1WM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/pDcK_g8xqTRXGJTwQpNZQNyqw_pKQfah0WL1TlhJwFh863VKLQZmkzIdi7mq2-6eaWVjbY-rHw"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+  "retrieved_on": "2021-12-05 03:47:28.304271",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "eAGzB40XGp8--Z0lKUF8DiMgvu4",
+    "id": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "snippet": {
+      "title": "Rebel Wisdom",
+      "description": "We just relaunched our website, organising and categorising the content in a much more complete way than YouTube allows: https://rebelwisdom.co.uk/films\n\nWhen our existing assumptions and ways of thinking break down, it\u2019s the rebels and the renegades, those who dare to think differently, who are needed to reboot the system. \n\nRebel Wisdom is a transformational media channel founded by BBC & Channel 4 journalist David Fuller, and writer Alexander Beiner.\n\nWe believe we are seeing a civilisational-level crisis of ideas, as the old operating system breaks down. The new is struggling to emerge \u2013 and the most transformative ideas always show up first as rebellious. \n\nOur channel trailer was recorded in 2018, but fits perfectly with the crisis we are now experiencing: https://www.youtube.com/watch?v=7GGbLez57oM&t=1s\n\nWe created the Rebel Wisdom Digital Campfire and our courses to practice the ideas we talk about - you can read more about them on https://rebelwisdom.co.uk/\n\n",
+      "customUrl": "rebelwisdom",
+      "publishedAt": "2017-09-25T18:45:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT8lm6lYv_6Bz210302JKR0gUo1gQp4dW72ogE-Rw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT8lm6lYv_6Bz210302JKR0gUo1gQp4dW72ogE-Rw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT8lm6lYv_6Bz210302JKR0gUo1gQp4dW72ogE-Rw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rebel Wisdom",
+        "description": "We just relaunched our website, organising and categorising the content in a much more complete way than YouTube allows: https://rebelwisdom.co.uk/films\n\nWhen our existing assumptions and ways of thinking break down, it\u2019s the rebels and the renegades, those who dare to think differently, who are needed to reboot the system. \n\nRebel Wisdom is a transformational media channel founded by BBC & Channel 4 journalist David Fuller, and writer Alexander Beiner.\n\nWe believe we are seeing a civilisational-level crisis of ideas, as the old operating system breaks down. The new is struggling to emerge \u2013 and the most transformative ideas always show up first as rebellious. \n\nOur channel trailer was recorded in 2018, but fits perfectly with the crisis we are now experiencing: https://www.youtube.com/watch?v=7GGbLez57oM&t=1s\n\nWe created the Rebel Wisdom Digital Campfire and our courses to practice the ideas we talk about - you can read more about them on https://rebelwisdom.co.uk/\n\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFQ6Gptuq-sLflbJ4YY3Umw"
+      }
+    },
+    "statistics": {
+      "viewCount": "17484905",
+      "subscriberCount": "234000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "345"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rebel Wisdom",
+        "description": "We just relaunched our website, organising and categorising the content in a much more complete way than YouTube allows: https://rebelwisdom.co.uk/films\n\nWhen our existing assumptions and ways of thinking break down, it\u2019s the rebels and the renegades, those who dare to think differently, who are needed to reboot the system. \n\nRebel Wisdom is a transformational media channel founded by BBC & Channel 4 journalist David Fuller, and writer Alexander Beiner.\n\nWe believe we are seeing a civilisational-level crisis of ideas, as the old operating system breaks down. The new is struggling to emerge \u2013 and the most transformative ideas always show up first as rebellious. \n\nOur channel trailer was recorded in 2018, but fits perfectly with the crisis we are now experiencing: https://www.youtube.com/watch?v=7GGbLez57oM&t=1s\n\nWe created the Rebel Wisdom Digital Campfire and our courses to practice the ideas we talk about - you can read more about them on https://rebelwisdom.co.uk/\n\n",
+        "unsubscribedTrailer": "GyHxau5CaIc",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/bbAvxZThOTxIfG3qmMSsnygX9-4lmb_R-H5WC4NwYnMPUQltroXAcGGqMftv5e2Qx13PfFXezw"
+      }
+    }
+  }
+}

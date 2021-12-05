@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCd4mTFLK9Ct4bgLlKAbhbcw",
+  "retrieved_on": "2021-12-05 03:47:37.514202",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lUhTK8QeWaIoghOcoh4ZAiGmm_I",
+    "id": "UCd4mTFLK9Ct4bgLlKAbhbcw",
+    "snippet": {
+      "title": "Red Bull Music Academy",
+      "description": "The Red Bull Music Academy is a global music institution committed to fostering creativity in music. We celebrate music, its culture, and the transformative minds behind it. Begun in 1998, the Academy has taken the core principles that underlie its annual workshop for selected participants and applied this curatorial approach to events, lectures, and city-wide festivals throughout the year.",
+      "customUrl": "rbma",
+      "publishedAt": "2007-09-12T14:32:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSkpYIpcIkGhRWgfdGn-B9_vJZKVtMcUGvDGDXC8A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSkpYIpcIkGhRWgfdGn-B9_vJZKVtMcUGvDGDXC8A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSkpYIpcIkGhRWgfdGn-B9_vJZKVtMcUGvDGDXC8A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Red Bull Music Academy",
+        "description": "The Red Bull Music Academy is a global music institution committed to fostering creativity in music. We celebrate music, its culture, and the transformative minds behind it. Begun in 1998, the Academy has taken the core principles that underlie its annual workshop for selected participants and applied this curatorial approach to events, lectures, and city-wide festivals throughout the year."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUd4mTFLK9Ct4bgLlKAbhbcw"
+      }
+    },
+    "statistics": {
+      "viewCount": "37800284",
+      "subscriberCount": "175000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "947"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Red Bull Music Academy",
+        "description": "The Red Bull Music Academy is a global music institution committed to fostering creativity in music. We celebrate music, its culture, and the transformative minds behind it. Begun in 1998, the Academy has taken the core principles that underlie its annual workshop for selected participants and applied this curatorial approach to events, lectures, and city-wide festivals throughout the year.",
+        "keywords": "\"\u201cred bull music academy\u201d\" \"\u201cred bull\u201d\" \"\u201cstudio science\u201d\" \"\u201cworkshop\u201d \u201cRBMA\u201d\" \"\u201cRBMA lecture couch\u201d\" \"\u201cRBMA daily\u201d\" \"\u201cRBMA Radio\u201d\" \"\u201cred bull music\u201d\" \"\u201cbeyond the noise\u201d\" \u201cmusic\u201d \"\u201crevolutions on air\u201d\" \u201cdj\u201d",
+        "unsubscribedTrailer": "ywiik_XEFH8"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/EA9x9eE10JD1gk-lBtLx9kM5IwZrwLQOJMrbzqrjCBiTjKqgD1eilVLqYep4wd5dkUMm_IhOAQ"
+      }
+    }
+  }
+}

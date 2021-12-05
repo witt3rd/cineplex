@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCgqxitHnuVbc1ND-oEd362A",
+  "retrieved_on": "2021-12-05 03:47:38.478871",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-hlpo2WYqiAr_iHzxpGOcu5r4sc",
+    "id": "UCgqxitHnuVbc1ND-oEd362A",
+    "snippet": {
+      "title": "Andoss34",
+      "description": "Art is the most important thing... To share ideas that go beyond words, to leave a message for the ages and to help shape the future.",
+      "publishedAt": "2011-08-21T23:34:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSKZEgSuTkdBWcEv3wdVZZKh5S5DyjoMaS8wQ9k=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSKZEgSuTkdBWcEv3wdVZZKh5S5DyjoMaS8wQ9k=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSKZEgSuTkdBWcEv3wdVZZKh5S5DyjoMaS8wQ9k=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Andoss34",
+        "description": "Art is the most important thing... To share ideas that go beyond words, to leave a message for the ages and to help shape the future."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgqxitHnuVbc1ND-oEd362A"
+      }
+    },
+    "statistics": {
+      "viewCount": "378303",
+      "subscriberCount": "307",
+      "hiddenSubscriberCount": false,
+      "videoCount": "37"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Andoss34",
+        "description": "Art is the most important thing... To share ideas that go beyond words, to leave a message for the ages and to help shape the future."
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/HwZ6kgb0QP6nO7XTDKwyfxyiZKeaUIw2STFZawY4hs62gfhna21SjyAk1wDEKh5LGz5o3n0pQQ"
+      }
+    }
+  }
+}

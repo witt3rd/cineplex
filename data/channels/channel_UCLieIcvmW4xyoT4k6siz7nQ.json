@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCLieIcvmW4xyoT4k6siz7nQ",
+  "retrieved_on": "2021-12-05 03:47:34.534316",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "q5M7tyEufI14QFsNB-YlqAI1fEo",
+    "id": "UCLieIcvmW4xyoT4k6siz7nQ",
+    "snippet": {
+      "title": "A Cloudless Mind",
+      "description": "Nonduality, neuroscience and change.",
+      "customUrl": "advaitanondualiteit",
+      "publishedAt": "2007-06-24T21:03:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS94EzdvjxMVJWt8QPugVpWysKSf2O9xQf_ywmyNQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS94EzdvjxMVJWt8QPugVpWysKSf2O9xQf_ywmyNQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS94EzdvjxMVJWt8QPugVpWysKSf2O9xQf_ywmyNQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "A Cloudless Mind",
+        "description": "Nonduality, neuroscience and change."
+      },
+      "country": "NL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UULieIcvmW4xyoT4k6siz7nQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1244229",
+      "subscriberCount": "6130",
+      "hiddenSubscriberCount": false,
+      "videoCount": "158"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "A Cloudless Mind",
+        "description": "Nonduality, neuroscience and change.",
+        "keywords": "nondualiteit advaita Paul Smit Patrick Kicken filosofie cabaretier",
+        "unsubscribedTrailer": "x75OwZ5UV6c",
+        "country": "NL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/kyOiTyV-urvZUriWNSR_KEE6FHWFcmjNdM909vq9E0WY__vs5gKRCO9KAmI_lf1Zbg-fpDkhqGU"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+  "retrieved_on": "2021-12-05 03:47:30.163065",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jiI8aJLfZtto1htkwDiNv7GbkHs",
+    "id": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+    "snippet": {
+      "title": "Coding Tech",
+      "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).\n\nFor business inquiries, please connect on Twitter: https://twitter.com/yuriymatso",
+      "customUrl": "codingtech",
+      "publishedAt": "2015-10-17T02:48:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSlrBJOA97k9yCSMwnknkCmaxBZJJV8C4KHjPezRw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSlrBJOA97k9yCSMwnknkCmaxBZJJV8C4KHjPezRw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSlrBJOA97k9yCSMwnknkCmaxBZJJV8C4KHjPezRw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Coding Tech",
+        "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).\n\nFor business inquiries, please connect on Twitter: https://twitter.com/yuriymatso"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtxCXg-UvSnTKPOzLH4wJaQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "41012970",
+      "subscriberCount": "664000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1080"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Coding Tech",
+        "description": "Coding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).\n\nFor business inquiries, please connect on Twitter: https://twitter.com/yuriymatso",
+        "keywords": "javascript python css html \"machine learning\" \"artificial intelligence\" \"software development\" programming",
+        "moderateComments": true,
+        "unsubscribedTrailer": "O-U11s-Rk_w",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/TL7jYLx2g5E5EDU79qYIlNd8v3rixDhpHP39TzkAwCvgui4oojemjlmyT0Czwj7T43cfNCKkfQ"
+      }
+    }
+  }
+}

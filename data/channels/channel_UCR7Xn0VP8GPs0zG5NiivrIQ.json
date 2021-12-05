@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCR7Xn0VP8GPs0zG5NiivrIQ",
+  "retrieved_on": "2021-12-05 03:47:33.852084",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "T2kSBclQOftLn9ecIemInm3c3ZY",
+    "id": "UCR7Xn0VP8GPs0zG5NiivrIQ",
+    "snippet": {
+      "title": "brainchildpl",
+      "description": "On this channel I will be creating 3d low poly game art in Blender 3d. I've been creating 3d and 2d art for games for last 12-14 years. I created GUI and Game Interface Design for games, Game Icons, Lowpoly Game Assets, High Poly models, Sculpts in Zbrush, Photoshop and Blender. I also use Substance Painter and Substance designer in my workflow - I love procedural texturing and I love working with node system. I use Unity for my games but I want to also learn Unreal Engines to create 3d art for that game engine - so stay tuned, I will have more game asset creation workflows for Unreal and Unity Game Engines.",
+      "customUrl": "brainchildpl",
+      "publishedAt": "2011-11-17T12:12:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSnp3Uy8f5uwEJyPdRwsCyxS1HKwd1vXn1yakuk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSnp3Uy8f5uwEJyPdRwsCyxS1HKwd1vXn1yakuk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSnp3Uy8f5uwEJyPdRwsCyxS1HKwd1vXn1yakuk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "brainchildpl",
+        "description": "On this channel I will be creating 3d low poly game art in Blender 3d. I've been creating 3d and 2d art for games for last 12-14 years. I created GUI and Game Interface Design for games, Game Icons, Lowpoly Game Assets, High Poly models, Sculpts in Zbrush, Photoshop and Blender. I also use Substance Painter and Substance designer in my workflow - I love procedural texturing and I love working with node system. I use Unity for my games but I want to also learn Unreal Engines to create 3d art for that game engine - so stay tuned, I will have more game asset creation workflows for Unreal and Unity Game Engines."
+      },
+      "country": "PL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUR7Xn0VP8GPs0zG5NiivrIQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1884907",
+      "subscriberCount": "30800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "563"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "brainchildpl",
+        "description": "On this channel I will be creating 3d low poly game art in Blender 3d. I've been creating 3d and 2d art for games for last 12-14 years. I created GUI and Game Interface Design for games, Game Icons, Lowpoly Game Assets, High Poly models, Sculpts in Zbrush, Photoshop and Blender. I also use Substance Painter and Substance designer in my workflow - I love procedural texturing and I love working with node system. I use Unity for my games but I want to also learn Unreal Engines to create 3d art for that game engine - so stay tuned, I will have more game asset creation workflows for Unreal and Unity Game Engines.",
+        "keywords": "\"low poly game\" lowpoly \"3d lowpoly\" \"low poly 3d\" \"game assets\" \"3d art\" 3dart \"low poly\" low-poly lowpolyart \"3d low poly art\" \"3d low poly\" \"3d modeling\" \"3d sculpting\" \"digital painting\" texturing \"model texture\" \"pbr texture\" \"blender low poly\" \"blender to unity\" \"blender to substance\" \"blender 2.90 tips\" \"blender speed model\" \"blender speed art\" \"blender lowpoly\" \"blender low poly\" blender3d \"blender3d low poly\" \"blender game art\" \"blender 3d game art\" \"game dev\" \"blender tutorial\"",
+        "trackingAnalyticsAccountId": "UA-42426422-1",
+        "unsubscribedTrailer": "ueo6WJWGvqk",
+        "country": "PL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/mROlTlpjfWQqeDCgEv8cjQK8AVcQ9-3so-ixU6-ODPpXHf5QZ0KR2QbxQYWk27jRrz61_zGEZg"
+      }
+    }
+  }
+}

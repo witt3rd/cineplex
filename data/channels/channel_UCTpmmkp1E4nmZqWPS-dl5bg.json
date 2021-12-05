@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCTpmmkp1E4nmZqWPS-dl5bg",
+  "retrieved_on": "2021-12-05 03:47:35.055086",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "KBfVTYj4GlyvV_VH8YMzG4wGP08",
+    "id": "UCTpmmkp1E4nmZqWPS-dl5bg",
+    "snippet": {
+      "title": "Quanta Magazine",
+      "description": "Explore mind-bending developments in basic science and math research. Quanta is an award-winning, editorially independent magazine published by the Simons Foundation. http://www.quantamagazine.org/",
+      "customUrl": "quantamagazineorgnews",
+      "publishedAt": "2015-06-08T20:54:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTtBjPkvNfo-j4LsKr9YHzRQsIo56aGl2y6XtsMWQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTtBjPkvNfo-j4LsKr9YHzRQsIo56aGl2y6XtsMWQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTtBjPkvNfo-j4LsKr9YHzRQsIo56aGl2y6XtsMWQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Quanta Magazine",
+        "description": "Explore mind-bending developments in basic science and math research. Quanta is an award-winning, editorially independent magazine published by the Simons Foundation. http://www.quantamagazine.org/"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTpmmkp1E4nmZqWPS-dl5bg"
+      }
+    },
+    "statistics": {
+      "viewCount": "14730233",
+      "subscriberCount": "358000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "167"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Quanta Magazine",
+        "description": "Explore mind-bending developments in basic science and math research. Quanta is an award-winning, editorially independent magazine published by the Simons Foundation. http://www.quantamagazine.org/",
+        "unsubscribedTrailer": "shPwW11MEHg",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/XLWMZMWg82W6garAfbDp1IzSxeQYpXINXpTASyxEJZjOHBC68AlOmZjxXmyyx23Y1v1WwIfAWQ"
+      }
+    }
+  }
+}

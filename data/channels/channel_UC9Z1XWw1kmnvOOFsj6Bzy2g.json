@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC9Z1XWw1kmnvOOFsj6Bzy2g",
+  "retrieved_on": "2021-12-05 03:47:32.034180",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "MKUKvrul85lQ-F9I6lSFVJZe5QY",
+    "id": "UC9Z1XWw1kmnvOOFsj6Bzy2g",
+    "snippet": {
+      "title": "Blackthornprod",
+      "description": "Welcome to Blackthornprod ! \n\nThis channel is dedicated to the art of game creation ! \nYou will find step by step tutorials on a wide range of topics, all linked of course to the art of making games, such as the AI series or the character customization videos with Unity !\nYou will not only find tutorials on the channel but also many behind the scenes which will give you in depth looks at how I make my own games, from the early idea stage all the way to completion ! \nSo whether you're a game creator looking for a new trick to add to your dev toolkit or simply someone that enjoys watching the struggles and triumphs of an indie game developer, you'll find something to bite into here at Blackthornprod ! \n\nLINK to MY GAMES : https://blackthornprod.itch.io/\n\nBUY&PLAY The Dreadful Whispers : https://store.steampowered.com/app/1112340/The_Dreadful_Whispers/\n\nYou can also SUPPORT me and my channel via PATREON : https://www.patreon.com/blackthornprod\n\nCheers :) !",
+      "customUrl": "blackthornprod",
+      "publishedAt": "2015-08-15T09:06:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQo8NzVUBctv7Dsoit65kJD9z55nMwo6No1GFBXyw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQo8NzVUBctv7Dsoit65kJD9z55nMwo6No1GFBXyw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQo8NzVUBctv7Dsoit65kJD9z55nMwo6No1GFBXyw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Blackthornprod",
+        "description": "Welcome to Blackthornprod ! \n\nThis channel is dedicated to the art of game creation ! \nYou will find step by step tutorials on a wide range of topics, all linked of course to the art of making games, such as the AI series or the character customization videos with Unity !\nYou will not only find tutorials on the channel but also many behind the scenes which will give you in depth looks at how I make my own games, from the early idea stage all the way to completion ! \nSo whether you're a game creator looking for a new trick to add to your dev toolkit or simply someone that enjoys watching the struggles and triumphs of an indie game developer, you'll find something to bite into here at Blackthornprod ! \n\nLINK to MY GAMES : https://blackthornprod.itch.io/\n\nBUY&PLAY The Dreadful Whispers : https://store.steampowered.com/app/1112340/The_Dreadful_Whispers/\n\nYou can also SUPPORT me and my channel via PATREON : https://www.patreon.com/blackthornprod\n\nCheers :) !"
+      },
+      "country": "FR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU9Z1XWw1kmnvOOFsj6Bzy2g"
+      }
+    },
+    "statistics": {
+      "viewCount": "21015325",
+      "subscriberCount": "264000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "247"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Blackthornprod",
+        "description": "Welcome to Blackthornprod ! \n\nThis channel is dedicated to the art of game creation ! \nYou will find step by step tutorials on a wide range of topics, all linked of course to the art of making games, such as the AI series or the character customization videos with Unity !\nYou will not only find tutorials on the channel but also many behind the scenes which will give you in depth looks at how I make my own games, from the early idea stage all the way to completion ! \nSo whether you're a game creator looking for a new trick to add to your dev toolkit or simply someone that enjoys watching the struggles and triumphs of an indie game developer, you'll find something to bite into here at Blackthornprod ! \n\nLINK to MY GAMES : https://blackthornprod.itch.io/\n\nBUY&PLAY The Dreadful Whispers : https://store.steampowered.com/app/1112340/The_Dreadful_Whispers/\n\nYou can also SUPPORT me and my channel via PATREON : https://www.patreon.com/blackthornprod\n\nCheers :) !",
+        "keywords": "unity \"game development\" c# tutorial \"noa calice\" \"liam calice\"",
+        "unsubscribedTrailer": "BvndVcMrJyE",
+        "country": "FR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/HWWg7Pe44R-AKoCrz4lDk_fyFtGCPTTk8Op3yMxXj2H2upfw2JvGnpPRdPKxIMbYEmyviLCB3So"
+      }
+    }
+  }
+}

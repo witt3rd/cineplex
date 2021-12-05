@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCRd9JHiQvqwT8O4d0QGI9jQ",
+  "retrieved_on": "2021-12-05 03:47:28.057435",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "7eFOlCAeH6NbOkgSvW5HdH1Ms6I",
+    "id": "UCRd9JHiQvqwT8O4d0QGI9jQ",
+    "snippet": {
+      "title": "Scam Nation",
+      "description": "Scam Nation is the ultimate home for learning and showcasing magic. Including the vast back catalogue of Scam School and Scam School Remix, Scam Nation is the largest library of magic instruction and performances--and it's growing every week!\n\nABOUT SCAM SCHOOL\nIf Harvard offered a PhD in deceit, this would be it. Award-winning magician Brian Brushwood takes viewers on an inside tour of bar tricks, street cons, and scams. If you watch carefully, you'll never have to pay for a drink again!",
+      "publishedAt": "2009-09-03T20:48:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ48AXlY8nqZg5njmCAGIbbABJKjb9gKE6JvyNUwg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ48AXlY8nqZg5njmCAGIbbABJKjb9gKE6JvyNUwg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ48AXlY8nqZg5njmCAGIbbABJKjb9gKE6JvyNUwg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Scam Nation",
+        "description": "Scam Nation is the ultimate home for learning and showcasing magic. Including the vast back catalogue of Scam School and Scam School Remix, Scam Nation is the largest library of magic instruction and performances--and it's growing every week!\n\nABOUT SCAM SCHOOL\nIf Harvard offered a PhD in deceit, this would be it. Award-winning magician Brian Brushwood takes viewers on an inside tour of bar tricks, street cons, and scams. If you watch carefully, you'll never have to pay for a drink again!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURd9JHiQvqwT8O4d0QGI9jQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "277445036",
+      "subscriberCount": "1940000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1104"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Scam Nation",
+        "description": "Scam Nation is the ultimate home for learning and showcasing magic. Including the vast back catalogue of Scam School and Scam School Remix, Scam Nation is the largest library of magic instruction and performances--and it's growing every week!\n\nABOUT SCAM SCHOOL\nIf Harvard offered a PhD in deceit, this would be it. Award-winning magician Brian Brushwood takes viewers on an inside tour of bar tricks, street cons, and scams. If you watch carefully, you'll never have to pay for a drink again!",
+        "keywords": "scamschool \"scam school\" \"brian brushwood\" \"bar tricks\" \"magic tricks\" \"bar games\" drinking testtube \"test tube\" \"testtube network\" cheats magic scams pranks school revealed explained brushwood cards tutorial \"card tricks\" games discovery \"drinking games\" \"easy tricks\" magician \"scam nation\"",
+        "trackingAnalyticsAccountId": "UA-16289005-5",
+        "unsubscribedTrailer": "6TaH3KAK6dY",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/lJqN6uU4CtYgIsLlmdU6vI5rzusu2LGcbh2-2epNRZD-XkwVDSAMLyRnt8HAiLo1erLq9e63YDY"
+      }
+    }
+  }
+}

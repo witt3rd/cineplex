@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCMAtX9eFBpwc4LtgvbqsOpQ",
+  "retrieved_on": "2021-12-05 03:47:39.126015",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "CuGyP3WDf2z6oL2idI-w-p1u3y8",
+    "id": "UCMAtX9eFBpwc4LtgvbqsOpQ",
+    "snippet": {
+      "title": "CrowderBits",
+      "description": "Explore Louder with Crowder's \"bits.\" Show opens, segments, interviews, and more show content in smaller doses.",
+      "customUrl": "crowderbits",
+      "publishedAt": "2019-04-26T18:00:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCXuQ4vqDb-rv1CFj2OLrVX5P2-bPI6PkyhJaK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCXuQ4vqDb-rv1CFj2OLrVX5P2-bPI6PkyhJaK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCXuQ4vqDb-rv1CFj2OLrVX5P2-bPI6PkyhJaK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CrowderBits",
+        "description": "Explore Louder with Crowder's \"bits.\" Show opens, segments, interviews, and more show content in smaller doses."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMAtX9eFBpwc4LtgvbqsOpQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "302609463",
+      "subscriberCount": "1070000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1328"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CrowderBits",
+        "description": "Explore Louder with Crowder's \"bits.\" Show opens, segments, interviews, and more show content in smaller doses.",
+        "keywords": "\"steven crowder\" \"stephen crowder\" \"louder with crowder\" LwC \"mug club\" \"Change My Mind\" \"Crowder Confronts\" comedy politics news liberal libertarian \"funny conservative\" \"current events\" \"fake news\" \"how to debate\" \"how to debunk\" crowderbits \"crowder bits\" \"crowder clips\"",
+        "unsubscribedTrailer": "TsvVFKfiNxY",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/cMoavK7KO2nIZZBRKugXGs92sIZm1Ao1jC6g5ARu97UJaG2U7QQ3ACc7D3thB17_YvqgXgab-A"
+      }
+    }
+  }
+}

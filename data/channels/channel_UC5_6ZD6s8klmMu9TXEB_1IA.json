@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC5_6ZD6s8klmMu9TXEB_1IA",
+  "retrieved_on": "2021-12-05 03:47:39.125876",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jK-2KnFWUmpOgvSewwjRIGp2hDA",
+    "id": "UC5_6ZD6s8klmMu9TXEB_1IA",
+    "snippet": {
+      "title": "CodeEmporium",
+      "description": "Everything new and interesting in Machine Learning, Deep Learning, Data Science, & Artificial Intelligence. Hoping to build a community of data science geeks and talk about future tech! Projects demos and more! Subscribe for awesome videos :)",
+      "customUrl": "codeemporium",
+      "publishedAt": "2016-05-27T18:05:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ46Rv001iDL2aeaH9HhrfB26bf2eKDrj3g-OQ4=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ46Rv001iDL2aeaH9HhrfB26bf2eKDrj3g-OQ4=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ46Rv001iDL2aeaH9HhrfB26bf2eKDrj3g-OQ4=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CodeEmporium",
+        "description": "Everything new and interesting in Machine Learning, Deep Learning, Data Science, & Artificial Intelligence. Hoping to build a community of data science geeks and talk about future tech! Projects demos and more! Subscribe for awesome videos :)"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5_6ZD6s8klmMu9TXEB_1IA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2849544",
+      "subscriberCount": "56100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "118"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CodeEmporium",
+        "description": "Everything new and interesting in Machine Learning, Deep Learning, Data Science, & Artificial Intelligence. Hoping to build a community of data science geeks and talk about future tech! Projects demos and more! Subscribe for awesome videos :)",
+        "keywords": "\"Data Science\" \"Machine Learning\" \"Artificial Intelligence\" AI \"Natural Language Processing\"",
+        "unsubscribedTrailer": "TQQlZhbC5ps",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/_R6-fiP449HQDFhFoPLmUYDY_b2w7FEZA0lhi1NFjbz4JqAMClVjkrVnU-q47KZ6jdh1uDgR_Eg"
+      }
+    }
+  }
+}

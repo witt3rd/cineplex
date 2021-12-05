@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCbOO7d0vVo0kIrkd7m32irg",
+  "retrieved_on": "2021-12-05 03:47:35.856688",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "RGQPX96CIi_pmQYz2LcSvnHftSc",
+    "id": "UCbOO7d0vVo0kIrkd7m32irg",
+    "snippet": {
+      "title": "WebJeda",
+      "description": "WebJeda is a tech channel that deals with new web technologies.",
+      "customUrl": "webjeda",
+      "publishedAt": "2015-01-03T05:37:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-dtBePIy9q8DMIrtnsgmPA5YHROoHL5i7y5Ib=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-dtBePIy9q8DMIrtnsgmPA5YHROoHL5i7y5Ib=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-dtBePIy9q8DMIrtnsgmPA5YHROoHL5i7y5Ib=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "WebJeda",
+        "description": "WebJeda is a tech channel that deals with new web technologies."
+      },
+      "country": "IN"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUbOO7d0vVo0kIrkd7m32irg"
+      }
+    },
+    "statistics": {
+      "viewCount": "549939",
+      "subscriberCount": "2980",
+      "hiddenSubscriberCount": false,
+      "videoCount": "92"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "WebJeda",
+        "description": "WebJeda is a tech channel that deals with new web technologies.",
+        "keywords": "\"web ddevelopment\" \"web design\" html css svelte jekyll",
+        "country": "IN"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/b2lGmPcqJW08AdIqfWrHkvvVV0WgFAq7TqH6rTXyqvhsZ8vBVwSGOIoW9eaqtFyn9eJWn5gIHw"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCUd0Pj06Jt1kgW-VdvmgIQQ",
+  "retrieved_on": "2021-12-05 03:47:29.188841",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "gR0Kx2JlWlMzI0CCfNztEdEQNyk",
+    "id": "UCUd0Pj06Jt1kgW-VdvmgIQQ",
+    "snippet": {
+      "title": "Steven",
+      "description": "I do things sometimes.",
+      "customUrl": "stevenstuff",
+      "publishedAt": "2018-09-09T21:15:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQaCIDgQnLRKkOaHDkjwXd6xLqZSJK-QYrYcvxZQg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQaCIDgQnLRKkOaHDkjwXd6xLqZSJK-QYrYcvxZQg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQaCIDgQnLRKkOaHDkjwXd6xLqZSJK-QYrYcvxZQg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Steven",
+        "description": "I do things sometimes."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUd0Pj06Jt1kgW-VdvmgIQQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "11418337",
+      "subscriberCount": "212000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "9"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Steven",
+        "description": "I do things sometimes.",
+        "keywords": "\"indie game\" devlog unity gamedev \"how to make games\" \"unity game development\" minecraft \"make games\" coding steven \"computer science\" \"game dev\" c# java \"fps game\" \"unreal engine\" godot programming \"i made a game\"",
+        "unsubscribedTrailer": "2gle_F522ng",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/6Y6uYWCU7qjIjAh35F6Y5uGqAS1esGs0AZHutOdlydrLDDL2G2zWmQ59PjphH4Bg30E-koDizg"
+      }
+    }
+  }
+}

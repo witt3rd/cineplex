@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCRU-Wgxf89k4QB7oCQUBWfQ",
+  "retrieved_on": "2021-12-05 03:47:37.250655",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Uia9CqCNLMEw8FL8Rjh5hjEwal8",
+    "id": "UCRU-Wgxf89k4QB7oCQUBWfQ",
+    "snippet": {
+      "title": "Julian P-Harri",
+      "description": "Just makin' some stuff on my spare time :D",
+      "customUrl": "julianpharri",
+      "publishedAt": "2014-04-14T15:32:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTRoEKig4Xj7sgxNxo5H2R13VCdfy5XCUhMhKd_wA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTRoEKig4Xj7sgxNxo5H2R13VCdfy5XCUhMhKd_wA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTRoEKig4Xj7sgxNxo5H2R13VCdfy5XCUhMhKd_wA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Julian P-Harri",
+        "description": "Just makin' some stuff on my spare time :D"
+      },
+      "country": "RU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURU-Wgxf89k4QB7oCQUBWfQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1158941",
+      "subscriberCount": "3880",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Julian P-Harri",
+        "description": "Just makin' some stuff on my spare time :D",
+        "keywords": "julian postavnichev-harri \"julian p-harri\" \"julian postavnichev-harri\"",
+        "country": "RU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/sS8AH01uMGkxQu9tyPim-FX30JkXtJn5HrMa7thNrg8rHvyhNEwlUaCHAzzdg94a2VPG_BFM9Q"
+      }
+    }
+  }
+}

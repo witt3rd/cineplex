@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC65BYtqlRNjR93D5UxGVfXw",
+  "retrieved_on": "2021-12-05 03:47:36.348818",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "wfDFYRrZx-ZXESGJ04tVlYBRjnE",
+    "id": "UC65BYtqlRNjR93D5UxGVfXw",
+    "snippet": {
+      "title": "theJourneyofPurpose TJOP",
+      "description": "Your life is your life\nThey may walk it with you but no one can walk it for you\nWe are the creators of our own imagination, what story will you create?\n\nSubscribe for powerful inspiring videos from TJOP\n",
+      "customUrl": "thejourneyofpurpose",
+      "publishedAt": "2013-05-12T02:35:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQa2YESvU-D2342T1r224ZEaU6XV2NvrTryrWmTHA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQa2YESvU-D2342T1r224ZEaU6XV2NvrTryrWmTHA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQa2YESvU-D2342T1r224ZEaU6XV2NvrTryrWmTHA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "theJourneyofPurpose TJOP",
+        "description": "Your life is your life\nThey may walk it with you but no one can walk it for you\nWe are the creators of our own imagination, what story will you create?\n\nSubscribe for powerful inspiring videos from TJOP\n"
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU65BYtqlRNjR93D5UxGVfXw"
+      }
+    },
+    "statistics": {
+      "viewCount": "55925046",
+      "subscriberCount": "423000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "55"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "theJourneyofPurpose TJOP",
+        "description": "Your life is your life\nThey may walk it with you but no one can walk it for you\nWe are the creators of our own imagination, what story will you create?\n\nSubscribe for powerful inspiring videos from TJOP\n",
+        "keywords": "thejourneyofpurpose TJOP",
+        "trackingAnalyticsAccountId": "UA-59997055-1",
+        "unsubscribedTrailer": "9CQIl0P4piQ",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/OqqGANvKJfZFqtsL5Ym1uk5pK5IwLac0YdAy9EqNjiChrzkrWtKuab-xqOp8NDDU10RdODv3Hg"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCgpGbh7d0X3-RBVYC4MQEEw",
+  "retrieved_on": "2021-12-05 03:47:31.215441",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "L11TMI84V1rmII4P9BHnTBRV1zA",
+    "id": "UCgpGbh7d0X3-RBVYC4MQEEw",
+    "snippet": {
+      "title": "Isto Inc.",
+      "description": "WANT TO HELP US?\nWishlist the game. It makes the difference between our game succeeded and failing (seriously)\nhttps://cutt.ly/atrio-steam\n\nABOUT US\nIsto Inc. is a three man indie dev team based in Calgary, Canada .\nStephen is a former Microsoft Program manager turned game designer. \nKyle is a 2 time Olympic athlete, with his own wikipedia page. Ask us what its like to work with a famous person (It's pretty sick tbh). \nFran\u00e7ois currently has a beard that is 2ft ear to tip (only 15ft 6in to go until he breaks the world record)!\nWe're the creators of Disjoint, and our newest game, Atrio.\n\nOUR PHILOSOPHY\nWe live by one rule: Make amazing games. And also don't be jerks.\nSo technically two rules. But we're all about breaking rules cuz we're bad like that. So technically we could make a mediocre game just to break the rules but so far all of our game(s) have been amazing.",
+      "customUrl": "istoinc",
+      "publishedAt": "2018-08-19T20:20:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRDI1PYQlKvX7k9YO1comVDcrKfslokYbOgRMyp=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRDI1PYQlKvX7k9YO1comVDcrKfslokYbOgRMyp=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRDI1PYQlKvX7k9YO1comVDcrKfslokYbOgRMyp=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Isto Inc.",
+        "description": "WANT TO HELP US?\nWishlist the game. It makes the difference between our game succeeded and failing (seriously)\nhttps://cutt.ly/atrio-steam\n\nABOUT US\nIsto Inc. is a three man indie dev team based in Calgary, Canada .\nStephen is a former Microsoft Program manager turned game designer. \nKyle is a 2 time Olympic athlete, with his own wikipedia page. Ask us what its like to work with a famous person (It's pretty sick tbh). \nFran\u00e7ois currently has a beard that is 2ft ear to tip (only 15ft 6in to go until he breaks the world record)!\nWe're the creators of Disjoint, and our newest game, Atrio.\n\nOUR PHILOSOPHY\nWe live by one rule: Make amazing games. And also don't be jerks.\nSo technically two rules. But we're all about breaking rules cuz we're bad like that. So technically we could make a mediocre game just to break the rules but so far all of our game(s) have been amazing."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgpGbh7d0X3-RBVYC4MQEEw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1794911",
+      "subscriberCount": "38600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "23"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Isto Inc.",
+        "description": "WANT TO HELP US?\nWishlist the game. It makes the difference between our game succeeded and failing (seriously)\nhttps://cutt.ly/atrio-steam\n\nABOUT US\nIsto Inc. is a three man indie dev team based in Calgary, Canada .\nStephen is a former Microsoft Program manager turned game designer. \nKyle is a 2 time Olympic athlete, with his own wikipedia page. Ask us what its like to work with a famous person (It's pretty sick tbh). \nFran\u00e7ois currently has a beard that is 2ft ear to tip (only 15ft 6in to go until he breaks the world record)!\nWe're the creators of Disjoint, and our newest game, Atrio.\n\nOUR PHILOSOPHY\nWe live by one rule: Make amazing games. And also don't be jerks.\nSo technically two rules. But we're all about breaking rules cuz we're bad like that. So technically we could make a mediocre game just to break the rules but so far all of our game(s) have been amazing.",
+        "keywords": "Gamedev vlog devlog 2.5d xbox steam indie indiegame",
+        "unsubscribedTrailer": "N3YQsNEwnSA",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ORuqgocJyCmlRF7KuxgSNpaB3jNc08zWvHnDJGdV6WU1qCW1l71Oa8TjvtFf2fKg0NHw6BYa"
+      }
+    }
+  }
+}

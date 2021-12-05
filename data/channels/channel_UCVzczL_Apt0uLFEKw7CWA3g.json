@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCVzczL_Apt0uLFEKw7CWA3g",
+  "retrieved_on": "2021-12-05 03:47:28.304173",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JFPOT-Ai1nKfGsX6U9PRx_q_J84",
+    "id": "UCVzczL_Apt0uLFEKw7CWA3g",
+    "snippet": {
+      "title": "Visionary Chicken",
+      "description": "Visual Effects | 3D Art | Photography | Games and Film. A channel to prove that magic is real.\n\nInstagram: @jackisachicken\n\nThis 'n' That Discord Server: https://discord.com/invite/TRE4YYp7t2",
+      "customUrl": "visionarychicken",
+      "publishedAt": "2016-06-01T16:15:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTxsB3HZBGt8Zauc3_qTH74gZfPzFF42PSRK45D7Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTxsB3HZBGt8Zauc3_qTH74gZfPzFF42PSRK45D7Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTxsB3HZBGt8Zauc3_qTH74gZfPzFF42PSRK45D7Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Visionary Chicken",
+        "description": "Visual Effects | 3D Art | Photography | Games and Film. A channel to prove that magic is real.\n\nInstagram: @jackisachicken\n\nThis 'n' That Discord Server: https://discord.com/invite/TRE4YYp7t2"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVzczL_Apt0uLFEKw7CWA3g"
+      }
+    },
+    "statistics": {
+      "viewCount": "419071",
+      "subscriberCount": "9980",
+      "hiddenSubscriberCount": false,
+      "videoCount": "24"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Visionary Chicken",
+        "description": "Visual Effects | 3D Art | Photography | Games and Film. A channel to prove that magic is real.\n\nInstagram: @jackisachicken\n\nThis 'n' That Discord Server: https://discord.com/invite/TRE4YYp7t2",
+        "keywords": "Films Visuals Games Art More",
+        "unsubscribedTrailer": "kOI1HqJb6V0",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ziIRxhriglxK27DdJgMwmlr0Lu0buuUCrI9tPlYUQFSlTq6qmBRG6v6OqhDTA-c59Om6U8wT_Eg"
+      }
+    }
+  }
+}

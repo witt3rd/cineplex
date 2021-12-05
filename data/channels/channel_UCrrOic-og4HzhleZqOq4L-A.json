@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCrrOic-og4HzhleZqOq4L-A",
+  "retrieved_on": "2021-12-05 03:47:30.960889",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "dYORT9rKaDaX3mz9ORCwp5Il_GE",
+    "id": "UCrrOic-og4HzhleZqOq4L-A",
+    "snippet": {
+      "title": "Stuff They Don't Want You To Know - HowStuffWorks",
+      "description": "From UFOs to psychic powers, ghosts and government cover-ups, history is riddled with unexplained events. But how can we get tell the truth from the fiction, and separate the fact from the rumor? Since 2008, Stuff They Don't Want You To Know has delved into the murky world of everything from cults to lost cosmonauts and allegations of the paranormal, applying critical thinking to the world's most prevalent conspiracy theories and, more often than not, discovering the disturbing grains of truth hidden in the heart of paranoia. Join Ben, Matt and Noel as they embark on their continuing quest to fit the puzzle pieces together, to connect the dots and follow the breadcrumbs into the truth behind the curtain, from the furthest reaches of the universe to the innermost depths of the human mind.\n- \nWEBSITE : https://www.stufftheydontwantyoutoknow.com\nPODCAST: http://stuf.ly/conspiracystuff\n-\nWe are a proud member of the HowStuffWorks Podcasts network.",
+      "customUrl": "conspiracystuff",
+      "publishedAt": "2012-10-18T00:34:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSotzbMi6kHpbhwsaV3PiZlpQk_iCI1GLHe8B8QIQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSotzbMi6kHpbhwsaV3PiZlpQk_iCI1GLHe8B8QIQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSotzbMi6kHpbhwsaV3PiZlpQk_iCI1GLHe8B8QIQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Stuff They Don't Want You To Know - HowStuffWorks",
+        "description": "From UFOs to psychic powers, ghosts and government cover-ups, history is riddled with unexplained events. But how can we get tell the truth from the fiction, and separate the fact from the rumor? Since 2008, Stuff They Don't Want You To Know has delved into the murky world of everything from cults to lost cosmonauts and allegations of the paranormal, applying critical thinking to the world's most prevalent conspiracy theories and, more often than not, discovering the disturbing grains of truth hidden in the heart of paranoia. Join Ben, Matt and Noel as they embark on their continuing quest to fit the puzzle pieces together, to connect the dots and follow the breadcrumbs into the truth behind the curtain, from the furthest reaches of the universe to the innermost depths of the human mind.\n- \nWEBSITE : https://www.stufftheydontwantyoutoknow.com\nPODCAST: http://stuf.ly/conspiracystuff\n-\nWe are a proud member of the HowStuffWorks Podcasts network."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUrrOic-og4HzhleZqOq4L-A"
+      }
+    },
+    "statistics": {
+      "viewCount": "67032708",
+      "subscriberCount": "592000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "685"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Stuff They Don't Want You To Know - HowStuffWorks",
+        "description": "From UFOs to psychic powers, ghosts and government cover-ups, history is riddled with unexplained events. But how can we get tell the truth from the fiction, and separate the fact from the rumor? Since 2008, Stuff They Don't Want You To Know has delved into the murky world of everything from cults to lost cosmonauts and allegations of the paranormal, applying critical thinking to the world's most prevalent conspiracy theories and, more often than not, discovering the disturbing grains of truth hidden in the heart of paranoia. Join Ben, Matt and Noel as they embark on their continuing quest to fit the puzzle pieces together, to connect the dots and follow the breadcrumbs into the truth behind the curtain, from the furthest reaches of the universe to the innermost depths of the human mind.\n- \nWEBSITE : https://www.stufftheydontwantyoutoknow.com\nPODCAST: http://stuf.ly/conspiracystuff\n-\nWe are a proud member of the HowStuffWorks Podcasts network.",
+        "keywords": "stuff they don't want you to know stdwytk history mystery science conspiracy theory conspiracies Ben Matt \"Twilight Zone\" \"Unsolved Mysteries\" X-Files"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/5sb6RqnixS71QXWoX3Yu7lTScG6c9IzQrikpENzvriwZJ8PRlRrWJta6--Jzf2PstJA5YIGP"
+      }
+    }
+  }
+}

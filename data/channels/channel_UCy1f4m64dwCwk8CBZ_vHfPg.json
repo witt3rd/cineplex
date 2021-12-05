@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCy1f4m64dwCwk8CBZ_vHfPg",
+  "retrieved_on": "2021-12-05 03:47:28.304290",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "F86z9h_HWeIZ-ezKOPz6dPPmyPI",
+    "id": "UCy1f4m64dwCwk8CBZ_vHfPg",
+    "snippet": {
+      "title": "CGMatter",
+      "description": "CGMatter creates high quality tutorials primarily focused on 2D/3D software.",
+      "customUrl": "cgmatter",
+      "publishedAt": "2019-02-03T20:17:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ9RGupgECoRjDTbngUb-CgqNUru-taIgU7SWph=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ9RGupgECoRjDTbngUb-CgqNUru-taIgU7SWph=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ9RGupgECoRjDTbngUb-CgqNUru-taIgU7SWph=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CGMatter",
+        "description": "CGMatter creates high quality tutorials primarily focused on 2D/3D software."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUy1f4m64dwCwk8CBZ_vHfPg"
+      }
+    },
+    "statistics": {
+      "viewCount": "21580737",
+      "subscriberCount": "220000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "274"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CGMatter",
+        "description": "CGMatter creates high quality tutorials primarily focused on 2D/3D software.",
+        "keywords": "how to tutorial explained digital vfx blender",
+        "unsubscribedTrailer": "QnOgRPpZzEs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/fRumHgCGA7w_4lHUO9a4Gdp_IMFfp46KqV6G8sWCgrQJRMUNp813wnI2SqVMM0UFXEgvDlbdTA"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCMCo_F7pKjMHBlfyxwOPw-g",
+  "retrieved_on": "2021-12-05 03:47:39.693557",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xH-_JliNuhy_VbMaNQcjNbw3v2Q",
+    "id": "UCMCo_F7pKjMHBlfyxwOPw-g",
+    "snippet": {
+      "title": "Zilliz Channel",
+      "description": "With the vision of Reinventing Data Science, Zilliz was founded in 2017 by a team of data practitioners committed to building cutting-edge data infrastructure to help enterprises navigate today\u2019s big data challenges.\n\nOur project-Milvus is an open-source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy. It has empowered many AI applications such as image/video/audio/text search, recommender systems, QnA system based on semantic understanding, new drug discovery, etc. You can visit our GitHub repo: https://github.com/milvus-io/milvus.",
+      "customUrl": "zillizchannel",
+      "publishedAt": "2020-09-11T04:53:27.332275Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCvSZ3kwfY5yASEVpJnC2jhNcurKeMa9mh0_AQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCvSZ3kwfY5yASEVpJnC2jhNcurKeMa9mh0_AQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRCvSZ3kwfY5yASEVpJnC2jhNcurKeMa9mh0_AQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Zilliz Channel",
+        "description": "With the vision of Reinventing Data Science, Zilliz was founded in 2017 by a team of data practitioners committed to building cutting-edge data infrastructure to help enterprises navigate today\u2019s big data challenges.\n\nOur project-Milvus is an open-source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy. It has empowered many AI applications such as image/video/audio/text search, recommender systems, QnA system based on semantic understanding, new drug discovery, etc. You can visit our GitHub repo: https://github.com/milvus-io/milvus."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMCo_F7pKjMHBlfyxwOPw-g"
+      }
+    },
+    "statistics": {
+      "viewCount": "6316",
+      "subscriberCount": "124",
+      "hiddenSubscriberCount": false,
+      "videoCount": "30"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Zilliz Channel",
+        "description": "With the vision of Reinventing Data Science, Zilliz was founded in 2017 by a team of data practitioners committed to building cutting-edge data infrastructure to help enterprises navigate today\u2019s big data challenges.\n\nOur project-Milvus is an open-source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy. It has empowered many AI applications such as image/video/audio/text search, recommender systems, QnA system based on semantic understanding, new drug discovery, etc. You can visit our GitHub repo: https://github.com/milvus-io/milvus.",
+        "unsubscribedTrailer": "nQkmgCtVz5k"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/rWcFG-ft-19K7fAsEwq6sY7WWBEflzmaKAepU8LCizoxICGDR5Aco9S70I3Xyb2BFzGUc3BLcw"
+      }
+    }
+  }
+}

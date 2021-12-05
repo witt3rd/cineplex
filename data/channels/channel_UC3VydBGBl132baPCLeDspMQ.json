@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC3VydBGBl132baPCLeDspMQ",
+  "retrieved_on": "2021-12-05 03:47:33.306707",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nZVEec0UnMtJ5UOC63-h8UcjddI",
+    "id": "UC3VydBGBl132baPCLeDspMQ",
+    "snippet": {
+      "title": "Packt Video",
+      "description": "The packtpub.com channel features samples of our course content, available for everyone. At packtpub.com you can access our entire range of practical, structured video tutorials, designed to help you get the job done.\n\nPackt Publishing bridges the gap between education and technical support, with books and videos that help you get the working knowledge you need to effectively apply new tools and techniques. Packt Video brings you this working knowledge straight from the experts, who will guide you to achieving your goals through clear instructions and explanations.\n\nFind out more about our range of video courses by visiting: http://www.packtpub.com/books/video",
+      "customUrl": "packtvideo",
+      "publishedAt": "2012-09-24T06:04:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6YGKVz3QKYaQfeGdY8Z_pe_27uIH0ol9vmC8sJA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6YGKVz3QKYaQfeGdY8Z_pe_27uIH0ol9vmC8sJA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6YGKVz3QKYaQfeGdY8Z_pe_27uIH0ol9vmC8sJA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Packt Video",
+        "description": "The packtpub.com channel features samples of our course content, available for everyone. At packtpub.com you can access our entire range of practical, structured video tutorials, designed to help you get the job done.\n\nPackt Publishing bridges the gap between education and technical support, with books and videos that help you get the working knowledge you need to effectively apply new tools and techniques. Packt Video brings you this working knowledge straight from the experts, who will guide you to achieving your goals through clear instructions and explanations.\n\nFind out more about our range of video courses by visiting: http://www.packtpub.com/books/video"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3VydBGBl132baPCLeDspMQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "12846792",
+      "subscriberCount": "78000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10504"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Packt Video",
+        "description": "The packtpub.com channel features samples of our course content, available for everyone. At packtpub.com you can access our entire range of practical, structured video tutorials, designed to help you get the job done.\n\nPackt Publishing bridges the gap between education and technical support, with books and videos that help you get the working knowledge you need to effectively apply new tools and techniques. Packt Video brings you this working knowledge straight from the experts, who will guide you to achieving your goals through clear instructions and explanations.\n\nFind out more about our range of video courses by visiting: http://www.packtpub.com/books/video",
+        "keywords": "tutorial web application development game programming publishing technology computing",
+        "trackingAnalyticsAccountId": "UA-284627-1"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/ms_wW0mo5AC7-CyrIA1ODSJekQ-nX3CrvTfJxLB13e2IywisDF_PL7pF-0ECBS0xBHMHnnba"
+      }
+    }
+  }
+}

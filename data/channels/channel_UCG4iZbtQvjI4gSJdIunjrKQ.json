@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCG4iZbtQvjI4gSJdIunjrKQ",
+  "retrieved_on": "2021-12-05 03:47:38.208158",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "O2eRKV2s3W0cW5hNp_Iqwy7k5Us",
+    "id": "UCG4iZbtQvjI4gSJdIunjrKQ",
+    "snippet": {
+      "title": "O.A.R. (Of A Revolution...)",
+      "description": "What do you call a band whose twenty year-career spans sold-out stands at both Madison Square Garden and Red Rocks Amphitheater, millions of albums sold over the course of what will be nine full-length releases, and multiple chart-busting entries? In the case of O.A.R., two simple words suffice: \u201cThe Mighty.\u201d \n\nThat\u2019s the best way to sum up the Maryland quintet\u2014Marc Roberge [lead vocals, rhythm guitar], Richard On [lead guitar, backing vocals], Chris Culos [drums], Benj Gershman [bass], and Jerry DePizzo [saxophone, guitar, backing vocals, additionally MikelParis [keys, backing vocals, percussion] and Jon Lampley [trumpet, backing vocals].",
+      "customUrl": "oarmusic",
+      "publishedAt": "2007-12-04T19:08:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/JU3PcvlVxIIHFWIb7MaUJ1g6HXLcsSoFasFH26hxArd2KaqZOZWzRvezaaCkyPLX3JKrbqMEdWc=s88-c-k-c0x00ffffff-no-nd-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/JU3PcvlVxIIHFWIb7MaUJ1g6HXLcsSoFasFH26hxArd2KaqZOZWzRvezaaCkyPLX3JKrbqMEdWc=s240-c-k-c0x00ffffff-no-nd-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/JU3PcvlVxIIHFWIb7MaUJ1g6HXLcsSoFasFH26hxArd2KaqZOZWzRvezaaCkyPLX3JKrbqMEdWc=s800-c-k-c0x00ffffff-no-nd-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "O.A.R. (Of A Revolution...)",
+        "description": "What do you call a band whose twenty year-career spans sold-out stands at both Madison Square Garden and Red Rocks Amphitheater, millions of albums sold over the course of what will be nine full-length releases, and multiple chart-busting entries? In the case of O.A.R., two simple words suffice: \u201cThe Mighty.\u201d \n\nThat\u2019s the best way to sum up the Maryland quintet\u2014Marc Roberge [lead vocals, rhythm guitar], Richard On [lead guitar, backing vocals], Chris Culos [drums], Benj Gershman [bass], and Jerry DePizzo [saxophone, guitar, backing vocals, additionally MikelParis [keys, backing vocals, percussion] and Jon Lampley [trumpet, backing vocals]."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUG4iZbtQvjI4gSJdIunjrKQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "37718029",
+      "subscriberCount": "48600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "297"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "O.A.R. (Of A Revolution...)",
+        "description": "What do you call a band whose twenty year-career spans sold-out stands at both Madison Square Garden and Red Rocks Amphitheater, millions of albums sold over the course of what will be nine full-length releases, and multiple chart-busting entries? In the case of O.A.R., two simple words suffice: \u201cThe Mighty.\u201d \n\nThat\u2019s the best way to sum up the Maryland quintet\u2014Marc Roberge [lead vocals, rhythm guitar], Richard On [lead guitar, backing vocals], Chris Culos [drums], Benj Gershman [bass], and Jerry DePizzo [saxophone, guitar, backing vocals, additionally MikelParis [keys, backing vocals, percussion] and Jon Lampley [trumpet, backing vocals].",
+        "keywords": "oar o.a.r. of revolution marc roberge richard on chris culos benj gershman mikel paris jon lampley music rock \"rock and roll\" live concert peace miss you all the time hey girl black rock \"red rocks\" denver colorado \"new york\" rockville maryland ohio osu ohio state university heaven poker shattered heard the world",
+        "unsubscribedTrailer": "v8rPFUGipfE",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/HrUrT72T_ydZwQbQlVP7k4Nq6s8dEonFBDJFBz706EDRhCLQG1bwsYfCZEA2m-dDPMiqaBC7ZQ"
+      }
+    }
+  }
+}

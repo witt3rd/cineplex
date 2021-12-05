@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC7BhHN8NyMMru2RUygnDXSg",
+  "retrieved_on": "2021-12-05 03:47:29.489808",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rvnon_xvb_OWVQ_4cPTO4gGfSGk",
+    "id": "UC7BhHN8NyMMru2RUygnDXSg",
+    "snippet": {
+      "title": "Sciencephile the AI",
+      "description": "Smile, life is meaningless.\n",
+      "customUrl": "sciencephiletheai",
+      "publishedAt": "2016-05-17T20:21:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS957USMMOKCi52HfZaD38rpO5JO2QT5TniDX-FrA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS957USMMOKCi52HfZaD38rpO5JO2QT5TniDX-FrA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS957USMMOKCi52HfZaD38rpO5JO2QT5TniDX-FrA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sciencephile the AI",
+        "description": "Smile, life is meaningless.\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7BhHN8NyMMru2RUygnDXSg"
+      }
+    },
+    "statistics": {
+      "viewCount": "37801083",
+      "subscriberCount": "510000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "81"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sciencephile the AI",
+        "description": "Smile, life is meaningless.\n",
+        "keywords": "Sciencephile Science Philosophy Astronomy Physics \"Quantum Mechanics\"",
+        "unsubscribedTrailer": "ENegk45GYEQ"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/WmJbC0iayN2UdKa_UKOb-SipFZuuH7Ty5MrQFPZAEiGntSKGcnX_fl8Sfcc0iGJ_S4hJCoeDC_0"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCeeHYKSxJPk0Hv2v-LLTdmg",
+  "retrieved_on": "2021-12-05 03:47:38.208107",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "OeL5wF5_BdPkjrT11jvP6yFruTI",
+    "id": "UCeeHYKSxJPk0Hv2v-LLTdmg",
+    "snippet": {
+      "title": "Oscar Owen",
+      "description": "Learn the art of deception with Oscar Owen.\n\nEmail for business only: oscarowen0@gmail.com",
+      "customUrl": "oscarowen",
+      "publishedAt": "2016-05-25T12:25:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSnCpJiwvFotJCLTsvnpCF39zJXXrE1sF1b7I1EZQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSnCpJiwvFotJCLTsvnpCF39zJXXrE1sF1b7I1EZQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSnCpJiwvFotJCLTsvnpCF39zJXXrE1sF1b7I1EZQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Oscar Owen",
+        "description": "Learn the art of deception with Oscar Owen.\n\nEmail for business only: oscarowen0@gmail.com"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUeeHYKSxJPk0Hv2v-LLTdmg"
+      }
+    },
+    "statistics": {
+      "viewCount": "77723580",
+      "subscriberCount": "697000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "101"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Oscar Owen",
+        "description": "Learn the art of deception with Oscar Owen.\n\nEmail for business only: oscarowen0@gmail.com",
+        "unsubscribedTrailer": "bwHJ7kiPqsc",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/XKADTolGrbGLzY99A6kGQXb58qtNcwquS9Ic5SZj6uLPJI9vh5FS8whA7qwhrf2Duh5MAYtmLw"
+      }
+    }
+  }
+}

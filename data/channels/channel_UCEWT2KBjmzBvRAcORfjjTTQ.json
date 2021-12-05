@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCEWT2KBjmzBvRAcORfjjTTQ",
+  "retrieved_on": "2021-12-05 03:47:36.581166",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "c02XUtZTRXPLV-yLjYSokGeOMwc",
+    "id": "UCEWT2KBjmzBvRAcORfjjTTQ",
+    "snippet": {
+      "title": "Super Ani",
+      "description": "superani.com",
+      "customUrl": "superani",
+      "publishedAt": "2010-06-24T11:28:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQZSTi4qZMAwWDPWr3q99NyQFtn70eAhScTw4UlZQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQZSTi4qZMAwWDPWr3q99NyQFtn70eAhScTw4UlZQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQZSTi4qZMAwWDPWr3q99NyQFtn70eAhScTw4UlZQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Super Ani",
+        "description": "superani.com"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUEWT2KBjmzBvRAcORfjjTTQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "19627635",
+      "subscriberCount": "257000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "319"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Super Ani",
+        "description": "superani.com",
+        "keywords": "#kimjunggi #superani #drawing #\uae40\uc815\uae30 #\uc288\ud37c\uc560\ub2c8 #\ub4dc\ub85c\uc789 #pentelbruchpen",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/wM2VEDR9of2J5mGu1q9c6ki4yesVWUpBUsAmnJxhPsjhEBbELQ_tp11MBt3Ruag6P0QHNQ3ruhE"
+      }
+    }
+  }
+}

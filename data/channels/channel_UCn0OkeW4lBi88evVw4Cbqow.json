@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCn0OkeW4lBi88evVw4Cbqow",
+  "retrieved_on": "2021-12-05 03:47:29.188785",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "CvXPIwARos81ngDWAw9dmJAt318",
+    "id": "UCn0OkeW4lBi88evVw4Cbqow",
+    "snippet": {
+      "title": "NewEarthWorld",
+      "description": "Musik, Film, Drums, Art, Truth",
+      "publishedAt": "2012-06-30T08:28:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWx_JGayxg66OwyIOABPgDaxUncgkDbY3Qyf42jw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWx_JGayxg66OwyIOABPgDaxUncgkDbY3Qyf42jw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWx_JGayxg66OwyIOABPgDaxUncgkDbY3Qyf42jw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NewEarthWorld",
+        "description": "Musik, Film, Drums, Art, Truth"
+      },
+      "country": "DK"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUn0OkeW4lBi88evVw4Cbqow"
+      }
+    },
+    "statistics": {
+      "viewCount": "5696590",
+      "subscriberCount": "11100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "35"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NewEarthWorld",
+        "description": "Musik, Film, Drums, Art, Truth",
+        "keywords": "Politics Music Film Drums \"Drums lessons\" drawings Art \"pensel drawings\"",
+        "unsubscribedTrailer": "r7fzDx-MbFI",
+        "country": "DK"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/hMZoU-_Az2IBUxAChlCIntMDo60fF32GTSQJsdfmWGlPJn6VJQVW-7v2qcs1MY4iwjwiKHPE_w"
+      }
+    }
+  }
+}

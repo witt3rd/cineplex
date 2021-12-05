@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCq5j3ecL5WohYKF7RV_qUGg",
+  "retrieved_on": "2021-12-05 03:47:35.288752",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "i510vXFtojWW4hw_Y-i32jXw9eE",
+    "id": "UCq5j3ecL5WohYKF7RV_qUGg",
+    "snippet": {
+      "title": "KING MECHANICAL",
+      "description": "\u25ba The video depicts the movements of the basic mechanical mechanisms.\nforms of motion,\n\n\u25ba Structure of machine parts\nModel details when moving\n\n~~~~~~~~~~~~~~Follow up at~~~~~~~~~~\nFacebook: https://www.facebook.com/kingmechanical58/\nTwitter: https://twitter.com/tinazpost005981\nSubscribe: https://bitly.com.vn/zsg7ov\nfacebook:https://goo.gl/5n2nk6\nIntagram: https://www.instagram.com/KING_MECHANICAL/\nTeespring: https://teespring.com/stores/king-mechanical-2\n\n",
+      "customUrl": "kingmechanicalofficial",
+      "publishedAt": "2016-12-19T02:07:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6xEOuEgyJHEfgJymFM1pidaJT4TtmIfPB0ZD2=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6xEOuEgyJHEfgJymFM1pidaJT4TtmIfPB0ZD2=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6xEOuEgyJHEfgJymFM1pidaJT4TtmIfPB0ZD2=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "KING MECHANICAL",
+        "description": "\u25ba The video depicts the movements of the basic mechanical mechanisms.\nforms of motion,\n\n\u25ba Structure of machine parts\nModel details when moving\n\n~~~~~~~~~~~~~~Follow up at~~~~~~~~~~\nFacebook: https://www.facebook.com/kingmechanical58/\nTwitter: https://twitter.com/tinazpost005981\nSubscribe: https://bitly.com.vn/zsg7ov\nfacebook:https://goo.gl/5n2nk6\nIntagram: https://www.instagram.com/KING_MECHANICAL/\nTeespring: https://teespring.com/stores/king-mechanical-2\n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUq5j3ecL5WohYKF7RV_qUGg"
+      }
+    },
+    "statistics": {
+      "viewCount": "12291618",
+      "hiddenSubscriberCount": true,
+      "videoCount": "1162"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "KING MECHANICAL",
+        "description": "\u25ba The video depicts the movements of the basic mechanical mechanisms.\nforms of motion,\n\n\u25ba Structure of machine parts\nModel details when moving\n\n~~~~~~~~~~~~~~Follow up at~~~~~~~~~~\nFacebook: https://www.facebook.com/kingmechanical58/\nTwitter: https://twitter.com/tinazpost005981\nSubscribe: https://bitly.com.vn/zsg7ov\nfacebook:https://goo.gl/5n2nk6\nIntagram: https://www.instagram.com/KING_MECHANICAL/\nTeespring: https://teespring.com/stores/king-mechanical-2\n\n",
+        "keywords": "\"king mechanical\" \"mechanical mechanism\" mechanical \"solidworks 2017\" \"solidworks motion\" \"mechanical engineering\" \"solidworks tutorial\" \"solidworks training\" \"mechanical television\" \"mechanical tv\" \"Dwell Slider Linkage\" \"Toggle linkage\" \"Gear and linkage mechanism\" \"fix the machine\" machine manufacturing",
+        "moderateComments": true,
+        "unsubscribedTrailer": "yt93_Tvbv1Y",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/dyd8UQtMnnKP5YjopgEA_p438tytm9Iyn397cfPnbMNLyXgULNhflc4oixvfQTjPROltSlrcjw"
+      }
+    }
+  }
+}

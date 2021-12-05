@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCD8n2Q9V7vdJsXYzoRJ_AsA",
+  "retrieved_on": "2021-12-05 03:47:34.793926",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ONp8JDXtnHzlyXxdpqFMf-eMg2E",
+    "id": "UCD8n2Q9V7vdJsXYzoRJ_AsA",
+    "snippet": {
+      "title": "Chipp Walters",
+      "description": "",
+      "customUrl": "chippwalters",
+      "publishedAt": "2011-11-20T04:17:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTYstHhGQVHoXe8Owe4kqz4Un8CN4XXIrkHOc8l_Ac=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTYstHhGQVHoXe8Owe4kqz4Un8CN4XXIrkHOc8l_Ac=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTYstHhGQVHoXe8Owe4kqz4Un8CN4XXIrkHOc8l_Ac=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Chipp Walters",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUD8n2Q9V7vdJsXYzoRJ_AsA"
+      }
+    },
+    "statistics": {
+      "viewCount": "3500181",
+      "subscriberCount": "37000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "278"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chipp Walters",
+        "unsubscribedTrailer": "hwxP0bkI2Io",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/kKXgHl66xRKKHWvYErwcQ1QJbAybIYsEnOXj44_YYT9DyTRnay_kEu4B5PyEWh-N3pJavfNY"
+      }
+    }
+  }
+}

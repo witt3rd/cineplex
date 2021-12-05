@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCkUD_8b1JoTL2ipOVtxfNKw",
+  "retrieved_on": "2021-12-05 03:47:36.095896",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HT4XBhjBgepO13UfgDLTRW8A90o",
+    "id": "UCkUD_8b1JoTL2ipOVtxfNKw",
+    "snippet": {
+      "title": "Will Cogley",
+      "description": "Nilheim Mechatronics is all about fusing mechanics, electronics and a little artistic creativity to make top-notch robotics and animatronics. These creations are carefully documented and published so that anyone can try out building them for themselves, as well as build upon, alter, or even use them in their own projects. These projects are free, open-source and designed to be accessible to all, even those who may struggle to get access to speciality parts.\n\nAs an Amazon Associate I earn from qualifying purchases (at no cost to you).",
+      "customUrl": "willcogley",
+      "publishedAt": "2013-06-07T21:11:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSIoJEVZUZo2c1WY5qUTDZHyCohQF17RqzfQsb7=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSIoJEVZUZo2c1WY5qUTDZHyCohQF17RqzfQsb7=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSIoJEVZUZo2c1WY5qUTDZHyCohQF17RqzfQsb7=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Will Cogley",
+        "description": "Nilheim Mechatronics is all about fusing mechanics, electronics and a little artistic creativity to make top-notch robotics and animatronics. These creations are carefully documented and published so that anyone can try out building them for themselves, as well as build upon, alter, or even use them in their own projects. These projects are free, open-source and designed to be accessible to all, even those who may struggle to get access to speciality parts.\n\nAs an Amazon Associate I earn from qualifying purchases (at no cost to you)."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkUD_8b1JoTL2ipOVtxfNKw"
+      }
+    },
+    "statistics": {
+      "viewCount": "5666670",
+      "subscriberCount": "72000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "55"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Will Cogley",
+        "description": "Nilheim Mechatronics is all about fusing mechanics, electronics and a little artistic creativity to make top-notch robotics and animatronics. These creations are carefully documented and published so that anyone can try out building them for themselves, as well as build upon, alter, or even use them in their own projects. These projects are free, open-source and designed to be accessible to all, even those who may struggle to get access to speciality parts.\n\nAs an Amazon Associate I earn from qualifying purchases (at no cost to you).",
+        "unsubscribedTrailer": "Ss-V4BTIl_8",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ptnqGctkFlkEFzm_wazWZGQMN8UsjwhuP2NWRsBUe8yIOOK1NboNr5UR0ezxhA9h1CYtHNHjIcg"
+      }
+    }
+  }
+}

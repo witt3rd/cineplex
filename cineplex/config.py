@@ -27,7 +27,7 @@ class Settings(BaseSettings):
     youtube_thumbnails_dir: str = '/Volumes/media/youtube/thumbnails'
 
     log_name: str = ''
-    log_level: str = 'INFO'
+    log_level: str = 'DEBUG'
     log_dir: str = './logs'
     log_to_console: bool = True
 

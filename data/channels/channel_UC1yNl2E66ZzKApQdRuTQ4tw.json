@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+  "retrieved_on": "2021-12-05 03:47:32.314767",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xgpqM1SANkqGXTaOJlM5X7U-Mw8",
+    "id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+    "snippet": {
+      "title": "Sabine Hossenfelder",
+      "description": "In her channel \"Science without the gobbledygook,\" Sabine talks straight about science: No hype, no spin, no tip-toeing around inconvenient truths. New video each Saturday.\n\nSabine Hossenfelder has a PhD in physics and is presently a Research Fellow at the Frankfurt Institute for Advanced Studies (FIAS). She is author of the book \"Lost in Math: How Beauty Leads Physics Astray\" (Basic Books, 2018) and blogs at backreaction.blogspot.com\n\nThis is a personal channel. Opinions expressed here do not represent the opinions of FIAS.\n\nNote that from August 2020 on, Sabine's music videos appear in a separate channel: \n\nhttps://youtube.com/c/sabinehossenfeldermusicvideos\n",
+      "customUrl": "sabinehossenfelder",
+      "publishedAt": "2007-01-13T12:55:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRyUxDQQEztYq7yvbTCTktEU0wvg5C448S8PjtOuA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRyUxDQQEztYq7yvbTCTktEU0wvg5C448S8PjtOuA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRyUxDQQEztYq7yvbTCTktEU0wvg5C448S8PjtOuA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sabine Hossenfelder",
+        "description": "In her channel \"Science without the gobbledygook,\" Sabine talks straight about science: No hype, no spin, no tip-toeing around inconvenient truths. New video each Saturday.\n\nSabine Hossenfelder has a PhD in physics and is presently a Research Fellow at the Frankfurt Institute for Advanced Studies (FIAS). She is author of the book \"Lost in Math: How Beauty Leads Physics Astray\" (Basic Books, 2018) and blogs at backreaction.blogspot.com\n\nThis is a personal channel. Opinions expressed here do not represent the opinions of FIAS.\n\nNote that from August 2020 on, Sabine's music videos appear in a separate channel: \n\nhttps://youtube.com/c/sabinehossenfeldermusicvideos\n"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU1yNl2E66ZzKApQdRuTQ4tw"
+      }
+    },
+    "statistics": {
+      "viewCount": "30852282",
+      "subscriberCount": "402000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "178"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sabine Hossenfelder",
+        "description": "In her channel \"Science without the gobbledygook,\" Sabine talks straight about science: No hype, no spin, no tip-toeing around inconvenient truths. New video each Saturday.\n\nSabine Hossenfelder has a PhD in physics and is presently a Research Fellow at the Frankfurt Institute for Advanced Studies (FIAS). She is author of the book \"Lost in Math: How Beauty Leads Physics Astray\" (Basic Books, 2018) and blogs at backreaction.blogspot.com\n\nThis is a personal channel. Opinions expressed here do not represent the opinions of FIAS.\n\nNote that from August 2020 on, Sabine's music videos appear in a separate channel: \n\nhttps://youtube.com/c/sabinehossenfeldermusicvideos\n",
+        "keywords": "science \"science news\" hossenfelder \"sabine hossenfelder\" philosophy \"science without gobbledygook\" physics",
+        "unsubscribedTrailer": "JorRq0w9q0c",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7QV0EZiD72BK34kTI-zXsvwXDHHyFZwad6a-TiQjVfvkkrIEiKcAMGGIxWEOUTI3Xl_MRNg3Hw"
+      }
+    }
+  }
+}

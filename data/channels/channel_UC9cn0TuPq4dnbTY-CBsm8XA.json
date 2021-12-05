@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+  "retrieved_on": "2021-12-05 03:47:37.514158",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "b8a4mkJctDEqe8OtvXgS-7WuvEI",
+    "id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+    "snippet": {
+      "title": "a16z",
+      "description": "This is the videos channel for Andreessen Horowitz (aka \"a16z\"), a Silicon Valley-based venture capital firm that invests in software eating the world. It's where we share videos (produced by a16z editorial and/or via events we host) on technology & science trends and advice for building companies -- as well as for understanding tech, culture, and the future. You can also find our podcasts and posts on a16z.com and us on Twitter at @a16z.\n\nThe views expressed here are those of the individual personnel quoted and are not the views of a16z or its affiliates. This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. Furthermore, this content is not directed at nor intended for use by any investors or prospective investors and may not under any circumstances be relied upon when making a decision to invest in any a16z funds. PLEASE SEE MORE HERE: https://a16z.com/disclosures/",
+      "customUrl": "a16zvideos",
+      "publishedAt": "2017-06-05T20:46:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnh2AHryvVlqLRM1pJynPOyWgkiFvrAqUKWbVo-w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnh2AHryvVlqLRM1pJynPOyWgkiFvrAqUKWbVo-w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnh2AHryvVlqLRM1pJynPOyWgkiFvrAqUKWbVo-w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "a16z",
+        "description": "This is the videos channel for Andreessen Horowitz (aka \"a16z\"), a Silicon Valley-based venture capital firm that invests in software eating the world. It's where we share videos (produced by a16z editorial and/or via events we host) on technology & science trends and advice for building companies -- as well as for understanding tech, culture, and the future. You can also find our podcasts and posts on a16z.com and us on Twitter at @a16z.\n\nThe views expressed here are those of the individual personnel quoted and are not the views of a16z or its affiliates. This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. Furthermore, this content is not directed at nor intended for use by any investors or prospective investors and may not under any circumstances be relied upon when making a decision to invest in any a16z funds. PLEASE SEE MORE HERE: https://a16z.com/disclosures/"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU9cn0TuPq4dnbTY-CBsm8XA"
+      }
+    },
+    "statistics": {
+      "viewCount": "3767145",
+      "subscriberCount": "81400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "647"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "a16z",
+        "description": "This is the videos channel for Andreessen Horowitz (aka \"a16z\"), a Silicon Valley-based venture capital firm that invests in software eating the world. It's where we share videos (produced by a16z editorial and/or via events we host) on technology & science trends and advice for building companies -- as well as for understanding tech, culture, and the future. You can also find our podcasts and posts on a16z.com and us on Twitter at @a16z.\n\nThe views expressed here are those of the individual personnel quoted and are not the views of a16z or its affiliates. This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. Furthermore, this content is not directed at nor intended for use by any investors or prospective investors and may not under any circumstances be relied upon when making a decision to invest in any a16z funds. PLEASE SEE MORE HERE: https://a16z.com/disclosures/",
+        "keywords": "technology business innovation startups trends management software \"software eating the world\" \"andreessen horowitz\"",
+        "trackingAnalyticsAccountId": "UA-45022052-14",
+        "unsubscribedTrailer": "UnU5Dikdr2U",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/JcC_VLQi4FHOZJ8eoKAci9yn7NHUd8qX43nmMQV9fdknYNyqm4zWtykylJpP7SXf2OUqyGkm"
+      }
+    }
+  }
+}

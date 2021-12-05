@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCmKx7PP_bBsNpNsHAhx_a3A",
+  "retrieved_on": "2021-12-05 03:47:30.436667",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "SEylv3iK_mNgF_9x9wAoQeIiCk0",
+    "id": "UCmKx7PP_bBsNpNsHAhx_a3A",
+    "snippet": {
+      "title": "Deuter - Topic",
+      "description": "Deuter is a German new age instrumentalist and recording artist known for his meditative style that blends Eastern and Western musical elements.",
+      "publishedAt": "2013-07-11T23:11:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6KYVYS-Wwnr2gMG7pBjP8tdjiEo7K5iRydnA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6KYVYS-Wwnr2gMG7pBjP8tdjiEo7K5iRydnA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6KYVYS-Wwnr2gMG7pBjP8tdjiEo7K5iRydnA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Deuter - Topic",
+        "description": "Deuter is a German new age instrumentalist and recording artist known for his meditative style that blends Eastern and Western musical elements."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmKx7PP_bBsNpNsHAhx_a3A"
+      }
+    },
+    "statistics": {
+      "viewCount": "12216600",
+      "subscriberCount": "36800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "471"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Deuter - Topic",
+        "description": "Deuter is a German new age instrumentalist and recording artist known for his meditative style that blends Eastern and Western musical elements."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/vgUKGvxyDUITbIUV4bfUao9j0LF1QghOhc_zRaKwhbkLoqLa3MAPiQpO345tXe9SNj6HsJCE"
+      }
+    }
+  }
+}

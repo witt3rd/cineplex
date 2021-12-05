@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCNbIDJNNgaRrXOD7VllIMRQ",
+  "retrieved_on": "2021-12-05 03:47:34.084468",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "X2VUG9DEKiFPY37Jk_kSUBEdOso",
+    "id": "UCNbIDJNNgaRrXOD7VllIMRQ",
+    "snippet": {
+      "title": "One America News Network",
+      "description": "One America News network is a national TV news network airing on Verizon Fios, channel 116. AT&T U-verse, channel 208, and CenturyLink prism, channel 209.  We also stream on Amazon Fire TV, Roku, and Vivicast Media Channel 16. OANN is a new credible source for national and international headlines. An independent, cutting edge platform for political discussions.",
+      "customUrl": "oann",
+      "publishedAt": "2013-10-04T17:40:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJrDWMbt2KVHVBA70gjo30LTCpmqovY_O0gwc6=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJrDWMbt2KVHVBA70gjo30LTCpmqovY_O0gwc6=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJrDWMbt2KVHVBA70gjo30LTCpmqovY_O0gwc6=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "One America News Network",
+        "description": "One America News network is a national TV news network airing on Verizon Fios, channel 116. AT&T U-verse, channel 208, and CenturyLink prism, channel 209.  We also stream on Amazon Fire TV, Roku, and Vivicast Media Channel 16. OANN is a new credible source for national and international headlines. An independent, cutting edge platform for political discussions."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUNbIDJNNgaRrXOD7VllIMRQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "216126656",
+      "subscriberCount": "1440000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "14142"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "One America News Network",
+        "description": "One America News network is a national TV news network airing on Verizon Fios, channel 116. AT&T U-verse, channel 208, and CenturyLink prism, channel 209.  We also stream on Amazon Fire TV, Roku, and Vivicast Media Channel 16. OANN is a new credible source for national and international headlines. An independent, cutting edge platform for political discussions.",
+        "keywords": "News \"National News\" \"News Network\" Reporting Broadcast Network",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/WVd7kKJHUks16FQlVOCIDFqPGkYt8pZK0P9uKm6hWzc89jq_03DFUMwkuXiP-9St6aS0ENix6w"
+      }
+    }
+  }
+}

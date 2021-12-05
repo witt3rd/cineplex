@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+  "retrieved_on": "2021-12-05 03:47:30.436737",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Jj2AbWUYtvYcDHPpidDi_L1FjWM",
+    "id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+    "snippet": {
+      "title": "Astrum",
+      "description": "How big is the Solar System? What actually orbits our Sun? Why should I even be interested in space? On this channel, we'll answer these and a whole host of other questions. We will have a series dedicated to each of our planets and showcase beautiful images and videos captured by probes and spacecraft of our amazing Solar System.\n\nSubscribe and join us on this journey of discovery!",
+      "customUrl": "astrumspace",
+      "publishedAt": "2013-10-09T14:30:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Tsl_cq4FQ3dfyRctTMQOs9qbj4uVDJnqEBp7WQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Tsl_cq4FQ3dfyRctTMQOs9qbj4uVDJnqEBp7WQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Tsl_cq4FQ3dfyRctTMQOs9qbj4uVDJnqEBp7WQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Astrum",
+        "description": "How big is the Solar System? What actually orbits our Sun? Why should I even be interested in space? On this channel, we'll answer these and a whole host of other questions. We will have a series dedicated to each of our planets and showcase beautiful images and videos captured by probes and spacecraft of our amazing Solar System.\n\nSubscribe and join us on this journey of discovery!"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU-9b7aDP6ZN0coj9-xFnrtw"
+      }
+    },
+    "statistics": {
+      "viewCount": "120325960",
+      "subscriberCount": "876000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "189"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Astrum",
+        "description": "How big is the Solar System? What actually orbits our Sun? Why should I even be interested in space? On this channel, we'll answer these and a whole host of other questions. We will have a series dedicated to each of our planets and showcase beautiful images and videos captured by probes and spacecraft of our amazing Solar System.\n\nSubscribe and join us on this journey of discovery!",
+        "keywords": "astrum astrumspace solar system space sun earth moon moons mercury venus mars jupiter ceres saturn neptune pluto uranus galaxies nasa spacecraft missions",
+        "unsubscribedTrailer": "f1J-5kDedCs",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/qSl8cpCFSfMYk3yuQzg3P9sthp-cNQsShzPPWAYvNk9AwUGdJBntCcgYtMD9ty6oO26MoxeIeQ"
+      }
+    }
+  }
+}

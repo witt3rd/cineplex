@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCVLlWT1NZZEJs4A67XgObnQ",
+  "retrieved_on": "2021-12-05 03:47:33.604464",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "VF_i-uNPMcHGm9K6XHyAuDJ6eCA",
+    "id": "UCVLlWT1NZZEJs4A67XgObnQ",
+    "snippet": {
+      "title": "JScamp",
+      "description": "16-17 July 2020. International single-track and two-day conference covering all about #JavaScript and modern web technologies.",
+      "customUrl": "jscamp",
+      "publishedAt": "2017-01-21T18:58:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRGK5pfJI1UlWFZCemtjDthg-PW2v93BaRgh08rzA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRGK5pfJI1UlWFZCemtjDthg-PW2v93BaRgh08rzA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRGK5pfJI1UlWFZCemtjDthg-PW2v93BaRgh08rzA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "JScamp",
+        "description": "16-17 July 2020. International single-track and two-day conference covering all about #JavaScript and modern web technologies."
+      },
+      "country": "ES"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVLlWT1NZZEJs4A67XgObnQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "212609",
+      "subscriberCount": "5170",
+      "hiddenSubscriberCount": false,
+      "videoCount": "73"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "JScamp",
+        "description": "16-17 July 2020. International single-track and two-day conference covering all about #JavaScript and modern web technologies.",
+        "keywords": "JavaScript Conference Europe",
+        "trackingAnalyticsAccountId": "UA-837977-33",
+        "unsubscribedTrailer": "pP-vSUNJ14A",
+        "country": "ES"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/2JfiExN6UjccrxR_rRmOHZYVtF4XcIGsevHmrrMXvl8mA79S3eRt9zPepT4YuF7_drbb6uIm"
+      }
+    }
+  }
+}

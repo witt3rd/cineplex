@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCCMVC72aUunHjIfQi8n9pjA",
+  "retrieved_on": "2021-12-05 03:47:39.125866",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "uV4ec4fLexgtfT35YVeU-uxFV78",
+    "id": "UCCMVC72aUunHjIfQi8n9pjA",
+    "snippet": {
+      "title": "brunovaz",
+      "description": "If there is copyrighted material on this channel you want removed, email me at brunovaz418@gmail.com",
+      "customUrl": "brunovaz",
+      "publishedAt": "2012-02-18T17:55:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR0iQ6CDldblYRT_TXiP3wrI5hzpkJIea7TST7M=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR0iQ6CDldblYRT_TXiP3wrI5hzpkJIea7TST7M=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR0iQ6CDldblYRT_TXiP3wrI5hzpkJIea7TST7M=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "brunovaz",
+        "description": "If there is copyrighted material on this channel you want removed, email me at brunovaz418@gmail.com"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUCMVC72aUunHjIfQi8n9pjA"
+      }
+    },
+    "statistics": {
+      "viewCount": "324191",
+      "hiddenSubscriberCount": true,
+      "videoCount": "15"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "brunovaz",
+        "description": "If there is copyrighted material on this channel you want removed, email me at brunovaz418@gmail.com",
+        "unsubscribedTrailer": "T2NRZ6uS9ws"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/sQOABPRM1aJnB-l7gOyui3Bt3IULzLBUooFYDQ2C1Sq11xRc2wm4-PZcg1yThUdLj2Jpevgbqw"
+      }
+    }
+  }
+}

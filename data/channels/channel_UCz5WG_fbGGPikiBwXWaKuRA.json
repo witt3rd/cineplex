@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCz5WG_fbGGPikiBwXWaKuRA",
+  "retrieved_on": "2021-12-05 03:47:29.852597",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BRS9sy7WI7miO4dpPsAMgRpb62A",
+    "id": "UCz5WG_fbGGPikiBwXWaKuRA",
+    "snippet": {
+      "title": "Frank McCaughey",
+      "description": "I do podcasts and make videos. I like to chat with interesting people about lots of different subjects\nIt's not really interviews as such. I hope for authentic, unedited, unfiltered style banter.\nOf late I am doing more video works and started a video diary piece about fitness.\nI write here at https://www.unknowing.life\nGeneral website www.frankmccaughey.com \n\n",
+      "publishedAt": "2007-01-14T21:55:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTYuTdDIqMiPqSSWuB5zgs0lKV4BEpu6KfCR-_QRQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTYuTdDIqMiPqSSWuB5zgs0lKV4BEpu6KfCR-_QRQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTYuTdDIqMiPqSSWuB5zgs0lKV4BEpu6KfCR-_QRQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Frank McCaughey",
+        "description": "I do podcasts and make videos. I like to chat with interesting people about lots of different subjects\nIt's not really interviews as such. I hope for authentic, unedited, unfiltered style banter.\nOf late I am doing more video works and started a video diary piece about fitness.\nI write here at https://www.unknowing.life\nGeneral website www.frankmccaughey.com \n\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUz5WG_fbGGPikiBwXWaKuRA"
+      }
+    },
+    "statistics": {
+      "viewCount": "363450",
+      "subscriberCount": "2520",
+      "hiddenSubscriberCount": false,
+      "videoCount": "158"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Frank McCaughey",
+        "description": "I do podcasts and make videos. I like to chat with interesting people about lots of different subjects\nIt's not really interviews as such. I hope for authentic, unedited, unfiltered style banter.\nOf late I am doing more video works and started a video diary piece about fitness.\nI write here at https://www.unknowing.life\nGeneral website www.frankmccaughey.com \n\n",
+        "keywords": "\"non duality\" non-duality \"non dualism\" \"non dualism\" non-dualism \"advaita vedanta\"",
+        "unsubscribedTrailer": "YRUjhzQBb2M"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/2IhA6qZY7-lIHBkHTl9-Uw_grZIaFHr1W8Gf8QqNpJqnoYgOEOkCg_-SkOrW0wcPurcqXhvhEQ"
+      }
+    }
+  }
+}

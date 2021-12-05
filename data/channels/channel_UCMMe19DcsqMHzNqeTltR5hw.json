@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCMMe19DcsqMHzNqeTltR5hw",
+  "retrieved_on": "2021-12-05 03:47:34.084447",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "L_GKHe_bTWrFhsTRxc1OP7Qp9Vk",
+    "id": "UCMMe19DcsqMHzNqeTltR5hw",
+    "snippet": {
+      "title": "Jartopia",
+      "description": "Hi, I'm Jartopia.\n\nI make Ecosphere, Terrarium, Aquarium & Paludarium videos. I might also post random videos that are plant or animal related.\n\nIf you find my videos interesting, please consider liking and subscribing!\n",
+      "customUrl": "jartopia",
+      "publishedAt": "2019-11-29T01:06:37.087589Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3t5gXSF7vdAU3DYwu5SQyTIY-X9SUI6J_DUL5=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3t5gXSF7vdAU3DYwu5SQyTIY-X9SUI6J_DUL5=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3t5gXSF7vdAU3DYwu5SQyTIY-X9SUI6J_DUL5=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Jartopia",
+        "description": "Hi, I'm Jartopia.\n\nI make Ecosphere, Terrarium, Aquarium & Paludarium videos. I might also post random videos that are plant or animal related.\n\nIf you find my videos interesting, please consider liking and subscribing!\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMMe19DcsqMHzNqeTltR5hw"
+      }
+    },
+    "statistics": {
+      "viewCount": "28237662",
+      "subscriberCount": "217000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "43"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jartopia",
+        "description": "Hi, I'm Jartopia.\n\nI make Ecosphere, Terrarium, Aquarium & Paludarium videos. I might also post random videos that are plant or animal related.\n\nIf you find my videos interesting, please consider liking and subscribing!\n",
+        "keywords": "Ecosphere Jarrarium Terrarium Biodiversity Ecosystem Ecology \"Self Sustaining\" \"Ecosphere DIY\" kartopia",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/MBCFWTVATEoZ118P9pObpZJN5nVvyJe7lux3n9FgqBofO_T8VgB5aaygkhQWzrs-4jZtBrVL"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCfqymNTJNKiEbnppsXbrx_g",
+  "retrieved_on": "2021-12-05 03:47:30.682895",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "tZnSeGjC2E2XVvfuYLLBOizNa2U",
+    "id": "UCfqymNTJNKiEbnppsXbrx_g",
+    "snippet": {
+      "title": "Respiratory Therapy Zone",
+      "description": "Respiratory Therapy Zone is the #1 educational platform for Respiratory Therapists and students in the world. Our website and YouTube channel have helped thousands of students reach their goal of becoming a licensed Respiratory Therapist.\n\n\u27a1\ufe0fOur Content Includes:\n\n\u25b8 In-depth Educational Explainer Videos\n\u25b8 Helpful Tips, Tricks, and Insights about RT School\n\u25b8 Cheat Sheets\n\u25b8 Study Guides\n\u25b8 Practice Questions\n\u25b8 And Much, Much More!\n\nOur #1 goal is to make life easier for Respiratory Therapy Students. Period. However, we also sometimes share content geared towards a broader audience with helpful tips on improving breathing and pulmonary health.\n\nBetter Breathing = Better Overall Quality of Life \ud83d\udc9a\ud83d\udc99\n\n\ud83d\udfe6For more information, check out our website at RespiratoryTherapyZone.com.",
+      "customUrl": "respiratorytherapyzone",
+      "publishedAt": "2016-10-29T16:12:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTZ1wmyd6oorSu-URBanKWzVVEdPB9MnM_2X9Iy0Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTZ1wmyd6oorSu-URBanKWzVVEdPB9MnM_2X9Iy0Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTZ1wmyd6oorSu-URBanKWzVVEdPB9MnM_2X9Iy0Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Respiratory Therapy Zone",
+        "description": "Respiratory Therapy Zone is the #1 educational platform for Respiratory Therapists and students in the world. Our website and YouTube channel have helped thousands of students reach their goal of becoming a licensed Respiratory Therapist.\n\n\u27a1\ufe0fOur Content Includes:\n\n\u25b8 In-depth Educational Explainer Videos\n\u25b8 Helpful Tips, Tricks, and Insights about RT School\n\u25b8 Cheat Sheets\n\u25b8 Study Guides\n\u25b8 Practice Questions\n\u25b8 And Much, Much More!\n\nOur #1 goal is to make life easier for Respiratory Therapy Students. Period. However, we also sometimes share content geared towards a broader audience with helpful tips on improving breathing and pulmonary health.\n\nBetter Breathing = Better Overall Quality of Life \ud83d\udc9a\ud83d\udc99\n\n\ud83d\udfe6For more information, check out our website at RespiratoryTherapyZone.com."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfqymNTJNKiEbnppsXbrx_g"
+      }
+    },
+    "statistics": {
+      "viewCount": "70410488",
+      "subscriberCount": "661000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "516"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Respiratory Therapy Zone",
+        "description": "Respiratory Therapy Zone is the #1 educational platform for Respiratory Therapists and students in the world. Our website and YouTube channel have helped thousands of students reach their goal of becoming a licensed Respiratory Therapist.\n\n\u27a1\ufe0fOur Content Includes:\n\n\u25b8 In-depth Educational Explainer Videos\n\u25b8 Helpful Tips, Tricks, and Insights about RT School\n\u25b8 Cheat Sheets\n\u25b8 Study Guides\n\u25b8 Practice Questions\n\u25b8 And Much, Much More!\n\nOur #1 goal is to make life easier for Respiratory Therapy Students. Period. However, we also sometimes share content geared towards a broader audience with helpful tips on improving breathing and pulmonary health.\n\nBetter Breathing = Better Overall Quality of Life \ud83d\udc9a\ud83d\udc99\n\n\ud83d\udfe6For more information, check out our website at RespiratoryTherapyZone.com.",
+        "keywords": "\"Respiratory Therapy\" \"Respiratory therapy school\" \"Respiratory Therapist\" \"respiratory therapy zone\" \"respiratory therapy lectures\" \"TMC Exam\" \"Clinical Sims\" \"RRT Exam\" \"Registered Respiratory Therapist\" \"respiratory care\" \"respiratory therapy student\"",
+        "unsubscribedTrailer": "4MsM54xjKiQ",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/3HGRlqDBoUAl9dR7YDO3PGzEdbUqBhW11cM_xCyymyVUqXXksaUXYrdVmW4ecNZFgtczJspB3w"
+      }
+    }
+  }
+}

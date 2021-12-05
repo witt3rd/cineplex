@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCfx2dro_w4_MyA19Nm5badg",
+  "retrieved_on": "2021-12-05 03:47:39.125947",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "arjj4Hx986XlrvN4fv-HhXSVAwI",
+    "id": "UCfx2dro_w4_MyA19Nm5badg",
+    "snippet": {
+      "title": "Extern Code",
+      "description": "learn to program from scratch to expert level in C/C++ Languages,Java programming and also prepare for mostly asked coding interview question from cracking the coding interview questions etc.\n\nSource to videos: https://goo.gl/D2637U\nand Microsoft academy\n\nI First uploaded C++ combined video and left it for 6-8 months than start receiving request to do same compilation to other videos.\nif you are owner please reach out to me I will be glad to remove/whatever your wish might be.\n\nemail me: kpasha1234@gmail.com",
+      "customUrl": "externcode",
+      "publishedAt": "2011-12-09T12:11:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUb7NHH5JUMXSdnn_m-W6xDiE-M7_U72etW6j_XQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUb7NHH5JUMXSdnn_m-W6xDiE-M7_U72etW6j_XQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUb7NHH5JUMXSdnn_m-W6xDiE-M7_U72etW6j_XQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Extern Code",
+        "description": "learn to program from scratch to expert level in C/C++ Languages,Java programming and also prepare for mostly asked coding interview question from cracking the coding interview questions etc.\n\nSource to videos: https://goo.gl/D2637U\nand Microsoft academy\n\nI First uploaded C++ combined video and left it for 6-8 months than start receiving request to do same compilation to other videos.\nif you are owner please reach out to me I will be glad to remove/whatever your wish might be.\n\nemail me: kpasha1234@gmail.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfx2dro_w4_MyA19Nm5badg"
+      }
+    },
+    "statistics": {
+      "viewCount": "4646907",
+      "subscriberCount": "88700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "203"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Extern Code",
+        "description": "learn to program from scratch to expert level in C/C++ Languages,Java programming and also prepare for mostly asked coding interview question from cracking the coding interview questions etc.\n\nSource to videos: https://goo.gl/D2637U\nand Microsoft academy\n\nI First uploaded C++ combined video and left it for 6-8 months than start receiving request to do same compilation to other videos.\nif you are owner please reach out to me I will be glad to remove/whatever your wish might be.\n\nemail me: kpasha1234@gmail.com",
+        "keywords": "Extern Externcode c++ java \"c++ tutorial\" \"java tutorial\" \"c++ for beginners\" \"c++ tutorial for beginners\" \"java tutorial for beginnners\" \"flutter tutorial\" \"flutter for beginners\" sql \"sql tutorial\" \"sql for beginners\" python \"python tutorial\" \"python tutorial for beginners\" C# \"C# tutorial\" flutter \"flutter tutorial\"",
+        "unsubscribedTrailer": "mUQZ1qmKlLY",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/O7-vwpNjYrHUPuroQQJJTLoVmTFy3MhuKu888AkolkOheRpzBxRCaRURTlAvm8gtv0roz2JxTw"
+      }
+    }
+  }
+}

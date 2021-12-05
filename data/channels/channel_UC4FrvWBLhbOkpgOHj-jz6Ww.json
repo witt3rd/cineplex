@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC4FrvWBLhbOkpgOHj-jz6Ww",
+  "retrieved_on": "2021-12-05 03:47:32.898650",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "7ZHu6dcWlRBkVu2bpcsqkXmllkM",
+    "id": "UC4FrvWBLhbOkpgOHj-jz6Ww",
+    "snippet": {
+      "title": "The Documentary Network",
+      "description": "Explore the world beyond headlines. Watch amazing videos and get new insights and ideas. Subscribe!\n\nWant your film on The Documentary Network? Other questions? Tweet to @Documentary or drop us a line!",
+      "customUrl": "documentary",
+      "publishedAt": "2005-08-27T18:29:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3TirkAVpgovDgaL2ale0VFjG-5--ljaVF3GzPBQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3TirkAVpgovDgaL2ale0VFjG-5--ljaVF3GzPBQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3TirkAVpgovDgaL2ale0VFjG-5--ljaVF3GzPBQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Documentary Network",
+        "description": "Explore the world beyond headlines. Watch amazing videos and get new insights and ideas. Subscribe!\n\nWant your film on The Documentary Network? Other questions? Tweet to @Documentary or drop us a line!"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4FrvWBLhbOkpgOHj-jz6Ww"
+      }
+    },
+    "statistics": {
+      "viewCount": "32104654",
+      "subscriberCount": "169000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "85"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Documentary Network",
+        "description": "Explore the world beyond headlines. Watch amazing videos and get new insights and ideas. Subscribe!\n\nWant your film on The Documentary Network? Other questions? Tweet to @Documentary or drop us a line!",
+        "keywords": "documentary documentaries free worldwide online watch YOUTUBE.COM/DOCUMENTARY",
+        "unsubscribedTrailer": "ln54lV-vm94"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/7cFKjyDynSTTjoPRmWykFoDX4N8mZ3wvlH4X--ehz8fsnMCtAlW2JjUQM3N6ivOQNYrwyoZy"
+      }
+    }
+  }
+}

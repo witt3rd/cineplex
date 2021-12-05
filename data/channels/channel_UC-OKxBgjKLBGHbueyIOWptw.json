@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC-OKxBgjKLBGHbueyIOWptw",
+  "retrieved_on": "2021-12-05 03:47:39.939413",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "NNYolwtJZZXEuqkmDULfVvlUQ9U",
+    "id": "UC-OKxBgjKLBGHbueyIOWptw",
+    "snippet": {
+      "title": "Vinsloev Academy",
+      "description": "Welcome to Vinsloev Academy. At Vinsloev Academy we believe that everyone should have the opportunity of influencing the world of tomorrow. We\u2019re therefore focused on helping our users achieve or evolve already known abilities that enable you to get a job within the tech industry and we do so by providing both free and paid material for anyone to enjoy.",
+      "customUrl": "vinsloevacademy",
+      "publishedAt": "2016-06-11T15:46:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/wi9xIghkDjfybjJeYJB6TqhrbgXlkJODG6-L7aJaus47Dz1pTrNSH-Cl6COvAbBNoPOsY5RCFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/wi9xIghkDjfybjJeYJB6TqhrbgXlkJODG6-L7aJaus47Dz1pTrNSH-Cl6COvAbBNoPOsY5RCFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/wi9xIghkDjfybjJeYJB6TqhrbgXlkJODG6-L7aJaus47Dz1pTrNSH-Cl6COvAbBNoPOsY5RCFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Vinsloev Academy",
+        "description": "Welcome to Vinsloev Academy. At Vinsloev Academy we believe that everyone should have the opportunity of influencing the world of tomorrow. We\u2019re therefore focused on helping our users achieve or evolve already known abilities that enable you to get a job within the tech industry and we do so by providing both free and paid material for anyone to enjoy."
+      },
+      "country": "DK"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU-OKxBgjKLBGHbueyIOWptw"
+      }
+    },
+    "statistics": {
+      "viewCount": "894674",
+      "subscriberCount": "15100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "124"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Vinsloev Academy",
+        "description": "Welcome to Vinsloev Academy. At Vinsloev Academy we believe that everyone should have the opportunity of influencing the world of tomorrow. We\u2019re therefore focused on helping our users achieve or evolve already known abilities that enable you to get a job within the tech industry and we do so by providing both free and paid material for anyone to enjoy.",
+        "keywords": "\"Computer Science\" Education programming study \"computer tutorial\" Java \"Machine learning\" Python Developer \"Software engineer\" \"Python tutorial\" \"Learn faster\"",
+        "unsubscribedTrailer": "mGZKkX9-1pQ",
+        "country": "DK"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/8QxCNqgOkZrfEYpmxl1AHhTIrA4jqcQOnEZc1zMry5V4453rUyZSuWC-NmsYJIaD1AWZK2IAqA"
+      }
+    }
+  }
+}

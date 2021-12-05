@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCeP4Yv3s4RvS0-6d9OInRMw",
+  "retrieved_on": "2021-12-05 03:47:29.489831",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "tRKpIgCUtYs6d5ZXgHzS_WV3kY0",
+    "id": "UCeP4Yv3s4RvS0-6d9OInRMw",
+    "snippet": {
+      "title": "Real Civil Engineer",
+      "description": "I am a child stuck in an Engineer's body...",
+      "customUrl": "realcivilengineergaming",
+      "publishedAt": "2020-06-04T09:16:52.851926Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSD05SDG-6NAZq0f6y4JcqWxqYMdU-5SblT6LWg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSD05SDG-6NAZq0f6y4JcqWxqYMdU-5SblT6LWg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSD05SDG-6NAZq0f6y4JcqWxqYMdU-5SblT6LWg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Real Civil Engineer",
+        "description": "I am a child stuck in an Engineer's body..."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUeP4Yv3s4RvS0-6d9OInRMw"
+      }
+    },
+    "statistics": {
+      "viewCount": "107564736",
+      "subscriberCount": "792000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "314"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Real Civil Engineer",
+        "description": "I am a child stuck in an Engineer's body...",
+        "keywords": "\"Civil Engineering\" \"Poly Bridge 2\" \"Real Civil Engineer\" \"Funny Gaming\" \"kerbal space program\" engineering ksp",
+        "unsubscribedTrailer": "BFLCs1OoEzU",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/8o7zzCwixW4_7E1FiG56YtxZS3FIoxFnMytCaLjNEqNAebZqd04seAmcgTbf-tA3yl2-fRTm8Q"
+      }
+    }
+  }
+}

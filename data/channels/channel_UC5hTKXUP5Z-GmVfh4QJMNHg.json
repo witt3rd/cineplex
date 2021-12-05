@@ -1,0 +1,55 @@
+{
+  "channel_id": "UC5hTKXUP5Z-GmVfh4QJMNHg",
+  "retrieved_on": "2021-12-05 03:47:40.782197",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nA-3YqFKflf6qUWjXz6rgTBEzxY",
+    "id": "UC5hTKXUP5Z-GmVfh4QJMNHg",
+    "snippet": {
+      "title": "Mnemonic - Topic",
+      "description": "",
+      "publishedAt": "2013-10-03T10:35:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KTRn9gkvj1otbMEqXApvs-i9bzrCRORqNulxWDr61tyVhR2t0XGe9vy_GOz2hGLWacjELSHTXQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KTRn9gkvj1otbMEqXApvs-i9bzrCRORqNulxWDr61tyVhR2t0XGe9vy_GOz2hGLWacjELSHTXQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KTRn9gkvj1otbMEqXApvs-i9bzrCRORqNulxWDr61tyVhR2t0XGe9vy_GOz2hGLWacjELSHTXQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mnemonic - Topic",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5hTKXUP5Z-GmVfh4QJMNHg"
+      }
+    },
+    "statistics": {
+      "viewCount": "17215",
+      "subscriberCount": "55",
+      "hiddenSubscriberCount": false,
+      "videoCount": "287"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mnemonic - Topic"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/YKJO_iuRKgDrflbhkeutI3gHnAa3sUwLXLkXQYmCkZhsNAvMIIOgKyAZB0klPT7Cd5LawSKLS5I"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCEoUEhN6TBvwkKVP29ANwcw",
+  "retrieved_on": "2021-12-05 03:47:40.292851",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "GG5ODSbgdSLG44oot3jWj1Hjem8",
+    "id": "UCEoUEhN6TBvwkKVP29ANwcw",
+    "snippet": {
+      "title": "Hot Club du Nax",
+      "description": "We are a Collective from Austria who likes to make Music \nmainly inspired by the great Django Reinhardt and other great Jazz Legends.\nIf you like what we do make sure to Like and Subscribe (:",
+      "customUrl": "hotclubdunax",
+      "publishedAt": "2016-10-29T12:48:15Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRRdGV7LyZTBF19GWtgAg2KNsM9zIYLV4WuHGPkvA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRRdGV7LyZTBF19GWtgAg2KNsM9zIYLV4WuHGPkvA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRRdGV7LyZTBF19GWtgAg2KNsM9zIYLV4WuHGPkvA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Hot Club du Nax",
+        "description": "We are a Collective from Austria who likes to make Music \nmainly inspired by the great Django Reinhardt and other great Jazz Legends.\nIf you like what we do make sure to Like and Subscribe (:"
+      },
+      "country": "AT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUEoUEhN6TBvwkKVP29ANwcw"
+      }
+    },
+    "statistics": {
+      "viewCount": "11229096",
+      "subscriberCount": "62600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "50"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Hot Club du Nax",
+        "description": "We are a Collective from Austria who likes to make Music \nmainly inspired by the great Django Reinhardt and other great Jazz Legends.\nIf you like what we do make sure to Like and Subscribe (:",
+        "keywords": "\"Gypsy jazz\" \"Jazz manouche\" Jazz \"Vintage Jazz\" \"Django Reinhardt\" \"Vintage Music\" \"GYPSY JAZZ\" Music",
+        "unsubscribedTrailer": "4CIRl-huv6k",
+        "country": "AT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/dlo5-wMEJ9iXygvtsVwiPm5-ZnKcF_y1sfloEyhJut1c5QoIwjCWs7Hk42kyBZAkk2afcrITHTc"
+      }
+    }
+  }
+}

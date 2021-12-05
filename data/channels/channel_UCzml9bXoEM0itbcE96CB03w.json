@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCzml9bXoEM0itbcE96CB03w",
+  "retrieved_on": "2021-12-05 03:47:32.562730",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ydtRrgRYQMBdcTD4bgyVBwrIuYc",
+    "id": "UCzml9bXoEM0itbcE96CB03w",
+    "snippet": {
+      "title": "DroneBot Workshop",
+      "description": "Welcome to the Workshop!\n\nThe DroneBot Workshop is the place where I work with Arduino, Raspberry Pi, ESP32, and lots of other cool microcontrollers, components, and sensors.\n\nThis is a channel for learning and understanding. While I do build projects, most episodes focus on showing you HOW things work, so you can use the information to bring your own designs to life.\n\nEvery video has a corresponding article on my website at http://dronebotworkshop.com , along with the diagrams and code samples you\u2019ll need to build your own creations.  You can also participate in discussions on my Forum at https://forum.dronebotworkshop.com.\n\nPlease note that I no longer do any sponsored videos, enquiries for these will be ignored!\n\nIf you'd like to know more about me or the DroneBot Workshop you can read the FAQ at https://dronebotworkshop.com/about-dronebot-workshop/faq/\n\nAnd if you have technical questions please ask them on the Forum.\n\nWelcome to the Workshop!  I hope you enjoy your stay!\n\nBill\n\n\n",
+      "customUrl": "dronebotworkshop1",
+      "publishedAt": "2015-12-28T19:38:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLST97ChqkOSfWojMybK7Z4eF4BN649Ja5CvfiVh=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLST97ChqkOSfWojMybK7Z4eF4BN649Ja5CvfiVh=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLST97ChqkOSfWojMybK7Z4eF4BN649Ja5CvfiVh=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DroneBot Workshop",
+        "description": "Welcome to the Workshop!\n\nThe DroneBot Workshop is the place where I work with Arduino, Raspberry Pi, ESP32, and lots of other cool microcontrollers, components, and sensors.\n\nThis is a channel for learning and understanding. While I do build projects, most episodes focus on showing you HOW things work, so you can use the information to bring your own designs to life.\n\nEvery video has a corresponding article on my website at http://dronebotworkshop.com , along with the diagrams and code samples you\u2019ll need to build your own creations.  You can also participate in discussions on my Forum at https://forum.dronebotworkshop.com.\n\nPlease note that I no longer do any sponsored videos, enquiries for these will be ignored!\n\nIf you'd like to know more about me or the DroneBot Workshop you can read the FAQ at https://dronebotworkshop.com/about-dronebot-workshop/faq/\n\nAnd if you have technical questions please ask them on the Forum.\n\nWelcome to the Workshop!  I hope you enjoy your stay!\n\nBill\n\n\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzml9bXoEM0itbcE96CB03w"
+      }
+    },
+    "statistics": {
+      "viewCount": "23578511",
+      "subscriberCount": "392000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "107"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "DroneBot Workshop",
+        "description": "Welcome to the Workshop!\n\nThe DroneBot Workshop is the place where I work with Arduino, Raspberry Pi, ESP32, and lots of other cool microcontrollers, components, and sensors.\n\nThis is a channel for learning and understanding. While I do build projects, most episodes focus on showing you HOW things work, so you can use the information to bring your own designs to life.\n\nEvery video has a corresponding article on my website at http://dronebotworkshop.com , along with the diagrams and code samples you\u2019ll need to build your own creations.  You can also participate in discussions on my Forum at https://forum.dronebotworkshop.com.\n\nPlease note that I no longer do any sponsored videos, enquiries for these will be ignored!\n\nIf you'd like to know more about me or the DroneBot Workshop you can read the FAQ at https://dronebotworkshop.com/about-dronebot-workshop/faq/\n\nAnd if you have technical questions please ask them on the Forum.\n\nWelcome to the Workshop!  I hope you enjoy your stay!\n\nBill\n\n\n",
+        "keywords": "Arduino \"Raspberry Pi\" Electronics DIY Robots Drones Quadcopters UAVs Iot \"Internet of Things\" Projects Tutorials \"Drone Bot\" \"Dronebot Workshop\" \"Drone Bot Workshop\"",
+        "trackingAnalyticsAccountId": "UA-72768847-2",
+        "unsubscribedTrailer": "TeRLSK1y4AE",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/an75k5nCRnjWYYKDUgo5j8C4aQEm-Nz3qMuk7SsA_kbaY6lNrSt223bP7MfZKMrW-_t_8xpW"
+      }
+    }
+  }
+}

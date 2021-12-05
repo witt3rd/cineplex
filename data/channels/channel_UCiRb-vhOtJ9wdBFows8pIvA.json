@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCiRb-vhOtJ9wdBFows8pIvA",
+  "retrieved_on": "2021-12-05 03:47:38.852241",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "od1SKpby_0jQaIMXLMk7Pb-yi2o",
+    "id": "UCiRb-vhOtJ9wdBFows8pIvA",
+    "snippet": {
+      "title": "Rosie Miyashiro",
+      "description": "",
+      "publishedAt": "2016-10-24T03:35:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvbscFqxbo05LaHOFrR3XbRvRDavZu-aOMjA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvbscFqxbo05LaHOFrR3XbRvRDavZu-aOMjA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvbscFqxbo05LaHOFrR3XbRvRDavZu-aOMjA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rosie Miyashiro",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUiRb-vhOtJ9wdBFows8pIvA"
+      }
+    },
+    "statistics": {
+      "viewCount": "56820",
+      "subscriberCount": "173",
+      "hiddenSubscriberCount": false,
+      "videoCount": "50"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rosie Miyashiro"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "channel_id": "UC0pEknZxL7Q1j0Ok8qImWdQ",
+  "retrieved_on": "2021-12-05 03:47:29.489838",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "y2QKB67gYh3cRoil7_G1aMsWO54",
+    "id": "UC0pEknZxL7Q1j0Ok8qImWdQ",
+    "snippet": {
+      "title": "Compose Conference",
+      "description": "C\u25e6mp\u25e6se :: Conference video repository\nhttp://composeconference.org",
+      "publishedAt": "2016-03-02T05:51:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTq0J7pIQN6spd4wKMtVrk-1XKm1K1gLGQhzZK4=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTq0J7pIQN6spd4wKMtVrk-1XKm1K1gLGQhzZK4=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTq0J7pIQN6spd4wKMtVrk-1XKm1K1gLGQhzZK4=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Compose Conference",
+        "description": "C\u25e6mp\u25e6se :: Conference video repository\nhttp://composeconference.org"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU0pEknZxL7Q1j0Ok8qImWdQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "229548",
+      "subscriberCount": "2390",
+      "hiddenSubscriberCount": false,
+      "videoCount": "91"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Compose Conference",
+        "description": "C\u25e6mp\u25e6se :: Conference video repository\nhttp://composeconference.org",
+        "keywords": "\"Functional Programming\" \"Type Systems\"",
+        "unsubscribedTrailer": "h2p68JjSUH0"
+      }
+    }
+  }
+}

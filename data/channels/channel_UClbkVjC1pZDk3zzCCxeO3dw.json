@@ -1,0 +1,55 @@
+{
+  "channel_id": "UClbkVjC1pZDk3zzCCxeO3dw",
+  "retrieved_on": "2021-12-05 03:47:34.534432",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "M8E5f-XEJ9cKwAOk3Oiw2Soi39E",
+    "id": "UClbkVjC1pZDk3zzCCxeO3dw",
+    "snippet": {
+      "title": "Tyra Arraj",
+      "description": "",
+      "publishedAt": "2011-10-15T16:19:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHj4gm6Ml1wINJRhHqplo2_DL832kEK2IhYK_D=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHj4gm6Ml1wINJRhHqplo2_DL832kEK2IhYK_D=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHj4gm6Ml1wINJRhHqplo2_DL832kEK2IhYK_D=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tyra Arraj",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUlbkVjC1pZDk3zzCCxeO3dw"
+      }
+    },
+    "statistics": {
+      "viewCount": "898267",
+      "subscriberCount": "4810",
+      "hiddenSubscriberCount": false,
+      "videoCount": "68"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tyra Arraj"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/fihkTaFGsyuFVDzJ_7Dq36J6h3iJDFW6XPrLdicD_79ClqtElMOy6TS6CwNqk7yro2p3a8V8hw"
+      }
+    }
+  }
+}

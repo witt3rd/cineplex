@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCodf7suQHL7iNyGFgJ51aaw",
+  "retrieved_on": "2021-12-05 03:47:33.306731",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5em__m8UD1P_0o0An9zTujdox-U",
+    "id": "UCodf7suQHL7iNyGFgJ51aaw",
+    "snippet": {
+      "title": "Piff the Magic Dragon",
+      "description": "Piff the Magic Dragon is the Las Vegas headlining sensation best known for his hilarious appearances on America\u2019s Got Talent and Penn & Teller Fool Us. See him and Mr. Piffles LIVE in the Flamingo Showroom at the Flamingo Hotel and Casino or on tour in a city near you.",
+      "publishedAt": "2011-03-29T10:40:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQVXAS6AjvRy7x0Tw3-HMOkpi8ShWodGKdpLqwR=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQVXAS6AjvRy7x0Tw3-HMOkpi8ShWodGKdpLqwR=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQVXAS6AjvRy7x0Tw3-HMOkpi8ShWodGKdpLqwR=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Piff the Magic Dragon",
+        "description": "Piff the Magic Dragon is the Las Vegas headlining sensation best known for his hilarious appearances on America\u2019s Got Talent and Penn & Teller Fool Us. See him and Mr. Piffles LIVE in the Flamingo Showroom at the Flamingo Hotel and Casino or on tour in a city near you."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUodf7suQHL7iNyGFgJ51aaw"
+      }
+    },
+    "statistics": {
+      "viewCount": "3183929",
+      "subscriberCount": "123000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "22"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Piff the Magic Dragon",
+        "description": "Piff the Magic Dragon is the Las Vegas headlining sensation best known for his hilarious appearances on America\u2019s Got Talent and Penn & Teller Fool Us. See him and Mr. Piffles LIVE in the Flamingo Showroom at the Flamingo Hotel and Casino or on tour in a city near you.",
+        "keywords": "\"Piff the Magic Dragon\" Piff \"Magic Dragon\" Magic Comedy Magician Comedian \"America's Got Talent\" AGT Dragon \"Mr Piffles\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/AjWSx8voXQPwX0n0Gk0qnnkdxFHgOPuWgZUvVwk3tHhGFkSzyR7Gy0fAKRe8yZ6f6Xa1WHw-8Q"
+      }
+    }
+  }
+}

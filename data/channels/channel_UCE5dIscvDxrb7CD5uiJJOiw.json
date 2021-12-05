@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCE5dIscvDxrb7CD5uiJJOiw",
+  "retrieved_on": "2021-12-05 03:47:31.570389",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "aVNz4OD-lK59i1qVAkQhLlGadi8",
+    "id": "UCE5dIscvDxrb7CD5uiJJOiw",
+    "snippet": {
+      "title": "Adrian's Digital Basement",
+      "description": "Welcome to Adrian's Digital Basement. I love old computers! If you do too, this channel is for you! This channel is just a result of my hobby, so please be kind when my production quality doesn't stand up to those of other full time content producers. \n\nIf you are interested in sending in a donation to the channel, please contact me via email. You can find my email address below under \"Business Inquiries.\" (Visible on YouTube via a web browser, not the phone app.)\n",
+      "customUrl": "adriansdigitalbasement",
+      "publishedAt": "2006-12-03T05:06:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRTAReaTlA2YPKRJ-MDEF3lYjpZMsix3vnoCeQh=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRTAReaTlA2YPKRJ-MDEF3lYjpZMsix3vnoCeQh=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRTAReaTlA2YPKRJ-MDEF3lYjpZMsix3vnoCeQh=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Adrian's Digital Basement",
+        "description": "Welcome to Adrian's Digital Basement. I love old computers! If you do too, this channel is for you! This channel is just a result of my hobby, so please be kind when my production quality doesn't stand up to those of other full time content producers. \n\nIf you are interested in sending in a donation to the channel, please contact me via email. You can find my email address below under \"Business Inquiries.\" (Visible on YouTube via a web browser, not the phone app.)\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUE5dIscvDxrb7CD5uiJJOiw"
+      }
+    },
+    "statistics": {
+      "viewCount": "19693007",
+      "subscriberCount": "121000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "380"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Adrian's Digital Basement",
+        "description": "Welcome to Adrian's Digital Basement. I love old computers! If you do too, this channel is for you! This channel is just a result of my hobby, so please be kind when my production quality doesn't stand up to those of other full time content producers. \n\nIf you are interested in sending in a donation to the channel, please contact me via email. You can find my email address below under \"Business Inquiries.\" (Visible on YouTube via a web browser, not the phone app.)\n",
+        "keywords": "Vintage Retro Computers 8-bit Commodore IBM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/gx2CA4P7ugW__qtR39GBtkoA_rDHjYdh2qnD5ln8y_clDhGDWylD0sHm0VXbHCdrWpbI3jdS6w"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCkhm72fuzkS9fYGlGpEmj7A",
+  "retrieved_on": "2021-12-05 03:47:37.514269",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "3sc6lIfNOWGWZSAqbZr5OQ1ZSyY",
+    "id": "UCkhm72fuzkS9fYGlGpEmj7A",
+    "snippet": {
+      "title": "Enthought",
+      "description": "For more than 15 years, Enthought has built AI solutions with science and engineering at the core. We accelerate digital transformation by enabling companies and their people to leverage the benefits of Artificial Intelligence and Machine Learning.\n\nFrom strategy to implementation to training, our science-first approach means we understand your unique market value at the deepest level. Our unique blend of scientists and developers deliver solutions to unite your teams and their data.\n\n*Unleash Business-Specific AI\nWe identify and implement vertically-integrated applications to accelerate business. We can extract business value from your data no matter the state or location - Big Data to Data Silos, no problem.\n\n*Solve Hard Scientific Problems\nWe map the human genome. We find and extract oil. Together we develop and deploy a transparent solution with an accessible Python interface for continuous optimization and discoveries.\n\n*Transform People to Command AI\n\nGo Faster. Discover More.",
+      "customUrl": "enthought",
+      "publishedAt": "2009-07-24T14:57:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRJnYcFY_w79X_bilO9Ce2yjfFshj9OGZo1qILEJQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRJnYcFY_w79X_bilO9Ce2yjfFshj9OGZo1qILEJQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRJnYcFY_w79X_bilO9Ce2yjfFshj9OGZo1qILEJQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Enthought",
+        "description": "For more than 15 years, Enthought has built AI solutions with science and engineering at the core. We accelerate digital transformation by enabling companies and their people to leverage the benefits of Artificial Intelligence and Machine Learning.\n\nFrom strategy to implementation to training, our science-first approach means we understand your unique market value at the deepest level. Our unique blend of scientists and developers deliver solutions to unite your teams and their data.\n\n*Unleash Business-Specific AI\nWe identify and implement vertically-integrated applications to accelerate business. We can extract business value from your data no matter the state or location - Big Data to Data Silos, no problem.\n\n*Solve Hard Scientific Problems\nWe map the human genome. We find and extract oil. Together we develop and deploy a transparent solution with an accessible Python interface for continuous optimization and discoveries.\n\n*Transform People to Command AI\n\nGo Faster. Discover More."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkhm72fuzkS9fYGlGpEmj7A"
+      }
+    },
+    "statistics": {
+      "viewCount": "7176436",
+      "subscriberCount": "58200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1141"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Enthought",
+        "description": "For more than 15 years, Enthought has built AI solutions with science and engineering at the core. We accelerate digital transformation by enabling companies and their people to leverage the benefits of Artificial Intelligence and Machine Learning.\n\nFrom strategy to implementation to training, our science-first approach means we understand your unique market value at the deepest level. Our unique blend of scientists and developers deliver solutions to unite your teams and their data.\n\n*Unleash Business-Specific AI\nWe identify and implement vertically-integrated applications to accelerate business. We can extract business value from your data no matter the state or location - Big Data to Data Silos, no problem.\n\n*Solve Hard Scientific Problems\nWe map the human genome. We find and extract oil. Together we develop and deploy a transparent solution with an accessible Python interface for continuous optimization and discoveries.\n\n*Transform People to Command AI\n\nGo Faster. Discover More.",
+        "keywords": "\"scientific computing\" Python SciPy NumPy \"data visualization\" \"data analysis\" \"data science\" \"machine learning\" AI \"Digital Transformation\"",
+        "trackingAnalyticsAccountId": "UA-2541099-2",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/79OOg00pZVtf-nQeHATQjRoOfM0f_hrQbReb-ZerARRh5ZRVMh8xXR4eK7TclV6Ax8X6ian-1g"
+      }
+    }
+  }
+}

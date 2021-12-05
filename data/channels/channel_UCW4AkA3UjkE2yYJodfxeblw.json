@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCW4AkA3UjkE2yYJodfxeblw",
+  "retrieved_on": "2021-12-05 03:47:35.580990",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "iUW0j63sBburPwRyPygFbeSPjcc",
+    "id": "UCW4AkA3UjkE2yYJodfxeblw",
+    "snippet": {
+      "title": "IN-SHADOW",
+      "description": "",
+      "publishedAt": "2017-11-08T18:32:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxYj21ihv8lY1e09AIvPdywdJsbORHaOaBX0NT=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxYj21ihv8lY1e09AIvPdywdJsbORHaOaBX0NT=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxYj21ihv8lY1e09AIvPdywdJsbORHaOaBX0NT=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "IN-SHADOW",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUW4AkA3UjkE2yYJodfxeblw"
+      }
+    },
+    "statistics": {
+      "viewCount": "4943310",
+      "subscriberCount": "64300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "IN-SHADOW",
+        "keywords": "in shadow modern odyssey"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/sFa8Gp4IHcs9s0mjMB37uhQZ0o9v3DG1PrHfMtL8ZXhRIUpY0kmcrMtFThTTMWadM5_v9AXp4w"
+      }
+    }
+  }
+}

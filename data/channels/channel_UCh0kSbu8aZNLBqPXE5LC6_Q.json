@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCh0kSbu8aZNLBqPXE5LC6_Q",
+  "retrieved_on": "2021-12-05 03:47:39.693598",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "6b7kDRLK9eYXp0DjwyKHIpcQyxY",
+    "id": "UCh0kSbu8aZNLBqPXE5LC6_Q",
+    "snippet": {
+      "title": "SunnyMotivates",
+      "description": "\n",
+      "publishedAt": "2020-06-09T20:18:51.606753Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRx5n2TqVLtBFKqI6FI1odY_9AoohalIAPZKdeC=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRx5n2TqVLtBFKqI6FI1odY_9AoohalIAPZKdeC=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRx5n2TqVLtBFKqI6FI1odY_9AoohalIAPZKdeC=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SunnyMotivates",
+        "description": "\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUh0kSbu8aZNLBqPXE5LC6_Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "881920",
+      "subscriberCount": "13400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "38"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SunnyMotivates",
+        "description": "\n",
+        "keywords": "TravelTourism \"Virtual Walk\" \"Walks in 4K\" \"Walking Tour\" \"Prowalk Tours\" \"Travel from home tours\" \"tours Guided\" Tours \"360 walk\" 4k \"virtual tour\" \"toronto walk\" \"toronto 360\" \"360 walk toronto\" streets \"4k video\" \"toronto tour\" \"4k walk\" toronto \"cn tower\" \"cn 360 restaurant\" \"scotia arena\" \"toronto streets\" \"downtown toronto\" \"real estate toronto\" \"toronto travel guide\"",
+        "unsubscribedTrailer": "UYcyV4UsgK0",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/8xWv0RgwffCLe738zxlPiHuY0s2FAmI1IhgCnIlgbCufVy8CjLOzLwRa3impjspHihzaQdhL"
+      }
+    }
+  }
+}

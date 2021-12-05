@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC56l7uZA209tlPTVOJiJ8Tw",
+  "retrieved_on": "2021-12-05 03:47:28.920471",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jWSQHsF0mT0qNCkVC3A7NNd5OHg",
+    "id": "UC56l7uZA209tlPTVOJiJ8Tw",
+    "snippet": {
+      "title": "Low Level JavaScript",
+      "description": "Low Level JavaScript is a YouTube channel goes deep into the heart of low level programming - messing with ones and zeros - but all in pure JavaScript.\n\npatreon: https://www.patreon.com/lowleveljavascript\nmailing list: https://tinyletter.com/lowleveljavascript\ntwitter: @lowleveljs\nreddit: reddit.com/r/lowleveljavascript \ndiscord: https://discord.gg/FPWaVgk",
+      "customUrl": "lowleveljavascript",
+      "publishedAt": "2019-05-14T06:33:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT82qiOHBASata9Cov4SobPx4g2UNVepoFjKkvBPA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT82qiOHBASata9Cov4SobPx4g2UNVepoFjKkvBPA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT82qiOHBASata9Cov4SobPx4g2UNVepoFjKkvBPA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Low Level JavaScript",
+        "description": "Low Level JavaScript is a YouTube channel goes deep into the heart of low level programming - messing with ones and zeros - but all in pure JavaScript.\n\npatreon: https://www.patreon.com/lowleveljavascript\nmailing list: https://tinyletter.com/lowleveljavascript\ntwitter: @lowleveljs\nreddit: reddit.com/r/lowleveljavascript \ndiscord: https://discord.gg/FPWaVgk"
+      },
+      "country": "NL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU56l7uZA209tlPTVOJiJ8Tw"
+      }
+    },
+    "statistics": {
+      "viewCount": "335675",
+      "subscriberCount": "15800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "54"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Low Level JavaScript",
+        "description": "Low Level JavaScript is a YouTube channel goes deep into the heart of low level programming - messing with ones and zeros - but all in pure JavaScript.\n\npatreon: https://www.patreon.com/lowleveljavascript\nmailing list: https://tinyletter.com/lowleveljavascript\ntwitter: @lowleveljs\nreddit: reddit.com/r/lowleveljavascript \ndiscord: https://discord.gg/FPWaVgk",
+        "keywords": "JavaScript Assembly \"Virtual Machine\" \"Low level\" JS programming \"web development\" web",
+        "country": "NL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/iWFzY7_q9PutKjfs4sQOpQyJ-cBqCW6r6YjWhrIsBUhVoj2IDXGhbIY4GrerOl7SQtHe1QgppQ"
+      }
+    }
+  }
+}

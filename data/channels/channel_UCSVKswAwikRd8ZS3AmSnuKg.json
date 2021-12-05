@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCSVKswAwikRd8ZS3AmSnuKg",
+  "retrieved_on": "2021-12-05 03:47:40.782108",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "kqPlXkfmo9dzlt-6n6zd87ZCpWA",
+    "id": "UCSVKswAwikRd8ZS3AmSnuKg",
+    "snippet": {
+      "title": "ieeeComputerSociety",
+      "description": "The IEEE Computer Society is a professional society of the Institute of Electrical and Electronics Engineers (IEEE). We Are the Home for Computer Science and Engineering Leaders. As the world\u2019s top member organization dedicated to computer science and technology, the IEEE Computer Society advances the theory, practice, and application of computer and information-processing science and technology, as well as the professional standing of its members.",
+      "publishedAt": "2008-02-14T22:02:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSuNYJ5oc6-GfgFRQ9T4xY6Es6MDry5Az7T2ou5lw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSuNYJ5oc6-GfgFRQ9T4xY6Es6MDry5Az7T2ou5lw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSuNYJ5oc6-GfgFRQ9T4xY6Es6MDry5Az7T2ou5lw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ieeeComputerSociety",
+        "description": "The IEEE Computer Society is a professional society of the Institute of Electrical and Electronics Engineers (IEEE). We Are the Home for Computer Science and Engineering Leaders. As the world\u2019s top member organization dedicated to computer science and technology, the IEEE Computer Society advances the theory, practice, and application of computer and information-processing science and technology, as well as the professional standing of its members."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUSVKswAwikRd8ZS3AmSnuKg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1528876",
+      "subscriberCount": "16300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2085"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ieeeComputerSociety",
+        "description": "The IEEE Computer Society is a professional society of the Institute of Electrical and Electronics Engineers (IEEE). We Are the Home for Computer Science and Engineering Leaders. As the world\u2019s top member organization dedicated to computer science and technology, the IEEE Computer Society advances the theory, practice, and application of computer and information-processing science and technology, as well as the professional standing of its members.",
+        "keywords": "\"IEEE Computer Society\" IEEE \"Computer Society\" technology \"artificial intelligence\" cybersecurity webinars high-tech supercomputing \"career development\" \"machine learning\" \"SE Radio\" \"software engineer\" \"internet of things\" quantum \"big data\" \"industry standards\" \"careers in tech\" automation \"hardware security\"",
+        "unsubscribedTrailer": "oM5mcBtpLeE",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ASBUz7c29DWrcUaHHJoRvFC-2jKP1nqelstjrrFMr_fo6EQHPR1PPcVluJmFYSgz9D6ocUUmKg"
+      }
+    }
+  }
+}

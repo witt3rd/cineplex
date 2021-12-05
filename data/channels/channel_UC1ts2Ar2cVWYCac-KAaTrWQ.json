@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC1ts2Ar2cVWYCac-KAaTrWQ",
+  "retrieved_on": "2021-12-05 03:47:28.552292",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Kv4Hu7dkmMqufeifVgznGaYnyMc",
+    "id": "UC1ts2Ar2cVWYCac-KAaTrWQ",
+    "snippet": {
+      "title": "XYZAidan",
+      "description": "Hey! I'm XYZAidan and this is my channel.\nI make videos experimenting with 3D printing, robotics, electronics, and anything else that pops into my mind.",
+      "customUrl": "xyzaidan",
+      "publishedAt": "2014-03-11T20:03:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRDFLhCEgFcnZM_yZd7J6RpnXZZnGanSxBKaNPj=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRDFLhCEgFcnZM_yZd7J6RpnXZZnGanSxBKaNPj=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRDFLhCEgFcnZM_yZd7J6RpnXZZnGanSxBKaNPj=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "XYZAidan",
+        "description": "Hey! I'm XYZAidan and this is my channel.\nI make videos experimenting with 3D printing, robotics, electronics, and anything else that pops into my mind."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU1ts2Ar2cVWYCac-KAaTrWQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "2064770",
+      "subscriberCount": "26900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "66"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "XYZAidan",
+        "description": "Hey! I'm XYZAidan and this is my channel.\nI make videos experimenting with 3D printing, robotics, electronics, and anything else that pops into my mind.",
+        "keywords": "soft robot aidan leitch xyzaidan 3D printing maker DIY tech robotics",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/IUN9EiKlcNKpVtIGWPcO6Dn1VXdVnrXj01raItEifWz7yz7su4hBIBYUbbJMaXddkDx_BX7QZQ"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCwRXb5dUK4cvsHbx-rGzSgw",
+  "retrieved_on": "2021-12-05 03:47:28.552344",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "qq_felNkeJi-rqXLmCTaAM_GW4I",
+    "id": "UCwRXb5dUK4cvsHbx-rGzSgw",
+    "snippet": {
+      "title": "Derek Banas",
+      "description": "I make tutorials based on your requests. I will cover any topic you can imagine. I upload new videos everyday. I'm currently teaching a series on data science and machine learning.",
+      "customUrl": "derekbanas",
+      "publishedAt": "2008-08-12T15:35:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRZJ5DFgSQzbLG4zSnAKlUu2XTZmTCA8DXmFTmGVQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRZJ5DFgSQzbLG4zSnAKlUu2XTZmTCA8DXmFTmGVQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRZJ5DFgSQzbLG4zSnAKlUu2XTZmTCA8DXmFTmGVQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Derek Banas",
+        "description": "I make tutorials based on your requests. I will cover any topic you can imagine. I upload new videos everyday. I'm currently teaching a series on data science and machine learning."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwRXb5dUK4cvsHbx-rGzSgw"
+      }
+    },
+    "statistics": {
+      "viewCount": "110309606",
+      "subscriberCount": "1150000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1196"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Derek Banas",
+        "description": "I make tutorials based on your requests. I will cover any topic you can imagine. I upload new videos everyday. I'm currently teaching a series on data science and machine learning.",
+        "keywords": "\"own website design\" \"detect a liar\" wordpress \"the best foods\" \"diet nutritional\" \"design to web\"",
+        "unsubscribedTrailer": "FxbOS69AiX8",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/BKS8Jhw5PZvAZh1_E4Rf2Vld2NcCvck6g3YcjNYMGyMflbusP8ahbDqpoe9GY9kTi5aPQZP57iI"
+      }
+    }
+  }
+}

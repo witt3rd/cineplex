@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCIwSxDpqPoctBv1A8cakx3Q",
+  "retrieved_on": "2021-12-05 03:47:39.473188",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "e_5atZHd71fEQe98mbqEtYJdtbw",
+    "id": "UCIwSxDpqPoctBv1A8cakx3Q",
+    "snippet": {
+      "title": "Telekom Electronic Beats",
+      "description": "Telekom Electronic Beats TV is one of the longest running video platforms for quality Electronic Music, starting with a show on Viva 2 (German Music TV) in 2002, before launching the highly popular Slices DVD Magazine in March of 2005 and later becoming Electronic Beats TV again which went fully online on YouTube in 2012. Since we paved the way for this kind of music related video content two decades ago the world of artist and label focused features and studio sneak peeks has grown exponentially with many other following suit with the format we championed in our early days. \nOver the years we\u2019ve delivered a wide variety of content for our viewers, from our popular Blind Test series to Tech Talks, documentaries, B-Sides, Artist / Label features and Live Videos featuring established artists and newcomers alike. \nAnd the story goes on....\n\nImprint: http://www.electronicbeats.net/en/imprint\n",
+      "customUrl": "electronicbeats",
+      "publishedAt": "2008-04-16T19:32:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-coqMxEBUAnY9R2NX6suafSuXeg91B1Hc12DyeA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-coqMxEBUAnY9R2NX6suafSuXeg91B1Hc12DyeA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-coqMxEBUAnY9R2NX6suafSuXeg91B1Hc12DyeA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Telekom Electronic Beats",
+        "description": "Telekom Electronic Beats TV is one of the longest running video platforms for quality Electronic Music, starting with a show on Viva 2 (German Music TV) in 2002, before launching the highly popular Slices DVD Magazine in March of 2005 and later becoming Electronic Beats TV again which went fully online on YouTube in 2012. Since we paved the way for this kind of music related video content two decades ago the world of artist and label focused features and studio sneak peeks has grown exponentially with many other following suit with the format we championed in our early days. \nOver the years we\u2019ve delivered a wide variety of content for our viewers, from our popular Blind Test series to Tech Talks, documentaries, B-Sides, Artist / Label features and Live Videos featuring established artists and newcomers alike. \nAnd the story goes on....\n\nImprint: http://www.electronicbeats.net/en/imprint\n"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIwSxDpqPoctBv1A8cakx3Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "85777478",
+      "subscriberCount": "296000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "830"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Telekom Electronic Beats",
+        "description": "Telekom Electronic Beats TV is one of the longest running video platforms for quality Electronic Music, starting with a show on Viva 2 (German Music TV) in 2002, before launching the highly popular Slices DVD Magazine in March of 2005 and later becoming Electronic Beats TV again which went fully online on YouTube in 2012. Since we paved the way for this kind of music related video content two decades ago the world of artist and label focused features and studio sneak peeks has grown exponentially with many other following suit with the format we championed in our early days. \nOver the years we\u2019ve delivered a wide variety of content for our viewers, from our popular Blind Test series to Tech Talks, documentaries, B-Sides, Artist / Label features and Live Videos featuring established artists and newcomers alike. \nAnd the story goes on....\n\nImprint: http://www.electronicbeats.net/en/imprint\n",
+        "keywords": "\"chilly gonzales\" \"born slippy underworld\" \"new order live\" \"the whitest boy alive\" \"amelie lens\" \"nina kraviz\" \"richie hawtin\" \"telekom electronic beats\" \"joris voorn\" \"charlotte de witte\" \"we call it techno\" \"meute live\" techno \"tech talk\" \"dj dixon\" \"electronic beats tech talk\" \"boris brejcha\" \"blind test\" stimming \"stimming live\" \"stimming review\" \"tech talk\" \"gear review\" \"techno blind test\" \"electronic beats blind test\" \"blind test\" \"electronic beats blind test\" \"telekom blind test\"",
+        "trackingAnalyticsAccountId": "UA-59251634-9",
+        "moderateComments": true,
+        "unsubscribedTrailer": "OxLqKW3PQ64",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Wt6HR6YkfqCfqZbW_ujCoqwR1NSuwyZYOLMRlBKLweF1xXJvClWzPV3ozKuSHpthwsb5l8Co_Q"
+      }
+    }
+  }
+}

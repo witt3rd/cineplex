@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCZ6Qas2nqiX98L0NwqfVT7A",
+  "retrieved_on": "2021-12-05 03:47:38.852258",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ILnC0UAMhdAc1zLEEgJEjCp9kdo",
+    "id": "UCZ6Qas2nqiX98L0NwqfVT7A",
+    "snippet": {
+      "title": "Geography King",
+      "description": "If you want the best information on U.S. geography and cross-country road tripping on the web, this is the channel for you. On this channel you'll see videos that compare and contrast various places in the U.S., ranking the best and worst cities and states in different categories and profiles of individual cities and states. Also on this channel are videos about the best ways to road trip, the best places to see for short visits, and general travel info from a nerdy perspective. I've been on more than 20 cross-country road trips this century and have learned a lot through the years. I'd like to share some of what I've learned to help make your road trip as successful as possible. Thanks for visiting my channel and Happy Travels!",
+      "customUrl": "geographyking",
+      "publishedAt": "2014-12-07T04:20:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Kh7_WsbNc3DDvwoSZplUYZRL9e6YF2Swer5jLJgj2ByI4SsamUsuwIhYaO3fzbkR1T2JIXXGGQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Kh7_WsbNc3DDvwoSZplUYZRL9e6YF2Swer5jLJgj2ByI4SsamUsuwIhYaO3fzbkR1T2JIXXGGQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Kh7_WsbNc3DDvwoSZplUYZRL9e6YF2Swer5jLJgj2ByI4SsamUsuwIhYaO3fzbkR1T2JIXXGGQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Geography King",
+        "description": "If you want the best information on U.S. geography and cross-country road tripping on the web, this is the channel for you. On this channel you'll see videos that compare and contrast various places in the U.S., ranking the best and worst cities and states in different categories and profiles of individual cities and states. Also on this channel are videos about the best ways to road trip, the best places to see for short visits, and general travel info from a nerdy perspective. I've been on more than 20 cross-country road trips this century and have learned a lot through the years. I'd like to share some of what I've learned to help make your road trip as successful as possible. Thanks for visiting my channel and Happy Travels!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZ6Qas2nqiX98L0NwqfVT7A"
+      }
+    },
+    "statistics": {
+      "viewCount": "12570894",
+      "subscriberCount": "134000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "136"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Geography King",
+        "description": "If you want the best information on U.S. geography and cross-country road tripping on the web, this is the channel for you. On this channel you'll see videos that compare and contrast various places in the U.S., ranking the best and worst cities and states in different categories and profiles of individual cities and states. Also on this channel are videos about the best ways to road trip, the best places to see for short visits, and general travel info from a nerdy perspective. I've been on more than 20 cross-country road trips this century and have learned a lot through the years. I'd like to share some of what I've learned to help make your road trip as successful as possible. Thanks for visiting my channel and Happy Travels!",
+        "keywords": "geography \"geography king\" \"road trip\" travel \"city beautiful\" \"mr beat\" \"nick johnson\" \"from here to there\" \"world according to briggs\" \"through my lens\" \"that is interesting\"",
+        "unsubscribedTrailer": "tEdeiBXShGQ",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/B4nMLfiYFx6XZWmYeKvTDdydSFvWhB9wEJr5WG6o_ojlaodT7AzSHN9hLHnPyt0Y5SR46SBY"
+      }
+    }
+  }
+}

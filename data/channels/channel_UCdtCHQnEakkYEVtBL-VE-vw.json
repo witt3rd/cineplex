@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCdtCHQnEakkYEVtBL-VE-vw",
+  "retrieved_on": "2021-12-05 03:47:38.208226",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "63g0AweFn9PuJpHZ9TH5tvlA8_8",
+    "id": "UCdtCHQnEakkYEVtBL-VE-vw",
+    "snippet": {
+      "title": "TheAsianRepublican",
+      "description": "",
+      "customUrl": "theasianrepublican",
+      "publishedAt": "2011-11-30T04:23:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ6uF1rs3CeVqWueW27Zso5LD6KxRhxgxZ8vsus=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ6uF1rs3CeVqWueW27Zso5LD6KxRhxgxZ8vsus=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ6uF1rs3CeVqWueW27Zso5LD6KxRhxgxZ8vsus=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TheAsianRepublican",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUdtCHQnEakkYEVtBL-VE-vw"
+      }
+    },
+    "statistics": {
+      "viewCount": "6280981",
+      "subscriberCount": "8460",
+      "hiddenSubscriberCount": false,
+      "videoCount": "231"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TheAsianRepublican",
+        "keywords": "\"United States\" Politics \"Critical Thinking\" Republican \"Political Discourse\"",
+        "unsubscribedTrailer": "8xnuHaeT0iE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/XiOkpGVskKkSbXd2_MMn3ie48GxC5YTjbYftEWCjDMZ397Hq49kJUzFfVvDOdXPbhFR9nnQU6b0"
+      }
+    }
+  }
+}

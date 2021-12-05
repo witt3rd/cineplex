@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC9EFDZChk1sUubMuF7ybFGw",
+  "retrieved_on": "2021-12-05 03:47:35.856799",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4XCn2KEc4lyFdJ_lfLzGENPkO8k",
+    "id": "UC9EFDZChk1sUubMuF7ybFGw",
+    "snippet": {
+      "title": "MindPodNetwork",
+      "description": "MindPod Network is a podcast network and consciousness focused collective.\n\nOur YouTube channel uploads occult, esoteric, philosophical and spiritual talks that have been remastered and edited for audio clarity.\n\nFor more info please visit mindpodnetwork.com",
+      "customUrl": "mindpodnetwork",
+      "publishedAt": "2014-09-22T18:38:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSGZyt2UvEZpjDLxM9GXKSRAh2nQer_Iq1oBECP=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSGZyt2UvEZpjDLxM9GXKSRAh2nQer_Iq1oBECP=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSGZyt2UvEZpjDLxM9GXKSRAh2nQer_Iq1oBECP=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MindPodNetwork",
+        "description": "MindPod Network is a podcast network and consciousness focused collective.\n\nOur YouTube channel uploads occult, esoteric, philosophical and spiritual talks that have been remastered and edited for audio clarity.\n\nFor more info please visit mindpodnetwork.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU9EFDZChk1sUubMuF7ybFGw"
+      }
+    },
+    "statistics": {
+      "viewCount": "4018166",
+      "subscriberCount": "40200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "448"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MindPodNetwork",
+        "description": "MindPod Network is a podcast network and consciousness focused collective.\n\nOur YouTube channel uploads occult, esoteric, philosophical and spiritual talks that have been remastered and edited for audio clarity.\n\nFor more info please visit mindpodnetwork.com",
+        "keywords": "\"mindpod network\" \"neville goddard\" \"manly p hall\" \"noah lampert\" synchronicity",
+        "trackingAnalyticsAccountId": "UA-55017885-1",
+        "unsubscribedTrailer": "VcNI7W8SdMk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/lPVPAVyD3qjESgeOWssFrms2VFPjSSgyx3Yr1VG_zegAd0YnA6LaRLZCfn2xXAsbl9R_-bfPeSE"
+      }
+    }
+  }
+}

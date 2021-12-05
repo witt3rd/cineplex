@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCOKHwx1VCdgnxwbjyb9Iu1g",
+  "retrieved_on": "2021-12-05 03:47:28.304278",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8XZfE3_M70sAwVLZ4thra4iL0jk",
+    "id": "UCOKHwx1VCdgnxwbjyb9Iu1g",
+    "snippet": {
+      "title": "Blender Guru",
+      "description": "Blender Guru creates tutorials and videos for the free 3D software: Blender. The host is Andrew Price, who lives in Brisbane Australia.",
+      "publishedAt": "2009-12-09T12:06:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSig_02TuPj1zoX9ROCOfye6UYbloSVn4VHIrZD3w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSig_02TuPj1zoX9ROCOfye6UYbloSVn4VHIrZD3w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSig_02TuPj1zoX9ROCOfye6UYbloSVn4VHIrZD3w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Blender Guru",
+        "description": "Blender Guru creates tutorials and videos for the free 3D software: Blender. The host is Andrew Price, who lives in Brisbane Australia."
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOKHwx1VCdgnxwbjyb9Iu1g"
+      }
+    },
+    "statistics": {
+      "viewCount": "146895307",
+      "subscriberCount": "2000000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "286"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Blender Guru",
+        "description": "Blender Guru creates tutorials and videos for the free 3D software: Blender. The host is Andrew Price, who lives in Brisbane Australia.",
+        "keywords": "\"blender tutorials\" \"blender guru\" \"andrew price\" \"blender tutorial\" \"blender 3d\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "TPrnSACiTJ4",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/tjmXFHtdCTFHjoZfHBEQhz0dPKWB2J4-dMzCyjZwdw5Be5-ABShdtFsnlu1nsYaDc8wl0SVn2i8"
+      }
+    }
+  }
+}

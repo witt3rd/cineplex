@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCTSRIY3GLFYIpkR2QwyeklA",
+  "retrieved_on": "2021-12-05 03:47:35.580927",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "r7gwaSlF_c-ma4q-Chi8vv4r4aQ",
+    "id": "UCTSRIY3GLFYIpkR2QwyeklA",
+    "snippet": {
+      "title": "Drew Gooden",
+      "description": "i am the only person who makes videos",
+      "customUrl": "drewgooden1",
+      "publishedAt": "2015-08-21T09:18:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMUB5NvY8Dk2B8ii-Lji4XV9VGw-QhpfSg5YB2zQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMUB5NvY8Dk2B8ii-Lji4XV9VGw-QhpfSg5YB2zQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMUB5NvY8Dk2B8ii-Lji4XV9VGw-QhpfSg5YB2zQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Drew Gooden",
+        "description": "i am the only person who makes videos"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTSRIY3GLFYIpkR2QwyeklA"
+      }
+    },
+    "statistics": {
+      "viewCount": "514785724",
+      "subscriberCount": "3360000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "125"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Drew Gooden",
+        "description": "i am the only person who makes videos",
+        "keywords": "comedy",
+        "unsubscribedTrailer": "UTHKgVPZ-is",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/784Lb2IKA10TKKRymDm6CWjNEoF0CgUzUg4GYrATtxZnaLwlB05zAlMCq9Q4kvfP9QKf6ADbCA"
+      }
+    }
+  }
+}

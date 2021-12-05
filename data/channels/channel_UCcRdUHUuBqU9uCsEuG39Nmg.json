@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCcRdUHUuBqU9uCsEuG39Nmg",
+  "retrieved_on": "2021-12-05 03:47:29.489867",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QgytrsLNaPiuoNMBVYRc6c_9t5Q",
+    "id": "UCcRdUHUuBqU9uCsEuG39Nmg",
+    "snippet": {
+      "title": "Will Schoder",
+      "description": "I make videos on things I care about. Re-enchantment, metamodernism, and meaning mostly. \n\n(Conformity [Alienation] -/- Congruence [Wisdom] -/- Chaos [Anomie])\n                                                                   ^\n\n\"I have striven not to laugh at human actions, not to weep at them, nor to hate them, but to understand them.\" -Baruch Spinoza",
+      "customUrl": "willschoder",
+      "publishedAt": "2014-07-10T19:51:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCs2Qi7vEIOruVshPtZgD5-Br1ehZdXC4_P_vw2U0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCs2Qi7vEIOruVshPtZgD5-Br1ehZdXC4_P_vw2U0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCs2Qi7vEIOruVshPtZgD5-Br1ehZdXC4_P_vw2U0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Will Schoder",
+        "description": "I make videos on things I care about. Re-enchantment, metamodernism, and meaning mostly. \n\n(Conformity [Alienation] -/- Congruence [Wisdom] -/- Chaos [Anomie])\n                                                                   ^\n\n\"I have striven not to laugh at human actions, not to weep at them, nor to hate them, but to understand them.\" -Baruch Spinoza"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUcRdUHUuBqU9uCsEuG39Nmg"
+      }
+    },
+    "statistics": {
+      "viewCount": "13999718",
+      "subscriberCount": "212000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "21"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Will Schoder",
+        "description": "I make videos on things I care about. Re-enchantment, metamodernism, and meaning mostly. \n\n(Conformity [Alienation] -/- Congruence [Wisdom] -/- Chaos [Anomie])\n                                                                   ^\n\n\"I have striven not to laugh at human actions, not to weep at them, nor to hate them, but to understand them.\" -Baruch Spinoza",
+        "keywords": "will schoder \"video essay\" education",
+        "unsubscribedTrailer": "2doZROwdte4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/323UWI1X5sf6bmhh1Y_9bfzUSJ812phhqkQhm-zfKmvCElCa9R3GBMc7uH58TMtmJlGGs-Kkqw"
+      }
+    }
+  }
+}

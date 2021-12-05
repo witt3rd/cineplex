@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCMrMVIBtqFW6O0-MWq26gqw",
+  "retrieved_on": "2021-12-05 03:47:36.095924",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "wfITD9XSbi6fQ9S2zET-ZIP4Q58",
+    "id": "UCMrMVIBtqFW6O0-MWq26gqw",
+    "snippet": {
+      "title": "my mechanics",
+      "description": "Hello and welcome to my channel.\n\nI'm uploading videos all about mechanical stuff, mostly restorations and also new creations. I love to work with metal and I pay a lot of attention to the details of my projects. I've found another passion in filming and editing, to create well ordered videos with ASMR style.\n\nIf you have something to restore for me you can send me pictures of the item on Instagram or e-mail. I only restore your items if you don't want them back. I don't do comissions.\n\nmy_mechanics@hotmail.com\n\nCheck out my second channel \"my mechanics insights\"\n\nSubscribe for more and stay tuned.\n\nThanks for all your support, I really do appreciate it\n",
+      "customUrl": "mymechanics",
+      "publishedAt": "2018-08-10T15:30:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tiRGr71H-VLfTHMiXLqODfbWKGxoUtsyvgfhNk_oBbKglpf2H-JM1upWdYLSO2p4TEDN7uNDZek=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tiRGr71H-VLfTHMiXLqODfbWKGxoUtsyvgfhNk_oBbKglpf2H-JM1upWdYLSO2p4TEDN7uNDZek=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tiRGr71H-VLfTHMiXLqODfbWKGxoUtsyvgfhNk_oBbKglpf2H-JM1upWdYLSO2p4TEDN7uNDZek=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "my mechanics",
+        "description": "Hello and welcome to my channel.\n\nI'm uploading videos all about mechanical stuff, mostly restorations and also new creations. I love to work with metal and I pay a lot of attention to the details of my projects. I've found another passion in filming and editing, to create well ordered videos with ASMR style.\n\nIf you have something to restore for me you can send me pictures of the item on Instagram or e-mail. I only restore your items if you don't want them back. I don't do comissions.\n\nmy_mechanics@hotmail.com\n\nCheck out my second channel \"my mechanics insights\"\n\nSubscribe for more and stay tuned.\n\nThanks for all your support, I really do appreciate it\n"
+      },
+      "country": "CH"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMrMVIBtqFW6O0-MWq26gqw"
+      }
+    },
+    "statistics": {
+      "viewCount": "381162045",
+      "subscriberCount": "2830000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "39"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "my mechanics",
+        "description": "Hello and welcome to my channel.\n\nI'm uploading videos all about mechanical stuff, mostly restorations and also new creations. I love to work with metal and I pay a lot of attention to the details of my projects. I've found another passion in filming and editing, to create well ordered videos with ASMR style.\n\nIf you have something to restore for me you can send me pictures of the item on Instagram or e-mail. I only restore your items if you don't want them back. I don't do comissions.\n\nmy_mechanics@hotmail.com\n\nCheck out my second channel \"my mechanics insights\"\n\nSubscribe for more and stay tuned.\n\nThanks for all your support, I really do appreciate it\n",
+        "keywords": "restoration \"my mechanics\" woodworking \"bluing steel\" \"polish aluminium\" \"polish steel\" \"metal work\" lathe \"lathe work\" \"mill work\" craftsman \"perfect restoration\" \"best restoration\" \"how to\" diy homeshop \"impossible restoration\" \"old tools\" antique \"antique tools\" old vintage \"vintage tools\" patina techniques \"manual machining\" machining \"awesome restoration\" ASMR \"ASMR for men\" \"best ASMR\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "YnlEZhwRERo",
+        "defaultLanguage": "en",
+        "country": "CH"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/pWlZMPXdvUTyc5GnhIavc06LMotpJWLWF1ViXU9aoNWgtzwsfHBssfIfIA-CH6KqQu3nY5DXtw"
+      }
+    }
+  }
+}

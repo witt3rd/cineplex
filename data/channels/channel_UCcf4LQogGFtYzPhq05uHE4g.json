@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCcf4LQogGFtYzPhq05uHE4g",
+  "retrieved_on": "2021-12-05 03:47:37.250580",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xGXnpZKysUtXqORgbdub8F__Frc",
+    "id": "UCcf4LQogGFtYzPhq05uHE4g",
+    "snippet": {
+      "title": "udiprod",
+      "description": "Original visualizations in 3D animation",
+      "customUrl": "udiprod",
+      "publishedAt": "2006-11-09T11:23:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ160KzBHZMymxvFXCdkLTxE-PUrs9tAHVb-r0_=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ160KzBHZMymxvFXCdkLTxE-PUrs9tAHVb-r0_=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ160KzBHZMymxvFXCdkLTxE-PUrs9tAHVb-r0_=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "udiprod",
+        "description": "Original visualizations in 3D animation"
+      },
+      "country": "IL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUcf4LQogGFtYzPhq05uHE4g"
+      }
+    },
+    "statistics": {
+      "viewCount": "10547072",
+      "subscriberCount": "79400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "23"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "udiprod",
+        "description": "Original visualizations in 3D animation",
+        "keywords": "animation visualization science computers physics",
+        "unsubscribedTrailer": "p7bzE1E5PMY",
+        "country": "IL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/ihzaO8yUBwcLRnsYD2hEaaKuZX1ENPTPQyTyBkrmgsramzFsWSKsQNQZvN4XK9WOVvdPLOO896w"
+      }
+    }
+  }
+}

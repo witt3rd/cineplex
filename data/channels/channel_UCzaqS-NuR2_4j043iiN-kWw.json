@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCzaqS-NuR2_4j043iiN-kWw",
+  "retrieved_on": "2021-12-05 03:47:36.095889",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5Arl-Ihup36ameOGDmQ0IOEvXEE",
+    "id": "UCzaqS-NuR2_4j043iiN-kWw",
+    "snippet": {
+      "title": "Ayria - Topic",
+      "description": "Ayria is a Canadian futurepop/synthpop musical project formed in early 2003 by Toronto's Jennifer Parkin following her departure from the futurepop and EBM band Epsilon Minus.",
+      "publishedAt": "2013-10-03T09:06:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT3ZN00h5QAsKzew7oesDbV6R1Jn2nOKh7y9nnx=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT3ZN00h5QAsKzew7oesDbV6R1Jn2nOKh7y9nnx=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT3ZN00h5QAsKzew7oesDbV6R1Jn2nOKh7y9nnx=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ayria - Topic",
+        "description": "Ayria is a Canadian futurepop/synthpop musical project formed in early 2003 by Toronto's Jennifer Parkin following her departure from the futurepop and EBM band Epsilon Minus."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzaqS-NuR2_4j043iiN-kWw"
+      }
+    },
+    "statistics": {
+      "viewCount": "466673",
+      "subscriberCount": "1780",
+      "hiddenSubscriberCount": false,
+      "videoCount": "197"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ayria - Topic",
+        "description": "Ayria is a Canadian futurepop/synthpop musical project formed in early 2003 by Toronto's Jennifer Parkin following her departure from the futurepop and EBM band Epsilon Minus."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7Zdv6MCV7-BydUbbLx5rjwmpcGw3QhXNx6Tbds_xNMy2WUg1kX9cZtqV9h0LB9qnf5Nv1NFu"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "channel_id": "UC4PooiX37Pld1T8J5SYT-SQ",
+  "retrieved_on": "2021-12-05 03:47:30.163117",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-8-3IVcHVOVHBhYE3cD_uN16wds",
+    "id": "UC4PooiX37Pld1T8J5SYT-SQ",
+    "snippet": {
+      "title": "Good Mythical Morning",
+      "description": "Welcome to Good Mythical Morning with Rhett & Link! Tune in every Monday-Friday to watch us eat truly unbelievable things, explore surprising new products and trends, compete in original games with celebrity guests, implement serious experiments in hilarious ways, and more.\n\nPick up official GMM and Mythical merch at https://mythical.com\nand https://www.amazon.com/mythical\n\nJoin the Mythical Society: https://www.mythicalsociety.com/\n\nOrder our new novel: https://bleakcreek.com\n\nFollow Mythical: \nInstagram: https://instagram.com/mythical\nFacebook: https://facebook.com/mythical\nTwitter: https://twitter.com/mythical\nWebsite: https://mythical.com",
+      "customUrl": "rhettandlink2",
+      "publishedAt": "2008-09-17T14:37:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/wNnxPEptumnTCOTIpsDiAD5ZP-Q0Oci2L8Y360mMM95nAY-xsOkgA_WcWu7pTwBOqwvZuweOFQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/wNnxPEptumnTCOTIpsDiAD5ZP-Q0Oci2L8Y360mMM95nAY-xsOkgA_WcWu7pTwBOqwvZuweOFQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/wNnxPEptumnTCOTIpsDiAD5ZP-Q0Oci2L8Y360mMM95nAY-xsOkgA_WcWu7pTwBOqwvZuweOFQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Good Mythical Morning",
+        "description": "Welcome to Good Mythical Morning with Rhett & Link! Tune in every Monday-Friday to watch us eat truly unbelievable things, explore surprising new products and trends, compete in original games with celebrity guests, implement serious experiments in hilarious ways, and more.\n\nPick up official GMM and Mythical merch at https://mythical.com\nand https://www.amazon.com/mythical\n\nJoin the Mythical Society: https://www.mythicalsociety.com/\n\nOrder our new novel: https://bleakcreek.com\n\nFollow Mythical: \nInstagram: https://instagram.com/mythical\nFacebook: https://facebook.com/mythical\nTwitter: https://twitter.com/mythical\nWebsite: https://mythical.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4PooiX37Pld1T8J5SYT-SQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "7569270893",
+      "subscriberCount": "17300000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2796"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Good Mythical Morning",
+        "description": "Welcome to Good Mythical Morning with Rhett & Link! Tune in every Monday-Friday to watch us eat truly unbelievable things, explore surprising new products and trends, compete in original games with celebrity guests, implement serious experiments in hilarious ways, and more.\n\nPick up official GMM and Mythical merch at https://mythical.com\nand https://www.amazon.com/mythical\n\nJoin the Mythical Society: https://www.mythicalsociety.com/\n\nOrder our new novel: https://bleakcreek.com\n\nFollow Mythical: \nInstagram: https://instagram.com/mythical\nFacebook: https://facebook.com/mythical\nTwitter: https://twitter.com/mythical\nWebsite: https://mythical.com",
+        "keywords": "gmm \"good mythical morning\" rhettandlink \"rhett and link\" mythical rhett mclaughlin link neal \"season 17\" s17 \"will it\" \"taste test\"",
+        "trackingAnalyticsAccountId": "UA-87364751-4",
+        "moderateComments": true,
+        "unsubscribedTrailer": "_w7Ak1s0VJM",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7ywK7I8iXNNSWqbLK0u2LYOfn0_39QVElBD0bvqBnobcHTGgvBN3VGKafVp6oHgvO7eXeovA"
+      }
+    }
+  }
+}

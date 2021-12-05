@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCl5-BV9aRaeDVohpE4sqJiQ",
+  "retrieved_on": "2021-12-05 03:47:40.531485",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "AiNQ4fjXrcmwv8qDLdk1VSWbdJk",
+    "id": "UCl5-BV9aRaeDVohpE4sqJiQ",
+    "snippet": {
+      "title": "CodeBeauty",
+      "description": "Hi everyone! My name is Saldina Nurak. I'm a 25-year-old software engineer and have been in the software industry since 2013. I started this channel during the COVID-19 pandemic as a way of giving my contribution, sharing the knowledge, making programming tutorials, answering questions related to this industry, and making fun developer life videos.\n\nThese videos are intended to help you to get a job, learn for your exams, learn to program for fun, and answer your questions about software engineering. \n\nWrite in the comments what kind of videos and tutorials would you like to see on my channel in the future, and give a thumbs up to the existing ones that you like.\n\nEnjoy!\n\n\u2709\ufe0f If you'd like to sponsor a video and for other business inquiries contact me at:\ntruecodebeauty@gmail.com",
+      "customUrl": "codebeauty",
+      "publishedAt": "2020-02-25T23:00:54.33829Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSSf_R9_6cWi7UTpIRkd9kZ3NHL09s5vmj7fVNa=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSSf_R9_6cWi7UTpIRkd9kZ3NHL09s5vmj7fVNa=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSSf_R9_6cWi7UTpIRkd9kZ3NHL09s5vmj7fVNa=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CodeBeauty",
+        "description": "Hi everyone! My name is Saldina Nurak. I'm a 25-year-old software engineer and have been in the software industry since 2013. I started this channel during the COVID-19 pandemic as a way of giving my contribution, sharing the knowledge, making programming tutorials, answering questions related to this industry, and making fun developer life videos.\n\nThese videos are intended to help you to get a job, learn for your exams, learn to program for fun, and answer your questions about software engineering. \n\nWrite in the comments what kind of videos and tutorials would you like to see on my channel in the future, and give a thumbs up to the existing ones that you like.\n\nEnjoy!\n\n\u2709\ufe0f If you'd like to sponsor a video and for other business inquiries contact me at:\ntruecodebeauty@gmail.com"
+      },
+      "country": "BA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUl5-BV9aRaeDVohpE4sqJiQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "3900690",
+      "subscriberCount": "128000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "83"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CodeBeauty",
+        "description": "Hi everyone! My name is Saldina Nurak. I'm a 25-year-old software engineer and have been in the software industry since 2013. I started this channel during the COVID-19 pandemic as a way of giving my contribution, sharing the knowledge, making programming tutorials, answering questions related to this industry, and making fun developer life videos.\n\nThese videos are intended to help you to get a job, learn for your exams, learn to program for fun, and answer your questions about software engineering. \n\nWrite in the comments what kind of videos and tutorials would you like to see on my channel in the future, and give a thumbs up to the existing ones that you like.\n\nEnjoy!\n\n\u2709\ufe0f If you'd like to sponsor a video and for other business inquiries contact me at:\ntruecodebeauty@gmail.com",
+        "keywords": "codebeauty \"c++ tutorials\" \"tutorials for beginners\" \"c++ for beginners\" \"c++ programming\" \"html and css\" \"html for beginners\" \"code beauty\" \"programming tutorial\" \"css for beginners\" \"visual studio\" \"visual studio 2019\" \"c++ full course\" programming c++ \"code beauty\"",
+        "unsubscribedTrailer": "aEgG4pidcKU",
+        "country": "BA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/gGcbArhkFEY5uE9MXYznZmKmwaIkkX5Q-eG4laj-GJNQSwtU58VOCWBtuNafUQl7bBrT4KJg"
+      }
+    }
+  }
+}

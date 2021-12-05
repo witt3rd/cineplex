@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCYNrIANeR3gDKyhhhX-42WQ",
+  "retrieved_on": "2021-12-05 03:47:38.208104",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "x7dYI9u7cN7bej0NyvuqWcn80y4",
+    "id": "UCYNrIANeR3gDKyhhhX-42WQ",
+    "snippet": {
+      "title": "In Misery Seek Root Beer",
+      "description": "king of dead memes",
+      "customUrl": "inmiseryseekrootbeer",
+      "publishedAt": "2014-03-30T19:57:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSdkSpDJiasWoZUGo9GczfbUMKYifb9dfU4hrPOfg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSdkSpDJiasWoZUGo9GczfbUMKYifb9dfU4hrPOfg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSdkSpDJiasWoZUGo9GczfbUMKYifb9dfU4hrPOfg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "In Misery Seek Root Beer",
+        "description": "king of dead memes"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYNrIANeR3gDKyhhhX-42WQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "49570067",
+      "subscriberCount": "57700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "48"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "In Misery Seek Root Beer",
+        "description": "king of dead memes",
+        "moderateComments": true,
+        "unsubscribedTrailer": "jyaDFPXBCS0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/fqmELTdRwTLB_g2ZvUI9QM9lcvaViOULfmZWby3G8Ss71GiraAjUYvliAeD-o4KXsvmnvzo6KQ"
+      }
+    }
+  }
+}

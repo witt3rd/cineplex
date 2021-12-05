@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCUnPu9bBZGPjiPUN6IoA2LQ",
+  "retrieved_on": "2021-12-05 03:47:36.581116",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ViJEUhlxXYO1sclI8_sNEn1G85c",
+    "id": "UCUnPu9bBZGPjiPUN6IoA2LQ",
+    "snippet": {
+      "title": "Chris Majestic",
+      "description": "Majestechs is a YouTube channel dedicated to High Quality Tech Reviews and Tutorials.\n\nVisit our website: http://www.majestechs.com\n\nEmail us: info@majestechs.com\n\nProduct samples can be mailed to:\n\nChris Majestic\n9613C Harford Rd #164\nBaltimore, MD 21234\nU.S.A.",
+      "customUrl": "majestechs",
+      "publishedAt": "2011-10-27T02:33:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMBZHKy_UmwuZk3EKS6ORgA6A7h_xXHZ-3vbdQego=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMBZHKy_UmwuZk3EKS6ORgA6A7h_xXHZ-3vbdQego=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMBZHKy_UmwuZk3EKS6ORgA6A7h_xXHZ-3vbdQego=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Chris Majestic",
+        "description": "Majestechs is a YouTube channel dedicated to High Quality Tech Reviews and Tutorials.\n\nVisit our website: http://www.majestechs.com\n\nEmail us: info@majestechs.com\n\nProduct samples can be mailed to:\n\nChris Majestic\n9613C Harford Rd #164\nBaltimore, MD 21234\nU.S.A."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUnPu9bBZGPjiPUN6IoA2LQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "28393084",
+      "subscriberCount": "186000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "185"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chris Majestic",
+        "description": "Majestechs is a YouTube channel dedicated to High Quality Tech Reviews and Tutorials.\n\nVisit our website: http://www.majestechs.com\n\nEmail us: info@majestechs.com\n\nProduct samples can be mailed to:\n\nChris Majestic\n9613C Harford Rd #164\nBaltimore, MD 21234\nU.S.A.",
+        "keywords": "\"chris majestic\" majestechs Majestics tech technology reviews tutorial electronics gadget review home automation tips guide theater \"home theater\" projector \"home automation\"",
+        "trackingAnalyticsAccountId": "UA-74616150-1",
+        "unsubscribedTrailer": "jTpuIMWVqpY",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/cShwdflD-L-x3zObrKTRzdMfgrC05ACSsSFwOhEmPXR9knJ6x6-OzxYwzvCnGhCevLYbTkGcJw"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCrk8Y2fsR5i_5c1iTR9tZpg",
+  "retrieved_on": "2021-12-05 03:47:28.057512",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "kjV30C-sKsaonDZL0cm_-b_iE7E",
+    "id": "UCrk8Y2fsR5i_5c1iTR9tZpg",
+    "snippet": {
+      "title": "Uberboyo",
+      "description": "Irish Storyteller",
+      "publishedAt": "2015-02-25T13:22:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTy0ObuuY5adZC0BR5RMMqKuyrgunN5gFtaT3XmhA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTy0ObuuY5adZC0BR5RMMqKuyrgunN5gFtaT3XmhA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTy0ObuuY5adZC0BR5RMMqKuyrgunN5gFtaT3XmhA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Uberboyo",
+        "description": "Irish Storyteller"
+      },
+      "country": "IE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUrk8Y2fsR5i_5c1iTR9tZpg"
+      }
+    },
+    "statistics": {
+      "viewCount": "3413979",
+      "subscriberCount": "47300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "131"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Uberboyo",
+        "description": "Irish Storyteller",
+        "keywords": "\"carl jung\" Nietzsche Storytelling",
+        "unsubscribedTrailer": "Fn0itgWsoME",
+        "country": "IE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/PckHbDjycchHDD365tVWeps3nfcSB24h1tkxpGa0FgxRaF1X6wUkxAchCX5Bfe17XVdG2DCdO4c"
+      }
+    }
+  }
+}

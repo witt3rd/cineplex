@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCU5ThXAtxgt2AXNru7r7veg",
+  "retrieved_on": "2021-12-05 03:47:32.314659",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "KP7kqsarujDpBv8SWINlCK0FMdY",
+    "id": "UCU5ThXAtxgt2AXNru7r7veg",
+    "snippet": {
+      "title": "The SPA Studios",
+      "description": "The SPA Studios\n\nBringing 2D animation forward through the creation of original stories and innovative techniques. #Klaus now streaming on #Netflix\nwww.thespastudios.com\n\nSocial Media:\nInstagram: instagram.com/thespastudios\nLike us: www.facebook.com/thespastudios\nWatch more: vimeo.com/thespastudios\nTweet us: www.twitter.com/TheSPAStudios\nFollow us: www.linkedin.com/company/the-spa-studios",
+      "publishedAt": "2015-01-27T12:52:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRqKDTUizvTw-yPw-sBhCHmbWrKSe7Ks1tcUZvfYQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRqKDTUizvTw-yPw-sBhCHmbWrKSe7Ks1tcUZvfYQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRqKDTUizvTw-yPw-sBhCHmbWrKSe7Ks1tcUZvfYQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The SPA Studios",
+        "description": "The SPA Studios\n\nBringing 2D animation forward through the creation of original stories and innovative techniques. #Klaus now streaming on #Netflix\nwww.thespastudios.com\n\nSocial Media:\nInstagram: instagram.com/thespastudios\nLike us: www.facebook.com/thespastudios\nWatch more: vimeo.com/thespastudios\nTweet us: www.twitter.com/TheSPAStudios\nFollow us: www.linkedin.com/company/the-spa-studios"
+      },
+      "country": "ES"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUU5ThXAtxgt2AXNru7r7veg"
+      }
+    },
+    "statistics": {
+      "viewCount": "4108653",
+      "subscriberCount": "49000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "159"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The SPA Studios",
+        "description": "The SPA Studios\n\nBringing 2D animation forward through the creation of original stories and innovative techniques. #Klaus now streaming on #Netflix\nwww.thespastudios.com\n\nSocial Media:\nInstagram: instagram.com/thespastudios\nLike us: www.facebook.com/thespastudios\nWatch more: vimeo.com/thespastudios\nTweet us: www.twitter.com/TheSPAStudios\nFollow us: www.linkedin.com/company/the-spa-studios",
+        "keywords": "art artist \"film studio\" animation \"animation studio\" \"sergio pablos\" animator drawing film films movie movies \"sergio pablos animation\" \"spa studios\" \"the spa studios\" \"traditional animation\" \"2d animation\" \"art director\" talent process exclusive artwork animated cgi concept \"behind the scences\" cinematography \"making of\" direction \"family friendly\" filmmaking \"learn to animate\" \"making films\" \"animation drawing\" \"film process\" \"animation process\"",
+        "unsubscribedTrailer": "ZWlkCT9bHkU",
+        "country": "ES"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/4sME_xqHyCe7EGO_nRqqraRHJkalQRcGwTTlF1ItxoMTEttJoKuEhySLZJ1IPB2LsSVmwdbm"
+      }
+    }
+  }
+}

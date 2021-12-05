@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCDUBDASXQ-rVXsjqblQwG7A",
+  "retrieved_on": "2021-12-05 03:47:28.057537",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "UIZagtC1fCacjEAuttanuMth2dw",
+    "id": "UCDUBDASXQ-rVXsjqblQwG7A",
+    "snippet": {
+      "title": "DTRHRadioArchives",
+      "description": "Down the Rabbit Hole with Popeye is a journey deep into the matrix, complete with a detailed road map on not only how to survive, but how to escape as well. You'll get an educated, informed and insightful look at a world that most don't even know exists. You'll hear top notch guests that know the story, with the facts to back it up. Find out why so many are tuning in to Down The Rabbit Hole.",
+      "customUrl": "dtrhradioarchives",
+      "publishedAt": "2012-02-15T05:28:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQSlLA-sgbnK0rzh7BJvO0Fr7ar0wgRlrgxJf0kkQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQSlLA-sgbnK0rzh7BJvO0Fr7ar0wgRlrgxJf0kkQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQSlLA-sgbnK0rzh7BJvO0Fr7ar0wgRlrgxJf0kkQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DTRHRadioArchives",
+        "description": "Down the Rabbit Hole with Popeye is a journey deep into the matrix, complete with a detailed road map on not only how to survive, but how to escape as well. You'll get an educated, informed and insightful look at a world that most don't even know exists. You'll hear top notch guests that know the story, with the facts to back it up. Find out why so many are tuning in to Down The Rabbit Hole."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDUBDASXQ-rVXsjqblQwG7A"
+      }
+    },
+    "statistics": {
+      "viewCount": "1236696",
+      "subscriberCount": "12100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "692"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "DTRHRadioArchives",
+        "description": "Down the Rabbit Hole with Popeye is a journey deep into the matrix, complete with a detailed road map on not only how to survive, but how to escape as well. You'll get an educated, informed and insightful look at a world that most don't even know exists. You'll hear top notch guests that know the story, with the facts to back it up. Find out why so many are tuning in to Down The Rabbit Hole.",
+        "keywords": "DTRH popeye \"down the rabbit hole\" radio conspiracy health news education \"documentary films\"",
+        "unsubscribedTrailer": "p7zJxzxIIPA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/y9TVKXzLCO7GuZdUwe-WTIMdhT1ONZBtTapPQyNbrcWv6jPcpcUumzTHffmkA_ehna9LQLx2pA"
+      }
+    }
+  }
+}

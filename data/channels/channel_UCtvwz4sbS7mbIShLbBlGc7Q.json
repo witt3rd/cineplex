@@ -1,0 +1,54 @@
+{
+  "channel_id": "UCtvwz4sbS7mbIShLbBlGc7Q",
+  "retrieved_on": "2021-12-05 03:47:37.030764",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jQjs6TSk7OxwPjRcTNvib2qRDxQ",
+    "id": "UCtvwz4sbS7mbIShLbBlGc7Q",
+    "snippet": {
+      "title": "JacobCollierVEVO",
+      "description": "",
+      "publishedAt": "2018-11-07T19:37:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/58ctaOr0--N80gfUCBJCrq_-jdr7BjTrL44rlcnjIxEwbAdDcP9Q4yIZhU5PQJJd-sytQS3uRQ=s88-c-k-c0x00ffffff-no-nd-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/58ctaOr0--N80gfUCBJCrq_-jdr7BjTrL44rlcnjIxEwbAdDcP9Q4yIZhU5PQJJd-sytQS3uRQ=s240-c-k-c0x00ffffff-no-nd-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/58ctaOr0--N80gfUCBJCrq_-jdr7BjTrL44rlcnjIxEwbAdDcP9Q4yIZhU5PQJJd-sytQS3uRQ=s800-c-k-c0x00ffffff-no-nd-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "JacobCollierVEVO",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtvwz4sbS7mbIShLbBlGc7Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "17892252",
+      "subscriberCount": "842",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "JacobCollierVEVO",
+        "defaultLanguage": "en"
+      }
+    }
+  }
+}

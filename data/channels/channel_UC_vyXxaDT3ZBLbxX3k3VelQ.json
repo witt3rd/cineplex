@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC_vyXxaDT3ZBLbxX3k3VelQ",
+  "retrieved_on": "2021-12-05 03:47:35.055083",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "3YBPfiaYSdAKdw7LNUBfu_OowLs",
+    "id": "UC_vyXxaDT3ZBLbxX3k3VelQ",
+    "snippet": {
+      "title": "Rinoa's Auspicious Travails",
+      "description": "My name is Rinoa, yes my actual legal name. I have many interests, which are divided between my 5 youtube channels. those 5 channels are listed bellow.\n\ni'm not very interesting, and make many mistakes.\n\nmailing address.\nRinoa Leonhart\nP.O. Box 250\nTaylor Springs, IL, 62089",
+      "publishedAt": "2009-10-29T18:08:43Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RLzvco_UpPmaQ1FKGHQdQttnp-OQs8bWNdKxhJSGYqh3nUpum6v0ucjjkEwNaFs5mTmfvkqbGoE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RLzvco_UpPmaQ1FKGHQdQttnp-OQs8bWNdKxhJSGYqh3nUpum6v0ucjjkEwNaFs5mTmfvkqbGoE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RLzvco_UpPmaQ1FKGHQdQttnp-OQs8bWNdKxhJSGYqh3nUpum6v0ucjjkEwNaFs5mTmfvkqbGoE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rinoa's Auspicious Travails",
+        "description": "My name is Rinoa, yes my actual legal name. I have many interests, which are divided between my 5 youtube channels. those 5 channels are listed bellow.\n\ni'm not very interesting, and make many mistakes.\n\nmailing address.\nRinoa Leonhart\nP.O. Box 250\nTaylor Springs, IL, 62089"
+      },
+      "country": "AQ"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU_vyXxaDT3ZBLbxX3k3VelQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "36948550",
+      "subscriberCount": "112000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1338"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rinoa's Auspicious Travails",
+        "description": "My name is Rinoa, yes my actual legal name. I have many interests, which are divided between my 5 youtube channels. those 5 channels are listed bellow.\n\ni'm not very interesting, and make many mistakes.\n\nmailing address.\nRinoa Leonhart\nP.O. Box 250\nTaylor Springs, IL, 62089",
+        "keywords": "diy build lithium antique E-bike restore fix repair",
+        "unsubscribedTrailer": "almZj6ZbtH8",
+        "country": "AQ"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/XVfCUU6Y6CM7qwe1kRGL5JVLKErHZPVzpM9M0RN1i1V_iwkjsvjjQQWzN3wpvtuWJND6c8c9Lw"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "channel_id": "UC_5oUVKKMmAy0KVK15KM61Q",
+  "retrieved_on": "2021-12-05 03:47:35.055111",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ju8z9D95g1n07ih_Gra4w5W3vwo",
+    "id": "UC_5oUVKKMmAy0KVK15KM61Q",
+    "snippet": {
+      "title": "Josip \u0110olo",
+      "description": "",
+      "publishedAt": "2009-11-12T22:18:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyk3uIlPWI5NREskpWF_ahct3DzQubTTk_5w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyk3uIlPWI5NREskpWF_ahct3DzQubTTk_5w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyk3uIlPWI5NREskpWF_ahct3DzQubTTk_5w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Josip \u0110olo",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU_5oUVKKMmAy0KVK15KM61Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "6441535",
+      "subscriberCount": "6830",
+      "hiddenSubscriberCount": false,
+      "videoCount": "64"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Josip \u0110olo"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCqZQlzSHbVJrwrn5XvzrzcA",
+  "retrieved_on": "2021-12-05 03:47:37.514190",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "38EurT7I6gFJJL6VV0Ir8-v2Ums",
+    "id": "UCqZQlzSHbVJrwrn5XvzrzcA",
+    "snippet": {
+      "title": "NBC Sports",
+      "description": "NBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NHL, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more. Subscribe to our channel for the latest sporting news and highlights!\n\nVisit NBCSports.com: https://www.nbcsports.com\nSubscribe to our Motorsports on NBC YouTube channel: https://www.youtube.com/motorsportsonnbc\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/",
+      "customUrl": "nbcsports",
+      "publishedAt": "2012-02-07T14:52:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRzF9VGD3TH7g9ge0uGS2pOj1oGLB6qvyHEEI1eM4M=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRzF9VGD3TH7g9ge0uGS2pOj1oGLB6qvyHEEI1eM4M=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRzF9VGD3TH7g9ge0uGS2pOj1oGLB6qvyHEEI1eM4M=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NBC Sports",
+        "description": "NBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NHL, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more. Subscribe to our channel for the latest sporting news and highlights!\n\nVisit NBCSports.com: https://www.nbcsports.com\nSubscribe to our Motorsports on NBC YouTube channel: https://www.youtube.com/motorsportsonnbc\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUqZQlzSHbVJrwrn5XvzrzcA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1774331148",
+      "subscriberCount": "2110000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "23664"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NBC Sports",
+        "description": "NBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NHL, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more. Subscribe to our channel for the latest sporting news and highlights!\n\nVisit NBCSports.com: https://www.nbcsports.com\nSubscribe to our Motorsports on NBC YouTube channel: https://www.youtube.com/motorsportsonnbc\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/",
+        "keywords": "\"Football Night in America\" \"Stanley Cup Playoffs\" \"Triple Crown\" Sunday Night Football SNF Olympics NFL NHL \"English Premier League\" \"PGA TOUR\" \"PGA of America\" USGA IndyCar \"French Open\" \"Tour de France\" \"Kentucky Derby\"",
+        "trackingAnalyticsAccountId": "UA-77904110-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "S_6DtiXU8F0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/2pig-sN68KXMTNx6cTzLbrUIAUrHJkqQCE3xKQlmaZkZfh3NpV1SoBKMCsCrMQbB0TyplUeYww"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCHM37DnT_QGJT5Zyl4EmqcA",
+  "retrieved_on": "2021-12-05 03:47:33.604581",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8YjEAYnb9zmXBaCXLWuwoacl-g4",
+    "id": "UCHM37DnT_QGJT5Zyl4EmqcA",
+    "snippet": {
+      "title": "Dilmer Valecillos",
+      "description": "Hi there,\n\nMy name is \"Dilmer\" and I'm the founder of Dilmer Games. I've been creating indie games for the past 5 years and gathered critical information about what it takes to ship a game and also be successful while doing it. The information I'm sharing involves what it takes to ship an indie game from ideation through shipping.\n\nI'm also super passionate about game development and I'm here to share that passion and motivate everyone by providing all the tools you need to get you through the crazy ups and downs of the indie game journey. Let me be honest, it is not all pretty, but you need to be aware of what difficulties I experienced on my own with an indie startup and failures that to me are one of the reason I've done so well. I'm also very very excited to share what I've learned and improve over the years of creating indie games.\n\nThank you for visiting my channel and I look forward to hearing from you through comments, email, or twitter :)\n\nThanks again and welcome !\n\nDilmer",
+      "customUrl": "dilmerv",
+      "publishedAt": "2012-12-05T17:48:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/WO6tZAm0ChIHpx0lJBt81c7ByUTdrftZXkDHxNo2GrCnv3o8PaCnXXKU6oj3RPRMgWucp5BbV9E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/WO6tZAm0ChIHpx0lJBt81c7ByUTdrftZXkDHxNo2GrCnv3o8PaCnXXKU6oj3RPRMgWucp5BbV9E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/WO6tZAm0ChIHpx0lJBt81c7ByUTdrftZXkDHxNo2GrCnv3o8PaCnXXKU6oj3RPRMgWucp5BbV9E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dilmer Valecillos",
+        "description": "Hi there,\n\nMy name is \"Dilmer\" and I'm the founder of Dilmer Games. I've been creating indie games for the past 5 years and gathered critical information about what it takes to ship a game and also be successful while doing it. The information I'm sharing involves what it takes to ship an indie game from ideation through shipping.\n\nI'm also super passionate about game development and I'm here to share that passion and motivate everyone by providing all the tools you need to get you through the crazy ups and downs of the indie game journey. Let me be honest, it is not all pretty, but you need to be aware of what difficulties I experienced on my own with an indie startup and failures that to me are one of the reason I've done so well. I'm also very very excited to share what I've learned and improve over the years of creating indie games.\n\nThank you for visiting my channel and I look forward to hearing from you through comments, email, or twitter :)\n\nThanks again and welcome !\n\nDilmer"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHM37DnT_QGJT5Zyl4EmqcA"
+      }
+    },
+    "statistics": {
+      "viewCount": "3061347",
+      "subscriberCount": "53800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "751"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dilmer Valecillos",
+        "description": "Hi there,\n\nMy name is \"Dilmer\" and I'm the founder of Dilmer Games. I've been creating indie games for the past 5 years and gathered critical information about what it takes to ship a game and also be successful while doing it. The information I'm sharing involves what it takes to ship an indie game from ideation through shipping.\n\nI'm also super passionate about game development and I'm here to share that passion and motivate everyone by providing all the tools you need to get you through the crazy ups and downs of the indie game journey. Let me be honest, it is not all pretty, but you need to be aware of what difficulties I experienced on my own with an indie startup and failures that to me are one of the reason I've done so well. I'm also very very excited to share what I've learned and improve over the years of creating indie games.\n\nThank you for visiting my channel and I look forward to hearing from you through comments, email, or twitter :)\n\nThanks again and welcome !\n\nDilmer",
+        "keywords": "unity3d gamedev \"game development\" \"augmented reality\" \"mixed reality\" \"virtual reality\" \"extended reality\" AR VR MR XR programmer",
+        "trackingAnalyticsAccountId": "UA-39351056-14",
+        "moderateComments": true,
+        "unsubscribedTrailer": "SJANudr3Wu0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/qAXmWLTE7jB1Va6J0XmDiuEcIUVuYaKezvoObYwFiwRMfoviQLIZA2QSCib8gMk5g2DAKk_Z6w"
+      }
+    }
+  }
+}

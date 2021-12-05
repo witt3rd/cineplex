@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCOuWeOkMrq84u5LY6apWQ8Q",
+  "retrieved_on": "2021-12-05 03:47:29.852582",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "yl2O4H3qTEATeQue_0U-F0I9-is",
+    "id": "UCOuWeOkMrq84u5LY6apWQ8Q",
+    "snippet": {
+      "title": "TREY the Explainer",
+      "description": "Explain Everything...and more!\nThis channel's goal is to help educate the average person on science topics. I will mostly examine biology, zoology, anthropology paleontology, and cryptozoology subjects.\nI have a super wide amount of interests and cover topics ranging from animals, cryptids, prehistoric life, conservation, anthropology, culture, history, and even ancient mythology and religion... and I'm always adding new stuff I find intriguing/interesting.\n\nIf I ever give misinformation or outdated information or fail to cite my sources or credit images/art/etc., please correct me. \n\nP.S. protect the environment and save the sharks! \n\nOld Logo made by C.M. K\u00f6semen\nCurrent Logo by Arturo Garc\u00eda",
+      "customUrl": "treytheexplainer",
+      "publishedAt": "2013-03-21T20:49:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRAMLZ-cDd9Fl4ipvKCNLGDnKcz9Gbkhl4eOxX6kA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRAMLZ-cDd9Fl4ipvKCNLGDnKcz9Gbkhl4eOxX6kA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRAMLZ-cDd9Fl4ipvKCNLGDnKcz9Gbkhl4eOxX6kA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TREY the Explainer",
+        "description": "Explain Everything...and more!\nThis channel's goal is to help educate the average person on science topics. I will mostly examine biology, zoology, anthropology paleontology, and cryptozoology subjects.\nI have a super wide amount of interests and cover topics ranging from animals, cryptids, prehistoric life, conservation, anthropology, culture, history, and even ancient mythology and religion... and I'm always adding new stuff I find intriguing/interesting.\n\nIf I ever give misinformation or outdated information or fail to cite my sources or credit images/art/etc., please correct me. \n\nP.S. protect the environment and save the sharks! \n\nOld Logo made by C.M. K\u00f6semen\nCurrent Logo by Arturo Garc\u00eda"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOuWeOkMrq84u5LY6apWQ8Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "88080127",
+      "subscriberCount": "755000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "112"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TREY the Explainer",
+        "description": "Explain Everything...and more!\nThis channel's goal is to help educate the average person on science topics. I will mostly examine biology, zoology, anthropology paleontology, and cryptozoology subjects.\nI have a super wide amount of interests and cover topics ranging from animals, cryptids, prehistoric life, conservation, anthropology, culture, history, and even ancient mythology and religion... and I'm always adding new stuff I find intriguing/interesting.\n\nIf I ever give misinformation or outdated information or fail to cite my sources or credit images/art/etc., please correct me. \n\nP.S. protect the environment and save the sharks! \n\nOld Logo made by C.M. K\u00f6semen\nCurrent Logo by Arturo Garc\u00eda",
+        "keywords": "Evolution Paleontology Science Zoology Dinosaurs Biology Cryptids Atheism",
+        "unsubscribedTrailer": "MMLKwomDKDI"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/1f61E80fElRsM6r8fIVEWSHpASBOx-sjGdyzcEw9u4h3g3IG_jq77S4aXbTRzHjOXP3z76uD"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCdlNVsQys37ETeTDqQqiHFQ",
+  "retrieved_on": "2021-12-05 03:47:29.489744",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "uaG5n_Paj-Czk7Bgl4BmfloM_KQ",
+    "id": "UCdlNVsQys37ETeTDqQqiHFQ",
+    "snippet": {
+      "title": "Markom3D",
+      "description": "This channel is all about Blender and Unreal Engine 4. I am releasing three videos a week \n\nThere will also be Live streams that I will be participating, so make sure you subscribe to the channel so that you get the notification. \n\nIf you want to support me you can visit my Patreon: https://www.patreon.com/Markom3D\nIf you would like to just send me a donation for support - https://paypal.me/markom3d\n\nIf you want to check out and download some of my models - https://gumroad.com/markom3d\n\nFacebook - https://www.facebook.com/markom3d\nInstagram - https://www.instagram.com/markom3d/\nTwitter - https://twitter.com/markomruki",
+      "customUrl": "markom3d",
+      "publishedAt": "2016-08-08T11:33:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSMXNICohIYGh16stawSf9xxKfWI2L4f-lbQV-tmA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSMXNICohIYGh16stawSf9xxKfWI2L4f-lbQV-tmA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSMXNICohIYGh16stawSf9xxKfWI2L4f-lbQV-tmA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Markom3D",
+        "description": "This channel is all about Blender and Unreal Engine 4. I am releasing three videos a week \n\nThere will also be Live streams that I will be participating, so make sure you subscribe to the channel so that you get the notification. \n\nIf you want to support me you can visit my Patreon: https://www.patreon.com/Markom3D\nIf you would like to just send me a donation for support - https://paypal.me/markom3d\n\nIf you want to check out and download some of my models - https://gumroad.com/markom3d\n\nFacebook - https://www.facebook.com/markom3d\nInstagram - https://www.instagram.com/markom3d/\nTwitter - https://twitter.com/markomruki"
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUdlNVsQys37ETeTDqQqiHFQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "4789868",
+      "subscriberCount": "43000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "670"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Markom3D",
+        "description": "This channel is all about Blender and Unreal Engine 4. I am releasing three videos a week \n\nThere will also be Live streams that I will be participating, so make sure you subscribe to the channel so that you get the notification. \n\nIf you want to support me you can visit my Patreon: https://www.patreon.com/Markom3D\nIf you would like to just send me a donation for support - https://paypal.me/markom3d\n\nIf you want to check out and download some of my models - https://gumroad.com/markom3d\n\nFacebook - https://www.facebook.com/markom3d\nInstagram - https://www.instagram.com/markom3d/\nTwitter - https://twitter.com/markomruki",
+        "keywords": "HowTo educational Blender",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/t-UY_B7FbkHuhbDhhipDQvXIT8zzAztWHFuNHAyY_q1jkaSV1wMPi9NN7tKoqcx7o0Q_KEtqeQ"
+      }
+    }
+  }
+}

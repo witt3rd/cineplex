@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCUkRj4qoT1bsWpE_C8lZYoQ",
+  "retrieved_on": "2021-12-05 03:47:35.288744",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Gl5DkVxfLDPj0mDqdRL5EKRk0aA",
+    "id": "UCUkRj4qoT1bsWpE_C8lZYoQ",
+    "snippet": {
+      "title": "ThinMatrix",
+      "description": "Indie game developer and Youtuber, currently working on a new city-builder game.\n\nI upload regular vlogs about my life as a full-time indie game developer and I show the entire development process for my games, so that you can follow the project from the first concept all the way up to release! I released my first game \"Equilinox\" on Steam in 2018, and I'm now working on a city-builder game.\n\nYou can also find 50+ tutorial videos about creating your own 3D game engine using OpenGL here on my channel.\n\nThanks for visiting and I hope you enjoy my videos!\n\nKarl",
+      "publishedAt": "2013-01-20T18:59:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pQWtBLd9I_h7n0c_6VXUS0mnw6_gtjhDwX6mV9aU2UW3SWcbpoTlokvUYNfNuyqULxO5KC6AgKI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pQWtBLd9I_h7n0c_6VXUS0mnw6_gtjhDwX6mV9aU2UW3SWcbpoTlokvUYNfNuyqULxO5KC6AgKI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pQWtBLd9I_h7n0c_6VXUS0mnw6_gtjhDwX6mV9aU2UW3SWcbpoTlokvUYNfNuyqULxO5KC6AgKI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ThinMatrix",
+        "description": "Indie game developer and Youtuber, currently working on a new city-builder game.\n\nI upload regular vlogs about my life as a full-time indie game developer and I show the entire development process for my games, so that you can follow the project from the first concept all the way up to release! I released my first game \"Equilinox\" on Steam in 2018, and I'm now working on a city-builder game.\n\nYou can also find 50+ tutorial videos about creating your own 3D game engine using OpenGL here on my channel.\n\nThanks for visiting and I hope you enjoy my videos!\n\nKarl"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUkRj4qoT1bsWpE_C8lZYoQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "15191534",
+      "subscriberCount": "187000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "319"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ThinMatrix",
+        "description": "Indie game developer and Youtuber, currently working on a new city-builder game.\n\nI upload regular vlogs about my life as a full-time indie game developer and I show the entire development process for my games, so that you can follow the project from the first concept all the way up to release! I released my first game \"Equilinox\" on Steam in 2018, and I'm now working on a city-builder game.\n\nYou can also find 50+ tutorial videos about creating your own 3D game engine using OpenGL here on my channel.\n\nThanks for visiting and I hope you enjoy my videos!\n\nKarl",
+        "keywords": "thinmatrix \"indie developer\" \"3d game\" devlog opengl java \"3d game development\" mmorpg \"indie mmo\" \"dev diary\" \"indie game\" gamedev \"opengl tutorial\" \"3D Java Game\" Equilinox \"indie game\"",
+        "unsubscribedTrailer": "XuTXzLZMLUE",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/a1oUhDjySzaujtGvt1EqwNGkyELbrKTyNOTloe8eWUxXwgjKhmflNDZlHIFtkV1qUGcK9jLh"
+      }
+    }
+  }
+}

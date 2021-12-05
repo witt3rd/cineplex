@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCv5Co-jEgIZ_Sdj7O8SGA7A",
+  "retrieved_on": "2021-12-05 03:47:33.306684",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "r5i-XWQO4NXUm8n8ykCwZYEEYRY",
+    "id": "UCv5Co-jEgIZ_Sdj7O8SGA7A",
+    "snippet": {
+      "title": "Xavier Baez",
+      "description": "Linux for the prople",
+      "publishedAt": "2007-10-16T08:59:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRpQlW0ptrP0DOF-0Ag--WxPbWJkp5oPITCnjB4dy0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRpQlW0ptrP0DOF-0Ag--WxPbWJkp5oPITCnjB4dy0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRpQlW0ptrP0DOF-0Ag--WxPbWJkp5oPITCnjB4dy0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Xavier Baez",
+        "description": "Linux for the prople"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUv5Co-jEgIZ_Sdj7O8SGA7A"
+      }
+    },
+    "statistics": {
+      "viewCount": "5229",
+      "subscriberCount": "16",
+      "hiddenSubscriberCount": false,
+      "videoCount": "14"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Xavier Baez",
+        "description": "Linux for the prople",
+        "moderateComments": true,
+        "country": "US"
+      }
+    }
+  }
+}

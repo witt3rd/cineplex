@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCE1H_UogXQ85tslsAFYkn3Q",
+  "retrieved_on": "2021-12-05 03:47:37.514215",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xYqp9zUedHhKvAkekVi5g4ZE6Ro",
+    "id": "UCE1H_UogXQ85tslsAFYkn3Q",
+    "snippet": {
+      "title": "grantwoolard",
+      "description": "I take things I like and mix them together.\n\n",
+      "customUrl": "grantwoolard",
+      "publishedAt": "2007-08-02T19:58:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXzrSRHvTOtZqlUfLLKlDvWzrpg-vloK7BMmt0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXzrSRHvTOtZqlUfLLKlDvWzrpg-vloK7BMmt0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXzrSRHvTOtZqlUfLLKlDvWzrpg-vloK7BMmt0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "grantwoolard",
+        "description": "I take things I like and mix them together.\n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUE1H_UogXQ85tslsAFYkn3Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "18237301",
+      "subscriberCount": "100000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "7"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "grantwoolard",
+        "description": "I take things I like and mix them together.\n\n",
+        "keywords": "grant woolard grantwoolard music comedy quodlibet mashup jingles japan piano",
+        "trackingAnalyticsAccountId": "UA-96186265-1",
+        "unsubscribedTrailer": "DayjwRDcs44",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/wCE7EBcpxyT8a1vb12t58gac2heyptCIj2N36wZnVnetB9XOjPv6JRQE-qb0ohFKpc5e69tcxw"
+      }
+    }
+  }
+}

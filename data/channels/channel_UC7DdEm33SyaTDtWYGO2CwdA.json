@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC7DdEm33SyaTDtWYGO2CwdA",
+  "retrieved_on": "2021-12-05 03:47:33.604594",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "yYbqT0hhA0LoQ3elauc7eRgvcYA",
+    "id": "UC7DdEm33SyaTDtWYGO2CwdA",
+    "snippet": {
+      "title": "Physics Girl",
+      "description": "Physics Girl is a YouTube channel created by Dianna Cowern that adventures into the physical sciences with experiments, demonstrations, and cool new discoveries. Physics Girl has videos for every atom and eve.\n\n\nMailing address:\nPhysics Girl\nPO Box 9281\nSan Diego CA, 92169",
+      "customUrl": "physicsgirl",
+      "publishedAt": "2011-10-21T15:36:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSLgLFOpbq3jWJa0whAG7GUkbBPlFPo_xLH1JwnJA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSLgLFOpbq3jWJa0whAG7GUkbBPlFPo_xLH1JwnJA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSLgLFOpbq3jWJa0whAG7GUkbBPlFPo_xLH1JwnJA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Physics Girl",
+        "description": "Physics Girl is a YouTube channel created by Dianna Cowern that adventures into the physical sciences with experiments, demonstrations, and cool new discoveries. Physics Girl has videos for every atom and eve.\n\n\nMailing address:\nPhysics Girl\nPO Box 9281\nSan Diego CA, 92169"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7DdEm33SyaTDtWYGO2CwdA"
+      }
+    },
+    "statistics": {
+      "viewCount": "156725655",
+      "subscriberCount": "2130000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "188"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Physics Girl",
+        "description": "Physics Girl is a YouTube channel created by Dianna Cowern that adventures into the physical sciences with experiments, demonstrations, and cool new discoveries. Physics Girl has videos for every atom and eve.\n\n\nMailing address:\nPhysics Girl\nPO Box 9281\nSan Diego CA, 92169",
+        "keywords": "physics experiments fun",
+        "moderateComments": true,
+        "unsubscribedTrailer": "Ek1buV2HA68",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/EtfHkpA6zIbjOJG5SesNCYAFlaDPcH6OX2mx79VcLG0C_WPGrRJr62zGw34iuLPDX9Xmbm_WMq8"
+      }
+    }
+  }
+}

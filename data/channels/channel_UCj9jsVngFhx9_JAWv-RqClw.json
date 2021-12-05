@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCj9jsVngFhx9_JAWv-RqClw",
+  "retrieved_on": "2021-12-05 03:47:40.782086",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BaFpJ5fO33S64BuLrd7BFiNHxdo",
+    "id": "UCj9jsVngFhx9_JAWv-RqClw",
+    "snippet": {
+      "title": "Johanna Pirker",
+      "description": "Johanna Pirker; Researcher, Game Dev, CS Prof, Gamer.",
+      "customUrl": "johannapirker42",
+      "publishedAt": "2020-04-28T15:56:42.283728Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTTIok143QR_SzWFI4FQ9CI9qoKkde-4OyQN-8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTTIok143QR_SzWFI4FQ9CI9qoKkde-4OyQN-8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTTIok143QR_SzWFI4FQ9CI9qoKkde-4OyQN-8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Johanna Pirker",
+        "description": "Johanna Pirker; Researcher, Game Dev, CS Prof, Gamer."
+      },
+      "country": "AT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUj9jsVngFhx9_JAWv-RqClw"
+      }
+    },
+    "statistics": {
+      "viewCount": "21884",
+      "subscriberCount": "559",
+      "hiddenSubscriberCount": false,
+      "videoCount": "14"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Johanna Pirker",
+        "description": "Johanna Pirker; Researcher, Game Dev, CS Prof, Gamer.",
+        "moderateComments": true,
+        "country": "AT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/6dgZUiAv7p0C4OefvVZaJ2qE603vcBXBXxK0ORNhoQI0OgjYxlLNj3YaYLX1JLwVOKEXyzfTbQ"
+      }
+    }
+  }
+}

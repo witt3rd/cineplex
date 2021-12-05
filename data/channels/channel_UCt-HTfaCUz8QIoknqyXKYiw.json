@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCt-HTfaCUz8QIoknqyXKYiw",
+  "retrieved_on": "2021-12-05 03:47:30.682769",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ArSlm4qUujpLFFlE52xTIf9N4SM",
+    "id": "UCt-HTfaCUz8QIoknqyXKYiw",
+    "snippet": {
+      "title": "Wirtual",
+      "description": "I make videos about Trackmania. The worlds most competitive racing game. \n\n\u2709Business: contact@wirtual.gg\n\nStream: https://www.twitch.tv/Wirtual\n2nd Channel: https://bit.ly/WirtualTV\n\ud83c\udfacClips Channel: https://bit.ly/WirtualClips\n",
+      "customUrl": "wirtual",
+      "publishedAt": "2014-11-18T11:15:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUViVpLCPwEVLMp_VmmytZVIdf9RjYsX0bpiJP=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUViVpLCPwEVLMp_VmmytZVIdf9RjYsX0bpiJP=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUViVpLCPwEVLMp_VmmytZVIdf9RjYsX0bpiJP=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Wirtual",
+        "description": "I make videos about Trackmania. The worlds most competitive racing game. \n\n\u2709Business: contact@wirtual.gg\n\nStream: https://www.twitch.tv/Wirtual\n2nd Channel: https://bit.ly/WirtualTV\n\ud83c\udfacClips Channel: https://bit.ly/WirtualClips\n"
+      },
+      "country": "NO"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUt-HTfaCUz8QIoknqyXKYiw"
+      }
+    },
+    "statistics": {
+      "viewCount": "65515114",
+      "subscriberCount": "682000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "62"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Wirtual",
+        "description": "I make videos about Trackmania. The worlds most competitive racing game. \n\n\u2709Business: contact@wirtual.gg\n\nStream: https://www.twitch.tv/Wirtual\n2nd Channel: https://bit.ly/WirtualTV\n\ud83c\udfacClips Channel: https://bit.ly/WirtualClips\n",
+        "keywords": "Wirtual Trackmania Grand League \"Trackmania Speedrun\" \"ESA Speedrun\" Match Highlight \"World Record\" Kacky Shortcut WR \"Nadeo cut\" \"Trackmania 2 Stadium\" Esport TMGL",
+        "country": "NO"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/D2lMYOFBbtECcROv5BQQQ3Mz-tJV1PhEJBUDvZs8ChYHzh8PJXQs4NOnhZVvYNA56_GW21_7Cg"
+      }
+    }
+  }
+}

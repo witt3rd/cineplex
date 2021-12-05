@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCI0vQvr9aFn27yR6Ej6n5UA",
+  "retrieved_on": "2021-12-05 03:47:32.562641",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "TI9omh8rP9kP-paY7nvLIcZ3UZI",
+    "id": "UCI0vQvr9aFn27yR6Ej6n5UA",
+    "snippet": {
+      "title": "Real Python",
+      "description": "Python tutorials and training videos for Pythonistas that go beyond the basics. \n\n\ud83c\udf93\ud83d\udc0d Get free Python tips and programming tutorials at https://realpython.com\n\nHey, I\u2019m Dan Bader and I help Python developers take their coding skills and productivity to the next level. I\u2019m an independent software engineer, author, and speaker. I\u2019ve been developing software for 15 years\u2014and I\u2019d love to help you become a more proficient Python coder.\n\nOn this channel you\u2019ll get new Python videos and screencasts every week. They\u2019re bite-sized and to the point so you can fit them in with your day and pick up new Python skills on the side:\n\n\u25ba Free Python Articles & Tutorials: https://realpython.com\n\u25ba Listen to the Real Python Podcast: https://realpython.com/podcast",
+      "customUrl": "realpython",
+      "publishedAt": "2013-05-22T11:01:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNiKsX65-HS1kEam9jB_DnFVHO6jld2HP-bGhlVg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNiKsX65-HS1kEam9jB_DnFVHO6jld2HP-bGhlVg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTNiKsX65-HS1kEam9jB_DnFVHO6jld2HP-bGhlVg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Real Python",
+        "description": "Python tutorials and training videos for Pythonistas that go beyond the basics. \n\n\ud83c\udf93\ud83d\udc0d Get free Python tips and programming tutorials at https://realpython.com\n\nHey, I\u2019m Dan Bader and I help Python developers take their coding skills and productivity to the next level. I\u2019m an independent software engineer, author, and speaker. I\u2019ve been developing software for 15 years\u2014and I\u2019d love to help you become a more proficient Python coder.\n\nOn this channel you\u2019ll get new Python videos and screencasts every week. They\u2019re bite-sized and to the point so you can fit them in with your day and pick up new Python skills on the side:\n\n\u25ba Free Python Articles & Tutorials: https://realpython.com\n\u25ba Listen to the Real Python Podcast: https://realpython.com/podcast"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUI0vQvr9aFn27yR6Ej6n5UA"
+      }
+    },
+    "statistics": {
+      "viewCount": "5502767",
+      "subscriberCount": "137000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "374"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Real Python",
+        "description": "Python tutorials and training videos for Pythonistas that go beyond the basics. \n\n\ud83c\udf93\ud83d\udc0d Get free Python tips and programming tutorials at https://realpython.com\n\nHey, I\u2019m Dan Bader and I help Python developers take their coding skills and productivity to the next level. I\u2019m an independent software engineer, author, and speaker. I\u2019ve been developing software for 15 years\u2014and I\u2019d love to help you become a more proficient Python coder.\n\nOn this channel you\u2019ll get new Python videos and screencasts every week. They\u2019re bite-sized and to the point so you can fit them in with your day and pick up new Python skills on the side:\n\n\u25ba Free Python Articles & Tutorials: https://realpython.com\n\u25ba Listen to the Real Python Podcast: https://realpython.com/podcast",
+        "keywords": "python \"python training\" \"python tutorial\" \"python class\" \"python videos\" \"python programming\" pythonista \"python for beginners\" dbader \"dan bader\" dbader.org \"python coaching\" \"pythob jobs\" \"python classes\" \"python tutorial for beginners\" \"python training online\" realpython \"real python\"",
+        "trackingAnalyticsAccountId": "UA-37242602-8",
+        "moderateComments": true,
+        "unsubscribedTrailer": "wijnHLMugU4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/8PIT7olkpQgEJFD10EkVlpvn_DRXtLsce_PSV70v7Gz2CxzLihyoM1J1Qd6nQg4_Gg1lRbat0A"
+      }
+    }
+  }
+}

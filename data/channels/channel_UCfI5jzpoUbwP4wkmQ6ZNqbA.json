@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+  "retrieved_on": "2021-12-05 03:47:35.580953",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "t7y1ReyLWNrPBlKmrF4IzlAhWgY",
+    "id": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "snippet": {
+      "title": "The Stoa",
+      "description": "\"The Stoa is not a fucking YouTube channel.\"\n\nthestoa.ca\npatreon.com/the_stoa\nthestoa.substack.com\n",
+      "customUrl": "thestoa",
+      "publishedAt": "2019-09-17T01:33:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnvOClj2CrmpVjeKaArTlUXDvJ2Oho0xYK0qTQwQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnvOClj2CrmpVjeKaArTlUXDvJ2Oho0xYK0qTQwQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQnvOClj2CrmpVjeKaArTlUXDvJ2Oho0xYK0qTQwQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Stoa",
+        "description": "\"The Stoa is not a fucking YouTube channel.\"\n\nthestoa.ca\npatreon.com/the_stoa\nthestoa.substack.com\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfI5jzpoUbwP4wkmQ6ZNqbA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1405251",
+      "subscriberCount": "25700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "526"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Stoa",
+        "description": "\"The Stoa is not a fucking YouTube channel.\"\n\nthestoa.ca\npatreon.com/the_stoa\nthestoa.substack.com\n",
+        "country": "CA"
+      }
+    }
+  }
+}

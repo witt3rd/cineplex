@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC5I2hjZYiW9gZPVkvzM8_Cw",
+  "retrieved_on": "2021-12-05 03:47:37.030676",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9guIq27-3XUhKvd78OK4U9SbG_Y",
+    "id": "UC5I2hjZYiW9gZPVkvzM8_Cw",
+    "snippet": {
+      "title": "Techmoan",
+      "description": "Enjoying the best and worst of new and old technology.\nConsumer Tech - by a Tech Consumer\n\nCrowdfunding Support Received via:\nPatreon: https://www.patreon.com/techmoan\n\n------AFFILIATED LINKS/ADVERTISING NOTICE-------\nAll links are Affiliated where possible.\nWhen you click on links to various merchants posted here and make a purchase, this can result in me earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network & Amazon. \nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to AMAZON Sites (including, but not limited to Amazon US/UK/DE/ES/FR/NL/IT/CAN)\n\nUNSOLICITED PACKAGES/PARCELS ARE DESTROYED WITHOUT OPENING.  \nIf you think you have something that I'd be interested in, please contact me first to check.",
+      "customUrl": "techmoan",
+      "publishedAt": "2009-05-31T13:50:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ7_BJmwP23zW1YnOVM38T4ugoK_PuEnawidIrWXIo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ7_BJmwP23zW1YnOVM38T4ugoK_PuEnawidIrWXIo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ7_BJmwP23zW1YnOVM38T4ugoK_PuEnawidIrWXIo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Techmoan",
+        "description": "Enjoying the best and worst of new and old technology.\nConsumer Tech - by a Tech Consumer\n\nCrowdfunding Support Received via:\nPatreon: https://www.patreon.com/techmoan\n\n------AFFILIATED LINKS/ADVERTISING NOTICE-------\nAll links are Affiliated where possible.\nWhen you click on links to various merchants posted here and make a purchase, this can result in me earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network & Amazon. \nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to AMAZON Sites (including, but not limited to Amazon US/UK/DE/ES/FR/NL/IT/CAN)\n\nUNSOLICITED PACKAGES/PARCELS ARE DESTROYED WITHOUT OPENING.  \nIf you think you have something that I'd be interested in, please contact me first to check."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5I2hjZYiW9gZPVkvzM8_Cw"
+      }
+    },
+    "statistics": {
+      "viewCount": "270574591",
+      "subscriberCount": "1180000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "532"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Techmoan",
+        "description": "Enjoying the best and worst of new and old technology.\nConsumer Tech - by a Tech Consumer\n\nCrowdfunding Support Received via:\nPatreon: https://www.patreon.com/techmoan\n\n------AFFILIATED LINKS/ADVERTISING NOTICE-------\nAll links are Affiliated where possible.\nWhen you click on links to various merchants posted here and make a purchase, this can result in me earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network & Amazon. \nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to AMAZON Sites (including, but not limited to Amazon US/UK/DE/ES/FR/NL/IT/CAN)\n\nUNSOLICITED PACKAGES/PARCELS ARE DESTROYED WITHOUT OPENING.  \nIf you think you have something that I'd be interested in, please contact me first to check.",
+        "keywords": "techmoan video gadget hi-fi audio tech reviews consumer action camera retro 4K Retrotech Vintage reviews",
+        "trackingAnalyticsAccountId": "UA-18445630-1",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7G6MdF_n9uAfrvn8vz9Pg43TELtGQc9jWumwyNwWdQnw5zjQL5NOobzpOqyk6Oz0RveJVj55GHI"
+      }
+    }
+  }
+}

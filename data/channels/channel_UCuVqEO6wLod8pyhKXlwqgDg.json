@@ -1,0 +1,53 @@
+{
+  "channel_id": "UCuVqEO6wLod8pyhKXlwqgDg",
+  "retrieved_on": "2021-12-05 03:47:30.163086",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "LF38drpraMR5dPsUb_kLreZTA1Q",
+    "id": "UCuVqEO6wLod8pyhKXlwqgDg",
+    "snippet": {
+      "title": "Chaar",
+      "description": "",
+      "publishedAt": "2016-05-26T20:29:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpqvFIAn9ih-syrb9zWIVe0si_WqETnVmLI8dX=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpqvFIAn9ih-syrb9zWIVe0si_WqETnVmLI8dX=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpqvFIAn9ih-syrb9zWIVe0si_WqETnVmLI8dX=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Chaar",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUuVqEO6wLod8pyhKXlwqgDg"
+      }
+    },
+    "statistics": {
+      "viewCount": "117574",
+      "subscriberCount": "285",
+      "hiddenSubscriberCount": false,
+      "videoCount": "31"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chaar",
+        "trackingAnalyticsAccountId": "UA-10068472-3"
+      }
+    }
+  }
+}

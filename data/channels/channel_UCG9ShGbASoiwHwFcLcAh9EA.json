@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCG9ShGbASoiwHwFcLcAh9EA",
+  "retrieved_on": "2021-12-05 03:47:31.805456",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "0u099Cut2zlwP5VMGB-hpWMLwFU",
+    "id": "UCG9ShGbASoiwHwFcLcAh9EA",
+    "snippet": {
+      "title": "SEA",
+      "description": "I make videos about all things space-related, and sometimes about creepy unsolved mysteries and cool technology. Thanks for stopping by, I hope you like what you see!",
+      "customUrl": "seamedia",
+      "publishedAt": "2015-08-28T13:58:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/HvfWMeMDDDAoscjdZ0ZOKciNK1iNUbJhQSZeW32IJCiUH24StxKCmfDVj7wqplAmCmi16clVkQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/HvfWMeMDDDAoscjdZ0ZOKciNK1iNUbJhQSZeW32IJCiUH24StxKCmfDVj7wqplAmCmi16clVkQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/HvfWMeMDDDAoscjdZ0ZOKciNK1iNUbJhQSZeW32IJCiUH24StxKCmfDVj7wqplAmCmi16clVkQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "SEA",
+        "description": "I make videos about all things space-related, and sometimes about creepy unsolved mysteries and cool technology. Thanks for stopping by, I hope you like what you see!"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUG9ShGbASoiwHwFcLcAh9EA"
+      }
+    },
+    "statistics": {
+      "viewCount": "38180234",
+      "subscriberCount": "441000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "63"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SEA",
+        "description": "I make videos about all things space-related, and sometimes about creepy unsolved mysteries and cool technology. Thanks for stopping by, I hope you like what you see!",
+        "keywords": "SEA Sea1997 \"Legends Series\" \"Maps From Hell\" \"Geometry Dash\" \"Conspiracy Cases\" G-News \"GD Theories\" \"RobTop Games\" Space OOTW \"Out of this world\" astronomy science technology space galaxy documentary education \"bootes void\" \"uy scuti\" voids quasars astrum kosmo kurzgesagt cosmic \"cosmic horizon\" \"great attractor\" \"solar system\" universe space astronomy",
+        "unsubscribedTrailer": "4iC9Qi3y9q8",
+        "defaultLanguage": "en-GB",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/E6ZEdXmMmamV3-3gKnwU1xuTmzlpZB89NlrXvKCeZGZY6Nh47SrTBFDzZ6Lkycu6OzqgBrXH"
+      }
+    }
+  }
+}

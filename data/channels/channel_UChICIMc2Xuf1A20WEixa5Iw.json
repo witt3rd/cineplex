@@ -1,0 +1,63 @@
+{
+  "channel_id": "UChICIMc2Xuf1A20WEixa5Iw",
+  "retrieved_on": "2021-12-05 03:47:35.288802",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "0jf5RJFgnR2N_1ziD2N27eOxeJ8",
+    "id": "UChICIMc2Xuf1A20WEixa5Iw",
+    "snippet": {
+      "title": "hanedafz",
+      "description": "Realistic driving gameplay with Logitech g29 steering wheel.",
+      "customUrl": "hanedafz",
+      "publishedAt": "2016-10-18T02:08:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/g_kTGjVE5EmhEB-_kS7ISkxKFZy8Mcw5MXd4PE_nop1LljiimpGNTLbYcRcIUqX33HwIfvgRnA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/g_kTGjVE5EmhEB-_kS7ISkxKFZy8Mcw5MXd4PE_nop1LljiimpGNTLbYcRcIUqX33HwIfvgRnA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/g_kTGjVE5EmhEB-_kS7ISkxKFZy8Mcw5MXd4PE_nop1LljiimpGNTLbYcRcIUqX33HwIfvgRnA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "hanedafz",
+        "description": "Realistic driving gameplay with Logitech g29 steering wheel."
+      },
+      "country": "ID"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhICIMc2Xuf1A20WEixa5Iw"
+      }
+    },
+    "statistics": {
+      "viewCount": "377312058",
+      "subscriberCount": "1360000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "256"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "hanedafz",
+        "description": "Realistic driving gameplay with Logitech g29 steering wheel.",
+        "keywords": "hanedafz \"logitech g29\" \"steering wheel\" \"forza horizon 5\" gameplay \"4k ultra hd\" \"rtx 3080 ti\"",
+        "unsubscribedTrailer": "WcmZsmCAcm4",
+        "defaultLanguage": "en",
+        "country": "ID"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/i261trUPjIj2sWT2LrF63hLZMsiedlCpfnbyZLMrP5772se32zWulUDr-m2KX5I7MI7LNIY0"
+      }
+    }
+  }
+}

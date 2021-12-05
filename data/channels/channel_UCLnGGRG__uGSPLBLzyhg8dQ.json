@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCLnGGRG__uGSPLBLzyhg8dQ",
+  "retrieved_on": "2021-12-05 03:47:35.288842",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "EV9vp5uh2oFOTbfuY5Q3X6fz8Oc",
+    "id": "UCLnGGRG__uGSPLBLzyhg8dQ",
+    "snippet": {
+      "title": "Oxford Mathematics",
+      "description": "The Oxford Mathematics YouTube Channel features public lectures, student lectures, research films and more.  All with the aim of explaining a subject that affects us all.",
+      "customUrl": "oxfordmathematics",
+      "publishedAt": "2014-03-20T13:07:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWt0YIQFV1GTGO9OnwyKMJDZVLUoy3BspcbDO2=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWt0YIQFV1GTGO9OnwyKMJDZVLUoy3BspcbDO2=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWt0YIQFV1GTGO9OnwyKMJDZVLUoy3BspcbDO2=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Oxford Mathematics",
+        "description": "The Oxford Mathematics YouTube Channel features public lectures, student lectures, research films and more.  All with the aim of explaining a subject that affects us all."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UULnGGRG__uGSPLBLzyhg8dQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "18152894",
+      "subscriberCount": "309000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "162"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Oxford Mathematics",
+        "description": "The Oxford Mathematics YouTube Channel features public lectures, student lectures, research films and more.  All with the aim of explaining a subject that affects us all.",
+        "moderateComments": true,
+        "unsubscribedTrailer": "hIUiPi-jAjM",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/qe57RUDYa6jI2BD80xNXyTIZjgcdA4jxTDpdh88x-1wY7kBsriljdqdJKk7gYom1gqUaEScutw"
+      }
+    }
+  }
+}

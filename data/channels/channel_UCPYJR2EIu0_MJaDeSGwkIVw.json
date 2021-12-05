@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCPYJR2EIu0_MJaDeSGwkIVw",
+  "retrieved_on": "2021-12-05 03:47:30.682808",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "q8WTPWTsKneRj1jQCfGTr1DZzpE",
+    "id": "UCPYJR2EIu0_MJaDeSGwkIVw",
+    "snippet": {
+      "title": "The Completionist",
+      "description": "Jirard \"The Completionist\" Khalil doesn't simply beat games, he completes 'em. 100%. No stone is left unturned until the viewing audience knows the value of any game Jirard has seen all the way to end (and often far beyond that)! Through his cultivated skills as both a theater and film major, Jirard produces premium content on cherished classics or brand-new video games. Join Jirard as he shares his journey of completing and celebrating hundreds of video games.\n\nWant to send Jirard something slick?\n\nFor Physical:\nThe Completionist\u00ae\nPO BOX 3249 \nTorrance, CA 90510\n\nFor Digital:\nfans@thatonevideogamer.com\n",
+      "customUrl": "thatonevideogamer",
+      "publishedAt": "2012-01-05T19:40:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtiDayJDMWFJyv1E8nQqtWIh6iFiKJEEy7LFfuxQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtiDayJDMWFJyv1E8nQqtWIh6iFiKJEEy7LFfuxQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtiDayJDMWFJyv1E8nQqtWIh6iFiKJEEy7LFfuxQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Completionist",
+        "description": "Jirard \"The Completionist\" Khalil doesn't simply beat games, he completes 'em. 100%. No stone is left unturned until the viewing audience knows the value of any game Jirard has seen all the way to end (and often far beyond that)! Through his cultivated skills as both a theater and film major, Jirard produces premium content on cherished classics or brand-new video games. Join Jirard as he shares his journey of completing and celebrating hundreds of video games.\n\nWant to send Jirard something slick?\n\nFor Physical:\nThe Completionist\u00ae\nPO BOX 3249 \nTorrance, CA 90510\n\nFor Digital:\nfans@thatonevideogamer.com\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPYJR2EIu0_MJaDeSGwkIVw"
+      }
+    },
+    "statistics": {
+      "viewCount": "283955592",
+      "subscriberCount": "1500000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "585"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Completionist",
+        "description": "Jirard \"The Completionist\" Khalil doesn't simply beat games, he completes 'em. 100%. No stone is left unturned until the viewing audience knows the value of any game Jirard has seen all the way to end (and often far beyond that)! Through his cultivated skills as both a theater and film major, Jirard produces premium content on cherished classics or brand-new video games. Join Jirard as he shares his journey of completing and celebrating hundreds of video games.\n\nWant to send Jirard something slick?\n\nFor Physical:\nThe Completionist\u00ae\nPO BOX 3249 \nTorrance, CA 90510\n\nFor Digital:\nfans@thatonevideogamer.com\n",
+        "keywords": "\"The Completionist\" \"Big Bad Bosses\" B3 \"Power Overwhelming\" Angel \"I'm the Boss\" Eggman \"jirard khalil\" \"Super Beard Bros.\" Normalboots Peanutbuttergamer PBG egoraptor \"proton jon\" projared gametheory \"game grumps\" mattpat nintendo switch zelda \"breath of the wild\" \"defend it\" \"The Completionist top 10\"",
+        "trackingAnalyticsAccountId": "UA-51976617-3",
+        "unsubscribedTrailer": "P_dJqgXD7dQ",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/KhRp2cv0-cT29dDvvh6yJR_3JKD0L9AuWN7pMDbghJVLsRv8rgyrUS0pzE9PReeVUjzDbOhzpO4"
+      }
+    }
+  }
+}

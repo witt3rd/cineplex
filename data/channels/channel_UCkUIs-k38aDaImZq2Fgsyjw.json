@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCkUIs-k38aDaImZq2Fgsyjw",
+  "retrieved_on": "2021-12-05 03:47:31.215422",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "y5JpV5zuQTHZn9pNGys4iccE1Is",
+    "id": "UCkUIs-k38aDaImZq2Fgsyjw",
+    "snippet": {
+      "title": "Renaissance Coders",
+      "description": "Learn the skills necessary to become a successful developer. We offer training in C#, Javascript, Unity3D, and more.\n\nRenaissance Coders is run by two guys out of Atlanta, Darren and Jared. \n\nDarren has 5 years of experience using Unity3D and C#. He is pursuing a Masters in Computer Science while he leads a small research team at Kennesaw State University. He has 2 years of experience tutoring college students in programming, and 2 years of experience teaching Unity3D online. He has 1 year of experience working at a virtual reality company developing clinical psychology applications.\n\nJared has 4 years of experience using Unity3D and C#, as well as 9 years as a software developer and 2 years with the Unreal Engine and C++. Jared has a Bachelor's degree in Game Programming, has participated in several coding challenges and Game Jams, and is driven to create amazing content for the game development community. \n\ndarren@renaissancecoders.com\n\njared@renaissancecoders.com",
+      "customUrl": "renaissancecoders1",
+      "publishedAt": "2015-03-11T14:30:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRUi_IHcBn_j58P9MNNhdd6ZExnSv-dBYRf6e6ycQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRUi_IHcBn_j58P9MNNhdd6ZExnSv-dBYRf6e6ycQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRUi_IHcBn_j58P9MNNhdd6ZExnSv-dBYRf6e6ycQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Renaissance Coders",
+        "description": "Learn the skills necessary to become a successful developer. We offer training in C#, Javascript, Unity3D, and more.\n\nRenaissance Coders is run by two guys out of Atlanta, Darren and Jared. \n\nDarren has 5 years of experience using Unity3D and C#. He is pursuing a Masters in Computer Science while he leads a small research team at Kennesaw State University. He has 2 years of experience tutoring college students in programming, and 2 years of experience teaching Unity3D online. He has 1 year of experience working at a virtual reality company developing clinical psychology applications.\n\nJared has 4 years of experience using Unity3D and C#, as well as 9 years as a software developer and 2 years with the Unreal Engine and C++. Jared has a Bachelor's degree in Game Programming, has participated in several coding challenges and Game Jams, and is driven to create amazing content for the game development community. \n\ndarren@renaissancecoders.com\n\njared@renaissancecoders.com"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkUIs-k38aDaImZq2Fgsyjw"
+      }
+    },
+    "statistics": {
+      "viewCount": "4963679",
+      "subscriberCount": "36600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "214"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Renaissance Coders",
+        "description": "Learn the skills necessary to become a successful developer. We offer training in C#, Javascript, Unity3D, and more.\n\nRenaissance Coders is run by two guys out of Atlanta, Darren and Jared. \n\nDarren has 5 years of experience using Unity3D and C#. He is pursuing a Masters in Computer Science while he leads a small research team at Kennesaw State University. He has 2 years of experience tutoring college students in programming, and 2 years of experience teaching Unity3D online. He has 1 year of experience working at a virtual reality company developing clinical psychology applications.\n\nJared has 4 years of experience using Unity3D and C#, as well as 9 years as a software developer and 2 years with the Unreal Engine and C++. Jared has a Bachelor's degree in Game Programming, has participated in several coding challenges and Game Jams, and is driven to create amazing content for the game development community. \n\ndarren@renaissancecoders.com\n\njared@renaissancecoders.com",
+        "keywords": "\"unity 2018\" \"unity 2017\" easy coders unity3d unity programming \"game developer\" \"game development\" \"how to make a game\" beginner basic simple tutorial \"unity 3d\" c# javascript \"character controller\" \"how to\" ai \"nav mesh\" \"camera controller\" \"flappy bird\" kerbal zelda mecanim \"editor tools\" \"editor scripting\" \"source control\" bitbucket",
+        "trackingAnalyticsAccountId": "UA-100389177-1",
+        "unsubscribedTrailer": "A-GkNM8M5p8"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/BxQli-MaVxqYtJ97Fo6WygZJHF47orYaQgB8WtHs6IU4DD4fU6uDkM_0i9_7ZUNEG1mIliOPVw"
+      }
+    }
+  }
+}

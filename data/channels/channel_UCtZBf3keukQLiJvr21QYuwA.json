@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCtZBf3keukQLiJvr21QYuwA",
+  "retrieved_on": "2021-12-05 03:47:39.939465",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "X-u_yTysKYvpsP1k_lKkBf-YgQA",
+    "id": "UCtZBf3keukQLiJvr21QYuwA",
+    "snippet": {
+      "title": "Irina Sokolova",
+      "description": "private one",
+      "publishedAt": "2009-08-06T10:04:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQumkQSyyNQqEPgekQa0VlWTLeyxGFFkuQn9lgmbg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQumkQSyyNQqEPgekQa0VlWTLeyxGFFkuQn9lgmbg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQumkQSyyNQqEPgekQa0VlWTLeyxGFFkuQn9lgmbg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Irina Sokolova",
+        "description": "private one"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtZBf3keukQLiJvr21QYuwA"
+      }
+    },
+    "statistics": {
+      "viewCount": "3188110",
+      "subscriberCount": "4970",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Irina Sokolova",
+        "description": "private one"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/u8eOR-N-V68py_yh2lwQCuVp-ohUIMaJ2zaUFDf32kghSbQ4DfUrxrJuOOOSj5UIaOpoGFVowA"
+      }
+    }
+  }
+}

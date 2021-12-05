@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCPYOkAZJVfGAQapiqJEg5Mg",
+  "retrieved_on": "2021-12-05 03:47:31.805522",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "d_Au2iUJXkhQqFsPt-OU3j7_CsY",
+    "id": "UCPYOkAZJVfGAQapiqJEg5Mg",
+    "snippet": {
+      "title": "Miyuki Studies",
+      "description": "A small study account from the UK! I want to share my favorite music with you *^-^*",
+      "publishedAt": "2019-04-04T22:25:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRzHrRjZ6uko00QKi4Pr6GjPYefO5c-nKCTTrGX=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRzHrRjZ6uko00QKi4Pr6GjPYefO5c-nKCTTrGX=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRzHrRjZ6uko00QKi4Pr6GjPYefO5c-nKCTTrGX=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Miyuki Studies",
+        "description": "A small study account from the UK! I want to share my favorite music with you *^-^*"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPYOkAZJVfGAQapiqJEg5Mg"
+      }
+    },
+    "statistics": {
+      "viewCount": "2374289",
+      "subscriberCount": "3600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "6"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Miyuki Studies",
+        "description": "A small study account from the UK! I want to share my favorite music with you *^-^*"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/JVohdCQgxsq76x9zY4XOaZr1oMVwRrvUM_hxkpZmWjvs6JhXB3x55ubXE-Zip8U29PwOwovApA"
+      }
+    }
+  }
+}

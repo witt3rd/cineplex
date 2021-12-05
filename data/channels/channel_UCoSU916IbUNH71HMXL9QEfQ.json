@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCoSU916IbUNH71HMXL9QEfQ",
+  "retrieved_on": "2021-12-05 03:47:40.531377",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "AqbpfA-Ei9aXZBQt8mazI0yI7t0",
+    "id": "UCoSU916IbUNH71HMXL9QEfQ",
+    "snippet": {
+      "title": "Psychology at the University of Edinburgh",
+      "description": "This channel is for videos relating to Psychology at the University of Edinburgh. It is operated by the School of Philosophy, Psychology and Language Sciences.\n\nFind out more about Psychology at the University of Edinburgh: http://www.ed.ac.uk/ppls/psychology\n\nBanner image is public domain. Source: http://commons.wikimedia.org/wiki/File:Sobo_1909_624.png",
+      "publishedAt": "2014-08-11T11:46:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoPHe7EBLr11XSrm1BsThUBSVxUwD2EDYEiBYMyA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoPHe7EBLr11XSrm1BsThUBSVxUwD2EDYEiBYMyA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRoPHe7EBLr11XSrm1BsThUBSVxUwD2EDYEiBYMyA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Psychology at the University of Edinburgh",
+        "description": "This channel is for videos relating to Psychology at the University of Edinburgh. It is operated by the School of Philosophy, Psychology and Language Sciences.\n\nFind out more about Psychology at the University of Edinburgh: http://www.ed.ac.uk/ppls/psychology\n\nBanner image is public domain. Source: http://commons.wikimedia.org/wiki/File:Sobo_1909_624.png"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUoSU916IbUNH71HMXL9QEfQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "117085",
+      "subscriberCount": "1790",
+      "hiddenSubscriberCount": false,
+      "videoCount": "31"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Psychology at the University of Edinburgh",
+        "description": "This channel is for videos relating to Psychology at the University of Edinburgh. It is operated by the School of Philosophy, Psychology and Language Sciences.\n\nFind out more about Psychology at the University of Edinburgh: http://www.ed.ac.uk/ppls/psychology\n\nBanner image is public domain. Source: http://commons.wikimedia.org/wiki/File:Sobo_1909_624.png",
+        "keywords": "psychology university edinburgh neuroscience cognitive science",
+        "trackingAnalyticsAccountId": "UA-57585534-5",
+        "unsubscribedTrailer": "WvkcwnXVFdM",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/UY6u-EpyyHIPPWJkjV4UUmj0SvbjtqfLPLThlw4qDeW8A5lG4aD2peXs9-Jpd7-fE_EnbNWlWLk"
+      }
+    }
+  }
+}

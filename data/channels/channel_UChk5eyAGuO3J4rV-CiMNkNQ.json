@@ -1,0 +1,62 @@
+{
+  "channel_id": "UChk5eyAGuO3J4rV-CiMNkNQ",
+  "retrieved_on": "2021-12-05 03:47:36.348826",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "K-nkB3-ELmH8lDxA7yU5O3bWWS8",
+    "id": "UChk5eyAGuO3J4rV-CiMNkNQ",
+    "snippet": {
+      "title": "Jerry Miculek - Pro Shooter",
+      "description": "Fast shooting? Check! SlowMo? Check! Comedy? Check! What more could you POSSIBLY want from a firearms channel!?\nJerry Miculek is arguably the fastest & most renown shooter to ever live. \n\nNow, the Miculeks as a family are bringing you unparalleled quality videos for the purpose of the education & fun of firearms!",
+      "customUrl": "miculekdotcom",
+      "publishedAt": "2012-08-20T02:54:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQxQf19BohoUpu5QsaWDfnFDYIy1TU6edVcJn8sIQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQxQf19BohoUpu5QsaWDfnFDYIy1TU6edVcJn8sIQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQxQf19BohoUpu5QsaWDfnFDYIy1TU6edVcJn8sIQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Jerry Miculek - Pro Shooter",
+        "description": "Fast shooting? Check! SlowMo? Check! Comedy? Check! What more could you POSSIBLY want from a firearms channel!?\nJerry Miculek is arguably the fastest & most renown shooter to ever live. \n\nNow, the Miculeks as a family are bringing you unparalleled quality videos for the purpose of the education & fun of firearms!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhk5eyAGuO3J4rV-CiMNkNQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "244040321",
+      "subscriberCount": "1510000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "456"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jerry Miculek - Pro Shooter",
+        "description": "Fast shooting? Check! SlowMo? Check! Comedy? Check! What more could you POSSIBLY want from a firearms channel!?\nJerry Miculek is arguably the fastest & most renown shooter to ever live. \n\nNow, the Miculeks as a family are bringing you unparalleled quality videos for the purpose of the education & fun of firearms!",
+        "keywords": "guns firearms training tips gun fir control earm review speed shooting quick draw shoot world record jerry miculek revolver smith wesson knife action sport extreme pistol handgun rifle shotgun reload colt ruger nra hickok45 FPSrussia FPS russia nutnfancy hickok 45 fast fastest professional pro quickest explosion barrett 50 cal call of duty ghosts battlefield xbox one ps4 video games",
+        "trackingAnalyticsAccountId": "UA-39641100-1",
+        "unsubscribedTrailer": "WyIq9FdTgwM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/gxA_c2vFcpKoY9m7lmUPukSb0WWahFF-0JdVHDoaqyAMvn8jz5bHU7hmO1Ji6W7gw4bQMgeRdg"
+      }
+    }
+  }
+}

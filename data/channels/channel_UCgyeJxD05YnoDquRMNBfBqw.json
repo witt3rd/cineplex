@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCgyeJxD05YnoDquRMNBfBqw",
+  "retrieved_on": "2021-12-05 03:47:36.348929",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "DAMBCBS4a1CQPRHFLu3e79IuG7w",
+    "id": "UCgyeJxD05YnoDquRMNBfBqw",
+    "snippet": {
+      "title": "PBS",
+      "description": "PBS and our member stations are America\u2019s largest classroom, the nation\u2019s largest stage for the arts and a trusted window to the world. In addition, PBS's educational media helps prepare children for success in school and opens up the world to them in an age-appropriate way. Head to pbs.org to watch full episodes of your favorite PBS shows, explore music and the arts, find in-depth news analysis, and more. Home to Antiques Roadshow, Frontline, NOVA, PBS Newshour, Masterpiece and many others.",
+      "customUrl": "pbs",
+      "publishedAt": "2006-03-16T16:03:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCIGgbx2KvE_FSmzRtNqyO0-63n9z6PUeo5HOWpA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCIGgbx2KvE_FSmzRtNqyO0-63n9z6PUeo5HOWpA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCIGgbx2KvE_FSmzRtNqyO0-63n9z6PUeo5HOWpA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PBS",
+        "description": "PBS and our member stations are America\u2019s largest classroom, the nation\u2019s largest stage for the arts and a trusted window to the world. In addition, PBS's educational media helps prepare children for success in school and opens up the world to them in an age-appropriate way. Head to pbs.org to watch full episodes of your favorite PBS shows, explore music and the arts, find in-depth news analysis, and more. Home to Antiques Roadshow, Frontline, NOVA, PBS Newshour, Masterpiece and many others."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgyeJxD05YnoDquRMNBfBqw"
+      }
+    },
+    "statistics": {
+      "viewCount": "57092811",
+      "subscriberCount": "1020000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2937"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PBS",
+        "description": "PBS and our member stations are America\u2019s largest classroom, the nation\u2019s largest stage for the arts and a trusted window to the world. In addition, PBS's educational media helps prepare children for success in school and opens up the world to them in an age-appropriate way. Head to pbs.org to watch full episodes of your favorite PBS shows, explore music and the arts, find in-depth news analysis, and more. Home to Antiques Roadshow, Frontline, NOVA, PBS Newshour, Masterpiece and many others.",
+        "keywords": "PBS \"public broadcasting\" documentary news \"public affairs\" tv television Arts Music How-To History documentaries food culture drama",
+        "trackingAnalyticsAccountId": "UA-9156243-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "QoSYCbOj49M",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/k6aOG2eXMVhDRL49pl6uj0sRM8St0i0QBqtCqMHoOzIAKp7pRAuCuz_jDLyEJDQ2fbrDGLU9uw"
+      }
+    }
+  }
+}

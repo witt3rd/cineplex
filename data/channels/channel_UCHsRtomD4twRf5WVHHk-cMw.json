@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCHsRtomD4twRf5WVHHk-cMw",
+  "retrieved_on": "2021-12-05 03:47:36.581210",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "V2YaRSMlAJ5lHgDGolQCaYy-bcw",
+    "id": "UCHsRtomD4twRf5WVHHk-cMw",
+    "snippet": {
+      "title": "TierZoo",
+      "description": "Hi everyone, welcome to TierZoo, the web show which seeks to analyze the meta to determine the best current builds. I talk about the special abilities and build strats of various prominent animal classes and show people things they may have overlooked when specing their character.\n\n\nOkay but actually my goal is to get gamers interested in zoology, since there's a ton of amazing aspects of life on Earth that go underappreciated. Evolution has produced some bizarre traits, strategies, and life cycles that I feel need to be given the spotlight once in a while.  I don't shy away from keeping the brutal with the beautiful, so if you're new to my content, be warned. Expect two videos per month. The good thing about my topic is that there's potentially limitless content and I'm more than willing to provide it. Hit me up with all of your suggestions! I've gotten some amazing ones so far.",
+      "customUrl": "tierzoo",
+      "publishedAt": "2017-07-01T16:25:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThmTXOKDadpRSi0QuGdUmmiauDyj0Un1QsOcWm=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThmTXOKDadpRSi0QuGdUmmiauDyj0Un1QsOcWm=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThmTXOKDadpRSi0QuGdUmmiauDyj0Un1QsOcWm=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TierZoo",
+        "description": "Hi everyone, welcome to TierZoo, the web show which seeks to analyze the meta to determine the best current builds. I talk about the special abilities and build strats of various prominent animal classes and show people things they may have overlooked when specing their character.\n\n\nOkay but actually my goal is to get gamers interested in zoology, since there's a ton of amazing aspects of life on Earth that go underappreciated. Evolution has produced some bizarre traits, strategies, and life cycles that I feel need to be given the spotlight once in a while.  I don't shy away from keeping the brutal with the beautiful, so if you're new to my content, be warned. Expect two videos per month. The good thing about my topic is that there's potentially limitless content and I'm more than willing to provide it. Hit me up with all of your suggestions! I've gotten some amazing ones so far."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHsRtomD4twRf5WVHHk-cMw"
+      }
+    },
+    "statistics": {
+      "viewCount": "272210379",
+      "subscriberCount": "2930000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "73"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TierZoo",
+        "description": "Hi everyone, welcome to TierZoo, the web show which seeks to analyze the meta to determine the best current builds. I talk about the special abilities and build strats of various prominent animal classes and show people things they may have overlooked when specing their character.\n\n\nOkay but actually my goal is to get gamers interested in zoology, since there's a ton of amazing aspects of life on Earth that go underappreciated. Evolution has produced some bizarre traits, strategies, and life cycles that I feel need to be given the spotlight once in a while.  I don't shy away from keeping the brutal with the beautiful, so if you're new to my content, be warned. Expect two videos per month. The good thing about my topic is that there's potentially limitless content and I'm more than willing to provide it. Hit me up with all of your suggestions! I've gotten some amazing ones so far.",
+        "keywords": "\"Tier List\" Biology Zoology Entomology Science gaming r/outside outside",
+        "moderateComments": true,
+        "unsubscribedTrailer": "my0IMLg1l1c",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Il7EHMd3uYFxRXJ8M08u34SGHPUS82VieDDPvl6VjXFopSXXT8jAq3Kbkeg9T1cTszup4LJG"
+      }
+    }
+  }
+}

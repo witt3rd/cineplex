@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCkhnqwH8DtT0Ap3A-mi_GJQ",
+  "retrieved_on": "2021-12-05 03:47:40.292874",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Oe86cg5paZWGv5-RyA20PFDxnx0",
+    "id": "UCkhnqwH8DtT0Ap3A-mi_GJQ",
+    "snippet": {
+      "title": "The Midnight - Topic",
+      "description": "The Midnight is a synthwave band composed of Atlanta-based singer-songwriter Tyler Lyle and Los Angeles-based Danish-born producer, songwriter, and singer Tim McEwan.\nThe band was formed as a result of Lyle and McEwan meeting during a co-writing workshop in 2012 in North Hollywood, CA. Inspired in part by the score for Drive, and the retro synth genre growing around its release, the pair wrote two singles, \"WeMoveForward\" and \"Gloria\", that would be released two years later in 2014 as part of their debut EP titled Days of Thunder. In 2016, the duo released a 12 track LP, Endless Summer, followed in 2017 with the release of Nocturnal, which spent several weeks as a best seller on the music distribution website Bandcamp and reached number 17 on Billboard's Dance/Electronic charts October 2017. The band went on to perform their second sell-out concert, taking place at the Globe Theatre on Broadway in Los Angeles in November 2017.\nThe band had multiple collaborations with Timecop1983, another retro synth genre producer. One of the collaborations appears on the album Nocturnal, titled \"River of Darkness\".",
+      "publishedAt": "2018-01-28T12:42:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSQm94pDYcPJY-cVnnNMXiPEurJolM04rMN2ugiiA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSQm94pDYcPJY-cVnnNMXiPEurJolM04rMN2ugiiA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSQm94pDYcPJY-cVnnNMXiPEurJolM04rMN2ugiiA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Midnight - Topic",
+        "description": "The Midnight is a synthwave band composed of Atlanta-based singer-songwriter Tyler Lyle and Los Angeles-based Danish-born producer, songwriter, and singer Tim McEwan.\nThe band was formed as a result of Lyle and McEwan meeting during a co-writing workshop in 2012 in North Hollywood, CA. Inspired in part by the score for Drive, and the retro synth genre growing around its release, the pair wrote two singles, \"WeMoveForward\" and \"Gloria\", that would be released two years later in 2014 as part of their debut EP titled Days of Thunder. In 2016, the duo released a 12 track LP, Endless Summer, followed in 2017 with the release of Nocturnal, which spent several weeks as a best seller on the music distribution website Bandcamp and reached number 17 on Billboard's Dance/Electronic charts October 2017. The band went on to perform their second sell-out concert, taking place at the Globe Theatre on Broadway in Los Angeles in November 2017.\nThe band had multiple collaborations with Timecop1983, another retro synth genre producer. One of the collaborations appears on the album Nocturnal, titled \"River of Darkness\"."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkhnqwH8DtT0Ap3A-mi_GJQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "46320973",
+      "subscriberCount": "569",
+      "hiddenSubscriberCount": false,
+      "videoCount": "251"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Midnight - Topic",
+        "description": "The Midnight is a synthwave band composed of Atlanta-based singer-songwriter Tyler Lyle and Los Angeles-based Danish-born producer, songwriter, and singer Tim McEwan.\nThe band was formed as a result of Lyle and McEwan meeting during a co-writing workshop in 2012 in North Hollywood, CA. Inspired in part by the score for Drive, and the retro synth genre growing around its release, the pair wrote two singles, \"WeMoveForward\" and \"Gloria\", that would be released two years later in 2014 as part of their debut EP titled Days of Thunder. In 2016, the duo released a 12 track LP, Endless Summer, followed in 2017 with the release of Nocturnal, which spent several weeks as a best seller on the music distribution website Bandcamp and reached number 17 on Billboard's Dance/Electronic charts October 2017. The band went on to perform their second sell-out concert, taking place at the Globe Theatre on Broadway in Los Angeles in November 2017.\nThe band had multiple collaborations with Timecop1983, another retro synth genre producer. One of the collaborations appears on the album Nocturnal, titled \"River of Darkness\"."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/VLtYUFwWgX2UkcVxjtN6hTcT284lhEt_zmvF_0HgpqXermKUceqXRis-4HGI9PR6BsVceXY8Dw"
+      }
+    }
+  }
+}

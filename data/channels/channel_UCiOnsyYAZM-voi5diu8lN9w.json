@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCiOnsyYAZM-voi5diu8lN9w",
+  "retrieved_on": "2021-12-05 03:47:33.852053",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YOOYR7854uDk3Dn7ZRY9TbbxfgU",
+    "id": "UCiOnsyYAZM-voi5diu8lN9w",
+    "snippet": {
+      "title": "J\u00falio Hoffimann",
+      "description": "",
+      "customUrl": "juliohoffimann",
+      "publishedAt": "2011-10-01T18:15:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfN6fWs9j9eOQEy5nJU1iXD6kYZDaaNrf7pJCnvw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfN6fWs9j9eOQEy5nJU1iXD6kYZDaaNrf7pJCnvw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRfN6fWs9j9eOQEy5nJU1iXD6kYZDaaNrf7pJCnvw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "J\u00falio Hoffimann",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUiOnsyYAZM-voi5diu8lN9w"
+      }
+    },
+    "statistics": {
+      "viewCount": "6059",
+      "subscriberCount": "268",
+      "hiddenSubscriberCount": false,
+      "videoCount": "6"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "J\u00falio Hoffimann",
+        "keywords": "research opensource technology"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/f5iDE87qO8rh7Y0mNoX4JWVhe0QuKwYcCfup6yIv9--DhK8Cv0_FQyaENyAtmBABONuY1bwu"
+      }
+    }
+  }
+}

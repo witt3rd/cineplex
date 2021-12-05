@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC5e__RG9K3cHrPotPABnrwg",
+  "retrieved_on": "2021-12-05 03:47:33.604541",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Ddldnb3Z25Itzqrz8cMxuNSQ3B4",
+    "id": "UC5e__RG9K3cHrPotPABnrwg",
+    "snippet": {
+      "title": "CppNow",
+      "description": "",
+      "publishedAt": "2012-05-31T03:48:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCB3WugOrutGhraaruv6-XAYyYwRk-YBZeZ0UZ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCB3WugOrutGhraaruv6-XAYyYwRk-YBZeZ0UZ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQCB3WugOrutGhraaruv6-XAYyYwRk-YBZeZ0UZ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CppNow",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5e__RG9K3cHrPotPABnrwg"
+      }
+    },
+    "statistics": {
+      "viewCount": "2156651",
+      "subscriberCount": "19500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "561"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CppNow",
+        "keywords": "C++ Boost",
+        "unsubscribedTrailer": "PMBGscQZdqk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/VjXCb8ZKThFGRXcbzoSLn_DcripD87-A8laaDH_qDL5FOu6W-pAL5VCkyYkTnzd7io77-V2Q45s"
+      }
+    }
+  }
+}

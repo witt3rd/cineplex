@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCgIUDNIV5meCgHvKx_pKxnQ",
+  "retrieved_on": "2021-12-05 03:47:30.436688",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "RzJNoSn3u0oh33Ompn8vXkIWd_k",
+    "id": "UCgIUDNIV5meCgHvKx_pKxnQ",
+    "snippet": {
+      "title": "Llumen - Topic",
+      "description": "",
+      "publishedAt": "2013-12-13T21:54:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/y1tKKjtGHbafLCBTOR4oAflIC_uMPuXhE5VnIxQQRP1FGG0O_LULWaTe-NsV67Vw1VUQm-2jVA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/y1tKKjtGHbafLCBTOR4oAflIC_uMPuXhE5VnIxQQRP1FGG0O_LULWaTe-NsV67Vw1VUQm-2jVA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/y1tKKjtGHbafLCBTOR4oAflIC_uMPuXhE5VnIxQQRP1FGG0O_LULWaTe-NsV67Vw1VUQm-2jVA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Llumen - Topic",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgIUDNIV5meCgHvKx_pKxnQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "13656",
+      "subscriberCount": "82",
+      "hiddenSubscriberCount": false,
+      "videoCount": "79"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Llumen - Topic"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/cU20lrf8h9kRTKyFi7n7aEsS3GFHi4TfhI7lTlbsuRpItxhD1622MUV5TraSJFMm0OEQhDxga6c"
+      }
+    }
+  }
+}

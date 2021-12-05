@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCl2-xqsSAT3Q6YZw8gyuiYw",
+  "retrieved_on": "2021-12-05 03:47:31.215461",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "CV5LRmDsMBvjNBuUW1nfJNI47bA",
+    "id": "UCl2-xqsSAT3Q6YZw8gyuiYw",
+    "snippet": {
+      "title": "The Rippingtons - Topic",
+      "description": "The Rippingtons are an American contemporary jazz group, mainly relating to the genres smooth jazz, jazz fusion, jazz pop, and crossover jazz. Formed in 1985 by guitarist and band leader Russ Freeman, their career has spanned more than three decades. With a revolving door of musicians, Freeman has been the only consistent member.\nMany of their songs have been played during The Weather Channel's Local on the 8s forecast segments. The band's mascot is a grinning, sunglasses-wearing, jazz cat which appears in the artwork of all the band's releases and on their official website.",
+      "publishedAt": "2013-07-20T02:06:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/OUhg9FE4AdhaYAQH8RR7C-yOOQHtVut2OYsVnTFN_-Jp-eaT6ShQ2vk71lzO65bFGgN_E3cE=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/OUhg9FE4AdhaYAQH8RR7C-yOOQHtVut2OYsVnTFN_-Jp-eaT6ShQ2vk71lzO65bFGgN_E3cE=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/OUhg9FE4AdhaYAQH8RR7C-yOOQHtVut2OYsVnTFN_-Jp-eaT6ShQ2vk71lzO65bFGgN_E3cE=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Rippingtons - Topic",
+        "description": "The Rippingtons are an American contemporary jazz group, mainly relating to the genres smooth jazz, jazz fusion, jazz pop, and crossover jazz. Formed in 1985 by guitarist and band leader Russ Freeman, their career has spanned more than three decades. With a revolving door of musicians, Freeman has been the only consistent member.\nMany of their songs have been played during The Weather Channel's Local on the 8s forecast segments. The band's mascot is a grinning, sunglasses-wearing, jazz cat which appears in the artwork of all the band's releases and on their official website."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUl2-xqsSAT3Q6YZw8gyuiYw"
+      }
+    },
+    "statistics": {
+      "viewCount": "5198189",
+      "subscriberCount": "5630",
+      "hiddenSubscriberCount": false,
+      "videoCount": "308"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Rippingtons - Topic",
+        "description": "The Rippingtons are an American contemporary jazz group, mainly relating to the genres smooth jazz, jazz fusion, jazz pop, and crossover jazz. Formed in 1985 by guitarist and band leader Russ Freeman, their career has spanned more than three decades. With a revolving door of musicians, Freeman has been the only consistent member.\nMany of their songs have been played during The Weather Channel's Local on the 8s forecast segments. The band's mascot is a grinning, sunglasses-wearing, jazz cat which appears in the artwork of all the band's releases and on their official website."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/knsdr-6X3UoWX5nCqm6PRywzs_vyFln6_dV3jDxVgILJpW4rE6WikWpN5QMeS_J2Lg7tTxmt"
+      }
+    }
+  }
+}

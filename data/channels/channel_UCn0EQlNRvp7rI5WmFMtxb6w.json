@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCn0EQlNRvp7rI5WmFMtxb6w",
+  "retrieved_on": "2021-12-05 03:47:40.292796",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "z0CYErWhWCJWiB0S8KZn1RH_6K0",
+    "id": "UCn0EQlNRvp7rI5WmFMtxb6w",
+    "snippet": {
+      "title": "AddWise",
+      "description": "",
+      "publishedAt": "2021-03-08T13:55:50.958744Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lJyqEiw5mHVqkEYEKejOH-zAULrJOW-7cnYQCjrpA6FK2GzVIXlmlTxxcMTOjx-AFzBpiOQ8Ars=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lJyqEiw5mHVqkEYEKejOH-zAULrJOW-7cnYQCjrpA6FK2GzVIXlmlTxxcMTOjx-AFzBpiOQ8Ars=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lJyqEiw5mHVqkEYEKejOH-zAULrJOW-7cnYQCjrpA6FK2GzVIXlmlTxxcMTOjx-AFzBpiOQ8Ars=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AddWise",
+        "description": ""
+      },
+      "country": "UA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUn0EQlNRvp7rI5WmFMtxb6w"
+      }
+    },
+    "statistics": {
+      "viewCount": "35675",
+      "subscriberCount": "361",
+      "hiddenSubscriberCount": false,
+      "videoCount": "4"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "AddWise",
+        "country": "UA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/roUXU9XVafa19QcEWXnggzYlQ-ZgpkBVtBEjAleqxn_TJcrnf6K4ErzUI48olAkm784LLFi73A"
+      }
+    }
+  }
+}

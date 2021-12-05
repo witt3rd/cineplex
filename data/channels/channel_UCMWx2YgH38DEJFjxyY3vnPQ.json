@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCMWx2YgH38DEJFjxyY3vnPQ",
+  "retrieved_on": "2021-12-05 03:47:37.030664",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "cgNC6UBJum2zOc4-2Iq5ADcQ10c",
+    "id": "UCMWx2YgH38DEJFjxyY3vnPQ",
+    "snippet": {
+      "title": "The Angry Hippie",
+      "description": "This channel is NOT monetized. This channel is meant to be a bridge between the complex nature of reality and the average person who is just beginning their journey of self-discovery. I have rendered complex philosophies, ideologies and sciences -- into bite sized formats, for anyone to understand and learn. The Species with Amnesia Series in particular, is a synthesis of many great minds -- who speak of the solutions to the current problem with the world -- combined into a singular voice that speaks to the viewer. \n\nI hope you enjoy.",
+      "customUrl": "theangryhippie",
+      "publishedAt": "2017-08-29T23:00:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjbv5mQxKTG-k5TWHKO_eUqsWbseqFidV-XO2BGA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjbv5mQxKTG-k5TWHKO_eUqsWbseqFidV-XO2BGA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjbv5mQxKTG-k5TWHKO_eUqsWbseqFidV-XO2BGA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Angry Hippie",
+        "description": "This channel is NOT monetized. This channel is meant to be a bridge between the complex nature of reality and the average person who is just beginning their journey of self-discovery. I have rendered complex philosophies, ideologies and sciences -- into bite sized formats, for anyone to understand and learn. The Species with Amnesia Series in particular, is a synthesis of many great minds -- who speak of the solutions to the current problem with the world -- combined into a singular voice that speaks to the viewer. \n\nI hope you enjoy."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMWx2YgH38DEJFjxyY3vnPQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1892697",
+      "subscriberCount": "25800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "65"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Angry Hippie",
+        "description": "This channel is NOT monetized. This channel is meant to be a bridge between the complex nature of reality and the average person who is just beginning their journey of self-discovery. I have rendered complex philosophies, ideologies and sciences -- into bite sized formats, for anyone to understand and learn. The Species with Amnesia Series in particular, is a synthesis of many great minds -- who speak of the solutions to the current problem with the world -- combined into a singular voice that speaks to the viewer. \n\nI hope you enjoy.",
+        "unsubscribedTrailer": "m1yPER3QBDw",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jFWtMwFfm3WccfLZyTqWi4_u14Ez2pSUtjxt6KQ87ZocDdndL8k7C2jxev8prTTxMlRrw3xEcA"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC4R1IsRVKs_qlWKTm9pT82Q",
+  "retrieved_on": "2021-12-05 03:47:38.478834",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Ca7CMpRugmS8rsY72uCdqVKoYxs",
+    "id": "UC4R1IsRVKs_qlWKTm9pT82Q",
+    "snippet": {
+      "title": "Institut des Hautes \u00c9tudes Scientifiques (IH\u00c9S)",
+      "description": "L'Institut des Hautes \u00c9tudes Scientifiques est un institut de recherche avanc\u00e9e en math\u00e9matiques, physique th\u00e9orique et toute autre science qui s'y rattache. \u00c9tablissement priv\u00e9, l'IHES est une fondation reconnue d'utilit\u00e9 publique depuis 1981.\nVous trouverez les vid\u00e9os des conf\u00e9rences scientifiques donn\u00e9es \u00e0 l'IHES \u00e0 partir de septembre 2013.\nEn attendant leur transfert vous pouvez retrouver les vid\u00e9os plus anciennes sur notre chaine Daily Motion",
+      "customUrl": "ihesfr",
+      "publishedAt": "2013-10-16T13:42:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRw3-VsPIFAf_RR8wWqUGkEsjsi0tT0R25wzqfQJQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRw3-VsPIFAf_RR8wWqUGkEsjsi0tT0R25wzqfQJQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRw3-VsPIFAf_RR8wWqUGkEsjsi0tT0R25wzqfQJQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Institut des Hautes \u00c9tudes Scientifiques (IH\u00c9S)",
+        "description": "L'Institut des Hautes \u00c9tudes Scientifiques est un institut de recherche avanc\u00e9e en math\u00e9matiques, physique th\u00e9orique et toute autre science qui s'y rattache. \u00c9tablissement priv\u00e9, l'IHES est une fondation reconnue d'utilit\u00e9 publique depuis 1981.\nVous trouverez les vid\u00e9os des conf\u00e9rences scientifiques donn\u00e9es \u00e0 l'IHES \u00e0 partir de septembre 2013.\nEn attendant leur transfert vous pouvez retrouver les vid\u00e9os plus anciennes sur notre chaine Daily Motion"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4R1IsRVKs_qlWKTm9pT82Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "6653887",
+      "subscriberCount": "46600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1374"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Institut des Hautes \u00c9tudes Scientifiques (IH\u00c9S)",
+        "description": "L'Institut des Hautes \u00c9tudes Scientifiques est un institut de recherche avanc\u00e9e en math\u00e9matiques, physique th\u00e9orique et toute autre science qui s'y rattache. \u00c9tablissement priv\u00e9, l'IHES est une fondation reconnue d'utilit\u00e9 publique depuis 1981.\nVous trouverez les vid\u00e9os des conf\u00e9rences scientifiques donn\u00e9es \u00e0 l'IHES \u00e0 partir de septembre 2013.\nEn attendant leur transfert vous pouvez retrouver les vid\u00e9os plus anciennes sur notre chaine Daily Motion",
+        "keywords": "IHES IH\u00c9S CARMIN RECHERCHE MATHEMATIQUES PHYSIQUE BIOLOGIE",
+        "unsubscribedTrailer": "rwoFdfIxUVA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/N0Z51gcLOR3PgQyihM7iLfsSvJEadnq29PfS3BhHJuWppVY46MMSiK-ldoEzKgY1z07wnjg9aw"
+      }
+    }
+  }
+}

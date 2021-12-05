@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCYVU6rModlGxvJbszCclGGw",
+  "retrieved_on": "2021-12-05 03:47:35.580947",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BrvDfpZjTcON1zdOuNGk_QbXf7w",
+    "id": "UCYVU6rModlGxvJbszCclGGw",
+    "snippet": {
+      "title": "Rob Braxman Tech",
+      "description": "I'm the Internet Privacy Guy.  I'm a public interest hacker and technologist. I use my extensive knowledge of cybersecurity and tech to serve the public good.  I care about privacy. I warn you of digital manipulation, disinformation, mass surveillance.\n\nI also discuss alternative communication modes especially with a prepper focus. I discuss HAM radio, SDR, QRP modes, Digital modes when running portable. I am a General Class licensed HAM radio operator. \n\nI'm a successful software architect and have built many enterprise systems. I also have an open-source social media app Brax.Me\n\n\nSupport me on Patreon! https://www.patreon.com/user?u=1785\nContact me on https://brax.me/home/rob (Secure/Open Source)\nXMPP: robbraxman@xmpp.brax.live\nGPG Public Key https://brax.me/f/rob_braxme_public.asc/T4AZ5eaa7ec492c0a3.25114964\nhttps://bytzvpn.com VPN with Cloud-Based TOR Routing\nhttps://whatthezuck.net",
+      "customUrl": "braxme",
+      "publishedAt": "2015-03-24T00:24:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6ddn1d-8ofKh4dP3GCwqJhIxcJNpPZuFGojqc8A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6ddn1d-8ofKh4dP3GCwqJhIxcJNpPZuFGojqc8A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6ddn1d-8ofKh4dP3GCwqJhIxcJNpPZuFGojqc8A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rob Braxman Tech",
+        "description": "I'm the Internet Privacy Guy.  I'm a public interest hacker and technologist. I use my extensive knowledge of cybersecurity and tech to serve the public good.  I care about privacy. I warn you of digital manipulation, disinformation, mass surveillance.\n\nI also discuss alternative communication modes especially with a prepper focus. I discuss HAM radio, SDR, QRP modes, Digital modes when running portable. I am a General Class licensed HAM radio operator. \n\nI'm a successful software architect and have built many enterprise systems. I also have an open-source social media app Brax.Me\n\n\nSupport me on Patreon! https://www.patreon.com/user?u=1785\nContact me on https://brax.me/home/rob (Secure/Open Source)\nXMPP: robbraxman@xmpp.brax.live\nGPG Public Key https://brax.me/f/rob_braxme_public.asc/T4AZ5eaa7ec492c0a3.25114964\nhttps://bytzvpn.com VPN with Cloud-Based TOR Routing\nhttps://whatthezuck.net"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYVU6rModlGxvJbszCclGGw"
+      }
+    },
+    "statistics": {
+      "viewCount": "14563594",
+      "subscriberCount": "350000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "483"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rob Braxman Tech",
+        "description": "I'm the Internet Privacy Guy.  I'm a public interest hacker and technologist. I use my extensive knowledge of cybersecurity and tech to serve the public good.  I care about privacy. I warn you of digital manipulation, disinformation, mass surveillance.\n\nI also discuss alternative communication modes especially with a prepper focus. I discuss HAM radio, SDR, QRP modes, Digital modes when running portable. I am a General Class licensed HAM radio operator. \n\nI'm a successful software architect and have built many enterprise systems. I also have an open-source social media app Brax.Me\n\n\nSupport me on Patreon! https://www.patreon.com/user?u=1785\nContact me on https://brax.me/home/rob (Secure/Open Source)\nXMPP: robbraxman@xmpp.brax.live\nGPG Public Key https://brax.me/f/rob_braxme_public.asc/T4AZ5eaa7ec492c0a3.25114964\nhttps://bytzvpn.com VPN with Cloud-Based TOR Routing\nhttps://whatthezuck.net",
+        "keywords": "\"Rob Braxman\" \"Internet Privacy\" \"data privacy regulation\" hacking doxing \"mass surveillance\" \"how to be anonymous on the internet\" \"zuck facebook\" zuckbook \"internet security\" \"security now\" spyware firewall antivirus tech technology \"prepper communications\" \"Ham radio\" hacker prepper \"public interest tech\" \"plublic interest technologist\" \"linux phones\" \"linux phone kill switches\" \"free open source software phones\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "vjX03tgAKpU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/tcZ5krwzFYqjen_zMjTGh1Vnf3fScTN_KTJDyNuQcmlPk2cGZcg8s1-2-ie3Vj3iy3SLLsrF"
+      }
+    }
+  }
+}

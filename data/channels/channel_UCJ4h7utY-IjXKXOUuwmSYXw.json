@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCJ4h7utY-IjXKXOUuwmSYXw",
+  "retrieved_on": "2021-12-05 03:47:35.288839",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "3e7do6CsLFwke-2ypn02CU2zTps",
+    "id": "UCJ4h7utY-IjXKXOUuwmSYXw",
+    "snippet": {
+      "title": "SpinSpire",
+      "description": "Focused on Svelte (SvelteJS 3), Sapper, React, NodeJS, Mongo, Drupal, PHP, SpinSpire is all about passion for professional software development. Based out of Florida (US), we believe that TEACHING IS THE BEST WAY OF LEARNING. Our love for teaching leads us to create trainings and tutorials. I hope you learn something useful from the videos on this channel. Channel managed by Jitesh Doshi and the SpinSpire team.",
+      "customUrl": "spinspire",
+      "publishedAt": "2015-05-01T22:10:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqhV-8IFIBCZnzrbtxOeN40yR_R4t0ZqOTG9su-A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqhV-8IFIBCZnzrbtxOeN40yR_R4t0ZqOTG9su-A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqhV-8IFIBCZnzrbtxOeN40yR_R4t0ZqOTG9su-A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SpinSpire",
+        "description": "Focused on Svelte (SvelteJS 3), Sapper, React, NodeJS, Mongo, Drupal, PHP, SpinSpire is all about passion for professional software development. Based out of Florida (US), we believe that TEACHING IS THE BEST WAY OF LEARNING. Our love for teaching leads us to create trainings and tutorials. I hope you learn something useful from the videos on this channel. Channel managed by Jitesh Doshi and the SpinSpire team."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJ4h7utY-IjXKXOUuwmSYXw"
+      }
+    },
+    "statistics": {
+      "viewCount": "116000",
+      "subscriberCount": "1110",
+      "hiddenSubscriberCount": false,
+      "videoCount": "61"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SpinSpire",
+        "description": "Focused on Svelte (SvelteJS 3), Sapper, React, NodeJS, Mongo, Drupal, PHP, SpinSpire is all about passion for professional software development. Based out of Florida (US), we believe that TEACHING IS THE BEST WAY OF LEARNING. Our love for teaching leads us to create trainings and tutorials. I hope you learn something useful from the videos on this channel. Channel managed by Jitesh Doshi and the SpinSpire team.",
+        "keywords": "Drupal \"internet programming\" \"web programming\" linux php mysql CMS NodeJS ReactJS SvelteJS Svelte",
+        "unsubscribedTrailer": "22NDadLKfzE",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/hiI811bzF5LP44SKEMW8otlX_EA2_XMCZbx-3n3bJlGApR98rxhlC8-1Wd246IPY5dgjjDVV8yc"
+      }
+    }
+  }
+}

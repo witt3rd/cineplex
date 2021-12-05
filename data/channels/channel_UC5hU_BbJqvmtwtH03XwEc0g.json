@@ -1,0 +1,56 @@
+{
+  "channel_id": "UC5hU_BbJqvmtwtH03XwEc0g",
+  "retrieved_on": "2021-12-05 03:47:29.852639",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "V9RCFPzy2kQK72M13V8K7_NRvGg",
+    "id": "UC5hU_BbJqvmtwtH03XwEc0g",
+    "snippet": {
+      "title": "Neikka RPM - Topic",
+      "description": "Neikka RPM is an electronic band from the United States, launched in 2001. Their work has been released under the Alfa Matrix label.",
+      "publishedAt": "2013-08-03T05:06:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3zE-l-VEbk6yl4gSW3mPYwhI6eJ0DsdQEdr5hOcL4MTCTO-d3Jm7A87YE1r9Z8egWeAMFIufdA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3zE-l-VEbk6yl4gSW3mPYwhI6eJ0DsdQEdr5hOcL4MTCTO-d3Jm7A87YE1r9Z8egWeAMFIufdA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3zE-l-VEbk6yl4gSW3mPYwhI6eJ0DsdQEdr5hOcL4MTCTO-d3Jm7A87YE1r9Z8egWeAMFIufdA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Neikka RPM - Topic",
+        "description": "Neikka RPM is an electronic band from the United States, launched in 2001. Their work has been released under the Alfa Matrix label."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5hU_BbJqvmtwtH03XwEc0g"
+      }
+    },
+    "statistics": {
+      "viewCount": "24391",
+      "subscriberCount": "139",
+      "hiddenSubscriberCount": false,
+      "videoCount": "118"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Neikka RPM - Topic",
+        "description": "Neikka RPM is an electronic band from the United States, launched in 2001. Their work has been released under the Alfa Matrix label."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Qb9T1v25ydLTQUAX8X-o2JGKQZrez7To7RgYjfqOft543U-YPE30gg6R8CdxKKJE3z4S8UAj1Q"
+      }
+    }
+  }
+}

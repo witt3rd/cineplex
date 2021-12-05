@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCk8sa4D-Wnymz-w7uVbjfzA",
+  "retrieved_on": "2021-12-05 03:47:37.250678",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "hhIHHajq7cvTRojwLVXUPgvh0SU",
+    "id": "UCk8sa4D-Wnymz-w7uVbjfzA",
+    "snippet": {
+      "title": "Relix",
+      "description": "The Relix Channel is a community of multi-faceted, open-minded, and creative connectors seeking out exciting, innovative performers. We foster the live music ommunity by connecting people who matter the most \u2014 fans. We are musicians, writers, photographers, music vets, and above all, music fan. We are a resource for the passionate and the ambitious, giving you unprecedented access to the people that make live music happen. Since our earliest inception, we have opened doors for the sonically curious and excelled as the voice of the live music community. Subscribe to our channel to receive notices and updates about livestreams, music videos, interviews, and more.",
+      "customUrl": "relixchannel",
+      "publishedAt": "2006-11-13T19:34:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO41j7obhXJbQK0rsGo4hqvBiqnK9M_591y_Dqng=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO41j7obhXJbQK0rsGo4hqvBiqnK9M_591y_Dqng=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO41j7obhXJbQK0rsGo4hqvBiqnK9M_591y_Dqng=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Relix",
+        "description": "The Relix Channel is a community of multi-faceted, open-minded, and creative connectors seeking out exciting, innovative performers. We foster the live music ommunity by connecting people who matter the most \u2014 fans. We are musicians, writers, photographers, music vets, and above all, music fan. We are a resource for the passionate and the ambitious, giving you unprecedented access to the people that make live music happen. Since our earliest inception, we have opened doors for the sonically curious and excelled as the voice of the live music community. Subscribe to our channel to receive notices and updates about livestreams, music videos, interviews, and more."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUk8sa4D-Wnymz-w7uVbjfzA"
+      }
+    },
+    "statistics": {
+      "viewCount": "29891886",
+      "subscriberCount": "97800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2287"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Relix",
+        "description": "The Relix Channel is a community of multi-faceted, open-minded, and creative connectors seeking out exciting, innovative performers. We foster the live music ommunity by connecting people who matter the most \u2014 fans. We are musicians, writers, photographers, music vets, and above all, music fan. We are a resource for the passionate and the ambitious, giving you unprecedented access to the people that make live music happen. Since our earliest inception, we have opened doors for the sonically curious and excelled as the voice of the live music community. Subscribe to our channel to receive notices and updates about livestreams, music videos, interviews, and more.",
+        "keywords": "relix \"relix magazine\" \"the relix channel\"",
+        "unsubscribedTrailer": "kvFsr8p5dY8",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/-rvGG9jENHN6hCz4jxFi6yPA0FT8B1UMzRDXy-IyOhcwITQiwPndjG9XObpuFXz5_fOdN-vf"
+      }
+    }
+  }
+}

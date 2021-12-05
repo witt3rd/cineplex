@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCvUeT3EQDB1eBzCV0X_Milw",
+  "retrieved_on": "2021-12-05 03:47:29.188869",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9_llg1FoznByoZjZe2oEbUwvKZo",
+    "id": "UCvUeT3EQDB1eBzCV0X_Milw",
+    "snippet": {
+      "title": "Ascento Robotics",
+      "description": "The vision of Ascento Robotics is to advance the development of wheeled bipedal robotic\nsystems, bringing them out of the lab to the real world. Our solution combines the best\nof two worlds: It uses the versatility of legs to overcome stairs and obstacles and it uses\nits wheels for a fast, energy- and cost-efficient locomotion. This makes our platform the\nideal mobile robot for real-world deployment for many applications.\n",
+      "customUrl": "ascentorobotics",
+      "publishedAt": "2017-10-17T16:45:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Pvx2U4pNEEwc9_l62cHz7EchMBM_pCKPxhdJ8Cl1D009RytO5pKGlj15-4fa33sm-KpdxdSmys=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Pvx2U4pNEEwc9_l62cHz7EchMBM_pCKPxhdJ8Cl1D009RytO5pKGlj15-4fa33sm-KpdxdSmys=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Pvx2U4pNEEwc9_l62cHz7EchMBM_pCKPxhdJ8Cl1D009RytO5pKGlj15-4fa33sm-KpdxdSmys=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ascento Robotics",
+        "description": "The vision of Ascento Robotics is to advance the development of wheeled bipedal robotic\nsystems, bringing them out of the lab to the real world. Our solution combines the best\nof two worlds: It uses the versatility of legs to overcome stairs and obstacles and it uses\nits wheels for a fast, energy- and cost-efficient locomotion. This makes our platform the\nideal mobile robot for real-world deployment for many applications.\n"
+      },
+      "country": "CH"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvUeT3EQDB1eBzCV0X_Milw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1283042",
+      "subscriberCount": "12100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ascento Robotics",
+        "description": "The vision of Ascento Robotics is to advance the development of wheeled bipedal robotic\nsystems, bringing them out of the lab to the real world. Our solution combines the best\nof two worlds: It uses the versatility of legs to overcome stairs and obstacles and it uses\nits wheels for a fast, energy- and cost-efficient locomotion. This makes our platform the\nideal mobile robot for real-world deployment for many applications.\n",
+        "unsubscribedTrailer": "1yvoZhRTX-U",
+        "country": "CH"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/VZKDMmqyKRwj7pPrDjMz57cJJloBw_4F3ACFUz8fiYFOK0-pWZThEMyG7YNKHde__JX8PS-opkk"
+      }
+    }
+  }
+}

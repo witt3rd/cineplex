@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCtz6NVOKxqeiCC_6Jpe9bhg",
+  "retrieved_on": "2021-12-05 03:47:32.034165",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "DzAH-ICLjj6UI6G9WVjs3qDKC0s",
+    "id": "UCtz6NVOKxqeiCC_6Jpe9bhg",
+    "snippet": {
+      "title": "Alison Morrow",
+      "description": "I quit my TV news career in 2019 after 12 years as a reporter. I have worked in Georgia, Tennessee, Florida and most recently Seattle where I was the Environmental Reporter for KING TV. I started my career as a booking producer for FOX & Friends on FOX News Channel. I decided producing wasn't for me and thought I wanted to be a psychologist, so I decided to go back to grad school. I obtained a Master of Divinity degree with a specialization in counseling from Boston University after which I planned to get a PhD in psychology. However, my preaching professor got me thinking about returning to news as a reporter. He told our class that we are all storytellers, and as such have the choice to use stories to move our communities forward or backward. I am the recipient of two Emmy awards as well as the Society of Professional Journalists Sigma Delta Chi award for Excellence in Journalism. I am married to a USMC veteran and a mom to a little girl, a pit bull and two horses.",
+      "customUrl": "alisonmorrow",
+      "publishedAt": "2013-11-24T23:40:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT_p6LMubk5S4oV768WKifnRQV9o_5b16raQBkwhA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT_p6LMubk5S4oV768WKifnRQV9o_5b16raQBkwhA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT_p6LMubk5S4oV768WKifnRQV9o_5b16raQBkwhA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Alison Morrow",
+        "description": "I quit my TV news career in 2019 after 12 years as a reporter. I have worked in Georgia, Tennessee, Florida and most recently Seattle where I was the Environmental Reporter for KING TV. I started my career as a booking producer for FOX & Friends on FOX News Channel. I decided producing wasn't for me and thought I wanted to be a psychologist, so I decided to go back to grad school. I obtained a Master of Divinity degree with a specialization in counseling from Boston University after which I planned to get a PhD in psychology. However, my preaching professor got me thinking about returning to news as a reporter. He told our class that we are all storytellers, and as such have the choice to use stories to move our communities forward or backward. I am the recipient of two Emmy awards as well as the Society of Professional Journalists Sigma Delta Chi award for Excellence in Journalism. I am married to a USMC veteran and a mom to a little girl, a pit bull and two horses."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtz6NVOKxqeiCC_6Jpe9bhg"
+      }
+    },
+    "statistics": {
+      "viewCount": "5800893",
+      "subscriberCount": "106000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "393"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Alison Morrow",
+        "description": "I quit my TV news career in 2019 after 12 years as a reporter. I have worked in Georgia, Tennessee, Florida and most recently Seattle where I was the Environmental Reporter for KING TV. I started my career as a booking producer for FOX & Friends on FOX News Channel. I decided producing wasn't for me and thought I wanted to be a psychologist, so I decided to go back to grad school. I obtained a Master of Divinity degree with a specialization in counseling from Boston University after which I planned to get a PhD in psychology. However, my preaching professor got me thinking about returning to news as a reporter. He told our class that we are all storytellers, and as such have the choice to use stories to move our communities forward or backward. I am the recipient of two Emmy awards as well as the Society of Professional Journalists Sigma Delta Chi award for Excellence in Journalism. I am married to a USMC veteran and a mom to a little girl, a pit bull and two horses.",
+        "keywords": "\"mainstream media\" \"media analysis\" \"mainstream news\" \"media bias\"",
+        "unsubscribedTrailer": "qbovhVfGt5M",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/FLCFH1nhp3tM883qepF3Z_ecU5N2zRY0LZL4gF3OR3E-585c90BSbkvpytdpMB2FwT3ZgB_y5w"
+      }
+    }
+  }
+}

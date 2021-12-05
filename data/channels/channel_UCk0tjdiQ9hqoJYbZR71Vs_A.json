@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCk0tjdiQ9hqoJYbZR71Vs_A",
+  "retrieved_on": "2021-12-05 03:47:28.057488",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "38UFGqm93lc-PQby14WOKjsyK5c",
+    "id": "UCk0tjdiQ9hqoJYbZR71Vs_A",
+    "snippet": {
+      "title": "Scott Hebert",
+      "description": "A wildman trying to live a good life and be a professional artist.\nBC, Canada\n",
+      "customUrl": "scotthebert604",
+      "publishedAt": "2015-06-13T14:26:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOtU5-njfcbW6qvf0Na90RyqqBe8u2njrTC0LQxQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOtU5-njfcbW6qvf0Na90RyqqBe8u2njrTC0LQxQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOtU5-njfcbW6qvf0Na90RyqqBe8u2njrTC0LQxQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Scott Hebert",
+        "description": "A wildman trying to live a good life and be a professional artist.\nBC, Canada\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUk0tjdiQ9hqoJYbZR71Vs_A"
+      }
+    },
+    "statistics": {
+      "viewCount": "1199844",
+      "subscriberCount": "17400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "33"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Scott Hebert",
+        "description": "A wildman trying to live a good life and be a professional artist.\nBC, Canada\n",
+        "keywords": "Entertainment experiment funny maker farm \"tiny house\"",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Inic3s9BtFQVo3WxrJOakeoyyJ81SkdKAKojoNxkbF1uq67VtuvoT_ywUl4NJoETswEvqxIi"
+      }
+    }
+  }
+}

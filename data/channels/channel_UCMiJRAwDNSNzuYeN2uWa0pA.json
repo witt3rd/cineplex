@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+  "retrieved_on": "2021-12-05 03:47:38.478962",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "CPqDI32blmlRHmiq5yfegL9aUhI",
+    "id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+    "snippet": {
+      "title": "Mrwhosetheboss",
+      "description": "My name is Arun Maini. I'm a 25 year old Economics student whose life's passion is Technology.  I try to make videos that are to-the-point and as content-packed as possible, so if that sounds like your cup of tea, a sub would be massively appreciated! \ud83d\ude4f\n\nYouTube Shorts Channel: https://youtube.com/MrwhosethebossShorts1\n\n\n",
+      "customUrl": "mrwhosetheboss",
+      "publishedAt": "2011-04-20T12:10:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuUSLSsLTqfVqbXW7dhQgkFEwSTF_VG2l4uD5CPA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuUSLSsLTqfVqbXW7dhQgkFEwSTF_VG2l4uD5CPA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuUSLSsLTqfVqbXW7dhQgkFEwSTF_VG2l4uD5CPA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mrwhosetheboss",
+        "description": "My name is Arun Maini. I'm a 25 year old Economics student whose life's passion is Technology.  I try to make videos that are to-the-point and as content-packed as possible, so if that sounds like your cup of tea, a sub would be massively appreciated! \ud83d\ude4f\n\nYouTube Shorts Channel: https://youtube.com/MrwhosethebossShorts1\n\n\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMiJRAwDNSNzuYeN2uWa0pA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1425101769",
+      "subscriberCount": "9230000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1394"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mrwhosetheboss",
+        "description": "My name is Arun Maini. I'm a 25 year old Economics student whose life's passion is Technology.  I try to make videos that are to-the-point and as content-packed as possible, so if that sounds like your cup of tea, a sub would be massively appreciated! \ud83d\ude4f\n\nYouTube Shorts Channel: https://youtube.com/MrwhosethebossShorts1\n\n\n",
+        "keywords": "Arun maini tech smartphones android iphone",
+        "unsubscribedTrailer": "suT82AdWfTU",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/tKm3rw44dCxgOeU324y6bRjP_DTvAZqyAW3MYQ49NvTxUm9z6o2bCTNU9M6MojaWzsnAAhQt"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCWpjX-z6_oNZhcHPzAAQy6g",
+  "retrieved_on": "2021-12-05 03:47:37.030714",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fAberzFzBey-lFqU2CRMUj1cgFQ",
+    "id": "UCWpjX-z6_oNZhcHPzAAQy6g",
+    "snippet": {
+      "title": "Sergei Winitzki",
+      "description": "Advanced technical presentations about software engineering, in particular functional programming in Scala.",
+      "publishedAt": "2011-10-08T19:13:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-7NVrVu0g0T2SvujcvEfsYwE_zhNI_wPGkDA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-7NVrVu0g0T2SvujcvEfsYwE_zhNI_wPGkDA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ-7NVrVu0g0T2SvujcvEfsYwE_zhNI_wPGkDA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sergei Winitzki",
+        "description": "Advanced technical presentations about software engineering, in particular functional programming in Scala."
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUWpjX-z6_oNZhcHPzAAQy6g"
+      }
+    },
+    "statistics": {
+      "viewCount": "68848",
+      "subscriberCount": "946",
+      "hiddenSubscriberCount": false,
+      "videoCount": "86"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sergei Winitzki",
+        "description": "Advanced technical presentations about software engineering, in particular functional programming in Scala.",
+        "country": "DE"
+      }
+    }
+  }
+}

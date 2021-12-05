@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCDG4jVD88QEjB8UKLYZKiNA",
+  "retrieved_on": "2021-12-05 03:47:33.306625",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "x1oiyODzbPtCn1CJI-NTwgASrz8",
+    "id": "UCDG4jVD88QEjB8UKLYZKiNA",
+    "snippet": {
+      "title": "Jfokus",
+      "description": "Jfokus is all about developers! Check out the conference: http://jfokus.com",
+      "customUrl": "jfokustheconference",
+      "publishedAt": "2008-05-09T03:22:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQoYw8okAqKP02CVRDI3d3BLLyjGYVIoxZJg-Na=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQoYw8okAqKP02CVRDI3d3BLLyjGYVIoxZJg-Na=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQoYw8okAqKP02CVRDI3d3BLLyjGYVIoxZJg-Na=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Jfokus",
+        "description": "Jfokus is all about developers! Check out the conference: http://jfokus.com"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDG4jVD88QEjB8UKLYZKiNA"
+      }
+    },
+    "statistics": {
+      "viewCount": "613590",
+      "subscriberCount": "6150",
+      "hiddenSubscriberCount": false,
+      "videoCount": "374"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jfokus",
+        "description": "Jfokus is all about developers! Check out the conference: http://jfokus.com",
+        "unsubscribedTrailer": "w7OMia47k7I"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/S15Dwt_xyEIPvXxMeItEX3uU5eISBDyqUFlWiqdTMRksAVGLx0OZmJeI5JOw--wJX6uHkz_t1Q"
+      }
+    }
+  }
+}

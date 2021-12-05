@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCb8Rde3uRL1ohROUVg46h1A",
+  "retrieved_on": "2021-12-05 03:47:30.960861",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xKZsDxJBkEnGFPB7DqMpqJgm6H8",
+    "id": "UCb8Rde3uRL1ohROUVg46h1A",
+    "snippet": {
+      "title": "Thomas Sanladerer",
+      "description": "Everything about 3D Printing and Making! Build guides, tutorials, tips and reviews around the new generation of consumer and prosumer 3D printers (and more)!\n\nComments are moderated, offensive content, racism and blatant self-promotion will be removed.\n\nLicensing: All Videos are (c) Thomas Sanladerer, all rights reserved, unless otherwise noted.\n\nFor any video, you may:\n- Embed them in your Website using the YouTube player. Attribution is mandatory, and it should not be embedded in a way that disables features of the YouTube player or suggests anyone else but this channel is the original author of the video.\n- Show/display/\"perform\" any of my videos, publicly or privately. The same conditions regarding attribution apply.\n\nIf you want to use any of my content in a different way, send me a message and we can work something out!",
+      "publishedAt": "2013-06-14T18:11:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQoNHmsYkEbQcwXOTCLqbXiTy54-YvsvIeXOLlSzA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQoNHmsYkEbQcwXOTCLqbXiTy54-YvsvIeXOLlSzA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQoNHmsYkEbQcwXOTCLqbXiTy54-YvsvIeXOLlSzA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Thomas Sanladerer",
+        "description": "Everything about 3D Printing and Making! Build guides, tutorials, tips and reviews around the new generation of consumer and prosumer 3D printers (and more)!\n\nComments are moderated, offensive content, racism and blatant self-promotion will be removed.\n\nLicensing: All Videos are (c) Thomas Sanladerer, all rights reserved, unless otherwise noted.\n\nFor any video, you may:\n- Embed them in your Website using the YouTube player. Attribution is mandatory, and it should not be embedded in a way that disables features of the YouTube player or suggests anyone else but this channel is the original author of the video.\n- Show/display/\"perform\" any of my videos, publicly or privately. The same conditions regarding attribution apply.\n\nIf you want to use any of my content in a different way, send me a message and we can work something out!"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUb8Rde3uRL1ohROUVg46h1A"
+      }
+    },
+    "statistics": {
+      "viewCount": "59758823",
+      "subscriberCount": "386000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "490"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Thomas Sanladerer",
+        "description": "Everything about 3D Printing and Making! Build guides, tutorials, tips and reviews around the new generation of consumer and prosumer 3D printers (and more)!\n\nComments are moderated, offensive content, racism and blatant self-promotion will be removed.\n\nLicensing: All Videos are (c) Thomas Sanladerer, all rights reserved, unless otherwise noted.\n\nFor any video, you may:\n- Embed them in your Website using the YouTube player. Attribution is mandatory, and it should not be embedded in a way that disables features of the YouTube player or suggests anyone else but this channel is the original author of the video.\n- Show/display/\"perform\" any of my videos, publicly or privately. The same conditions regarding attribution apply.\n\nIf you want to use any of my content in a different way, send me a message and we can work something out!",
+        "keywords": "\"3D Printing\" Maker DIY Reviews",
+        "moderateComments": true,
+        "unsubscribedTrailer": "nb-Bzf4nQdE",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/MkZUu_JL4YN-1Cci_fwym1uKIb84kY85ejBJajcbvf7zrVJCaBW6IPwewGpC8SymXgH_gS3WLKY"
+      }
+    }
+  }
+}

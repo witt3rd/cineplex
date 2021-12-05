@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCvWVmY44sIcS2Ue3MHKFcAA",
+  "retrieved_on": "2021-12-05 03:47:35.055071",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "eqBarDYWLKK-7vqUR8Wva9tU1VE",
+    "id": "UCvWVmY44sIcS2Ue3MHKFcAA",
+    "snippet": {
+      "title": "The 3D Guy",
+      "description": "Hey everyone. Are you tired of SolidWorks and Fusion360 tutorials that are way too long and could serve you better if they just cut to the chase and told you where x-feature is? Well I am hoping to tackle that problem by making a whole ton of really short video tutorials explaining the ins and outs of individual features in SolidWorks, Fusion 360 and maybe a few more programs along the way. \n\nIf your aren't interested in doing the actual modeling, but are interested in 3D printing and other prototyping methods, you're in luck. I will also be focusing on different ways to prototype ideas with 3D printers and a number or other tools.\n\nWelcome to my channel,\nThe 3D Guy  \n",
+      "publishedAt": "2020-06-02T21:58:58.563902Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTBk92axj_7lvubZsB3PS6WlQ-Z7t87AjG9AXsG=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTBk92axj_7lvubZsB3PS6WlQ-Z7t87AjG9AXsG=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTBk92axj_7lvubZsB3PS6WlQ-Z7t87AjG9AXsG=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The 3D Guy",
+        "description": "Hey everyone. Are you tired of SolidWorks and Fusion360 tutorials that are way too long and could serve you better if they just cut to the chase and told you where x-feature is? Well I am hoping to tackle that problem by making a whole ton of really short video tutorials explaining the ins and outs of individual features in SolidWorks, Fusion 360 and maybe a few more programs along the way. \n\nIf your aren't interested in doing the actual modeling, but are interested in 3D printing and other prototyping methods, you're in luck. I will also be focusing on different ways to prototype ideas with 3D printers and a number or other tools.\n\nWelcome to my channel,\nThe 3D Guy  \n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvWVmY44sIcS2Ue3MHKFcAA"
+      }
+    },
+    "statistics": {
+      "viewCount": "32516",
+      "subscriberCount": "438",
+      "hiddenSubscriberCount": false,
+      "videoCount": "72"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The 3D Guy",
+        "description": "Hey everyone. Are you tired of SolidWorks and Fusion360 tutorials that are way too long and could serve you better if they just cut to the chase and told you where x-feature is? Well I am hoping to tackle that problem by making a whole ton of really short video tutorials explaining the ins and outs of individual features in SolidWorks, Fusion 360 and maybe a few more programs along the way. \n\nIf your aren't interested in doing the actual modeling, but are interested in 3D printing and other prototyping methods, you're in luck. I will also be focusing on different ways to prototype ideas with 3D printers and a number or other tools.\n\nWelcome to my channel,\nThe 3D Guy  \n",
+        "keywords": "\"3d Modeling\" \"Fusion 360\" SolidWorks \"3D Printing\" Prototyping tutorial \"Fusion 360 Tutorial\" \"SolidWorks Tutorial\" \"3d printing tutorial\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/05URf3yZJPaxr1FSnxARmm6V543zgs_SAdfsFFPahiuNXVvhutHuEd-F9dBzoj6aQi9AHh2m"
+      }
+    }
+  }
+}

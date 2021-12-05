@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCUddl_zx5SHrn4csHj_r4xQ",
+  "retrieved_on": "2021-12-05 03:47:35.055095",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fuCwFr9rPx2oQfvPYq5tkFoTmPc",
+    "id": "UCUddl_zx5SHrn4csHj_r4xQ",
+    "snippet": {
+      "title": "Sergio Abreu",
+      "description": "I'm supposed to talk about videogames, supposedly about the ones I make.",
+      "customUrl": "sergioabreug",
+      "publishedAt": "2020-07-01T11:27:21.834726Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQT4XXRFx9Zwt1FWpgLcsguVfGeegcrH4GwpRL34A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQT4XXRFx9Zwt1FWpgLcsguVfGeegcrH4GwpRL34A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQT4XXRFx9Zwt1FWpgLcsguVfGeegcrH4GwpRL34A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sergio Abreu",
+        "description": "I'm supposed to talk about videogames, supposedly about the ones I make."
+      },
+      "country": "ES"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUddl_zx5SHrn4csHj_r4xQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "53426",
+      "subscriberCount": "623",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sergio Abreu",
+        "description": "I'm supposed to talk about videogames, supposedly about the ones I make.",
+        "keywords": "sergio abreu \"sergio abreu\" ai \"artificial intelligence\" agi \"artificial general intelligence\" software code gamedev videogames programming \"software development\" development \"game development\" unity godot \"artificial movement\" science future \"machine learning\" \"neural nets\" \"neural net\" bitcoin tech technology \"future technologies\" \"future tech\" \"future technology\" \"sergio abreu garcia\" \"computer science\" computer computers engineer engineering \"game design\" \"game essays\" cryptocurrency cryptocurrencies bitcoin ethereum robot robots \"human intelligence\"",
+        "unsubscribedTrailer": "pXQCasmBhY4",
+        "country": "ES"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/_EX4rqtCZMOVG08wHXhbeQaw7Xv0onC1_EMN81DJZBLW-iMZEvrwlW5OktpAf8I5SgYgb5FfWg"
+      }
+    }
+  }
+}

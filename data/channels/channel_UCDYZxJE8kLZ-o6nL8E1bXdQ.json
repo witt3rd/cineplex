@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCDYZxJE8kLZ-o6nL8E1bXdQ",
+  "retrieved_on": "2021-12-05 03:47:36.348975",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lCSSA-ytEzZaIUtRL7azABNCT7c",
+    "id": "UCDYZxJE8kLZ-o6nL8E1bXdQ",
+    "snippet": {
+      "title": "Many A True Nerd",
+      "description": "Welcome to Many A True Nerd! We play games! Everything from Fallout to roguelikes, 4X Strategy to dating simulators, brand new AAA releases to an indie magnum opus, and everything in between.\n\nMATN is brought to you by Jon, with occasional help from Claire and a few others, and we love keeping in touch on Twitter or Discord.\n\nFor business enquiries, please email manyatruenerd@gmail.com.",
+      "customUrl": "manyatruenerd",
+      "publishedAt": "2013-05-09T21:21:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-C2BEgeo6qpu0e11l0tau_wk5N4-zigY3zdonTA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-C2BEgeo6qpu0e11l0tau_wk5N4-zigY3zdonTA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR-C2BEgeo6qpu0e11l0tau_wk5N4-zigY3zdonTA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Many A True Nerd",
+        "description": "Welcome to Many A True Nerd! We play games! Everything from Fallout to roguelikes, 4X Strategy to dating simulators, brand new AAA releases to an indie magnum opus, and everything in between.\n\nMATN is brought to you by Jon, with occasional help from Claire and a few others, and we love keeping in touch on Twitter or Discord.\n\nFor business enquiries, please email manyatruenerd@gmail.com."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDYZxJE8kLZ-o6nL8E1bXdQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "318107607",
+      "subscriberCount": "532000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3678"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Many A True Nerd",
+        "description": "Welcome to Many A True Nerd! We play games! Everything from Fallout to roguelikes, 4X Strategy to dating simulators, brand new AAA releases to an indie magnum opus, and everything in between.\n\nMATN is brought to you by Jon, with occasional help from Claire and a few others, and we love keeping in touch on Twitter or Discord.\n\nFor business enquiries, please email manyatruenerd@gmail.com.",
+        "keywords": "gaming games \"video games\" fallout \"let's play\" \"fallout 3\" \"fallout new vegas\" gameplay walkthrough",
+        "unsubscribedTrailer": "iYLq6n5J1-A"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/h5Iu6zZH5dlZszynRP4jfwJJvPNIeEomFVCzRZThItXWvI3Lb_H2k2GFVLqxgr4q0lJNzX1q"
+      }
+    }
+  }
+}

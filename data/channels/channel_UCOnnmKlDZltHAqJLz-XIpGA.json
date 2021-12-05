@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCOnnmKlDZltHAqJLz-XIpGA",
+  "retrieved_on": "2021-12-05 03:47:40.531385",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "dLskS1WP5XvNdsYKmH9koH9oBoc",
+    "id": "UCOnnmKlDZltHAqJLz-XIpGA",
+    "snippet": {
+      "title": "Universe Inside You",
+      "description": "",
+      "customUrl": "universeinsideyou",
+      "publishedAt": "2017-03-30T10:55:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQT6BT1N5pwCV_VYIlLJrFi204s1e6m2oQkt28W-g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQT6BT1N5pwCV_VYIlLJrFi204s1e6m2oQkt28W-g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQT6BT1N5pwCV_VYIlLJrFi204s1e6m2oQkt28W-g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Universe Inside You",
+        "description": ""
+      },
+      "country": "BG"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOnnmKlDZltHAqJLz-XIpGA"
+      }
+    },
+    "statistics": {
+      "viewCount": "87904293",
+      "subscriberCount": "1630000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "85"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Universe Inside You",
+        "keywords": "\"ancient civilizations\" \"ancient mysteries\" \"ancient history\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "gNHjxiedoww",
+        "defaultLanguage": "en",
+        "country": "BG"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/n7pBgRisovWFw8lWShnrUtZRxpbfUkGFvaUIrn4gO06vP4-nI5REaLsiFx9H0UhVj0N4UYzh"
+      }
+    }
+  }
+}

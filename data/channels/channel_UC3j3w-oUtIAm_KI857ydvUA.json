@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC3j3w-oUtIAm_KI857ydvUA",
+  "retrieved_on": "2021-12-05 03:47:32.314683",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rbVp4KIejQYPqB8oGuyG96Wyl-o",
+    "id": "UC3j3w-oUtIAm_KI857ydvUA",
+    "snippet": {
+      "title": "Thoisoi2 - Chemical Experiments!",
+      "description": "On this channel you will find some interesting chemical reactions and many amazing stuff!",
+      "customUrl": "thoisoi2",
+      "publishedAt": "2014-01-18T15:40:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTmgjPrqfVNiyckcTFTa-YO32xeyvY2A_g1f2El2A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTmgjPrqfVNiyckcTFTa-YO32xeyvY2A_g1f2El2A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTmgjPrqfVNiyckcTFTa-YO32xeyvY2A_g1f2El2A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Thoisoi2 - Chemical Experiments!",
+        "description": "On this channel you will find some interesting chemical reactions and many amazing stuff!"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3j3w-oUtIAm_KI857ydvUA"
+      }
+    },
+    "statistics": {
+      "viewCount": "104488301",
+      "subscriberCount": "879000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "168"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Thoisoi2 - Chemical Experiments!",
+        "description": "On this channel you will find some interesting chemical reactions and many amazing stuff!",
+        "keywords": "\"cool science\" \"laboratory supplies\" \"chemistry ideas\" \"science direct\" \"organic chemistry\" \"chemical experiments\" \"fun science\" \"online chemistry\" \"science projects\" \"science kids\" \"science for kids\"",
+        "unsubscribedTrailer": "6XxcVg2Dfck"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/nOaYrlcih9ksWj6Q-rO7SCQsE7Suv4QkhBz0kS4xZVXOwiEnQ7Vlko2AbkaIu4lvgu4PsKEEjg"
+      }
+    }
+  }
+}

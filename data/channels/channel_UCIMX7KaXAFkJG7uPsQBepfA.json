@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCIMX7KaXAFkJG7uPsQBepfA",
+  "retrieved_on": "2021-12-05 03:47:32.034195",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-GE07R5bWakFwwbtxQClMFeOrqE",
+    "id": "UCIMX7KaXAFkJG7uPsQBepfA",
+    "snippet": {
+      "title": "FXhome",
+      "description": "Tips and tutorials from the creators of HitFilm, Imerge & CamTrackAR. New episodes every week!\n\nDownload our FREE video software, HitFilm Express here: fxhome.com/hitfilm-express\n\nCheck out HitFilm Pro and try the free demo: fxhome.com/hitfilm-pro\n\nTalk to us!\nshowoff@fxhome.com\n",
+      "customUrl": "fxhome",
+      "publishedAt": "2011-03-22T10:16:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/DPzU-4pjOVCUT5-_QSzy1Wkx8_lEtgwxFrxFgCPSws1zECB3xlsTJxPK4GYLTwSmPVnq-NofIAQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/DPzU-4pjOVCUT5-_QSzy1Wkx8_lEtgwxFrxFgCPSws1zECB3xlsTJxPK4GYLTwSmPVnq-NofIAQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/DPzU-4pjOVCUT5-_QSzy1Wkx8_lEtgwxFrxFgCPSws1zECB3xlsTJxPK4GYLTwSmPVnq-NofIAQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "FXhome",
+        "description": "Tips and tutorials from the creators of HitFilm, Imerge & CamTrackAR. New episodes every week!\n\nDownload our FREE video software, HitFilm Express here: fxhome.com/hitfilm-express\n\nCheck out HitFilm Pro and try the free demo: fxhome.com/hitfilm-pro\n\nTalk to us!\nshowoff@fxhome.com\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIMX7KaXAFkJG7uPsQBepfA"
+      }
+    },
+    "statistics": {
+      "viewCount": "21303466",
+      "subscriberCount": "269000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "640"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "FXhome",
+        "description": "Tips and tutorials from the creators of HitFilm, Imerge & CamTrackAR. New episodes every week!\n\nDownload our FREE video software, HitFilm Express here: fxhome.com/hitfilm-express\n\nCheck out HitFilm Pro and try the free demo: fxhome.com/hitfilm-pro\n\nTalk to us!\nshowoff@fxhome.com\n",
+        "keywords": "hitfilm express pro \"video editing\" VFX compositing 3D \"special effects\" explosions gunfire",
+        "trackingAnalyticsAccountId": "UA-23380451-3",
+        "unsubscribedTrailer": "I_OvXnAonrE",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/DYrY6AfWmdX4549vf8zFgYhYPhNB49x_GjKhdVG0_xeF8bm78p3NTe2RPuhUHzE0wbCdLr2xuX8"
+      }
+    }
+  }
+}

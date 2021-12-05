@@ -1,0 +1,63 @@
+{
+  "channel_id": "UC6jETvWDCI_W-VVG2AjxOfw",
+  "retrieved_on": "2021-12-05 03:47:32.314716",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9TS_ukX1r80g5gma65KHj0deVDs",
+    "id": "UC6jETvWDCI_W-VVG2AjxOfw",
+    "snippet": {
+      "title": "Buchinger Wilhelmi Clinic I The Fasting Experts",
+      "description": "We empower people to live a healthy and fulfilling life\nFasting \u2022 Integrative Medicine \u2022 Inspiration \n\nWorld leading fasting clinics with 100+ years experience in Health. \n\u00dcberlingen, Germany & Marbella, Spain \n\n\n\nBuchinger Wilhelmi Development & Holding GmbH\nWilhelm-Beck-Stra\u00dfe 27\n88662 \u00dcberlingen\nGermany\nVertretungsberechtigter Gesch\u00e4ftsf\u00fchrer: Oliver Hitzler\nTelefon: +49 7551/807-0\nE-Mail: info@buchinger-wilhelmi.com",
+      "customUrl": "buchingerwilhelmifasting",
+      "publishedAt": "2017-05-19T07:45:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Q7UCouCt9eNKJwSSZEX51HkxxpepNLfsklF2w2VLyxSYz9UovH9u7Y0lLh1xlpud8XKJmtPI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Q7UCouCt9eNKJwSSZEX51HkxxpepNLfsklF2w2VLyxSYz9UovH9u7Y0lLh1xlpud8XKJmtPI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Q7UCouCt9eNKJwSSZEX51HkxxpepNLfsklF2w2VLyxSYz9UovH9u7Y0lLh1xlpud8XKJmtPI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "de",
+      "localized": {
+        "title": "Buchinger Wilhelmi Clinic I The Fasting Experts",
+        "description": "We empower people to live a healthy and fulfilling life\nFasting \u2022 Integrative Medicine \u2022 Inspiration \n\nWorld leading fasting clinics with 100+ years experience in Health. \n\u00dcberlingen, Germany & Marbella, Spain \n\n\n\nBuchinger Wilhelmi Development & Holding GmbH\nWilhelm-Beck-Stra\u00dfe 27\n88662 \u00dcberlingen\nGermany\nVertretungsberechtigter Gesch\u00e4ftsf\u00fchrer: Oliver Hitzler\nTelefon: +49 7551/807-0\nE-Mail: info@buchinger-wilhelmi.com"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU6jETvWDCI_W-VVG2AjxOfw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2524517",
+      "subscriberCount": "42100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "140"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Buchinger Wilhelmi Clinic I The Fasting Experts",
+        "description": "We empower people to live a healthy and fulfilling life\nFasting \u2022 Integrative Medicine \u2022 Inspiration \n\nWorld leading fasting clinics with 100+ years experience in Health. \n\u00dcberlingen, Germany & Marbella, Spain \n\n\n\nBuchinger Wilhelmi Development & Holding GmbH\nWilhelm-Beck-Stra\u00dfe 27\n88662 \u00dcberlingen\nGermany\nVertretungsberechtigter Gesch\u00e4ftsf\u00fchrer: Oliver Hitzler\nTelefon: +49 7551/807-0\nE-Mail: info@buchinger-wilhelmi.com",
+        "keywords": "Fasting Fasten \"Therapeutic Fasting\" \"Buchinger Wilhelmi\" \"Buchinger Fasten\" Heilfasten \"Francoise Wilhelmi de Toledo\" \"Dr. Otto Buchinger\" \"Intermittend Fasting\"",
+        "unsubscribedTrailer": "6b-EqKYv314",
+        "defaultLanguage": "de",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/dGFyZkadg3x1FcA7gSx7YSK9R0y6jbmThLJ5ThSe1b1wRw_5HSxk94l9ztZsRDUnH7qS4Yuj1w"
+      }
+    }
+  }
+}

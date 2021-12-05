@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCLJG8t3DKEKu_N9JtJd6BZA",
+  "retrieved_on": "2021-12-05 03:47:39.126042",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "V3Cb6QROf2rRIbwC3eV8EkL51OA",
+    "id": "UCLJG8t3DKEKu_N9JtJd6BZA",
+    "snippet": {
+      "title": "Cheeky Daze",
+      "description": "Music you can't find anywhere else! Promoting Vita titles and the like.\n\nIf you like the games and music on this channel, support these wonderful creators by purchasing their games and soundtracks if available! :)",
+      "publishedAt": "2019-12-10T04:51:00.562138Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpFdNIlQLRUA-hn02PYqS55mAmFC-P0NAST-aR=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpFdNIlQLRUA-hn02PYqS55mAmFC-P0NAST-aR=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpFdNIlQLRUA-hn02PYqS55mAmFC-P0NAST-aR=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Cheeky Daze",
+        "description": "Music you can't find anywhere else! Promoting Vita titles and the like.\n\nIf you like the games and music on this channel, support these wonderful creators by purchasing their games and soundtracks if available! :)"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UULJG8t3DKEKu_N9JtJd6BZA"
+      }
+    },
+    "statistics": {
+      "viewCount": "762867",
+      "subscriberCount": "1400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "129"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Cheeky Daze",
+        "description": "Music you can't find anywhere else! Promoting Vita titles and the like.\n\nIf you like the games and music on this channel, support these wonderful creators by purchasing their games and soundtracks if available! :)"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/EzD5hz1y26wxuGBj78z-enEkLSwZL4PebyXob6hTcb71ZZQpYpTjlp80BCRQkBARHIa1K2IAYQ"
+      }
+    }
+  }
+}

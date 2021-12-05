@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+  "retrieved_on": "2021-12-05 03:47:37.728386",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rZ8mEfC-SfPHMFIWCKH4gDGd8lY",
+    "id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+    "snippet": {
+      "title": "DeepMind",
+      "description": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.\n\nWe\u2019re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.\n\nWe have a track record of breakthroughs in fundamental AI research, published in journals like Nature, Science, and more. Our programs have learned to diagnose eye diseases as effectively as the world\u2019s top doctors, to save 30% of the energy used to keep data centres cool, and to predict the complex 3D shapes of proteins - which could one day transform how drugs are invented. \n\nFind out more: deepmind.com",
+      "customUrl": "deepmind",
+      "publishedAt": "2016-01-21T15:34:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTarwhizTbB1hsGgkkf9u3ZXFnTllIgf_fq0gv4PQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTarwhizTbB1hsGgkkf9u3ZXFnTllIgf_fq0gv4PQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTarwhizTbB1hsGgkkf9u3ZXFnTllIgf_fq0gv4PQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DeepMind",
+        "description": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.\n\nWe\u2019re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.\n\nWe have a track record of breakthroughs in fundamental AI research, published in journals like Nature, Science, and more. Our programs have learned to diagnose eye diseases as effectively as the world\u2019s top doctors, to save 30% of the energy used to keep data centres cool, and to predict the complex 3D shapes of proteins - which could one day transform how drugs are invented. \n\nFind out more: deepmind.com"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUP7jMXSY2xbc3KCAE0MHQ-A"
+      }
+    },
+    "statistics": {
+      "viewCount": "53281284",
+      "subscriberCount": "390000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "152"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "DeepMind",
+        "description": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.\n\nWe\u2019re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.\n\nWe have a track record of breakthroughs in fundamental AI research, published in journals like Nature, Science, and more. Our programs have learned to diagnose eye diseases as effectively as the world\u2019s top doctors, to save 30% of the energy used to keep data centres cool, and to predict the complex 3D shapes of proteins - which could one day transform how drugs are invented. \n\nFind out more: deepmind.com",
+        "keywords": "Artificial Intelligence Science Technology Machine Learning",
+        "trackingAnalyticsAccountId": "UA-31357224-2",
+        "unsubscribedTrailer": "Gk-PyJSNlcI",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/IozRCm_yENkKqLSAgPUFi917nntq_HoGRMZWd8meZyxMwEuOF5sSgUxuesp0Q04jkt8W5S0VJQ"
+      }
+    }
+  }
+}

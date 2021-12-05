@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCo27U5JK66TVyq5A7uImUYg",
+  "retrieved_on": "2021-12-05 03:47:34.308914",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "U_yAq04rxeeBEuGsasomNhHxanM",
+    "id": "UCo27U5JK66TVyq5A7uImUYg",
+    "snippet": {
+      "title": "Razers",
+      "description": "Great place to get that nostalgia fix",
+      "publishedAt": "2018-12-26T17:39:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSzzXwZgwN1Z1V2jcysWQIbNs2sPTuup75WKM79=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSzzXwZgwN1Z1V2jcysWQIbNs2sPTuup75WKM79=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSzzXwZgwN1Z1V2jcysWQIbNs2sPTuup75WKM79=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Razers",
+        "description": "Great place to get that nostalgia fix"
+      },
+      "country": "EE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUo27U5JK66TVyq5A7uImUYg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1941180",
+      "subscriberCount": "3160",
+      "hiddenSubscriberCount": false,
+      "videoCount": "6"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Razers",
+        "description": "Great place to get that nostalgia fix",
+        "country": "EE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/lka45g6AjPhGaYWbVMTKWXMWK8Z5-gxHTMwXhLapO9dkaIF3FT_a4odoykcFXXj_ziz6oCW_l2k"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+  "retrieved_on": "2021-12-05 03:47:30.682752",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "igvqKHdaxsJ5TgemoSYfigrpm0E",
+    "id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+    "snippet": {
+      "title": "NetworkChuck",
+      "description": "Welcome to NetworkChuck!\n\nI LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field through obtaining IT Certifications. I talk about Cisco Certifications, CompTIA, AWS, Microsoft...pretty much EVERYTHING in IT. As a CBT Nuggets Trainer, it's also my passion to TEACH information technology and to make it FUN. \n\nIf your goals are to obtain your CCNA, CompTIA A+, CompTIA Network+...I'm here to help you with that goal in any way I can!\n\n*****Interested in Sponsoring NetworkChuck? Email chuck@networkchuck.com",
+      "customUrl": "networkchuck",
+      "publishedAt": "2014-04-27T16:49:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NetworkChuck",
+        "description": "Welcome to NetworkChuck!\n\nI LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field through obtaining IT Certifications. I talk about Cisco Certifications, CompTIA, AWS, Microsoft...pretty much EVERYTHING in IT. As a CBT Nuggets Trainer, it's also my passion to TEACH information technology and to make it FUN. \n\nIf your goals are to obtain your CCNA, CompTIA A+, CompTIA Network+...I'm here to help you with that goal in any way I can!\n\n*****Interested in Sponsoring NetworkChuck? Email chuck@networkchuck.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU9x0AN7BWHpCDHSm9NiJFJQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "69113101",
+      "subscriberCount": "1730000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "271"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NetworkChuck",
+        "description": "Welcome to NetworkChuck!\n\nI LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field through obtaining IT Certifications. I talk about Cisco Certifications, CompTIA, AWS, Microsoft...pretty much EVERYTHING in IT. As a CBT Nuggets Trainer, it's also my passion to TEACH information technology and to make it FUN. \n\nIf your goals are to obtain your CCNA, CompTIA A+, CompTIA Network+...I'm here to help you with that goal in any way I can!\n\n*****Interested in Sponsoring NetworkChuck? Email chuck@networkchuck.com",
+        "keywords": "Networking \"Information Technology\" \"IT Certifications\" CCNA CCNP linux \"raspberry pi\" \"ethical hacking\" \"microsoft azure\" aws",
+        "trackingAnalyticsAccountId": "UA-22049966-8",
+        "unsubscribedTrailer": "wX75Z-4MEoM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/QC0QJzFPILKzzluiBENT6_wyMNGyQlevX6HLG_NbYXPB9NlD0EMp9Ayw-skaJNaPgoApe3Sh"
+      }
+    }
+  }
+}

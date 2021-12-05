@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCgwHVfkJ6rlcw8ko4ci0iRQ",
+  "retrieved_on": "2021-12-05 03:47:40.292835",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "FN7X5TqBAsfDPb3lrCLui3q_mTI",
+    "id": "UCgwHVfkJ6rlcw8ko4ci0iRQ",
+    "snippet": {
+      "title": "Velcode",
+      "description": "A channel focused on programming tutorials and development. These videos consist of content I've learned over the years as a computer scientist. Videos relate to various programming langues but are focused mainly on C++ and Python.",
+      "publishedAt": "2020-03-21T01:53:13.984187Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqC7TyPPYHYDN51CJvocLHglAKDc0ewaTHuteqjg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqC7TyPPYHYDN51CJvocLHglAKDc0ewaTHuteqjg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqC7TyPPYHYDN51CJvocLHglAKDc0ewaTHuteqjg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Velcode",
+        "description": "A channel focused on programming tutorials and development. These videos consist of content I've learned over the years as a computer scientist. Videos relate to various programming langues but are focused mainly on C++ and Python."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgwHVfkJ6rlcw8ko4ci0iRQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "96619",
+      "subscriberCount": "898",
+      "hiddenSubscriberCount": false,
+      "videoCount": "59"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Velcode",
+        "description": "A channel focused on programming tutorials and development. These videos consist of content I've learned over the years as a computer scientist. Videos relate to various programming langues but are focused mainly on C++ and Python.",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/KR3TNm3tQjQB26GjugJcT-DH2HRwV7FQayYrAZq_oBKj8xEFvftRjcrKfqwjnnMb_jsfPiVvxQ"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCsOFElmDD3e8l-RGCabCZ9g",
+  "retrieved_on": "2021-12-05 03:47:35.856776",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "3VGXSmC-N5ZHCwgdP0h3x5TX-O0",
+    "id": "UCsOFElmDD3e8l-RGCabCZ9g",
+    "snippet": {
+      "title": "Mr Innovative",
+      "description": "Welcome to Mr. Innovative Channel \n\nWe are making\nArduino projects\nElectronics projects\nEmbedded Projects\nDIY\n\nAlso visit our website  www.electricdiylab.com   for more details about our projects\n\nCoupon code \"JLCPCBcom\" for all and  valid permanently",
+      "customUrl": "mrinnovative",
+      "publishedAt": "2012-11-29T11:46:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6q6j6VOT768JoF42foY3PZ8NzfzupfXcD_56hDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6q6j6VOT768JoF42foY3PZ8NzfzupfXcD_56hDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS6q6j6VOT768JoF42foY3PZ8NzfzupfXcD_56hDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Mr Innovative",
+        "description": "Welcome to Mr. Innovative Channel \n\nWe are making\nArduino projects\nElectronics projects\nEmbedded Projects\nDIY\n\nAlso visit our website  www.electricdiylab.com   for more details about our projects\n\nCoupon code \"JLCPCBcom\" for all and  valid permanently"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUsOFElmDD3e8l-RGCabCZ9g"
+      }
+    },
+    "statistics": {
+      "viewCount": "27800125",
+      "subscriberCount": "177000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "163"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mr Innovative",
+        "description": "Welcome to Mr. Innovative Channel \n\nWe are making\nArduino projects\nElectronics projects\nEmbedded Projects\nDIY\n\nAlso visit our website  www.electricdiylab.com   for more details about our projects\n\nCoupon code \"JLCPCBcom\" for all and  valid permanently",
+        "keywords": "arduino \"diy project\" \"embedded projects\" \"raspberry pi projects\" \"diy electronics project\" gadgets technology \"cnc projects\" \"3d print projects\" \"3d printing\" \"science and technology\" metal \"mini industrial machines\" \"lathe machine\"",
+        "unsubscribedTrailer": "46rbpPwqelY",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/atypdQwxGs0OKxsT4fjvLXSKvv83gdbxQEc_N6u0Din1EJxCR-IlN5CxrUmiuN3_QkVZ_tuLooQ"
+      }
+    }
+  }
+}

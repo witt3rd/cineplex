@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCYzwGkfOqrevO-4TuTjPLwQ",
+  "retrieved_on": "2021-12-05 03:47:30.436729",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "AnNrJdOC5ZVdjyqsQ583Du9uQrE",
+    "id": "UCYzwGkfOqrevO-4TuTjPLwQ",
+    "snippet": {
+      "title": "RSA Conference",
+      "description": "RSA Conference is helping drive the information security agenda worldwide with annual industry events in the U.S., Europe and Asia. Throughout its history, RSA Conference has consistently attracted the world's best and brightest in the field, creating opportunities for conference attendees to learn about IT security's most important issues through first-hand interactions with peers, luminaries and emerging and established companies. As the IT security field continues to grow in importance and influence, RSA Conference plays an integral role in keeping security professionals across the globe connected and educated.",
+      "customUrl": "rsaconference",
+      "publishedAt": "2007-04-17T14:24:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/oHH-hAcw_cyzfNA3P-LpIbeRm5Qv5tcitMYr7tPao4f9thd1ciheTCcTrMct8POM0POLIlEunA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/oHH-hAcw_cyzfNA3P-LpIbeRm5Qv5tcitMYr7tPao4f9thd1ciheTCcTrMct8POM0POLIlEunA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/oHH-hAcw_cyzfNA3P-LpIbeRm5Qv5tcitMYr7tPao4f9thd1ciheTCcTrMct8POM0POLIlEunA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "RSA Conference",
+        "description": "RSA Conference is helping drive the information security agenda worldwide with annual industry events in the U.S., Europe and Asia. Throughout its history, RSA Conference has consistently attracted the world's best and brightest in the field, creating opportunities for conference attendees to learn about IT security's most important issues through first-hand interactions with peers, luminaries and emerging and established companies. As the IT security field continues to grow in importance and influence, RSA Conference plays an integral role in keeping security professionals across the globe connected and educated."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYzwGkfOqrevO-4TuTjPLwQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "6268359",
+      "subscriberCount": "62000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3372"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "RSA Conference",
+        "description": "RSA Conference is helping drive the information security agenda worldwide with annual industry events in the U.S., Europe and Asia. Throughout its history, RSA Conference has consistently attracted the world's best and brightest in the field, creating opportunities for conference attendees to learn about IT security's most important issues through first-hand interactions with peers, luminaries and emerging and established companies. As the IT security field continues to grow in importance and influence, RSA Conference plays an integral role in keeping security professionals across the globe connected and educated.",
+        "keywords": "\"information security\" cybersecurity \"RSA Conference\" RSAC infosec",
+        "trackingAnalyticsAccountId": "UA-606073-14",
+        "moderateComments": true,
+        "unsubscribedTrailer": "nyzlcXlijrs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/oNdnk_snPDNR37JaNTVTrxbMbwkIjGJnBPCkhAYFsxFYUYbiGnydauSNu49bu-be1bie6MqQaA"
+      }
+    }
+  }
+}

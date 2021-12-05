@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC06b5TQFFMFZvMakw1QLpQg",
+  "retrieved_on": "2021-12-05 03:47:35.856718",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "0a09U_83-Cm80dPehSjDrnz59wE",
+    "id": "UC06b5TQFFMFZvMakw1QLpQg",
+    "snippet": {
+      "title": "Clark Elieson",
+      "description": "Unique existential takes on Video Games and the Internet. Philosophy is my lifeblood. \n\nSupport me: https://www.patreon.com/ClarkElieson\n\nSign up for my weekly newsletter essays: https://clarkelieson.com/\n\nSticker Shop: https://clarkelieson.com/shop\n",
+      "customUrl": "clarkeli",
+      "publishedAt": "2020-04-17T23:41:58.4442Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3kt--yWcOjqe292GkmCFfTsIglVRgeySm5XDpgTNXPcDXGQrmXWi7bsyfHSAsOzEKm2zWpO8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3kt--yWcOjqe292GkmCFfTsIglVRgeySm5XDpgTNXPcDXGQrmXWi7bsyfHSAsOzEKm2zWpO8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3kt--yWcOjqe292GkmCFfTsIglVRgeySm5XDpgTNXPcDXGQrmXWi7bsyfHSAsOzEKm2zWpO8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Clark Elieson",
+        "description": "Unique existential takes on Video Games and the Internet. Philosophy is my lifeblood. \n\nSupport me: https://www.patreon.com/ClarkElieson\n\nSign up for my weekly newsletter essays: https://clarkelieson.com/\n\nSticker Shop: https://clarkelieson.com/shop\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU06b5TQFFMFZvMakw1QLpQg"
+      }
+    },
+    "statistics": {
+      "viewCount": "825382",
+      "subscriberCount": "24500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "5"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Clark Elieson",
+        "description": "Unique existential takes on Video Games and the Internet. Philosophy is my lifeblood. \n\nSupport me: https://www.patreon.com/ClarkElieson\n\nSign up for my weekly newsletter essays: https://clarkelieson.com/\n\nSticker Shop: https://clarkelieson.com/shop\n",
+        "keywords": "\"Clark Elieson\" \"Clark Eli\" \"Clark Elieson\" \"Clark Elieson video Essays\" \"Liminal Spaces\" \"Dark Academia\"",
+        "unsubscribedTrailer": "nL7vSe9cVf8",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/qtStump8azgU9eX0u_nYjdROQvJ1tYKnj0BZRB_1ZDUVP4erD6MbEY7d6unoGtxFqNrEJkcUyg"
+      }
+    }
+  }
+}

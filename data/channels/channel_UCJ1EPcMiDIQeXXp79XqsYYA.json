@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCJ1EPcMiDIQeXXp79XqsYYA",
+  "retrieved_on": "2021-12-05 03:47:29.852547",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "wi4M4THtVpLR-2piFT7uJcyhalU",
+    "id": "UCJ1EPcMiDIQeXXp79XqsYYA",
+    "snippet": {
+      "title": "VirginCavalier",
+      "description": "We Are Gold!",
+      "publishedAt": "2009-03-17T21:42:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSm05mmJ69Mbi_YMLG9EumBSj3ax7cGJNMRLDgGEw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSm05mmJ69Mbi_YMLG9EumBSj3ax7cGJNMRLDgGEw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSm05mmJ69Mbi_YMLG9EumBSj3ax7cGJNMRLDgGEw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "es-419",
+      "localized": {
+        "title": "VirginCavalier",
+        "description": "We Are Gold!"
+      },
+      "country": "CO"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJ1EPcMiDIQeXXp79XqsYYA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2642094",
+      "subscriberCount": "7390",
+      "hiddenSubscriberCount": false,
+      "videoCount": "69"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "VirginCavalier",
+        "description": "We Are Gold!",
+        "unsubscribedTrailer": "THuHp7MugDQ",
+        "defaultLanguage": "es-419",
+        "country": "CO"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/AnR3qVm-1PtY9k4I_2hoTr_r9Hx43JWoJXp_DZCP_omqHJLfCQh9Mt957jJVVQM8qjxFnoIiILc"
+      }
+    }
+  }
+}

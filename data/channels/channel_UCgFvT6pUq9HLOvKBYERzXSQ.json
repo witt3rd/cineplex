@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCgFvT6pUq9HLOvKBYERzXSQ",
+  "retrieved_on": "2021-12-05 03:47:32.034175",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "aXavrn_tAyVLKwwVs8IQiSReHWQ",
+    "id": "UCgFvT6pUq9HLOvKBYERzXSQ",
+    "snippet": {
+      "title": "Davie504",
+      "description": "Italian guy who wants to share his passion for slapping the BASS.\n\nSubscribe N O W",
+      "customUrl": "davie504",
+      "publishedAt": "2011-05-18T19:24:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kBmle6XOFfCy-q4hVBDkeIYhSnQhQ9KYUG-BmWS3FFyUz9TrOMVZZCnG7uuVuPtEbi1pkLLGXVA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kBmle6XOFfCy-q4hVBDkeIYhSnQhQ9KYUG-BmWS3FFyUz9TrOMVZZCnG7uuVuPtEbi1pkLLGXVA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kBmle6XOFfCy-q4hVBDkeIYhSnQhQ9KYUG-BmWS3FFyUz9TrOMVZZCnG7uuVuPtEbi1pkLLGXVA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Davie504",
+        "description": "Italian guy who wants to share his passion for slapping the BASS.\n\nSubscribe N O W"
+      },
+      "country": "IT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgFvT6pUq9HLOvKBYERzXSQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1584700864",
+      "subscriberCount": "10000000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "695"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Davie504",
+        "description": "Italian guy who wants to share his passion for slapping the BASS.\n\nSubscribe N O W",
+        "keywords": "bass guitar solo davie davide biale 504 davie504 electric basso elettrico musica music cover slap flea victor wooten marcus miller funk",
+        "moderateComments": true,
+        "unsubscribedTrailer": "ulxoIly3jt4",
+        "country": "IT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/j8yekN7kZM5_XU_27MQd9lPctlNqi33EuRL-5Gl8A4hyVkhQPjLMeRtyPOXJEGsmIB0WMjYJ1w"
+      }
+    }
+  }
+}

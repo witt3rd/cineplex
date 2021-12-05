@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCUJzKXEyCqKqoeO2wbUa3mg",
+  "retrieved_on": "2021-12-05 03:47:34.084502",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "z2sVfYJvjuKl_FKpMOij2S_sOQU",
+    "id": "UCUJzKXEyCqKqoeO2wbUa3mg",
+    "snippet": {
+      "title": "LucidManStudio",
+      "description": "Digital Artworks",
+      "publishedAt": "2021-02-23T16:09:12.005451Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lOPFJXRGtUp51tx9RRVW7m7ugti8HeAGuZIWIErAASToWRripRUlrTn6xvUORXJug7Qz_hj_A_E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lOPFJXRGtUp51tx9RRVW7m7ugti8HeAGuZIWIErAASToWRripRUlrTn6xvUORXJug7Qz_hj_A_E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lOPFJXRGtUp51tx9RRVW7m7ugti8HeAGuZIWIErAASToWRripRUlrTn6xvUORXJug7Qz_hj_A_E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LucidManStudio",
+        "description": "Digital Artworks"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUJzKXEyCqKqoeO2wbUa3mg"
+      }
+    },
+    "statistics": {
+      "viewCount": "2243",
+      "subscriberCount": "74",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "LucidManStudio",
+        "description": "Digital Artworks"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jtB7iWHyNoO2g1kZlxKeCij7tQopJcPinCK0Ti-Re1wVbvA2yqzuzd3Ezcesj0o5FPVaJUY1"
+      }
+    }
+  }
+}

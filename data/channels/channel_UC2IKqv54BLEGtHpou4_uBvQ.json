@@ -1,0 +1,58 @@
+{
+  "channel_id": "UC2IKqv54BLEGtHpou4_uBvQ",
+  "retrieved_on": "2021-12-05 03:47:35.055042",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "qnqqSkepqmE390gViZxfszxP90s",
+    "id": "UC2IKqv54BLEGtHpou4_uBvQ",
+    "snippet": {
+      "title": "IAMNIVERSE",
+      "description": "This channel is about realizing you literally are the universe you have been raised to believe \u201cyou exist in,\u201d merely with a temporary human focus. Expand your consciousness by realizing the universe within.",
+      "customUrl": "iamniverse",
+      "publishedAt": "2010-10-31T16:39:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-bg7zppl2rEzQoBiVb5mR6GZJMjCrcZX_Csi05g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-bg7zppl2rEzQoBiVb5mR6GZJMjCrcZX_Csi05g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-bg7zppl2rEzQoBiVb5mR6GZJMjCrcZX_Csi05g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "IAMNIVERSE",
+        "description": "This channel is about realizing you literally are the universe you have been raised to believe \u201cyou exist in,\u201d merely with a temporary human focus. Expand your consciousness by realizing the universe within."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2IKqv54BLEGtHpou4_uBvQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "797218",
+      "subscriberCount": "8600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "12"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "IAMNIVERSE",
+        "description": "This channel is about realizing you literally are the universe you have been raised to believe \u201cyou exist in,\u201d merely with a temporary human focus. Expand your consciousness by realizing the universe within.",
+        "keywords": "reality spacetime space-time universe consciousness existence multidimensional dimensional inter-dimensional youniverse iamuniverse iuniverse iamniverse"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/k4RsZzK80_2lIMemtbbmN6_3xHD5DRXXIA09W5AQERgwRt_UrManV4Or3A8hJmZaxeKMTzkk"
+      }
+    }
+  }
+}

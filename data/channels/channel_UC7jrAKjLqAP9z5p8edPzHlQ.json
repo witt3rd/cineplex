@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC7jrAKjLqAP9z5p8edPzHlQ",
+  "retrieved_on": "2021-12-05 03:47:28.552268",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "WFG08gA-kqqK4uGeuBBdiU_os5I",
+    "id": "UC7jrAKjLqAP9z5p8edPzHlQ",
+    "snippet": {
+      "title": "Evan and Katelyn Podcast",
+      "description": "A podcast about YouTube stuff, making stuff, and life! It will make sense once you start listening... hopefully. New episodes every Monday!\n\n\ud83d\udee0\ufe0f Our main channel is https://www.youtube.com/evanandkatelyn\n\ud83c\udfae We also have a gaming channel https://www.youtube.com/evanandkatelyngaming\n\nBelow is our mailing address. If you're a business, please do NOT send unsolicited products:\n\nEvan and Katelyn\n215 W Bandera Rd Ste 114-240\nBoerne, TX 78006\n",
+      "customUrl": "evanandkatelynpodcast",
+      "publishedAt": "2018-11-26T20:52:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQcAr7-iavMnoMUahIFX7rJaCLsP7_qZgXI4tJcyA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQcAr7-iavMnoMUahIFX7rJaCLsP7_qZgXI4tJcyA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQcAr7-iavMnoMUahIFX7rJaCLsP7_qZgXI4tJcyA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Evan and Katelyn Podcast",
+        "description": "A podcast about YouTube stuff, making stuff, and life! It will make sense once you start listening... hopefully. New episodes every Monday!\n\n\ud83d\udee0\ufe0f Our main channel is https://www.youtube.com/evanandkatelyn\n\ud83c\udfae We also have a gaming channel https://www.youtube.com/evanandkatelyngaming\n\nBelow is our mailing address. If you're a business, please do NOT send unsolicited products:\n\nEvan and Katelyn\n215 W Bandera Rd Ste 114-240\nBoerne, TX 78006\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7jrAKjLqAP9z5p8edPzHlQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1551772",
+      "subscriberCount": "49700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "82"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Evan and Katelyn Podcast",
+        "description": "A podcast about YouTube stuff, making stuff, and life! It will make sense once you start listening... hopefully. New episodes every Monday!\n\n\ud83d\udee0\ufe0f Our main channel is https://www.youtube.com/evanandkatelyn\n\ud83c\udfae We also have a gaming channel https://www.youtube.com/evanandkatelyngaming\n\nBelow is our mailing address. If you're a business, please do NOT send unsolicited products:\n\nEvan and Katelyn\n215 W Bandera Rd Ste 114-240\nBoerne, TX 78006\n",
+        "keywords": "evanandkatelyn \"evan and katelyn\" \"evan and katelyn podcast\" \"evanandkatelyn podcast\" podcast \"husband and wife\" \"husband wife\"",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/1Dq7Cr_H8poNV2oFfo03xVE5RVPSQwHhDjGfMazt01VRxppevxyQhVuXx78wjxyxoee_NRPOsAw"
+      }
+    }
+  }
+}

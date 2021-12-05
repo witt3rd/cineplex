@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCfBLXTwLoUpDAkHcHizW3Jg",
+  "retrieved_on": "2021-12-05 03:47:38.852405",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "K0AbXIcF4EKHiY3YmWtS_KdXj9I",
+    "id": "UCfBLXTwLoUpDAkHcHizW3Jg",
+    "snippet": {
+      "title": "SNES drunk",
+      "description": "One person making short, to-the-point reviews of retro games. Super Nintendo, Sega Genesis, Game Boy, Arcade, PC, NES, GBA, and more.",
+      "customUrl": "snesdrunk",
+      "publishedAt": "2013-05-31T23:31:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmd662XR-l8jCl3Yr9sD5O621lngROcQxlScBwvg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmd662XR-l8jCl3Yr9sD5O621lngROcQxlScBwvg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmd662XR-l8jCl3Yr9sD5O621lngROcQxlScBwvg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SNES drunk",
+        "description": "One person making short, to-the-point reviews of retro games. Super Nintendo, Sega Genesis, Game Boy, Arcade, PC, NES, GBA, and more."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfBLXTwLoUpDAkHcHizW3Jg"
+      }
+    },
+    "statistics": {
+      "viewCount": "69482453",
+      "subscriberCount": "235000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "883"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SNES drunk",
+        "description": "One person making short, to-the-point reviews of retro games. Super Nintendo, Sega Genesis, Game Boy, Arcade, PC, NES, GBA, and more.",
+        "keywords": "Gaming SNES \"Super Nintendo\" \"Super NES\" Super Famicom Japan Hidden Gems snesdrunk \"16 bit\" reviews games gaming retro",
+        "moderateComments": true,
+        "unsubscribedTrailer": "hHE9ZcnHtgo",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/M2kKMWsipbBGCNYXdFnH-ddupn4jWcDwPjIUbr08d_gYxQT1a5J8OWqUeYoQlfuxe_IKFgNYjQ"
+      }
+    }
+  }
+}

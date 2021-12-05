@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC7Jwj9fkrf1adN4fMmTkpug",
+  "retrieved_on": "2021-12-05 03:47:30.960858",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ENgMU0r3ERyMNq9Gr4EsXZEKWW4",
+    "id": "UC7Jwj9fkrf1adN4fMmTkpug",
+    "snippet": {
+      "title": "DankPods",
+      "description": "I do stuff with portable music players. \n\nBanner by @MaxieM0us3",
+      "customUrl": "dankpods",
+      "publishedAt": "2018-06-18T05:16:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRjywQNPKFazzaVj7BzVZ9KoIvPpsjGD8ynno5U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRjywQNPKFazzaVj7BzVZ9KoIvPpsjGD8ynno5U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRjywQNPKFazzaVj7BzVZ9KoIvPpsjGD8ynno5U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DankPods",
+        "description": "I do stuff with portable music players. \n\nBanner by @MaxieM0us3"
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7Jwj9fkrf1adN4fMmTkpug"
+      }
+    },
+    "statistics": {
+      "viewCount": "150118051",
+      "subscriberCount": "1050000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "126"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "DankPods",
+        "description": "I do stuff with portable music players. \n\nBanner by @MaxieM0us3",
+        "keywords": "Tips and Tricks \"ipod classic\" \"ipod mods\"",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/TN6jmcq44KvTG1gh7aKJc9In4aBufEM4-Bi7Jl_4q9Ay_x4c5Gog21O-eMtllZgu4tbrNUcvRA"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCAepXw94EhaO0CZV9f5D3fQ",
+  "retrieved_on": "2021-12-05 03:47:30.163039",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "LvH0OIimKYJTe5RvECIUk7VjFVA",
+    "id": "UCAepXw94EhaO0CZV9f5D3fQ",
+    "snippet": {
+      "title": "The Psychedelic Muse",
+      "description": "The Psychedelic Muse is a beckoning odyssey of deep chillout music, dedicated to chilling in mind, body, and spirit: psychill, progressive downtempo, ambient electronica, psydub & psybass - you can find it all here in our oasis of chill.\n\nSubscribe for exclusive mixes, the latest music,  old-school chill classics, and much more. New chill for your auditory tranquility every day.\n\nHang out with our psychedelically-inclined cat and listen to music from Gabriel Le Mar, Pete Ardron, YOUTH, The Irresistible Force, The Flying Mars, Astropilot, StereOMantra, Lauge, Ovnimoon, Robert Elster, and more incredible downtempo talents. Part of Chill Space Network\n\nFollow Chill Space Network on YouTube:\n\u25ba Chill Space\nhttp://bit.ly/ChillSpaceTV\n\u25ba The Psychedelic Muse\nhttp://bit.ly/SubscribePsyMuse\n\u25ba Cosmic Soundwaves\nhttp://bit.ly/SubscribeCSW\n\u25ba Savvas Kalt\nhttp://bit.ly/SubscribeSavvas\n\u25ba Downtempo Vibes\nhttp://bit.ly/DTVibesSub\n",
+      "customUrl": "thepsychedelicmuse",
+      "publishedAt": "2012-08-01T22:12:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTnJwxw-VYYHFMENWuUdD4uxlRF9SL699-WzKfd9A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTnJwxw-VYYHFMENWuUdD4uxlRF9SL699-WzKfd9A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTnJwxw-VYYHFMENWuUdD4uxlRF9SL699-WzKfd9A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Psychedelic Muse",
+        "description": "The Psychedelic Muse is a beckoning odyssey of deep chillout music, dedicated to chilling in mind, body, and spirit: psychill, progressive downtempo, ambient electronica, psydub & psybass - you can find it all here in our oasis of chill.\n\nSubscribe for exclusive mixes, the latest music,  old-school chill classics, and much more. New chill for your auditory tranquility every day.\n\nHang out with our psychedelically-inclined cat and listen to music from Gabriel Le Mar, Pete Ardron, YOUTH, The Irresistible Force, The Flying Mars, Astropilot, StereOMantra, Lauge, Ovnimoon, Robert Elster, and more incredible downtempo talents. Part of Chill Space Network\n\nFollow Chill Space Network on YouTube:\n\u25ba Chill Space\nhttp://bit.ly/ChillSpaceTV\n\u25ba The Psychedelic Muse\nhttp://bit.ly/SubscribePsyMuse\n\u25ba Cosmic Soundwaves\nhttp://bit.ly/SubscribeCSW\n\u25ba Savvas Kalt\nhttp://bit.ly/SubscribeSavvas\n\u25ba Downtempo Vibes\nhttp://bit.ly/DTVibesSub\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUAepXw94EhaO0CZV9f5D3fQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "55354401",
+      "subscriberCount": "273000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3555"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Psychedelic Muse",
+        "description": "The Psychedelic Muse is a beckoning odyssey of deep chillout music, dedicated to chilling in mind, body, and spirit: psychill, progressive downtempo, ambient electronica, psydub & psybass - you can find it all here in our oasis of chill.\n\nSubscribe for exclusive mixes, the latest music,  old-school chill classics, and much more. New chill for your auditory tranquility every day.\n\nHang out with our psychedelically-inclined cat and listen to music from Gabriel Le Mar, Pete Ardron, YOUTH, The Irresistible Force, The Flying Mars, Astropilot, StereOMantra, Lauge, Ovnimoon, Robert Elster, and more incredible downtempo talents. Part of Chill Space Network\n\nFollow Chill Space Network on YouTube:\n\u25ba Chill Space\nhttp://bit.ly/ChillSpaceTV\n\u25ba The Psychedelic Muse\nhttp://bit.ly/SubscribePsyMuse\n\u25ba Cosmic Soundwaves\nhttp://bit.ly/SubscribeCSW\n\u25ba Savvas Kalt\nhttp://bit.ly/SubscribeSavvas\n\u25ba Downtempo Vibes\nhttp://bit.ly/DTVibesSub\n",
+        "keywords": "downtempo \"ambient music\" psychill psybient psydub chillout electronica \"drone music\" chillgressive \"Berlin School\" chill",
+        "unsubscribedTrailer": "PDwPG6e4LMM",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/XOv8qggySi8zNOu8nq044T6ZP0XDPV5nJKjEw6nz6QQ4A1MHEi3Ham-nKj9WPKm5r_exci5S3JU"
+      }
+    }
+  }
+}

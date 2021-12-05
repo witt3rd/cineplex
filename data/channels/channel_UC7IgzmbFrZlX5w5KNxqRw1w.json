@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC7IgzmbFrZlX5w5KNxqRw1w",
+  "retrieved_on": "2021-12-05 03:47:34.308945",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "t_bbN-jwrGtDtdj86YAFKZvFBkY",
+    "id": "UC7IgzmbFrZlX5w5KNxqRw1w",
+    "snippet": {
+      "title": "12BACK",
+      "description": "ACTION FIGURES EACH SOLD SEPERATELY!!\nBATTERIES NOT INCLUDED!!\nYOU PUT IT TOGETHER!!",
+      "customUrl": "12back",
+      "publishedAt": "2007-04-28T15:24:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSKgf8X9Agg-XtUiOdeRfQ0mtt9QH-wbxYg54wN=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSKgf8X9Agg-XtUiOdeRfQ0mtt9QH-wbxYg54wN=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSKgf8X9Agg-XtUiOdeRfQ0mtt9QH-wbxYg54wN=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "12BACK",
+        "description": "ACTION FIGURES EACH SOLD SEPERATELY!!\nBATTERIES NOT INCLUDED!!\nYOU PUT IT TOGETHER!!"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7IgzmbFrZlX5w5KNxqRw1w"
+      }
+    },
+    "statistics": {
+      "viewCount": "3720059",
+      "subscriberCount": "1470",
+      "hiddenSubscriberCount": false,
+      "videoCount": "173"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "12BACK",
+        "description": "ACTION FIGURES EACH SOLD SEPERATELY!!\nBATTERIES NOT INCLUDED!!\nYOU PUT IT TOGETHER!!",
+        "keywords": "Star Wars Empire Strikes Back Return of the Jedi Revenge Kenner Toy Commercial Vintage Action Figures Ad Advert Remastered",
+        "moderateComments": true,
+        "unsubscribedTrailer": "e5Az1bEaFNs"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Ulwd3up-wlRkrdbcVA36wzo7HcRdZzRqOBtGa5flP8E0FlwnRM-XctKQGxg75t_DTRrOxosoy7I"
+      }
+    }
+  }
+}

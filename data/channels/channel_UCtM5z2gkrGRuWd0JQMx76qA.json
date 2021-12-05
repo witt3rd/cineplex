@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCtM5z2gkrGRuWd0JQMx76qA",
+  "retrieved_on": "2021-12-05 03:47:28.304275",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "tFm6vCkNxMthXMKY9Pe25HD7QCU",
+    "id": "UCtM5z2gkrGRuWd0JQMx76qA",
+    "snippet": {
+      "title": "bigclivedotcom",
+      "description": "The trashiest electronic channel on YouTube.  We test and use affordable electronic soldering equipment and tools to build, teardown, modify (and sometimes destroy) random electronic stuff.\n\nA British TV licence is NOT required to view my videos or almost every other video on YouTube.\n\nMany of the builds and projects featured here operate at full mains voltage and carry a high risk of shock and fire.  As such they're really intended for either entertainment value or for those who do similar stuff.\nThe videos are generally uncensored and may contain tasteless jokes, profanities and even blood and electric shocks when things go wrong.  So just like a normal workshop really.\n\nSo kick back, grab a beer and enjoy the ride.",
+      "customUrl": "bigclive",
+      "publishedAt": "2007-01-14T02:56:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT45GbD087SDuhFSmdiRpR6YTWdjyiKVZjfv0fC=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT45GbD087SDuhFSmdiRpR6YTWdjyiKVZjfv0fC=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT45GbD087SDuhFSmdiRpR6YTWdjyiKVZjfv0fC=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "bigclivedotcom",
+        "description": "The trashiest electronic channel on YouTube.  We test and use affordable electronic soldering equipment and tools to build, teardown, modify (and sometimes destroy) random electronic stuff.\n\nA British TV licence is NOT required to view my videos or almost every other video on YouTube.\n\nMany of the builds and projects featured here operate at full mains voltage and carry a high risk of shock and fire.  As such they're really intended for either entertainment value or for those who do similar stuff.\nThe videos are generally uncensored and may contain tasteless jokes, profanities and even blood and electric shocks when things go wrong.  So just like a normal workshop really.\n\nSo kick back, grab a beer and enjoy the ride."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtM5z2gkrGRuWd0JQMx76qA"
+      }
+    },
+    "statistics": {
+      "viewCount": "234559351",
+      "subscriberCount": "826000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1925"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "bigclivedotcom",
+        "description": "The trashiest electronic channel on YouTube.  We test and use affordable electronic soldering equipment and tools to build, teardown, modify (and sometimes destroy) random electronic stuff.\n\nA British TV licence is NOT required to view my videos or almost every other video on YouTube.\n\nMany of the builds and projects featured here operate at full mains voltage and carry a high risk of shock and fire.  As such they're really intended for either entertainment value or for those who do similar stuff.\nThe videos are generally uncensored and may contain tasteless jokes, profanities and even blood and electric shocks when things go wrong.  So just like a normal workshop really.\n\nSo kick back, grab a beer and enjoy the ride.",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Mtr4ZJ-5sk18klmlcGYoL2QSf4lzgqPE5jFBnqYWJgPJW_liNn_FWLmyIHACaVC2cHYBDVDw"
+      }
+    }
+  }
+}

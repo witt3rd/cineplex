@@ -1,0 +1,57 @@
+{
+  "channel_id": "UC0iP7jCbOe3XAGZr6fMrUEw",
+  "retrieved_on": "2021-12-05 03:47:39.473098",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9M-o4y8VhW546tpsECf4e-1TfhI",
+    "id": "UC0iP7jCbOe3XAGZr6fMrUEw",
+    "snippet": {
+      "title": "Kurdtbada",
+      "description": "Hi, I like to do music mixes, video edits, music samples and make instrumentals with my guitar. I own nothing except this.\n\nAll of the music and images posted here are from different artists except my guitar instrumentals, so this is mostly a fan channel dedicated to promote unknown artists from different places.\n\nIf you want to remove your music or images from my channel, please contact me in soundcloud.",
+      "customUrl": "kurdtbada",
+      "publishedAt": "2006-11-21T13:59:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTfArc9LcrFDiqrCPsstepzXcCr1iv4PkY2Ocah=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTfArc9LcrFDiqrCPsstepzXcCr1iv4PkY2Ocah=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTfArc9LcrFDiqrCPsstepzXcCr1iv4PkY2Ocah=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Kurdtbada",
+        "description": "Hi, I like to do music mixes, video edits, music samples and make instrumentals with my guitar. I own nothing except this.\n\nAll of the music and images posted here are from different artists except my guitar instrumentals, so this is mostly a fan channel dedicated to promote unknown artists from different places.\n\nIf you want to remove your music or images from my channel, please contact me in soundcloud."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU0iP7jCbOe3XAGZr6fMrUEw"
+      }
+    },
+    "statistics": {
+      "viewCount": "22020691",
+      "subscriberCount": "52400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "769"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Kurdtbada",
+        "description": "Hi, I like to do music mixes, video edits, music samples and make instrumentals with my guitar. I own nothing except this.\n\nAll of the music and images posted here are from different artists except my guitar instrumentals, so this is mostly a fan channel dedicated to promote unknown artists from different places.\n\nIf you want to remove your music or images from my channel, please contact me in soundcloud."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/vAKK8RkU_JJCJyH8KEJdAGOXvoAFIsOZutEhq6WcXgUIvPYTDb5RcocA0Ah9zmeUadU_VxQLBs0"
+      }
+    }
+  }
+}

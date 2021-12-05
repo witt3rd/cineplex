@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCMsF3abDjJK9yrGJ6GgBqeg",
+  "retrieved_on": "2021-12-05 03:47:33.852144",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Qpo179DKAZgcrjB8ErqUKN8Sp50",
+    "id": "UCMsF3abDjJK9yrGJ6GgBqeg",
+    "snippet": {
+      "title": "FQXi",
+      "description": "FQXi catalyzes, supports, and disseminates research on questions at the foundations of physics and cosmology, particularly new frontiers and innovative ideas integral to a deep understanding of reality, but unlikely to be supported by conventional funding sources. \r\n\r\nPlease visit: www.fqxi.org",
+      "publishedAt": "2010-05-03T17:18:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTyG_IEUWRiIxU3QkoVPbb-BRlp8M26fady1UwZ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTyG_IEUWRiIxU3QkoVPbb-BRlp8M26fady1UwZ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTyG_IEUWRiIxU3QkoVPbb-BRlp8M26fady1UwZ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "FQXi",
+        "description": "FQXi catalyzes, supports, and disseminates research on questions at the foundations of physics and cosmology, particularly new frontiers and innovative ideas integral to a deep understanding of reality, but unlikely to be supported by conventional funding sources. \r\n\r\nPlease visit: www.fqxi.org"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMsF3abDjJK9yrGJ6GgBqeg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1093626",
+      "subscriberCount": "8190",
+      "hiddenSubscriberCount": false,
+      "videoCount": "238"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "FQXi",
+        "description": "FQXi catalyzes, supports, and disseminates research on questions at the foundations of physics and cosmology, particularly new frontiers and innovative ideas integral to a deep understanding of reality, but unlikely to be supported by conventional funding sources. \r\n\r\nPlease visit: www.fqxi.org",
+        "keywords": "fqxi MIT \"max tegmark\" cosmology",
+        "unsubscribedTrailer": "E5KAb86U780"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/UoV4hc6waiGWSDCIzkEtFk1tRsM_CE6_77GSWci-TJlq1WeLUW0wwQeFrV-_qIb4SSwu-43BiC4"
+      }
+    }
+  }
+}

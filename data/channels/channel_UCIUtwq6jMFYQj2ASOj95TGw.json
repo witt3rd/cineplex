@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCIUtwq6jMFYQj2ASOj95TGw",
+  "retrieved_on": "2021-12-05 03:47:35.581017",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "S-XEa8n6eNi0avpmmFCydUygGqM",
+    "id": "UCIUtwq6jMFYQj2ASOj95TGw",
+    "snippet": {
+      "title": "Tomas George",
+      "description": "Tomas George is a composer and producer who specialises in electronic music production.\n\nView my Academy:\nhttps://digitalmusicmasters.com\n\nView my Website for Projects and Products:\nhttps://tomasgeorge.com",
+      "customUrl": "tomasgeorge",
+      "publishedAt": "2015-11-28T09:39:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRjEKj5hhOlYOFVx3pmdTVjzakBf4b_rZinijqwRQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRjEKj5hhOlYOFVx3pmdTVjzakBf4b_rZinijqwRQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRjEKj5hhOlYOFVx3pmdTVjzakBf4b_rZinijqwRQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tomas George",
+        "description": "Tomas George is a composer and producer who specialises in electronic music production.\n\nView my Academy:\nhttps://digitalmusicmasters.com\n\nView my Website for Projects and Products:\nhttps://tomasgeorge.com"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIUtwq6jMFYQj2ASOj95TGw"
+      }
+    },
+    "statistics": {
+      "viewCount": "4089056",
+      "subscriberCount": "40900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "241"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tomas George",
+        "description": "Tomas George is a composer and producer who specialises in electronic music production.\n\nView my Academy:\nhttps://digitalmusicmasters.com\n\nView my Website for Projects and Products:\nhttps://tomasgeorge.com",
+        "unsubscribedTrailer": "IF4eJ5_xQqA",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/7-5RhK3tpChZVFBTZUnVLzXFUFVRTzihUGZU58fNlrBey0v42OfwQRAVIQfXSWiPPc6VSgAdHQ"
+      }
+    }
+  }
+}

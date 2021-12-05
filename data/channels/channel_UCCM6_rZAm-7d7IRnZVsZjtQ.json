@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCCM6_rZAm-7d7IRnZVsZjtQ",
+  "retrieved_on": "2021-12-05 03:47:36.095912",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "EnzB6-5eFN2i4hPtN9Iwlp94VWs",
+    "id": "UCCM6_rZAm-7d7IRnZVsZjtQ",
+    "snippet": {
+      "title": "Symbols",
+      "description": "An experimental electronic music label. \nNever mind the mainstream.",
+      "customUrl": "symbolstv",
+      "publishedAt": "2011-10-07T05:28:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ7AsBQr4zhTDCg9nJukF0rCbMvTFBaXklJxb6ZEw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ7AsBQr4zhTDCg9nJukF0rCbMvTFBaXklJxb6ZEw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ7AsBQr4zhTDCg9nJukF0rCbMvTFBaXklJxb6ZEw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Symbols",
+        "description": "An experimental electronic music label. \nNever mind the mainstream."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUCM6_rZAm-7d7IRnZVsZjtQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1421753",
+      "subscriberCount": "4350",
+      "hiddenSubscriberCount": false,
+      "videoCount": "223"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Symbols",
+        "description": "An experimental electronic music label. \nNever mind the mainstream.",
+        "keywords": "symbols kastle \"experimental music\" \"electronic music\" grime club bass trap ambient idm",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/NR79vM2cLeJ_AJK8J6W-wZzyNwfITF7qmqciJva8JFGp3fk7_-gVnAyY_QkYCWOqk29JsAT8kQ"
+      }
+    }
+  }
+}

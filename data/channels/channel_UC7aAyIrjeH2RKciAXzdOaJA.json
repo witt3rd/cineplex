@@ -1,0 +1,57 @@
+{
+  "channel_id": "UC7aAyIrjeH2RKciAXzdOaJA",
+  "retrieved_on": "2021-12-05 03:47:36.581223",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BduWKpwmjCh8bVL2LDbuHAtL2XI",
+    "id": "UC7aAyIrjeH2RKciAXzdOaJA",
+    "snippet": {
+      "title": "Artisan Makes",
+      "description": "G'day everyone. \n\nHere on the Artisan Makes channel I create home machine shop videos. With a small workshop and modest equipment, I will show that almost anything can be made with an import lathe, and a small milling machine.  I hope you learn something new and enjoy your time here. \n\nCheers\n\nRed Lathe: Sieg C3 7x14 Mini Lathe\nSmall Lathe: Sherline 4410 CNC\nVertical Mill: Sieg X2.7l\n\n",
+      "publishedAt": "2017-09-18T12:45:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTzjPSAwZbK7VTQVuU_zAN2XE_c6xrNQ328-WoC=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTzjPSAwZbK7VTQVuU_zAN2XE_c6xrNQ328-WoC=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTzjPSAwZbK7VTQVuU_zAN2XE_c6xrNQ328-WoC=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Artisan Makes",
+        "description": "G'day everyone. \n\nHere on the Artisan Makes channel I create home machine shop videos. With a small workshop and modest equipment, I will show that almost anything can be made with an import lathe, and a small milling machine.  I hope you learn something new and enjoy your time here. \n\nCheers\n\nRed Lathe: Sieg C3 7x14 Mini Lathe\nSmall Lathe: Sherline 4410 CNC\nVertical Mill: Sieg X2.7l\n\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7aAyIrjeH2RKciAXzdOaJA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2681865",
+      "subscriberCount": "17100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "53"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Artisan Makes",
+        "description": "G'day everyone. \n\nHere on the Artisan Makes channel I create home machine shop videos. With a small workshop and modest equipment, I will show that almost anything can be made with an import lathe, and a small milling machine.  I hope you learn something new and enjoy your time here. \n\nCheers\n\nRed Lathe: Sieg C3 7x14 Mini Lathe\nSmall Lathe: Sherline 4410 CNC\nVertical Mill: Sieg X2.7l\n\n",
+        "unsubscribedTrailer": "9KrTMUpOEDs"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/o0OjdL0nSQZC15B8xdQ6OLlZ_9KQ3IJXqh8mOQLujy9S5NhIugFuNPU4Htfd4l2L8ycjg__ofg"
+      }
+    }
+  }
+}

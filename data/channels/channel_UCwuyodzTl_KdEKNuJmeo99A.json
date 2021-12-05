@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCwuyodzTl_KdEKNuJmeo99A",
+  "retrieved_on": "2021-12-05 03:47:37.948835",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QEDqRlzOuKtbJ0MvlIXLuLOhKlE",
+    "id": "UCwuyodzTl_KdEKNuJmeo99A",
+    "snippet": {
+      "title": "EmacsConf and Emacs hangouts",
+      "description": "Emacs conferences and other events",
+      "customUrl": "emacsconf",
+      "publishedAt": "2015-04-08T23:59:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOiOYUd5WFK4tZmSXc0yPcgePrr_wE-IGytosw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOiOYUd5WFK4tZmSXc0yPcgePrr_wE-IGytosw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSOiOYUd5WFK4tZmSXc0yPcgePrr_wE-IGytosw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "EmacsConf and Emacs hangouts",
+        "description": "Emacs conferences and other events"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwuyodzTl_KdEKNuJmeo99A"
+      }
+    },
+    "statistics": {
+      "viewCount": "178843",
+      "subscriberCount": "2490",
+      "hiddenSubscriberCount": false,
+      "videoCount": "176"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "EmacsConf and Emacs hangouts",
+        "description": "Emacs conferences and other events",
+        "keywords": "emacs hangouts conferences code tech"
+      }
+    }
+  }
+}

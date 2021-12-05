@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCfu6h2CiubVESXuQ7NS6YLw",
+  "retrieved_on": "2021-12-05 03:47:31.215464",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "eZcknSrw4SLgRiVasdZlPhU_ZAU",
+    "id": "UCfu6h2CiubVESXuQ7NS6YLw",
+    "snippet": {
+      "title": "Schwarzblut - Topic",
+      "description": "",
+      "publishedAt": "2013-10-22T04:35:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3VVkKPp2c13lh1SpwwUfqUe8eOSMl8PErLuSx-SWZBRS_h34n12fwJlLSrnODedDp4HrTY9oPI4=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3VVkKPp2c13lh1SpwwUfqUe8eOSMl8PErLuSx-SWZBRS_h34n12fwJlLSrnODedDp4HrTY9oPI4=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3VVkKPp2c13lh1SpwwUfqUe8eOSMl8PErLuSx-SWZBRS_h34n12fwJlLSrnODedDp4HrTY9oPI4=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Schwarzblut - Topic",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfu6h2CiubVESXuQ7NS6YLw"
+      }
+    },
+    "statistics": {
+      "viewCount": "31575",
+      "subscriberCount": "95",
+      "hiddenSubscriberCount": false,
+      "videoCount": "159"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Schwarzblut - Topic"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Se0xzfSLrccKv78jjSCao6ZvJcdH6Wv8gx_jzQb_lHTu0JEIzWBpXEME_7tYMZcl-eDHFRlcGg"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCQ4qFyN4YHX_alL3MrL0UVQ",
+  "retrieved_on": "2021-12-05 03:47:36.809263",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ho0WI_OoMt5T52mygaZ1AJhEP1I",
+    "id": "UCQ4qFyN4YHX_alL3MrL0UVQ",
+    "snippet": {
+      "title": "Warp Academy",
+      "description": "Warp Academy is a global, online community of music producers, founded by Ableton Certified Trainers and industry experts.  We teach all flavors of electronic music production and performance with cutting-edge online courses and live-streams.  You can learn what you want, when you want, at your own pace.\n\nSoundbanks are also a big part of our arsenal.  Expert sound designers on our team have built the essential tools you need to write music.  \n\nYou can learn almost any topic by searching our database of hundreds of free tutorial videos and production tools.  Come check us out.  We\u2019re stoked to meet you!",
+      "customUrl": "warpacademy",
+      "publishedAt": "2008-05-07T05:24:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRZ28gmKPk22Dx5anlHJl5BcPJFAN4sii2YK14T=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRZ28gmKPk22Dx5anlHJl5BcPJFAN4sii2YK14T=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRZ28gmKPk22Dx5anlHJl5BcPJFAN4sii2YK14T=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Warp Academy",
+        "description": "Warp Academy is a global, online community of music producers, founded by Ableton Certified Trainers and industry experts.  We teach all flavors of electronic music production and performance with cutting-edge online courses and live-streams.  You can learn what you want, when you want, at your own pace.\n\nSoundbanks are also a big part of our arsenal.  Expert sound designers on our team have built the essential tools you need to write music.  \n\nYou can learn almost any topic by searching our database of hundreds of free tutorial videos and production tools.  Come check us out.  We\u2019re stoked to meet you!"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUQ4qFyN4YHX_alL3MrL0UVQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "11609261",
+      "subscriberCount": "106000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "391"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Warp Academy",
+        "description": "Warp Academy is a global, online community of music producers, founded by Ableton Certified Trainers and industry experts.  We teach all flavors of electronic music production and performance with cutting-edge online courses and live-streams.  You can learn what you want, when you want, at your own pace.\n\nSoundbanks are also a big part of our arsenal.  Expert sound designers on our team have built the essential tools you need to write music.  \n\nYou can learn almost any topic by searching our database of hundreds of free tutorial videos and production tools.  Come check us out.  We\u2019re stoked to meet you!",
+        "keywords": "\"ableton live\" tutorials \"electronic music\" courses plugins \"ableton certified trainer\" \"music production\" \"home studio\" audio \"audio engineer\" \"sound design\" mixing mastering",
+        "unsubscribedTrailer": "sFgnnfGiDe0",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/fEV0vlc724PzW5xdL5_h08Fen9wFanccwaX70cMOrI_XsvowG0n4qqlk92Jpif5vvecVEuH1XQ"
+      }
+    }
+  }
+}

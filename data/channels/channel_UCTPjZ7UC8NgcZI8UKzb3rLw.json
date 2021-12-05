@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCTPjZ7UC8NgcZI8UKzb3rLw",
+  "retrieved_on": "2021-12-05 03:47:36.348823",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4VR_69LOTksoMATPZzH4ql5aaF0",
+    "id": "UCTPjZ7UC8NgcZI8UKzb3rLw",
+    "snippet": {
+      "title": "Fluidified",
+      "description": "The finest in deep, chilled and atmospheric electronic music. Genres include chillout, downtempo, ambient, future garage and others.\n\nUses for the music include relaxation, studying, concentration, stress relief, mindfulness, meditation, sleeping, etc.\n\nMusic on the channel may only be used with the artists' permission, links to their pages can be found in the descriptions.\n\nSubmissions, general inquiries: contact(at)fluidified.com",
+      "customUrl": "fluidified",
+      "publishedAt": "2012-01-14T19:32:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxaHEcLeitdgrztyDnVzRTEl5LolB3Rv2hP9462g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxaHEcLeitdgrztyDnVzRTEl5LolB3Rv2hP9462g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRxaHEcLeitdgrztyDnVzRTEl5LolB3Rv2hP9462g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fluidified",
+        "description": "The finest in deep, chilled and atmospheric electronic music. Genres include chillout, downtempo, ambient, future garage and others.\n\nUses for the music include relaxation, studying, concentration, stress relief, mindfulness, meditation, sleeping, etc.\n\nMusic on the channel may only be used with the artists' permission, links to their pages can be found in the descriptions.\n\nSubmissions, general inquiries: contact(at)fluidified.com"
+      },
+      "country": "FI"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTPjZ7UC8NgcZI8UKzb3rLw"
+      }
+    },
+    "statistics": {
+      "viewCount": "305288436",
+      "subscriberCount": "676000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1365"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Fluidified",
+        "description": "The finest in deep, chilled and atmospheric electronic music. Genres include chillout, downtempo, ambient, future garage and others.\n\nUses for the music include relaxation, studying, concentration, stress relief, mindfulness, meditation, sleeping, etc.\n\nMusic on the channel may only be used with the artists' permission, links to their pages can be found in the descriptions.\n\nSubmissions, general inquiries: contact(at)fluidified.com",
+        "keywords": "fluidified mix chillout liquid future garage downtempo hip hop ambient chillstep melodic uplifting chilled chill electronic chilling relaxing deep relaxation atmospheric music hd hq studying stress relief concentration focusing meditation mindfulness inspiration",
+        "trackingAnalyticsAccountId": "UA-41219385-1",
+        "unsubscribedTrailer": "s_Vg5NN7LBo",
+        "country": "FI"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/kZWNdGH0xAPpyraoTov4U7ma_L_OIMMcOu8yekodxG9R54oYCDffA_cs8tDy_fynGaqT99Gi"
+      }
+    }
+  }
+}

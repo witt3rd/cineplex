@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCCODtTcd5M1JavPCOr_Uydg",
+  "retrieved_on": "2021-12-05 03:47:33.306782",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "1crQDmE3IzkVemqrdepuM06DRjw",
+    "id": "UCCODtTcd5M1JavPCOr_Uydg",
+    "snippet": {
+      "title": "Extra Credits",
+      "description": "Welcome! \n\nWe\u2019re an educational YouTube channel made up of entertainment enthusiasts with backgrounds in game design, television production, literature and academia. Our team creates short-form animated video essays every week about game design, world history, mythology, and other subjects, all of which may or may not involve a cat!\n\nEXTRA HISTORY\nHistory is the best novel you've ever read. Join us on Extra History every Saturday to explore dramatic adventures in world history! \n\nEXTRA CREDITS\nGames are the most popular form of mass entertainment. Join us on Extra Credits every other Wednesday as we take a deeper look at games: how they are made, what they mean, and how we can make them better. \n\nEXTRA MYTHOLOGY\nOur myths define us. They are the basis of our culture. Join us on Extra Mythology every other Wednesday as we delve into some of the coolest stories of world mythology!\n\nCheck us out on Twitch at: https://www.twitch.tv/extracredits",
+      "customUrl": "extracreditz",
+      "publishedAt": "2011-08-05T20:26:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTROn6pC979Dd-MVkMvpeSxxq6JjRC-kGGOVD35Bg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTROn6pC979Dd-MVkMvpeSxxq6JjRC-kGGOVD35Bg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTROn6pC979Dd-MVkMvpeSxxq6JjRC-kGGOVD35Bg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Extra Credits",
+        "description": "Welcome! \n\nWe\u2019re an educational YouTube channel made up of entertainment enthusiasts with backgrounds in game design, television production, literature and academia. Our team creates short-form animated video essays every week about game design, world history, mythology, and other subjects, all of which may or may not involve a cat!\n\nEXTRA HISTORY\nHistory is the best novel you've ever read. Join us on Extra History every Saturday to explore dramatic adventures in world history! \n\nEXTRA CREDITS\nGames are the most popular form of mass entertainment. Join us on Extra Credits every other Wednesday as we take a deeper look at games: how they are made, what they mean, and how we can make them better. \n\nEXTRA MYTHOLOGY\nOur myths define us. They are the basis of our culture. Join us on Extra Mythology every other Wednesday as we delve into some of the coolest stories of world mythology!\n\nCheck us out on Twitch at: https://www.twitch.tv/extracredits"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUCODtTcd5M1JavPCOr_Uydg"
+      }
+    },
+    "statistics": {
+      "viewCount": "814627660",
+      "subscriberCount": "2590000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1303"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Extra Credits",
+        "description": "Welcome! \n\nWe\u2019re an educational YouTube channel made up of entertainment enthusiasts with backgrounds in game design, television production, literature and academia. Our team creates short-form animated video essays every week about game design, world history, mythology, and other subjects, all of which may or may not involve a cat!\n\nEXTRA HISTORY\nHistory is the best novel you've ever read. Join us on Extra History every Saturday to explore dramatic adventures in world history! \n\nEXTRA CREDITS\nGames are the most popular form of mass entertainment. Join us on Extra Credits every other Wednesday as we take a deeper look at games: how they are made, what they mean, and how we can make them better. \n\nEXTRA MYTHOLOGY\nOur myths define us. They are the basis of our culture. Join us on Extra Mythology every other Wednesday as we delve into some of the coolest stories of world mythology!\n\nCheck us out on Twitch at: https://www.twitch.tv/extracredits",
+        "keywords": "\"extra credits\" \"game design\" \"matt krol\" \"scott dewitt\" \"nick dewitt\" \"rob rath\" \"extra history\" \"extra sci fi\" \"extra mythology\" \"design club\" \"game industry\" \"world history\" \"us history\" \"because games matter\" \"because learning matters\" \"extra politics\" mythology sci-fi \"david hueso\" \"ali thome\" \"jordan martin\" walpole \"arthur guilford\" \"geoffrey zatkin\" \"tiffany roman\" \"matthew krol\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "27U0O3Eeo1I",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/30eQSMcvtA5toYQxRTEAGo7wTKqRjybTAt2DpTUDTMU9c2XTGnNXWKCdAsaHs535YqIHV-MbYQ"
+      }
+    }
+  }
+}

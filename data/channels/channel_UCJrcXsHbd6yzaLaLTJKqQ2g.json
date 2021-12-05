@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCJrcXsHbd6yzaLaLTJKqQ2g",
+  "retrieved_on": "2021-12-05 03:47:29.852551",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fERgp8D6jWrORsEF0afxT9P4fpA",
+    "id": "UCJrcXsHbd6yzaLaLTJKqQ2g",
+    "snippet": {
+      "title": "FandersonUfo",
+      "description": "UFO Gerry and Silvia Anderson",
+      "customUrl": "fandersonufo",
+      "publishedAt": "2016-01-16T18:42:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpLdt7ZsHQfwndpWzMLr9ZSxs9XVVuDunCmd7Z=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpLdt7ZsHQfwndpWzMLr9ZSxs9XVVuDunCmd7Z=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQpLdt7ZsHQfwndpWzMLr9ZSxs9XVVuDunCmd7Z=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "FandersonUfo",
+        "description": "UFO Gerry and Silvia Anderson"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJrcXsHbd6yzaLaLTJKqQ2g"
+      }
+    },
+    "statistics": {
+      "viewCount": "5035143",
+      "subscriberCount": "17800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "59"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "FandersonUfo",
+        "description": "UFO Gerry and Silvia Anderson",
+        "keywords": "\"Gerry Anderson\" \"UFO TV Series\"",
+        "unsubscribedTrailer": "0IrGtE9ZxoM",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/p-3-ueTWQ34SwercLofuB5JGO6KmdfquUKLBWWEOTipDxTGdZRsepA0zs7Zoeu8WhG24wDTm"
+      }
+    }
+  }
+}

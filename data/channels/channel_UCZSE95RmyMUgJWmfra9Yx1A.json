@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCZSE95RmyMUgJWmfra9Yx1A",
+  "retrieved_on": "2021-12-05 03:47:31.570348",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9ltCtysCX03gVqu4o8zQR6OCNhs",
+    "id": "UCZSE95RmyMUgJWmfra9Yx1A",
+    "snippet": {
+      "title": "Reel Truth Science Documentaries",
+      "description": "Welcome to ReelTruth.Science the home of inspiring documentaries from the scientific and medical world. Here you can find full length documentaries to discover and explore.\n\nAll content distributed via Endemol Shine Group & it\u2019s affiliate production labels, Endemol Shine International & Sideways Films. Any enquiries please contact: digitalops@endemolshine.com",
+      "publishedAt": "2018-04-10T08:43:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQqQvuf2CiVfQzffw5VCt1z8j9w_GOd4m7XOpx3iw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQqQvuf2CiVfQzffw5VCt1z8j9w_GOd4m7XOpx3iw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQqQvuf2CiVfQzffw5VCt1z8j9w_GOd4m7XOpx3iw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Reel Truth Science Documentaries",
+        "description": "Welcome to ReelTruth.Science the home of inspiring documentaries from the scientific and medical world. Here you can find full length documentaries to discover and explore.\n\nAll content distributed via Endemol Shine Group & it\u2019s affiliate production labels, Endemol Shine International & Sideways Films. Any enquiries please contact: digitalops@endemolshine.com"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZSE95RmyMUgJWmfra9Yx1A"
+      }
+    },
+    "statistics": {
+      "viewCount": "49308017",
+      "subscriberCount": "446000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "171"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Reel Truth Science Documentaries",
+        "description": "Welcome to ReelTruth.Science the home of inspiring documentaries from the scientific and medical world. Here you can find full length documentaries to discover and explore.\n\nAll content distributed via Endemol Shine Group & it\u2019s affiliate production labels, Endemol Shine International & Sideways Films. Any enquiries please contact: digitalops@endemolshine.com",
+        "keywords": "\"Documentary full documentary documentary channel docu top documentaries\" \"documentaries documentaire documental documentary film free documentary Science\" \"interesting facts\" \"science documentary discovery full length documentaries documentaries factual scientific\"",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/5P7hbLsqdx0rgvR49rSQtQwOdj_xTNnqZT2SPUixoQ5oZVfYHA2xA5F9tkV_RWz1gpysOfEhFQ"
+      }
+    }
+  }
+}

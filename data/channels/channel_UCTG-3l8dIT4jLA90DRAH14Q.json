@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCTG-3l8dIT4jLA90DRAH14Q",
+  "retrieved_on": "2021-12-05 03:47:39.939444",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Eb-vnTwyCjeuhr-6HIxDA67SgQc",
+    "id": "UCTG-3l8dIT4jLA90DRAH14Q",
+    "snippet": {
+      "title": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022",
+      "description": "",
+      "customUrl": "nightmareultrasounds",
+      "publishedAt": "2014-09-09T13:21:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTGiyJtApdQUrUab4HxVOwEyd5R-Ob1gWky5KMalQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTGiyJtApdQUrUab4HxVOwEyd5R-Ob1gWky5KMalQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTGiyJtApdQUrUab4HxVOwEyd5R-Ob1gWky5KMalQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTG-3l8dIT4jLA90DRAH14Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "1363424",
+      "hiddenSubscriberCount": true,
+      "videoCount": "20"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022",
+        "moderateComments": true
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/-Jqk3MY28DTg/VS4_A5hTOeI/AAAAAAAAAJk/Q0leCDCafJI/s0/2095802085_097bdf13a3_o.jpg"
+      }
+    }
+  }
+}

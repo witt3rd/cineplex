@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC35-eBsoigBOWNYzn8b5aLA",
+  "retrieved_on": "2021-12-05 03:47:28.552357",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "x8RAImv2YZkqx7cW1BadJM780WY",
+    "id": "UC35-eBsoigBOWNYzn8b5aLA",
+    "snippet": {
+      "title": "Enemy of the Surveillance State",
+      "description": "Privacy is a God-given right. Mass surveillance \u2014 whether done by an overreaching  government agency or a nosy corporation \u2014 is an infringement of that right. The Enemy of the [Surveillance] State podcast is a weekly episodic program geared toward sharing news, tools, and practices to help you protect your personal data against mass surveillance. \n",
+      "publishedAt": "2020-01-11T17:04:17.138341Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQyyvdnhH_qcy7y6ndlsOlkyJQKprMRsjPpQ72c=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQyyvdnhH_qcy7y6ndlsOlkyJQKprMRsjPpQ72c=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQyyvdnhH_qcy7y6ndlsOlkyJQKprMRsjPpQ72c=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Enemy of the Surveillance State",
+        "description": "Privacy is a God-given right. Mass surveillance \u2014 whether done by an overreaching  government agency or a nosy corporation \u2014 is an infringement of that right. The Enemy of the [Surveillance] State podcast is a weekly episodic program geared toward sharing news, tools, and practices to help you protect your personal data against mass surveillance. \n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU35-eBsoigBOWNYzn8b5aLA"
+      }
+    },
+    "statistics": {
+      "viewCount": "3184",
+      "subscriberCount": "251",
+      "hiddenSubscriberCount": false,
+      "videoCount": "25"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Enemy of the Surveillance State",
+        "description": "Privacy is a God-given right. Mass surveillance \u2014 whether done by an overreaching  government agency or a nosy corporation \u2014 is an infringement of that right. The Enemy of the [Surveillance] State podcast is a weekly episodic program geared toward sharing news, tools, and practices to help you protect your personal data against mass surveillance. \n",
+        "keywords": "NSA Surveillance Privacy Liberty \"Digital Rights\"",
+        "moderateComments": true,
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/t-wlrekjJlR1RRsduvmEkXZ1oEOG9fXf9pZmFLe0BPOxXIQ8Z-PSKdu5yiB1smKQJ7G0eNu--pA"
+      }
+    }
+  }
+}

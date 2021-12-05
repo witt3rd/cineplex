@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCnxrdFPXJMeHru_b4Q_vTPQ",
+  "retrieved_on": "2021-12-05 03:47:37.948905",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8ny4rik9sytTqz8WH35kQtrXv2c",
+    "id": "UCnxrdFPXJMeHru_b4Q_vTPQ",
+    "snippet": {
+      "title": "Simply Explained",
+      "description": "Taking complicated topics and explaining them in plain English. \n\nMy name is Xavier. I\u2019m very passionate about all kinds of technologies and I love taking complex topics and explaining them in a simple and straightforward way. It\u2019s this passion that got me into making YouTube videos.\n\nWith this channel, I hope to pass along some of my knowledge to others. Let me know if you have suggestions for future videos or improvements.",
+      "customUrl": "savjee",
+      "publishedAt": "2016-01-13T09:47:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlTYM5_-ZOznwuYNkn2sosRt4HyK_AoiWSg8Ud0Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlTYM5_-ZOznwuYNkn2sosRt4HyK_AoiWSg8Ud0Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlTYM5_-ZOznwuYNkn2sosRt4HyK_AoiWSg8Ud0Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Simply Explained",
+        "description": "Taking complicated topics and explaining them in plain English. \n\nMy name is Xavier. I\u2019m very passionate about all kinds of technologies and I love taking complex topics and explaining them in a simple and straightforward way. It\u2019s this passion that got me into making YouTube videos.\n\nWith this channel, I hope to pass along some of my knowledge to others. Let me know if you have suggestions for future videos or improvements."
+      },
+      "country": "BE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUnxrdFPXJMeHru_b4Q_vTPQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "22595108",
+      "subscriberCount": "362000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "144"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Simply Explained",
+        "description": "Taking complicated topics and explaining them in plain English. \n\nMy name is Xavier. I\u2019m very passionate about all kinds of technologies and I love taking complex topics and explaining them in a simple and straightforward way. It\u2019s this passion that got me into making YouTube videos.\n\nWith this channel, I hope to pass along some of my knowledge to others. Let me know if you have suggestions for future videos or improvements.",
+        "keywords": "savjee explained simply tutorials quality free howto learn explainer education simple easy technology tech distributed",
+        "trackingAnalyticsAccountId": "UA-21432611-6",
+        "moderateComments": true,
+        "unsubscribedTrailer": "wSG1N9RWp8E",
+        "country": "BE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/0uUQ_GuWiHrvG4RlnA7MaCMdN185dq97nzi6s4N6TS0O-5xjrTBLV9ZeNHmx2gdxTYhYk6qGkuo"
+      }
+    }
+  }
+}

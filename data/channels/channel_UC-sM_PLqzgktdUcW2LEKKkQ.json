@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC-sM_PLqzgktdUcW2LEKKkQ",
+  "retrieved_on": "2021-12-05 03:47:28.304190",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "oNH1Dd-Tg7En9uVZPsDwNBaQZOg",
+    "id": "UC-sM_PLqzgktdUcW2LEKKkQ",
+    "snippet": {
+      "title": "The Midnight",
+      "description": "There is a Japanese term: Mono no aware. It means basically, the sad beauty of seeing time pass - the aching awareness of impermanence. These are the days that we will return to one day in the future only in memories.\n\nThe Midnight consists of Tyler Lyle (a songwriter from the Deep South) and Tim McEwan (a producer from Denmark).\n\nTheir new album Monsters is released 10 July 2019 on Counter Records",
+      "customUrl": "themidnightofficial",
+      "publishedAt": "2014-08-01T05:06:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSQm94pDYcPJY-cVnnNMXiPEurJolM04rMN2ugiiA=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSQm94pDYcPJY-cVnnNMXiPEurJolM04rMN2ugiiA=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSQm94pDYcPJY-cVnnNMXiPEurJolM04rMN2ugiiA=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Midnight",
+        "description": "There is a Japanese term: Mono no aware. It means basically, the sad beauty of seeing time pass - the aching awareness of impermanence. These are the days that we will return to one day in the future only in memories.\n\nThe Midnight consists of Tyler Lyle (a songwriter from the Deep South) and Tim McEwan (a producer from Denmark).\n\nTheir new album Monsters is released 10 July 2019 on Counter Records"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU-sM_PLqzgktdUcW2LEKKkQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "95564190",
+      "subscriberCount": "242000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "101"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Midnight",
+        "description": "There is a Japanese term: Mono no aware. It means basically, the sad beauty of seeing time pass - the aching awareness of impermanence. These are the days that we will return to one day in the future only in memories.\n\nThe Midnight consists of Tyler Lyle (a songwriter from the Deep South) and Tim McEwan (a producer from Denmark).\n\nTheir new album Monsters is released 10 July 2019 on Counter Records",
+        "keywords": "\"The Midnight\" Music \"Electronic Music\" \"Counter Records\" \"Ninja Tune\" \"Dance Music\" \"Pop Music\" Synthwave \"Endless Summer\" \"Days of Thunder\" \"Folk Music\" Sax Vaporwave Aesthetic Monsters 80s 90s \"Deep Blue\" Remix Dj Djs Live 2020",
+        "moderateComments": true,
+        "unsubscribedTrailer": "zVN5LEu8Eeg",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/b-_1ZvySr83d8mOEpsz-203PYplRmfDEC5UIKT4MiJg92a9nie2NWAfF6O6XM1h9wsulX3Xsk0w"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCGrpLw1W3P1_BC4J-Hpytww",
+  "retrieved_on": "2021-12-05 03:47:34.534331",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "L5Y000jcaXbGlqmM_127n6Plor0",
+    "id": "UCGrpLw1W3P1_BC4J-Hpytww",
+    "snippet": {
+      "title": "tim hunkin",
+      "description": "This channel is about Tim Hunkin's work. It includes his TV work, arcade machines, public clocks and his recent youtube 'Secret life of Components' videos.",
+      "customUrl": "timhunkin1",
+      "publishedAt": "2010-11-25T19:47:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtE-gmyan9RGYXR55LyGn5shnuv-PsnFdufPFm=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtE-gmyan9RGYXR55LyGn5shnuv-PsnFdufPFm=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtE-gmyan9RGYXR55LyGn5shnuv-PsnFdufPFm=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "tim hunkin",
+        "description": "This channel is about Tim Hunkin's work. It includes his TV work, arcade machines, public clocks and his recent youtube 'Secret life of Components' videos."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUGrpLw1W3P1_BC4J-Hpytww"
+      }
+    },
+    "statistics": {
+      "viewCount": "2642418",
+      "subscriberCount": "63800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "80"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "tim hunkin",
+        "description": "This channel is about Tim Hunkin's work. It includes his TV work, arcade machines, public clocks and his recent youtube 'Secret life of Components' videos.",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/6LxaCdAMXmvfcsjY5V2UFg8_i5doENsN77PizWi-cUIvAuo7zvIvTCluRjZdoK-Zn22uCW1vtQ"
+      }
+    }
+  }
+}

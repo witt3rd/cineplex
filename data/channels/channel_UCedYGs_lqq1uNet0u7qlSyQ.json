@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCedYGs_lqq1uNet0u7qlSyQ",
+  "retrieved_on": "2021-12-05 03:47:40.292880",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "k0hZPW7RajjZ42qACxyQcO9SE9E",
+    "id": "UCedYGs_lqq1uNet0u7qlSyQ",
+    "snippet": {
+      "title": "Cross Examined",
+      "description": "Welcome to the CrossExamined.org YouTube channel. We exist to cross-examine ideas against the truth of Christianity. Here you\u2019ll find content from the Cross Examined team lead by our founder & president Dr. Frank Turek, the co-author of the best-selling Christian apologetics book, \u2018I Don\u2019t Have Enough Faith to be An Atheist\u2019 (& several more). \n\nOur content includes Q&A clips from live college campus presentations around the country, debates with well-known atheists, interviews, podcast highlights, animation shorts, & our weekly Livestream show, \u2018Hope One\u2019. \n\nTopics we cover include addressing common misconceptions & objections made against the Bible, God, & Christianity. Demonstrating how historical, archaeological, scientific, & philosophical evidence all support what only the Christian worldview claims. We also discuss political & cultural movements that are incompatible with a Biblical worldview & how Christians can best navigate the cultural climate we find ourselves in today.\n\n",
+      "customUrl": "crossexamined",
+      "publishedAt": "2009-09-04T20:31:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTxfifopjIdvttBVuWtIY8ZIepvu-rSj-s1AMVWzw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTxfifopjIdvttBVuWtIY8ZIepvu-rSj-s1AMVWzw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTxfifopjIdvttBVuWtIY8ZIepvu-rSj-s1AMVWzw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Cross Examined",
+        "description": "Welcome to the CrossExamined.org YouTube channel. We exist to cross-examine ideas against the truth of Christianity. Here you\u2019ll find content from the Cross Examined team lead by our founder & president Dr. Frank Turek, the co-author of the best-selling Christian apologetics book, \u2018I Don\u2019t Have Enough Faith to be An Atheist\u2019 (& several more). \n\nOur content includes Q&A clips from live college campus presentations around the country, debates with well-known atheists, interviews, podcast highlights, animation shorts, & our weekly Livestream show, \u2018Hope One\u2019. \n\nTopics we cover include addressing common misconceptions & objections made against the Bible, God, & Christianity. Demonstrating how historical, archaeological, scientific, & philosophical evidence all support what only the Christian worldview claims. We also discuss political & cultural movements that are incompatible with a Biblical worldview & how Christians can best navigate the cultural climate we find ourselves in today.\n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUedYGs_lqq1uNet0u7qlSyQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "65240158",
+      "subscriberCount": "342000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1124"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Cross Examined",
+        "description": "Welcome to the CrossExamined.org YouTube channel. We exist to cross-examine ideas against the truth of Christianity. Here you\u2019ll find content from the Cross Examined team lead by our founder & president Dr. Frank Turek, the co-author of the best-selling Christian apologetics book, \u2018I Don\u2019t Have Enough Faith to be An Atheist\u2019 (& several more). \n\nOur content includes Q&A clips from live college campus presentations around the country, debates with well-known atheists, interviews, podcast highlights, animation shorts, & our weekly Livestream show, \u2018Hope One\u2019. \n\nTopics we cover include addressing common misconceptions & objections made against the Bible, God, & Christianity. Demonstrating how historical, archaeological, scientific, & philosophical evidence all support what only the Christian worldview claims. We also discuss political & cultural movements that are incompatible with a Biblical worldview & how Christians can best navigate the cultural climate we find ourselves in today.\n\n",
+        "keywords": "\"Frank Turek\" Christian Apologetics Worldview Faith Youth God Truth Jesus Bible \"Cross Examined\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "aL6p5mPh5gU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/1OhkhKtQUAKRhX_a_5aiTklKUZxdqfDZnsiwKNabNj_GuynpU08gDoZDfLR4b1Wa4ZPqW4Xw-w"
+      }
+    }
+  }
+}

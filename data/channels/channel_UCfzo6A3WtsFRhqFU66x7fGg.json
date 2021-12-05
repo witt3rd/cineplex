@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCfzo6A3WtsFRhqFU66x7fGg",
+  "retrieved_on": "2021-12-05 03:47:34.309018",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rReFgCNP8b_FLtlhDN5b1HiXv64",
+    "id": "UCfzo6A3WtsFRhqFU66x7fGg",
+    "snippet": {
+      "title": "Fakery",
+      "description": "My goal is to investigate the barrier between tea ceremony and life",
+      "customUrl": "fakery",
+      "publishedAt": "2020-04-02T20:44:33.767526Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQUeG9Zeo5FZVVILBVmXW18mIB7p5j8Vla2eewb=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQUeG9Zeo5FZVVILBVmXW18mIB7p5j8Vla2eewb=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQUeG9Zeo5FZVVILBVmXW18mIB7p5j8Vla2eewb=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fakery",
+        "description": "My goal is to investigate the barrier between tea ceremony and life"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfzo6A3WtsFRhqFU66x7fGg"
+      }
+    },
+    "statistics": {
+      "viewCount": "56325",
+      "subscriberCount": "709",
+      "hiddenSubscriberCount": false,
+      "videoCount": "108"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Fakery",
+        "description": "My goal is to investigate the barrier between tea ceremony and life",
+        "keywords": "zen koans nondual dao nonduality tea spirituality buddhism tao fakery fakefakery twitch.tv debunked \"spirituality debunked\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/NNdFBJ5ykM3bXc4zppBC-lNazrdvHM4Ou6gQD0H-CJlUf5SZLW0BMLxoSpWQoUpyr28FIBH6"
+      }
+    }
+  }
+}

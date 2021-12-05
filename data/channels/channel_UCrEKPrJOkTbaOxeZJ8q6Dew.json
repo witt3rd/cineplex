@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCrEKPrJOkTbaOxeZJ8q6Dew",
+  "retrieved_on": "2021-12-05 03:47:34.309033",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Xb6Do51MGgKe6__VpPqHpKeCK74",
+    "id": "UCrEKPrJOkTbaOxeZJ8q6Dew",
+    "snippet": {
+      "title": "Polyvinyl Records",
+      "description": "Polyvinyl Record Co. is a 100% independently owned and operated record label based in Champaign, Illinois, with additional staff in San Francisco, New York, Austin and elsewhere across the country. Our catalog consists of over 400 releases from more than 100 artists. Home to Alvvays, American Football, Anamanaguchi, Anna Burch, Chris Farren, Generationals, The Get Up Kids, Laura Jane Grace, IAN SWEET, Julia Jacklin, Jay Som, Kero Kero Bonito, Oceanator, of Montreal, Palehound, Pedro The Lion, Jeff Rosenstock, Squirrel Flower, STRFKR, Xiu Xiu, Yumi Zouma, and more! Good music for all you good people. \n\nSubscribe to Polyvinyl Mailing List: https://plyvnyl.co/sign-up\n",
+      "publishedAt": "2006-06-28T20:03:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbRXZFPHXvaF48P_2rpKKBD5xBHGFj6PkasITWQQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbRXZFPHXvaF48P_2rpKKBD5xBHGFj6PkasITWQQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbRXZFPHXvaF48P_2rpKKBD5xBHGFj6PkasITWQQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Polyvinyl Records",
+        "description": "Polyvinyl Record Co. is a 100% independently owned and operated record label based in Champaign, Illinois, with additional staff in San Francisco, New York, Austin and elsewhere across the country. Our catalog consists of over 400 releases from more than 100 artists. Home to Alvvays, American Football, Anamanaguchi, Anna Burch, Chris Farren, Generationals, The Get Up Kids, Laura Jane Grace, IAN SWEET, Julia Jacklin, Jay Som, Kero Kero Bonito, Oceanator, of Montreal, Palehound, Pedro The Lion, Jeff Rosenstock, Squirrel Flower, STRFKR, Xiu Xiu, Yumi Zouma, and more! Good music for all you good people. \n\nSubscribe to Polyvinyl Mailing List: https://plyvnyl.co/sign-up\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUrEKPrJOkTbaOxeZJ8q6Dew"
+      }
+    },
+    "statistics": {
+      "viewCount": "83019915",
+      "subscriberCount": "113000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1234"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Polyvinyl Records",
+        "description": "Polyvinyl Record Co. is a 100% independently owned and operated record label based in Champaign, Illinois, with additional staff in San Francisco, New York, Austin and elsewhere across the country. Our catalog consists of over 400 releases from more than 100 artists. Home to Alvvays, American Football, Anamanaguchi, Anna Burch, Chris Farren, Generationals, The Get Up Kids, Laura Jane Grace, IAN SWEET, Julia Jacklin, Jay Som, Kero Kero Bonito, Oceanator, of Montreal, Palehound, Pedro The Lion, Jeff Rosenstock, Squirrel Flower, STRFKR, Xiu Xiu, Yumi Zouma, and more! Good music for all you good people. \n\nSubscribe to Polyvinyl Mailing List: https://plyvnyl.co/sign-up\n",
+        "keywords": "polyvinyl \"polyvinyl records\" alvvays \"xiu xiu\" \"american football\" \"kero kero bonito\" \"of montreal\" strfkr indie \"music videos\" \"jeff rosenstock\" japandroids",
+        "trackingAnalyticsAccountId": "UA-45939067-3",
+        "unsubscribedTrailer": "jZbgG1xH2bs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/xS1008razkkBMIB0PzN4nx47mdG2HiQX-7oMHqFizXbrIg9SwgTRtubG_AH5zEQEzjOXYAuimg"
+      }
+    }
+  }
+}

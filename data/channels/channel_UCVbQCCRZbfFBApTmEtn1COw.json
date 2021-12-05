@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCVbQCCRZbfFBApTmEtn1COw",
+  "retrieved_on": "2021-12-05 03:47:30.682776",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "RT73PDVrWswHVll2aLB3LflPID8",
+    "id": "UCVbQCCRZbfFBApTmEtn1COw",
+    "snippet": {
+      "title": "Four Acorns / Quatre graines de ch\u00eane",
+      "description": "",
+      "publishedAt": "2016-08-19T12:54:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTp9a2upG3OHWlaOS42n0ZmH0rVB047Vm7EcYnK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTp9a2upG3OHWlaOS42n0ZmH0rVB047Vm7EcYnK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTp9a2upG3OHWlaOS42n0ZmH0rVB047Vm7EcYnK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Four Acorns / Quatre graines de ch\u00eane",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVbQCCRZbfFBApTmEtn1COw"
+      }
+    },
+    "statistics": {
+      "viewCount": "5827",
+      "hiddenSubscriberCount": true,
+      "videoCount": "54"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Four Acorns / Quatre graines de ch\u00eane",
+        "keywords": "blog tourism family travel Ireland France"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/0FbA4b6qm90lY_XYCfnErSxaRjmltQdOBjc1MIWxD7pTjskhtgJjj_uV3RcvgGv6ehkO-1vO4g"
+      }
+    }
+  }
+}

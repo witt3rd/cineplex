@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCn1wSZL86FfGqZ3aDHiERgw",
+  "retrieved_on": "2021-12-05 03:47:32.314690",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "7P2raABjScuMnr-svfwaK4kx1xU",
+    "id": "UCn1wSZL86FfGqZ3aDHiERgw",
+    "snippet": {
+      "title": "RobinHoodUK",
+      "description": "A channel for all UKIP news content and sometimes editorial content with rightwing, libertarian, classical liberal views by yours truly.\nI pride myself on being the fastest uploader of everything UKIP.\nby the way, if you want to contact me, just message me on facebook or twitter as i dont get notifications on youtube.",
+      "publishedAt": "2014-10-21T14:39:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRX6fUqlSvZCUjTFdAlzizE_CNfImKNbNwjzeYU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRX6fUqlSvZCUjTFdAlzizE_CNfImKNbNwjzeYU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRX6fUqlSvZCUjTFdAlzizE_CNfImKNbNwjzeYU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "RobinHoodUK",
+        "description": "A channel for all UKIP news content and sometimes editorial content with rightwing, libertarian, classical liberal views by yours truly.\nI pride myself on being the fastest uploader of everything UKIP.\nby the way, if you want to contact me, just message me on facebook or twitter as i dont get notifications on youtube."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUn1wSZL86FfGqZ3aDHiERgw"
+      }
+    },
+    "statistics": {
+      "viewCount": "86263087",
+      "subscriberCount": "125000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1013"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "RobinHoodUK",
+        "description": "A channel for all UKIP news content and sometimes editorial content with rightwing, libertarian, classical liberal views by yours truly.\nI pride myself on being the fastest uploader of everything UKIP.\nby the way, if you want to contact me, just message me on facebook or twitter as i dont get notifications on youtube.",
+        "keywords": "robbinghooduk",
+        "unsubscribedTrailer": "HI4BBocHPHg"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/9ZdqAJMDtwSrTftbCfEyiTS0eN2vVsCRwPq8fXJu-KiJWyVujovB3mSqqSm0njTMHxYn3v9F"
+      }
+    }
+  }
+}

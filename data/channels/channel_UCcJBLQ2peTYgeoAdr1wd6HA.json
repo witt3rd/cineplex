@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCcJBLQ2peTYgeoAdr1wd6HA",
+  "retrieved_on": "2021-12-05 03:47:40.782056",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "i3MXJjsy4PyDD4o1HcgRrMpIrA4",
+    "id": "UCcJBLQ2peTYgeoAdr1wd6HA",
+    "snippet": {
+      "title": "euverus",
+      "description": "",
+      "publishedAt": "2017-11-29T03:14:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSTSG1XExWi2NNy6RxDTyB-6kHj5bipXER1Hg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSTSG1XExWi2NNy6RxDTyB-6kHj5bipXER1Hg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSTSG1XExWi2NNy6RxDTyB-6kHj5bipXER1Hg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "euverus",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUcJBLQ2peTYgeoAdr1wd6HA"
+      }
+    },
+    "statistics": {
+      "viewCount": "23570545",
+      "subscriberCount": "13500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "euverus"
+      }
+    }
+  }
+}

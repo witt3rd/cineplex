@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCk7IufzS4r8v76NeWR6A3dg",
+  "retrieved_on": "2021-12-05 03:47:38.852429",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nERCop2sytEd5U-qHfvTZId2fZA",
+    "id": "UCk7IufzS4r8v76NeWR6A3dg",
+    "snippet": {
+      "title": "Derek Elliott",
+      "description": "Thanks for checking out my channel! It's here where I post Blender 3D tips, tricks, tutorials, and things I wish I knew when I started using Blender over 10 years ago! Thanks again, see you in the comments!",
+      "customUrl": "derekelliott",
+      "publishedAt": "2014-09-27T02:34:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlPK2c6iRAvl_31ADulG0AAoQuQQjChptjmPHxqA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlPK2c6iRAvl_31ADulG0AAoQuQQjChptjmPHxqA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlPK2c6iRAvl_31ADulG0AAoQuQQjChptjmPHxqA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Derek Elliott",
+        "description": "Thanks for checking out my channel! It's here where I post Blender 3D tips, tricks, tutorials, and things I wish I knew when I started using Blender over 10 years ago! Thanks again, see you in the comments!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUk7IufzS4r8v76NeWR6A3dg"
+      }
+    },
+    "statistics": {
+      "viewCount": "4771540",
+      "subscriberCount": "108000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "67"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Derek Elliott",
+        "description": "Thanks for checking out my channel! It's here where I post Blender 3D tips, tricks, tutorials, and things I wish I knew when I started using Blender over 10 years ago! Thanks again, see you in the comments!",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/d4JRFQcT460_dnirjF9DwHCpkQIyiPDHq1cf0MzPNN0ABFxH6zMbHfPuGAhpmWZAHtCC-hmcODI"
+      }
+    }
+  }
+}

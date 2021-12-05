@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCs0I10G-oIitfWdbhQW_2dQ",
+  "retrieved_on": "2021-12-05 03:47:39.939431",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "e_3kj33aG4_r3ohUf5cmbD-WOcE",
+    "id": "UCs0I10G-oIitfWdbhQW_2dQ",
+    "snippet": {
+      "title": "Mulligan Brothers Interviews",
+      "description": "We want to interview and share the most incredible people from around the world. At MulliganBrothers Interviews we believe peoples stories can impact your life. As humans we tell stories and the best stories are our own. We hope to interview as many people as possible. Stay Tuned.  Our interviews are only focused on the individual. We want to share there stories.\n\nFor Interview Requests or general Business enquires Please use the email Below.",
+      "publishedAt": "2016-04-28T01:16:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6g7gGHIMnd7DO4otVhuVIuKzK9WwEQfLNDaP0XZhcaI7BimH3laHIjzIM_zdHoN1KIttmyhSdA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6g7gGHIMnd7DO4otVhuVIuKzK9WwEQfLNDaP0XZhcaI7BimH3laHIjzIM_zdHoN1KIttmyhSdA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6g7gGHIMnd7DO4otVhuVIuKzK9WwEQfLNDaP0XZhcaI7BimH3laHIjzIM_zdHoN1KIttmyhSdA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mulligan Brothers Interviews",
+        "description": "We want to interview and share the most incredible people from around the world. At MulliganBrothers Interviews we believe peoples stories can impact your life. As humans we tell stories and the best stories are our own. We hope to interview as many people as possible. Stay Tuned.  Our interviews are only focused on the individual. We want to share there stories.\n\nFor Interview Requests or general Business enquires Please use the email Below."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUs0I10G-oIitfWdbhQW_2dQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "58673033",
+      "subscriberCount": "355000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "272"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mulligan Brothers Interviews",
+        "description": "We want to interview and share the most incredible people from around the world. At MulliganBrothers Interviews we believe peoples stories can impact your life. As humans we tell stories and the best stories are our own. We hope to interview as many people as possible. Stay Tuned.  Our interviews are only focused on the individual. We want to share there stories.\n\nFor Interview Requests or general Business enquires Please use the email Below.",
+        "keywords": "\"motivational video\" \"mulligan brothers\" mulliganbrothers \"motivation speech\"",
+        "unsubscribedTrailer": "9wuu2wTAq7g",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/4p_B5Ix6ESAJfZNKrBreRQ_0gcLTLN_7L38zmLekY6zm_MWw9QlRZaNfvwcs5j35goGRFEEZnA"
+      }
+    }
+  }
+}

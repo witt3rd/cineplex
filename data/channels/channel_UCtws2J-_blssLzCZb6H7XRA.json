@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCtws2J-_blssLzCZb6H7XRA",
+  "retrieved_on": "2021-12-05 03:47:30.960842",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "_vXn-7wtEXzJtzrwYxZvx0b_yJ4",
+    "id": "UCtws2J-_blssLzCZb6H7XRA",
+    "snippet": {
+      "title": "I Am That, I Am Israel Kelly - OnenessProjectLight",
+      "description": "Israel Kelly is an emissary of Oneness and unconditional Love experiencing the delightful privilege of assisting humanity in remembering of \"Who we already are\" by discarding anything that we are not. in another word; Israel Kelly promotes Self-inquiry as the way to know and experience our True Nature.",
+      "customUrl": "onenessprojectlight",
+      "publishedAt": "2014-04-12T16:29:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR783uXE5ONe-34vVX1U-JqEnGbp8lJDTAweYKppaI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR783uXE5ONe-34vVX1U-JqEnGbp8lJDTAweYKppaI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR783uXE5ONe-34vVX1U-JqEnGbp8lJDTAweYKppaI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "I Am That, I Am Israel Kelly - OnenessProjectLight",
+        "description": "Israel Kelly is an emissary of Oneness and unconditional Love experiencing the delightful privilege of assisting humanity in remembering of \"Who we already are\" by discarding anything that we are not. in another word; Israel Kelly promotes Self-inquiry as the way to know and experience our True Nature."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtws2J-_blssLzCZb6H7XRA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1465261",
+      "hiddenSubscriberCount": true,
+      "videoCount": "125"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "I Am That, I Am Israel Kelly - OnenessProjectLight",
+        "description": "Israel Kelly is an emissary of Oneness and unconditional Love experiencing the delightful privilege of assisting humanity in remembering of \"Who we already are\" by discarding anything that we are not. in another word; Israel Kelly promotes Self-inquiry as the way to know and experience our True Nature.",
+        "keywords": "Consciuosness",
+        "unsubscribedTrailer": "8pYGBEgKSz0",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/3xr1xOtvdVNQseUuBd8fUBZHgUm9EFgmVz0uHjFGrsBQDH2sD4E3ZLvdLRJePWJSADAEvnUHAZ0"
+      }
+    }
+  }
+}

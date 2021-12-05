@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCoj4eQh_dZR37lL78ymC6XA",
+  "retrieved_on": "2021-12-05 03:47:35.856680",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "f390g5Wsw314uHIZHSG0BnLpNC8",
+    "id": "UCoj4eQh_dZR37lL78ymC6XA",
+    "snippet": {
+      "title": "PapersWeLove",
+      "description": "What was the last paper within the realm of computing you read and loved? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper (because of HARD MATH!). Otherwise, just come, listen, and discuss.\n\nWe're curating a repository for papers and places-to-find papers at https://github.com/papers-we-love/papers-we-love. You can contribute by adding PR's for papers, code, and/or links to other repositories.",
+      "customUrl": "paperswelove",
+      "publishedAt": "2014-02-28T13:41:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQQr023iWmzwAR5IItTJkIGK7Qr7IXkyjMkGPJM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQQr023iWmzwAR5IItTJkIGK7Qr7IXkyjMkGPJM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQQr023iWmzwAR5IItTJkIGK7Qr7IXkyjMkGPJM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PapersWeLove",
+        "description": "What was the last paper within the realm of computing you read and loved? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper (because of HARD MATH!). Otherwise, just come, listen, and discuss.\n\nWe're curating a repository for papers and places-to-find papers at https://github.com/papers-we-love/papers-we-love. You can contribute by adding PR's for papers, code, and/or links to other repositories."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUoj4eQh_dZR37lL78ymC6XA"
+      }
+    },
+    "statistics": {
+      "viewCount": "699673",
+      "subscriberCount": "14100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "202"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PapersWeLove",
+        "description": "What was the last paper within the realm of computing you read and loved? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper (because of HARD MATH!). Otherwise, just come, listen, and discuss.\n\nWe're curating a repository for papers and places-to-find papers at https://github.com/papers-we-love/papers-we-love. You can contribute by adding PR's for papers, code, and/or links to other repositories.",
+        "keywords": "paperswelove \"computer science\" engineering",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/wraqgPXZSBun5kvb_ZTQLDxuv3i0NLXzKZ3NiWpLi6cw25q2sL4R6dr7oBOKSWia8AuLOgEl"
+      }
+    }
+  }
+}

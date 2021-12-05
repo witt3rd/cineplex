@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC9Ta8RQydQwHdFwzYt9cnYg",
+  "retrieved_on": "2021-12-05 03:47:41.016801",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HhqCpF75MsuoGlrxAlohLQv7k3A",
+    "id": "UC9Ta8RQydQwHdFwzYt9cnYg",
+    "snippet": {
+      "title": "Mock The Week",
+      "description": "",
+      "customUrl": "mocktheweek",
+      "publishedAt": "2019-01-04T11:01:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2HBU4QZEiyhw3yBn1Bfmusm_gvj_CJtNErSU-=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2HBU4QZEiyhw3yBn1Bfmusm_gvj_CJtNErSU-=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2HBU4QZEiyhw3yBn1Bfmusm_gvj_CJtNErSU-=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mock The Week",
+        "description": ""
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU9Ta8RQydQwHdFwzYt9cnYg"
+      }
+    },
+    "statistics": {
+      "viewCount": "47913285",
+      "subscriberCount": "70900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "415"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mock The Week",
+        "keywords": "\"mock the week\" \"dara o'briain\" comedy \"panel show\" bbc \"topical comedy\" UK news \"Rob Beckett\" \"Milton Jones\" \"James Acaster\" \"Frankie Boyle\" \"Hugh Dennis\" \"Josh Widdecombe\" \"Alan Parsons\" \"Ed Gamble\" \"Nish Kuymar\" \"Mock the week\" \"Milton jones\" \"romish ranganathan\" \"mock the week 2019\" #mocktheweek \"Milton jones mock the week\" \"Stewart Francis\" \"mock the week Milton jones\" \"Hugh Dennis\" \"prince Andrew\" \"Gary Delaney\" \"Alistair mcgowan\" \"Dara o\u2019brain\" \"katherine Ryan\" \"angry Murray mock the week\" \"Frankie Boyle\" \"hignfy 2019\"",
+        "unsubscribedTrailer": "prnJWTaroRY",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/qjQCJ06xwt06HVy-WXxczTjSYgQrU6zWJWJixIN_X2QGoIjOp-S53LTHH61Ej6ymgzQUWaSbFyg"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCvw6Y1kr_8bp6B5m1dqNyiw",
+  "retrieved_on": "2021-12-05 03:47:32.562751",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Zt0DuaAT7VRhoMteLNPtfxQSOuc",
+    "id": "UCvw6Y1kr_8bp6B5m1dqNyiw",
+    "snippet": {
+      "title": "Claire Saffitz x Dessert Person",
+      "description": "",
+      "customUrl": "clairesaffitzxdessertperson",
+      "publishedAt": "2020-08-24T17:33:11.733493Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTbE39z6WzMjihSaTsKlGPx3dKDbZNJVn57-m-T=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTbE39z6WzMjihSaTsKlGPx3dKDbZNJVn57-m-T=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTbE39z6WzMjihSaTsKlGPx3dKDbZNJVn57-m-T=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Claire Saffitz x Dessert Person",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvw6Y1kr_8bp6B5m1dqNyiw"
+      }
+    },
+    "statistics": {
+      "viewCount": "35175780",
+      "subscriberCount": "871000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "52"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Claire Saffitz x Dessert Person",
+        "keywords": "\"Claire Saffitz\" \"Dessert Person\" Baking Desserts \"How To Bake\" Recipe Cooking \"How To\" Cakes",
+        "unsubscribedTrailer": "JlzmsTiOJnU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/AKC4klIdLiGaxykvYNFnyKWQzylk9ou40Rr65AHb8chS7hAdEmcg0uvX-x5lbBdkHjmXqyYw"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+  "retrieved_on": "2021-12-05 03:47:37.250611",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "C2FmzmEPkiSDg_vWb4SDts4fOg0",
+    "id": "UC2KfmYEM4KCuA1ZurravgYw",
+    "snippet": {
+      "title": "Amigoscode",
+      "description": "",
+      "customUrl": "amigoscode",
+      "publishedAt": "2010-10-04T17:12:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRFUNsF6J0E_KURLUU3D0vqXiyhylruAKhmFqMhL3o=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRFUNsF6J0E_KURLUU3D0vqXiyhylruAKhmFqMhL3o=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRFUNsF6J0E_KURLUU3D0vqXiyhylruAKhmFqMhL3o=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Amigoscode",
+        "description": ""
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2KfmYEM4KCuA1ZurravgYw"
+      }
+    },
+    "statistics": {
+      "viewCount": "12483963",
+      "subscriberCount": "272000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "216"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Amigoscode",
+        "keywords": "programming tech coding aws javascript \"java tutorial\" \"learn python\"",
+        "unsubscribedTrailer": "oS-m5-XikwA",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/TdpnF_rLXL-u783mrIbl0KOaqGXKBuWqkUQq3Fr5kfsQQOm6p96zERg7dbvZGIQitM8kM4MA9co"
+      }
+    }
+  }
+}

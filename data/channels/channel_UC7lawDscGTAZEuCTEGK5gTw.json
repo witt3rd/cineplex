@@ -1,0 +1,54 @@
+{
+  "channel_id": "UC7lawDscGTAZEuCTEGK5gTw",
+  "retrieved_on": "2021-12-05 03:47:30.960902",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ekYsVXZl0cMbWtNyTnKQeG0O_VM",
+    "id": "UC7lawDscGTAZEuCTEGK5gTw",
+    "snippet": {
+      "title": "Thought Vector",
+      "description": "",
+      "publishedAt": "2018-05-07T02:06:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXYFWg89PUx365T7SR2MUIBECyUEOFL8kJ3YCJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXYFWg89PUx365T7SR2MUIBECyUEOFL8kJ3YCJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTXYFWg89PUx365T7SR2MUIBECyUEOFL8kJ3YCJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Thought Vector",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7lawDscGTAZEuCTEGK5gTw"
+      }
+    },
+    "statistics": {
+      "viewCount": "4269",
+      "hiddenSubscriberCount": true,
+      "videoCount": "6"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Thought Vector",
+        "trackingAnalyticsAccountId": "UA-122493390-2",
+        "country": "US"
+      }
+    }
+  }
+}

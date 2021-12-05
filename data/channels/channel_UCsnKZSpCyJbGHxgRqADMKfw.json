@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCsnKZSpCyJbGHxgRqADMKfw",
+  "retrieved_on": "2021-12-05 03:47:34.793973",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "2gjjQZoPISZw1oozInzmxfZe3Og",
+    "id": "UCsnKZSpCyJbGHxgRqADMKfw",
+    "snippet": {
+      "title": "Ginger's Keto In The UK",
+      "description": "Keto Recipes and Science since 2013, fought and won against Pre-Diabetes and Insulin Resistance and lost 70lbs in the process and follow now a NON CALORIE DEFICIT Hormonal keto approach (HIGH FAT) to still lose weight safely.\nI ketofy everyday yummy foods and share the keto knowledge. I have a history of Eating Disorder and have been in #BulimiaRecovery since January 2018\n\nThe Info and knowledge of the Ketogenic Diet, Biology and Biochemistry usually come from personal curiosity and research. I do however hold the certification you can check on my About page so far, https://www.facebook.com/lowcarbuk/about/ \n\nIf you're a brand you can request a copy of my media kit at ginger@ketointhe.uk\n\nI love to research but I am not a medical professional and the information given here does not constitute medical advice.\nIf you embark on a lifestyle change please do consult your doctor first.",
+      "customUrl": "ketointheuk",
+      "publishedAt": "2010-06-23T19:14:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuncgKc7qStN5RZTCoM8gicD1795hmJv71TyRF_A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuncgKc7qStN5RZTCoM8gicD1795hmJv71TyRF_A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuncgKc7qStN5RZTCoM8gicD1795hmJv71TyRF_A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ginger's Keto In The UK",
+        "description": "Keto Recipes and Science since 2013, fought and won against Pre-Diabetes and Insulin Resistance and lost 70lbs in the process and follow now a NON CALORIE DEFICIT Hormonal keto approach (HIGH FAT) to still lose weight safely.\nI ketofy everyday yummy foods and share the keto knowledge. I have a history of Eating Disorder and have been in #BulimiaRecovery since January 2018\n\nThe Info and knowledge of the Ketogenic Diet, Biology and Biochemistry usually come from personal curiosity and research. I do however hold the certification you can check on my About page so far, https://www.facebook.com/lowcarbuk/about/ \n\nIf you're a brand you can request a copy of my media kit at ginger@ketointhe.uk\n\nI love to research but I am not a medical professional and the information given here does not constitute medical advice.\nIf you embark on a lifestyle change please do consult your doctor first."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUsnKZSpCyJbGHxgRqADMKfw"
+      }
+    },
+    "statistics": {
+      "viewCount": "3914411",
+      "subscriberCount": "43900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "644"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ginger's Keto In The UK",
+        "description": "Keto Recipes and Science since 2013, fought and won against Pre-Diabetes and Insulin Resistance and lost 70lbs in the process and follow now a NON CALORIE DEFICIT Hormonal keto approach (HIGH FAT) to still lose weight safely.\nI ketofy everyday yummy foods and share the keto knowledge. I have a history of Eating Disorder and have been in #BulimiaRecovery since January 2018\n\nThe Info and knowledge of the Ketogenic Diet, Biology and Biochemistry usually come from personal curiosity and research. I do however hold the certification you can check on my About page so far, https://www.facebook.com/lowcarbuk/about/ \n\nIf you're a brand you can request a copy of my media kit at ginger@ketointhe.uk\n\nI love to research but I am not a medical professional and the information given here does not constitute medical advice.\nIf you embark on a lifestyle change please do consult your doctor first.",
+        "keywords": "\"low carb recipes\" \"low carb\" \"low carb diet\" \"ginger keto\" \"atkins diet\" \"keto cooking\" \"keto science\" \"ginger keto uk\" \"keto in the uk\" \"keto uk\" \"low carb uk\"",
+        "trackingAnalyticsAccountId": "UA-99318281-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "6baUSMgVaSQ",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/MogdlDDaT16XGboJCWYgD6R_uOA7wdXTT6y0I7PYeytg950f499fg2WfbWJGEAjygJFsrdnf"
+      }
+    }
+  }
+}

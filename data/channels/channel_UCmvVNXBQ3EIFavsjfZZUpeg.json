@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCmvVNXBQ3EIFavsjfZZUpeg",
+  "retrieved_on": "2021-12-05 03:47:38.852448",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HK6sVy5k5uZZjx8koph5Z2TnUQI",
+    "id": "UCmvVNXBQ3EIFavsjfZZUpeg",
+    "snippet": {
+      "title": "Justin Patterson",
+      "description": "I occasionally post videos about game development, web programming, and rabbit care / training. I also doodle and compose electronic music.",
+      "publishedAt": "2010-06-29T02:59:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHDcjExWAAFXp6EbRzAKaKEjHFHEzdY3kKBKjGmA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHDcjExWAAFXp6EbRzAKaKEjHFHEzdY3kKBKjGmA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTHDcjExWAAFXp6EbRzAKaKEjHFHEzdY3kKBKjGmA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Justin Patterson",
+        "description": "I occasionally post videos about game development, web programming, and rabbit care / training. I also doodle and compose electronic music."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmvVNXBQ3EIFavsjfZZUpeg"
+      }
+    },
+    "statistics": {
+      "viewCount": "46799",
+      "subscriberCount": "121",
+      "hiddenSubscriberCount": false,
+      "videoCount": "143"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Justin Patterson",
+        "description": "I occasionally post videos about game development, web programming, and rabbit care / training. I also doodle and compose electronic music."
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/3U7Yb4yjt4NHTw7Mg8jA4yRlq5TNfoV3N8xgpInHxhpKpd-zCRJK7bc9hLx8B7g3hi-ufiz_"
+      }
+    }
+  }
+}

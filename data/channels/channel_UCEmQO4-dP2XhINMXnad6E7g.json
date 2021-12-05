@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCEmQO4-dP2XhINMXnad6E7g",
+  "retrieved_on": "2021-12-05 03:47:39.693647",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8Vjdgq_gz03suUB2XPGPHiEufS0",
+    "id": "UCEmQO4-dP2XhINMXnad6E7g",
+    "snippet": {
+      "title": "Diane Callahan - Quotidian Writer",
+      "description": "Hi there! My name is Diane Callahan. I am a developmental editor of fiction manuscripts and a writer of fantasy/sci-fi stories. This channel is dedicated to providing practical tips for aspiring authors and encouraging discussion about the literary arts.",
+      "customUrl": "quotidianwriter",
+      "publishedAt": "2016-05-06T14:13:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSypla0P3Ept4xpDAwLFa4lJclyiAFH1PgBSTsY8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSypla0P3Ept4xpDAwLFa4lJclyiAFH1PgBSTsY8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSypla0P3Ept4xpDAwLFa4lJclyiAFH1PgBSTsY8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Diane Callahan - Quotidian Writer",
+        "description": "Hi there! My name is Diane Callahan. I am a developmental editor of fiction manuscripts and a writer of fantasy/sci-fi stories. This channel is dedicated to providing practical tips for aspiring authors and encouraging discussion about the literary arts."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUEmQO4-dP2XhINMXnad6E7g"
+      }
+    },
+    "statistics": {
+      "viewCount": "3988719",
+      "subscriberCount": "103000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "36"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Diane Callahan - Quotidian Writer",
+        "description": "Hi there! My name is Diane Callahan. I am a developmental editor of fiction manuscripts and a writer of fantasy/sci-fi stories. This channel is dedicated to providing practical tips for aspiring authors and encouraging discussion about the literary arts.",
+        "keywords": "writing novel book fiction write education \"literary analysis\" literature \"how to write\" \"writing inspiration\" \"writing advice\" \"creative writing\" booktube authortube",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/qHrn-RmXDJPbXKwm9aJKI94vwhO-pGinRsNuLrbXIXuElYdGLS9qo5sSfQQQwil7TUvBTvg16A"
+      }
+    }
+  }
+}

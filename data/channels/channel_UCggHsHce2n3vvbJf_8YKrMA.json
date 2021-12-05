@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCggHsHce2n3vvbJf_8YKrMA",
+  "retrieved_on": "2021-12-05 03:47:31.805429",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YIrZn8F-wy0bZBVvqL80lCWnLOA",
+    "id": "UCggHsHce2n3vvbJf_8YKrMA",
+    "snippet": {
+      "title": "Nerdforge",
+      "description": "We're the Nerdforge couple Martina & Hansi! \ninstagram & twitter: @thenerdforge\ndiscord: discord.io/nerdforge\n\nWant to send us stuff? \nNerdforge Productions DA\nPO Box 233\n3401 Lier\nNorway",
+      "customUrl": "nerdforge",
+      "publishedAt": "2015-11-12T19:09:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/VwUMNWXFBhRgP3YpaOuOOGx-AQnRL2kPGDfZXQfeHoutFlINW6aFglpRGz7U0FU3oOhOuZit=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/VwUMNWXFBhRgP3YpaOuOOGx-AQnRL2kPGDfZXQfeHoutFlINW6aFglpRGz7U0FU3oOhOuZit=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/VwUMNWXFBhRgP3YpaOuOOGx-AQnRL2kPGDfZXQfeHoutFlINW6aFglpRGz7U0FU3oOhOuZit=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Nerdforge",
+        "description": "We're the Nerdforge couple Martina & Hansi! \ninstagram & twitter: @thenerdforge\ndiscord: discord.io/nerdforge\n\nWant to send us stuff? \nNerdforge Productions DA\nPO Box 233\n3401 Lier\nNorway"
+      },
+      "country": "NO"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUggHsHce2n3vvbJf_8YKrMA"
+      }
+    },
+    "statistics": {
+      "viewCount": "67591103",
+      "subscriberCount": "1300000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "115"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Nerdforge",
+        "description": "We're the Nerdforge couple Martina & Hansi! \ninstagram & twitter: @thenerdforge\ndiscord: discord.io/nerdforge\n\nWant to send us stuff? \nNerdforge Productions DA\nPO Box 233\n3401 Lier\nNorway",
+        "keywords": "creative creativity drawing creating cosplay art painting props fantasy making",
+        "trackingAnalyticsAccountId": "UA-87989742-1",
+        "unsubscribedTrailer": "RYCasboShWU",
+        "country": "NO"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/FXUBC-DYVBIzm7qn7ovmI3cesp3bdPPoReraY-DJQg6IAqcM9evE1xid8rq44L2O4j8fgdWzRFg"
+      }
+    }
+  }
+}

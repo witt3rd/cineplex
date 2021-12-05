@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCAwylBbx8RiRD3VsaYdwNTw",
+  "retrieved_on": "2021-12-05 03:47:38.852399",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "pQbnmshRSAHVkbx-8etUJk_oe9o",
+    "id": "UCAwylBbx8RiRD3VsaYdwNTw",
+    "snippet": {
+      "title": "Video Advice",
+      "description": "Mini-documentaries about Hidden Truths and unique videos on fascinating subjects & stories.",
+      "customUrl": "videoadvice",
+      "publishedAt": "2015-11-04T22:44:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTIUjqKRvpV807BjrC-31yYm-5WynFJNNpSmXm0Gg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTIUjqKRvpV807BjrC-31yYm-5WynFJNNpSmXm0Gg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTIUjqKRvpV807BjrC-31yYm-5WynFJNNpSmXm0Gg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Video Advice",
+        "description": "Mini-documentaries about Hidden Truths and unique videos on fascinating subjects & stories."
+      },
+      "country": "RO"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUAwylBbx8RiRD3VsaYdwNTw"
+      }
+    },
+    "statistics": {
+      "viewCount": "233687067",
+      "subscriberCount": "2790000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "216"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Video Advice",
+        "description": "Mini-documentaries about Hidden Truths and unique videos on fascinating subjects & stories.",
+        "keywords": "education informative documentary Conversations",
+        "country": "RO"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/l9jfU8EEa-osGFEw8WxCBb0ERAlOyXZB_Ns26uMprTS4NJ6oX2WID6MuWs2dZe572e6QEdc1sw"
+      }
+    }
+  }
+}

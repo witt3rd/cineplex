@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCbKpj2hZ0CFXLatyx615JNw",
+  "retrieved_on": "2021-12-05 03:47:33.852129",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jdwRRACPGlGJzadMiumDFxm1u5Q",
+    "id": "UCbKpj2hZ0CFXLatyx615JNw",
+    "snippet": {
+      "title": "_ Cmdv _",
+      "description": "",
+      "publishedAt": "2013-11-11T22:54:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQWncQUtva2ntR1Wo0LMeJ7kcA9fuiPhmL9ZASYlw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQWncQUtva2ntR1Wo0LMeJ7kcA9fuiPhmL9ZASYlw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQWncQUtva2ntR1Wo0LMeJ7kcA9fuiPhmL9ZASYlw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "_ Cmdv _",
+        "description": ""
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUbKpj2hZ0CFXLatyx615JNw"
+      }
+    },
+    "statistics": {
+      "viewCount": "43692",
+      "subscriberCount": "779",
+      "hiddenSubscriberCount": false,
+      "videoCount": "34"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "_ Cmdv _",
+        "keywords": "Teaching \"functional programming\" Haskell Purescript nix programming",
+        "country": "GB"
+      }
+    }
+  }
+}

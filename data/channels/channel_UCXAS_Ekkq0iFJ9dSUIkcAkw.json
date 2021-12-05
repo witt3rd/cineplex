@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCXAS_Ekkq0iFJ9dSUIkcAkw",
+  "retrieved_on": "2021-12-05 03:47:40.531480",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "j6crCJIGUlh5yBxtLZVXr3DoPBM",
+    "id": "UCXAS_Ekkq0iFJ9dSUIkcAkw",
+    "snippet": {
+      "title": "The Efficient Engineer",
+      "description": "The Efficient Engineer is a channel aimed at mechanical and civil engineers. The mission is to simplify engineering concepts, one video at a time!",
+      "customUrl": "theefficientengineer",
+      "publishedAt": "2019-03-23T19:34:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTl34gMkHmWQExO1c2Y33anStiYfx5Xd5t9bOLWLw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTl34gMkHmWQExO1c2Y33anStiYfx5Xd5t9bOLWLw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTl34gMkHmWQExO1c2Y33anStiYfx5Xd5t9bOLWLw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Efficient Engineer",
+        "description": "The Efficient Engineer is a channel aimed at mechanical and civil engineers. The mission is to simplify engineering concepts, one video at a time!"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXAS_Ekkq0iFJ9dSUIkcAkw"
+      }
+    },
+    "statistics": {
+      "viewCount": "13493722",
+      "subscriberCount": "460000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "26"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Efficient Engineer",
+        "description": "The Efficient Engineer is a channel aimed at mechanical and civil engineers. The mission is to simplify engineering concepts, one video at a time!",
+        "trackingAnalyticsAccountId": "UA-90028140-5",
+        "unsubscribedTrailer": "C-FEVzI8oe8",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jNJhpC6Nkzf6CU7DyzjsJPOeg6WSDSaSXhfGTLZOUZ-gCJ0qK11Txt98ZdElaUtsUIoyexlQ8ho"
+      }
+    }
+  }
+}

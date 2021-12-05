@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCZ9Qv0y5IS-0DsN4ZDTDyqA",
+  "retrieved_on": "2021-12-05 03:47:34.793967",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "L9OG2DMCejk5wprC404ACnRlvmk",
+    "id": "UCZ9Qv0y5IS-0DsN4ZDTDyqA",
+    "snippet": {
+      "title": "Fun(c)tional Programming Group",
+      "description": "This is the channel for programmers of all levels to learn about functional programming (FP).\nWe welcome all functional languages including (but not limited to) Scala, Erlang, Haskell, Clojure, F#.\nWe are also interested in technologies associated with FP like reactive programming, message passing architectures, the actor model, etc.\n\nThe channel is focused on learning functional principles using mathematics, understanding scenarios where it is better to use FP, discovering new languages and technologies and exploring best practices in FP.\n\nweb: https://www.meetup.com/fun-c-group/\ntwitter: @fun_c_\n\nHosted by Expedia Group, Inc.\n\"We are the World\u2019s Travel Platform. Bringing the world within reach\"\nExpedia Group is hiring (see https://lifeatexpedia.com)\nIf you want to join us please reach one of the hosts.",
+      "customUrl": "functionalprogramminggroup",
+      "publishedAt": "2018-04-15T20:26:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQizeZiDGBVHsiTrjDX52ETrE13bhbyQjM6VFZP=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQizeZiDGBVHsiTrjDX52ETrE13bhbyQjM6VFZP=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQizeZiDGBVHsiTrjDX52ETrE13bhbyQjM6VFZP=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fun(c)tional Programming Group",
+        "description": "This is the channel for programmers of all levels to learn about functional programming (FP).\nWe welcome all functional languages including (but not limited to) Scala, Erlang, Haskell, Clojure, F#.\nWe are also interested in technologies associated with FP like reactive programming, message passing architectures, the actor model, etc.\n\nThe channel is focused on learning functional principles using mathematics, understanding scenarios where it is better to use FP, discovering new languages and technologies and exploring best practices in FP.\n\nweb: https://www.meetup.com/fun-c-group/\ntwitter: @fun_c_\n\nHosted by Expedia Group, Inc.\n\"We are the World\u2019s Travel Platform. Bringing the world within reach\"\nExpedia Group is hiring (see https://lifeatexpedia.com)\nIf you want to join us please reach one of the hosts."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZ9Qv0y5IS-0DsN4ZDTDyqA"
+      }
+    },
+    "statistics": {
+      "viewCount": "44961",
+      "subscriberCount": "1470",
+      "hiddenSubscriberCount": false,
+      "videoCount": "8"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Fun(c)tional Programming Group",
+        "description": "This is the channel for programmers of all levels to learn about functional programming (FP).\nWe welcome all functional languages including (but not limited to) Scala, Erlang, Haskell, Clojure, F#.\nWe are also interested in technologies associated with FP like reactive programming, message passing architectures, the actor model, etc.\n\nThe channel is focused on learning functional principles using mathematics, understanding scenarios where it is better to use FP, discovering new languages and technologies and exploring best practices in FP.\n\nweb: https://www.meetup.com/fun-c-group/\ntwitter: @fun_c_\n\nHosted by Expedia Group, Inc.\n\"We are the World\u2019s Travel Platform. Bringing the world within reach\"\nExpedia Group is hiring (see https://lifeatexpedia.com)\nIf you want to join us please reach one of the hosts.",
+        "keywords": "functional programming",
+        "country": "US"
+      }
+    }
+  }
+}

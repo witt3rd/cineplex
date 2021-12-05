@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCUzQJ3JBuQ9w-po4TXRJHiA",
+  "retrieved_on": "2021-12-05 03:47:30.163083",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QUnbTwZMp1NYsvTYobP2rAljdcM",
+    "id": "UCUzQJ3JBuQ9w-po4TXRJHiA",
+    "snippet": {
+      "title": "jdh",
+      "description": "making games and taking names",
+      "customUrl": "jdhvideo",
+      "publishedAt": "2013-08-09T17:47:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQYo-GCbGXiE_bb-2gzy_BPr61T6muwC44ALDaEiA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQYo-GCbGXiE_bb-2gzy_BPr61T6muwC44ALDaEiA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQYo-GCbGXiE_bb-2gzy_BPr61T6muwC44ALDaEiA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "jdh",
+        "description": "making games and taking names"
+      },
+      "country": "DK"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUzQJ3JBuQ9w-po4TXRJHiA"
+      }
+    },
+    "statistics": {
+      "viewCount": "4305971",
+      "subscriberCount": "117000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "11"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "jdh",
+        "description": "making games and taking names",
+        "keywords": "programming c++ java coding minecraft voxel procedural graphics 3d opengl",
+        "unsubscribedTrailer": "OW1EmG7b4DU",
+        "country": "DK"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/LRYPa9rtBso3g4iBJSGSHeR-q3Y6xt6Ri5cO6jnIgnv8H3pgLX_zOFMt0q6d-grTI_c2YswBFA"
+      }
+    }
+  }
+}

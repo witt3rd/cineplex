@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCHl9lTy0w5qABOWjDhDzL-w",
+  "retrieved_on": "2021-12-05 03:47:40.292783",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "kUOcScIn29M4ZTqkDD9EHehhmBM",
+    "id": "UCHl9lTy0w5qABOWjDhDzL-w",
+    "snippet": {
+      "title": "CARisMA Guitar Duo",
+      "description": "At its most simple, CARisMA is the union between extraordinary classical guitarists Magdalena Kaltcheva and Carlo Corrieri.\nBut since they first collaborated in 2011, they have become much more than just a classical guitar duo. \n\nInspired by Debussy, Einaudi and Hans Zimmer as much as electronic masters like Daft Punk, the duo have revolutionised the way classical guitar is played.\nBy bringing together the old and the new and integrating elements from the contemporary and classical worlds, they have created an innovative sound all of their own.\n\nAlong the way, CARisMA\u2019s radical new style has garnered much attention, leading to a performance in front of the world famous Italian tenor Andrea Bocelli who was astonished by their arrangement and performance of the Overture from \u2018The Barber of Seville\u2019 by Rossini and invited the Duo to open his concerts on his tours around the world. The collaboration with Andrea Bocelli led CARisMA to perform at some of the world\u2019s most famous venues.",
+      "customUrl": "carismaguitarduo",
+      "publishedAt": "2012-07-03T10:45:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSEoTlNNsMRrRR__3gLR7JF6AXV2AGYZlRac93wKA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSEoTlNNsMRrRR__3gLR7JF6AXV2AGYZlRac93wKA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSEoTlNNsMRrRR__3gLR7JF6AXV2AGYZlRac93wKA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CARisMA Guitar Duo",
+        "description": "At its most simple, CARisMA is the union between extraordinary classical guitarists Magdalena Kaltcheva and Carlo Corrieri.\nBut since they first collaborated in 2011, they have become much more than just a classical guitar duo. \n\nInspired by Debussy, Einaudi and Hans Zimmer as much as electronic masters like Daft Punk, the duo have revolutionised the way classical guitar is played.\nBy bringing together the old and the new and integrating elements from the contemporary and classical worlds, they have created an innovative sound all of their own.\n\nAlong the way, CARisMA\u2019s radical new style has garnered much attention, leading to a performance in front of the world famous Italian tenor Andrea Bocelli who was astonished by their arrangement and performance of the Overture from \u2018The Barber of Seville\u2019 by Rossini and invited the Duo to open his concerts on his tours around the world. The collaboration with Andrea Bocelli led CARisMA to perform at some of the world\u2019s most famous venues."
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHl9lTy0w5qABOWjDhDzL-w"
+      }
+    },
+    "statistics": {
+      "viewCount": "12697841",
+      "subscriberCount": "28500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "56"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CARisMA Guitar Duo",
+        "description": "At its most simple, CARisMA is the union between extraordinary classical guitarists Magdalena Kaltcheva and Carlo Corrieri.\nBut since they first collaborated in 2011, they have become much more than just a classical guitar duo. \n\nInspired by Debussy, Einaudi and Hans Zimmer as much as electronic masters like Daft Punk, the duo have revolutionised the way classical guitar is played.\nBy bringing together the old and the new and integrating elements from the contemporary and classical worlds, they have created an innovative sound all of their own.\n\nAlong the way, CARisMA\u2019s radical new style has garnered much attention, leading to a performance in front of the world famous Italian tenor Andrea Bocelli who was astonished by their arrangement and performance of the Overture from \u2018The Barber of Seville\u2019 by Rossini and invited the Duo to open his concerts on his tours around the world. The collaboration with Andrea Bocelli led CARisMA to perform at some of the world\u2019s most famous venues.",
+        "keywords": "carisma guitar duo cavatina donation \"Nigel Stanford\" \"Andrea Bocelli\"",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/rAvJ_NJgMnBTBkZLvJ3JcpKWBtwda_il4aB3saq0zpb9vPWS6WUu4oXOg_D4MqktrNZmBkqxng"
+      }
+    }
+  }
+}

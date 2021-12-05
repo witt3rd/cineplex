@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCkLwnsfHtk_JAfhD8mSf0gg",
+  "retrieved_on": "2021-12-05 03:47:32.562762",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "n-5HIhV9WUT2VUYkZEUevZbG0d4",
+    "id": "UCkLwnsfHtk_JAfhD8mSf0gg",
+    "snippet": {
+      "title": "CryptoGrounds",
+      "description": "Hello!\nI am an 18 year old Game Developer and Programming Enthusiast!\nI make daily programming and gaming related videos.\n\nMy channel is special because I post content for anyone who loves games and wants to learn how to code, use unity, or want to become a game developer! I do my best to help everyone when it comes to my tutorials and I be sure to explain everything perfectly! My goal is to have you learn something new after watching one or more of my videos! :D\n\nLike if you enjoy my videos, share these videos and playlists to your friends who would enjoy them as well and let them know to leave a like! Every like motivates me to create the best and the most informative and helpful content just for you guys :)\n\nSubscribe if you are new and turn on notifications to get notified for my daily videos!\n\n~~ SUPPORT ME~~\nDiscord: https://discord.gg/S9mtMTw\nPATREON: https://www.patreon.com/cryptogrounds\nMERCH: https://teespring.com/stores/cryptogrounds-merch\n",
+      "customUrl": "cryptogrounds",
+      "publishedAt": "2017-07-31T05:31:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/QVh7grKD6UVwxAriaNWFTUVJzYIoPzr7IixmWCZ7qCApcQZqPzvGmUM0yULTYH_UUFwtV-fNGSg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/QVh7grKD6UVwxAriaNWFTUVJzYIoPzr7IixmWCZ7qCApcQZqPzvGmUM0yULTYH_UUFwtV-fNGSg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/QVh7grKD6UVwxAriaNWFTUVJzYIoPzr7IixmWCZ7qCApcQZqPzvGmUM0yULTYH_UUFwtV-fNGSg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CryptoGrounds",
+        "description": "Hello!\nI am an 18 year old Game Developer and Programming Enthusiast!\nI make daily programming and gaming related videos.\n\nMy channel is special because I post content for anyone who loves games and wants to learn how to code, use unity, or want to become a game developer! I do my best to help everyone when it comes to my tutorials and I be sure to explain everything perfectly! My goal is to have you learn something new after watching one or more of my videos! :D\n\nLike if you enjoy my videos, share these videos and playlists to your friends who would enjoy them as well and let them know to leave a like! Every like motivates me to create the best and the most informative and helpful content just for you guys :)\n\nSubscribe if you are new and turn on notifications to get notified for my daily videos!\n\n~~ SUPPORT ME~~\nDiscord: https://discord.gg/S9mtMTw\nPATREON: https://www.patreon.com/cryptogrounds\nMERCH: https://teespring.com/stores/cryptogrounds-merch\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkLwnsfHtk_JAfhD8mSf0gg"
+      }
+    },
+    "statistics": {
+      "viewCount": "601485",
+      "subscriberCount": "5350",
+      "hiddenSubscriberCount": false,
+      "videoCount": "201"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CryptoGrounds",
+        "description": "Hello!\nI am an 18 year old Game Developer and Programming Enthusiast!\nI make daily programming and gaming related videos.\n\nMy channel is special because I post content for anyone who loves games and wants to learn how to code, use unity, or want to become a game developer! I do my best to help everyone when it comes to my tutorials and I be sure to explain everything perfectly! My goal is to have you learn something new after watching one or more of my videos! :D\n\nLike if you enjoy my videos, share these videos and playlists to your friends who would enjoy them as well and let them know to leave a like! Every like motivates me to create the best and the most informative and helpful content just for you guys :)\n\nSubscribe if you are new and turn on notifications to get notified for my daily videos!\n\n~~ SUPPORT ME~~\nDiscord: https://discord.gg/S9mtMTw\nPATREON: https://www.patreon.com/cryptogrounds\nMERCH: https://teespring.com/stores/cryptogrounds-merch\n",
+        "keywords": "coding programming unity \"idle game\" c# tutorials \"unity idle game\" \"unity idle game tutorial\" \"unity idle game tutorial prestige\" \"unity idle game tutorial series\" cryptogrounds \"unity idle game cryptogrounds\" cryptoclickers \"how to make an idle game\" \"unity clicker game\" \"idle game unity\" \"unity tutorial\" \"C# tutorials\" \"c# crash course\" \"c# learn fast\" \"learn unity fast\" \"how to make an idle game\" \"how to make a game in unity\" \"make your first game in unity\"",
+        "trackingAnalyticsAccountId": "UA-167346556-1",
+        "unsubscribedTrailer": "fE0R6WLpmrE",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/g0g-5UZXPTtYthO5JRp7isFYCNkO8Xqmy_Yy8wk2-fuvVk3mcC5Mz6WxbcPu90eOd8bq5XunEQ"
+      }
+    }
+  }
+}

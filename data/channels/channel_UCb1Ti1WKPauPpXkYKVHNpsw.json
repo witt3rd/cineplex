@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCb1Ti1WKPauPpXkYKVHNpsw",
+  "retrieved_on": "2021-12-05 03:47:28.552371",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YOIhQSgUMVIgkmfq4Po8lSQgtBw",
+    "id": "UCb1Ti1WKPauPpXkYKVHNpsw",
+    "snippet": {
+      "title": "LBC",
+      "description": "Welcome to LBC \u2013 the home of live debate on YouTube.\n\nWhether you want the latest on current affairs, news or want to join in the conversation around UK politics and culture, or you simply want to be entertained by our outspoken hosts, LBC is the YouTube channel for you.\n\nYou can listen to LBC live as we stream our talk radio show daily to make sure we are bringing you the latest interviews, news and commentary so you will always be up to date on what is happening in the UK, Europe and beyond.\n\nYou can sit back and listen to the best current affairs shows in the world or phone in and talk with the likes of Rachel Johnson, Iain Dale, James O\u2019Brien and Nick Ferrari, along with the big-name guests who are at the centre of the key stories of the day.\n\nWhether it\u2019s the Brexit debate or feminism, news and current affairs home and abroad, LBC is Leading Britain\u2019s Conversation so make sure you are subscribed so you never miss a word of it.",
+      "customUrl": "lbcofficial",
+      "publishedAt": "2008-06-23T08:09:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSql2gBDaqzW9Xgq6of50GW8PZQ2VG6eAt3qrBJsg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSql2gBDaqzW9Xgq6of50GW8PZQ2VG6eAt3qrBJsg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSql2gBDaqzW9Xgq6of50GW8PZQ2VG6eAt3qrBJsg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LBC",
+        "description": "Welcome to LBC \u2013 the home of live debate on YouTube.\n\nWhether you want the latest on current affairs, news or want to join in the conversation around UK politics and culture, or you simply want to be entertained by our outspoken hosts, LBC is the YouTube channel for you.\n\nYou can listen to LBC live as we stream our talk radio show daily to make sure we are bringing you the latest interviews, news and commentary so you will always be up to date on what is happening in the UK, Europe and beyond.\n\nYou can sit back and listen to the best current affairs shows in the world or phone in and talk with the likes of Rachel Johnson, Iain Dale, James O\u2019Brien and Nick Ferrari, along with the big-name guests who are at the centre of the key stories of the day.\n\nWhether it\u2019s the Brexit debate or feminism, news and current affairs home and abroad, LBC is Leading Britain\u2019s Conversation so make sure you are subscribed so you never miss a word of it."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUb1Ti1WKPauPpXkYKVHNpsw"
+      }
+    },
+    "statistics": {
+      "viewCount": "164326106",
+      "subscriberCount": "342000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "4189"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "LBC",
+        "description": "Welcome to LBC \u2013 the home of live debate on YouTube.\n\nWhether you want the latest on current affairs, news or want to join in the conversation around UK politics and culture, or you simply want to be entertained by our outspoken hosts, LBC is the YouTube channel for you.\n\nYou can listen to LBC live as we stream our talk radio show daily to make sure we are bringing you the latest interviews, news and commentary so you will always be up to date on what is happening in the UK, Europe and beyond.\n\nYou can sit back and listen to the best current affairs shows in the world or phone in and talk with the likes of Rachel Johnson, Iain Dale, James O\u2019Brien and Nick Ferrari, along with the big-name guests who are at the centre of the key stories of the day.\n\nWhether it\u2019s the Brexit debate or feminism, news and current affairs home and abroad, LBC is Leading Britain\u2019s Conversation so make sure you are subscribed so you never miss a word of it.",
+        "keywords": "lbc \"lbc live\" \"watch lbc\" interview interviews \"politics news\" \"british politics\" \"uk politics live\" \"live debate\" debate \"current affairs 2020\" Coronavirus \"Coronavirus uk\" \"Coronavirus update\" \"Coronavirus news\" Brexit \"Coronavirus symptoms\" \"coronavirus explained\" \"covid 19\" corona \"boris johnson\" \"boris johnson interview\" \"boris johnson coronavirus\" \"coronavirus speech\" \"James O\u2019Brien\" \"Iain Dale\" \"Nick Ferrari\" Johnson",
+        "moderateComments": true,
+        "unsubscribedTrailer": "E62ULgmT-VY",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/hcABu4cXmgpvY7Ps73vn6h38_9G8NLXqEf20FsjrRjeTJAGovIU976rhhffJCPoapMLhI9GL"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCobqgqE4i5Kf7wrxRxhToQA",
+  "retrieved_on": "2021-12-05 03:47:37.948821",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "qQBXln28-IOUxTL7gVRQnR5mLcI",
+    "id": "UCobqgqE4i5Kf7wrxRxhToQA",
+    "snippet": {
+      "title": "AI Coffee Break with Letitia",
+      "description": "AI Coffee Break: Lighthearted bite-sized Machine Learning videos! \ud83d\udcfa\n\nThis channel contains mostly videos about Natural Language Processing, Computer Vision or both combined!\n\nHello, welcome to the AI Coffee Break, where Letitia Parcalabescu and Ms. Coffee Bean explain AI related concepts simply. We try to post at least bi-weekly updates, if not more often! \ud83e\udd1e (You know, a PhD thesis has still to be worked on.)\n\n\ud83d\ude37 During the Corona pandemic I had to do online-teaching, so I learned a lot about recording videos and editing. With my new skill, I am determined to start a YouTube Channel about recent and relevant Artificial Intelligence papers and topics. And Ms. Coffee Bean is kind enough to help me with my videos!\n\nDisclaimer: Opinions expressed are solely my own and do not express the views or opinions of my employer.",
+      "customUrl": "aicoffeebreak",
+      "publishedAt": "2020-04-26T12:16:41.916027Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSlUwJu8peCq_OVmXuSXOtH9_tbkjlMc9TRk5ZIrw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSlUwJu8peCq_OVmXuSXOtH9_tbkjlMc9TRk5ZIrw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSlUwJu8peCq_OVmXuSXOtH9_tbkjlMc9TRk5ZIrw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AI Coffee Break with Letitia",
+        "description": "AI Coffee Break: Lighthearted bite-sized Machine Learning videos! \ud83d\udcfa\n\nThis channel contains mostly videos about Natural Language Processing, Computer Vision or both combined!\n\nHello, welcome to the AI Coffee Break, where Letitia Parcalabescu and Ms. Coffee Bean explain AI related concepts simply. We try to post at least bi-weekly updates, if not more often! \ud83e\udd1e (You know, a PhD thesis has still to be worked on.)\n\n\ud83d\ude37 During the Corona pandemic I had to do online-teaching, so I learned a lot about recording videos and editing. With my new skill, I am determined to start a YouTube Channel about recent and relevant Artificial Intelligence papers and topics. And Ms. Coffee Bean is kind enough to help me with my videos!\n\nDisclaimer: Opinions expressed are solely my own and do not express the views or opinions of my employer."
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUobqgqE4i5Kf7wrxRxhToQA"
+      }
+    },
+    "statistics": {
+      "viewCount": "199595",
+      "subscriberCount": "9500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "64"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "AI Coffee Break with Letitia",
+        "description": "AI Coffee Break: Lighthearted bite-sized Machine Learning videos! \ud83d\udcfa\n\nThis channel contains mostly videos about Natural Language Processing, Computer Vision or both combined!\n\nHello, welcome to the AI Coffee Break, where Letitia Parcalabescu and Ms. Coffee Bean explain AI related concepts simply. We try to post at least bi-weekly updates, if not more often! \ud83e\udd1e (You know, a PhD thesis has still to be worked on.)\n\n\ud83d\ude37 During the Corona pandemic I had to do online-teaching, so I learned a lot about recording videos and editing. With my new skill, I am determined to start a YouTube Channel about recent and relevant Artificial Intelligence papers and topics. And Ms. Coffee Bean is kind enough to help me with my videos!\n\nDisclaimer: Opinions expressed are solely my own and do not express the views or opinions of my employer.",
+        "keywords": "NLP AI \"neural networks\" Transformer learning \"machine learning\" easy explained comprehensible research teaching \"deep learning\" \"coffee bean\" \"AI coffee break\" \"artificial intelligence\" \"Letitia Parcalabescu\" Parcalabescu Letitia \"computer science\" \"computer vision\" multimodality \"women in ai\" \"Ms. Coffee Bean\" WiML funny lighthearted basics algorithm beginner short example \"natural language processing\" \"data science\" aicoffeebean animated animation \"ML papers\" academia arxiv tutorial research",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/JYZdQhquc_5mEnwcEQvmjd1uG-3PDYgyYgqHaVieTQaR0l_KxiBESTi-3ZfqHM1bDZwom4Rg"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCzHyhy7noMcM0_3ttuw96yA",
+  "retrieved_on": "2021-12-05 03:47:33.306770",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "_NcaMLNCBBMJH29ZcQgayp2YOZg",
+    "id": "UCzHyhy7noMcM0_3ttuw96yA",
+    "snippet": {
+      "title": "Scalac",
+      "description": "Scalac is where companies and developers turn to boost their knowledge about functional programming and learn how to be more effective at working from home. \n\nAs an IT company, we specialize in functional programming, distributed computing, blockchain, analytical dashboards, and data engineering solutions.\n\nOur channel is all about teaching you functional programming in Scala, Clojure or Haskell. We also have 6 years of experience at working from home and managing 122 remote employees and share powerful strategies on productivity, keeping yourself motivated, remote employee management, remote onboarding, and more. We enable both developers and CEOs and CTOs to get the best results from working from home. \n\nSo if you're a pro programmer that wants to become a master of functional languages and working from or a CEO, CTO, who wants to be a better leader in working remotely, subscribe to our channel right now. Make sure to join by subscribing!",
+      "customUrl": "scalac",
+      "publishedAt": "2015-12-10T12:55:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO1jaCRWUgK5RJnRzV6mLPHS2mWKN2kv-Dtaro=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO1jaCRWUgK5RJnRzV6mLPHS2mWKN2kv-Dtaro=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSO1jaCRWUgK5RJnRzV6mLPHS2mWKN2kv-Dtaro=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Scalac",
+        "description": "Scalac is where companies and developers turn to boost their knowledge about functional programming and learn how to be more effective at working from home. \n\nAs an IT company, we specialize in functional programming, distributed computing, blockchain, analytical dashboards, and data engineering solutions.\n\nOur channel is all about teaching you functional programming in Scala, Clojure or Haskell. We also have 6 years of experience at working from home and managing 122 remote employees and share powerful strategies on productivity, keeping yourself motivated, remote employee management, remote onboarding, and more. We enable both developers and CEOs and CTOs to get the best results from working from home. \n\nSo if you're a pro programmer that wants to become a master of functional languages and working from or a CEO, CTO, who wants to be a better leader in working remotely, subscribe to our channel right now. Make sure to join by subscribing!"
+      },
+      "country": "PL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzHyhy7noMcM0_3ttuw96yA"
+      }
+    },
+    "statistics": {
+      "viewCount": "31385",
+      "subscriberCount": "589",
+      "hiddenSubscriberCount": false,
+      "videoCount": "86"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Scalac",
+        "description": "Scalac is where companies and developers turn to boost their knowledge about functional programming and learn how to be more effective at working from home. \n\nAs an IT company, we specialize in functional programming, distributed computing, blockchain, analytical dashboards, and data engineering solutions.\n\nOur channel is all about teaching you functional programming in Scala, Clojure or Haskell. We also have 6 years of experience at working from home and managing 122 remote employees and share powerful strategies on productivity, keeping yourself motivated, remote employee management, remote onboarding, and more. We enable both developers and CEOs and CTOs to get the best results from working from home. \n\nSo if you're a pro programmer that wants to become a master of functional languages and working from or a CEO, CTO, who wants to be a better leader in working remotely, subscribe to our channel right now. Make sure to join by subscribing!",
+        "keywords": "scala \"working from home\" \"functional programming\" programming developers",
+        "unsubscribedTrailer": "Xm6dT8EhsGg",
+        "country": "PL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/8Lz4Tr7UxyVS5mmDRRlHqxlYOVQLSzXvL2OpPTxbYuzuuInknqeip8DPh6gL9aibfjYnFj2xug"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCJ0yBou72Lz9fqeMXh9mkog",
+  "retrieved_on": "2021-12-05 03:47:28.552307",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "7ZuJmJu0Myz8r_PtPsoZrdKJLPI",
+    "id": "UCJ0yBou72Lz9fqeMXh9mkog",
+    "snippet": {
+      "title": "Physics Videos by Eugene Khutoryansky",
+      "description": "Physics YouTube channel made and run by Eugene Khutoryansky.\nAll my videos are narrated by Kira Vincent.\n\nI make all the animations for my videos myself.    In many cases, it takes me several months of work to create the animations for a single video, so please be patient. \nTopics covered include physics, mathematics, and engineering.",
+      "publishedAt": "2011-09-06T00:49:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2NSCfKNEuFFoiwdx3cm8gFbXqpK4pyBcdJ4qaxQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2NSCfKNEuFFoiwdx3cm8gFbXqpK4pyBcdJ4qaxQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2NSCfKNEuFFoiwdx3cm8gFbXqpK4pyBcdJ4qaxQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Physics Videos by Eugene Khutoryansky",
+        "description": "Physics YouTube channel made and run by Eugene Khutoryansky.\nAll my videos are narrated by Kira Vincent.\n\nI make all the animations for my videos myself.    In many cases, it takes me several months of work to create the animations for a single video, so please be patient. \nTopics covered include physics, mathematics, and engineering."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJ0yBou72Lz9fqeMXh9mkog"
+      }
+    },
+    "statistics": {
+      "viewCount": "61644732",
+      "subscriberCount": "886000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "124"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Physics Videos by Eugene Khutoryansky",
+        "description": "Physics YouTube channel made and run by Eugene Khutoryansky.\nAll my videos are narrated by Kira Vincent.\n\nI make all the animations for my videos myself.    In many cases, it takes me several months of work to create the animations for a single video, so please be patient. \nTopics covered include physics, mathematics, and engineering.",
+        "keywords": "education science physics tech math engineering",
+        "unsubscribedTrailer": "BBQXREXV1Rw",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/rduQmLIYtlF1TcnfgjPOpLyl9IJqbLqEEE9AYo8m5D26iyO57kZynS1j5iMB56e1CNwb1dhNYw"
+      }
+    }
+  }
+}

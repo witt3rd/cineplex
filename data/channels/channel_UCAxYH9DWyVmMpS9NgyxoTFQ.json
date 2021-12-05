@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCAxYH9DWyVmMpS9NgyxoTFQ",
+  "retrieved_on": "2021-12-05 03:47:39.473122",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "76d7dSVgmxU0HUoHv58wOJuEiEE",
+    "id": "UCAxYH9DWyVmMpS9NgyxoTFQ",
+    "snippet": {
+      "title": "AlanBeckerTutorials",
+      "description": "My name is Alan Becker, most famous for \"Animator vs. Animation\", a viral video from 2006. Here is where I put my tutorials. I teach animation using Adobe Flash/Animate, and some Photoshop and Minecraft stuff.\n\nIf you would like to contact me, visit\nhttp://www.alanbecker.net/contact-me\n\nIf you are wondering what equipment I use for my videos, click here:\nhttp://www.alanbecker.net/my-gear",
+      "publishedAt": "2011-09-26T22:01:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMDNUu0Vi8eppyxCBSYUULX7p5ciXHhbL1dOfN=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMDNUu0Vi8eppyxCBSYUULX7p5ciXHhbL1dOfN=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRMDNUu0Vi8eppyxCBSYUULX7p5ciXHhbL1dOfN=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AlanBeckerTutorials",
+        "description": "My name is Alan Becker, most famous for \"Animator vs. Animation\", a viral video from 2006. Here is where I put my tutorials. I teach animation using Adobe Flash/Animate, and some Photoshop and Minecraft stuff.\n\nIf you would like to contact me, visit\nhttp://www.alanbecker.net/contact-me\n\nIf you are wondering what equipment I use for my videos, click here:\nhttp://www.alanbecker.net/my-gear"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUAxYH9DWyVmMpS9NgyxoTFQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "52287542",
+      "subscriberCount": "853000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "67"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "AlanBeckerTutorials",
+        "description": "My name is Alan Becker, most famous for \"Animator vs. Animation\", a viral video from 2006. Here is where I put my tutorials. I teach animation using Adobe Flash/Animate, and some Photoshop and Minecraft stuff.\n\nIf you would like to contact me, visit\nhttp://www.alanbecker.net/contact-me\n\nIf you are wondering what equipment I use for my videos, click here:\nhttp://www.alanbecker.net/my-gear",
+        "keywords": "alan becker animator vs. animation flash tutorials",
+        "unsubscribedTrailer": "kHOQkooK0qY"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/XgMB6Iz10pTcBsF-HYf_4FJd-9Wy9_vkvjUUjNMIB9jXkZSVcKoo4xwe-2QU6gdM4kh_k8htcQ"
+      }
+    }
+  }
+}

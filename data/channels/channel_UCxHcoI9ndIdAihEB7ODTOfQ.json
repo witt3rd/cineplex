@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCxHcoI9ndIdAihEB7ODTOfQ",
+  "retrieved_on": "2021-12-05 03:47:41.016863",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "H8yEiKeUmBHfqSH1UGMUmw4tdn8",
+    "id": "UCxHcoI9ndIdAihEB7ODTOfQ",
+    "snippet": {
+      "title": "Trash Theory",
+      "description": "Do you wish Every Frame A Painting was still making videos? Yeah me too. \n\nSo this is TRASH THEORY. Not as good as Every Frame but a music essay channel all the same. We encompass the entirety of the pop culture spectrum. A bit of film, a touch of video games, TV every now and again, though mostly it'll be music.\n\n\"You'll laugh, you'll learn, you'll hurl!\" - Paraphrased Wayne's World Tagline",
+      "customUrl": "trashtheory",
+      "publishedAt": "2017-04-23T09:10:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1FNXkh2f6tIL1kfzHXR0UdBm1otJM4qJAGQV3=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1FNXkh2f6tIL1kfzHXR0UdBm1otJM4qJAGQV3=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1FNXkh2f6tIL1kfzHXR0UdBm1otJM4qJAGQV3=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Trash Theory",
+        "description": "Do you wish Every Frame A Painting was still making videos? Yeah me too. \n\nSo this is TRASH THEORY. Not as good as Every Frame but a music essay channel all the same. We encompass the entirety of the pop culture spectrum. A bit of film, a touch of video games, TV every now and again, though mostly it'll be music.\n\n\"You'll laugh, you'll learn, you'll hurl!\" - Paraphrased Wayne's World Tagline"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUxHcoI9ndIdAihEB7ODTOfQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "27697760",
+      "subscriberCount": "294000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "82"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Trash Theory",
+        "description": "Do you wish Every Frame A Painting was still making videos? Yeah me too. \n\nSo this is TRASH THEORY. Not as good as Every Frame but a music essay channel all the same. We encompass the entirety of the pop culture spectrum. A bit of film, a touch of video games, TV every now and again, though mostly it'll be music.\n\n\"You'll laugh, you'll learn, you'll hurl!\" - Paraphrased Wayne's World Tagline",
+        "keywords": "\"Music Documentary\" \"Video Essay\" \"Trash Theory\" \"New British Canon\"",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/gsI6XygTD8kChVP2GScpkvPxiXqFtWJ7RohvmgwgxW25NlppjwhPa9-YKWiVKZvC00hlyX_rjg"
+      }
+    }
+  }
+}

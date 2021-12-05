@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCS5L-xwBuiWmtRIzCw1VemQ",
+  "retrieved_on": "2021-12-05 03:47:35.580996",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "_VCa6MH1J66LGQVM5ws7n2ix8W8",
+    "id": "UCS5L-xwBuiWmtRIzCw1VemQ",
+    "snippet": {
+      "title": "Roman Papush",
+      "description": "\u2192 Join the fun @ https://discord.gg/hRDApAa\n\u2014\u2014\u2014\u2014\u2014\nHello, fellow creators!\n\nTL;DR version:\n\u00b7 I create games and various gamedev content/tutorials;\n\u00b7 I am on YouTube, Twitter and Discord;\n\u00b7 You are beautiful \u2728\n\n\u2014\u2014\u2014\u2014\u2014\n\u270c\ufe0f My name is Roman, and I'm a solo gamedev-generalist/content-creator from Riga, Latvia.\nCurrently, I'm developing my first major game and producing videos for YouTube on everything around being a solo developer, plus an occasional tutorial or piece of original content.\n\n\u2014\u2014\u2014\u2014\u2014\nLinks:\n\u2022 Twitter: https://twitter.com/RomanPapush\n\u2022 Discord: https://discord.gg/hRDApAa\n\u2022 Patreon: https://www.patreon.com/romanpapush",
+      "customUrl": "romanpapush",
+      "publishedAt": "2006-07-24T00:25:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLScIFc7k24ad61ha86Bqduo-YFslmpAzjPF46BsQxg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLScIFc7k24ad61ha86Bqduo-YFslmpAzjPF46BsQxg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLScIFc7k24ad61ha86Bqduo-YFslmpAzjPF46BsQxg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Roman Papush",
+        "description": "\u2192 Join the fun @ https://discord.gg/hRDApAa\n\u2014\u2014\u2014\u2014\u2014\nHello, fellow creators!\n\nTL;DR version:\n\u00b7 I create games and various gamedev content/tutorials;\n\u00b7 I am on YouTube, Twitter and Discord;\n\u00b7 You are beautiful \u2728\n\n\u2014\u2014\u2014\u2014\u2014\n\u270c\ufe0f My name is Roman, and I'm a solo gamedev-generalist/content-creator from Riga, Latvia.\nCurrently, I'm developing my first major game and producing videos for YouTube on everything around being a solo developer, plus an occasional tutorial or piece of original content.\n\n\u2014\u2014\u2014\u2014\u2014\nLinks:\n\u2022 Twitter: https://twitter.com/RomanPapush\n\u2022 Discord: https://discord.gg/hRDApAa\n\u2022 Patreon: https://www.patreon.com/romanpapush"
+      },
+      "country": "LV"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUS5L-xwBuiWmtRIzCw1VemQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1100795",
+      "subscriberCount": "20600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "17"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Roman Papush",
+        "description": "\u2192 Join the fun @ https://discord.gg/hRDApAa\n\u2014\u2014\u2014\u2014\u2014\nHello, fellow creators!\n\nTL;DR version:\n\u00b7 I create games and various gamedev content/tutorials;\n\u00b7 I am on YouTube, Twitter and Discord;\n\u00b7 You are beautiful \u2728\n\n\u2014\u2014\u2014\u2014\u2014\n\u270c\ufe0f My name is Roman, and I'm a solo gamedev-generalist/content-creator from Riga, Latvia.\nCurrently, I'm developing my first major game and producing videos for YouTube on everything around being a solo developer, plus an occasional tutorial or piece of original content.\n\n\u2014\u2014\u2014\u2014\u2014\nLinks:\n\u2022 Twitter: https://twitter.com/RomanPapush\n\u2022 Discord: https://discord.gg/hRDApAa\n\u2022 Patreon: https://www.patreon.com/romanpapush",
+        "keywords": "gamedev \"game developer\" \"game development\" \"indie game\" indiedev \"indie developer\" \"unity developer\" \"unity game\"",
+        "trackingAnalyticsAccountId": "UA-122997950-2",
+        "unsubscribedTrailer": "IWDjUx_fnNQ",
+        "country": "LV"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/45rvitdz3r5o4WW1TQ1RZLnLSIHOQHTA8krUKxRubk67D0S7FpS-_C4FLMC8rUFork_I6tRbTg"
+      }
+    }
+  }
+}

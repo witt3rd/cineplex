@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCmXH_moPhfkqCk6S3b9RWuw",
+  "retrieved_on": "2021-12-05 03:47:38.208050",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "oqwQ0pItb0R6WiNAwHO2BAF-qN8",
+    "id": "UCmXH_moPhfkqCk6S3b9RWuw",
+    "snippet": {
+      "title": "Dr Brian Keating",
+      "description": "Welcome to conversations with the brightest minds in the universe...including YOURS! \n\nI'm the Chancellor's Distinguished Professor of Physics at UC San Diego where my team & I study the origin & evolution of space, time, & matter. I believe scientists are obligated to explain their work in simple terms to non-experts. I think scientifically and I want you to too.\n\nEvery week I put out two videos: Each Tuesday is a long-form interview with important thinkers. \nThursdays are Thirty Minute Thesis\u2122-Fascinating Deep-dives into physics & cosmology.\n\nI wrote INTO THE IMPOSSIBLE & LOSING THE NOBEL PRIZE which was a Best Science Book at Science Friday, Amazon, Science News, Physics Today, Forbes, & Symmetry Magazine., named one of the best cosmology books of all time. I'm on a mission to magnify curiosity, stoke imagination, & inspire minds of all ages. \n\nJoin me, because \"The only way to discover the limits of the possible is to go beyond them: into the impossible!\" \n-- Sir Arthur C. Clarke",
+      "customUrl": "drbriankeating",
+      "publishedAt": "2017-10-02T01:00:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/5AP0mZjXaJXJUyg7K7fYamp7rk2eKlgbyYuz0_DdO9f5XNfz2gYHmfnGi-SO2ovMtK1HadiM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/5AP0mZjXaJXJUyg7K7fYamp7rk2eKlgbyYuz0_DdO9f5XNfz2gYHmfnGi-SO2ovMtK1HadiM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/5AP0mZjXaJXJUyg7K7fYamp7rk2eKlgbyYuz0_DdO9f5XNfz2gYHmfnGi-SO2ovMtK1HadiM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dr Brian Keating",
+        "description": "Welcome to conversations with the brightest minds in the universe...including YOURS! \n\nI'm the Chancellor's Distinguished Professor of Physics at UC San Diego where my team & I study the origin & evolution of space, time, & matter. I believe scientists are obligated to explain their work in simple terms to non-experts. I think scientifically and I want you to too.\n\nEvery week I put out two videos: Each Tuesday is a long-form interview with important thinkers. \nThursdays are Thirty Minute Thesis\u2122-Fascinating Deep-dives into physics & cosmology.\n\nI wrote INTO THE IMPOSSIBLE & LOSING THE NOBEL PRIZE which was a Best Science Book at Science Friday, Amazon, Science News, Physics Today, Forbes, & Symmetry Magazine., named one of the best cosmology books of all time. I'm on a mission to magnify curiosity, stoke imagination, & inspire minds of all ages. \n\nJoin me, because \"The only way to discover the limits of the possible is to go beyond them: into the impossible!\" \n-- Sir Arthur C. Clarke"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmXH_moPhfkqCk6S3b9RWuw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2715794",
+      "subscriberCount": "47000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "325"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dr Brian Keating",
+        "description": "Welcome to conversations with the brightest minds in the universe...including YOURS! \n\nI'm the Chancellor's Distinguished Professor of Physics at UC San Diego where my team & I study the origin & evolution of space, time, & matter. I believe scientists are obligated to explain their work in simple terms to non-experts. I think scientifically and I want you to too.\n\nEvery week I put out two videos: Each Tuesday is a long-form interview with important thinkers. \nThursdays are Thirty Minute Thesis\u2122-Fascinating Deep-dives into physics & cosmology.\n\nI wrote INTO THE IMPOSSIBLE & LOSING THE NOBEL PRIZE which was a Best Science Book at Science Friday, Amazon, Science News, Physics Today, Forbes, & Symmetry Magazine., named one of the best cosmology books of all time. I'm on a mission to magnify curiosity, stoke imagination, & inspire minds of all ages. \n\nJoin me, because \"The only way to discover the limits of the possible is to go beyond them: into the impossible!\" \n-- Sir Arthur C. Clarke",
+        "keywords": "Brian Keating cosmology UCSD \"Big Bang\" \"Inflationary Universe\" Multiverse CMB \"Cosmic Microwave Background\" \"Keynote Speaker\" Scientist podcast \"uc san diego\" cosmologist physicist",
+        "unsubscribedTrailer": "hWCLwpT1cqs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/aBA5qFUJDf_VIoRJ-Gg5353Z5z-WdpakFCZ-dk8id3MJzZfszgGElxqgiyfMpHZ6-0YxK00FJA"
+      }
+    }
+  }
+}

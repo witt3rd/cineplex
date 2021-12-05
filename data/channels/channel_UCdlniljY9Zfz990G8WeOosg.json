@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCdlniljY9Zfz990G8WeOosg",
+  "retrieved_on": "2021-12-05 03:47:28.552335",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "1Zsy9dcDN2uOpPRNVBTJOuHlrRk",
+    "id": "UCdlniljY9Zfz990G8WeOosg",
+    "snippet": {
+      "title": "Verdict with Ted Cruz",
+      "description": "Join Senator Ted Cruz and co-host Michael Knowles as they break down the most important news stories of the day and reveal what they mean for you. On Verdict with Ted Cruz, you will go behind the scenes of the political debates that define our country.\n\nVerdict with Ted Cruz is being brought to you by Jobs, Freedom, and Security PAC, a political action committee dedicated to supporting conservative causes, organizations, and candidates across the country. In 2022, Jobs, Freedom, and Security PAC plans to donate to conservative candidates running for Congress and help the Republican Party across the nation.\n",
+      "customUrl": "verdictwithtedcruz",
+      "publishedAt": "2020-01-20T15:27:16.228039Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTkQwWsCaXYMYT8m4vH9SgS9R84OP-NLJXwouUN=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTkQwWsCaXYMYT8m4vH9SgS9R84OP-NLJXwouUN=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTkQwWsCaXYMYT8m4vH9SgS9R84OP-NLJXwouUN=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Verdict with Ted Cruz",
+        "description": "Join Senator Ted Cruz and co-host Michael Knowles as they break down the most important news stories of the day and reveal what they mean for you. On Verdict with Ted Cruz, you will go behind the scenes of the political debates that define our country.\n\nVerdict with Ted Cruz is being brought to you by Jobs, Freedom, and Security PAC, a political action committee dedicated to supporting conservative causes, organizations, and candidates across the country. In 2022, Jobs, Freedom, and Security PAC plans to donate to conservative candidates running for Congress and help the Republican Party across the nation.\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUdlniljY9Zfz990G8WeOosg"
+      }
+    },
+    "statistics": {
+      "viewCount": "12180693",
+      "subscriberCount": "211000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "134"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Verdict with Ted Cruz",
+        "description": "Join Senator Ted Cruz and co-host Michael Knowles as they break down the most important news stories of the day and reveal what they mean for you. On Verdict with Ted Cruz, you will go behind the scenes of the political debates that define our country.\n\nVerdict with Ted Cruz is being brought to you by Jobs, Freedom, and Security PAC, a political action committee dedicated to supporting conservative causes, organizations, and candidates across the country. In 2022, Jobs, Freedom, and Security PAC plans to donate to conservative candidates running for Congress and help the Republican Party across the nation.\n",
+        "keywords": "\"Ted Cruz\" Politics \"American politics\" Impeachment Impeach Trump \"Michael Knowles\" Cruz \"Senator Cruz\" \"Senator Ted Cruz\" \"President Trump\" \"2020 election\" \"Elizabeth Warren\" \"Bernie Sanders\" Verdict \"The Verdict\" \"Verdict With Ted Cruz\" \"Verdict Ted Cruz\" \"Ted Cruz Verdict\"",
+        "unsubscribedTrailer": "KagD4SMs2SU",
+        "country": "US"
+      }
+    }
+  }
+}

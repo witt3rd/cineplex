@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCQArZVLg7Omzg4cBReJTS3w",
+  "retrieved_on": "2021-12-05 03:47:39.939392",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "0Zd43DVAelI_vGRHxxsCuaXOGbk",
+    "id": "UCQArZVLg7Omzg4cBReJTS3w",
+    "snippet": {
+      "title": "Unity Korea",
+      "description": "\uc720\ub2c8\ud2f0 \ud14c\ud06c\ub180\ub85c\uc9c0\uc2a4 \ucf54\ub9ac\uc544 (Unity Technologies Korea)\uacf5\uc2dd \uc720\ud29c\ube0c \ucc44\ub110\uc785\ub2c8\ub2e4.\n\uc720\ub2c8\ud2f0 \uac1c\ubc1c\uacfc \ucd5c\uc2e0 \uc720\ub2c8\ud2f0 \uae30\uc220 \uc18c\uac1c \ubc0f \uc720\ub2c8\ud2f0\ub85c \ub9cc\ub4e4\uc5b4\uc9c4 \ub2e4\uc591\ud55c \ucf58\ud150\uce20\ub97c \ub9cc\ub098\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+      "customUrl": "unitykoreahi",
+      "publishedAt": "2014-05-30T07:37:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/OH1KrHL1dxcVYFJiCW9Q7TgK46xXLClwOLl4g0zf0Pwr-YDGb656jypR2Nvw_6Gy-qkoqcISSw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/OH1KrHL1dxcVYFJiCW9Q7TgK46xXLClwOLl4g0zf0Pwr-YDGb656jypR2Nvw_6Gy-qkoqcISSw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/OH1KrHL1dxcVYFJiCW9Q7TgK46xXLClwOLl4g0zf0Pwr-YDGb656jypR2Nvw_6Gy-qkoqcISSw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Unity Korea",
+        "description": "\uc720\ub2c8\ud2f0 \ud14c\ud06c\ub180\ub85c\uc9c0\uc2a4 \ucf54\ub9ac\uc544 (Unity Technologies Korea)\uacf5\uc2dd \uc720\ud29c\ube0c \ucc44\ub110\uc785\ub2c8\ub2e4.\n\uc720\ub2c8\ud2f0 \uac1c\ubc1c\uacfc \ucd5c\uc2e0 \uc720\ub2c8\ud2f0 \uae30\uc220 \uc18c\uac1c \ubc0f \uc720\ub2c8\ud2f0\ub85c \ub9cc\ub4e4\uc5b4\uc9c4 \ub2e4\uc591\ud55c \ucf58\ud150\uce20\ub97c \ub9cc\ub098\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUQArZVLg7Omzg4cBReJTS3w"
+      }
+    },
+    "statistics": {
+      "viewCount": "1717313",
+      "subscriberCount": "21400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "699"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Unity Korea",
+        "description": "\uc720\ub2c8\ud2f0 \ud14c\ud06c\ub180\ub85c\uc9c0\uc2a4 \ucf54\ub9ac\uc544 (Unity Technologies Korea)\uacf5\uc2dd \uc720\ud29c\ube0c \ucc44\ub110\uc785\ub2c8\ub2e4.\n\uc720\ub2c8\ud2f0 \uac1c\ubc1c\uacfc \ucd5c\uc2e0 \uc720\ub2c8\ud2f0 \uae30\uc220 \uc18c\uac1c \ubc0f \uc720\ub2c8\ud2f0\ub85c \ub9cc\ub4e4\uc5b4\uc9c4 \ub2e4\uc591\ud55c \ucf58\ud150\uce20\ub97c \ub9cc\ub098\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+        "keywords": "\uc720\ub2c8\ud2f0 Unity \uc720\ub2c8\ud2f0\uc5d4\uc9c4 \"\uc720\ub2c8\ud2f0 \uac1c\ubc1c\" \uc5b8\ub9ac\uc5bc \uac8c\uc784\uac1c\ubc1c \uac8c\uc784\uc5d4\uc9c4 unitykorea unitytechnologieskorea \uc720\ub2c8\ud2f0\ucf54\ub9ac\uc544 3d\ucf58\ud150\uce20 \ub80c\ub354\ub9c1 4\ucc28\uc0b0\uc5c5\ud601\uba85 \uba38\uc2e0\ub7ec\ub2dd \uba38\uc2e0\ub7ec\ub2dd\uc5d0\uc774\uc804\ud2b8",
+        "unsubscribedTrailer": "j6-f52EvWNI",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/e1h4e1SC_-xGEsuPuOKPo6mgP6RTc_cZlx5stkT8TTTuz6irPCt8ivCVg20wAqVnr6aJYiIFXBI"
+      }
+    }
+  }
+}

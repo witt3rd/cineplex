@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCIi0sokRP7JKU-f0HHIhicw",
+  "retrieved_on": "2021-12-05 03:47:30.682801",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "FXyfIa_A3yTip3LD_r5JWZbn8UU",
+    "id": "UCIi0sokRP7JKU-f0HHIhicw",
+    "snippet": {
+      "title": "Vector 3D",
+      "description": "3D printing, making, designing and engineering. Also including tutorials, guides, live builds, and explanations of 3D printer features like Core XY kinematics and flow rate\n\n",
+      "customUrl": "vector3dp",
+      "publishedAt": "2016-04-16T14:39:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhQKMRLB3FN-mWl_w2LFxHVTQYScLPbm5QfpZH=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhQKMRLB3FN-mWl_w2LFxHVTQYScLPbm5QfpZH=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhQKMRLB3FN-mWl_w2LFxHVTQYScLPbm5QfpZH=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Vector 3D",
+        "description": "3D printing, making, designing and engineering. Also including tutorials, guides, live builds, and explanations of 3D printer features like Core XY kinematics and flow rate\n\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIi0sokRP7JKU-f0HHIhicw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2706027",
+      "subscriberCount": "22300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "233"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Vector 3D",
+        "description": "3D printing, making, designing and engineering. Also including tutorials, guides, live builds, and explanations of 3D printer features like Core XY kinematics and flow rate\n\n",
+        "keywords": "\"3D Printing\" \"3D Printer\" tutorial DIY Maker CAD Design guide filament \"vector 3d\" 3d reviews printer Prusa Creality e3d \"3D Printer Review\" \"3D Printer unboxing\" \"3D Printer Build\"",
+        "unsubscribedTrailer": "91xe7UfFMgY",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/LRo5uMafr2qLrQvyq-dzyqJAXU42bruPAD59hgFz1wSJIXNv12WjsYqRCypLiPpVysSkZ_V0Kg"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCC5vubsnFBpy-lFB8S8rZEg",
+  "retrieved_on": "2021-12-05 03:47:28.057516",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "sJ6lku6yeP7LQrU3UJHWOGS_Jd0",
+    "id": "UCC5vubsnFBpy-lFB8S8rZEg",
+    "snippet": {
+      "title": "Anni Vuohensilta",
+      "description": "Life of Anni! I make videos about my crazy life with my husband Lauri. We have also two other (and bigger) YouTube channels Hydraulic Press Channel and Beyond the Press. Welcome!",
+      "customUrl": "annivuohensilta",
+      "publishedAt": "2012-01-19T20:16:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrgvghBgpyO0U8kfUyWIf8OS9rHj7diUG2pWiBiBc=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrgvghBgpyO0U8kfUyWIf8OS9rHj7diUG2pWiBiBc=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrgvghBgpyO0U8kfUyWIf8OS9rHj7diUG2pWiBiBc=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Anni Vuohensilta",
+        "description": "Life of Anni! I make videos about my crazy life with my husband Lauri. We have also two other (and bigger) YouTube channels Hydraulic Press Channel and Beyond the Press. Welcome!"
+      },
+      "country": "FI"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUC5vubsnFBpy-lFB8S8rZEg"
+      }
+    },
+    "statistics": {
+      "viewCount": "3849373",
+      "subscriberCount": "46400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "218"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Anni Vuohensilta",
+        "description": "Life of Anni! I make videos about my crazy life with my husband Lauri. We have also two other (and bigger) YouTube channels Hydraulic Press Channel and Beyond the Press. Welcome!",
+        "country": "FI"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/cew9j8G8XPFzM9sQLT1MecuEdX--iVUBcDPIr4l1EwTtti8eqytf55zv7WrzJfVh6KcpHngcOg"
+      }
+    }
+  }
+}

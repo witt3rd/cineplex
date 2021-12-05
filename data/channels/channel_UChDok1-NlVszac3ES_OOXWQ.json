@@ -1,0 +1,61 @@
+{
+  "channel_id": "UChDok1-NlVszac3ES_OOXWQ",
+  "retrieved_on": "2021-12-05 03:47:35.856817",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nnFye8vittjrR13s0AJQEnJR6JM",
+    "id": "UChDok1-NlVszac3ES_OOXWQ",
+    "snippet": {
+      "title": "Johnny M In The Mix \u25baDj Activities",
+      "description": "Hello, i'm Johnny M and i'm from Athens/Greece.\nPlaying and mixing music from 1999...\nMy favorite genres ofcourse are Greek music and especially Dance Hits but also i like mixing Deep, Tech, Progressive House, Trance, Chillout/Lounge and some times Rock, Disco from 80s & 90s\nThanks for visiting my page... enjoy my sets!!\n\nFollow me...",
+      "customUrl": "johnnym805",
+      "publishedAt": "2011-10-02T08:33:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRSfJBYT74mYOSv5vxFsbmAI50TUEVYLXcXBjbloA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRSfJBYT74mYOSv5vxFsbmAI50TUEVYLXcXBjbloA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRSfJBYT74mYOSv5vxFsbmAI50TUEVYLXcXBjbloA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Johnny M In The Mix \u25baDj Activities",
+        "description": "Hello, i'm Johnny M and i'm from Athens/Greece.\nPlaying and mixing music from 1999...\nMy favorite genres ofcourse are Greek music and especially Dance Hits but also i like mixing Deep, Tech, Progressive House, Trance, Chillout/Lounge and some times Rock, Disco from 80s & 90s\nThanks for visiting my page... enjoy my sets!!\n\nFollow me..."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhDok1-NlVszac3ES_OOXWQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "45606882",
+      "subscriberCount": "141000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "260"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Johnny M In The Mix \u25baDj Activities",
+        "description": "Hello, i'm Johnny M and i'm from Athens/Greece.\nPlaying and mixing music from 1999...\nMy favorite genres ofcourse are Greek music and especially Dance Hits but also i like mixing Deep, Tech, Progressive House, Trance, Chillout/Lounge and some times Rock, Disco from 80s & 90s\nThanks for visiting my page... enjoy my sets!!\n\nFollow me...",
+        "keywords": "\"Deep House\" Trance \"Chill Out\" \"Progressive House\" \"Underground House\" \"Tech House\" Techno Electronic",
+        "unsubscribedTrailer": "yNQZLEDUidU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/nfHf5BSAb2t3yQyL6vADlGflQyZ78t9Me_UM56b-41gDt8B-yJWk2O2Kg2seN-DqjHT6wE46NA"
+      }
+    }
+  }
+}

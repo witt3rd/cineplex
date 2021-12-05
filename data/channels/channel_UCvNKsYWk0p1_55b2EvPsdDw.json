@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCvNKsYWk0p1_55b2EvPsdDw",
+  "retrieved_on": "2021-12-05 03:47:34.084387",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jbnHeRToVmdZcCMzT_2JCSLB760",
+    "id": "UCvNKsYWk0p1_55b2EvPsdDw",
+    "snippet": {
+      "title": "Chris J. Davis",
+      "description": "Random weirdness and sometimes, just sometimes, information you could use. Welcome to SSWI on YouTube.\n\nVisit SSWI  on the internet at http://chrisjdavis.org\nSubscribe to Sillyness: https://goo.gl/0D6RYq\nTwitter: http://twitter.com/chrisjdavis\nFacebook: http://facebook.com/chrisjdavis\nGoogle+: https://plus.google.com/u/0/+ChrisJDavisorg",
+      "customUrl": "chrisjdavisorg",
+      "publishedAt": "2012-03-30T18:00:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSByVoqRGKbmsQE6ivWWVaFyoqQ91K5zSjv6m5j3Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSByVoqRGKbmsQE6ivWWVaFyoqQ91K5zSjv6m5j3Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSByVoqRGKbmsQE6ivWWVaFyoqQ91K5zSjv6m5j3Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Chris J. Davis",
+        "description": "Random weirdness and sometimes, just sometimes, information you could use. Welcome to SSWI on YouTube.\n\nVisit SSWI  on the internet at http://chrisjdavis.org\nSubscribe to Sillyness: https://goo.gl/0D6RYq\nTwitter: http://twitter.com/chrisjdavis\nFacebook: http://facebook.com/chrisjdavis\nGoogle+: https://plus.google.com/u/0/+ChrisJDavisorg"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvNKsYWk0p1_55b2EvPsdDw"
+      }
+    },
+    "statistics": {
+      "viewCount": "115145",
+      "subscriberCount": "1110",
+      "hiddenSubscriberCount": false,
+      "videoCount": "149"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chris J. Davis",
+        "description": "Random weirdness and sometimes, just sometimes, information you could use. Welcome to SSWI on YouTube.\n\nVisit SSWI  on the internet at http://chrisjdavis.org\nSubscribe to Sillyness: https://goo.gl/0D6RYq\nTwitter: http://twitter.com/chrisjdavis\nFacebook: http://facebook.com/chrisjdavis\nGoogle+: https://plus.google.com/u/0/+ChrisJDavisorg",
+        "keywords": "silliness sillyness chris heather family reviews chat talk husband wife",
+        "unsubscribedTrailer": "B0GjzcMSpDE",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/x4X2rdal-fAK2LCI4L99En1XQ7-kjZb2ynDPK976hjpuRhjFw_hVjtdQ-XIXZqerLD08auw6"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCThkSNBBx8M1BQcfNQu445A",
+  "retrieved_on": "2021-12-05 03:47:38.208149",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "hxoAoxbVIIEG9PnR1oXPqrSUthk",
+    "id": "UCThkSNBBx8M1BQcfNQu445A",
+    "snippet": {
+      "title": "The Nemeton",
+      "description": "I am here to discuss all manner of occultism, esoteric theology, and mysticism.\nMy name is River and welcome to The Nemeton.",
+      "customUrl": "thenemeton",
+      "publishedAt": "2016-07-06T21:02:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Nqia-h5S8F65vuAZa_CLlfcpfAxgUNrF1FVnK09nJ79SUP6ROCPE-JcLXZiZZUhFcc1IejHD=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Nqia-h5S8F65vuAZa_CLlfcpfAxgUNrF1FVnK09nJ79SUP6ROCPE-JcLXZiZZUhFcc1IejHD=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Nqia-h5S8F65vuAZa_CLlfcpfAxgUNrF1FVnK09nJ79SUP6ROCPE-JcLXZiZZUhFcc1IejHD=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Nemeton",
+        "description": "I am here to discuss all manner of occultism, esoteric theology, and mysticism.\nMy name is River and welcome to The Nemeton."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUThkSNBBx8M1BQcfNQu445A"
+      }
+    },
+    "statistics": {
+      "viewCount": "475603",
+      "subscriberCount": "13800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "81"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Nemeton",
+        "description": "I am here to discuss all manner of occultism, esoteric theology, and mysticism.\nMy name is River and welcome to The Nemeton.",
+        "keywords": "Occult Religion \"Mystery School\" Esoteric Kabbalah Hermeticism Magick Gnostic",
+        "unsubscribedTrailer": "Rzdf3GJMkX8",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/SETVp8MCSDpQsUmifBe6QxOPMzzFCWO2ip38GrK970pKZwglN-CeBo5IgFmPpI2Nrx_Oyc-JcQ"
+      }
+    }
+  }
+}

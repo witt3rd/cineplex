@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC5R5ZQy6-n94UKyYrJopm7A",
+  "retrieved_on": "2021-12-05 03:47:35.055173",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rXa4NB0D1tK5HswYPILaXZVMh2M",
+    "id": "UC5R5ZQy6-n94UKyYrJopm7A",
+    "snippet": {
+      "title": "CINEFX PRODUCTIONS",
+      "description": "",
+      "customUrl": "cinefxproductions",
+      "publishedAt": "2009-09-25T18:59:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR6oIVY8hXn6lgNGmbt6MI-6KEahSFI2_aFxcrDFg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR6oIVY8hXn6lgNGmbt6MI-6KEahSFI2_aFxcrDFg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR6oIVY8hXn6lgNGmbt6MI-6KEahSFI2_aFxcrDFg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "CINEFX PRODUCTIONS",
+        "description": ""
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5R5ZQy6-n94UKyYrJopm7A"
+      }
+    },
+    "statistics": {
+      "viewCount": "4122950",
+      "subscriberCount": "25200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CINEFX PRODUCTIONS",
+        "keywords": "ramana maharshi",
+        "moderateComments": true,
+        "defaultLanguage": "en-GB",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/vPhsKO1f4MXYjTQvFJvvQDlIfRAcYPM7OUV22iyqKTR4v7nDrg5YiyJm6EtMqywUmZA56FZu"
+      }
+    }
+  }
+}

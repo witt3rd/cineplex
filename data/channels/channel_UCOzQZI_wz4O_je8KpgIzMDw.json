@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCOzQZI_wz4O_je8KpgIzMDw",
+  "retrieved_on": "2021-12-05 03:47:37.030708",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "MuabrKEP3Uh_z6sv3GJGZS4MyKE",
+    "id": "UCOzQZI_wz4O_je8KpgIzMDw",
+    "snippet": {
+      "title": "Woodworking Enthusiasts",
+      "description": "Hi Folks,\n20 years ago, When I was a kid, my dad has told me about the reduction of manpower of traditional trades due to the industrialization and modernization of Japanese society, traditional products started to become out-dated and forgotten. \n\nToday, I'm proud to be a Miyadaiku (carpenter) to build and repair traditional temples and shrines, when my dream has come true and my passion has been achieved. We want to spread this to the younger generation and glorify them as much as we can.\n\nIf you enjoyed and want to be a part of that please subscribe & check out to my channel or Subscription to Support US (PayPal)\n\nThanks guys",
+      "customUrl": "woodworkingenthusiasts",
+      "publishedAt": "2016-11-07T23:23:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTVANATUKuI0L98_J1IhEwgg-eh_BHIn9nmELCT-A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTVANATUKuI0L98_J1IhEwgg-eh_BHIn9nmELCT-A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTVANATUKuI0L98_J1IhEwgg-eh_BHIn9nmELCT-A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Woodworking Enthusiasts",
+        "description": "Hi Folks,\n20 years ago, When I was a kid, my dad has told me about the reduction of manpower of traditional trades due to the industrialization and modernization of Japanese society, traditional products started to become out-dated and forgotten. \n\nToday, I'm proud to be a Miyadaiku (carpenter) to build and repair traditional temples and shrines, when my dream has come true and my passion has been achieved. We want to spread this to the younger generation and glorify them as much as we can.\n\nIf you enjoyed and want to be a part of that please subscribe & check out to my channel or Subscription to Support US (PayPal)\n\nThanks guys"
+      },
+      "country": "JP"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOzQZI_wz4O_je8KpgIzMDw"
+      }
+    },
+    "statistics": {
+      "viewCount": "46087198",
+      "subscriberCount": "198000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "244"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Woodworking Enthusiasts",
+        "description": "Hi Folks,\n20 years ago, When I was a kid, my dad has told me about the reduction of manpower of traditional trades due to the industrialization and modernization of Japanese society, traditional products started to become out-dated and forgotten. \n\nToday, I'm proud to be a Miyadaiku (carpenter) to build and repair traditional temples and shrines, when my dream has come true and my passion has been achieved. We want to spread this to the younger generation and glorify them as much as we can.\n\nIf you enjoyed and want to be a part of that please subscribe & check out to my channel or Subscription to Support US (PayPal)\n\nThanks guys",
+        "keywords": "\"woodworking enthusiasts\" woodwork \"japanese woodworking\" \"bamboo work\" \"metal work\"",
+        "unsubscribedTrailer": "Jcze8Yd-Kqo",
+        "country": "JP"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Z5wHfAtjjuDnc7orCjztVTiOIgmYlebdNOu3aZUDUB7EKsrh26CUHrj_H-ILJOhyTsewjJY5Mw"
+      }
+    }
+  }
+}

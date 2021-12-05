@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCFR-QlAx0qFHN9-QmcrpHnQ",
+  "retrieved_on": "2021-12-05 03:47:38.852330",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jWzNbsQHxpG0jk3eH1sz3PxC4no",
+    "id": "UCFR-QlAx0qFHN9-QmcrpHnQ",
+    "snippet": {
+      "title": "Pezzza's Work",
+      "description": "Welcome to my channel where I share my personal projects. \nYou will find various experiments about many subjects like Physics Simulations, Raytracing and Machine Learning among others.\nAlmost everything is made from scratch since I think it's the best way to learn.",
+      "customUrl": "pezzzaswork",
+      "publishedAt": "2019-02-26T01:16:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/bgh4kYoIrqz8WD-jtZ_qdNkcjCBm0yHDR4Hb1kCdd4CRSrIqaPYfTuKZyDBdvzI6VilYPaLMw_8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/bgh4kYoIrqz8WD-jtZ_qdNkcjCBm0yHDR4Hb1kCdd4CRSrIqaPYfTuKZyDBdvzI6VilYPaLMw_8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/bgh4kYoIrqz8WD-jtZ_qdNkcjCBm0yHDR4Hb1kCdd4CRSrIqaPYfTuKZyDBdvzI6VilYPaLMw_8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Pezzza's Work",
+        "description": "Welcome to my channel where I share my personal projects. \nYou will find various experiments about many subjects like Physics Simulations, Raytracing and Machine Learning among others.\nAlmost everything is made from scratch since I think it's the best way to learn."
+      },
+      "country": "FR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFR-QlAx0qFHN9-QmcrpHnQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "3722682",
+      "subscriberCount": "29000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "82"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Pezzza's Work",
+        "description": "Welcome to my channel where I share my personal projects. \nYou will find various experiments about many subjects like Physics Simulations, Raytracing and Machine Learning among others.\nAlmost everything is made from scratch since I think it's the best way to learn.",
+        "keywords": "c++ sfml 2d game gamedev simulation gpu raytracing ants simulator physics realtime cpu math \"artificial intelligence\" ai \"neural network\" \"genetic algorithm\"",
+        "country": "FR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Bo7iiI5y3na6qjy4g8a1vD13mvK7mXr3UOJ_hsj0iJR1bRqGZThLNM5sG7kf9ejjR3Xyfjq2m9M"
+      }
+    }
+  }
+}

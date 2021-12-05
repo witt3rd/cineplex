@@ -1,0 +1,57 @@
+{
+  "channel_id": "UC8QynJCm2RsFzGEqFPrZEdg",
+  "retrieved_on": "2021-12-05 03:47:39.125956",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "DpToa7j0K6fgruDbRbQwmDn5aG8",
+    "id": "UC8QynJCm2RsFzGEqFPrZEdg",
+    "snippet": {
+      "title": "Aeolus 13 Umbra",
+      "description": "The Aeolus 13 Umbra YouTube channel supports www.Aeolus13Umbra.com, a literary journal that reviews artistic, business, historical, literary, and scientific topics with an emphasis on their influences and impact, or the shadows they stand in and the shadows they cast. Various aspects of the human experience are also explored through essays, short stories, poetry, and multimedia content.",
+      "publishedAt": "2006-07-24T23:42:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQXS1juNPxAXFbyu2MgvGoK5XcQEYRh_cAPPl9C=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQXS1juNPxAXFbyu2MgvGoK5XcQEYRh_cAPPl9C=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQXS1juNPxAXFbyu2MgvGoK5XcQEYRh_cAPPl9C=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Aeolus 13 Umbra",
+        "description": "The Aeolus 13 Umbra YouTube channel supports www.Aeolus13Umbra.com, a literary journal that reviews artistic, business, historical, literary, and scientific topics with an emphasis on their influences and impact, or the shadows they stand in and the shadows they cast. Various aspects of the human experience are also explored through essays, short stories, poetry, and multimedia content."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU8QynJCm2RsFzGEqFPrZEdg"
+      }
+    },
+    "statistics": {
+      "viewCount": "2753040",
+      "subscriberCount": "9520",
+      "hiddenSubscriberCount": false,
+      "videoCount": "216"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Aeolus 13 Umbra",
+        "description": "The Aeolus 13 Umbra YouTube channel supports www.Aeolus13Umbra.com, a literary journal that reviews artistic, business, historical, literary, and scientific topics with an emphasis on their influences and impact, or the shadows they stand in and the shadows they cast. Various aspects of the human experience are also explored through essays, short stories, poetry, and multimedia content.",
+        "keywords": "\"documentary. history\" poetry \"science fiction\" \"spoken word\""
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/ZSNnyaoMqJC9K0OX0Hvw8Y9Y5tLYX5ZlTPHISJbgnFgkHHw1IAJFmo7kb28i0g--_0q1mB_v"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "channel_id": "UC2mtT2n8GRV7uQ6w-Tdpsuw",
+  "retrieved_on": "2021-12-05 03:47:28.304193",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8dmke6XzsYMqLUlIxmDrxGMa5yI",
+    "id": "UC2mtT2n8GRV7uQ6w-Tdpsuw",
+    "snippet": {
+      "title": "Mike Stay",
+      "description": "",
+      "customUrl": "mikestay",
+      "publishedAt": "2009-07-30T02:37:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQV5lJXerchDojj2CwgIwqRYI7GjwZX7iBhvxB82Hc=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQV5lJXerchDojj2CwgIwqRYI7GjwZX7iBhvxB82Hc=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQV5lJXerchDojj2CwgIwqRYI7GjwZX7iBhvxB82Hc=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mike Stay",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2mtT2n8GRV7uQ6w-Tdpsuw"
+      }
+    },
+    "statistics": {
+      "viewCount": "319170",
+      "subscriberCount": "1020",
+      "hiddenSubscriberCount": false,
+      "videoCount": "51"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mike Stay"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/cx91m3thZYPIp0oxB6nehqKxA1PWNc5g5XUfVy27fsL1jpQ3u0pQF1l-a9IVNyVPLb2c7scNThc"
+      }
+    }
+  }
+}

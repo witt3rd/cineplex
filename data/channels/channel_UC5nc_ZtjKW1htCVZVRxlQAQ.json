@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+  "retrieved_on": "2021-12-05 03:47:30.163149",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "dKV0oZ88tPENvkueiwyv0W1siS8",
+    "id": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+    "snippet": {
+      "title": "MrSuicideSheep",
+      "description": "On this channel you will find a wide variety of different electronic and sometimes non-electronic music. I strive to find the best and most enjoyable music for you guys. I hope you have a good time here :)\n\n\nPlease submit your music here.\nhttp://mrsuicidesheep.com/submit",
+      "publishedAt": "2010-04-09T15:30:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ANmgv2-dyHCi7tnIuUtJLcKUI9QIk2Rp8Fojl4Gwe4PLxFCxD-S0jvJdO7JvEbHnT3Rk_zaD=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ANmgv2-dyHCi7tnIuUtJLcKUI9QIk2Rp8Fojl4Gwe4PLxFCxD-S0jvJdO7JvEbHnT3Rk_zaD=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ANmgv2-dyHCi7tnIuUtJLcKUI9QIk2Rp8Fojl4Gwe4PLxFCxD-S0jvJdO7JvEbHnT3Rk_zaD=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MrSuicideSheep",
+        "description": "On this channel you will find a wide variety of different electronic and sometimes non-electronic music. I strive to find the best and most enjoyable music for you guys. I hope you have a good time here :)\n\n\nPlease submit your music here.\nhttp://mrsuicidesheep.com/submit"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5nc_ZtjKW1htCVZVRxlQAQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "6471096295",
+      "subscriberCount": "12800000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3033"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MrSuicideSheep",
+        "description": "On this channel you will find a wide variety of different electronic and sometimes non-electronic music. I strive to find the best and most enjoyable music for you guys. I hope you have a good time here :)\n\n\nPlease submit your music here.\nhttp://mrsuicidesheep.com/submit",
+        "keywords": "mrsuicidesheep music \"music channel\" suicidesheep sheepy mrsheepy edm \"electronic dance music\" anime art \"concept art\" mix \"music mix\" \"music playlist\" \"streaming music\" \"best of\" \"taking you higher\" party gaming download video listen piano \"dance music\" electronic playlist spotify \"chill music\" chillout chill lofi beats relax \"relaxing music\" \"heavy electronic music\" dubstep chillstep \"future bass\" \"indie electronic\" indietronic classical animation \"music videos\" \"music video\" video dance",
+        "trackingAnalyticsAccountId": "UA-129043341-2",
+        "unsubscribedTrailer": "tHnYkG4LQbs",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Any9kK6IJLzQQhBtf4yobpD0zuTxdB7N9XMV4ZHw5PSsZ3SZywGdPIK1_MqRTi8RNXejXedc"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCmzsYSXn3zdCsLS063oCt8w",
+  "retrieved_on": "2021-12-05 03:47:28.304180",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ku8AN3DnDZin0iDZG3UJGqZzapQ",
+    "id": "UCmzsYSXn3zdCsLS063oCt8w",
+    "snippet": {
+      "title": "AwakenTheWorldFilm",
+      "description": "Films for the awakening of human consciousness. Please subscribe to the mailing list at http://www.awakentheworld.com.\nThe AwakenTheWorldFilm channel and the Awaken the World initiative are run by Daniel Schmidt and Tanya Mahar.\nFollow us on Facebook at: www.facebook.com/awakentheworldfilm",
+      "customUrl": "awakentheworldfilm",
+      "publishedAt": "2012-04-17T18:06:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQxfmAVCzrZHU2synPOzwbfprrfFYWmSSE8eujZ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQxfmAVCzrZHU2synPOzwbfprrfFYWmSSE8eujZ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQxfmAVCzrZHU2synPOzwbfprrfFYWmSSE8eujZ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AwakenTheWorldFilm",
+        "description": "Films for the awakening of human consciousness. Please subscribe to the mailing list at http://www.awakentheworld.com.\nThe AwakenTheWorldFilm channel and the Awaken the World initiative are run by Daniel Schmidt and Tanya Mahar.\nFollow us on Facebook at: www.facebook.com/awakentheworldfilm"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmzsYSXn3zdCsLS063oCt8w"
+      }
+    },
+    "statistics": {
+      "viewCount": "40419202",
+      "subscriberCount": "437000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "107"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "AwakenTheWorldFilm",
+        "description": "Films for the awakening of human consciousness. Please subscribe to the mailing list at http://www.awakentheworld.com.\nThe AwakenTheWorldFilm channel and the Awaken the World initiative are run by Daniel Schmidt and Tanya Mahar.\nFollow us on Facebook at: www.facebook.com/awakentheworldfilm",
+        "keywords": "Enlightenment awakening meditation yoga spirit science",
+        "unsubscribedTrailer": "d8j2w7lRnXg",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/czrz1aIGZ7b5EGGFUx5dEv8_L8C54oK00Kvbt9unwaOcXFm04N4SAbaUaMgw9Hmt7BH0eDy4VQ"
+      }
+    }
+  }
+}

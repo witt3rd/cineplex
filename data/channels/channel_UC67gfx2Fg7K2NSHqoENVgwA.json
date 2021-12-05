@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC67gfx2Fg7K2NSHqoENVgwA",
+  "retrieved_on": "2021-12-05 03:47:34.308963",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "b_lYViXcWB7ewNCSJvabd4e_ntQ",
+    "id": "UC67gfx2Fg7K2NSHqoENVgwA",
+    "snippet": {
+      "title": "Tom Stanton",
+      "description": "I graduated with a degree in Aerospace engineering and was sidetracked by the endless possibilies of 3D printers.",
+      "customUrl": "tomstantonengineering",
+      "publishedAt": "2011-10-12T19:03:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSPPsvA3qWpRWSx-R7zKeFwWeijrOirUcYTTag4MA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSPPsvA3qWpRWSx-R7zKeFwWeijrOirUcYTTag4MA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSPPsvA3qWpRWSx-R7zKeFwWeijrOirUcYTTag4MA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tom Stanton",
+        "description": "I graduated with a degree in Aerospace engineering and was sidetracked by the endless possibilies of 3D printers."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU67gfx2Fg7K2NSHqoENVgwA"
+      }
+    },
+    "statistics": {
+      "viewCount": "96172315",
+      "subscriberCount": "907000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "135"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tom Stanton",
+        "description": "I graduated with a degree in Aerospace engineering and was sidetracked by the endless possibilies of 3D printers.",
+        "keywords": "RC plane fpv tricopter tri-copter tri copter blade prop proppeller remote control radio funny flying wing fail crash depron hot glue tom stanton development aircraft aeroplane brushless lipo esc servo hobby king bike cycle electric 3d print printer printing printed",
+        "unsubscribedTrailer": "g2p4P36VtQE",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/7yhHp4PCpqq9jC6fmm4RJ91kU_0oFBxwYC0bhjthyVxiBbzfrIyeIJ1CA-KyOUtggnFmM5Oj-w"
+      }
+    }
+  }
+}

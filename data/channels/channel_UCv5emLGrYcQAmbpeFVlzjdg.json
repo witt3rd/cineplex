@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCv5emLGrYcQAmbpeFVlzjdg",
+  "retrieved_on": "2021-12-05 03:47:29.852516",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "KYR_-whQnlnVSFXLHyEevgFrJTU",
+    "id": "UCv5emLGrYcQAmbpeFVlzjdg",
+    "snippet": {
+      "title": "Warner Records Vault",
+      "description": "About Warner Records: Warner Bros. Records opened for business on March 19, 1958, above the film studio's machine shop at 3701 Warner Blvd. in Burbank. \nAmong the artists who have found a home at the company: Avenged Sevenfold, Barenaked Ladies, Daniel Powter, Deftones, Devo, Eric Clapton, Green Day, Jane\u2019s Addiction, Josh Groban, Ministry, Muse, Neil Young, Red Hot Chili Peppers, R.E.M., Seal, Serj Tankian, Smashing Pumpkins, Static-X,   The Raconteurs, The White Stripes, Trapt and countless others.",
+      "customUrl": "warnerrecordsvault",
+      "publishedAt": "2020-05-11T21:53:38.046307Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXftPTXGkYeje9NyhiFUO8m3gWTQOExxiFqspp=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXftPTXGkYeje9NyhiFUO8m3gWTQOExxiFqspp=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSXftPTXGkYeje9NyhiFUO8m3gWTQOExxiFqspp=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Warner Records Vault",
+        "description": "About Warner Records: Warner Bros. Records opened for business on March 19, 1958, above the film studio's machine shop at 3701 Warner Blvd. in Burbank. \nAmong the artists who have found a home at the company: Avenged Sevenfold, Barenaked Ladies, Daniel Powter, Deftones, Devo, Eric Clapton, Green Day, Jane\u2019s Addiction, Josh Groban, Ministry, Muse, Neil Young, Red Hot Chili Peppers, R.E.M., Seal, Serj Tankian, Smashing Pumpkins, Static-X,   The Raconteurs, The White Stripes, Trapt and countless others."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUv5emLGrYcQAmbpeFVlzjdg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1985123680",
+      "subscriberCount": "436000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "377"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Warner Records Vault",
+        "description": "About Warner Records: Warner Bros. Records opened for business on March 19, 1958, above the film studio's machine shop at 3701 Warner Blvd. in Burbank. \nAmong the artists who have found a home at the company: Avenged Sevenfold, Barenaked Ladies, Daniel Powter, Deftones, Devo, Eric Clapton, Green Day, Jane\u2019s Addiction, Josh Groban, Ministry, Muse, Neil Young, Red Hot Chili Peppers, R.E.M., Seal, Serj Tankian, Smashing Pumpkins, Static-X,   The Raconteurs, The White Stripes, Trapt and countless others.",
+        "keywords": "\"Warner Records\" \"Warner Music\" \"Warner Music Group\" \"Warner Records Vault\" Warner Music Pop Rock Metal \"Hip Hop\" Classics Playlist 1990\u2019s 2000\u2019s \"Best Of\" \"Throwback hits of the 1990's - 2000's\" \"Need for Speed: Underground Soundtrack List\" \"Top Hits of the 2000's\" \"70's Music Hits Playlist - Best of 70s Music Classics\" \"2000s Rock Songs. Rock Hits of 2000-2009\" \"90's pop alternative\" metallica \"you raise me up\" \"metallica unforgiven\" deftones comeback \"whiskey in the jar\" seal \"eric clapton\" \"Daniel Powter\" \"Eric Clapton\" Trapt Static-X Devo \"Barenaked Ladies\""
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/q1y3huOog3G0rZhftXGh2GltZ7s_IMhRjDDLzbveqfekbBNpeFy8gjilpaOLzpI7qRMQ5Y1eGIA"
+      }
+    }
+  }
+}

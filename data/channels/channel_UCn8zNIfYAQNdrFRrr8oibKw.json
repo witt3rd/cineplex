@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCn8zNIfYAQNdrFRrr8oibKw",
+  "retrieved_on": "2021-12-05 03:47:28.920462",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "MTukBSs8CYtWIMieH8RHMwJWLqc",
+    "id": "UCn8zNIfYAQNdrFRrr8oibKw",
+    "snippet": {
+      "title": "VICE",
+      "description": "Enlightening commentary, authoritative advice, and unique stories you won't find anywhere else. Our immersive and ground-breaking storytelling has changed the way people think about culture, crime, art, parties, fashion, protest, the internet and other subjects that don't even have names yet. Browse the library and discover corners of the world you never knew existed. \n\nAll video licensing inquiries should be directed to licensing @ vice.com.",
+      "customUrl": "vice",
+      "publishedAt": "2005-12-16T04:20:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Nv_KBl_Xisv3VhrhtxRU9X61FhknDm_76J5sO9TKT0z_60v61krrzcTNPl_WYe4_U4Cuw2KHeA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Nv_KBl_Xisv3VhrhtxRU9X61FhknDm_76J5sO9TKT0z_60v61krrzcTNPl_WYe4_U4Cuw2KHeA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Nv_KBl_Xisv3VhrhtxRU9X61FhknDm_76J5sO9TKT0z_60v61krrzcTNPl_WYe4_U4Cuw2KHeA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "VICE",
+        "description": "Enlightening commentary, authoritative advice, and unique stories you won't find anywhere else. Our immersive and ground-breaking storytelling has changed the way people think about culture, crime, art, parties, fashion, protest, the internet and other subjects that don't even have names yet. Browse the library and discover corners of the world you never knew existed. \n\nAll video licensing inquiries should be directed to licensing @ vice.com."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUn8zNIfYAQNdrFRrr8oibKw"
+      }
+    },
+    "statistics": {
+      "viewCount": "3818719635",
+      "subscriberCount": "15100000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3545"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "VICE",
+        "description": "Enlightening commentary, authoritative advice, and unique stories you won't find anywhere else. Our immersive and ground-breaking storytelling has changed the way people think about culture, crime, art, parties, fashion, protest, the internet and other subjects that don't even have names yet. Browse the library and discover corners of the world you never knew existed. \n\nAll video licensing inquiries should be directed to licensing @ vice.com.",
+        "keywords": "VICE documentaries documentary docs entertainment \u201cvice mag\u201d magazine\u201d vice.com",
+        "moderateComments": true,
+        "unsubscribedTrailer": "2mTq7BSLe74",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/w8TQpZ-hTVB3jB1VAae-PjGUZi7mOwpR_htNOQ10JRDYojTCmPBLRMAurPMZPox4BcKfNO_9"
+      }
+    }
+  }
+}

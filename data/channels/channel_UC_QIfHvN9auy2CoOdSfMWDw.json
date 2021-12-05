@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC_QIfHvN9auy2CoOdSfMWDw",
+  "retrieved_on": "2021-12-05 03:47:32.898662",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JDBheVGSISXGiy-c-lfSUFFTEBg",
+    "id": "UC_QIfHvN9auy2CoOdSfMWDw",
+    "snippet": {
+      "title": "Strange Loop Conference",
+      "description": "Videos from the Strange Loop conference in St. Louis, MO.",
+      "customUrl": "strangeloopconf",
+      "publishedAt": "2014-09-03T02:51:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhn6EZi78zcWg9XduZQ0c3jvis-a2yeiPVJKQQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhn6EZi78zcWg9XduZQ0c3jvis-a2yeiPVJKQQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhn6EZi78zcWg9XduZQ0c3jvis-a2yeiPVJKQQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Strange Loop Conference",
+        "description": "Videos from the Strange Loop conference in St. Louis, MO."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU_QIfHvN9auy2CoOdSfMWDw"
+      }
+    },
+    "statistics": {
+      "viewCount": "5192312",
+      "subscriberCount": "50900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "584"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Strange Loop Conference",
+        "description": "Videos from the Strange Loop conference in St. Louis, MO.",
+        "keywords": "software programming strange loop conference",
+        "trackingAnalyticsAccountId": "UA-28613259-1",
+        "moderateComments": true,
+        "country": "US"
+      }
+    }
+  }
+}

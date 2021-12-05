@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCXUhCI-MNTc0ieHKnWJaIAg",
+  "retrieved_on": "2021-12-05 03:47:31.570445",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "W4LH8Dzpdz6dVhs2aOgRClHl7xs",
+    "id": "UCXUhCI-MNTc0ieHKnWJaIAg",
+    "snippet": {
+      "title": "Alan Watts",
+      "description": "",
+      "publishedAt": "2013-10-12T10:05:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTld33mvOdS_Ikp9j6TS2L4wcO-uV24_6KfxjN=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTld33mvOdS_Ikp9j6TS2L4wcO-uV24_6KfxjN=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTld33mvOdS_Ikp9j6TS2L4wcO-uV24_6KfxjN=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Alan Watts",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXUhCI-MNTc0ieHKnWJaIAg"
+      }
+    },
+    "statistics": {
+      "viewCount": "171881",
+      "subscriberCount": "3000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Alan Watts"
+      }
+    }
+  }
+}

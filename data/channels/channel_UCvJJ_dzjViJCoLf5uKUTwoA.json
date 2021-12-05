@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+  "retrieved_on": "2021-12-05 03:47:34.309036",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-HV3mi_yWAsaddg2YbURwXx16tE",
+    "id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+    "snippet": {
+      "title": "CNBC",
+      "description": "Welcome to the official YouTube channel for CNBC. From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.\n\nFor real-time news updates from around the world, visit: http://www.cnbc.com\n\nFor CNBC's primetime TV lineup, visit http://tv.cnbc.com\n\nFor CNBC's International YouTube channel, visit: http://www.youtube.com/cnbcinternational",
+      "customUrl": "cnbc",
+      "publishedAt": "2006-06-17T16:34:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrhA2lTj2e-5xmvnHzDhl3XgYj6afl7yoY49GFSRg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrhA2lTj2e-5xmvnHzDhl3XgYj6afl7yoY49GFSRg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrhA2lTj2e-5xmvnHzDhl3XgYj6afl7yoY49GFSRg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CNBC",
+        "description": "Welcome to the official YouTube channel for CNBC. From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.\n\nFor real-time news updates from around the world, visit: http://www.cnbc.com\n\nFor CNBC's primetime TV lineup, visit http://tv.cnbc.com\n\nFor CNBC's International YouTube channel, visit: http://www.youtube.com/cnbcinternational"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvJJ_dzjViJCoLf5uKUTwoA"
+      }
+    },
+    "statistics": {
+      "viewCount": "988917789",
+      "subscriberCount": "2530000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "14498"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CNBC",
+        "description": "Welcome to the official YouTube channel for CNBC. From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.\n\nFor real-time news updates from around the world, visit: http://www.cnbc.com\n\nFor CNBC's primetime TV lineup, visit http://tv.cnbc.com\n\nFor CNBC's International YouTube channel, visit: http://www.youtube.com/cnbcinternational",
+        "keywords": "CNBC \"business news\" \"jim cramer\" \"mad money\" \"young money\" \"Landon Dowdy\" \"stock market\" earnings \"wall street\" \"money investment\" \"personal finance\" investing politics echnology",
+        "trackingAnalyticsAccountId": "UA-36353629-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "DMIbfurPE1I"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/P6Vz1wtgoZIY4Gf_xhroXZR-YUiItfWnE-REUXwiDa105J-U0SOZwY793xu8T4nFMX3bFiqs9w"
+      }
+    }
+  }
+}

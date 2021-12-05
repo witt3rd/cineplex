@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCsvn_Po0SmunchJYOWpOxMg",
+  "retrieved_on": "2021-12-05 03:47:30.960774",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "_AGl0OZrbTILou4l_v45QCtMpiU",
+    "id": "UCsvn_Po0SmunchJYOWpOxMg",
+    "snippet": {
+      "title": "videogamedunkey",
+      "description": "watch my stupid ass videos",
+      "publishedAt": "2010-10-21T16:44:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT3MQEwjEyaqQlesCUdKT0xW_1PMQnqexIgc0no=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT3MQEwjEyaqQlesCUdKT0xW_1PMQnqexIgc0no=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT3MQEwjEyaqQlesCUdKT0xW_1PMQnqexIgc0no=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "videogamedunkey",
+        "description": "watch my stupid ass videos"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUsvn_Po0SmunchJYOWpOxMg"
+      }
+    },
+    "statistics": {
+      "viewCount": "3238955167",
+      "subscriberCount": "6920000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "736"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "videogamedunkey",
+        "description": "watch my stupid ass videos",
+        "keywords": "dunkey videogamedunkey vgdunkey",
+        "moderateComments": true,
+        "unsubscribedTrailer": "9EvbqxBUG_c",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/AqGGWESp1RZqdqjxWvZGDToTLDeACFpvRBK60Ic65SuAEpI7R5SQvcARxES9ziEfiiMm-otd"
+      }
+    }
+  }
+}

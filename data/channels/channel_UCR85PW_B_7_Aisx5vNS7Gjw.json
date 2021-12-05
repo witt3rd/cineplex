@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCR85PW_B_7_Aisx5vNS7Gjw",
+  "retrieved_on": "2021-12-05 03:47:30.436632",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "RDH9f8_DReW3t0f0OtlNggnMGJo",
+    "id": "UCR85PW_B_7_Aisx5vNS7Gjw",
+    "snippet": {
+      "title": "Eric Weinstein",
+      "description": "This is channel is constructed as a convenience to those who may have heard me speak or read something I've written and who may have become interested in my thoughts on Physics, Mathematics, Economics, Atheism, Faith and their roles in Science, Radical Approaches to Education, Risk, Longevity, Selection and Biology, Professional Wrestling and other topics. \n\nSome thinking from work done by myself while at INETeconomics, Thiel Capital, The Sloan Foundation, Harvard University, MIT, Hebrew University, Oxford University, University of Pennsylvania and the NBER.",
+      "customUrl": "ericweinsteinphd",
+      "publishedAt": "2009-05-12T18:15:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSfYrHeq0Ma60OT-nBa1DmvNfwnKW4aDCBZO8Fw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSfYrHeq0Ma60OT-nBa1DmvNfwnKW4aDCBZO8Fw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSfYrHeq0Ma60OT-nBa1DmvNfwnKW4aDCBZO8Fw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Eric Weinstein",
+        "description": "This is channel is constructed as a convenience to those who may have heard me speak or read something I've written and who may have become interested in my thoughts on Physics, Mathematics, Economics, Atheism, Faith and their roles in Science, Radical Approaches to Education, Risk, Longevity, Selection and Biology, Professional Wrestling and other topics. \n\nSome thinking from work done by myself while at INETeconomics, Thiel Capital, The Sloan Foundation, Harvard University, MIT, Hebrew University, Oxford University, University of Pennsylvania and the NBER."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUR85PW_B_7_Aisx5vNS7Gjw"
+      }
+    },
+    "statistics": {
+      "viewCount": "9141728",
+      "subscriberCount": "262000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "42"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Eric Weinstein",
+        "description": "This is channel is constructed as a convenience to those who may have heard me speak or read something I've written and who may have become interested in my thoughts on Physics, Mathematics, Economics, Atheism, Faith and their roles in Science, Radical Approaches to Education, Risk, Longevity, Selection and Biology, Professional Wrestling and other topics. \n\nSome thinking from work done by myself while at INETeconomics, Thiel Capital, The Sloan Foundation, Harvard University, MIT, Hebrew University, Oxford University, University of Pennsylvania and the NBER.",
+        "moderateComments": true
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/d7uwopwZ_A7U7-LxrdF8v9ArjePx3fKTHse6sWwYdu6CnNJF4UbAhWrH-K457CM1BbpcJvp-"
+      }
+    }
+  }
+}

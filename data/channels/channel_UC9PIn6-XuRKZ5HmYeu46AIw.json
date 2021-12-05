@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC9PIn6-XuRKZ5HmYeu46AIw",
+  "retrieved_on": "2021-12-05 03:47:29.188903",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "vx7EteGnpanEoau7KHiPZP2vT5A",
+    "id": "UC9PIn6-XuRKZ5HmYeu46AIw",
+    "snippet": {
+      "title": "Barely Sociable",
+      "description": "Hi I\u2019m Barely Sociable,\n\nI create analysis videos for the odd corners of the internet.",
+      "customUrl": "barelysociable",
+      "publishedAt": "2019-03-28T04:20:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRSpu4FbMiSpXmyqIVyreOG7I6eQAY_wu6GkAWT=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRSpu4FbMiSpXmyqIVyreOG7I6eQAY_wu6GkAWT=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRSpu4FbMiSpXmyqIVyreOG7I6eQAY_wu6GkAWT=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Barely Sociable",
+        "description": "Hi I\u2019m Barely Sociable,\n\nI create analysis videos for the odd corners of the internet."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU9PIn6-XuRKZ5HmYeu46AIw"
+      }
+    },
+    "statistics": {
+      "viewCount": "50607502",
+      "subscriberCount": "938000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "28"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Barely Sociable",
+        "description": "Hi I\u2019m Barely Sociable,\n\nI create analysis videos for the odd corners of the internet.",
+        "keywords": "mystery",
+        "moderateComments": true,
+        "unsubscribedTrailer": "pl20NdwAs3k",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jXE_alXSFtpuiWQPZvGWPgvnT2bGLxTecXSqIbUV8kVF9XkEPWkINDn0iPtSyABAoSj6ecvz2g"
+      }
+    }
+  }
+}

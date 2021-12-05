@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCzSmboGBb8J4wsadekOgLyA",
+  "retrieved_on": "2021-12-05 03:47:35.288860",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JhgP6tkeOZoKLqumOFGqRcdFw3I",
+    "id": "UCzSmboGBb8J4wsadekOgLyA",
+    "snippet": {
+      "title": "Puppets by Arlee",
+      "description": "I am a puppeteer and puppet builder.  Here is where you can find free video tutorials and performances.  Please enjoy!\n\n \ud83d\uddd3 Channel Schedule:\nNew video every Monday at 10am NYC time\n\nI hope you enjoy my content \u2764\ufe0f \nIf you do please consider subscribing \ud83d\udc4dand don't forget to hit the bell \ud83d\udd14 !! \nThanks for your support !! \u2764\ud83e\udd70\n\n\ud83d\udce7 Email: puppetsbyarlee@gmail.com\n\nWant to support this channel? \npaypal.me/puppetsbyarlee\n",
+      "publishedAt": "2020-05-29T05:16:12.772195Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2NZwv3DDKkjdAQWTeKNGcCnKwZ_f2ZcGcYph8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2NZwv3DDKkjdAQWTeKNGcCnKwZ_f2ZcGcYph8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT2NZwv3DDKkjdAQWTeKNGcCnKwZ_f2ZcGcYph8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Puppets by Arlee",
+        "description": "I am a puppeteer and puppet builder.  Here is where you can find free video tutorials and performances.  Please enjoy!\n\n \ud83d\uddd3 Channel Schedule:\nNew video every Monday at 10am NYC time\n\nI hope you enjoy my content \u2764\ufe0f \nIf you do please consider subscribing \ud83d\udc4dand don't forget to hit the bell \ud83d\udd14 !! \nThanks for your support !! \u2764\ud83e\udd70\n\n\ud83d\udce7 Email: puppetsbyarlee@gmail.com\n\nWant to support this channel? \npaypal.me/puppetsbyarlee\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzSmboGBb8J4wsadekOgLyA"
+      }
+    },
+    "statistics": {
+      "viewCount": "80015",
+      "subscriberCount": "1340",
+      "hiddenSubscriberCount": false,
+      "videoCount": "82"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Puppets by Arlee",
+        "description": "I am a puppeteer and puppet builder.  Here is where you can find free video tutorials and performances.  Please enjoy!\n\n \ud83d\uddd3 Channel Schedule:\nNew video every Monday at 10am NYC time\n\nI hope you enjoy my content \u2764\ufe0f \nIf you do please consider subscribing \ud83d\udc4dand don't forget to hit the bell \ud83d\udd14 !! \nThanks for your support !! \u2764\ud83e\udd70\n\n\ud83d\udce7 Email: puppetsbyarlee@gmail.com\n\nWant to support this channel? \npaypal.me/puppetsbyarlee\n",
+        "keywords": "Puppet puppets building puppetry marionettes marionette puppeteer puppeteers art theater theatre props craft \"how to\" make diy DIY puppetry artist workshop woodshop",
+        "unsubscribedTrailer": "MHRcdgO7IXM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/elQNo4MT3Yod749AU551QdN8gmf25GK0nXd5RWs8ADpmu-R8aMHl93wEhhpZzBaX4h5xVAcRmw"
+      }
+    }
+  }
+}

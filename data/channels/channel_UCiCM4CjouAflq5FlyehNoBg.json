@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCiCM4CjouAflq5FlyehNoBg",
+  "retrieved_on": "2021-12-05 03:47:30.436680",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "vgUjcg85xxLhSZ1_emTzm107fWQ",
+    "id": "UCiCM4CjouAflq5FlyehNoBg",
+    "snippet": {
+      "title": "Konfy",
+      "description": "Meet us on our next jLove conference on June 25th!\n\nTickets: https://www.tickettailor.com/events/konfy/521202\nRead about jLove 2021: https://jlove.konfy.care\nMeet all our lovely speakers: https://jlove.konfy.care/schedule\n",
+      "customUrl": "konfy",
+      "publishedAt": "2020-05-12T18:17:33.575056Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUqV48FsoJ8EUDQaGQMzm1iuvlKrncSDGb6wqO=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUqV48FsoJ8EUDQaGQMzm1iuvlKrncSDGb6wqO=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUqV48FsoJ8EUDQaGQMzm1iuvlKrncSDGb6wqO=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Konfy",
+        "description": "Meet us on our next jLove conference on June 25th!\n\nTickets: https://www.tickettailor.com/events/konfy/521202\nRead about jLove 2021: https://jlove.konfy.care\nMeet all our lovely speakers: https://jlove.konfy.care/schedule\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUiCM4CjouAflq5FlyehNoBg"
+      }
+    },
+    "statistics": {
+      "viewCount": "136925",
+      "subscriberCount": "2930",
+      "hiddenSubscriberCount": false,
+      "videoCount": "179"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Konfy",
+        "description": "Meet us on our next jLove conference on June 25th!\n\nTickets: https://www.tickettailor.com/events/konfy/521202\nRead about jLove 2021: https://jlove.konfy.care\nMeet all our lovely speakers: https://jlove.konfy.care/schedule\n",
+        "keywords": "java scala haskell conference",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/TClrnfK7feaJc1FmqwgK4UBusDePsmGo06No1mdh--C1HaLziKFrFncWok_pHbPulYhTmqxD"
+      }
+    }
+  }
+}

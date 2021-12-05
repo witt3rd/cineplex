@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCneKpMu9SFGlt2usTdAI75A",
+  "retrieved_on": "2021-12-05 03:47:39.125879",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "EDPUiObdyRFoawXm04XCo8g48hI",
+    "id": "UCneKpMu9SFGlt2usTdAI75A",
+    "snippet": {
+      "title": "Grace to You",
+      "description": "Grace to You is the media ministry of John MacArthur\u2014pastor-teacher of Grace Community Church in Sun Valley, California, as well as an author, conference speaker, chancellor of The Master\u2019s University and Seminary, and featured teacher with the Grace to You media ministry. Grace to You\u2019s radio, video, audio, print, and website resources reach millions worldwide each day.\n\nGrace to You is the official repository of all of John MacArthur\u2019s Bible-teaching material. You may link to and share media produced by Grace to You, but you may not post that media on your website or host them on your channel. You may not create or use edited versions of Grace to You media without permission. We want to maximize your flexibility in sharing resources while simultaneously maintaining quality control and connecting people with our ministry. \n\nPlease partner with us by observing the guidelines laid out in our Copyright Policy: https://www.gty.org/about#copyright\n",
+      "customUrl": "gracetoyou",
+      "publishedAt": "2008-08-28T17:10:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQcy6_2swlhpP-WpP8RqiOlsgT6I4jiumTYaVoKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQcy6_2swlhpP-WpP8RqiOlsgT6I4jiumTYaVoKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTQcy6_2swlhpP-WpP8RqiOlsgT6I4jiumTYaVoKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Grace to You",
+        "description": "Grace to You is the media ministry of John MacArthur\u2014pastor-teacher of Grace Community Church in Sun Valley, California, as well as an author, conference speaker, chancellor of The Master\u2019s University and Seminary, and featured teacher with the Grace to You media ministry. Grace to You\u2019s radio, video, audio, print, and website resources reach millions worldwide each day.\n\nGrace to You is the official repository of all of John MacArthur\u2019s Bible-teaching material. You may link to and share media produced by Grace to You, but you may not post that media on your website or host them on your channel. You may not create or use edited versions of Grace to You media without permission. We want to maximize your flexibility in sharing resources while simultaneously maintaining quality control and connecting people with our ministry. \n\nPlease partner with us by observing the guidelines laid out in our Copyright Policy: https://www.gty.org/about#copyright\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUneKpMu9SFGlt2usTdAI75A"
+      }
+    },
+    "statistics": {
+      "viewCount": "121918139",
+      "subscriberCount": "575000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1338"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Grace to You",
+        "description": "Grace to You is the media ministry of John MacArthur\u2014pastor-teacher of Grace Community Church in Sun Valley, California, as well as an author, conference speaker, chancellor of The Master\u2019s University and Seminary, and featured teacher with the Grace to You media ministry. Grace to You\u2019s radio, video, audio, print, and website resources reach millions worldwide each day.\n\nGrace to You is the official repository of all of John MacArthur\u2019s Bible-teaching material. You may link to and share media produced by Grace to You, but you may not post that media on your website or host them on your channel. You may not create or use edited versions of Grace to You media without permission. We want to maximize your flexibility in sharing resources while simultaneously maintaining quality control and connecting people with our ministry. \n\nPlease partner with us by observing the guidelines laid out in our Copyright Policy: https://www.gty.org/about#copyright\n",
+        "keywords": "God Jesus Christ sin church pastor teacher Bible salvation truth \"John MacArthur\" \"Grace to You\"",
+        "trackingAnalyticsAccountId": "UA-2501611-21",
+        "unsubscribedTrailer": "gkIq1Z1vB3U",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/1JOPjbw7yRh2OUed_3qFm0mimnH79sdnaiy98FixCLn6GYhlJEN60NqkMp5K-5Y2MWqNBWOq_w"
+      }
+    }
+  }
+}

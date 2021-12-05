@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCZyXa4H06Ws3Pwom9cYEdDA",
+  "retrieved_on": "2021-12-05 03:47:31.570370",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "fvzwCK2ZmmyXMIpVl7Ti4caMVVs",
+    "id": "UCZyXa4H06Ws3Pwom9cYEdDA",
+    "snippet": {
+      "title": "Asthenic",
+      "description": "Aesthetically soothing mixes \nHope that brightens up your day\n\nAll videos are for promotion only \nMake sure to support the artists :)",
+      "customUrl": "asthenic",
+      "publishedAt": "2016-04-14T20:24:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQwYr6L-RUrflGkKEdCBlGXJgzaCXb8ibrjcJ2S=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQwYr6L-RUrflGkKEdCBlGXJgzaCXb8ibrjcJ2S=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQwYr6L-RUrflGkKEdCBlGXJgzaCXb8ibrjcJ2S=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Asthenic",
+        "description": "Aesthetically soothing mixes \nHope that brightens up your day\n\nAll videos are for promotion only \nMake sure to support the artists :)"
+      },
+      "country": "FR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZyXa4H06Ws3Pwom9cYEdDA"
+      }
+    },
+    "statistics": {
+      "viewCount": "68048794",
+      "subscriberCount": "228000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "49"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Asthenic",
+        "description": "Aesthetically soothing mixes \nHope that brightens up your day\n\nAll videos are for promotion only \nMake sure to support the artists :)",
+        "keywords": "asthenic Chillwave Synthwave Retrowave Mix lofi lo-fi beats jazz jazzy instrumental chill chillout vaporwave electronic music musique aesthetic gif pic anime study relax dream sleep wakeup mood emotional playlist",
+        "unsubscribedTrailer": "eWms6sCTpHI",
+        "country": "FR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/zewJKe4ApSsoNxMkUlmYMNM2sMd-LWPB83z5024lPaxmQ4u2PjHUIiaMinNeEpVOs1SHImfC"
+      }
+    }
+  }
+}

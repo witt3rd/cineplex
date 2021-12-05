@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCXuo6juYQBazgAc3rgF-KrQ",
+  "retrieved_on": "2021-12-05 03:47:31.805440",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "jLdvzaU9TqiRxUt5v56mgBZ4ltE",
+    "id": "UCXuo6juYQBazgAc3rgF-KrQ",
+    "snippet": {
+      "title": "Under the Big Tree",
+      "description": "Welcome to Under the Big Tree! For more than 35 years, I have been composing, recording, and performing music in a variety of realms, but  always with a heavy technological emphasis. I deeply love analog synthesizers, as well as the electromechanical keyboards of the 70's, such as the Rhodes electric piano and Hammond organ. I've made a living continuously in sound design and music composition for interactive media for over two decades, and have been fortunate enough to work on some truly amazing franchises: Star Wars, X-Men, Guitar Hero, Mickey Mouse, and many more. I've always been a diehard DIY guy, and especially focus on building analog audio circuits, from outboard processing gear to Eurorack synthesizer modules.  I'm also a passionate analog tabletop board gamer, and really love anything that involves bringing people together in pursuit of a common goal. It's time to share some of that experience, so come on board and have a look!",
+      "customUrl": "underthebigtree",
+      "publishedAt": "2017-12-19T21:22:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQIETOhZGc5UC4hbcV4eOoy-HqvfqFA_nvmi1cx=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQIETOhZGc5UC4hbcV4eOoy-HqvfqFA_nvmi1cx=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQIETOhZGc5UC4hbcV4eOoy-HqvfqFA_nvmi1cx=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Under the Big Tree",
+        "description": "Welcome to Under the Big Tree! For more than 35 years, I have been composing, recording, and performing music in a variety of realms, but  always with a heavy technological emphasis. I deeply love analog synthesizers, as well as the electromechanical keyboards of the 70's, such as the Rhodes electric piano and Hammond organ. I've made a living continuously in sound design and music composition for interactive media for over two decades, and have been fortunate enough to work on some truly amazing franchises: Star Wars, X-Men, Guitar Hero, Mickey Mouse, and many more. I've always been a diehard DIY guy, and especially focus on building analog audio circuits, from outboard processing gear to Eurorack synthesizer modules.  I'm also a passionate analog tabletop board gamer, and really love anything that involves bringing people together in pursuit of a common goal. It's time to share some of that experience, so come on board and have a look!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXuo6juYQBazgAc3rgF-KrQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "764823",
+      "subscriberCount": "7530",
+      "hiddenSubscriberCount": false,
+      "videoCount": "149"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Under the Big Tree",
+        "description": "Welcome to Under the Big Tree! For more than 35 years, I have been composing, recording, and performing music in a variety of realms, but  always with a heavy technological emphasis. I deeply love analog synthesizers, as well as the electromechanical keyboards of the 70's, such as the Rhodes electric piano and Hammond organ. I've made a living continuously in sound design and music composition for interactive media for over two decades, and have been fortunate enough to work on some truly amazing franchises: Star Wars, X-Men, Guitar Hero, Mickey Mouse, and many more. I've always been a diehard DIY guy, and especially focus on building analog audio circuits, from outboard processing gear to Eurorack synthesizer modules.  I'm also a passionate analog tabletop board gamer, and really love anything that involves bringing people together in pursuit of a common goal. It's time to share some of that experience, so come on board and have a look!",
+        "keywords": "DIY Eurorack Synthesizer Music Composition Recording Performance Analog \"Sound Design\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "7nDwOPPvFIg",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/2oF4zNfNbS8El_OXwj3gI11eRyDMRN7-g_uEOAc2Qd5DYJUWiZ3310cGf2fUiN20hXlkySCLsA"
+      }
+    }
+  }
+}

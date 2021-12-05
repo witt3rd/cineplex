@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCnMLdlOoLICBNcEzjMLOc7w",
+  "retrieved_on": "2021-12-05 03:47:32.314764",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rupjXlniUp_4pwpkh7BEmXFSIVc",
+    "id": "UCnMLdlOoLICBNcEzjMLOc7w",
+    "snippet": {
+      "title": "Rio ICM2018",
+      "description": "Rio de Janeiro will host the International Congress of Mathematicians (ICM).During these nine days, some of the world\u2019s best researchers in Mathematics and related areas will come together to share knowledge and take part in various activities, from prizes and technical talks to outreach events. Since 1897, the ICM has helped shape the history of mathematics.helped shape the history of mathematics in the 20th and 21st centuries. As the first edition of the ICM in Latin America, as well as in the Southern Hemisphere.",
+      "customUrl": "rioicm2018",
+      "publishedAt": "2018-01-08T16:37:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR5AnzpqCdiiR3_pEQicaM0S6XEk3khUQXRNh0l=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR5AnzpqCdiiR3_pEQicaM0S6XEk3khUQXRNh0l=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR5AnzpqCdiiR3_pEQicaM0S6XEk3khUQXRNh0l=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rio ICM2018",
+        "description": "Rio de Janeiro will host the International Congress of Mathematicians (ICM).During these nine days, some of the world\u2019s best researchers in Mathematics and related areas will come together to share knowledge and take part in various activities, from prizes and technical talks to outreach events. Since 1897, the ICM has helped shape the history of mathematics.helped shape the history of mathematics in the 20th and 21st centuries. As the first edition of the ICM in Latin America, as well as in the Southern Hemisphere."
+      },
+      "country": "BR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUnMLdlOoLICBNcEzjMLOc7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "1408292",
+      "subscriberCount": "9330",
+      "hiddenSubscriberCount": false,
+      "videoCount": "241"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rio ICM2018",
+        "description": "Rio de Janeiro will host the International Congress of Mathematicians (ICM).During these nine days, some of the world\u2019s best researchers in Mathematics and related areas will come together to share knowledge and take part in various activities, from prizes and technical talks to outreach events. Since 1897, the ICM has helped shape the history of mathematics.helped shape the history of mathematics in the 20th and 21st centuries. As the first edition of the ICM in Latin America, as well as in the Southern Hemisphere.",
+        "keywords": "icm2018",
+        "unsubscribedTrailer": "TWZM_gVVVFM",
+        "country": "BR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/RIl4OygdCwBDrYjk6UfzO7FUsNdz2Nt55uV7QqvlzseXRbdxO6zDXWAAX0tEfOe5PmAuYVRlVA"
+      }
+    }
+  }
+}

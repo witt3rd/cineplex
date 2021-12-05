@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCvZe6ZCbF9xgbbbdkiodPKQ",
+  "retrieved_on": "2021-12-05 03:47:32.562743",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mEtH7Oh2Gz20HWZjhDTR_URwZec",
+    "id": "UCvZe6ZCbF9xgbbbdkiodPKQ",
+    "snippet": {
+      "title": "Baumgartner Restoration",
+      "description": "Julian Baumgartner of Baumgartner Fine Art Restoration, a second generation studio and now the oldest in Chicago employs only the finest archival and reversible materials and techniques to conserve and restore artworks for future generations. \n\nFollow along as Julian opens a window into the world of painting conservation, sharing methods, theory and the delicate work of art conservation. \n\nFor additional content visit our Patreon at www.Patreon.com/BaumgartnerRestoration\n\nA portfolio of work and more information including on how to obtain a quote can be found at the website: www.BFAR.com",
+      "customUrl": "baumgartnerrestoration",
+      "publishedAt": "2016-07-27T19:37:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjZyv9xeeJEX_sQLi2-2Oz_Oq67XnqaQkSxl7h=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjZyv9xeeJEX_sQLi2-2Oz_Oq67XnqaQkSxl7h=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjZyv9xeeJEX_sQLi2-2Oz_Oq67XnqaQkSxl7h=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Baumgartner Restoration",
+        "description": "Julian Baumgartner of Baumgartner Fine Art Restoration, a second generation studio and now the oldest in Chicago employs only the finest archival and reversible materials and techniques to conserve and restore artworks for future generations. \n\nFollow along as Julian opens a window into the world of painting conservation, sharing methods, theory and the delicate work of art conservation. \n\nFor additional content visit our Patreon at www.Patreon.com/BaumgartnerRestoration\n\nA portfolio of work and more information including on how to obtain a quote can be found at the website: www.BFAR.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvZe6ZCbF9xgbbbdkiodPKQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "120399555",
+      "subscriberCount": "1620000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "102"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Baumgartner Restoration",
+        "description": "Julian Baumgartner of Baumgartner Fine Art Restoration, a second generation studio and now the oldest in Chicago employs only the finest archival and reversible materials and techniques to conserve and restore artworks for future generations. \n\nFollow along as Julian opens a window into the world of painting conservation, sharing methods, theory and the delicate work of art conservation. \n\nFor additional content visit our Patreon at www.Patreon.com/BaumgartnerRestoration\n\nA portfolio of work and more information including on how to obtain a quote can be found at the website: www.BFAR.com",
+        "unsubscribedTrailer": "RdfyL5FcVLo",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/USQ9UBEm1kG79xMz36BL0f3rqwUY_x-2KTC0M3FTOgLBqLGAkqWFxtwMZMRuJhWt5Zk5VFPxn4M"
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "channel_id": "UCVSd42nW_MqkbSXijgOvKwg",
+  "retrieved_on": "2021-12-05 03:47:40.782148",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ctKm8UqLAWz5YPXTk2eQgxGgYGA",
+    "id": "UCVSd42nW_MqkbSXijgOvKwg",
+    "snippet": {
+      "title": "matbesancon",
+      "description": "Programming stuff, working on open-source projects with a hint of applied maths and optimization.",
+      "publishedAt": "2019-12-08T17:45:34.727609Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRH2EmalL07A26Pe6MgAa1dvxuKZFtrxPQyHNI2=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRH2EmalL07A26Pe6MgAa1dvxuKZFtrxPQyHNI2=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRH2EmalL07A26Pe6MgAa1dvxuKZFtrxPQyHNI2=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "matbesancon",
+        "description": "Programming stuff, working on open-source projects with a hint of applied maths and optimization."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVSd42nW_MqkbSXijgOvKwg"
+      }
+    },
+    "statistics": {
+      "viewCount": "11843",
+      "subscriberCount": "133",
+      "hiddenSubscriberCount": false,
+      "videoCount": "26"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "matbesancon",
+        "description": "Programming stuff, working on open-source projects with a hint of applied maths and optimization."
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCJdKr0Bgd_5saZYqLCa9mng",
+  "retrieved_on": "2021-12-05 03:47:28.920505",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "G2Z_N9WKaAcFeplYCU0uyaKmmJ4",
+    "id": "UCJdKr0Bgd_5saZYqLCa9mng",
+    "snippet": {
+      "title": "The Rubin Report",
+      "description": "The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \n\nEach week Dave Rubin uses logic and reason to have honest conversations about politics, polarizing issues, current events, and more. Dave goes one on one with thought leaders, authors, and comedians in 'The Sit Down,' and gives his unfiltered thoughts in 'Direct Message.'\n\nNew videos throughout the week, every week.\n\nThe Rubin Report is powered by you, the viewers! The message that we're sharing about free speech, real conversation, and an honest exchange of ideas is connecting people all over the world. Now is your chance to be part of that message by contributing to our show which is fan-funded.\n\nClick below to subscribe, and visit http://www.rubinreport.com/support to support The Rubin Report.",
+      "customUrl": "rubinreport",
+      "publishedAt": "2012-09-05T20:31:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTh1OcA0jdaK532YpzRHRTnVbEV9MeDZojwHG_x0Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTh1OcA0jdaK532YpzRHRTnVbEV9MeDZojwHG_x0Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTh1OcA0jdaK532YpzRHRTnVbEV9MeDZojwHG_x0Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Rubin Report",
+        "description": "The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \n\nEach week Dave Rubin uses logic and reason to have honest conversations about politics, polarizing issues, current events, and more. Dave goes one on one with thought leaders, authors, and comedians in 'The Sit Down,' and gives his unfiltered thoughts in 'Direct Message.'\n\nNew videos throughout the week, every week.\n\nThe Rubin Report is powered by you, the viewers! The message that we're sharing about free speech, real conversation, and an honest exchange of ideas is connecting people all over the world. Now is your chance to be part of that message by contributing to our show which is fan-funded.\n\nClick below to subscribe, and visit http://www.rubinreport.com/support to support The Rubin Report."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJdKr0Bgd_5saZYqLCa9mng"
+      }
+    },
+    "statistics": {
+      "viewCount": "414088565",
+      "subscriberCount": "1650000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3070"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Rubin Report",
+        "description": "The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \n\nEach week Dave Rubin uses logic and reason to have honest conversations about politics, polarizing issues, current events, and more. Dave goes one on one with thought leaders, authors, and comedians in 'The Sit Down,' and gives his unfiltered thoughts in 'Direct Message.'\n\nNew videos throughout the week, every week.\n\nThe Rubin Report is powered by you, the viewers! The message that we're sharing about free speech, real conversation, and an honest exchange of ideas is connecting people all over the world. Now is your chance to be part of that message by contributing to our show which is fan-funded.\n\nClick below to subscribe, and visit http://www.rubinreport.com/support to support The Rubin Report.",
+        "keywords": "\u201cthe rubin report\u201d \u201crubin \u201cdave rubin\u201d \u201cnews\u201d \u201cpolitical news\u201d \u201cidw\u201d \u201cheterodox\u201d \u201ccurrent events\u201d \u201cfree speech\u201d \u201cfreedom of speech science\u201d \u201cintellectual dark web\u201d \u201ccritical thinking\u201d \u201cpolitics\u201d \u201cdemocracy\u201d \u201cpolarization\u201d \u201crubin\u201d \"political correctness\u201d \u201cdavid rubin\"",
+        "unsubscribedTrailer": "b16Uaim_SI0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/3dcrbaqzR5dm03mEB6JzU4xj-Db9kBW2QpES02vUbJsXiOUHyni9jSPht2qQh-QtVQe-QQi7uA"
+      }
+    }
+  }
+}

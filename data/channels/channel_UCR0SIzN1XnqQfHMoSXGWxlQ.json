@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCR0SIzN1XnqQfHMoSXGWxlQ",
+  "retrieved_on": "2021-12-05 03:47:32.898678",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "4ABUeXOgT3EQNS-I8MSo2iHBTYY",
+    "id": "UCR0SIzN1XnqQfHMoSXGWxlQ",
+    "snippet": {
+      "title": "On Doubt",
+      "description": "I produce handcrafted video portraits based on exclusive interviews with creative minds of all fields. \nYou can support the project at https://www.patreon.com/on_doubt and get background info at http://www.on-doubt.com/",
+      "customUrl": "ondoubt",
+      "publishedAt": "2017-07-20T16:23:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRdJvhIHxBKQ9WlTcwvrSM25avv4OzByE7dp1zrCA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRdJvhIHxBKQ9WlTcwvrSM25avv4OzByE7dp1zrCA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRdJvhIHxBKQ9WlTcwvrSM25avv4OzByE7dp1zrCA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "On Doubt",
+        "description": "I produce handcrafted video portraits based on exclusive interviews with creative minds of all fields. \nYou can support the project at https://www.patreon.com/on_doubt and get background info at http://www.on-doubt.com/"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUR0SIzN1XnqQfHMoSXGWxlQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "591224",
+      "subscriberCount": "4790",
+      "hiddenSubscriberCount": false,
+      "videoCount": "39"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "On Doubt",
+        "description": "I produce handcrafted video portraits based on exclusive interviews with creative minds of all fields. \nYou can support the project at https://www.patreon.com/on_doubt and get background info at http://www.on-doubt.com/",
+        "keywords": "Doubt Creativity Self-Improvement Motivation \"Creative Processes\" \"life advice\"",
+        "trackingAnalyticsAccountId": "UA-108911268-2",
+        "unsubscribedTrailer": "iavBr9STZX4"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/cR6F8fxYoevwKJYsrJ6AwA9DAYKVCC1UCljGiRuFjaqcGcPe8IwoNIeI4DI9J59YrKz-5uoY"
+      }
+    }
+  }
+}

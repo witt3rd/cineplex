@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCOjD18EJYcsBog4IozkF_7w",
+  "retrieved_on": "2021-12-05 03:47:37.250667",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "v0O-b-7e26cklsXQD71c_yBx_9A",
+    "id": "UCOjD18EJYcsBog4IozkF_7w",
+    "snippet": {
+      "title": "PyData",
+      "description": "PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.\n\nWe aim to be an accessible, community-driven conference, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases.",
+      "customUrl": "pydatatv",
+      "publishedAt": "2014-03-11T17:25:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQMjQ8PfW0NSHJ4PB4wjhfdJMqAvO0E44WAztIb=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQMjQ8PfW0NSHJ4PB4wjhfdJMqAvO0E44WAztIb=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQMjQ8PfW0NSHJ4PB4wjhfdJMqAvO0E44WAztIb=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PyData",
+        "description": "PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.\n\nWe aim to be an accessible, community-driven conference, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOjD18EJYcsBog4IozkF_7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "9954987",
+      "subscriberCount": "126000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2318"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PyData",
+        "description": "PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.\n\nWe aim to be an accessible, community-driven conference, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases.",
+        "keywords": "data analytics python big analysis computing array visualization science open Python Tutorial Education NumFOCUS PyData Opensource download learn syntax software Julia",
+        "trackingAnalyticsAccountId": "UA-41850464-19",
+        "unsubscribedTrailer": "J8cVPXnafos",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/E3Bbni4t9_C7Dd3o6nrIimaHTExTejChg1aikJB5lqAeUrEa1tzm019zEF1t2HZFNOKJFcYw"
+      }
+    }
+  }
+}

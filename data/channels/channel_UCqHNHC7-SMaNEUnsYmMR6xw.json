@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCqHNHC7-SMaNEUnsYmMR6xw",
+  "retrieved_on": "2021-12-05 03:47:35.856761",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "6Q9KYutviIJkMS48HvIbNfDCj7w",
+    "id": "UCqHNHC7-SMaNEUnsYmMR6xw",
+    "snippet": {
+      "title": "Lumpy GameDev",
+      "description": "",
+      "publishedAt": "2018-11-19T09:27:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRiZUx1pF1jzLJekDCUNRr267Wd17BgxFzi9ucW=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRiZUx1pF1jzLJekDCUNRr267Wd17BgxFzi9ucW=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRiZUx1pF1jzLJekDCUNRr267Wd17BgxFzi9ucW=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Lumpy GameDev",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUqHNHC7-SMaNEUnsYmMR6xw"
+      }
+    },
+    "statistics": {
+      "viewCount": "27424",
+      "subscriberCount": "83",
+      "hiddenSubscriberCount": false,
+      "videoCount": "18"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Lumpy GameDev"
+      }
+    }
+  }
+}

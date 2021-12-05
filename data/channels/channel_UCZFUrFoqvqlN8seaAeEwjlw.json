@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCZFUrFoqvqlN8seaAeEwjlw",
+  "retrieved_on": "2021-12-05 03:47:30.163080",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-wNsNEyGkyPYwch6Oq4irRNQGBc",
+    "id": "UCZFUrFoqvqlN8seaAeEwjlw",
+    "snippet": {
+      "title": "Grant Abbitt",
+      "description": "This channel is about games design and game art. I use Blender, Photoshop, Krita and a few other programmes. My tutorials are mainly about How to use Blender. I also Vlog now and again about freelancing, being creative, and the creative industries.\n\nLive streams every Friday at 4pm GMT\n\nVisit my website http://www.gabbitt.co.uk for complete courses and an easy to follow format all for free.\n\nIf you want to support me you can visit my Patreon: https://www.patreon.com/gabbitt \nYou can join our discord to chat and join in with competitions: https://discord.gg/Y5QaDnT \n\nFacebook: https://www.facebook.com/gabbittmedia/\n\nTwitter: https://twitter.com/grantabbitt\n\nSketchfab : https://sketchfab.com/grant.abbitt\n\n\nYou can contact me through the website if you have any difficulties, questions or suggestions.",
+      "customUrl": "grantabbitt",
+      "publishedAt": "2011-02-11T11:45:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvUCzQ5SHqLQP3LMrOpyIc6uo0tz0_Sz0d8Rj-Bg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvUCzQ5SHqLQP3LMrOpyIc6uo0tz0_Sz0d8Rj-Bg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvUCzQ5SHqLQP3LMrOpyIc6uo0tz0_Sz0d8Rj-Bg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Grant Abbitt",
+        "description": "This channel is about games design and game art. I use Blender, Photoshop, Krita and a few other programmes. My tutorials are mainly about How to use Blender. I also Vlog now and again about freelancing, being creative, and the creative industries.\n\nLive streams every Friday at 4pm GMT\n\nVisit my website http://www.gabbitt.co.uk for complete courses and an easy to follow format all for free.\n\nIf you want to support me you can visit my Patreon: https://www.patreon.com/gabbitt \nYou can join our discord to chat and join in with competitions: https://discord.gg/Y5QaDnT \n\nFacebook: https://www.facebook.com/gabbittmedia/\n\nTwitter: https://twitter.com/grantabbitt\n\nSketchfab : https://sketchfab.com/grant.abbitt\n\n\nYou can contact me through the website if you have any difficulties, questions or suggestions."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZFUrFoqvqlN8seaAeEwjlw"
+      }
+    },
+    "statistics": {
+      "viewCount": "34000541",
+      "subscriberCount": "352000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "903"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Grant Abbitt",
+        "description": "This channel is about games design and game art. I use Blender, Photoshop, Krita and a few other programmes. My tutorials are mainly about How to use Blender. I also Vlog now and again about freelancing, being creative, and the creative industries.\n\nLive streams every Friday at 4pm GMT\n\nVisit my website http://www.gabbitt.co.uk for complete courses and an easy to follow format all for free.\n\nIf you want to support me you can visit my Patreon: https://www.patreon.com/gabbitt \nYou can join our discord to chat and join in with competitions: https://discord.gg/Y5QaDnT \n\nFacebook: https://www.facebook.com/gabbittmedia/\n\nTwitter: https://twitter.com/grantabbitt\n\nSketchfab : https://sketchfab.com/grant.abbitt\n\n\nYou can contact me through the website if you have any difficulties, questions or suggestions.",
+        "keywords": "Blender Blender2.8 texturing sculpting gameart film tutorials learning level btec gabbitt Media blender 3d art graphics learn",
+        "moderateComments": true,
+        "unsubscribedTrailer": "kZQo78OlzfA",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/2l8S3l7DZrConDNLoSya7NodzOEfbGNzLWsjEZSuyxhV5vsj-ZF1LhwF_IRWjzK_gyN-t4ScDAs"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCi_tatzpnSSRxTX_iog18BQ",
+  "retrieved_on": "2021-12-05 03:47:40.292908",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8P5N1q6hDSI7jT7hHOS1Npy9kB8",
+    "id": "UCi_tatzpnSSRxTX_iog18BQ",
+    "snippet": {
+      "title": "Elijah Nang",
+      "description": "Audio novelist / Composer & Visualizer \ud83d\udcf7  \ud83c\udfa5  \ud83c\udfb9 \ud83d\udcda \ud83c\udf9b. \u270d\ud83c\udffe\n\n\nGaijin S1 + S2 vinyl now available to pre order\nSee link below\nhttps://heylink.me/elijahnang/\n\n\n\n\n\n",
+      "customUrl": "elijahnang90",
+      "publishedAt": "2011-03-29T10:57:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/vXoGovaOMnCWGR-0JNm_nEz-N1LVfNplFidbatiaMDCz4slCHJWJw_glSkUJEi6lmJeiM5Zg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/vXoGovaOMnCWGR-0JNm_nEz-N1LVfNplFidbatiaMDCz4slCHJWJw_glSkUJEi6lmJeiM5Zg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/vXoGovaOMnCWGR-0JNm_nEz-N1LVfNplFidbatiaMDCz4slCHJWJw_glSkUJEi6lmJeiM5Zg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Elijah Nang",
+        "description": "Audio novelist / Composer & Visualizer \ud83d\udcf7  \ud83c\udfa5  \ud83c\udfb9 \ud83d\udcda \ud83c\udf9b. \u270d\ud83c\udffe\n\n\nGaijin S1 + S2 vinyl now available to pre order\nSee link below\nhttps://heylink.me/elijahnang/\n\n\n\n\n\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUi_tatzpnSSRxTX_iog18BQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "6319743",
+      "subscriberCount": "37100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "60"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Elijah Nang",
+        "description": "Audio novelist / Composer & Visualizer \ud83d\udcf7  \ud83c\udfa5  \ud83c\udfb9 \ud83d\udcda \ud83c\udf9b. \u270d\ud83c\udffe\n\n\nGaijin S1 + S2 vinyl now available to pre order\nSee link below\nhttps://heylink.me/elijahnang/\n\n\n\n\n\n",
+        "keywords": "Elijah nang Let it go Christian lifestyle guvna christian hip hop E-zeal zealous dilligent",
+        "unsubscribedTrailer": "ciuM6RZMkvw"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/pcGlnQYDG6J6l361bPgWWZqO3vjXu8mB46DvCwRHqsRlAHmCCE6hSDlYNUOUYnx7xkb09S5U"
+      }
+    }
+  }
+}

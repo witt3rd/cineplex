@@ -1,0 +1,63 @@
+{
+  "channel_id": "UChturLXwYxwTOf_5krs0qvA",
+  "retrieved_on": "2021-12-05 03:47:28.057448",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Pnz1nu5kr3lnT3DB7xeIDdy0FLs",
+    "id": "UChturLXwYxwTOf_5krs0qvA",
+    "snippet": {
+      "title": "element14 presents",
+      "description": "**New Episodes Every Wednesday & Friday**\n\nJoin the makers and engineers of element14 Presents as they tackle fun and interesting projects each week using circuitry design,  3D printing, microcontrollers,  modeling, design, and much more. What should we build next? Let us know!\n\nJoin the us on the element14 Community to provide program feedback and win fabulous prizes: http://bit.ly/2MFMG0v\n\nIf you want to contact a video host - DON'T CLICK on the \"Business Inquiries\" email.\nYou can directly connect with the video creators about their projects AND ACTUALLY GET A RESPONSE if you click the link to the project on element14.com in the video description.  Register (it's free) and post a comment on the video or direct message the host.  It's really easy.  Otherwise, your email will just end up in a recycle bin.  Have a nice day!\n",
+      "customUrl": "element14presents",
+      "publishedAt": "2011-01-31T17:58:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRG8Ip1T44QBEItsqtMCbQotBpx88WpkEE534h4ZQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRG8Ip1T44QBEItsqtMCbQotBpx88WpkEE534h4ZQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRG8Ip1T44QBEItsqtMCbQotBpx88WpkEE534h4ZQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "element14 presents",
+        "description": "**New Episodes Every Wednesday & Friday**\n\nJoin the makers and engineers of element14 Presents as they tackle fun and interesting projects each week using circuitry design,  3D printing, microcontrollers,  modeling, design, and much more. What should we build next? Let us know!\n\nJoin the us on the element14 Community to provide program feedback and win fabulous prizes: http://bit.ly/2MFMG0v\n\nIf you want to contact a video host - DON'T CLICK on the \"Business Inquiries\" email.\nYou can directly connect with the video creators about their projects AND ACTUALLY GET A RESPONSE if you click the link to the project on element14.com in the video description.  Register (it's free) and post a comment on the video or direct message the host.  It's really easy.  Otherwise, your email will just end up in a recycle bin.  Have a nice day!\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhturLXwYxwTOf_5krs0qvA"
+      }
+    },
+    "statistics": {
+      "viewCount": "68979028",
+      "subscriberCount": "700000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "802"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "element14 presents",
+        "description": "**New Episodes Every Wednesday & Friday**\n\nJoin the makers and engineers of element14 Presents as they tackle fun and interesting projects each week using circuitry design,  3D printing, microcontrollers,  modeling, design, and much more. What should we build next? Let us know!\n\nJoin the us on the element14 Community to provide program feedback and win fabulous prizes: http://bit.ly/2MFMG0v\n\nIf you want to contact a video host - DON'T CLICK on the \"Business Inquiries\" email.\nYou can directly connect with the video creators about their projects AND ACTUALLY GET A RESPONSE if you click the link to the project on element14.com in the video description.  Register (it's free) and post a comment on the video or direct message the host.  It's really easy.  Otherwise, your email will just end up in a recycle bin.  Have a nice day!\n",
+        "keywords": "electronics hardware gaming hacking mods weekly element14 raspberry pi arduino pinball maker engineering tear-down",
+        "trackingAnalyticsAccountId": "UA-26026183-2",
+        "moderateComments": true,
+        "unsubscribedTrailer": "s4wXs4q0Unc",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/LWiD5xqjRSXo7JY0GKpjKDX_MJSo8KAQ1KC-AE81jcwXxqs0NZZG4EEwOTwNh1eOfISVAgz2uw"
+      }
+    }
+  }
+}

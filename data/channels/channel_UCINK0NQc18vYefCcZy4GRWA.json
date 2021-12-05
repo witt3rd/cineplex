@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCINK0NQc18vYefCcZy4GRWA",
+  "retrieved_on": "2021-12-05 03:47:37.728469",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QZOTuavGc9QwpueQ-lfADaKS3VY",
+    "id": "UCINK0NQc18vYefCcZy4GRWA",
+    "snippet": {
+      "title": "Knarb Makes",
+      "description": "I like to build and make things. Mainly wargaming or dungeons and dragons terrain and also small woodworking projects.\nCheck out my Instagram if you want to see random pictures of things I'm working on every day, or support me on Patreon if you want more a more in-depth behind the scenes look at my builds.\n\nIf you want to support me by buying some merch or check out some of my templates and designs, head over to https://knarbmakes.itch.io/\n",
+      "customUrl": "knarbmakes",
+      "publishedAt": "2020-09-30T17:39:05.193379Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSoCEvVDlyU7ERfOThB7eKoG6_MdsHGeTiPb3gp=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSoCEvVDlyU7ERfOThB7eKoG6_MdsHGeTiPb3gp=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSoCEvVDlyU7ERfOThB7eKoG6_MdsHGeTiPb3gp=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Knarb Makes",
+        "description": "I like to build and make things. Mainly wargaming or dungeons and dragons terrain and also small woodworking projects.\nCheck out my Instagram if you want to see random pictures of things I'm working on every day, or support me on Patreon if you want more a more in-depth behind the scenes look at my builds.\n\nIf you want to support me by buying some merch or check out some of my templates and designs, head over to https://knarbmakes.itch.io/\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUINK0NQc18vYefCcZy4GRWA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1625945",
+      "subscriberCount": "26100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "40"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Knarb Makes",
+        "description": "I like to build and make things. Mainly wargaming or dungeons and dragons terrain and also small woodworking projects.\nCheck out my Instagram if you want to see random pictures of things I'm working on every day, or support me on Patreon if you want more a more in-depth behind the scenes look at my builds.\n\nIf you want to support me by buying some merch or check out some of my templates and designs, head over to https://knarbmakes.itch.io/\n",
+        "keywords": "\"dungeons and dragons\" miniatures terrain tabletop crafting diy \"tabletop gaming\" miniatures warhammer \"terrain building\" \"gaslands terrain\" \"war gaming\" \"40k terrain\" \"warhammer 40k\" warhammer",
+        "unsubscribedTrailer": "fKEKbVNz-nM",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/teBpAD9Vl_W80BItu2PskI_ezeBLd-Hap8GtjHpHHn9KsWBB4GyzdwvQaDaHIhPc9sQgBCMp"
+      }
+    }
+  }
+}

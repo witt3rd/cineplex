@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCvYUyKg7wDj760PippmWhig",
+  "retrieved_on": "2021-12-05 03:47:29.188821",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ALMuHjxfSXLR53_l-RnNSBIHCh4",
+    "id": "UCvYUyKg7wDj760PippmWhig",
+    "snippet": {
+      "title": "Zyger",
+      "description": "Hey , my name is Zyger I'm a 19 year old student and I make games and program. (When I'm not lazy) I'm currently working on a game called Project Jude and creating devlog videos of the making process. I also make other game development related videos that I suggest you check out. Anyways hope you enjoy my content and i hope you have a good day or night depending on when or if your reading this. \nThat's it bye :')",
+      "customUrl": "zygergfx",
+      "publishedAt": "2017-12-04T16:40:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbOyhETE3qrK0Ee9Pha49ed46oGaap9kCIJR4pfQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbOyhETE3qrK0Ee9Pha49ed46oGaap9kCIJR4pfQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbOyhETE3qrK0Ee9Pha49ed46oGaap9kCIJR4pfQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Zyger",
+        "description": "Hey , my name is Zyger I'm a 19 year old student and I make games and program. (When I'm not lazy) I'm currently working on a game called Project Jude and creating devlog videos of the making process. I also make other game development related videos that I suggest you check out. Anyways hope you enjoy my content and i hope you have a good day or night depending on when or if your reading this. \nThat's it bye :')"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvYUyKg7wDj760PippmWhig"
+      }
+    },
+    "statistics": {
+      "viewCount": "1518711",
+      "subscriberCount": "41000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "113"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Zyger",
+        "description": "Hey , my name is Zyger I'm a 19 year old student and I make games and program. (When I'm not lazy) I'm currently working on a game called Project Jude and creating devlog videos of the making process. I also make other game development related videos that I suggest you check out. Anyways hope you enjoy my content and i hope you have a good day or night depending on when or if your reading this. \nThat's it bye :')",
+        "unsubscribedTrailer": "io7A9IVw9rM",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/1KE5uP-sFxf0y1gt6isjWYtiwyhG4VXxMz2qU4MJfI7MwSunVuF5-9UvhBdiAfrPJlM-rYnZoA"
+      }
+    }
+  }
+}

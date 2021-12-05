@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCarfjDySSCams7bk8_d8Bww",
+  "retrieved_on": "2021-12-05 03:47:30.960867",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ugBrp6x-dVnAfJuBcglxrJq3CQ0",
+    "id": "UCarfjDySSCams7bk8_d8Bww",
+    "snippet": {
+      "title": "Stories From a Van",
+      "description": "Hi! My name is Evan and I live in my self-converted van in Santa Cruz, California! Join me as I build community through storytelling!\n\nMeet me in person along with others that follow the channel!\nhttps://forms.gle/hzJKNno9Ttt542Gq9\n\nJoin the Online Community!\nDiscord: https://discord.gg/KgZSBSaXnK\n\nSocial Media\nInstagram: https://www.instagram.com/storiesfromavan\nFacebook: https://www.facebook.com/storiesfromavan\nTwitter: https://twitter.com/van_stories\n\nHelp support the channel and community!\nPatreon: https://www.patreon.com/storiesfromavan\n\nContact\nemail: storiesfromavan@gmail.com\n",
+      "customUrl": "storiesfromavan",
+      "publishedAt": "2020-08-22T05:10:36.189196Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/U-94tuKVtPFA7GLW4YTTwG5rv3noj9kkBA5Zya2S5DeHGbnGhBaXqgRRmTURehRp5MfH0ZgtsN4=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/U-94tuKVtPFA7GLW4YTTwG5rv3noj9kkBA5Zya2S5DeHGbnGhBaXqgRRmTURehRp5MfH0ZgtsN4=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/U-94tuKVtPFA7GLW4YTTwG5rv3noj9kkBA5Zya2S5DeHGbnGhBaXqgRRmTURehRp5MfH0ZgtsN4=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Stories From a Van",
+        "description": "Hi! My name is Evan and I live in my self-converted van in Santa Cruz, California! Join me as I build community through storytelling!\n\nMeet me in person along with others that follow the channel!\nhttps://forms.gle/hzJKNno9Ttt542Gq9\n\nJoin the Online Community!\nDiscord: https://discord.gg/KgZSBSaXnK\n\nSocial Media\nInstagram: https://www.instagram.com/storiesfromavan\nFacebook: https://www.facebook.com/storiesfromavan\nTwitter: https://twitter.com/van_stories\n\nHelp support the channel and community!\nPatreon: https://www.patreon.com/storiesfromavan\n\nContact\nemail: storiesfromavan@gmail.com\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUarfjDySSCams7bk8_d8Bww"
+      }
+    },
+    "statistics": {
+      "viewCount": "3311419",
+      "subscriberCount": "45100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Stories From a Van",
+        "description": "Hi! My name is Evan and I live in my self-converted van in Santa Cruz, California! Join me as I build community through storytelling!\n\nMeet me in person along with others that follow the channel!\nhttps://forms.gle/hzJKNno9Ttt542Gq9\n\nJoin the Online Community!\nDiscord: https://discord.gg/KgZSBSaXnK\n\nSocial Media\nInstagram: https://www.instagram.com/storiesfromavan\nFacebook: https://www.facebook.com/storiesfromavan\nTwitter: https://twitter.com/van_stories\n\nHelp support the channel and community!\nPatreon: https://www.patreon.com/storiesfromavan\n\nContact\nemail: storiesfromavan@gmail.com\n",
+        "keywords": "\"life hacks\" \"van life\" \"van tour\" \"van life build\" guide minimalism \"alternative living\" \"tiny home\" \"tiny house on wheels\" diy \"do it yourself\" irl tips lifestyle \"santa cruz\" beach california \"san francisco\" travel \"rent free\" \"living in a van\" vanlife \"van tour\" \"tiny house tour\"",
+        "unsubscribedTrailer": "8HL4RQb-ROA",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jjCiAXo5W80H9r4WpPHpHikLER6l23tBEWzgy4npT2jng5C65UukYbrhoHU5czuCxMvfxdxmWQ"
+      }
+    }
+  }
+}

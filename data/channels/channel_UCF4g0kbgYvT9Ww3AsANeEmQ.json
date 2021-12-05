@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCF4g0kbgYvT9Ww3AsANeEmQ",
+  "retrieved_on": "2021-12-05 03:47:36.814683",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "GDc4IgENHBJvNhEda-l9D3JBYFs",
+    "id": "UCF4g0kbgYvT9Ww3AsANeEmQ",
+    "snippet": {
+      "title": "Eat Carbs Outdoors",
+      "description": "Just sharing some of my dirt time, gear, and outings. I'm not a professional outdoorsman or anything. I just like what I do.\nThe outdoors is a hobby for me.. and I love it. My aim is to keep it real and post it as it happens. \n\nCheck out my Facebook page.\nhttps://www.facebook.com/pages/Eat-Carbs/626922257383004?sk=timeline",
+      "customUrl": "eatcarbs",
+      "publishedAt": "2006-06-06T18:11:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCLBuIkSjK5BJHhriwDBf3-1fRoTVp4O1rPvv4IQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCLBuIkSjK5BJHhriwDBf3-1fRoTVp4O1rPvv4IQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTCLBuIkSjK5BJHhriwDBf3-1fRoTVp4O1rPvv4IQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Eat Carbs Outdoors",
+        "description": "Just sharing some of my dirt time, gear, and outings. I'm not a professional outdoorsman or anything. I just like what I do.\nThe outdoors is a hobby for me.. and I love it. My aim is to keep it real and post it as it happens. \n\nCheck out my Facebook page.\nhttps://www.facebook.com/pages/Eat-Carbs/626922257383004?sk=timeline"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUF4g0kbgYvT9Ww3AsANeEmQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "745898",
+      "subscriberCount": "2770",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1449"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Eat Carbs Outdoors",
+        "description": "Just sharing some of my dirt time, gear, and outings. I'm not a professional outdoorsman or anything. I just like what I do.\nThe outdoors is a hobby for me.. and I love it. My aim is to keep it real and post it as it happens. \n\nCheck out my Facebook page.\nhttps://www.facebook.com/pages/Eat-Carbs/626922257383004?sk=timeline",
+        "keywords": "Outdoors Bushcraft Camping Survival Camp Woodcraft \"Dirt Time\" Pathfinder \"Gear Channel\" Gear Budget Bannock",
+        "unsubscribedTrailer": "TleX9EW3dh4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/87Ok362I-3oS1WCNzx5o6yG_w00qGLBwktcnIOZhZsbiO1XN98hHQ4_mH64rvjjKLLCBk20MywA"
+      }
+    }
+  }
+}

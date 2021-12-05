@@ -1,0 +1,56 @@
+{
+  "channel_id": "UC3qkw4uy_iju0OS54Icshww",
+  "retrieved_on": "2021-12-05 03:47:28.552412",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Aw2m4OqDlpvzzXhEwDofQmc0coY",
+    "id": "UC3qkw4uy_iju0OS54Icshww",
+    "snippet": {
+      "title": "Virtual Embrace - Topic",
+      "description": "Virtual Embrace is an aggrotech band from Berlin, Germany formed by Mike Johnson and DJ CyberChrist. Their first release was Roots of Evil EP in 2004 and became successful. Influenced by the likes of Hocico, and Suicide Commando, but Mike Johnson denied it, Virtual Embrace is the flagship band for the Hellektro label MAO-Music and, as of 2005, is similar in style to bands on the label NoiTekk, such as Grendel, Psyclon Nine, Aslan Faction, and Tactical Sekt.",
+      "publishedAt": "2013-10-24T04:37:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/xkf_trPEUoy3lzXgZlRuyNdj1-INybfIZN3OvEhh22PHMeQb_Cb60PayzaMvnn-76ptiLREDaA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/xkf_trPEUoy3lzXgZlRuyNdj1-INybfIZN3OvEhh22PHMeQb_Cb60PayzaMvnn-76ptiLREDaA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/xkf_trPEUoy3lzXgZlRuyNdj1-INybfIZN3OvEhh22PHMeQb_Cb60PayzaMvnn-76ptiLREDaA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Virtual Embrace - Topic",
+        "description": "Virtual Embrace is an aggrotech band from Berlin, Germany formed by Mike Johnson and DJ CyberChrist. Their first release was Roots of Evil EP in 2004 and became successful. Influenced by the likes of Hocico, and Suicide Commando, but Mike Johnson denied it, Virtual Embrace is the flagship band for the Hellektro label MAO-Music and, as of 2005, is similar in style to bands on the label NoiTekk, such as Grendel, Psyclon Nine, Aslan Faction, and Tactical Sekt."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3qkw4uy_iju0OS54Icshww"
+      }
+    },
+    "statistics": {
+      "viewCount": "15844",
+      "subscriberCount": "86",
+      "hiddenSubscriberCount": false,
+      "videoCount": "69"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Virtual Embrace - Topic",
+        "description": "Virtual Embrace is an aggrotech band from Berlin, Germany formed by Mike Johnson and DJ CyberChrist. Their first release was Roots of Evil EP in 2004 and became successful. Influenced by the likes of Hocico, and Suicide Commando, but Mike Johnson denied it, Virtual Embrace is the flagship band for the Hellektro label MAO-Music and, as of 2005, is similar in style to bands on the label NoiTekk, such as Grendel, Psyclon Nine, Aslan Faction, and Tactical Sekt."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/WJQCQu3GyRhH11MUVdR9q-BOlgk49jTifasyrsv1twoJ8H907Rzm17W4IcSQAMHgsrzJCgrlcg"
+      }
+    }
+  }
+}

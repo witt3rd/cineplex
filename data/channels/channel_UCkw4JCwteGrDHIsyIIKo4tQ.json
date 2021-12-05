@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCkw4JCwteGrDHIsyIIKo4tQ",
+  "retrieved_on": "2021-12-05 03:47:39.125893",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "3YCuD1DmB1VrYR716Rhj4qR-6a8",
+    "id": "UCkw4JCwteGrDHIsyIIKo4tQ",
+    "snippet": {
+      "title": "edureka!",
+      "description": "Thank you for Subscribing! If you have not, Subscribe now!\n\nWe are a live & interactive e-learning platform with the mission of making learning accessible to everyone. We offer instructor-led courses, along with 24/7 on-demand support to achieve highest course completion rates in the industry! Our real-life projects, 24*7 Support, Personal Learning Managers ensure that your learning goals are met!\n\nSpecial offer! Flat 20% Off on All Courses, Use Code \"\ud835\udc18\ud835\udc0e\ud835\udc14\ud835\udc13\ud835\udc14\ud835\udc01\ud835\udc04\ud835\udfd0\ud835\udfce\"\n\nBy subscribing to Edureka Channel, you'll never miss out on high-quality videos, webinars, sample classes & lectures from industry practitioners & influencers. Our research team curates content on trending topics in the areas of Big Data & Hadoop, DevOps, Blockchain, Artificial Intelligence, Angular, Data Science, Apache Spark, Python, Selenium, Tableau, Android, PMP certification, AWS Architect, Digital Marketing and many more. \n\nCall us on IND: 9606058406 / US: 18338555775 (toll-free) to talk to our Course Advisors.",
+      "customUrl": "edurekain",
+      "publishedAt": "2012-06-29T06:12:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTyvoU_YW3YmDgIXlJ8JpzFnNoZPVvQk9xFxfMkzQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTyvoU_YW3YmDgIXlJ8JpzFnNoZPVvQk9xFxfMkzQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTyvoU_YW3YmDgIXlJ8JpzFnNoZPVvQk9xFxfMkzQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "edureka!",
+        "description": "Thank you for Subscribing! If you have not, Subscribe now!\n\nWe are a live & interactive e-learning platform with the mission of making learning accessible to everyone. We offer instructor-led courses, along with 24/7 on-demand support to achieve highest course completion rates in the industry! Our real-life projects, 24*7 Support, Personal Learning Managers ensure that your learning goals are met!\n\nSpecial offer! Flat 20% Off on All Courses, Use Code \"\ud835\udc18\ud835\udc0e\ud835\udc14\ud835\udc13\ud835\udc14\ud835\udc01\ud835\udc04\ud835\udfd0\ud835\udfce\"\n\nBy subscribing to Edureka Channel, you'll never miss out on high-quality videos, webinars, sample classes & lectures from industry practitioners & influencers. Our research team curates content on trending topics in the areas of Big Data & Hadoop, DevOps, Blockchain, Artificial Intelligence, Angular, Data Science, Apache Spark, Python, Selenium, Tableau, Android, PMP certification, AWS Architect, Digital Marketing and many more. \n\nCall us on IND: 9606058406 / US: 18338555775 (toll-free) to talk to our Course Advisors."
+      },
+      "country": "IN"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkw4JCwteGrDHIsyIIKo4tQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "263630194",
+      "subscriberCount": "3050000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "5235"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "edureka!",
+        "description": "Thank you for Subscribing! If you have not, Subscribe now!\n\nWe are a live & interactive e-learning platform with the mission of making learning accessible to everyone. We offer instructor-led courses, along with 24/7 on-demand support to achieve highest course completion rates in the industry! Our real-life projects, 24*7 Support, Personal Learning Managers ensure that your learning goals are met!\n\nSpecial offer! Flat 20% Off on All Courses, Use Code \"\ud835\udc18\ud835\udc0e\ud835\udc14\ud835\udc13\ud835\udc14\ud835\udc01\ud835\udc04\ud835\udfd0\ud835\udfce\"\n\nBy subscribing to Edureka Channel, you'll never miss out on high-quality videos, webinars, sample classes & lectures from industry practitioners & influencers. Our research team curates content on trending topics in the areas of Big Data & Hadoop, DevOps, Blockchain, Artificial Intelligence, Angular, Data Science, Apache Spark, Python, Selenium, Tableau, Android, PMP certification, AWS Architect, Digital Marketing and many more. \n\nCall us on IND: 9606058406 / US: 18338555775 (toll-free) to talk to our Course Advisors.",
+        "keywords": "hadoop \"big data\" aws devops tutorial training course \"apache spark\" \"data science\" java python informatica salesforce selenium \"training videos\" \"online tutorial\" tableau pmp openstack angular nodejs kafka \"android development\" talend linux \"web development\" sas msbi azure \"cloud computing\" powerbi blockchain iot \"trending technologies\" \"devops edureka\" \"python edureka\" \"aws edureka\" \"data science edureka\" \"java edureka\" \"web development edureka\" cybersecurity rpa \"ethical hacking\"",
+        "trackingAnalyticsAccountId": "UA-146637940-3",
+        "moderateComments": true,
+        "unsubscribedTrailer": "YERmJEjEyo8",
+        "country": "IN"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/u4iHEK-A5Oy6tzgdBZYKqvn8svOzR89Hk_MkPx1fckMNlePZ73Uvjb8WVdauPFB8F9sm5LLH8g"
+      }
+    }
+  }
+}

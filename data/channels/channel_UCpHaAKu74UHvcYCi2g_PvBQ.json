@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCpHaAKu74UHvcYCi2g_PvBQ",
+  "retrieved_on": "2021-12-05 03:47:40.531429",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "oOszan3xsWH55aTb7M8JMzPJXI4",
+    "id": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "snippet": {
+      "title": "Shout! Factory",
+      "description": "Dedicated to what you grew up on, but never outgrew.\r\n\r\nShout! Factory has devoted itself to the higher pursuit of pop culture for the past 10 years. During that time, we've released some of TV's most beloved gems, such as Freaks And Geeks, My So-Called Life, Sports Night, MadTV and Mystery Science Theater. We've also reintroduced some of television's most adored personalities with collections featuring Dick Cavett, Tom Snyder, Jack Paar, Johnny Carson, Mel Brooks, Groucho Marx and Elvira, Mistress of the Night.\r\n\r\nBut Shout! didn't stop there. While our release list continues to grow, our musical releases are equally as impressive. We've reissued the catalogs of Herb Alpert, Emerson Lake and Palmer, James Brown and John Lee Hooker, plus released a slew of new albums, including recordings by Matthew Sweet, Solomon Burke, Local H and Thelma Houston.\r\n\r\nWe're still growing! For more information and a complete list of our titles, please visit: http://www.shoutfactory.com",
+      "customUrl": "shoutfactory",
+      "publishedAt": "2007-01-18T07:31:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ02kjZdas1hqYmC9UmN6y3O5sTzO456xKiY7wy=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ02kjZdas1hqYmC9UmN6y3O5sTzO456xKiY7wy=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ02kjZdas1hqYmC9UmN6y3O5sTzO456xKiY7wy=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Shout! Factory",
+        "description": "Dedicated to what you grew up on, but never outgrew.\r\n\r\nShout! Factory has devoted itself to the higher pursuit of pop culture for the past 10 years. During that time, we've released some of TV's most beloved gems, such as Freaks And Geeks, My So-Called Life, Sports Night, MadTV and Mystery Science Theater. We've also reintroduced some of television's most adored personalities with collections featuring Dick Cavett, Tom Snyder, Jack Paar, Johnny Carson, Mel Brooks, Groucho Marx and Elvira, Mistress of the Night.\r\n\r\nBut Shout! didn't stop there. While our release list continues to grow, our musical releases are equally as impressive. We've reissued the catalogs of Herb Alpert, Emerson Lake and Palmer, James Brown and John Lee Hooker, plus released a slew of new albums, including recordings by Matthew Sweet, Solomon Burke, Local H and Thelma Houston.\r\n\r\nWe're still growing! For more information and a complete list of our titles, please visit: http://www.shoutfactory.com"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUpHaAKu74UHvcYCi2g_PvBQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "333409217",
+      "subscriberCount": "420000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3418"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Shout! Factory",
+        "description": "Dedicated to what you grew up on, but never outgrew.\r\n\r\nShout! Factory has devoted itself to the higher pursuit of pop culture for the past 10 years. During that time, we've released some of TV's most beloved gems, such as Freaks And Geeks, My So-Called Life, Sports Night, MadTV and Mystery Science Theater. We've also reintroduced some of television's most adored personalities with collections featuring Dick Cavett, Tom Snyder, Jack Paar, Johnny Carson, Mel Brooks, Groucho Marx and Elvira, Mistress of the Night.\r\n\r\nBut Shout! didn't stop there. While our release list continues to grow, our musical releases are equally as impressive. We've reissued the catalogs of Herb Alpert, Emerson Lake and Palmer, James Brown and John Lee Hooker, plus released a slew of new albums, including recordings by Matthew Sweet, Solomon Burke, Local H and Thelma Houston.\r\n\r\nWe're still growing! For more information and a complete list of our titles, please visit: http://www.shoutfactory.com",
+        "keywords": "shout! shout factory scream movies tv television dvd trailers mst3k",
+        "moderateComments": true,
+        "unsubscribedTrailer": "bSuTekB2dYU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Fb2za28OtSEKBRZAAKOmaWgJC5VmnuW3iPGA0QfE8MLZcZi-7s5wTH5p9JjhD2geiRJzPylIOEM"
+      }
+    }
+  }
+}

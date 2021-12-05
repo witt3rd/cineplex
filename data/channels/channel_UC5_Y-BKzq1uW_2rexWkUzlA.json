@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
+  "retrieved_on": "2021-12-05 03:47:35.581002",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "cYqE0S3U_QfH1wojGYSk7ufRehg",
+    "id": "UC5_Y-BKzq1uW_2rexWkUzlA",
+    "snippet": {
+      "title": "New Mind",
+      "description": "For most of us, our average day is an experience unlike any other in human history. The world we interact with and engage with is a culmination of millennia of curiosity, probing and discovery. The story of how we got here, the layers of seeking and exploration; that are too often displaced as a triviality of life, is a massive part of the human story.\n\nNew Mind is a celebration of that journey; the telling of slivers of that human story.  Each composition is a careful telling of a slice of our technological world, exploring not just the \u201chow it works\u201d but the evolution of the why \u2013 the series of historical events that made it this way.",
+      "customUrl": "newmind",
+      "publishedAt": "2018-09-12T21:00:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSMzCWVNRoiHcXhhl1a0y7OUgzCQXDs5yK0GpLQgQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSMzCWVNRoiHcXhhl1a0y7OUgzCQXDs5yK0GpLQgQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSMzCWVNRoiHcXhhl1a0y7OUgzCQXDs5yK0GpLQgQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "New Mind",
+        "description": "For most of us, our average day is an experience unlike any other in human history. The world we interact with and engage with is a culmination of millennia of curiosity, probing and discovery. The story of how we got here, the layers of seeking and exploration; that are too often displaced as a triviality of life, is a massive part of the human story.\n\nNew Mind is a celebration of that journey; the telling of slivers of that human story.  Each composition is a careful telling of a slice of our technological world, exploring not just the \u201chow it works\u201d but the evolution of the why \u2013 the series of historical events that made it this way."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5_Y-BKzq1uW_2rexWkUzlA"
+      }
+    },
+    "statistics": {
+      "viewCount": "27330506",
+      "subscriberCount": "346000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "48"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "New Mind",
+        "description": "For most of us, our average day is an experience unlike any other in human history. The world we interact with and engage with is a culmination of millennia of curiosity, probing and discovery. The story of how we got here, the layers of seeking and exploration; that are too often displaced as a triviality of life, is a massive part of the human story.\n\nNew Mind is a celebration of that journey; the telling of slivers of that human story.  Each composition is a careful telling of a slice of our technological world, exploring not just the \u201chow it works\u201d but the evolution of the why \u2013 the series of historical events that made it this way.",
+        "keywords": "science technology \"how it works\" documentary engineering space automotive",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/2SpEY4PKDUbhaiYsHsiWQPnnA-H5tDAK7ZabWyKfqutL1xsNbu2gBnLEns55NgsICLi212uz"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCmvhCWvHk3-SJqljh5cCm8A",
+  "retrieved_on": "2021-12-05 03:47:30.436724",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QX6P84-aR_FIs1_OUfHIlwWZ2qc",
+    "id": "UCmvhCWvHk3-SJqljh5cCm8A",
+    "snippet": {
+      "title": "illacertus",
+      "description": "Animated book summaries focusing on strategy, power & seduction with a flair for history\n& how you can use the knowledge within today to further your own cause.\n\nAccess the full video archive for 7$ & download exclusive content at https://gumroad.com/l/illacertus.\n\nGet 2 FREE audiobooks of your choice on audible | http://amzn.to/2b9GBJr\n\nSubscribe \ud83d\udcaa http://bit.ly/illacertus\n\nBooks on illacertus:\n\nThe Prince\nArt of War\nOn War\n\nBy Robert Greene\n- The 48 Laws of Power\n- The 33 Strategies of War\n- The Art of Seduction\n- The 50th Law\n- Mastery",
+      "customUrl": "illacertus",
+      "publishedAt": "2015-06-16T08:55:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxuEc6QfL0EoCLfGlrFT6oAnLVEFP9i7dTbNkfLQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxuEc6QfL0EoCLfGlrFT6oAnLVEFP9i7dTbNkfLQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxuEc6QfL0EoCLfGlrFT6oAnLVEFP9i7dTbNkfLQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "illacertus",
+        "description": "Animated book summaries focusing on strategy, power & seduction with a flair for history\n& how you can use the knowledge within today to further your own cause.\n\nAccess the full video archive for 7$ & download exclusive content at https://gumroad.com/l/illacertus.\n\nGet 2 FREE audiobooks of your choice on audible | http://amzn.to/2b9GBJr\n\nSubscribe \ud83d\udcaa http://bit.ly/illacertus\n\nBooks on illacertus:\n\nThe Prince\nArt of War\nOn War\n\nBy Robert Greene\n- The 48 Laws of Power\n- The 33 Strategies of War\n- The Art of Seduction\n- The 50th Law\n- Mastery"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmvhCWvHk3-SJqljh5cCm8A"
+      }
+    },
+    "statistics": {
+      "viewCount": "26291121",
+      "subscriberCount": "421000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "95"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "illacertus",
+        "description": "Animated book summaries focusing on strategy, power & seduction with a flair for history\n& how you can use the knowledge within today to further your own cause.\n\nAccess the full video archive for 7$ & download exclusive content at https://gumroad.com/l/illacertus.\n\nGet 2 FREE audiobooks of your choice on audible | http://amzn.to/2b9GBJr\n\nSubscribe \ud83d\udcaa http://bit.ly/illacertus\n\nBooks on illacertus:\n\nThe Prince\nArt of War\nOn War\n\nBy Robert Greene\n- The 48 Laws of Power\n- The 33 Strategies of War\n- The Art of Seduction\n- The 50th Law\n- Mastery",
+        "keywords": "\"48 laws of power\" \"robert greene\" book summary review",
+        "unsubscribedTrailer": "670ZGMBjrPI"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/OHzQl89qdOgQzupfyKR3bKQSUx8jFCcOUIbKM0jVr01f8k7Brf3z4Wei3OAeZGRJcUXsZ2pb7g"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCkeGEMunZIoGUyP7z0pMYmQ",
+  "retrieved_on": "2021-12-05 03:47:32.314742",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mttB9BYgbfxVCpMV6VDVco6JcYE",
+    "id": "UCkeGEMunZIoGUyP7z0pMYmQ",
+    "snippet": {
+      "title": "John Ward",
+      "description": "Noumenal.\n\nORIGINAL MEME MUSIC ALBUM - \"FEELS GOOD MAN\"\nhttps://www.amazon.com/Feels-Good-Explicit-John-Ward/dp/B07R5H5RKG/\n\nNEW SUBSCRIPTION SITE\njohnwardcinematics.com/support\n\nNEW WEBSITE\njohnwardcinematics.com\n\nIn order to move away from Patreon/Subscribestar, I have integrated recurring AND one-time donations into a new website (above). As the channel is now demonetized, I'll be building out the site in the hopes of maintaining.\n\nAny questions can be directed to the channel email (below) or through the contact form on the site.\n\nhttps://www.patreon.com/JohnWard\n\n*NEW* Shirts and some other stuff: http://teespring.com/stores/johnward",
+      "customUrl": "johnwardcinematics",
+      "publishedAt": "2015-11-05T04:19:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLShfmZPEJYqQU9C1igAV5zb4CupickLj8xUx8gsQA=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLShfmZPEJYqQU9C1igAV5zb4CupickLj8xUx8gsQA=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLShfmZPEJYqQU9C1igAV5zb4CupickLj8xUx8gsQA=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "John Ward",
+        "description": "Noumenal.\n\nORIGINAL MEME MUSIC ALBUM - \"FEELS GOOD MAN\"\nhttps://www.amazon.com/Feels-Good-Explicit-John-Ward/dp/B07R5H5RKG/\n\nNEW SUBSCRIPTION SITE\njohnwardcinematics.com/support\n\nNEW WEBSITE\njohnwardcinematics.com\n\nIn order to move away from Patreon/Subscribestar, I have integrated recurring AND one-time donations into a new website (above). As the channel is now demonetized, I'll be building out the site in the hopes of maintaining.\n\nAny questions can be directed to the channel email (below) or through the contact form on the site.\n\nhttps://www.patreon.com/JohnWard\n\n*NEW* Shirts and some other stuff: http://teespring.com/stores/johnward"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkeGEMunZIoGUyP7z0pMYmQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "38763741",
+      "subscriberCount": "189000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "351"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "John Ward",
+        "description": "Noumenal.\n\nORIGINAL MEME MUSIC ALBUM - \"FEELS GOOD MAN\"\nhttps://www.amazon.com/Feels-Good-Explicit-John-Ward/dp/B07R5H5RKG/\n\nNEW SUBSCRIPTION SITE\njohnwardcinematics.com/support\n\nNEW WEBSITE\njohnwardcinematics.com\n\nIn order to move away from Patreon/Subscribestar, I have integrated recurring AND one-time donations into a new website (above). As the channel is now demonetized, I'll be building out the site in the hopes of maintaining.\n\nAny questions can be directed to the channel email (below) or through the contact form on the site.\n\nhttps://www.patreon.com/JohnWard\n\n*NEW* Shirts and some other stuff: http://teespring.com/stores/johnward",
+        "keywords": "politics trump journalism \"media analysis\" republican conservative \"john ward\" \"john ward youtube\" music memes",
+        "unsubscribedTrailer": "RKrjyKg57Mc",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/DvlyThfi464hcuQXEl-DZIToMpedQjf-02Fbrdr-TZN14M-xU7eDRWK1HMqbsyoiwQJ416lY"
+      }
+    }
+  }
+}

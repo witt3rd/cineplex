@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCQlon2RPaoktV-HK4N9JAcg",
+  "retrieved_on": "2021-12-05 03:47:31.805443",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rfb8dtcFEMHuCqo3DXpU8kniwNg",
+    "id": "UCQlon2RPaoktV-HK4N9JAcg",
+    "snippet": {
+      "title": "Smarter By The Day",
+      "description": "Smarter by the day channel is all about how you can create a better life .\nThis channel is created for educational purpose .\n We also intend to motivate people with our videos.\nThe theme of this channel is to motivate people and inspire people in a positive direction with spiritual messages and with amazing and current happenings in the world.\nWe create our videos by completely editing from scratch .\nSmarter by the day is the best channel for viewing latest interesting news,events occurring around the world.You will find interesting and fascinating videos about anything and everything on this planet.\nThank you",
+      "customUrl": "smarterbytheday",
+      "publishedAt": "2017-11-13T14:39:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQH_naGTb3pyMXxLsRf9s96RfDwn5iAyzo-kp4ycA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQH_naGTb3pyMXxLsRf9s96RfDwn5iAyzo-kp4ycA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQH_naGTb3pyMXxLsRf9s96RfDwn5iAyzo-kp4ycA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Smarter By The Day",
+        "description": "Smarter by the day channel is all about how you can create a better life .\nThis channel is created for educational purpose .\n We also intend to motivate people with our videos.\nThe theme of this channel is to motivate people and inspire people in a positive direction with spiritual messages and with amazing and current happenings in the world.\nWe create our videos by completely editing from scratch .\nSmarter by the day is the best channel for viewing latest interesting news,events occurring around the world.You will find interesting and fascinating videos about anything and everything on this planet.\nThank you"
+      },
+      "country": "IN"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUQlon2RPaoktV-HK4N9JAcg"
+      }
+    },
+    "statistics": {
+      "viewCount": "23557935",
+      "subscriberCount": "189000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "193"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Smarter By The Day",
+        "description": "Smarter by the day channel is all about how you can create a better life .\nThis channel is created for educational purpose .\n We also intend to motivate people with our videos.\nThe theme of this channel is to motivate people and inspire people in a positive direction with spiritual messages and with amazing and current happenings in the world.\nWe create our videos by completely editing from scratch .\nSmarter by the day is the best channel for viewing latest interesting news,events occurring around the world.You will find interesting and fascinating videos about anything and everything on this planet.\nThank you",
+        "keywords": "\"law of attraction\" Sadhguru mystic spirituality life adivce motivational inspirational mind \"postitive thoughts\" \"life changing\" success",
+        "country": "IN"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/DwdXbToDELhThKqK0W8vTyKhGIHdU-RpjnoU5aVm7QXBUgA8epEcCYXglcEqAcBiUI-rkvuKM-U"
+      }
+    }
+  }
+}

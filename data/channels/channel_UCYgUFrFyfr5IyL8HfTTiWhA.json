@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCYgUFrFyfr5IyL8HfTTiWhA",
+  "retrieved_on": "2021-12-05 03:47:31.805426",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "PT7wh9ugaQbN6LOatZb81LI6MA0",
+    "id": "UCYgUFrFyfr5IyL8HfTTiWhA",
+    "snippet": {
+      "title": "Alexander Zotov",
+      "description": "Hi! Welcome to my channel where you can find a lot of Unity software tutorials mostly :-) Hope you like it.\nBest wishes!\nNew video every... time.",
+      "customUrl": "alexanderzotov",
+      "publishedAt": "2013-03-05T11:19:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRkjaY5bYzedzZ1Q8gmmUL6Fs8ROQqX1F9JOkN7uA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRkjaY5bYzedzZ1Q8gmmUL6Fs8ROQqX1F9JOkN7uA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRkjaY5bYzedzZ1Q8gmmUL6Fs8ROQqX1F9JOkN7uA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Alexander Zotov",
+        "description": "Hi! Welcome to my channel where you can find a lot of Unity software tutorials mostly :-) Hope you like it.\nBest wishes!\nNew video every... time."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYgUFrFyfr5IyL8HfTTiWhA"
+      }
+    },
+    "statistics": {
+      "viewCount": "5390908",
+      "subscriberCount": "26400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "324"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Alexander Zotov",
+        "description": "Hi! Welcome to my channel where you can find a lot of Unity software tutorials mostly :-) Hope you like it.\nBest wishes!\nNew video every... time.",
+        "keywords": "unity unity5 unity3d \"unity tutorial\" \"game development\" \"game programming\" \"coding c#\" \"games development\" \"unity for beginners\" \"unity android games\" \"unity game development\" \"make game unity\" \"how to make game unity\"",
+        "unsubscribedTrailer": "5QIbx4DSGTA",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/O2T0H0glrSevC74WMIfqRJesKfR4dDKw6RaVZQ1MnEMXVe4yRkeMPv9G2YI3kfLHW88VSgIi_A"
+      }
+    }
+  }
+}

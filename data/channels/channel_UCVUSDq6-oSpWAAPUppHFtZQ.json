@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCVUSDq6-oSpWAAPUppHFtZQ",
+  "retrieved_on": "2021-12-05 03:47:29.489813",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "u0ajgiaMZN1UVzHbNIjEAQsphAY",
+    "id": "UCVUSDq6-oSpWAAPUppHFtZQ",
+    "snippet": {
+      "title": "John Malecki",
+      "description": "I used to be an offensive lineman in the NFL, Now myself and my team push the limits on what we think is possible when it comes to building awesome projects. We mix woodworking, with metal work, epoxy and sprinkle in some home DIY and renovation projects too! ",
+      "customUrl": "johnmaleckibuilds",
+      "publishedAt": "2016-01-06T12:41:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVORciBUd1lGJ9F2zeV2gUx_cAgQC-JfHvNcAeNQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVORciBUd1lGJ9F2zeV2gUx_cAgQC-JfHvNcAeNQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSVORciBUd1lGJ9F2zeV2gUx_cAgQC-JfHvNcAeNQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "John Malecki",
+        "description": "I used to be an offensive lineman in the NFL, Now myself and my team push the limits on what we think is possible when it comes to building awesome projects. We mix woodworking, with metal work, epoxy and sprinkle in some home DIY and renovation projects too! "
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVUSDq6-oSpWAAPUppHFtZQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "51516540",
+      "subscriberCount": "600000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "207"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "John Malecki",
+        "description": "I used to be an offensive lineman in the NFL, Now myself and my team push the limits on what we think is possible when it comes to building awesome projects. We mix woodworking, with metal work, epoxy and sprinkle in some home DIY and renovation projects too! ",
+        "keywords": "John_Malecki \"John Malecki\" \"John Malecki Builds\"",
+        "trackingAnalyticsAccountId": "UA-73637319-2",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/g5gu4tqVxr2OHHClrju40vXM6lZ-_SogkCZ7fniYAqFmx9ZxADDf3hCr8_DUjvz1Lmq42eZcag"
+      }
+    }
+  }
+}

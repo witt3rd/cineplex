@@ -1,0 +1,56 @@
+{
+  "channel_id": "UC2lUQTEez5WVKCzNrMm2RRA",
+  "retrieved_on": "2021-12-05 03:47:35.580985",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "twTNx_YwLo79vGNFt85l2hNQAeA",
+    "id": "UC2lUQTEez5WVKCzNrMm2RRA",
+    "snippet": {
+      "title": "Project-2",
+      "description": "",
+      "publishedAt": "2014-08-19T10:07:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS3Js8ERcemmE6sjc70fAIIgnZ1rQIY1L2EpZ6X=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS3Js8ERcemmE6sjc70fAIIgnZ1rQIY1L2EpZ6X=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS3Js8ERcemmE6sjc70fAIIgnZ1rQIY1L2EpZ6X=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Project-2",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2lUQTEez5WVKCzNrMm2RRA"
+      }
+    },
+    "statistics": {
+      "viewCount": "873753",
+      "subscriberCount": "314",
+      "hiddenSubscriberCount": false,
+      "videoCount": "13"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Project-2",
+        "keywords": "Project-2"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/ohP077FmuZUk0NxnEg1FkTAzcAAKMZvbzpXvYaNVC7U-EpZOpOVFYT0zOl2SCe90qiqqv9BV"
+      }
+    }
+  }
+}

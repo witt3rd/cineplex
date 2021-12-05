@@ -1,0 +1,61 @@
+{
+  "channel_id": "UChE2XVkaaQBR-ly3LaDjheA",
+  "retrieved_on": "2021-12-05 03:47:36.814732",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ZWsCcFhPb9yCvL9LDf4z2_b0iYQ",
+    "id": "UChE2XVkaaQBR-ly3LaDjheA",
+    "snippet": {
+      "title": "Top 5 Scary Videos",
+      "description": "Come and join Keegan and Lucy, as they meander their way through the hallowed halls of Horror Fiction and Fandom. Here at Top 5 Scary Videos, nothing is off the table when it comes to breaking down the things that go bump in the night, and then compiling them for your viewing enjoyment into a Top 5 Scary List. Be it horror cinema, Gothic literature, urban legends, creepy history or the mysterious tales of long lost civilizations - we've got a list for you.",
+      "customUrl": "top5scaryvideos",
+      "publishedAt": "2014-12-18T03:50:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/paalQ8wUEIe9Vmpg2MF9rh6r3RPxC-giAEWoIQs8eg8pMZuK8YzZ92GxHFnfnh8LQnv2RD_d6w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/paalQ8wUEIe9Vmpg2MF9rh6r3RPxC-giAEWoIQs8eg8pMZuK8YzZ92GxHFnfnh8LQnv2RD_d6w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/paalQ8wUEIe9Vmpg2MF9rh6r3RPxC-giAEWoIQs8eg8pMZuK8YzZ92GxHFnfnh8LQnv2RD_d6w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Top 5 Scary Videos",
+        "description": "Come and join Keegan and Lucy, as they meander their way through the hallowed halls of Horror Fiction and Fandom. Here at Top 5 Scary Videos, nothing is off the table when it comes to breaking down the things that go bump in the night, and then compiling them for your viewing enjoyment into a Top 5 Scary List. Be it horror cinema, Gothic literature, urban legends, creepy history or the mysterious tales of long lost civilizations - we've got a list for you."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUhE2XVkaaQBR-ly3LaDjheA"
+      }
+    },
+    "statistics": {
+      "viewCount": "164549257",
+      "subscriberCount": "1010000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2425"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Top 5 Scary Videos",
+        "description": "Come and join Keegan and Lucy, as they meander their way through the hallowed halls of Horror Fiction and Fandom. Here at Top 5 Scary Videos, nothing is off the table when it comes to breaking down the things that go bump in the night, and then compiling them for your viewing enjoyment into a Top 5 Scary List. Be it horror cinema, Gothic literature, urban legends, creepy history or the mysterious tales of long lost civilizations - we've got a list for you.",
+        "keywords": "\"top 5\" list \"top 5 scary\" scary horror \"horror movies\" film tv movies",
+        "unsubscribedTrailer": "LZzxMXiR3C0",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/zNUd8cS_QdQfAAsgo3FmZHAaPxj_UYzVpjnp6BusB3t3VBV1axvxMJ83XvpE3FQzbe2WQJ50tg"
+      }
+    }
+  }
+}

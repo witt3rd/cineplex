@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCm9WFeqTgvRvyRoGD8jVFVA",
+  "retrieved_on": "2021-12-05 03:47:39.125967",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "De-YiOooHEs59FICQDDGMVEPqac",
+    "id": "UCm9WFeqTgvRvyRoGD8jVFVA",
+    "snippet": {
+      "title": "Music of 40K",
+      "description": "Curated grimdark music for your gaming pleasure.\n\nYou can use my soundscapes for non-profit projects (such as YouTube videos), just be sure to credit Music of 40K and include a link to the soundscape you used.\n\nSong titles, albums, composers/performers, and image sources are credited in the description of every video. If you'd like more information about a specific track, you can contact me using the e-mail below.\n\nIf any composer, artist, or developer has an issue with an upload, use the email below to contact me and I'll happily take it down.",
+      "publishedAt": "2016-03-15T18:38:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTowBI2dep3pTF7q3n4VwCVBxDeMQSVE6BXkL5kIw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTowBI2dep3pTF7q3n4VwCVBxDeMQSVE6BXkL5kIw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTowBI2dep3pTF7q3n4VwCVBxDeMQSVE6BXkL5kIw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Music of 40K",
+        "description": "Curated grimdark music for your gaming pleasure.\n\nYou can use my soundscapes for non-profit projects (such as YouTube videos), just be sure to credit Music of 40K and include a link to the soundscape you used.\n\nSong titles, albums, composers/performers, and image sources are credited in the description of every video. If you'd like more information about a specific track, you can contact me using the e-mail below.\n\nIf any composer, artist, or developer has an issue with an upload, use the email below to contact me and I'll happily take it down."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUm9WFeqTgvRvyRoGD8jVFVA"
+      }
+    },
+    "statistics": {
+      "viewCount": "13882320",
+      "subscriberCount": "34000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1996"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Music of 40K",
+        "description": "Curated grimdark music for your gaming pleasure.\n\nYou can use my soundscapes for non-profit projects (such as YouTube videos), just be sure to credit Music of 40K and include a link to the soundscape you used.\n\nSong titles, albums, composers/performers, and image sources are credited in the description of every video. If you'd like more information about a specific track, you can contact me using the e-mail below.\n\nIf any composer, artist, or developer has an issue with an upload, use the email below to contact me and I'll happily take it down.",
+        "keywords": "\"roleplaying game\" \"roleplaying game music\" \"roleplaying music\" warhammer \"warhammer 40k\" \"warhammer 40000\" \"warhammer 40k music\" \"warhammer 40k ost\" \"warhammer 40000 music\" \"warhammer 40000 ost\" \"games workshop\" soundscape",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/haV3S_zSdU3F4hJyKt5nP77sXqqdBqnZAFyAqxSLIOeD3jhaihgRKuvvLPNeey6RxtEfoAhXWA"
+      }
+    }
+  }
+}

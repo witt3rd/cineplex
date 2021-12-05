@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC0wTxcvWAlCP7CtZxAb8Azg",
+  "retrieved_on": "2021-12-05 03:47:39.693588",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "wX52eU9kIDaqybPLvtUjyXKkRl8",
+    "id": "UC0wTxcvWAlCP7CtZxAb8Azg",
+    "snippet": {
+      "title": "neros77",
+      "description": "The Neros77 Channel specialises in music videos for synthwave and outrun electro synth and found footage from the 80s and 90s. If you have any requests please contact me here: sorenbrogger@ipaint.dk, my soundcloud or Facebook site.\n\nPlease support my Patreon site: \nhttps://www.patreon.com/neros77?fan_landing=true\n\nOther Links\nhttps://www.facebook.com/Neros77-104798248157460\nemail: sorenbrogger@ipaint.dk\nhttps://soundcloud.com/discover\n",
+      "customUrl": "neros77",
+      "publishedAt": "2006-09-14T19:25:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWBNSni2sLuPxlqnTwbEj6fCDItHwBIOy7sH__RQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWBNSni2sLuPxlqnTwbEj6fCDItHwBIOy7sH__RQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSWBNSni2sLuPxlqnTwbEj6fCDItHwBIOy7sH__RQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "neros77",
+        "description": "The Neros77 Channel specialises in music videos for synthwave and outrun electro synth and found footage from the 80s and 90s. If you have any requests please contact me here: sorenbrogger@ipaint.dk, my soundcloud or Facebook site.\n\nPlease support my Patreon site: \nhttps://www.patreon.com/neros77?fan_landing=true\n\nOther Links\nhttps://www.facebook.com/Neros77-104798248157460\nemail: sorenbrogger@ipaint.dk\nhttps://soundcloud.com/discover\n"
+      },
+      "country": "DK"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU0wTxcvWAlCP7CtZxAb8Azg"
+      }
+    },
+    "statistics": {
+      "viewCount": "59615190",
+      "subscriberCount": "96300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "411"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "neros77",
+        "description": "The Neros77 Channel specialises in music videos for synthwave and outrun electro synth and found footage from the 80s and 90s. If you have any requests please contact me here: sorenbrogger@ipaint.dk, my soundcloud or Facebook site.\n\nPlease support my Patreon site: \nhttps://www.patreon.com/neros77?fan_landing=true\n\nOther Links\nhttps://www.facebook.com/Neros77-104798248157460\nemail: sorenbrogger@ipaint.dk\nhttps://soundcloud.com/discover\n",
+        "keywords": "\"Rad Rush Records\" \"Rosso Corsa Records\" \"Mitch Murder\" \"Miami Vice\" MN84 lazerhawk \"The neros77 Channel\" \"Love 80s\" \"80s Movies\" neros77 \"synth wave\" synthwave Lazerhawk \"Miami Nights 1984\" \"Lost Years\" retrowave chillwave vaporwave neros77 miami vis 80s 90s music \"New Retro Wave\" \"New Retrowave\" NRW \"Ocean Drive\"",
+        "unsubscribedTrailer": "QfIn9984oy4",
+        "country": "DK"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Ehji7TbBtwYX_iAzC1P4V7jW4QNQVBwYXdh0O3ot_oSHx0dhl15hmpD71oQAD_7oODz_jmtHlg"
+      }
+    }
+  }
+}

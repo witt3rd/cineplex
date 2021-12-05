@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCp68_FLety0O-n9QU6phsgw",
+  "retrieved_on": "2021-12-05 03:47:36.348832",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "_H_BiF_iMvEPMpubtCsBY8VlBjg",
+    "id": "UCp68_FLety0O-n9QU6phsgw",
+    "snippet": {
+      "title": "colinfurze",
+      "description": "This channel is the home of crazy inventions, brilliant world records and constant disregard to health and safety. I guarantee you will not be disappointed with the videos uploaded as there some of the best and most original on the net and it is TV shows that copy me not the other way round. Thanks and hope you have enjoyed the ride.\n\n\nTHE BEST CHANNEL ON YOUTUBE",
+      "customUrl": "colinfurze",
+      "publishedAt": "2006-11-15T23:10:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTWrAbNae7KLveBBT3ZeC1bM__d1w0uJbIfyLAy=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTWrAbNae7KLveBBT3ZeC1bM__d1w0uJbIfyLAy=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTWrAbNae7KLveBBT3ZeC1bM__d1w0uJbIfyLAy=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "colinfurze",
+        "description": "This channel is the home of crazy inventions, brilliant world records and constant disregard to health and safety. I guarantee you will not be disappointed with the videos uploaded as there some of the best and most original on the net and it is TV shows that copy me not the other way round. Thanks and hope you have enjoyed the ride.\n\n\nTHE BEST CHANNEL ON YOUTUBE"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUp68_FLety0O-n9QU6phsgw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1371126623",
+      "subscriberCount": "11500000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "322"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "colinfurze",
+        "description": "This channel is the home of crazy inventions, brilliant world records and constant disregard to health and safety. I guarantee you will not be disappointed with the videos uploaded as there some of the best and most original on the net and it is TV shows that copy me not the other way round. Thanks and hope you have enjoyed the ride.\n\n\nTHE BEST CHANNEL ON YOUTUBE",
+        "keywords": "Colin furze britsh engineering maker fabrication inventions inventor crazy vehicles",
+        "unsubscribedTrailer": "s4-gMgdsnHQ",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/muZ52UEfOPu69FcRAimtNGKiU-Xsu3Z3uhkZx6bL0sRwX60vHFke_T0DseV-6BdYjUhgbSp8trY"
+      }
+    }
+  }
+}

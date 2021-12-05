@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCrPUg54jUy1T_wII9jgdRbg",
+  "retrieved_on": "2021-12-05 03:47:30.960873",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "RKP0NB5Nq9o5S82JN4GKmAjQvAc",
+    "id": "UCrPUg54jUy1T_wII9jgdRbg",
+    "snippet": {
+      "title": "Chris Ramsay",
+      "description": "Here you'll find Magic, Puzzles, Vlogs and a combination of all three.",
+      "customUrl": "chrisramsay52",
+      "publishedAt": "2011-12-15T04:03:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTD_pX0FFTPjU1N6eTHAoh8zUyahtk11xaUNa4YZA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTD_pX0FFTPjU1N6eTHAoh8zUyahtk11xaUNa4YZA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTD_pX0FFTPjU1N6eTHAoh8zUyahtk11xaUNa4YZA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Chris Ramsay",
+        "description": "Here you'll find Magic, Puzzles, Vlogs and a combination of all three."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUrPUg54jUy1T_wII9jgdRbg"
+      }
+    },
+    "statistics": {
+      "viewCount": "935875985",
+      "subscriberCount": "5380000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "746"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chris Ramsay",
+        "description": "Here you'll find Magic, Puzzles, Vlogs and a combination of all three.",
+        "keywords": "puzzle puzzles \"street magic\" magic magician tutorial beginner solved solving hardest \"impossible puzzle\"",
+        "unsubscribedTrailer": "I4_OohISn6Q",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/I8gWLo2hZOgBVQ8wgj50dPs2zCU3rOawkXFCqNMMlKm1qdzJJ3hPPJnbCdP1gtKFcEziJmM5sw"
+      }
+    }
+  }
+}

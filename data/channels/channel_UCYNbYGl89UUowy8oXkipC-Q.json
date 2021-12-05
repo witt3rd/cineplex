@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
+  "retrieved_on": "2021-12-05 03:47:33.852138",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BhAF1QrGV0NqLVX-v9AVjmjayP4",
+    "id": "UCYNbYGl89UUowy8oXkipC-Q",
+    "snippet": {
+      "title": "Dr. Becky",
+      "description": "Your friendly neighbourhood astrophysicist. \n\nI'm Dr Becky Smethurst, an astrophysicist at the University of Oxford. I love making videos about science with an unnatural level of enthusiasm. I like to focus on how we know things, not just what we know. And especially, the things we still don't know. If you've ever wondered about something in space and couldn't find an answer online - you can ask me!\n\n\nI have also written a book, 'Space: 10 Things You Should Know': https://bit.ly/SpaceDrBecky\n\nIn the US & Canada the same book has a different title - 'Space at the Speed of Light': https://bit.ly/SpaceDrBeckySmethurst\n\nMy day job is to do research into how supermassive black holes can affect the galaxies that they live in. In particular, I look at whether the energy output from the disk of material orbiting around a growing supermassive black hole can stop a galaxy from forming stars.\n\nChannel art by Megan Smethurst: https://www.instagram.com/megansmethurst_gdesign/",
+      "customUrl": "drbecky",
+      "publishedAt": "2011-11-14T19:37:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Hijw41yDjhW1lnSSCzrIXIGQM9U-r8_rPOxT=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Hijw41yDjhW1lnSSCzrIXIGQM9U-r8_rPOxT=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ3Hijw41yDjhW1lnSSCzrIXIGQM9U-r8_rPOxT=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dr. Becky",
+        "description": "Your friendly neighbourhood astrophysicist. \n\nI'm Dr Becky Smethurst, an astrophysicist at the University of Oxford. I love making videos about science with an unnatural level of enthusiasm. I like to focus on how we know things, not just what we know. And especially, the things we still don't know. If you've ever wondered about something in space and couldn't find an answer online - you can ask me!\n\n\nI have also written a book, 'Space: 10 Things You Should Know': https://bit.ly/SpaceDrBecky\n\nIn the US & Canada the same book has a different title - 'Space at the Speed of Light': https://bit.ly/SpaceDrBeckySmethurst\n\nMy day job is to do research into how supermassive black holes can affect the galaxies that they live in. In particular, I look at whether the energy output from the disk of material orbiting around a growing supermassive black hole can stop a galaxy from forming stars.\n\nChannel art by Megan Smethurst: https://www.instagram.com/megansmethurst_gdesign/"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYNbYGl89UUowy8oXkipC-Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "21538967",
+      "subscriberCount": "350000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "172"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dr. Becky",
+        "description": "Your friendly neighbourhood astrophysicist. \n\nI'm Dr Becky Smethurst, an astrophysicist at the University of Oxford. I love making videos about science with an unnatural level of enthusiasm. I like to focus on how we know things, not just what we know. And especially, the things we still don't know. If you've ever wondered about something in space and couldn't find an answer online - you can ask me!\n\n\nI have also written a book, 'Space: 10 Things You Should Know': https://bit.ly/SpaceDrBecky\n\nIn the US & Canada the same book has a different title - 'Space at the Speed of Light': https://bit.ly/SpaceDrBeckySmethurst\n\nMy day job is to do research into how supermassive black holes can affect the galaxies that they live in. In particular, I look at whether the energy output from the disk of material orbiting around a growing supermassive black hole can stop a galaxy from forming stars.\n\nChannel art by Megan Smethurst: https://www.instagram.com/megansmethurst_gdesign/",
+        "keywords": "astronomy space physics astrophysics science scicomm cosmology cosmos \"becky smethurst\" \"dr becky\" \"female scientist\" \"female physicist\" \"women in science\" \"women in STEM\" \"black holes\" \"solar system\" universe stargazing \"night sky\" \"dark matter\" aliens academia oxford oxbridge \"student life\" \"oxford university\" \"college life\" \"university life\" \"study with me\" research researcher",
+        "unsubscribedTrailer": "XW_qIqLhPkI",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Z3K7onJclFS7ld6V2dERSBzI74sj2u-txr84A0O8Vv-rZM0z9RATpKo4XUsRvnlYeeCK1wBSYH0"
+      }
+    }
+  }
+}

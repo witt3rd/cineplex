@@ -1,0 +1,52 @@
+{
+  "channel_id": "UC1Kxtc6DOexi4JT-t57Ey9g",
+  "retrieved_on": "2021-12-05 03:47:30.163164",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "EUPZQ1trK4v-GFA_Exl3w_huCFU",
+    "id": "UC1Kxtc6DOexi4JT-t57Ey9g",
+    "snippet": {
+      "title": "Applied Category Theory",
+      "description": "",
+      "publishedAt": "2020-06-13T20:15:22.007067Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQyfvWFsgwXm73QlBbYYRjxoFdo21Vxscifbg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQyfvWFsgwXm73QlBbYYRjxoFdo21Vxscifbg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQyfvWFsgwXm73QlBbYYRjxoFdo21Vxscifbg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Applied Category Theory",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU1Kxtc6DOexi4JT-t57Ey9g"
+      }
+    },
+    "statistics": {
+      "viewCount": "26788",
+      "subscriberCount": "1140",
+      "hiddenSubscriberCount": false,
+      "videoCount": "63"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Applied Category Theory"
+      }
+    }
+  }
+}

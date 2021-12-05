@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCgTNupxATBfWmfehv21ym-g",
+  "retrieved_on": "2021-12-05 03:47:36.348913",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "43EzD9iplRH96nBP_0F26vDQerQ",
+    "id": "UCgTNupxATBfWmfehv21ym-g",
+    "snippet": {
+      "title": "Null Byte",
+      "description": "The official Null Byte channel for video content! We focus on creating videos for aspiring ethical hackers, computer scientists, and the infosec community.",
+      "customUrl": "nullbytewht",
+      "publishedAt": "2017-07-04T22:47:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS1xSh3DWY-lpQZXHhGiBN_ms8tUQlPi3qK34Zo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS1xSh3DWY-lpQZXHhGiBN_ms8tUQlPi3qK34Zo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS1xSh3DWY-lpQZXHhGiBN_ms8tUQlPi3qK34Zo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Null Byte",
+        "description": "The official Null Byte channel for video content! We focus on creating videos for aspiring ethical hackers, computer scientists, and the infosec community."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgTNupxATBfWmfehv21ym-g"
+      }
+    },
+    "statistics": {
+      "viewCount": "33346476",
+      "subscriberCount": "803000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "231"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Null Byte",
+        "description": "The official Null Byte channel for video content! We focus on creating videos for aspiring ethical hackers, computer scientists, and the infosec community.",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/4m4ndrshgDhpVUoF-yHrR2mxRWYMWY1uBh5e8w0qMBpAi3h4VgacYryvV-Ab8KxzVUjmG6GL8A"
+      }
+    }
+  }
+}

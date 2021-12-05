@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCWnPjmqvljcafA0z2U1fwKQ",
+  "retrieved_on": "2021-12-05 03:47:32.898582",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "vVKKBhmSmk4ELhYyBfmgDlDvvUI",
+    "id": "UCWnPjmqvljcafA0z2U1fwKQ",
+    "snippet": {
+      "title": "Confreaks",
+      "description": "Videos recorded and/or hosted by Confreaks, generally in the technology space.",
+      "customUrl": "confreaks",
+      "publishedAt": "2007-04-03T16:01:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpNVggGy_05WQ89iM7KUGV6momNVEMFnwaQNPu3g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpNVggGy_05WQ89iM7KUGV6momNVEMFnwaQNPu3g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTpNVggGy_05WQ89iM7KUGV6momNVEMFnwaQNPu3g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Confreaks",
+        "description": "Videos recorded and/or hosted by Confreaks, generally in the technology space."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUWnPjmqvljcafA0z2U1fwKQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "8665446",
+      "subscriberCount": "41100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "4556"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Confreaks",
+        "description": "Videos recorded and/or hosted by Confreaks, generally in the technology space.",
+        "keywords": "ruby javascript clojure technology \"programming language\" elixir ember rust rails \"computer science\" programming \"tech conference\" python devops devopsdays react",
+        "moderateComments": true,
+        "unsubscribedTrailer": "LxdktZ4JKnQ"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/kN4tRTiUMXbANHKPGnzb-CKjbKzoYwHZWwwlLulGvP-l_QVL3dKBYaai7lgohJc2-8GpdouQ"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "channel_id": "UC90bgzPfkV4KbpgVkh6BX_A",
+  "retrieved_on": "2021-12-05 03:47:30.682795",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "StccfYZgRXS8RT7gEakDyvz1a0k",
+    "id": "UC90bgzPfkV4KbpgVkh6BX_A",
+    "snippet": {
+      "title": "lindebladmusic",
+      "description": "",
+      "publishedAt": "2011-07-12T18:08:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS70lBA-kpkjPEqWHy4FbJyvtGjNL18RdM2ocfs=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS70lBA-kpkjPEqWHy4FbJyvtGjNL18RdM2ocfs=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS70lBA-kpkjPEqWHy4FbJyvtGjNL18RdM2ocfs=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "lindebladmusic",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU90bgzPfkV4KbpgVkh6BX_A"
+      }
+    },
+    "statistics": {
+      "viewCount": "403060",
+      "subscriberCount": "899",
+      "hiddenSubscriberCount": false,
+      "videoCount": "533"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "lindebladmusic",
+        "unsubscribedTrailer": "hy-ZibfcHsg",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/OUEzsWx-JHcrKEBpatQnXtuZ3dG_ArXd8p7G_EgJBfjMno6Px-6f5EeMQHDv6x7EvktLyeKQrA"
+      }
+    }
+  }
+}

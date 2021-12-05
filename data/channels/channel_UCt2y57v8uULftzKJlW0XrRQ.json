@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCt2y57v8uULftzKJlW0XrRQ",
+  "retrieved_on": "2021-12-05 03:47:33.604494",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JW7qIVeK3zORQ2ZelmfJmM8U_Qg",
+    "id": "UCt2y57v8uULftzKJlW0XrRQ",
+    "snippet": {
+      "title": "uliwitness",
+      "description": "",
+      "publishedAt": "2006-06-29T09:20:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlGY5R1SetGZdEwofo3f1rajG7mUbAlMQKMTe6=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlGY5R1SetGZdEwofo3f1rajG7mUbAlMQKMTe6=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlGY5R1SetGZdEwofo3f1rajG7mUbAlMQKMTe6=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "uliwitness",
+        "description": ""
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUt2y57v8uULftzKJlW0XrRQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "33351",
+      "subscriberCount": "392",
+      "hiddenSubscriberCount": false,
+      "videoCount": "415"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "uliwitness",
+        "keywords": "gaming story programming developer \"star trek\" \"star wars\"",
+        "moderateComments": true,
+        "country": "DE"
+      }
+    }
+  }
+}

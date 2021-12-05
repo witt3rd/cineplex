@@ -1,0 +1,53 @@
+{
+  "channel_id": "UCwR7VHNgbqZ0nfiwYMwF7Cw",
+  "retrieved_on": "2021-12-05 03:47:38.208174",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "hw_VM3KyroelJxT9HStnEAC9NFM",
+    "id": "UCwR7VHNgbqZ0nfiwYMwF7Cw",
+    "snippet": {
+      "title": "Outdigo",
+      "description": "Seeking the turth?\n\nHere are some useful touchstones for the mind:\n\nHow to Lose Your Mind in Under an Hour:\n\nEnglish: http://www.lulu.com/items/volume_16/264000/264495/18/print/264495.pdf\nHebrew: http://efipaz.com/Daat.pdf\n\nAdyashanti:\nhttp://youtube.com/user/adyashanti\n\nMooji:\nhttp://www.youtube.com/view_play_list?p=0CA399263BD210C4&playnext=1&playnext_from=PL\n\nAnthony De Mello:\nhttp://www.youtube.com/watch?v=4Y3Q7H2urto&feature=PlayList&p=EC25151943DE0F35&index=0&playnext=1\n\nAlan Watts:\nhttp://www.youtube.com/view_play_list?p=362D5BD7AC9F6CFB\n\nJiddu Krishnamurti:\nhttp://www.youtube.com/profile?user=seastarwatcher&view=playlists\n\nALL paths leads to ONE.",
+      "publishedAt": "2006-08-04T13:39:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThogl5q0p52Esr69cdCdN3AuKNd5ECDx8J6ZVN=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThogl5q0p52Esr69cdCdN3AuKNd5ECDx8J6ZVN=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLThogl5q0p52Esr69cdCdN3AuKNd5ECDx8J6ZVN=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Outdigo",
+        "description": "Seeking the turth?\n\nHere are some useful touchstones for the mind:\n\nHow to Lose Your Mind in Under an Hour:\n\nEnglish: http://www.lulu.com/items/volume_16/264000/264495/18/print/264495.pdf\nHebrew: http://efipaz.com/Daat.pdf\n\nAdyashanti:\nhttp://youtube.com/user/adyashanti\n\nMooji:\nhttp://www.youtube.com/view_play_list?p=0CA399263BD210C4&playnext=1&playnext_from=PL\n\nAnthony De Mello:\nhttp://www.youtube.com/watch?v=4Y3Q7H2urto&feature=PlayList&p=EC25151943DE0F35&index=0&playnext=1\n\nAlan Watts:\nhttp://www.youtube.com/view_play_list?p=362D5BD7AC9F6CFB\n\nJiddu Krishnamurti:\nhttp://www.youtube.com/profile?user=seastarwatcher&view=playlists\n\nALL paths leads to ONE."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwR7VHNgbqZ0nfiwYMwF7Cw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2782477",
+      "subscriberCount": "2080",
+      "hiddenSubscriberCount": false,
+      "videoCount": "53"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Outdigo",
+        "description": "Seeking the turth?\n\nHere are some useful touchstones for the mind:\n\nHow to Lose Your Mind in Under an Hour:\n\nEnglish: http://www.lulu.com/items/volume_16/264000/264495/18/print/264495.pdf\nHebrew: http://efipaz.com/Daat.pdf\n\nAdyashanti:\nhttp://youtube.com/user/adyashanti\n\nMooji:\nhttp://www.youtube.com/view_play_list?p=0CA399263BD210C4&playnext=1&playnext_from=PL\n\nAnthony De Mello:\nhttp://www.youtube.com/watch?v=4Y3Q7H2urto&feature=PlayList&p=EC25151943DE0F35&index=0&playnext=1\n\nAlan Watts:\nhttp://www.youtube.com/view_play_list?p=362D5BD7AC9F6CFB\n\nJiddu Krishnamurti:\nhttp://www.youtube.com/profile?user=seastarwatcher&view=playlists\n\nALL paths leads to ONE."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCnw33kRSHT8736gwEERDswA",
+  "retrieved_on": "2021-12-05 03:47:39.693650",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "-ZtZnRHnUTKcrMLnwpZ8EycfQVw",
+    "id": "UCnw33kRSHT8736gwEERDswA",
+    "snippet": {
+      "title": "Michael Gilliland",
+      "description": "",
+      "customUrl": "michaelgillilandmjgpy3",
+      "publishedAt": "2012-05-02T19:39:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT4Csd7HntsmHH2xAFhSuxZ_zICCpqWklblQaUksJQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT4Csd7HntsmHH2xAFhSuxZ_zICCpqWklblQaUksJQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT4Csd7HntsmHH2xAFhSuxZ_zICCpqWklblQaUksJQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Michael Gilliland",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUnw33kRSHT8736gwEERDswA"
+      }
+    },
+    "statistics": {
+      "viewCount": "83448",
+      "subscriberCount": "925",
+      "hiddenSubscriberCount": false,
+      "videoCount": "233"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Michael Gilliland",
+        "keywords": "haskell \"functional programming\" f# fsharp programming coding \"coding challenges\" hacking testing software tech"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/VpI3BHDsTDzIA602EGD7SCWvLoQ_l4Nv5hPTFlqGUzDIWyeTrV1Pi15KdDJwc9XJlvuuC8yv"
+      }
+    }
+  }
+}

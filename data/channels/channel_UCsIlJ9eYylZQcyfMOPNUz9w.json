@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCsIlJ9eYylZQcyfMOPNUz9w",
+  "retrieved_on": "2021-12-05 03:47:40.782157",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HCVhAjtsE6-bA4150d2Lg32q-WQ",
+    "id": "UCsIlJ9eYylZQcyfMOPNUz9w",
+    "snippet": {
+      "title": "Bright Insight",
+      "description": "I'm Jimmy Corsetti, and my channel is called Bright Insight. I intend to share interesting, and otherwise unknown information with as many as I can. I'm combining my unique background and life experience to make thought-provoking video presentations. I enjoy asking questions, and creating conversations. My goal is to get people to think for themselves. The truth is found with an open mind, and the truth is often stranger than fiction.\n\nAbout Jimmy:\n- Independent researcher\n- Former Theft/Fraud Investigator\n- Army/Iraq war Vet who woke up\nEducation: \n- MBA w/Marketing focus\n- Bachelor of Communication & Sociology; Minor: Religious Studies\n- Thousands of hours of research in subjects such as, lost ancient civilizations, philosophy, spirituality and the cosmos.\n\nHelp support my efforts by contributing to my Patreon! https://www.patreon.com/BrightInsight",
+      "customUrl": "brightinsight",
+      "publishedAt": "2016-06-04T19:45:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbEoW5vjHdCMVyVCpgayJk5EkHC7s8WID1HLYlIw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbEoW5vjHdCMVyVCpgayJk5EkHC7s8WID1HLYlIw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbEoW5vjHdCMVyVCpgayJk5EkHC7s8WID1HLYlIw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Bright Insight",
+        "description": "I'm Jimmy Corsetti, and my channel is called Bright Insight. I intend to share interesting, and otherwise unknown information with as many as I can. I'm combining my unique background and life experience to make thought-provoking video presentations. I enjoy asking questions, and creating conversations. My goal is to get people to think for themselves. The truth is found with an open mind, and the truth is often stranger than fiction.\n\nAbout Jimmy:\n- Independent researcher\n- Former Theft/Fraud Investigator\n- Army/Iraq war Vet who woke up\nEducation: \n- MBA w/Marketing focus\n- Bachelor of Communication & Sociology; Minor: Religious Studies\n- Thousands of hours of research in subjects such as, lost ancient civilizations, philosophy, spirituality and the cosmos.\n\nHelp support my efforts by contributing to my Patreon! https://www.patreon.com/BrightInsight"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUsIlJ9eYylZQcyfMOPNUz9w"
+      }
+    },
+    "statistics": {
+      "viewCount": "107379608",
+      "subscriberCount": "1230000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "100"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Bright Insight",
+        "description": "I'm Jimmy Corsetti, and my channel is called Bright Insight. I intend to share interesting, and otherwise unknown information with as many as I can. I'm combining my unique background and life experience to make thought-provoking video presentations. I enjoy asking questions, and creating conversations. My goal is to get people to think for themselves. The truth is found with an open mind, and the truth is often stranger than fiction.\n\nAbout Jimmy:\n- Independent researcher\n- Former Theft/Fraud Investigator\n- Army/Iraq war Vet who woke up\nEducation: \n- MBA w/Marketing focus\n- Bachelor of Communication & Sociology; Minor: Religious Studies\n- Thousands of hours of research in subjects such as, lost ancient civilizations, philosophy, spirituality and the cosmos.\n\nHelp support my efforts by contributing to my Patreon! https://www.patreon.com/BrightInsight",
+        "keywords": "\"bright insight\" \"lost ancient civilizations\" \"bright inside\" \"bright side\" \"ancient civilizations\" \"ancient history\" \"ancient aliens\" \"ancient technology\" \"lost ancient technology\" \"ancient Egyptians\" Egyptians pyramids \"pyramids of Egypt\" sphinx \"great pyramid\" \"the great pyramid of Giza\" jimmy \"bright insight jimmy\" \"ancient mysteries\" aliens",
+        "moderateComments": true,
+        "unsubscribedTrailer": "U5kEzxOb-3c",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/54NIRvgjgUrTT-QSK-ENa6xvyPjOSgAc0HL--iIl6ztFKRRa-yMN2FJ8zsDgxGtEmamTzLem_Q"
+      }
+    }
+  }
+}

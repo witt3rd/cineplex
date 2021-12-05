@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC3YWS1b4i-RrTFlQPc3lUrg",
+  "retrieved_on": "2021-12-05 03:47:32.314639",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "b57AkA9p7Gi5x9mimcNymSm0FUQ",
+    "id": "UC3YWS1b4i-RrTFlQPc3lUrg",
+    "snippet": {
+      "title": "Remain Indoors",
+      "description": "",
+      "customUrl": "remainindoors",
+      "publishedAt": "2014-12-18T02:23:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRI-jA0hcFuWmyTi6kXqE6bSYbkveKa26lMWQfQxQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRI-jA0hcFuWmyTi6kXqE6bSYbkveKa26lMWQfQxQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRI-jA0hcFuWmyTi6kXqE6bSYbkveKa26lMWQfQxQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Remain Indoors",
+        "description": ""
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3YWS1b4i-RrTFlQPc3lUrg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1692886",
+      "subscriberCount": "9400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "26"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Remain Indoors",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/PxEFETQg0siXmA8exB-FOBErvULpxrrM27LP1k1O8hcQcv_aXEo7h6bqh-w0EG1gRrAxvqqv"
+      }
+    }
+  }
+}

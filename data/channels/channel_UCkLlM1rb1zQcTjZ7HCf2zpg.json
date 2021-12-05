@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCkLlM1rb1zQcTjZ7HCf2zpg",
+  "retrieved_on": "2021-12-05 03:47:31.805384",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rtGq_hrHgtROveMyNpYaV7YBUJs",
+    "id": "UCkLlM1rb1zQcTjZ7HCf2zpg",
+    "snippet": {
+      "title": "Functional Justin",
+      "description": "This channel is all about functional programming, mostly using the Scala language. Each video is a self contained subject in which I cover the theory, implement the concepts then show how they can be used in typical programs. Updates every two weeks!",
+      "customUrl": "functionaljustin",
+      "publishedAt": "2020-11-19T03:06:56.971697Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ_7P2pHNJPxeLlLbIkcTd0RVceIHFSRWX4bk9N=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ_7P2pHNJPxeLlLbIkcTd0RVceIHFSRWX4bk9N=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ_7P2pHNJPxeLlLbIkcTd0RVceIHFSRWX4bk9N=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Functional Justin",
+        "description": "This channel is all about functional programming, mostly using the Scala language. Each video is a self contained subject in which I cover the theory, implement the concepts then show how they can be used in typical programs. Updates every two weeks!"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkLlM1rb1zQcTjZ7HCf2zpg"
+      }
+    },
+    "statistics": {
+      "viewCount": "8998",
+      "subscriberCount": "587",
+      "hiddenSubscriberCount": false,
+      "videoCount": "15"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Functional Justin",
+        "description": "This channel is all about functional programming, mostly using the Scala language. Each video is a self contained subject in which I cover the theory, implement the concepts then show how they can be used in typical programs. Updates every two weeks!",
+        "keywords": "Scala Programming \"Functional Programming\" \"Programming Tutorials\" \"Scala 3\" Dotty \"Typelevel programming\" ZIO",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/5ntPqUxAuRAlQB0Vo81psUPW3USRisPreRc1Umv8cX5I1YpgIapo5hIwV2xEkhiabiqtfsQe"
+      }
+    }
+  }
+}

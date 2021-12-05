@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCL4QnJfhDPSZwlUI3rkftdg",
+  "retrieved_on": "2021-12-05 03:47:32.034226",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mkOvueUBMEW2WA8geZoq9UGJudU",
+    "id": "UCL4QnJfhDPSZwlUI3rkftdg",
+    "snippet": {
+      "title": "Geytkeypur",
+      "description": "BG Music for Homework, Meditation, Study, Sleep, Chores, etc.\n\nIf you are an artist, and would like me to upload and promote your music, please consider donating\u2014 I would love to work with new artists and discover new music and expand its sphere of influence, but this helps to compensate for the enormous amount of work involved in making sure that your work is handled perfectly. Artists: We appreciate what you do, there would be no music to loop unless you composed it! \ud83d\ude0a\n",
+      "customUrl": "geytkeypur",
+      "publishedAt": "2010-02-05T06:43:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQDR8ZXGbgmGa1S1iFdYIarlekkoSKEOsDUHD8h=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQDR8ZXGbgmGa1S1iFdYIarlekkoSKEOsDUHD8h=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQDR8ZXGbgmGa1S1iFdYIarlekkoSKEOsDUHD8h=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Geytkeypur",
+        "description": "BG Music for Homework, Meditation, Study, Sleep, Chores, etc.\n\nIf you are an artist, and would like me to upload and promote your music, please consider donating\u2014 I would love to work with new artists and discover new music and expand its sphere of influence, but this helps to compensate for the enormous amount of work involved in making sure that your work is handled perfectly. Artists: We appreciate what you do, there would be no music to loop unless you composed it! \ud83d\ude0a\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUL4QnJfhDPSZwlUI3rkftdg"
+      }
+    },
+    "statistics": {
+      "viewCount": "63392476",
+      "subscriberCount": "120000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "634"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Geytkeypur",
+        "description": "BG Music for Homework, Meditation, Study, Sleep, Chores, etc.\n\nIf you are an artist, and would like me to upload and promote your music, please consider donating\u2014 I would love to work with new artists and discover new music and expand its sphere of influence, but this helps to compensate for the enormous amount of work involved in making sure that your work is handled perfectly. Artists: We appreciate what you do, there would be no music to loop unless you composed it! \ud83d\ude0a\n",
+        "moderateComments": true,
+        "unsubscribedTrailer": "ABSrtoNDYRk",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/z4gaOFiQimaecAd4dIwGdEw5dW_2JgI9EX9hzSCxsCzWs98hRD8MqJJvNlyV3UEsVWHb6HlP"
+      }
+    }
+  }
+}

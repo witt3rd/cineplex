@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC6OWdkXkxJZYDuIKiXdI0iA",
+  "retrieved_on": "2021-12-05 03:47:33.852113",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "WoIDoBZDHpUy0IsRPiNsYvvwx0A",
+    "id": "UC6OWdkXkxJZYDuIKiXdI0iA",
+    "snippet": {
+      "title": "Workin' Things Out",
+      "description": "Money, Career, Health, Family.  I'm just Workin' Things Out like everyone else.\n\nFor me it begins with my health.  I've started a diet and exercise VLOG to help keep myself motivated.\n\nI would like to connect with others going through any of the same things I'm facing.  Please leave a Comment or Subscribe!",
+      "customUrl": "workinthingsout",
+      "publishedAt": "2016-08-16T02:28:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/wHY3CFCl4nPS5WZa5Pp2WU1WbT-HEr5gTNfzFu2huYalmYhTnJ11Bn0PNHzEYw0IltVTlH5M=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/wHY3CFCl4nPS5WZa5Pp2WU1WbT-HEr5gTNfzFu2huYalmYhTnJ11Bn0PNHzEYw0IltVTlH5M=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/wHY3CFCl4nPS5WZa5Pp2WU1WbT-HEr5gTNfzFu2huYalmYhTnJ11Bn0PNHzEYw0IltVTlH5M=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Workin' Things Out",
+        "description": "Money, Career, Health, Family.  I'm just Workin' Things Out like everyone else.\n\nFor me it begins with my health.  I've started a diet and exercise VLOG to help keep myself motivated.\n\nI would like to connect with others going through any of the same things I'm facing.  Please leave a Comment or Subscribe!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU6OWdkXkxJZYDuIKiXdI0iA"
+      }
+    },
+    "statistics": {
+      "viewCount": "26813394",
+      "subscriberCount": "67300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "362"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Workin' Things Out",
+        "description": "Money, Career, Health, Family.  I'm just Workin' Things Out like everyone else.\n\nFor me it begins with my health.  I've started a diet and exercise VLOG to help keep myself motivated.\n\nI would like to connect with others going through any of the same things I'm facing.  Please leave a Comment or Subscribe!",
+        "keywords": "\"weight loss journey\" \"weight loss transformation\" \"weight loss motivation\"",
+        "moderateComments": true,
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/4rQqP5kMgKLGWnsv51u7SZh-Svl7xZPZ2j7hZulJPjmsM02p-zdk6_7UPS94NoZKk8DYbClyLw"
+      }
+    }
+  }
+}

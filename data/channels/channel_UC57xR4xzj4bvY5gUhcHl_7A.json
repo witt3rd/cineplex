@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC57xR4xzj4bvY5gUhcHl_7A",
+  "retrieved_on": "2021-12-05 03:47:36.095881",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "SDqrXzxzWz7RTQYqOFhpU0dtqh0",
+    "id": "UC57xR4xzj4bvY5gUhcHl_7A",
+    "snippet": {
+      "title": "Prepper Russ",
+      "description": "On my Prepper Russ channel, I make informative and entertaining videos about every prepping and survival scenario you may encounter. From EDC bugout bags to power outage and blackout situations. I'm always working on new doomsday prepping videos, so please let me know if you have a suggestion for future content. ",
+      "customUrl": "prepperruss",
+      "publishedAt": "2020-02-01T18:13:26.57655Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyilBVFYYqsqN0DAoyfdngyAjR0_Znwdk75OQa=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyilBVFYYqsqN0DAoyfdngyAjR0_Znwdk75OQa=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyilBVFYYqsqN0DAoyfdngyAjR0_Znwdk75OQa=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Prepper Russ",
+        "description": "On my Prepper Russ channel, I make informative and entertaining videos about every prepping and survival scenario you may encounter. From EDC bugout bags to power outage and blackout situations. I'm always working on new doomsday prepping videos, so please let me know if you have a suggestion for future content. "
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU57xR4xzj4bvY5gUhcHl_7A"
+      }
+    },
+    "statistics": {
+      "viewCount": "35161",
+      "subscriberCount": "571",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Prepper Russ",
+        "description": "On my Prepper Russ channel, I make informative and entertaining videos about every prepping and survival scenario you may encounter. From EDC bugout bags to power outage and blackout situations. I'm always working on new doomsday prepping videos, so please let me know if you have a suggestion for future content. ",
+        "keywords": "\"survival videos\" \"doomsday prepper\" prepping \"edc bag\" \"bug out bag\" \"get home bag\" \"24 hour bag\" \"72 hour bag\" \"power outage\" \"black out\" \"blackout bag\" \"black out bag\" \"prepper russ\" prepper \"every day carry bag\" survivalist",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/c0ShxtxOe7JgeWe9cBVlRTIHaBiBkI85fTwVnXvPUNmHAvTJhUcAZanSfADZkuM1e4X5x-BO"
+      }
+    }
+  }
+}

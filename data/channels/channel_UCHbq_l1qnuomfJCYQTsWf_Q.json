@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCHbq_l1qnuomfJCYQTsWf_Q",
+  "retrieved_on": "2021-12-05 03:47:39.939389",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "sQoU1x6L3bRRo5k9O_ASHIL-E-Y",
+    "id": "UCHbq_l1qnuomfJCYQTsWf_Q",
+    "snippet": {
+      "title": "Motivation Madness",
+      "description": "Motivational and Inspirational videos to help you through life. Subscribe for daily videos! As Motivation Madness grows we're trying our very best to produce content that everybody is going to find extremely motivational and jaw-dropping. Live your dreams and don't let anyone stop you from doing what makes you happy.\n\n\n",
+      "customUrl": "motivationmadness",
+      "publishedAt": "2014-05-13T14:58:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSf-wbBgRw_L6ljqm-7lFWNn_GmyQBcfjnF-jt6FA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSf-wbBgRw_L6ljqm-7lFWNn_GmyQBcfjnF-jt6FA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSf-wbBgRw_L6ljqm-7lFWNn_GmyQBcfjnF-jt6FA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Motivation Madness",
+        "description": "Motivational and Inspirational videos to help you through life. Subscribe for daily videos! As Motivation Madness grows we're trying our very best to produce content that everybody is going to find extremely motivational and jaw-dropping. Live your dreams and don't let anyone stop you from doing what makes you happy.\n\n\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHbq_l1qnuomfJCYQTsWf_Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "222000110",
+      "subscriberCount": "2790000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "175"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Motivation Madness",
+        "description": "Motivational and Inspirational videos to help you through life. Subscribe for daily videos! As Motivation Madness grows we're trying our very best to produce content that everybody is going to find extremely motivational and jaw-dropping. Live your dreams and don't let anyone stop you from doing what makes you happy.\n\n\n",
+        "keywords": "Motivation \"Motivational Videos\" \"Motivation Madness\" \"Motivational Speech\" \"Motivational Video 2017\" \"Best Motivational Videos\" \"Workout Motivation\" \"Student Motivation\" \"Study Motivation\" \"Tony Robbins 2017\" \"Tony Robbins\" \"Tony Robbins Motivation\" \"Tony Robbins Depression\" \"Les Brown\" \"Les Brown 2017\" \"Les Brown Motivation\" \"Les Brown Depression\" \"Jim Rohn\" \"Jim Rohn 2017\" \"Jim Rohn Motivation\" \"Simon Sinek\"",
+        "unsubscribedTrailer": "TLKxdTmk-zc",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/82SqDvvyVrQr9o7ZNGxKe-4ZIgtqk_2O9pHpKQ6qblN1512L8Rz7ECgo2jrOlnPhJBllJS_d_w"
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "channel_id": "UCPzdi7s3Y0gqIz-zbUyeEAQ",
+  "retrieved_on": "2021-12-05 03:47:34.534382",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5QBupMzjUzJQdEr_0qM8hyrMYrU",
+    "id": "UCPzdi7s3Y0gqIz-zbUyeEAQ",
+    "snippet": {
+      "title": "amancalledjoel",
+      "description": "This is my channel containing different topics by many different people.  With great gratitude I share the works of Stephan Molyneux and Jed Mckenna in particular as well as all others.\nIf I could write or create quality videos, I would.  Thankfully, other people have talent as I only have interest and intent to share.",
+      "publishedAt": "2010-11-03T13:54:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSN4nxb88JzHbkZa7bCO4Ua_wk-r-DxjCUoiw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSN4nxb88JzHbkZa7bCO4Ua_wk-r-DxjCUoiw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSN4nxb88JzHbkZa7bCO4Ua_wk-r-DxjCUoiw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "amancalledjoel",
+        "description": "This is my channel containing different topics by many different people.  With great gratitude I share the works of Stephan Molyneux and Jed Mckenna in particular as well as all others.\nIf I could write or create quality videos, I would.  Thankfully, other people have talent as I only have interest and intent to share."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPzdi7s3Y0gqIz-zbUyeEAQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "62907",
+      "subscriberCount": "256",
+      "hiddenSubscriberCount": false,
+      "videoCount": "21"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "amancalledjoel",
+        "description": "This is my channel containing different topics by many different people.  With great gratitude I share the works of Stephan Molyneux and Jed Mckenna in particular as well as all others.\nIf I could write or create quality videos, I would.  Thankfully, other people have talent as I only have interest and intent to share.",
+        "unsubscribedTrailer": "GE8SeSBpqeM"
+      }
+    }
+  }
+}

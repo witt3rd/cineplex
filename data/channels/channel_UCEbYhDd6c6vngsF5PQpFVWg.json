@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCEbYhDd6c6vngsF5PQpFVWg",
+  "retrieved_on": "2021-12-05 03:47:28.552397",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QgsKxIcllElw-qWkYUoio0qCqgs",
+    "id": "UCEbYhDd6c6vngsF5PQpFVWg",
+    "snippet": {
+      "title": "Tsoding",
+      "description": "Recreational Programming",
+      "customUrl": "tsoding",
+      "publishedAt": "2015-12-18T18:59:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRU3lYbr6wxbNlsRNIYJmqvtnr3zMPq3SPPVA4r=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRU3lYbr6wxbNlsRNIYJmqvtnr3zMPq3SPPVA4r=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRU3lYbr6wxbNlsRNIYJmqvtnr3zMPq3SPPVA4r=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tsoding",
+        "description": "Recreational Programming"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUEbYhDd6c6vngsF5PQpFVWg"
+      }
+    },
+    "statistics": {
+      "viewCount": "785021",
+      "subscriberCount": "15500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "38"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tsoding",
+        "description": "Recreational Programming",
+        "keywords": "Programming Emacs NixOS Scala C++ Livecoding Java Coding",
+        "unsubscribedTrailer": "h_D4P-KRNKs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/34CZjX8d9p_lZMWHOa3Wzk4Oi_2knHsaAe9d63i9oQykXy6E_yTRwiE0KC_8AtKWp1ceJvB52Q"
+      }
+    }
+  }
+}

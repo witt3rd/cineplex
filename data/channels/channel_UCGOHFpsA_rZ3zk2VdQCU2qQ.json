@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCGOHFpsA_rZ3zk2VdQCU2qQ",
+  "retrieved_on": "2021-12-05 03:47:36.809266",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "dlEmnngxf2VDEOVbfcYUUnCdQac",
+    "id": "UCGOHFpsA_rZ3zk2VdQCU2qQ",
+    "snippet": {
+      "title": "Fear N Loathing",
+      "description": "German Techno DJ and Producer.\nDJ Sets, Music Productions , Vlogs, Tutorials and Original Content.\n\nShowcasing the finest underground electronic music has to offer.\nSophisticated and eclectic dj sets uploaded on a regular basis.\n\nAll sessions and tracks are handcrafted by myself.\nYour \"Ansprechpartner\" for Techno.\n\nAbout me:\nPhil - Techno German\n\n\nThis Channel was founded in 2015 by me and Benni who is now continuing as \"Katarakt\"",
+      "customUrl": "fearnloathing",
+      "publishedAt": "2015-11-12T12:35:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjrAuYx0gGdF6kTjjYHu4tvfewllyCvA76ORvBHQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjrAuYx0gGdF6kTjjYHu4tvfewllyCvA76ORvBHQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjrAuYx0gGdF6kTjjYHu4tvfewllyCvA76ORvBHQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fear N Loathing",
+        "description": "German Techno DJ and Producer.\nDJ Sets, Music Productions , Vlogs, Tutorials and Original Content.\n\nShowcasing the finest underground electronic music has to offer.\nSophisticated and eclectic dj sets uploaded on a regular basis.\n\nAll sessions and tracks are handcrafted by myself.\nYour \"Ansprechpartner\" for Techno.\n\nAbout me:\nPhil - Techno German\n\n\nThis Channel was founded in 2015 by me and Benni who is now continuing as \"Katarakt\""
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUGOHFpsA_rZ3zk2VdQCU2qQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "23974420",
+      "subscriberCount": "193000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "122"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Fear N Loathing",
+        "description": "German Techno DJ and Producer.\nDJ Sets, Music Productions , Vlogs, Tutorials and Original Content.\n\nShowcasing the finest underground electronic music has to offer.\nSophisticated and eclectic dj sets uploaded on a regular basis.\n\nAll sessions and tracks are handcrafted by myself.\nYour \"Ansprechpartner\" for Techno.\n\nAbout me:\nPhil - Techno German\n\n\nThis Channel was founded in 2015 by me and Benni who is now continuing as \"Katarakt\"",
+        "keywords": "Underground Techno DJ Producer \"Fear N Loathing\" \"Dark Techno\" Trance \"Hardcore Techno\" \"Hard Techno\" \"Deep Techno\" \"Techno DJ\" \"Dj Mixes\" \"Techno Artist\"",
+        "unsubscribedTrailer": "DJddNaaUkBc",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/4EDpVWdiHEvNIj95MQP1Qut1NDbSvRlKULWID6pTlQJkTWaDqi90eU6SszMy0U3WJ4Y65ZVUvA"
+      }
+    }
+  }
+}

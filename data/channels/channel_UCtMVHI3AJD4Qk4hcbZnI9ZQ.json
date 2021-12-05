@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+  "retrieved_on": "2021-12-05 03:47:29.188898",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ivA_sU66sNA9npRH8OogBveLeVY",
+    "id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+    "snippet": {
+      "title": "SomeOrdinaryGamers",
+      "description": "Let's Play's, Commentaries, Reviews, Hardcore Raging ... we're just a team of Ordinary Gamers... what did YOU expect???",
+      "customUrl": "someordinarygamers",
+      "publishedAt": "2012-03-16T04:45:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRstakoFPh2pwKZPJKufDFdYtGEZey8VhL3ueZEHg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRstakoFPh2pwKZPJKufDFdYtGEZey8VhL3ueZEHg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRstakoFPh2pwKZPJKufDFdYtGEZey8VhL3ueZEHg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SomeOrdinaryGamers",
+        "description": "Let's Play's, Commentaries, Reviews, Hardcore Raging ... we're just a team of Ordinary Gamers... what did YOU expect???"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtMVHI3AJD4Qk4hcbZnI9ZQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "674217548",
+      "subscriberCount": "3000000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2218"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SomeOrdinaryGamers",
+        "description": "Let's Play's, Commentaries, Reviews, Hardcore Raging ... we're just a team of Ordinary Gamers... what did YOU expect???",
+        "keywords": "Gamers Ordinary Some Gaming Mutahar We'll Add More Don't \"Playstation 3\" \"XBOX 360\" Wii Legend Of Zelda Ocarina Time Creepypastas Deep Web Gameplay",
+        "unsubscribedTrailer": "4TcGdrQvsVs",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/o3q285mcuyw158UasuToSrD7iyG-4BmnCln-QYvKkCt5avW_vc2njYxJBPPkZPUujQE5iuEESYc"
+      }
+    }
+  }
+}

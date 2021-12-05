@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCtSQfqA-Sv3DMScpk32vbIg",
+  "retrieved_on": "2021-12-05 03:47:34.308990",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "abFsEUYcrXMv5HYUlAgOd2haPX0",
+    "id": "UCtSQfqA-Sv3DMScpk32vbIg",
+    "snippet": {
+      "title": "conscioustv",
+      "description": "We are a UK based TV channel covering the areas of Consciousness, Science, Non-Duality and Spirituality.\nProgrammes are also available to view on www.conscious.tv. We are currently being broadcast (late at night) on SKY channels 212 and 261 as well as Freesat 401 and Freeview 254.  \n \nWe welcome feedback and suggested guests for future programmes. You can email us at info@conscious.tv with ideas or if you would like to be on our email newsletter lists.\nwww.conscious.tv",
+      "publishedAt": "2008-04-01T09:47:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmmMLR_sY-FrD_pT2GmczRxD3UBfskqWwXaxvy=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmmMLR_sY-FrD_pT2GmczRxD3UBfskqWwXaxvy=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmmMLR_sY-FrD_pT2GmczRxD3UBfskqWwXaxvy=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "conscioustv",
+        "description": "We are a UK based TV channel covering the areas of Consciousness, Science, Non-Duality and Spirituality.\nProgrammes are also available to view on www.conscious.tv. We are currently being broadcast (late at night) on SKY channels 212 and 261 as well as Freesat 401 and Freeview 254.  \n \nWe welcome feedback and suggested guests for future programmes. You can email us at info@conscious.tv with ideas or if you would like to be on our email newsletter lists.\nwww.conscious.tv"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtSQfqA-Sv3DMScpk32vbIg"
+      }
+    },
+    "statistics": {
+      "viewCount": "17154366",
+      "subscriberCount": "90300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "734"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "conscioustv",
+        "description": "We are a UK based TV channel covering the areas of Consciousness, Science, Non-Duality and Spirituality.\nProgrammes are also available to view on www.conscious.tv. We are currently being broadcast (late at night) on SKY channels 212 and 261 as well as Freesat 401 and Freeview 254.  \n \nWe welcome feedback and suggested guests for future programmes. You can email us at info@conscious.tv with ideas or if you would like to be on our email newsletter lists.\nwww.conscious.tv",
+        "keywords": "Consciousness Non Duality Healing Ug Krishnamurti Advaita",
+        "moderateComments": true,
+        "unsubscribedTrailer": "Ka9bWZZWkIk"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Z0xUMamakx2tdwjeXxx2zXLtziurEv4pTtaGypZBnEGeCD9Kve9LC5hu8gof4Xs1o46HVu1MzA0"
+      }
+    }
+  }
+}

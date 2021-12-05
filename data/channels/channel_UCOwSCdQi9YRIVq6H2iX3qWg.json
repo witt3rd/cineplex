@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCOwSCdQi9YRIVq6H2iX3qWg",
+  "retrieved_on": "2021-12-05 03:47:30.436629",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QEMiWSu92gFvedwOE713cIDq3Gg",
+    "id": "UCOwSCdQi9YRIVq6H2iX3qWg",
+    "snippet": {
+      "title": "Professor of Rock",
+      "description": "A channel celebrating the power of music - featuring stories of the greatest songs and artists of the Rock Era, as told by the artists themselves",
+      "customUrl": "professorofrock",
+      "publishedAt": "2016-04-22T19:24:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSHNxBc3nz3AWaixJCqQ7qAEC0LJCtz8h8OR7nx9A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSHNxBc3nz3AWaixJCqQ7qAEC0LJCtz8h8OR7nx9A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSHNxBc3nz3AWaixJCqQ7qAEC0LJCtz8h8OR7nx9A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Professor of Rock",
+        "description": "A channel celebrating the power of music - featuring stories of the greatest songs and artists of the Rock Era, as told by the artists themselves"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOwSCdQi9YRIVq6H2iX3qWg"
+      }
+    },
+    "statistics": {
+      "viewCount": "39732569",
+      "subscriberCount": "405000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "498"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Professor of Rock",
+        "description": "A channel celebrating the power of music - featuring stories of the greatest songs and artists of the Rock Era, as told by the artists themselves",
+        "keywords": "\"rock and roll\" \"pop music\" rock \"80s vinyl\" \"the professor of rock\" \"vinyl community\" aor \"mini doc\" 80s 70s 90s \"new wave\" \"entertainment news\" \"professor of rock\" \"top 80s songs\" \"forgotten songs of the 80s\" \"rock and roll\" 1980s 1990s 1970s \"billboard hot 100\" \"keep the music alive\" \"rock community\" rock \"pop fix\" vox \"#1 in our hearts\" \"music community\" interview \"story of\" reaction \"music history\" \"music community\" story \"80s hidden gems\" \"hidden gems\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "Ee9x-DU7FHs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/o3cruEaLKFnPxoPgq969qG2YncmasRJN3hkgN78gPYV84TVseO8TmscCmWY2fCMWBMDxe5ZnIg"
+      }
+    }
+  }
+}

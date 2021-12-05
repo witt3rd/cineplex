@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCTWJzxNdsIDHiYzGh-2Fd1w",
+  "retrieved_on": "2021-12-05 03:47:37.250697",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "2e7Smsghs_Rvz-93oFSO1RrTdv0",
+    "id": "UCTWJzxNdsIDHiYzGh-2Fd1w",
+    "snippet": {
+      "title": "Dan Cox",
+      "description": "I have been creating video tutorials on tools and programming languages associated with narrative games for over six years. I am best known for tutorial videos on Twine, but I also highlight different interactive fiction tools like Ren'Py, Inform, and Ink as well.",
+      "customUrl": "dancox",
+      "publishedAt": "2011-12-04T09:30:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2zYM0boYH_njTH3vLO2z2g4rp1LyeVWn47Ajttg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2zYM0boYH_njTH3vLO2z2g4rp1LyeVWn47Ajttg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2zYM0boYH_njTH3vLO2z2g4rp1LyeVWn47Ajttg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Dan Cox",
+        "description": "I have been creating video tutorials on tools and programming languages associated with narrative games for over six years. I am best known for tutorial videos on Twine, but I also highlight different interactive fiction tools like Ren'Py, Inform, and Ink as well."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTWJzxNdsIDHiYzGh-2Fd1w"
+      }
+    },
+    "statistics": {
+      "viewCount": "689814",
+      "subscriberCount": "3290",
+      "hiddenSubscriberCount": false,
+      "videoCount": "395"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Dan Cox",
+        "description": "I have been creating video tutorials on tools and programming languages associated with narrative games for over six years. I am best known for tutorial videos on Twine, but I also highlight different interactive fiction tools like Ren'Py, Inform, and Ink as well.",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/ZRcshwL2ekATDBxOoHbQRp0Gb0cHCFfi1eOnKx3d6OnyY0FQgnIpi4Cqh94rTYWR9yyw_hl12w"
+      }
+    }
+  }
+}

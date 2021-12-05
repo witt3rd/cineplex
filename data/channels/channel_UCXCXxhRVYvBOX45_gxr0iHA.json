@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCXCXxhRVYvBOX45_gxr0iHA",
+  "retrieved_on": "2021-12-05 03:47:34.084428",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "AkQ4sHAvd0Lz7Nf9SINwqj2OvT8",
+    "id": "UCXCXxhRVYvBOX45_gxr0iHA",
+    "snippet": {
+      "title": "Christian Henson Music",
+      "description": "Adventures in the composing and sampling trade with an Ivor Novello and BAFTA nominated composer and co-founder of Spitfire Audio.",
+      "customUrl": "christianhensonmusic",
+      "publishedAt": "2017-04-29T09:15:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/mRHYdKDTtcVw2zC4bP_anJL2XJcT4BagcU9ZR71ep9jVM5PaWDxGvJ2yaTPjCAnCBwuBTncejw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/mRHYdKDTtcVw2zC4bP_anJL2XJcT4BagcU9ZR71ep9jVM5PaWDxGvJ2yaTPjCAnCBwuBTncejw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/mRHYdKDTtcVw2zC4bP_anJL2XJcT4BagcU9ZR71ep9jVM5PaWDxGvJ2yaTPjCAnCBwuBTncejw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Christian Henson Music",
+        "description": "Adventures in the composing and sampling trade with an Ivor Novello and BAFTA nominated composer and co-founder of Spitfire Audio."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXCXxhRVYvBOX45_gxr0iHA"
+      }
+    },
+    "statistics": {
+      "viewCount": "7779425",
+      "subscriberCount": "107000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "437"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Christian Henson Music",
+        "description": "Adventures in the composing and sampling trade with an Ivor Novello and BAFTA nominated composer and co-founder of Spitfire Audio.",
+        "keywords": "orchestral sampling film scores bts willie",
+        "unsubscribedTrailer": "wcfbSwu1PGw"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/INbbFUWZABR2Nv_RFywvlP2tRKxKX1UMCRUhgJThjq9oefzbvmceXT1aJQi--1WC3EmUjEGBAOU"
+      }
+    }
+  }
+}

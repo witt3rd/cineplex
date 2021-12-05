@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCYy9EGb3fvmUSgMVfJ7KXJw",
+  "retrieved_on": "2021-12-05 03:47:34.534319",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nXdAcBE2yin559AAFLsnAEo-7oY",
+    "id": "UCYy9EGb3fvmUSgMVfJ7KXJw",
+    "snippet": {
+      "title": "Nu Meditation Music",
+      "description": "We\u2019re devoted to grow a place where you can return whenever you need to relax and heal.\n\nMusic can change our lives so our mission is to create music videos that can impact you in a positive way. \n\nIf you like the content of our channel we invite you to click on the SUBSCRIBE and bell notifications button. We would love to hear your opinions and suggestions about our music so don't be shy!\n\nYou can also help us on this journey by sharing your favorite videos of this channel with your friends!\n\nNu Meditation Music channel updated regularly with Sleep Music, Relaxing Music, Reiki Music, Healing Music, Study Music, Instrumental Music, Meditation Music, Piano Music, Guitar Music and Nature Sounds. Ambient backgrounds for Relaxation, Yoga, Reiki, Spa, Sleep, Study and whenever you need to heal and relax.\n\nPEACE",
+      "customUrl": "numeditationmusic",
+      "publishedAt": "2014-10-01T18:21:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4vHk-mZfi76K7-7VbtfVC4LKrRhnV-Wp4uW4L=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4vHk-mZfi76K7-7VbtfVC4LKrRhnV-Wp4uW4L=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4vHk-mZfi76K7-7VbtfVC4LKrRhnV-Wp4uW4L=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Nu Meditation Music",
+        "description": "We\u2019re devoted to grow a place where you can return whenever you need to relax and heal.\n\nMusic can change our lives so our mission is to create music videos that can impact you in a positive way. \n\nIf you like the content of our channel we invite you to click on the SUBSCRIBE and bell notifications button. We would love to hear your opinions and suggestions about our music so don't be shy!\n\nYou can also help us on this journey by sharing your favorite videos of this channel with your friends!\n\nNu Meditation Music channel updated regularly with Sleep Music, Relaxing Music, Reiki Music, Healing Music, Study Music, Instrumental Music, Meditation Music, Piano Music, Guitar Music and Nature Sounds. Ambient backgrounds for Relaxation, Yoga, Reiki, Spa, Sleep, Study and whenever you need to heal and relax.\n\nPEACE"
+      },
+      "country": "PT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYy9EGb3fvmUSgMVfJ7KXJw"
+      }
+    },
+    "statistics": {
+      "viewCount": "521090429",
+      "subscriberCount": "2370000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "499"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Nu Meditation Music",
+        "description": "We\u2019re devoted to grow a place where you can return whenever you need to relax and heal.\n\nMusic can change our lives so our mission is to create music videos that can impact you in a positive way. \n\nIf you like the content of our channel we invite you to click on the SUBSCRIBE and bell notifications button. We would love to hear your opinions and suggestions about our music so don't be shy!\n\nYou can also help us on this journey by sharing your favorite videos of this channel with your friends!\n\nNu Meditation Music channel updated regularly with Sleep Music, Relaxing Music, Reiki Music, Healing Music, Study Music, Instrumental Music, Meditation Music, Piano Music, Guitar Music and Nature Sounds. Ambient backgrounds for Relaxation, Yoga, Reiki, Spa, Sleep, Study and whenever you need to heal and relax.\n\nPEACE",
+        "keywords": "Meditation Music Relaxing Piano \"sleep music\" Reiki \"Reiki Music\" Relaxation Relax \"Yoga Music\" Chakra \"Chakra Meditations\" \"Chakra Music\" Healing \"Healing Music\" Sleep \"Native American Music\" \"Healing Sleep\" \"Relaxing Music\" \"Guitar Music\" \"Piano Music\" \"indian flute\" \"native american flute\"",
+        "trackingAnalyticsAccountId": "UA-61903780-1",
+        "moderateComments": true,
+        "unsubscribedTrailer": "dr2VyUvzrwI",
+        "country": "PT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/ymNHDtR6DhzBGidqBdNsdmtR49kv1ZZZ4Xe6s6FPTZT41FAgF1_fmyjuNSeOhCIKp5Ow5wI4"
+      }
+    }
+  }
+}

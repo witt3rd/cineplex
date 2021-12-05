@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCX4VrxYV1G9m7s5b5HbYuPw",
+  "retrieved_on": "2021-12-05 03:47:29.489758",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "P4ji0G9hPkOPhaYm37SUWEtl8uE",
+    "id": "UCX4VrxYV1G9m7s5b5HbYuPw",
+    "snippet": {
+      "title": "Turbo Makes Games",
+      "description": "Turbo Makes Games is all about helping you make games quickly and effectively.\n\nGame development is tough and it can take a long time to make a great game. But it doesn't have to be that way. Throughout development from pre-production planning to post-launch support there are many ways optimize your processes. Implementing these changes in your studio will help you release stable games much faster.\n\nSo come hang out, and learn about come a more efficient game developer! Let me know what kinds of things you'd like to learn about.",
+      "customUrl": "turbomakesgames",
+      "publishedAt": "2010-03-05T01:31:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/5IGVcrx3oOMpKpeicHj9kDcKBug9eIm3bhSriI_J34uh521q5Mhd9i6K7ljwBu8-bZJOXJHp=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/5IGVcrx3oOMpKpeicHj9kDcKBug9eIm3bhSriI_J34uh521q5Mhd9i6K7ljwBu8-bZJOXJHp=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/5IGVcrx3oOMpKpeicHj9kDcKBug9eIm3bhSriI_J34uh521q5Mhd9i6K7ljwBu8-bZJOXJHp=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Turbo Makes Games",
+        "description": "Turbo Makes Games is all about helping you make games quickly and effectively.\n\nGame development is tough and it can take a long time to make a great game. But it doesn't have to be that way. Throughout development from pre-production planning to post-launch support there are many ways optimize your processes. Implementing these changes in your studio will help you release stable games much faster.\n\nSo come hang out, and learn about come a more efficient game developer! Let me know what kinds of things you'd like to learn about."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUX4VrxYV1G9m7s5b5HbYuPw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2064474",
+      "subscriberCount": "12500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "212"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Turbo Makes Games",
+        "description": "Turbo Makes Games is all about helping you make games quickly and effectively.\n\nGame development is tough and it can take a long time to make a great game. But it doesn't have to be that way. Throughout development from pre-production planning to post-launch support there are many ways optimize your processes. Implementing these changes in your studio will help you release stable games much faster.\n\nSo come hang out, and learn about come a more efficient game developer! Let me know what kinds of things you'd like to learn about.",
+        "keywords": "Independent Video Game Development VLOG Unity devlog unity 3d game dev video games turbo makes johnny development indie independent \"making games quickly and effectively\" \"how to make games faser\" \"quick development time\" \"short development time\" \"shorter development time\" \"jonathan thompson\" \"johnny turbo\" \"johnny turbo game development\" johnnyturbo tmg tmg.dev \"turbo makes games\" \"how to make games quickly\"",
+        "unsubscribedTrailer": "_dsj8gHl26Y",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Jp1VOy6R_fsAOYoSKcUzecLXHS_3bWJWHuwlJhgJjAlNfIvkAmeM9zcNT5hDm8A6sNQCNfvNgg"
+      }
+    }
+  }
+}

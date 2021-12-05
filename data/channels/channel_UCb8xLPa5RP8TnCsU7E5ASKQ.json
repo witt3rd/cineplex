@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCb8xLPa5RP8TnCsU7E5ASKQ",
+  "retrieved_on": "2021-12-05 03:47:31.570345",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "2ByKzzYThZcwyFh3VmXxmZVX2wc",
+    "id": "UCb8xLPa5RP8TnCsU7E5ASKQ",
+    "snippet": {
+      "title": "Splice",
+      "description": "Splice is evolving the way people create, connect, and collaborate. From our browsable library of samples to our pioneering rent-to-own payment model for creative software, our products power the creativity of today\u2019s musicians. Over two million musicians --  from Top 40 hitmakers to bedroom producers -- come to Splice to get started or unstuck, move forward and make progress on their music. \n\nLet your creativity flow.",
+      "customUrl": "splice",
+      "publishedAt": "2014-04-23T15:42:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRT-3lMw9MU436loKyfoikFxjtzC6MRmgTFwMhoDg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRT-3lMw9MU436loKyfoikFxjtzC6MRmgTFwMhoDg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRT-3lMw9MU436loKyfoikFxjtzC6MRmgTFwMhoDg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Splice",
+        "description": "Splice is evolving the way people create, connect, and collaborate. From our browsable library of samples to our pioneering rent-to-own payment model for creative software, our products power the creativity of today\u2019s musicians. Over two million musicians --  from Top 40 hitmakers to bedroom producers -- come to Splice to get started or unstuck, move forward and make progress on their music. \n\nLet your creativity flow."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUb8xLPa5RP8TnCsU7E5ASKQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "30408654",
+      "subscriberCount": "253000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "324"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Splice",
+        "description": "Splice is evolving the way people create, connect, and collaborate. From our browsable library of samples to our pioneering rent-to-own payment model for creative software, our products power the creativity of today\u2019s musicians. Over two million musicians --  from Top 40 hitmakers to bedroom producers -- come to Splice to get started or unstuck, move forward and make progress on their music. \n\nLet your creativity flow.",
+        "keywords": "Splice \"Ableton Live\" \"Music Production\" \"Fl Studio\" beats beatmaker beatproduction",
+        "unsubscribedTrailer": "YFFaLxLQlvU",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/R3c1ir1jdeZqVMIuvEDeth0uJWW0yHDhKvn16Yi0HnMFzlStTgJzBcfoE_xwfYkLgrTiqL2j"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCGPGirOab9EGy7VH4IwmWVQ",
+  "retrieved_on": "2021-12-05 03:47:35.288855",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Vkxb1CRm4FYpozKk-drAP5uV-qw",
+    "id": "UCGPGirOab9EGy7VH4IwmWVQ",
+    "snippet": {
+      "title": "Travis Media",
+      "description": "Hi, my name is Travis and I am a self-taught software developer of 4 years. \n\nI learned to code and stepped out as a full-time freelance within 1 year. Since then I have documented my journey at https://travis.media and of late, here on my YouTube channel. \n\nHere you'll find coding tutorials, freelancing instruction, professional coding tips, life hacks, and the ups and downs of this highly enriching journey of software development. \n\nI make videos specifically for my audience and if there is anything specific you would like to request please don't hesitate to ask. \n\nIf all this sounds like something that can help you on your own coding journey, consider subscribing and joining me along the way!\n\nKind Regards, \n\nTravis",
+      "customUrl": "travismedia",
+      "publishedAt": "2017-02-01T16:20:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxbnMWOZUZBPoWbx6FFxocD9geHIHZgu5P4Hm4=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxbnMWOZUZBPoWbx6FFxocD9geHIHZgu5P4Hm4=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSxbnMWOZUZBPoWbx6FFxocD9geHIHZgu5P4Hm4=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Travis Media",
+        "description": "Hi, my name is Travis and I am a self-taught software developer of 4 years. \n\nI learned to code and stepped out as a full-time freelance within 1 year. Since then I have documented my journey at https://travis.media and of late, here on my YouTube channel. \n\nHere you'll find coding tutorials, freelancing instruction, professional coding tips, life hacks, and the ups and downs of this highly enriching journey of software development. \n\nI make videos specifically for my audience and if there is anything specific you would like to request please don't hesitate to ask. \n\nIf all this sounds like something that can help you on your own coding journey, consider subscribing and joining me along the way!\n\nKind Regards, \n\nTravis"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUGPGirOab9EGy7VH4IwmWVQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1458199",
+      "subscriberCount": "20600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "106"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Travis Media",
+        "description": "Hi, my name is Travis and I am a self-taught software developer of 4 years. \n\nI learned to code and stepped out as a full-time freelance within 1 year. Since then I have documented my journey at https://travis.media and of late, here on my YouTube channel. \n\nHere you'll find coding tutorials, freelancing instruction, professional coding tips, life hacks, and the ups and downs of this highly enriching journey of software development. \n\nI make videos specifically for my audience and if there is anything specific you would like to request please don't hesitate to ask. \n\nIf all this sounds like something that can help you on your own coding journey, consider subscribing and joining me along the way!\n\nKind Regards, \n\nTravis",
+        "keywords": "\"learn to code\" \"web development\" \"software development\" \"junior developer\" coding blogging",
+        "unsubscribedTrailer": "nBqqOMzIVA0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/c3c8tRqMTf640F5eoVLPPOBaOzZP0vpd8FENF4h71bZphDPK58jcmBGkJ-I6GFGoaXWBg4mq"
+      }
+    }
+  }
+}

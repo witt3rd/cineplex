@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCE3MJbkTVLoK8dAq7Del8ww",
+  "retrieved_on": "2021-12-05 03:47:36.095909",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "M-zuCA-6RupJsQW8X0n5v1u75z0",
+    "id": "UCE3MJbkTVLoK8dAq7Del8ww",
+    "snippet": {
+      "title": "Edward Kmett",
+      "description": "",
+      "customUrl": "edwardkmett1",
+      "publishedAt": "2006-08-27T02:55:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQDqu5Ob4NnvdD1tRKrMrRf9Ke0vjag2zUsn_Zb=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQDqu5Ob4NnvdD1tRKrMrRf9Ke0vjag2zUsn_Zb=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQDqu5Ob4NnvdD1tRKrMrRf9Ke0vjag2zUsn_Zb=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Edward Kmett",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUE3MJbkTVLoK8dAq7Del8ww"
+      }
+    },
+    "statistics": {
+      "viewCount": "174134",
+      "subscriberCount": "2370",
+      "hiddenSubscriberCount": false,
+      "videoCount": "65"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Edward Kmett",
+        "keywords": "\"functional programming\" math \"category theory\" haskell programming lecture \"user group\" scala boston",
+        "unsubscribedTrailer": "Klwkt9oJwg0"
+      }
+    }
+  }
+}

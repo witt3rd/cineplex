@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCRDMhEpkeBTBg-7_ygr5u-g",
+  "retrieved_on": "2021-12-05 03:47:29.852628",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "gfyBhh7NM9aJRcBhqp9bXJres7s",
+    "id": "UCRDMhEpkeBTBg-7_ygr5u-g",
+    "snippet": {
+      "title": "MagazineOnTheWeb",
+      "description": "",
+      "publishedAt": "2013-09-20T18:17:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLReQ64aj2JMpQjBIFzSrgxxMKorFMf33dVn6FZ2=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLReQ64aj2JMpQjBIFzSrgxxMKorFMf33dVn6FZ2=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLReQ64aj2JMpQjBIFzSrgxxMKorFMf33dVn6FZ2=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MagazineOnTheWeb",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURDMhEpkeBTBg-7_ygr5u-g"
+      }
+    },
+    "statistics": {
+      "viewCount": "173027",
+      "hiddenSubscriberCount": true,
+      "videoCount": "61"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MagazineOnTheWeb",
+        "keywords": "celebrity magazine news"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCPqlkHOgywWsFfrBE5DlCSg",
+  "retrieved_on": "2021-12-05 03:47:34.309002",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9Ikx0QSb_RH7aVx4BQ8_nJGQ6Ps",
+    "id": "UCPqlkHOgywWsFfrBE5DlCSg",
+    "snippet": {
+      "title": "Pedro N\u00f3brega",
+      "description": "sovegna vos",
+      "customUrl": "verseucht",
+      "publishedAt": "2007-01-08T05:50:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbEb4zCsatXyjzR1bHQ4UoZTyxmHyyW08uegfQLQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbEb4zCsatXyjzR1bHQ4UoZTyxmHyyW08uegfQLQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQbEb4zCsatXyjzR1bHQ4UoZTyxmHyyW08uegfQLQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Pedro N\u00f3brega",
+        "description": "sovegna vos"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPqlkHOgywWsFfrBE5DlCSg"
+      }
+    },
+    "statistics": {
+      "viewCount": "35757589",
+      "subscriberCount": "75200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "741"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Pedro N\u00f3brega",
+        "description": "sovegna vos"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/5itf6MjVOHXJ4ewECK9DoOxfL5GHcPDl7IaPk9ioGve8n6k8Q1Itvn3gPOwAC4NeOwWvv0-50nk"
+      }
+    }
+  }
+}

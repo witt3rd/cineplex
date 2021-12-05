@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCcPuBEAwuF6XWXkcXJXJwsg",
+  "retrieved_on": "2021-12-05 03:47:31.215445",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "V2dGDUEJBLryovvdiKAXVB8cOQw",
+    "id": "UCcPuBEAwuF6XWXkcXJXJwsg",
+    "snippet": {
+      "title": "This Guy Edits",
+      "description": "Sven is an A.C.E. Award-nominated editor who cut for James Cameron, Joseph Gordon-Levitt, and James Franco.\n\n-------------------------------\n\nFor business inquiries please go to https://thisguyedits.com/contact. \nIf you would like feedback on your work please visit https://thisguyedits.com/consulting-on-cuts\n\n\u2605- - - - - - - - - - - - - - - - - - - - - - - - - - - \u2605\n\n\u279c INSTAGRAM- \nhttp://instagram.com/thisguyedits#\n\u279c TWITTER-\nhttps://twitter.com/thisguyedits\n\u279c FACEBOOK GROUP-\nhttps://www.facebook.com/groups/thisguyedits/\n\u279c Support This Guy Edits on PATREON-\nhttps://www.patreon.com/thisguyedits",
+      "customUrl": "thisguyedits",
+      "publishedAt": "2006-11-21T05:45:43Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQBVrfvqOj3RH4BXQs2PzBW0gTSYygAGwSbnRXD0g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQBVrfvqOj3RH4BXQs2PzBW0gTSYygAGwSbnRXD0g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQBVrfvqOj3RH4BXQs2PzBW0gTSYygAGwSbnRXD0g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "This Guy Edits",
+        "description": "Sven is an A.C.E. Award-nominated editor who cut for James Cameron, Joseph Gordon-Levitt, and James Franco.\n\n-------------------------------\n\nFor business inquiries please go to https://thisguyedits.com/contact. \nIf you would like feedback on your work please visit https://thisguyedits.com/consulting-on-cuts\n\n\u2605- - - - - - - - - - - - - - - - - - - - - - - - - - - \u2605\n\n\u279c INSTAGRAM- \nhttp://instagram.com/thisguyedits#\n\u279c TWITTER-\nhttps://twitter.com/thisguyedits\n\u279c FACEBOOK GROUP-\nhttps://www.facebook.com/groups/thisguyedits/\n\u279c Support This Guy Edits on PATREON-\nhttps://www.patreon.com/thisguyedits"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUcPuBEAwuF6XWXkcXJXJwsg"
+      }
+    },
+    "statistics": {
+      "viewCount": "38423747",
+      "subscriberCount": "422000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "128"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "This Guy Edits",
+        "description": "Sven is an A.C.E. Award-nominated editor who cut for James Cameron, Joseph Gordon-Levitt, and James Franco.\n\n-------------------------------\n\nFor business inquiries please go to https://thisguyedits.com/contact. \nIf you would like feedback on your work please visit https://thisguyedits.com/consulting-on-cuts\n\n\u2605- - - - - - - - - - - - - - - - - - - - - - - - - - - \u2605\n\n\u279c INSTAGRAM- \nhttp://instagram.com/thisguyedits#\n\u279c TWITTER-\nhttps://twitter.com/thisguyedits\n\u279c FACEBOOK GROUP-\nhttps://www.facebook.com/groups/thisguyedits/\n\u279c Support This Guy Edits on PATREON-\nhttps://www.patreon.com/thisguyedits",
+        "keywords": "\"Independent Film\" Editing filmediting \"film school\" \"how to edit\" \"editing tutorials\" techniques tips tricks secrets \"video editing\" \"film editing\" fcpx final cut",
+        "trackingAnalyticsAccountId": "UA-137994537-1",
+        "unsubscribedTrailer": "ANK8UpPPFlg",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/XkbHuTS72Py4fl3Q_VNxxz6T9aAB_Z0KW4tK34bsRAG1BwKktQ43QnHqMHPHROFuVSsmbFBmp5w"
+      }
+    }
+  }
+}

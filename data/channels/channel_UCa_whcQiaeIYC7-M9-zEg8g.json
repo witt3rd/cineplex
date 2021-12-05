@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCa_whcQiaeIYC7-M9-zEg8g",
+  "retrieved_on": "2021-12-05 03:47:40.292866",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "NjNJg894jzg8kr_FCy2RLljd5x0",
+    "id": "UCa_whcQiaeIYC7-M9-zEg8g",
+    "snippet": {
+      "title": "passivestar",
+      "description": "On this channel you'll find Blender and Unreal Engine content\n\nJoin our discord: https://discord.gg/pPHQ5HQ\nCheck out my instagram: https://www.instagram.com/passivestar_/\n",
+      "customUrl": "passivestar",
+      "publishedAt": "2020-09-21T04:47:02.868731Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/BnJIBgppjJCboo7t40LACyxSz6EZBpQh5XGfBdd5y-XFtDjVMQyqaqOKRvzdQzjDD82v0J4Klg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/BnJIBgppjJCboo7t40LACyxSz6EZBpQh5XGfBdd5y-XFtDjVMQyqaqOKRvzdQzjDD82v0J4Klg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/BnJIBgppjJCboo7t40LACyxSz6EZBpQh5XGfBdd5y-XFtDjVMQyqaqOKRvzdQzjDD82v0J4Klg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "passivestar",
+        "description": "On this channel you'll find Blender and Unreal Engine content\n\nJoin our discord: https://discord.gg/pPHQ5HQ\nCheck out my instagram: https://www.instagram.com/passivestar_/\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUa_whcQiaeIYC7-M9-zEg8g"
+      }
+    },
+    "statistics": {
+      "viewCount": "825942",
+      "subscriberCount": "21400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "36"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "passivestar",
+        "description": "On this channel you'll find Blender and Unreal Engine content\n\nJoin our discord: https://discord.gg/pPHQ5HQ\nCheck out my instagram: https://www.instagram.com/passivestar_/\n",
+        "keywords": "blender blender3d \"3d graphics\" modeling timelapse rendering 3d \"3d art\" \"digital art\" \"3d illustration\" tutorial texturing cycles lowpoly \"low poly\" sculpting eevee tips substance \"substance painter\" \"unreal engine\" gamedev ue4 ue5",
+        "unsubscribedTrailer": "eYB_2uk2dP4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/pHqbU1zgvBpp8o8yMwdwv7MXw4kY5h-3A2tCaHtW2_eyMq4KdLlVIEKPO_LpJ2CXcG-pKaZ33Q"
+      }
+    }
+  }
+}

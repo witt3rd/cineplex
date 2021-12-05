@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC7SeFWZYFmsm1tqWxfuOTPQ",
+  "retrieved_on": "2021-12-05 03:47:35.288823",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ktrxXpQQFqyMue10zEiRva1DHWI",
+    "id": "UC7SeFWZYFmsm1tqWxfuOTPQ",
+    "snippet": {
+      "title": "Count Dankula",
+      "description": "The home of Absolute Mad Lads.",
+      "customUrl": "countdankula",
+      "publishedAt": "2015-08-23T22:33:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRgx-GzGkfFxlpPRCVc1jlZ8hhP66GqTwat6pLFWw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRgx-GzGkfFxlpPRCVc1jlZ8hhP66GqTwat6pLFWw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRgx-GzGkfFxlpPRCVc1jlZ8hhP66GqTwat6pLFWw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Count Dankula",
+        "description": "The home of Absolute Mad Lads."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7SeFWZYFmsm1tqWxfuOTPQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "138604050",
+      "subscriberCount": "883000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "214"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Count Dankula",
+        "description": "The home of Absolute Mad Lads.",
+        "keywords": "meme memes dank ylyl dankula webm webms count pug comedy scottish scotland glasgow uk politics satire parody britain \"count dankula\" \"mark meechan\" \"markus meechan\" \"mad lads\" \"absolute mad lads\"",
+        "unsubscribedTrailer": "YGB3hIpda4w",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/5kI95xMwHQ56xMNs9FxptvDQVBXjvbtTAPWdAZfzEKjIE3tpbpCawdpwUWzKzwHntAAVuAG8Hg"
+      }
+    }
+  }
+}

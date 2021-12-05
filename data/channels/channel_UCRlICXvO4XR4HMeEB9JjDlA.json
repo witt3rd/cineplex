@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCRlICXvO4XR4HMeEB9JjDlA",
+  "retrieved_on": "2021-12-05 03:47:31.805477",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "CSLurnaARoGpbwefQq7OTXA9X4E",
+    "id": "UCRlICXvO4XR4HMeEB9JjDlA",
+    "snippet": {
+      "title": "Thoughty2",
+      "description": "Thoughty2 (Arran) is a British YouTuber and gatekeeper of useless facts. Thoughty2 creates mind-blowing factual videos, on the weirdest, wackiest and most interesting topics. Subscribe for new videos every week.\n\n-- PODCAST --\nSubscribe to Random Interesting Things podcast at https://bit.ly/RIF42Pod\n\n-- BOOK ---\nGet Arran's book: 'Stick a Flag in it: 1,000 years of bizarre history from Britain and beyond'\nhttps://geni.us/t2book\n\n-- MERCHANDISE --\nOfficial Thoughty2 Merch at https://bit.ly/t2merch\n\n-- SUPPORT ME --\nI wouldn't be able to continue making videos without your amazing support. Please consider supporting me and you'll get rewards such as early access to all my videos: http://bit.ly/t2club\n\n-- JOBS --\nThoughty2 is created with the help of a small but passionate team. We're currently seeking (remote) writers to join our team. Please contact the 'business inquiries' email with your CV for further information.\n\nAs an Amazon Associate I earn from qualifying purchases.",
+      "customUrl": "thoughty2",
+      "publishedAt": "2012-10-12T18:41:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRofDlPmd9ZTjTSq29zJM9chH5YMU7OZ1iXSnV8tg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRofDlPmd9ZTjTSq29zJM9chH5YMU7OZ1iXSnV8tg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRofDlPmd9ZTjTSq29zJM9chH5YMU7OZ1iXSnV8tg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Thoughty2",
+        "description": "Thoughty2 (Arran) is a British YouTuber and gatekeeper of useless facts. Thoughty2 creates mind-blowing factual videos, on the weirdest, wackiest and most interesting topics. Subscribe for new videos every week.\n\n-- PODCAST --\nSubscribe to Random Interesting Things podcast at https://bit.ly/RIF42Pod\n\n-- BOOK ---\nGet Arran's book: 'Stick a Flag in it: 1,000 years of bizarre history from Britain and beyond'\nhttps://geni.us/t2book\n\n-- MERCHANDISE --\nOfficial Thoughty2 Merch at https://bit.ly/t2merch\n\n-- SUPPORT ME --\nI wouldn't be able to continue making videos without your amazing support. Please consider supporting me and you'll get rewards such as early access to all my videos: http://bit.ly/t2club\n\n-- JOBS --\nThoughty2 is created with the help of a small but passionate team. We're currently seeking (remote) writers to join our team. Please contact the 'business inquiries' email with your CV for further information.\n\nAs an Amazon Associate I earn from qualifying purchases."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURlICXvO4XR4HMeEB9JjDlA"
+      }
+    },
+    "statistics": {
+      "viewCount": "722208410",
+      "subscriberCount": "4170000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "614"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Thoughty2",
+        "description": "Thoughty2 (Arran) is a British YouTuber and gatekeeper of useless facts. Thoughty2 creates mind-blowing factual videos, on the weirdest, wackiest and most interesting topics. Subscribe for new videos every week.\n\n-- PODCAST --\nSubscribe to Random Interesting Things podcast at https://bit.ly/RIF42Pod\n\n-- BOOK ---\nGet Arran's book: 'Stick a Flag in it: 1,000 years of bizarre history from Britain and beyond'\nhttps://geni.us/t2book\n\n-- MERCHANDISE --\nOfficial Thoughty2 Merch at https://bit.ly/t2merch\n\n-- SUPPORT ME --\nI wouldn't be able to continue making videos without your amazing support. Please consider supporting me and you'll get rewards such as early access to all my videos: http://bit.ly/t2club\n\n-- JOBS --\nThoughty2 is created with the help of a small but passionate team. We're currently seeking (remote) writers to join our team. Please contact the 'business inquiries' email with your CV for further information.\n\nAs an Amazon Associate I earn from qualifying purchases.",
+        "keywords": "42 thoughty2 vsauce answers qi interesting facts amazing cool",
+        "trackingAnalyticsAccountId": "UA-43128389-1",
+        "unsubscribedTrailer": "OabCmjcEo1M",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/qqOl3knJAKhKYMYuJVq8JWdWZWOz2Gni_lUuRRaxJYNW-Oeucom_0JoqvsdRBXWNFBUW8sKy"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCrv269YwJzuZL3dH5PCgxUw",
+  "retrieved_on": "2021-12-05 03:47:34.534434",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "kNI1aVIAqU4xN6gjmgB65AwxP5I",
+    "id": "UCrv269YwJzuZL3dH5PCgxUw",
+    "snippet": {
+      "title": "CodeParade",
+      "description": "Welcome to Code Parade!  This is where I'll upload interesting projects and experiments that I do for fun.  Topics will usually involve machine learning, games, algorithms, fractals, or any other topics I find interesting.  I usually include some explanations, and sometimes tutorials.  If you have any ideas for projects, especially machine learning ones, feel free to post them on my channel discussion page!",
+      "customUrl": "codeparade",
+      "publishedAt": "2017-08-13T02:47:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyUf-NzPM657wD2YH8scUulIxbRWY2JFfHyq8Y=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyUf-NzPM657wD2YH8scUulIxbRWY2JFfHyq8Y=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSyUf-NzPM657wD2YH8scUulIxbRWY2JFfHyq8Y=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CodeParade",
+        "description": "Welcome to Code Parade!  This is where I'll upload interesting projects and experiments that I do for fun.  Topics will usually involve machine learning, games, algorithms, fractals, or any other topics I find interesting.  I usually include some explanations, and sometimes tutorials.  If you have any ideas for projects, especially machine learning ones, feel free to post them on my channel discussion page!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUrv269YwJzuZL3dH5PCgxUw"
+      }
+    },
+    "statistics": {
+      "viewCount": "33021715",
+      "subscriberCount": "406000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "52"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CodeParade",
+        "description": "Welcome to Code Parade!  This is where I'll upload interesting projects and experiments that I do for fun.  Topics will usually involve machine learning, games, algorithms, fractals, or any other topics I find interesting.  I usually include some explanations, and sometimes tutorials.  If you have any ideas for projects, especially machine learning ones, feel free to post them on my channel discussion page!",
+        "keywords": "AI Machine Learning Computer Science Math Fractals Programming Games",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/deOaQXqRcRhjM6CBaeq__gA1DDqvlwtgC42O1lgtwGnAONbOCQ0XlNJbHi39YHGi9JZOqjPR"
+      }
+    }
+  }
+}

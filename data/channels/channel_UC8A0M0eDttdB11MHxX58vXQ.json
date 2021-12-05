@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC8A0M0eDttdB11MHxX58vXQ",
+  "retrieved_on": "2021-12-05 03:47:31.215513",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8qheJe7fhvdiqiwb4WsKH3payUA",
+    "id": "UC8A0M0eDttdB11MHxX58vXQ",
+    "snippet": {
+      "title": "Meth Meth Method",
+      "description": "Hello! My name is Pontus and I live in Stockholm. \n\nOn this channel I try to make videos that explain coding concepts, web development and JavaScript. I've been developing things on the internet since 1996 and became a professional around 2002, while I still wanted to be a movie director. My first serious project was building and growing CoolStuff.com, after that I joined Spotify in 2012, left in 2016 to move to Los Angeles to work for a startup called Skurt, but are now back in Stockholm.\n\nIf you want to support my work beyond what you are doing by watching and spreading the word, feel free to buy a Meth Meth Method T-Shirt and send me a picture. :)\n\nMusic on this channel is made by Demoscene Time Machine. His name is Dave and he is about the best person there is. If you like the music you can find more",
+      "customUrl": "methmethmethod",
+      "publishedAt": "2016-07-30T13:05:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRR5NPdtWcQwrF7YdSgnCwhcMHoBs9icgA_QUOd=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRR5NPdtWcQwrF7YdSgnCwhcMHoBs9icgA_QUOd=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRR5NPdtWcQwrF7YdSgnCwhcMHoBs9icgA_QUOd=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Meth Meth Method",
+        "description": "Hello! My name is Pontus and I live in Stockholm. \n\nOn this channel I try to make videos that explain coding concepts, web development and JavaScript. I've been developing things on the internet since 1996 and became a professional around 2002, while I still wanted to be a movie director. My first serious project was building and growing CoolStuff.com, after that I joined Spotify in 2012, left in 2016 to move to Los Angeles to work for a startup called Skurt, but are now back in Stockholm.\n\nIf you want to support my work beyond what you are doing by watching and spreading the word, feel free to buy a Meth Meth Method T-Shirt and send me a picture. :)\n\nMusic on this channel is made by Demoscene Time Machine. His name is Dave and he is about the best person there is. If you like the music you can find more"
+      },
+      "country": "SE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU8A0M0eDttdB11MHxX58vXQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1180857",
+      "subscriberCount": "21600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "50"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Meth Meth Method",
+        "description": "Hello! My name is Pontus and I live in Stockholm. \n\nOn this channel I try to make videos that explain coding concepts, web development and JavaScript. I've been developing things on the internet since 1996 and became a professional around 2002, while I still wanted to be a movie director. My first serious project was building and growing CoolStuff.com, after that I joined Spotify in 2012, left in 2016 to move to Los Angeles to work for a startup called Skurt, but are now back in Stockholm.\n\nIf you want to support my work beyond what you are doing by watching and spreading the word, feel free to buy a Meth Meth Method T-Shirt and send me a picture. :)\n\nMusic on this channel is made by Demoscene Time Machine. His name is Dave and he is about the best person there is. If you like the music you can find more",
+        "keywords": "JavaScript Web Programming",
+        "country": "SE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/7rcqkSfnJf7-00EFR0UGEfh9titwweflcgxC1nQM0SJHFhIcVsEu1Fxi66hE9_u6J4EPsRuRYg"
+      }
+    }
+  }
+}

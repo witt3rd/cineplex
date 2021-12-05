@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCkr9CPPqT9VWUjkpo3HcACg",
+  "retrieved_on": "2021-12-05 03:47:36.814722",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "yTus7IXT5KO8yzgMV_orU2Ucd8E",
+    "id": "UCkr9CPPqT9VWUjkpo3HcACg",
+    "snippet": {
+      "title": "One Wheel Studio",
+      "description": "I'm just one guy making games with Unity in his spare time. I use Blender and Unity to create my games and my tutorials. This is my channel showing the results of my efforts.\n\nI teach a high school game design course that is focused on the basics of using Unity, Blender and Magicavoxel. I've used Playmaker, Bolt and most recently the class has moved to C#.\n\nGot questions? Like what you see? Come join the discussion on Discord: discord.onewheelstudio.com\n\nI also produce custom tutorial videos and currently produce the Odin Inspector tutorials. Need a tutorial, promo or review video? Find more information at: https://onewheelstudio.com/customvideos",
+      "customUrl": "onewheelstudio",
+      "publishedAt": "2014-11-25T04:59:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS49ae7x6rgAe6VfpCcNb30dW1ByvI5P7rBAn_kNA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS49ae7x6rgAe6VfpCcNb30dW1ByvI5P7rBAn_kNA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS49ae7x6rgAe6VfpCcNb30dW1ByvI5P7rBAn_kNA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "One Wheel Studio",
+        "description": "I'm just one guy making games with Unity in his spare time. I use Blender and Unity to create my games and my tutorials. This is my channel showing the results of my efforts.\n\nI teach a high school game design course that is focused on the basics of using Unity, Blender and Magicavoxel. I've used Playmaker, Bolt and most recently the class has moved to C#.\n\nGot questions? Like what you see? Come join the discussion on Discord: discord.onewheelstudio.com\n\nI also produce custom tutorial videos and currently produce the Odin Inspector tutorials. Need a tutorial, promo or review video? Find more information at: https://onewheelstudio.com/customvideos"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkr9CPPqT9VWUjkpo3HcACg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1941367",
+      "subscriberCount": "19100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "226"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "One Wheel Studio",
+        "description": "I'm just one guy making games with Unity in his spare time. I use Blender and Unity to create my games and my tutorials. This is my channel showing the results of my efforts.\n\nI teach a high school game design course that is focused on the basics of using Unity, Blender and Magicavoxel. I've used Playmaker, Bolt and most recently the class has moved to C#.\n\nGot questions? Like what you see? Come join the discussion on Discord: discord.onewheelstudio.com\n\nI also produce custom tutorial videos and currently produce the Odin Inspector tutorials. Need a tutorial, promo or review video? Find more information at: https://onewheelstudio.com/customvideos",
+        "keywords": "Unity Bolt Tutorial \"Game Development\" \"Visual Scripting\" \"C Sharp\" Programming \"Game Design\" Blender \"Low Poly\" \"3D Modeling\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "5PVkzADBk3Q",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/w8CKecXKfvarqUNAqqk8g38XYvypuT-3zoSA_rlZOigCswxN_fHpJdcmlOX_pY1lDBMOcIpBmg"
+      }
+    }
+  }
+}

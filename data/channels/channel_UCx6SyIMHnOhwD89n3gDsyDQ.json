@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCx6SyIMHnOhwD89n3gDsyDQ",
+  "retrieved_on": "2021-12-05 03:47:35.055148",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "BMgyi4OG6ZZprEj-2UlEZnetY40",
+    "id": "UCx6SyIMHnOhwD89n3gDsyDQ",
+    "snippet": {
+      "title": "Intellectual Dark Web",
+      "description": "Posting clips of all the wisdom the Intellectual Dark Web has to offer",
+      "publishedAt": "2018-10-06T02:48:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdDYhFFR9gA-Sqs7P6vc47lrTTQ4wzGFc9asF0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdDYhFFR9gA-Sqs7P6vc47lrTTQ4wzGFc9asF0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTdDYhFFR9gA-Sqs7P6vc47lrTTQ4wzGFc9asF0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Intellectual Dark Web",
+        "description": "Posting clips of all the wisdom the Intellectual Dark Web has to offer"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUx6SyIMHnOhwD89n3gDsyDQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "2180811",
+      "subscriberCount": "14500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "20"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Intellectual Dark Web",
+        "description": "Posting clips of all the wisdom the Intellectual Dark Web has to offer"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/QbwUErADwbsNnaNnfdN0CYU8R-9v94TwzdLYMdpdjrcKC5ehX3yrs2mkzbAXvEvb6-BzS9ojfAg"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCC9ZaYuqJDTgna27jfHbzPA",
+  "retrieved_on": "2021-12-05 03:47:30.436690",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "41a6mRR0p9J-xI_Zpe10-lw59pI",
+    "id": "UCC9ZaYuqJDTgna27jfHbzPA",
+    "snippet": {
+      "title": "mystiverse",
+      "description": "existential crisis entertainment.",
+      "customUrl": "mystiverse",
+      "publishedAt": "2019-12-17T14:55:41.260334Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GD883Bub-X5MVt6D0gMQQdTSM4kI5wWXFwt0kl1dRhLTDfyCO-HHRQAoXsJW1AjsXXFfy-NR=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GD883Bub-X5MVt6D0gMQQdTSM4kI5wWXFwt0kl1dRhLTDfyCO-HHRQAoXsJW1AjsXXFfy-NR=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GD883Bub-X5MVt6D0gMQQdTSM4kI5wWXFwt0kl1dRhLTDfyCO-HHRQAoXsJW1AjsXXFfy-NR=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "mystiverse",
+        "description": "existential crisis entertainment."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUC9ZaYuqJDTgna27jfHbzPA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2090704",
+      "subscriberCount": "57900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "38"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "mystiverse",
+        "description": "existential crisis entertainment.",
+        "keywords": "philosophy ethics morality science emotion happy happiness lonely loneliness mind God \"free will\" nihilism existence \"existential crisis\" western eastern lecture \"crash course\" life universe space future technology \"artificial intelligence\" AI tube Socrates Plato Aristotle Kant Hume Descartes Locke Berkeley Leibniz Nietzsche essay debate discussion university degree television TV film consciousness unknown death mystery class literature basics fiction story paradox meaning",
+        "unsubscribedTrailer": "2wca6J0xqtY",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/hF-PuTfbv7691YygIBXtYAthrdtNp6PuMT0xaYrttRkYzl3zM8ZPL4ax9EFCDrm_Jo_em5yaEw"
+      }
+    }
+  }
+}

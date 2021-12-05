@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC6mIxFTvXkWQVEHPsEdflzQ",
+  "retrieved_on": "2021-12-05 03:47:29.852632",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5CYNSRx4F8iz5t2HbhX5eHzVNHU",
+    "id": "UC6mIxFTvXkWQVEHPsEdflzQ",
+    "snippet": {
+      "title": "GreatScott!",
+      "description": "Awesome Electronics Tutorials, Projects and How To\u00b4s\n\nImprint/Impressum:\nGreatScott!\nc/o Block Services\nStuttgarter Str. 106\n70736 Fellbach\n\nWARNING!: Do not send fan mail to the address given by the imprint!",
+      "customUrl": "greatscottlab",
+      "publishedAt": "2013-10-02T09:48:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "GreatScott!",
+        "description": "Awesome Electronics Tutorials, Projects and How To\u00b4s\n\nImprint/Impressum:\nGreatScott!\nc/o Block Services\nStuttgarter Str. 106\n70736 Fellbach\n\nWARNING!: Do not send fan mail to the address given by the imprint!"
+      },
+      "country": "DE"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU6mIxFTvXkWQVEHPsEdflzQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "215007873",
+      "subscriberCount": "1600000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "366"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "GreatScott!",
+        "description": "Awesome Electronics Tutorials, Projects and How To\u00b4s\n\nImprint/Impressum:\nGreatScott!\nc/o Block Services\nStuttgarter Str. 106\n70736 Fellbach\n\nWARNING!: Do not send fan mail to the address given by the imprint!",
+        "keywords": "Electronics Tutorials",
+        "unsubscribedTrailer": "8Djj_bWWyYo",
+        "country": "DE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/LMozm7gF6GJBFwKUXKtU5CPRTLs8xgZSB9iUKtySnozsuqybHcwQVUjm_FYEpFMduiLMUOmcDw"
+      }
+    }
+  }
+}

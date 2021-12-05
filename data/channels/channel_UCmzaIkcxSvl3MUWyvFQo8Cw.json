@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCmzaIkcxSvl3MUWyvFQo8Cw",
+  "retrieved_on": "2021-12-05 03:47:37.728324",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5HkwFh4OuJwiU0xulwwIABWMFrs",
+    "id": "UCmzaIkcxSvl3MUWyvFQo8Cw",
+    "snippet": {
+      "title": "Duran Pierre",
+      "description": "",
+      "customUrl": "mancomesaround888",
+      "publishedAt": "2012-07-28T09:40:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR_Gg1j_XvhAjZ7diKbXCFMb_7RlebBHB_xM6grpg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR_Gg1j_XvhAjZ7diKbXCFMb_7RlebBHB_xM6grpg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR_Gg1j_XvhAjZ7diKbXCFMb_7RlebBHB_xM6grpg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Duran Pierre",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmzaIkcxSvl3MUWyvFQo8Cw"
+      }
+    },
+    "statistics": {
+      "viewCount": "106105",
+      "subscriberCount": "634",
+      "hiddenSubscriberCount": false,
+      "videoCount": "156"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Duran Pierre",
+        "keywords": "ManComesAround",
+        "unsubscribedTrailer": "6jaX9uHMLjI"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/lJEgvCLqq8GobFTM9Z3JVJOetx1iBz-K_Dr12fTUpZfqh79XioCqo9QbZ17t8bhuCyaK9b8g"
+      }
+    }
+  }
+}

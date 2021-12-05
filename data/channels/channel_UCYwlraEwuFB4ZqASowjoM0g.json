@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCYwlraEwuFB4ZqASowjoM0g",
+  "retrieved_on": "2021-12-05 03:47:30.682892",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "pzuh66JWalH4zsMC0w3q05UTi3c",
+    "id": "UCYwlraEwuFB4ZqASowjoM0g",
+    "snippet": {
+      "title": "Tom Campbell",
+      "description": "The complete London Lecture is available on DVD at www.MyBigTOE.com",
+      "publishedAt": "2007-12-07T00:04:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMuqJJDW_uYOKkn71ALVRlg35SB1Ma499Rw1Rb=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMuqJJDW_uYOKkn71ALVRlg35SB1Ma499Rw1Rb=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTMuqJJDW_uYOKkn71ALVRlg35SB1Ma499Rw1Rb=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tom Campbell",
+        "description": "The complete London Lecture is available on DVD at www.MyBigTOE.com"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYwlraEwuFB4ZqASowjoM0g"
+      }
+    },
+    "statistics": {
+      "viewCount": "9482843",
+      "subscriberCount": "68300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "940"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tom Campbell",
+        "description": "The complete London Lecture is available on DVD at www.MyBigTOE.com",
+        "keywords": "Thomas Campbell My Big TOE paranormal OOBE Robert Monroe institute virtual reality model phil yt:cc=on",
+        "unsubscribedTrailer": "zstsJ7-ULM0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/t7yjlJov3cXvz_GckEe4FzbGH99aRa9lsGzKVCiHwS5iNgm2nxzeU8gDd-PFnKn3vDqx-P3tmmA"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC4ihNhN8iN9QPg2XTxiiPJw",
+  "retrieved_on": "2021-12-05 03:47:29.188908",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "tkSPbxs8L6GghyLmFx6JU2q__nk",
+    "id": "UC4ihNhN8iN9QPg2XTxiiPJw",
+    "snippet": {
+      "title": "Inside the Score",
+      "description": "Deepen your appreciation of Classical and Film Music!\nTo get in touch for business enquiries, use the email below - Thanks!\nVideo Essays, Composing Challenges, and Musical Discussions\nRegular Videos to help you enhance your music experience!",
+      "customUrl": "insidethescore",
+      "publishedAt": "2017-12-22T14:44:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmy1yZXBFcvOfYUQHUzVrsEK-ULvmg_WaLd29nmA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmy1yZXBFcvOfYUQHUzVrsEK-ULvmg_WaLd29nmA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRmy1yZXBFcvOfYUQHUzVrsEK-ULvmg_WaLd29nmA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Inside the Score",
+        "description": "Deepen your appreciation of Classical and Film Music!\nTo get in touch for business enquiries, use the email below - Thanks!\nVideo Essays, Composing Challenges, and Musical Discussions\nRegular Videos to help you enhance your music experience!"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU4ihNhN8iN9QPg2XTxiiPJw"
+      }
+    },
+    "statistics": {
+      "viewCount": "11853721",
+      "subscriberCount": "249000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "91"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Inside the Score",
+        "description": "Deepen your appreciation of Classical and Film Music!\nTo get in touch for business enquiries, use the email below - Thanks!\nVideo Essays, Composing Challenges, and Musical Discussions\nRegular Videos to help you enhance your music experience!",
+        "unsubscribedTrailer": "5yZ4vtpxQXw",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/4LK7OzrfO7HYOXKU9gWjzgo-JMobn3OXEOGTjxIKMDolXoJQqvR5EnSDKeCyIKjsHT2iTWRy7dU"
+      }
+    }
+  }
+}

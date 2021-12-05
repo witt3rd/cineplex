@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCw1NhBzoRNvb7gnLWxNqoIQ",
+  "retrieved_on": "2021-12-05 03:47:29.852558",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "7DcQMpqI7G1gKpC4nMO45mSlG3Y",
+    "id": "UCw1NhBzoRNvb7gnLWxNqoIQ",
+    "snippet": {
+      "title": "Yaser Zhian",
+      "description": "",
+      "customUrl": "yaserzhian",
+      "publishedAt": "2007-10-02T16:13:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSRcFZYl2pNEsN-uceP-DlwmpNr6H43saU5SwbF=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSRcFZYl2pNEsN-uceP-DlwmpNr6H43saU5SwbF=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSRcFZYl2pNEsN-uceP-DlwmpNr6H43saU5SwbF=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Yaser Zhian",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUw1NhBzoRNvb7gnLWxNqoIQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "19163",
+      "subscriberCount": "199",
+      "hiddenSubscriberCount": false,
+      "videoCount": "56"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Yaser Zhian"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/3_xz60eMQO4aJpGVzVVn_QcLiNw-mMBND1F4XKLt3_7Cz9IGB9ZtQuLN1FNWByFGPRjCIrda"
+      }
+    }
+  }
+}

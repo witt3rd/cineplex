@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCylGUf9BvQooEFjgdNudoQg",
+  "retrieved_on": "2021-12-05 03:47:35.856699",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ESAV0_SIV2qXnUaOqovo5cXgZYU",
+    "id": "UCylGUf9BvQooEFjgdNudoQg",
+    "snippet": {
+      "title": "The Linux Cast",
+      "description": "Daily FOSS related content, weekly Linux podcasts, and more coming at you from an eternal Linux noob. \n\nJust a note, adult language is something that frequently pops up in my videos, so if that bothers you, I am sorry.",
+      "customUrl": "thelinuxcast",
+      "publishedAt": "2020-09-05T05:36:09.337444Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-9rjHgzvKD6nzpNyB2AwWp_ESVeyYSE0eCUAO=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-9rjHgzvKD6nzpNyB2AwWp_ESVeyYSE0eCUAO=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-9rjHgzvKD6nzpNyB2AwWp_ESVeyYSE0eCUAO=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Linux Cast",
+        "description": "Daily FOSS related content, weekly Linux podcasts, and more coming at you from an eternal Linux noob. \n\nJust a note, adult language is something that frequently pops up in my videos, so if that bothers you, I am sorry."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUylGUf9BvQooEFjgdNudoQg"
+      }
+    },
+    "statistics": {
+      "viewCount": "641880",
+      "subscriberCount": "6540",
+      "hiddenSubscriberCount": false,
+      "videoCount": "353"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Linux Cast",
+        "description": "Daily FOSS related content, weekly Linux podcasts, and more coming at you from an eternal Linux noob. \n\nJust a note, adult language is something that frequently pops up in my videos, so if that bothers you, I am sorry.",
+        "keywords": "\"the linux cast\" linux \"open source\" podcast podcasting apps \"linux apps\" \"linux programs\" \"learning to program\" \"arch linux\" ubuntu \"next ubuntu\" \"linux news\" \"best linux distros\" \"linux tutorials\" \"window managers\" dwm xmonad \"awesome wm\" i3wm i3 \"mx linux\" \"mx linux tutorials\" \"mx linux review\" \"best linux apps\"",
+        "unsubscribedTrailer": "v7OtU4jV_gA",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/qFs5_9OVABYbuPf-2SacFc6EjYhjQ5u9ouWE6XQy654oM2EgzRcwtEwidWXJAABmni5LFQyslEo"
+      }
+    }
+  }
+}

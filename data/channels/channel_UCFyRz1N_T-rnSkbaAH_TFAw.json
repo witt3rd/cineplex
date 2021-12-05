@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCFyRz1N_T-rnSkbaAH_TFAw",
+  "retrieved_on": "2021-12-05 03:47:32.562670",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "duNKOevxxyiPpVk2VdRVPQX7XFU",
+    "id": "UCFyRz1N_T-rnSkbaAH_TFAw",
+    "snippet": {
+      "title": "ZDoggMD",
+      "description": "Dr. Zubin Damania, MD is a UCSF/Stanford-trained hospital doctor and host of The ZDoggMD Show.\n\n",
+      "customUrl": "zdoggmd",
+      "publishedAt": "2010-03-17T07:35:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ4NGoAqogBNaoc3mscGqJNqUI0-TRMYub3JuQuIQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ4NGoAqogBNaoc3mscGqJNqUI0-TRMYub3JuQuIQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQ4NGoAqogBNaoc3mscGqJNqUI0-TRMYub3JuQuIQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ZDoggMD",
+        "description": "Dr. Zubin Damania, MD is a UCSF/Stanford-trained hospital doctor and host of The ZDoggMD Show.\n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFyRz1N_T-rnSkbaAH_TFAw"
+      }
+    },
+    "statistics": {
+      "viewCount": "76235850",
+      "subscriberCount": "444000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1184"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ZDoggMD",
+        "description": "Dr. Zubin Damania, MD is a UCSF/Stanford-trained hospital doctor and host of The ZDoggMD Show.\n\n",
+        "keywords": "doctor \"med school\" nursing \"health care\" wellness \"Zubin Damania\" healthcare \"medical school\" nurses funny music parody zdog \"public health\" Consciousness Meditation Interviews Podcast \"medical music videos\" \"medical parody videos\" meditation consciousness \"spiritual awakening\"",
+        "trackingAnalyticsAccountId": "UA-18729534-5",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/3wsv0XMe5hrID7A_YYKLiaUnPAk2KddRD3TGf9ykiQSX2LgAl_q_ZuOHgShf192gKyg_dornwQ"
+      }
+    }
+  }
+}

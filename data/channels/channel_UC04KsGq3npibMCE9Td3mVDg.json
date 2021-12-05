@@ -1,0 +1,64 @@
+{
+  "channel_id": "UC04KsGq3npibMCE9Td3mVDg",
+  "retrieved_on": "2021-12-05 03:47:30.163045",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mhiAWmbfvbLVNFDKtdh3MkB3E0I",
+    "id": "UC04KsGq3npibMCE9Td3mVDg",
+    "snippet": {
+      "title": "Cheddar",
+      "description": "Welcome to Cheddar!\n\nLook forward. Live news and original shows that feed your curiosity about the people, ideas and innovations shaping your world. Cheddar News is the voice of what's next.\n\nSubscribe for original videos every week.",
+      "customUrl": "cheddar",
+      "publishedAt": "2016-03-04T18:54:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqw3rROPefKItJJ3fJSoxqHKYsF3hXfEqxzBFhXA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqw3rROPefKItJJ3fJSoxqHKYsF3hXfEqxzBFhXA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSqw3rROPefKItJJ3fJSoxqHKYsF3hXfEqxzBFhXA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Cheddar",
+        "description": "Welcome to Cheddar!\n\nLook forward. Live news and original shows that feed your curiosity about the people, ideas and innovations shaping your world. Cheddar News is the voice of what's next.\n\nSubscribe for original videos every week."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU04KsGq3npibMCE9Td3mVDg"
+      }
+    },
+    "statistics": {
+      "viewCount": "171402562",
+      "subscriberCount": "860000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "464"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Cheddar",
+        "description": "Welcome to Cheddar!\n\nLook forward. Live news and original shows that feed your curiosity about the people, ideas and innovations shaping your world. Cheddar News is the voice of what's next.\n\nSubscribe for original videos every week.",
+        "keywords": "cheddar business technology news education documentary explainer companies history facts",
+        "trackingAnalyticsAccountId": "UA-74718514-4",
+        "unsubscribedTrailer": "3_XLRQWjX3c",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/-ITC7lzpoDOKA4vmeLv93vRsN4h8QJfgYxI69PR7fctBRl1CH5amKdV0nkpoP8djdz5sGvusSw"
+      }
+    }
+  }
+}

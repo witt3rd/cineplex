@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCmWhuFRkZKu0g-e1xrlakVA",
+  "retrieved_on": "2021-12-05 03:47:39.693582",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rDe7hKbvuk8Oj2bFwmZR3NnNuG4",
+    "id": "UCmWhuFRkZKu0g-e1xrlakVA",
+    "snippet": {
+      "title": "American Thought Leaders - The Epoch Times",
+      "description": "At a time when our nation is becoming increasingly polarized, media often ignore viewpoints and stories that are worthy of attention. American Thought Leaders, hosted by The Epoch Times Senior Editor Jan Jekielek and his reporting team, features in-depth discussions with some of America\u2019s most influential thought leaders on pertinent issues facing our nation today.\n\n\u2b55\ufe0f  Subscribe to #EpochTV\u2014our response to big tech censorship\ud83d\udc49 http://epochtv.com/ATL\n\nNewsletter: https://ept.ms/ATLnewsletter\n\nFollow Jan on Twitter: https://twitter.com/JanJekielek\n\nTelegram: https://t.me/AmThoughtLeader\nFacebook: https://www.facebook.com/AmericanThoughtLeaders/\nTwitter: http://twitter.com/AmThoughtLeader\n\nParler: https://parler.com/profile/atl\nRumble: https://rumble.com/c/AmericanThoughtLeaders\n",
+      "customUrl": "americanthoughtleaders",
+      "publishedAt": "2019-01-16T21:49:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTOmKmkG3ZJTcZgHusNytA9Ny8VNq9uAKuav17q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTOmKmkG3ZJTcZgHusNytA9Ny8VNq9uAKuav17q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTOmKmkG3ZJTcZgHusNytA9Ny8VNq9uAKuav17q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "American Thought Leaders - The Epoch Times",
+        "description": "At a time when our nation is becoming increasingly polarized, media often ignore viewpoints and stories that are worthy of attention. American Thought Leaders, hosted by The Epoch Times Senior Editor Jan Jekielek and his reporting team, features in-depth discussions with some of America\u2019s most influential thought leaders on pertinent issues facing our nation today.\n\n\u2b55\ufe0f  Subscribe to #EpochTV\u2014our response to big tech censorship\ud83d\udc49 http://epochtv.com/ATL\n\nNewsletter: https://ept.ms/ATLnewsletter\n\nFollow Jan on Twitter: https://twitter.com/JanJekielek\n\nTelegram: https://t.me/AmThoughtLeader\nFacebook: https://www.facebook.com/AmericanThoughtLeaders/\nTwitter: http://twitter.com/AmThoughtLeader\n\nParler: https://parler.com/profile/atl\nRumble: https://rumble.com/c/AmericanThoughtLeaders\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmWhuFRkZKu0g-e1xrlakVA"
+      }
+    },
+    "statistics": {
+      "viewCount": "31644886",
+      "subscriberCount": "352000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "810"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "American Thought Leaders - The Epoch Times",
+        "description": "At a time when our nation is becoming increasingly polarized, media often ignore viewpoints and stories that are worthy of attention. American Thought Leaders, hosted by The Epoch Times Senior Editor Jan Jekielek and his reporting team, features in-depth discussions with some of America\u2019s most influential thought leaders on pertinent issues facing our nation today.\n\n\u2b55\ufe0f  Subscribe to #EpochTV\u2014our response to big tech censorship\ud83d\udc49 http://epochtv.com/ATL\n\nNewsletter: https://ept.ms/ATLnewsletter\n\nFollow Jan on Twitter: https://twitter.com/JanJekielek\n\nTelegram: https://t.me/AmThoughtLeader\nFacebook: https://www.facebook.com/AmericanThoughtLeaders/\nTwitter: http://twitter.com/AmThoughtLeader\n\nParler: https://parler.com/profile/atl\nRumble: https://rumble.com/c/AmericanThoughtLeaders\n",
+        "keywords": "US Interview Politics News \"American Thought Leaders\" \"Epoch Times\" \"the Epoch Times\" ATL",
+        "unsubscribedTrailer": "irn6RRszRe0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ChKwsGYi6WuhCyj3rztuIsc5RprjXjXpCL3hW4bRlkw97LZVGfe5srZznqYpItMdZsu6wbpwDg"
+      }
+    }
+  }
+}

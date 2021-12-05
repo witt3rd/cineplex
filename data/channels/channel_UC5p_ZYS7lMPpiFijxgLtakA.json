@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC5p_ZYS7lMPpiFijxgLtakA",
+  "retrieved_on": "2021-12-05 03:47:29.489854",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "2o2qLnNDby7E33r2EM-tx5Ygp1I",
+    "id": "UC5p_ZYS7lMPpiFijxgLtakA",
+    "snippet": {
+      "title": "Classical Music11",
+      "description": "Hello and welcome, \n\nThis channel is dedicated to classical music. My aim is to attract people, young or old, to this sublime music. You will find many \"best of\" composer compilations, symphonies, concertos and more. Please check the description of each video for more information.\n\nPLEASE NOTE: I always credit the performers if I am aware of who they are. I also time-stamp each piece or movement (when necessary). This channel is NOT monetised, and I do NOT claim ownership or rights to anything. Suggestions are welcome. \n\nThanks, and enjoy the music. \u266a\u266a",
+      "publishedAt": "2014-01-21T18:39:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSuXodbACrwxCwQ-1OuWFY7QzYpjrwy5a9DcRKQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSuXodbACrwxCwQ-1OuWFY7QzYpjrwy5a9DcRKQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSuXodbACrwxCwQ-1OuWFY7QzYpjrwy5a9DcRKQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Classical Music11",
+        "description": "Hello and welcome, \n\nThis channel is dedicated to classical music. My aim is to attract people, young or old, to this sublime music. You will find many \"best of\" composer compilations, symphonies, concertos and more. Please check the description of each video for more information.\n\nPLEASE NOTE: I always credit the performers if I am aware of who they are. I also time-stamp each piece or movement (when necessary). This channel is NOT monetised, and I do NOT claim ownership or rights to anything. Suggestions are welcome. \n\nThanks, and enjoy the music. \u266a\u266a"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5p_ZYS7lMPpiFijxgLtakA"
+      }
+    },
+    "statistics": {
+      "viewCount": "65592353",
+      "subscriberCount": "150000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "366"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Classical Music11",
+        "description": "Hello and welcome, \n\nThis channel is dedicated to classical music. My aim is to attract people, young or old, to this sublime music. You will find many \"best of\" composer compilations, symphonies, concertos and more. Please check the description of each video for more information.\n\nPLEASE NOTE: I always credit the performers if I am aware of who they are. I also time-stamp each piece or movement (when necessary). This channel is NOT monetised, and I do NOT claim ownership or rights to anything. Suggestions are welcome. \n\nThanks, and enjoy the music. \u266a\u266a",
+        "unsubscribedTrailer": "vpaPWuDQUcc",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/c6lckg9FJfopisxXXPe8sOelP48V_pH1Z8bOPJd8D8l7gyDAyt1xn4ts-uFzI7WqdrcEsQGaXzU"
+      }
+    }
+  }
+}

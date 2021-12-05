@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCE7x5nm1Iy9KDfXPNrNQ5lA",
+  "retrieved_on": "2021-12-05 03:47:41.016888",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xns7YzdEgUMysBO3IP1H_7QAG50",
+    "id": "UCE7x5nm1Iy9KDfXPNrNQ5lA",
+    "snippet": {
+      "title": "Piccolo Tutorials",
+      "description": "Tutorials about web development, with a focus on async Python (Piccolo, FastAPI etc).\n\nhttps://github.com/piccolo-orm/piccolo\nhttps://piccolo-orm.com/\n\n",
+      "publishedAt": "2020-05-26T21:07:23.066138Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRHqlXuK27ght9umgAb1uVSMqHjrx4obbmPkvV-=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRHqlXuK27ght9umgAb1uVSMqHjrx4obbmPkvV-=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRHqlXuK27ght9umgAb1uVSMqHjrx4obbmPkvV-=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Piccolo Tutorials",
+        "description": "Tutorials about web development, with a focus on async Python (Piccolo, FastAPI etc).\n\nhttps://github.com/piccolo-orm/piccolo\nhttps://piccolo-orm.com/\n\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUE7x5nm1Iy9KDfXPNrNQ5lA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1244",
+      "subscriberCount": "43",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Piccolo Tutorials",
+        "description": "Tutorials about web development, with a focus on async Python (Piccolo, FastAPI etc).\n\nhttps://github.com/piccolo-orm/piccolo\nhttps://piccolo-orm.com/\n\n",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/tpvHShcH0QVngj-9TaMPfdTHyhEMhzmSjfB0ZTL2qIpIQbhNb4od84jtGKVXoeD9krWQ12UD"
+      }
+    }
+  }
+}

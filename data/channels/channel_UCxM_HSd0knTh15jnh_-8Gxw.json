@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCxM_HSd0knTh15jnh_-8Gxw",
+  "retrieved_on": "2021-12-05 03:47:35.856833",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xZlmdfbaWH2ynk7g2Ao0x4q8ujA",
+    "id": "UCxM_HSd0knTh15jnh_-8Gxw",
+    "snippet": {
+      "title": "Not Exactly Normal",
+      "description": "A series about the categorically strange. From flying aircraft carriers to the sex-fueled Turkish Batman to that time we put animals on trial, our world is not exactly normal.",
+      "customUrl": "notexactlynormal",
+      "publishedAt": "2011-12-02T05:25:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/HPsEErA1iSa0xP--L7mO7ZvkOQP5kiXBnqiO417cRpKLl-VHy_JLNqZmSqlA9ER31BUQyDDHBA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/HPsEErA1iSa0xP--L7mO7ZvkOQP5kiXBnqiO417cRpKLl-VHy_JLNqZmSqlA9ER31BUQyDDHBA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/HPsEErA1iSa0xP--L7mO7ZvkOQP5kiXBnqiO417cRpKLl-VHy_JLNqZmSqlA9ER31BUQyDDHBA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Not Exactly Normal",
+        "description": "A series about the categorically strange. From flying aircraft carriers to the sex-fueled Turkish Batman to that time we put animals on trial, our world is not exactly normal."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUxM_HSd0knTh15jnh_-8Gxw"
+      }
+    },
+    "statistics": {
+      "viewCount": "14598260",
+      "subscriberCount": "129000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "85"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Not Exactly Normal",
+        "description": "A series about the categorically strange. From flying aircraft carriers to the sex-fueled Turkish Batman to that time we put animals on trial, our world is not exactly normal.",
+        "keywords": "notexactlynormal not exactly normal \"not exactly normal\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "mTXECRCQTno",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/1y3kyzjcvaPUQf-VxLaS3lh4zcYFHT3ec5UFp3ghmzErrUXZPgfvpr6RNYunz6Y-Dl0rHZGZ5Q"
+      }
+    }
+  }
+}

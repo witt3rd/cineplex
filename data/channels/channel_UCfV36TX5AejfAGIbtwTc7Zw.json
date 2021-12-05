@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCfV36TX5AejfAGIbtwTc7Zw",
+  "retrieved_on": "2021-12-05 03:47:30.682879",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "pnJ_rfP5Cv2qyfwwEAcGtPxim3U",
+    "id": "UCfV36TX5AejfAGIbtwTc7Zw",
+    "snippet": {
+      "title": "Chris Hawkes",
+      "description": "We're going to learn about programming, web design, responsive web design, Reactjs, Django, Python, web scraping, games, forms applications and more!  Thank you for subscribing!  \n\nProviding computer programming tutorials from beginner to advanced. In one place from one source.\n\nCheck out my website - https://www.codehawke.com\n\nThanks, \n\nChris",
+      "customUrl": "noobtoprofessional",
+      "publishedAt": "2013-02-19T01:07:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3PgNCajsk3e3TJEClwqYQ5vTEfK7RwJ8RJCU9DU7-6Ewpw_IAMId6EkJjtP2mZ7lK4nIgB7Z5g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3PgNCajsk3e3TJEClwqYQ5vTEfK7RwJ8RJCU9DU7-6Ewpw_IAMId6EkJjtP2mZ7lK4nIgB7Z5g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3PgNCajsk3e3TJEClwqYQ5vTEfK7RwJ8RJCU9DU7-6Ewpw_IAMId6EkJjtP2mZ7lK4nIgB7Z5g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Chris Hawkes",
+        "description": "We're going to learn about programming, web design, responsive web design, Reactjs, Django, Python, web scraping, games, forms applications and more!  Thank you for subscribing!  \n\nProviding computer programming tutorials from beginner to advanced. In one place from one source.\n\nCheck out my website - https://www.codehawke.com\n\nThanks, \n\nChris"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfV36TX5AejfAGIbtwTc7Zw"
+      }
+    },
+    "statistics": {
+      "viewCount": "17596718",
+      "subscriberCount": "176000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "434"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chris Hawkes",
+        "description": "We're going to learn about programming, web design, responsive web design, Reactjs, Django, Python, web scraping, games, forms applications and more!  Thank you for subscribing!  \n\nProviding computer programming tutorials from beginner to advanced. In one place from one source.\n\nCheck out my website - https://www.codehawke.com\n\nThanks, \n\nChris",
+        "keywords": "\"react programming noob django python computer it websites\" node tech",
+        "trackingAnalyticsAccountId": "UA-52346721-1",
+        "unsubscribedTrailer": "IZj8hLrkABs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/wiTvFecXKqOSAJuIXDO-vDwxZErbL1NmhksfNY3SwLYu8jsiEyE3gMmSk0dT-Vv2sfn05CxOMw"
+      }
+    }
+  }
+}

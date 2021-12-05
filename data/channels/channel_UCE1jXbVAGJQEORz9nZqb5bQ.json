@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCE1jXbVAGJQEORz9nZqb5bQ",
+  "retrieved_on": "2021-12-05 03:47:31.215458",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "k5HCnnZ3oV1v5YrG1952lJxZMRM",
+    "id": "UCE1jXbVAGJQEORz9nZqb5bQ",
+    "snippet": {
+      "title": "Ahoy",
+      "description": "Insightful gaming videos.",
+      "publishedAt": "2009-10-17T07:13:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTRL0kiqvloaOiMWUBRv6Ak6vjdQXv3P8yNHo38Bw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTRL0kiqvloaOiMWUBRv6Ak6vjdQXv3P8yNHo38Bw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTRL0kiqvloaOiMWUBRv6Ak6vjdQXv3P8yNHo38Bw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ahoy",
+        "description": "Insightful gaming videos."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUE1jXbVAGJQEORz9nZqb5bQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "210847745",
+      "subscriberCount": "1640000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "287"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Ahoy",
+        "description": "Insightful gaming videos.",
+        "keywords": "ahoy xboxahoy \"Xbox Ahoy\" games gaming documentary informative history retro",
+        "trackingAnalyticsAccountId": "UA-72492-25",
+        "unsubscribedTrailer": "roBkg-iPrbw",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/01VcP6MMhERRkh7KpO-N6Lq-j4WvNHyt1zQC7ADYFzz5DrMU0C5_bOrBciEP6WRHrQ4sHcsx9A"
+      }
+    }
+  }
+}

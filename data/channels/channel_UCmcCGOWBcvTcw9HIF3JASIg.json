@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCmcCGOWBcvTcw9HIF3JASIg",
+  "retrieved_on": "2021-12-05 03:47:29.852485",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HQJmeNhdwE9bba8rUDZXXEmnujQ",
+    "id": "UCmcCGOWBcvTcw9HIF3JASIg",
+    "snippet": {
+      "title": "PaymoneyWubby Highlights",
+      "description": "The new and OFFICIAL channel for PaymoneyWubby stream highlights. Yes, this is run by Wubby.",
+      "customUrl": "paymoneywubbyhighlights",
+      "publishedAt": "2020-08-28T01:07:28.692758Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRC4tEsSlmJLTDXSRXaEPb0M6RtEMp5s4_hfCQr=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRC4tEsSlmJLTDXSRXaEPb0M6RtEMp5s4_hfCQr=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRC4tEsSlmJLTDXSRXaEPb0M6RtEMp5s4_hfCQr=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PaymoneyWubby Highlights",
+        "description": "The new and OFFICIAL channel for PaymoneyWubby stream highlights. Yes, this is run by Wubby."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmcCGOWBcvTcw9HIF3JASIg"
+      }
+    },
+    "statistics": {
+      "viewCount": "38555305",
+      "subscriberCount": "348000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "99"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PaymoneyWubby Highlights",
+        "description": "The new and OFFICIAL channel for PaymoneyWubby stream highlights. Yes, this is run by Wubby.",
+        "unsubscribedTrailer": "yER8igl1yJs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/KqlvoxeGvy3kapkuG0jM03E-dIaLi6mJYK2_MXaEBgisHE3s4Uxb6oLZr6_GgvLdT2WvLEp9"
+      }
+    }
+  }
+}

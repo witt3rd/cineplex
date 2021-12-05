@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCx36Uxaf_LHo635bK6kSCPQ",
+  "retrieved_on": "2021-12-05 03:47:32.898718",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "SqMupO5Qh9jA4J_EN2B49av7i-M",
+    "id": "UCx36Uxaf_LHo635bK6kSCPQ",
+    "snippet": {
+      "title": "markusfuller",
+      "description": "Electronics fascinate me and almost everything i have learned is by taking things apart. I,m very curious and I just want to know how everything works.\nI have to buy most items myself to make the video's so have setup a Patreon page incase anyone would like to help me out www.patreon.com/markusfuller",
+      "customUrl": "markusfuller",
+      "publishedAt": "2009-04-04T08:33:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_R4P1nR_LKmVoiUdc37h4kOptmKiLcpC6E2wEFw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_R4P1nR_LKmVoiUdc37h4kOptmKiLcpC6E2wEFw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS_R4P1nR_LKmVoiUdc37h4kOptmKiLcpC6E2wEFw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "markusfuller",
+        "description": "Electronics fascinate me and almost everything i have learned is by taking things apart. I,m very curious and I just want to know how everything works.\nI have to buy most items myself to make the video's so have setup a Patreon page incase anyone would like to help me out www.patreon.com/markusfuller"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUx36Uxaf_LHo635bK6kSCPQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "6075611",
+      "subscriberCount": "46800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "165"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "markusfuller",
+        "description": "Electronics fascinate me and almost everything i have learned is by taking things apart. I,m very curious and I just want to know how everything works.\nI have to buy most items myself to make the video's so have setup a Patreon page incase anyone would like to help me out www.patreon.com/markusfuller",
+        "keywords": "\"electronics synthesizers how to diy music education make\" blog vlog electronics synthesizer \"how to\" diy repair fix music keyboard",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/6S6LxHD_GJtit_ant9OyKnQmo1ZkY8gcMjBF5VMIp3EfZKgi89d61V8rMDDF7OeM0viKTirFb9I"
+      }
+    }
+  }
+}

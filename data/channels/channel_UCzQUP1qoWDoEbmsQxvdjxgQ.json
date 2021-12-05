@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+  "retrieved_on": "2021-12-05 03:47:37.514193",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "DwpjfVSggPKJVrox8WfTQPS2rE0",
+    "id": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+    "snippet": {
+      "title": "PowerfulJRE",
+      "description": "The Joe Rogan Experience podcast\n",
+      "customUrl": "joerogan",
+      "publishedAt": "2013-01-12T01:40:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2KcFQ2ddXLYVpxbXNVqf7nsi0NWg4_R4HqKIl=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2KcFQ2ddXLYVpxbXNVqf7nsi0NWg4_R4HqKIl=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS2KcFQ2ddXLYVpxbXNVqf7nsi0NWg4_R4HqKIl=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PowerfulJRE",
+        "description": "The Joe Rogan Experience podcast\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzQUP1qoWDoEbmsQxvdjxgQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1622823737",
+      "subscriberCount": "11400000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "568"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PowerfulJRE",
+        "description": "The Joe Rogan Experience podcast\n",
+        "keywords": "The Joe Rogan Experience",
+        "trackingAnalyticsAccountId": "UA-46951247-1"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/N1VYCJENxSvkX5t4xAOE1PQa-P6E2kKrYlVAvN3bh-F6ZeYeN4Rmazp-fuguQtCO-hv4xR9dsA"
+      }
+    }
+  }
+}

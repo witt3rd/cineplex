@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCnuqY7a57F_JRGQRY8naqQA",
+  "retrieved_on": "2021-12-05 03:47:33.604471",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "rf9K6b_bupasfl5FTJ4CaFRr2zk",
+    "id": "UCnuqY7a57F_JRGQRY8naqQA",
+    "snippet": {
+      "title": "Krac X",
+      "description": "",
+      "publishedAt": "2014-01-29T21:54:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRterBFsWA_JXhYWcdi6Ef_1ZO3__v3uf2qC8iD4g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRterBFsWA_JXhYWcdi6Ef_1ZO3__v3uf2qC8iD4g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRterBFsWA_JXhYWcdi6Ef_1ZO3__v3uf2qC8iD4g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Krac X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUnuqY7a57F_JRGQRY8naqQA"
+      }
+    },
+    "statistics": {
+      "viewCount": "105139",
+      "subscriberCount": "292",
+      "hiddenSubscriberCount": false,
+      "videoCount": "22"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Krac X"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Y_3M-AsMKoasYzMGPthGIizAPhqdC6EABXwdo-T_0_tu6nYZYun7jAxG5UnHtA1XXt4PUxshmg"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCsYYksPHiGqXHPoHI-fm5sg",
+  "retrieved_on": "2021-12-05 03:47:37.514247",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "9zuOMLoJTOw_OIbFEkMI6zqMYgs",
+    "id": "UCsYYksPHiGqXHPoHI-fm5sg",
+    "snippet": {
+      "title": "Whiteboard Crypto",
+      "description": "Welcome to whiteboard crypto, the #1 YouTube channel for crypto education and here we explain topics of the cryptocurrency world using analogies, stories, and examples so you can easily understand them.",
+      "customUrl": "whiteboardcrypto",
+      "publishedAt": "2021-03-19T21:06:12.052309Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS-T5nM_gtzpKcyer_q6RKRtnppGOMoJ76bFWiK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS-T5nM_gtzpKcyer_q6RKRtnppGOMoJ76bFWiK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLS-T5nM_gtzpKcyer_q6RKRtnppGOMoJ76bFWiK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Whiteboard Crypto",
+        "description": "Welcome to whiteboard crypto, the #1 YouTube channel for crypto education and here we explain topics of the cryptocurrency world using analogies, stories, and examples so you can easily understand them."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUsYYksPHiGqXHPoHI-fm5sg"
+      }
+    },
+    "statistics": {
+      "viewCount": "8908353",
+      "subscriberCount": "392000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "104"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Whiteboard Crypto",
+        "description": "Welcome to whiteboard crypto, the #1 YouTube channel for crypto education and here we explain topics of the cryptocurrency world using analogies, stories, and examples so you can easily understand them.",
+        "unsubscribedTrailer": "kHybf1aC-jE",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Uv5pMIq7vZZmrnDA5pUVoz5l_bS6apzGcT1qt8KFKusGh2IMU5DyFGpyelu0eYC_aGgGWy8eBA"
+      }
+    }
+  }
+}

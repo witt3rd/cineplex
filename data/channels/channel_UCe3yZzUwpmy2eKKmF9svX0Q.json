@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCe3yZzUwpmy2eKKmF9svX0Q",
+  "retrieved_on": "2021-12-05 03:47:32.034187",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "aUZPzmK8TMsEdg0ff4-tk_xHHjI",
+    "id": "UCe3yZzUwpmy2eKKmF9svX0Q",
+    "snippet": {
+      "title": "Jason Derulo",
+      "description": "CONNECT WITH JASON DERULO:\u202c\n\n\u202aInstagram - http://www.instagram.com/jasonderulo/ \nTikTok - https://www.tiktok.com/@jasonderulo\n\u202aFacebook - http://facebook.com/jasonderulo \n\u202aTwitter - http://twitter.com/jasonderulo  \n\u202aOfficial Website - http://www.jasonderulo.com/",
+      "customUrl": "jasonderulo",
+      "publishedAt": "2008-07-21T18:10:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTBMMFpnvTQZJrP1Ut4QO4qr84-8LdslllPNG_ORA=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTBMMFpnvTQZJrP1Ut4QO4qr84-8LdslllPNG_ORA=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTBMMFpnvTQZJrP1Ut4QO4qr84-8LdslllPNG_ORA=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Jason Derulo",
+        "description": "CONNECT WITH JASON DERULO:\u202c\n\n\u202aInstagram - http://www.instagram.com/jasonderulo/ \nTikTok - https://www.tiktok.com/@jasonderulo\n\u202aFacebook - http://facebook.com/jasonderulo \n\u202aTwitter - http://twitter.com/jasonderulo  \n\u202aOfficial Website - http://www.jasonderulo.com/"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUe3yZzUwpmy2eKKmF9svX0Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "8197309641",
+      "subscriberCount": "16100000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "354"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jason Derulo",
+        "description": "CONNECT WITH JASON DERULO:\u202c\n\n\u202aInstagram - http://www.instagram.com/jasonderulo/ \nTikTok - https://www.tiktok.com/@jasonderulo\n\u202aFacebook - http://facebook.com/jasonderulo \n\u202aTwitter - http://twitter.com/jasonderulo  \n\u202aOfficial Website - http://www.jasonderulo.com/",
+        "keywords": "Jason Derulo Entertainment Entertainer Singer Dancer Music R&B POP JR Rotem dance beluga heights dont wanna go home whatcha say ridin solo in my head future history marry me the other side",
+        "unsubscribedTrailer": "dx3wZfHF4c4",
+        "defaultLanguage": "en"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/fWU2bLEAvayjMUWDC51uY9XUzSj_XPvL2b_P1xl_ed7eH0nQKxmcx6r6uzOf7RDqAdbO9LTE"
+      }
+    }
+  }
+}

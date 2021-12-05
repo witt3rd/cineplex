@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCe1Ef-K5jpnRsmVY5hCBhOw",
+  "retrieved_on": "2021-12-05 03:47:35.856730",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "QWnM8e0UK_3gpwrpZ6Anz24oRMM",
+    "id": "UCe1Ef-K5jpnRsmVY5hCBhOw",
+    "snippet": {
+      "title": "BBC Newsbeat",
+      "description": "Hi - we're the team who \"do the news\" on BBC Radio 1 & 1Xtra. \nBut that's radio and this is video - so we'll be putting a monthly documentary here on a range of different things. \nEvery now and then we'll upload a shorter watch - something we've done which we think is good!\nObviously we'd love you to subscribe, and if you really want to make us smile turn on notifications so you don't miss the fruits of our labours!",
+      "publishedAt": "2006-10-31T14:31:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQAu75fDL6HGIVQGPyMqz5tA2lug_N1Qr3FB2pC5l0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQAu75fDL6HGIVQGPyMqz5tA2lug_N1Qr3FB2pC5l0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQAu75fDL6HGIVQGPyMqz5tA2lug_N1Qr3FB2pC5l0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "BBC Newsbeat",
+        "description": "Hi - we're the team who \"do the news\" on BBC Radio 1 & 1Xtra. \nBut that's radio and this is video - so we'll be putting a monthly documentary here on a range of different things. \nEvery now and then we'll upload a shorter watch - something we've done which we think is good!\nObviously we'd love you to subscribe, and if you really want to make us smile turn on notifications so you don't miss the fruits of our labours!"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUe1Ef-K5jpnRsmVY5hCBhOw"
+      }
+    },
+    "statistics": {
+      "viewCount": "31421831",
+      "subscriberCount": "98000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "224"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "BBC Newsbeat",
+        "description": "Hi - we're the team who \"do the news\" on BBC Radio 1 & 1Xtra. \nBut that's radio and this is video - so we'll be putting a monthly documentary here on a range of different things. \nEvery now and then we'll upload a shorter watch - something we've done which we think is good!\nObviously we'd love you to subscribe, and if you really want to make us smile turn on notifications so you don't miss the fruits of our labours!",
+        "keywords": "bbc newsbeat \"bbc newsbeat\" \"news beat\" \"radio 1\" 1xtra \"ben mundy\" \"roisin hastie\" documentaries news \"current affairs\" \"youth issues\" \"young people\" teenagers students",
+        "unsubscribedTrailer": "QE8kWV6eLfo",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/c_FtMR7rn0s-fEqByy6WFYe7Wc6N0Jif2b1yyuM5n-zShhc1jP48X9IvL5tmDXrG08tqVb1x_Q"
+      }
+    }
+  }
+}

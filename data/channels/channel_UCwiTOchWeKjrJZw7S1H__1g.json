@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCwiTOchWeKjrJZw7S1H__1g",
+  "retrieved_on": "2021-12-05 03:47:33.852013",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Imfub_g4x8SZRcJJVrEeb0POi9U",
+    "id": "UCwiTOchWeKjrJZw7S1H__1g",
+    "snippet": {
+      "title": "Food Insider",
+      "description": "What you want to know about food. A section of Insider. \n\nVisit our homepage for the top stories of the day: https://www.insider.com/\nFood Insider on Facebook: https://www.facebook.com/foodinsider\nFood Insider on Instagram: https://www.instagram.com/foodinsider/\nFood Insider on Twitter: https://twitter.com/InsiderFood\nFood Insider on TikTok: https://www.tiktok.com/@insiderfood\nInsider on Snapchat: https://www.snapchat.com/discover/Insider/2708030621\nFood Wars on Snapchat: https://www.snapchat.com/discover/Food_Wars/9045577297\n",
+      "customUrl": "insiderfood",
+      "publishedAt": "2017-10-17T21:11:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-ksoUHN9aRB62Le-rQGfZzDDMB9RbNDUyG2zYXQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-ksoUHN9aRB62Le-rQGfZzDDMB9RbNDUyG2zYXQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT-ksoUHN9aRB62Le-rQGfZzDDMB9RbNDUyG2zYXQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Food Insider",
+        "description": "What you want to know about food. A section of Insider. \n\nVisit our homepage for the top stories of the day: https://www.insider.com/\nFood Insider on Facebook: https://www.facebook.com/foodinsider\nFood Insider on Instagram: https://www.instagram.com/foodinsider/\nFood Insider on Twitter: https://twitter.com/InsiderFood\nFood Insider on TikTok: https://www.tiktok.com/@insiderfood\nInsider on Snapchat: https://www.snapchat.com/discover/Insider/2708030621\nFood Wars on Snapchat: https://www.snapchat.com/discover/Food_Wars/9045577297\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwiTOchWeKjrJZw7S1H__1g"
+      }
+    },
+    "statistics": {
+      "viewCount": "1389656597",
+      "subscriberCount": "3760000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1206"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Food Insider",
+        "description": "What you want to know about food. A section of Insider. \n\nVisit our homepage for the top stories of the day: https://www.insider.com/\nFood Insider on Facebook: https://www.facebook.com/foodinsider\nFood Insider on Instagram: https://www.instagram.com/foodinsider/\nFood Insider on Twitter: https://twitter.com/InsiderFood\nFood Insider on TikTok: https://www.tiktok.com/@insiderfood\nInsider on Snapchat: https://www.snapchat.com/discover/Insider/2708030621\nFood Wars on Snapchat: https://www.snapchat.com/discover/Food_Wars/9045577297\n",
+        "keywords": "INSIDER \"Business Insider\" \"Tech Insider\" Food \"Insider food\"",
+        "unsubscribedTrailer": "hpMenmmvSxw",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/jaNvSCZG1ebI4Vf2Zx2puoKg_15On7Std6gSGxtE2g8uiS28jkErhCYDacnIuPrwP0I-rwZ4aA"
+      }
+    }
+  }
+}

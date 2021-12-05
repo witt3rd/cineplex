@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCln5guOqnNzTiz0bso_y_Cg",
+  "retrieved_on": "2021-12-05 03:47:36.814727",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "mdDrtI_mtG9989hL8b5pZeXPFkY",
+    "id": "UCln5guOqnNzTiz0bso_y_Cg",
+    "snippet": {
+      "title": "MckennaCountrCulture",
+      "description": "This page is dedicated to uploading bitesize nibbles of some of Mckennas best insights from his much longer lectures. If you find a great Mckenna rap in a long lecture please message us so we can upload it as a new clip. Also we are accumulating all the Mckenna remixes people are making in one place, by either uploading directly or sharing in playlists, credit is given in every videos description to the original up-loader. Requests to link to websites or various others things can be added to video descriptions on request.  If you have made a Mckenna video and want us to upload it please message us, it will help your channel / website get more views and subscribers.\n\nIf you have a series of Mckenna productions, or rare uploads, please message us and we might be able to add a play-list of them to our channels main page to get you extra views and appreciation.",
+      "customUrl": "mckennacountrculture",
+      "publishedAt": "2013-04-05T17:19:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTh858dYjeBcngJr_6ph1rgwjeIIBOTKmJ5CCJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTh858dYjeBcngJr_6ph1rgwjeIIBOTKmJ5CCJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQTh858dYjeBcngJr_6ph1rgwjeIIBOTKmJ5CCJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MckennaCountrCulture",
+        "description": "This page is dedicated to uploading bitesize nibbles of some of Mckennas best insights from his much longer lectures. If you find a great Mckenna rap in a long lecture please message us so we can upload it as a new clip. Also we are accumulating all the Mckenna remixes people are making in one place, by either uploading directly or sharing in playlists, credit is given in every videos description to the original up-loader. Requests to link to websites or various others things can be added to video descriptions on request.  If you have made a Mckenna video and want us to upload it please message us, it will help your channel / website get more views and subscribers.\n\nIf you have a series of Mckenna productions, or rare uploads, please message us and we might be able to add a play-list of them to our channels main page to get you extra views and appreciation."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUln5guOqnNzTiz0bso_y_Cg"
+      }
+    },
+    "statistics": {
+      "viewCount": "11837708",
+      "subscriberCount": "69000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "752"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MckennaCountrCulture",
+        "description": "This page is dedicated to uploading bitesize nibbles of some of Mckennas best insights from his much longer lectures. If you find a great Mckenna rap in a long lecture please message us so we can upload it as a new clip. Also we are accumulating all the Mckenna remixes people are making in one place, by either uploading directly or sharing in playlists, credit is given in every videos description to the original up-loader. Requests to link to websites or various others things can be added to video descriptions on request.  If you have made a Mckenna video and want us to upload it please message us, it will help your channel / website get more views and subscribers.\n\nIf you have a series of Mckenna productions, or rare uploads, please message us and we might be able to add a play-list of them to our channels main page to get you extra views and appreciation.",
+        "unsubscribedTrailer": "oHSDvSkPD7U"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/gq47wWppOaZcC1e6gtPQkQwc-H9OgZXNsWivY5I5zrzQGIOpzM4gmenIJVDD8TdpvaExhymV3DU"
+      }
+    }
+  }
+}

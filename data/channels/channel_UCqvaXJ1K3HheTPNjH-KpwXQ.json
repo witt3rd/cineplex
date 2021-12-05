@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCqvaXJ1K3HheTPNjH-KpwXQ",
+  "retrieved_on": "2021-12-05 03:47:37.514240",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xXliI1bWefaStwGsSaFyw_d3wUQ",
+    "id": "UCqvaXJ1K3HheTPNjH-KpwXQ",
+    "snippet": {
+      "title": "Principles by Ray Dalio",
+      "description": "Ray Dalio is the founder, co-Chief Investment Officer and co-Chairman of Bridgewater Associates, which is a global macro investment firm and is the world\u2019s largest hedge fund. He's also the author of the #1 NYTimes Bestseller, Principles: Life and Work. He is known to have a very practical understanding of economics that is very different from conventional economic thinking that he spells out in his video series \"How the Economic Machine Works\".",
+      "customUrl": "principlesbyraydalio",
+      "publishedAt": "2006-04-02T00:37:15Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrz9GXO3Gh634jwlc5sAd93K1vtSjJCy0IBage0g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrz9GXO3Gh634jwlc5sAd93K1vtSjJCy0IBage0g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQrz9GXO3Gh634jwlc5sAd93K1vtSjJCy0IBage0g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Principles by Ray Dalio",
+        "description": "Ray Dalio is the founder, co-Chief Investment Officer and co-Chairman of Bridgewater Associates, which is a global macro investment firm and is the world\u2019s largest hedge fund. He's also the author of the #1 NYTimes Bestseller, Principles: Life and Work. He is known to have a very practical understanding of economics that is very different from conventional economic thinking that he spells out in his video series \"How the Economic Machine Works\"."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUqvaXJ1K3HheTPNjH-KpwXQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "81236596",
+      "subscriberCount": "1200000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "56"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Principles by Ray Dalio",
+        "description": "Ray Dalio is the founder, co-Chief Investment Officer and co-Chairman of Bridgewater Associates, which is a global macro investment firm and is the world\u2019s largest hedge fund. He's also the author of the #1 NYTimes Bestseller, Principles: Life and Work. He is known to have a very practical understanding of economics that is very different from conventional economic thinking that he spells out in his video series \"How the Economic Machine Works\".",
+        "keywords": "raydalio \"ray dalio\" \"bridgewater associates\" \"principles for success\" principles \"how to\" advice success \"how to succeed in business\" \"how to succeed in life\" \"tony robbins\" \"how the economic machine works\" economics finance economy",
+        "trackingAnalyticsAccountId": "UA-12801279-3",
+        "unsubscribedTrailer": "Fcl_W0l2gxE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/IA_OPYyxIYAw1rls1eb3iNjy0XPy-KIY4xDEj69IBmCrZKehD9_S2VyjNMwdj6dOR5qhvy0--Eg"
+      }
+    }
+  }
+}

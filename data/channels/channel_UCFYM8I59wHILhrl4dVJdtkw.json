@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCFYM8I59wHILhrl4dVJdtkw",
+  "retrieved_on": "2021-12-05 03:47:40.531454",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "ng40TufhAxhAMR2E7v-cug9ucVk",
+    "id": "UCFYM8I59wHILhrl4dVJdtkw",
+    "snippet": {
+      "title": "Life Without Filters",
+      "description": "Life as it is.",
+      "customUrl": "lifewithoutfilters",
+      "publishedAt": "2011-12-11T01:19:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/sWa5slYjIMiJWEonCKz24HMQHoCA5Dtr5SW3ColJ5XT7IpqyswhBzvVUVfsxfV2uaXhfyr1aoQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/sWa5slYjIMiJWEonCKz24HMQHoCA5Dtr5SW3ColJ5XT7IpqyswhBzvVUVfsxfV2uaXhfyr1aoQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/sWa5slYjIMiJWEonCKz24HMQHoCA5Dtr5SW3ColJ5XT7IpqyswhBzvVUVfsxfV2uaXhfyr1aoQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Life Without Filters",
+        "description": "Life as it is."
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFYM8I59wHILhrl4dVJdtkw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1973",
+      "hiddenSubscriberCount": true,
+      "videoCount": "31"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Life Without Filters",
+        "description": "Life as it is.",
+        "keywords": "\"soothing relaxation\" \"relaxing sound\" \"meditation music\" \"relaxing music\" \"sleep music\" \"stress relief\" \"anxiety relief\" \"tinnitus relief\" zen \"deep sleep\" \"reddit stories\" \"short stories\" \"personal vlogs\" \"interesting stories\" \"daily vlogs\" \"funny stories\"",
+        "unsubscribedTrailer": "QVD0eAiN4WA",
+        "country": "AU"
+      }
+    }
+  }
+}

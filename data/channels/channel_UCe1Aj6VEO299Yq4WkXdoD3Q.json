@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCe1Aj6VEO299Yq4WkXdoD3Q",
+  "retrieved_on": "2021-12-05 03:47:37.250663",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "iRB1jBA1AGeySg_jsf5U8UCFLDI",
+    "id": "UCe1Aj6VEO299Yq4WkXdoD3Q",
+    "snippet": {
+      "title": "Alexandre Chappel",
+      "description": "I'm an Industrial designer and a maker - I make videos about my projects.",
+      "customUrl": "achappel",
+      "publishedAt": "2011-10-28T10:26:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSLtTEllkAPg9x2GWdpvnNDse10vqWtNqlz9DIT=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSLtTEllkAPg9x2GWdpvnNDse10vqWtNqlz9DIT=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSLtTEllkAPg9x2GWdpvnNDse10vqWtNqlz9DIT=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Alexandre Chappel",
+        "description": "I'm an Industrial designer and a maker - I make videos about my projects."
+      },
+      "country": "NO"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUe1Aj6VEO299Yq4WkXdoD3Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "16864832",
+      "subscriberCount": "324000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "96"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Alexandre Chappel",
+        "description": "I'm an Industrial designer and a maker - I make videos about my projects.",
+        "keywords": "maker making wood metal design creative entertaining diy fun workshop craft",
+        "moderateComments": true,
+        "country": "NO"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/NxIr_CKtBee3yCHCVZg8xh_AJppAnCSxxZppiHzv1EV7FkvjEEi4DaZHfCYXq_bP8i7KOR4Y"
+      }
+    }
+  }
+}

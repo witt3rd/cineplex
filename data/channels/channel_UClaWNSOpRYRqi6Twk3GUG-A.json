@@ -1,0 +1,61 @@
+{
+  "channel_id": "UClaWNSOpRYRqi6Twk3GUG-A",
+  "retrieved_on": "2021-12-05 03:47:41.016829",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nANhlxbL0S6fevd8VrUPXHpOXC0",
+    "id": "UClaWNSOpRYRqi6Twk3GUG-A",
+    "snippet": {
+      "title": "Rugbug Redfern",
+      "description": "Hello everyone! I'm an indie game developer using Unity C# to make games. You can play them on itch.io (link below)! Subscribe and join my discord server (link below) to follow my progress!\n\nFor contact, please email me or join my discord server. You can also DM me on Reddit (u/RugbugRedfern)\n",
+      "customUrl": "rugbugredfern",
+      "publishedAt": "2014-11-23T01:23:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJEsQuYxCg6y4J9x-NGK5VqBOZvQPfve6wJpELgQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJEsQuYxCg6y4J9x-NGK5VqBOZvQPfve6wJpELgQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQJEsQuYxCg6y4J9x-NGK5VqBOZvQPfve6wJpELgQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rugbug Redfern",
+        "description": "Hello everyone! I'm an indie game developer using Unity C# to make games. You can play them on itch.io (link below)! Subscribe and join my discord server (link below) to follow my progress!\n\nFor contact, please email me or join my discord server. You can also DM me on Reddit (u/RugbugRedfern)\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUlaWNSOpRYRqi6Twk3GUG-A"
+      }
+    },
+    "statistics": {
+      "viewCount": "765413",
+      "subscriberCount": "5940",
+      "hiddenSubscriberCount": false,
+      "videoCount": "106"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Rugbug Redfern",
+        "description": "Hello everyone! I'm an indie game developer using Unity C# to make games. You can play them on itch.io (link below)! Subscribe and join my discord server (link below) to follow my progress!\n\nFor contact, please email me or join my discord server. You can also DM me on Reddit (u/RugbugRedfern)\n",
+        "keywords": "unity programming coding photon \"pun 2\" multiplayer tutorial devlog development \"game design\" game gaming create code program programmer c# java WPF Winforms unreal engine unity3D \"unity 3d\" \"how to\" walkthrough multiplayer online co-op dev \"game development\"",
+        "unsubscribedTrailer": "ryPXAkvCdSs",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/K0L7IWYtaujIgVO4kOxkPzXU8NTV7hN0fGAyF2vlnnameELaB2l2xvS-pnJ63yDcoRiA9jSk"
+      }
+    }
+  }
+}

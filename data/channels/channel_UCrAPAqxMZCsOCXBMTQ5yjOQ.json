@@ -1,0 +1,54 @@
+{
+  "channel_id": "UCrAPAqxMZCsOCXBMTQ5yjOQ",
+  "retrieved_on": "2021-12-05 03:47:36.809238",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "IHAbtL5ff3wDDY62q-L58o-r0Yg",
+    "id": "UCrAPAqxMZCsOCXBMTQ5yjOQ",
+    "snippet": {
+      "title": "RevolutionVoid",
+      "description": "Revolution Void is the electronic jazz music project of producer Jonah Dempcy. The music of Revolution Void ranges from upbeat dancefloor-friendly breaks to dark and moody downtempo soundscapes, from mainstream sensibilities to avant-garde experimentalism.",
+      "publishedAt": "2012-09-23T02:44:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuWkx3IT9sUlASZpY8uoJjVExc6bOesaP71F-T=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuWkx3IT9sUlASZpY8uoJjVExc6bOesaP71F-T=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRuWkx3IT9sUlASZpY8uoJjVExc6bOesaP71F-T=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "RevolutionVoid",
+        "description": "Revolution Void is the electronic jazz music project of producer Jonah Dempcy. The music of Revolution Void ranges from upbeat dancefloor-friendly breaks to dark and moody downtempo soundscapes, from mainstream sensibilities to avant-garde experimentalism."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUrAPAqxMZCsOCXBMTQ5yjOQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "129657",
+      "subscriberCount": "381",
+      "hiddenSubscriberCount": false,
+      "videoCount": "38"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "RevolutionVoid",
+        "description": "Revolution Void is the electronic jazz music project of producer Jonah Dempcy. The music of Revolution Void ranges from upbeat dancefloor-friendly breaks to dark and moody downtempo soundscapes, from mainstream sensibilities to avant-garde experimentalism.",
+        "keywords": "\"revolution void\" nu-jazz \"breakbeat jazz\" breaks \"acid jazz\" \"electronic dance music\" edm electronica downtempo avant-garde \"jazz breaks\""
+      }
+    }
+  }
+}

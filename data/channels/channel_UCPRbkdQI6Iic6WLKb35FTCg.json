@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCPRbkdQI6Iic6WLKb35FTCg",
+  "retrieved_on": "2021-12-05 03:47:36.581239",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5tLxt_8hEa0go8K1o1Xl95QPSEw",
+    "id": "UCPRbkdQI6Iic6WLKb35FTCg",
+    "snippet": {
+      "title": "RarestRecords",
+      "description": "This channel is a way of sharing incredibly rare Prog/Psych/Folk/Glam music (mainly from the 1960s -70`s) with youtubers, it will feature some of the rarest ever vinyl releases, many complete Albums with photos of their artwork and obscure band photos, plus sharing some unreleased recordings that I have access to. As a collector some I own, some I have now sold, some I am unlikely to own (i.e Bread & Beer band). When it comes to values/prices they will usually be for Mint/Near Mint original 1st Issue pressings which are now very rare and the price quoted is the price they have sold for in that condition. Why not subscribe as I will be uploading new videos regularly!!! I hope you enjoy the Ride!!",
+      "customUrl": "rarestrecords",
+      "publishedAt": "2007-06-09T19:38:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4zhN74yotcPNfhLcSXMHnfaFTKNsTaL3n6uMu=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4zhN74yotcPNfhLcSXMHnfaFTKNsTaL3n6uMu=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4zhN74yotcPNfhLcSXMHnfaFTKNsTaL3n6uMu=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "RarestRecords",
+        "description": "This channel is a way of sharing incredibly rare Prog/Psych/Folk/Glam music (mainly from the 1960s -70`s) with youtubers, it will feature some of the rarest ever vinyl releases, many complete Albums with photos of their artwork and obscure band photos, plus sharing some unreleased recordings that I have access to. As a collector some I own, some I have now sold, some I am unlikely to own (i.e Bread & Beer band). When it comes to values/prices they will usually be for Mint/Near Mint original 1st Issue pressings which are now very rare and the price quoted is the price they have sold for in that condition. Why not subscribe as I will be uploading new videos regularly!!! I hope you enjoy the Ride!!"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPRbkdQI6Iic6WLKb35FTCg"
+      }
+    },
+    "statistics": {
+      "viewCount": "6131491",
+      "subscriberCount": "66900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "135"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "RarestRecords",
+        "description": "This channel is a way of sharing incredibly rare Prog/Psych/Folk/Glam music (mainly from the 1960s -70`s) with youtubers, it will feature some of the rarest ever vinyl releases, many complete Albums with photos of their artwork and obscure band photos, plus sharing some unreleased recordings that I have access to. As a collector some I own, some I have now sold, some I am unlikely to own (i.e Bread & Beer band). When it comes to values/prices they will usually be for Mint/Near Mint original 1st Issue pressings which are now very rare and the price quoted is the price they have sold for in that condition. Why not subscribe as I will be uploading new videos regularly!!! I hope you enjoy the Ride!!",
+        "keywords": "\"Rarest Records\" \"Rare LP`s\" \"Rare Records\" \"Rare Vinyl\" \"Rare Progressive Rock\" \"Rare Folk Rock Records\" \"Rare Psychedelic Records\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "BC3U4liwgTM",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/VAlkUHbLsYDi4LK9mRfTWGy1ex8aBzmVtGcQIa7QPFbvGDuf9v8zLYPhTK9qkfz4j1Rapj5Dlg4"
+      }
+    }
+  }
+}

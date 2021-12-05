@@ -1,0 +1,58 @@
+{
+  "channel_id": "UCYXrteyY2pCqD73meusP1-A",
+  "retrieved_on": "2021-12-05 03:47:28.304238",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "cwlImRtoAoLUC-5-PRD0gGFKKiY",
+    "id": "UCYXrteyY2pCqD73meusP1-A",
+    "snippet": {
+      "title": "Oxford VaccineGroup",
+      "description": "The Oxford Vaccine Group (OVG) conducts studies of new and improved vaccines for children and adults and is based in the Department of Paediatrics at the University of Oxford. The group is led by Professor Sir Andrew J Pollard.\n\nOVG was founded in 1994 by Professor E. Richard Moxon. The multidisciplinary group, led by Professor Pollard since 2001, includes consultants in vaccinology, a Director of Clinical Trials, a Senior Clinical Trials Manager, adult and paediatric clinical research fellows, adult and paediatric research nurses, project managers, statisticians, QA manager, Clinical Trials IT and Development Lead, and an administration team. Our team also includes post doctoral scientists, research assistants and DPhil students and we work together with professionals from a range of specialities such as immunologists, microbiologists, epidemiologists, health communicators, and a sociologist, a community paediatrician, the local Health Protection team and a bioethicist.\n",
+      "publishedAt": "2012-04-26T14:55:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/NSJ2eRfr4LlDNwsNUYOSBMVdjuZavMs0AvnIYVb0SYT3vgEz-rRWwJOmmX2B7AFrEqo6FJBIlg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/NSJ2eRfr4LlDNwsNUYOSBMVdjuZavMs0AvnIYVb0SYT3vgEz-rRWwJOmmX2B7AFrEqo6FJBIlg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/NSJ2eRfr4LlDNwsNUYOSBMVdjuZavMs0AvnIYVb0SYT3vgEz-rRWwJOmmX2B7AFrEqo6FJBIlg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Oxford VaccineGroup",
+        "description": "The Oxford Vaccine Group (OVG) conducts studies of new and improved vaccines for children and adults and is based in the Department of Paediatrics at the University of Oxford. The group is led by Professor Sir Andrew J Pollard.\n\nOVG was founded in 1994 by Professor E. Richard Moxon. The multidisciplinary group, led by Professor Pollard since 2001, includes consultants in vaccinology, a Director of Clinical Trials, a Senior Clinical Trials Manager, adult and paediatric clinical research fellows, adult and paediatric research nurses, project managers, statisticians, QA manager, Clinical Trials IT and Development Lead, and an administration team. Our team also includes post doctoral scientists, research assistants and DPhil students and we work together with professionals from a range of specialities such as immunologists, microbiologists, epidemiologists, health communicators, and a sociologist, a community paediatrician, the local Health Protection team and a bioethicist.\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYXrteyY2pCqD73meusP1-A"
+      }
+    },
+    "statistics": {
+      "viewCount": "784093",
+      "subscriberCount": "1450",
+      "hiddenSubscriberCount": false,
+      "videoCount": "83"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Oxford VaccineGroup",
+        "description": "The Oxford Vaccine Group (OVG) conducts studies of new and improved vaccines for children and adults and is based in the Department of Paediatrics at the University of Oxford. The group is led by Professor Sir Andrew J Pollard.\n\nOVG was founded in 1994 by Professor E. Richard Moxon. The multidisciplinary group, led by Professor Pollard since 2001, includes consultants in vaccinology, a Director of Clinical Trials, a Senior Clinical Trials Manager, adult and paediatric clinical research fellows, adult and paediatric research nurses, project managers, statisticians, QA manager, Clinical Trials IT and Development Lead, and an administration team. Our team also includes post doctoral scientists, research assistants and DPhil students and we work together with professionals from a range of specialities such as immunologists, microbiologists, epidemiologists, health communicators, and a sociologist, a community paediatrician, the local Health Protection team and a bioethicist.\n",
+        "keywords": "OVG \"Oxford Vaccine Group\" Vaccine \"vaccine knowledge\" IIC \"University of Oxford\"",
+        "trackingAnalyticsAccountId": "UA-37195227-1"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/2DRHSUnDfpa52jb7I5nKzlN24oHeWR4Tw2FFMYqaDZQlQknbQ8_iwMIwapHYsAyowrYpyf4tzQ"
+      }
+    }
+  }
+}

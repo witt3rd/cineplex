@@ -1,0 +1,60 @@
+{
+  "channel_id": "UC7Ez4rovbLJWq_LXZADjVXw",
+  "retrieved_on": "2021-12-05 03:47:39.939456",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "X3FcJMSPjQUCE9r5eHpxfSrr7bE",
+    "id": "UC7Ez4rovbLJWq_LXZADjVXw",
+    "snippet": {
+      "title": "Do It Whenever?",
+      "description": "DIW - Do It Whenever\n\nMaker, designer, and creator working on various projects and ideas that solve issues while helping others along the way.\n\n3d printing, laser cutting/engraving, software/hardware integration, and brute force garage work are aspects present in my projects and art.\n\nwww.thingiverse.com/doitwhenever/designs\nwww.doitwhenever.com\nwww.instagram.com/do.it.whenever\n",
+      "customUrl": "doitwhenever",
+      "publishedAt": "2020-01-11T10:34:52.491966Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRbo5o3Of5w61I80L0xbLnCElANS-i-s-gxMfx-=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRbo5o3Of5w61I80L0xbLnCElANS-i-s-gxMfx-=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRbo5o3Of5w61I80L0xbLnCElANS-i-s-gxMfx-=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Do It Whenever?",
+        "description": "DIW - Do It Whenever\n\nMaker, designer, and creator working on various projects and ideas that solve issues while helping others along the way.\n\n3d printing, laser cutting/engraving, software/hardware integration, and brute force garage work are aspects present in my projects and art.\n\nwww.thingiverse.com/doitwhenever/designs\nwww.doitwhenever.com\nwww.instagram.com/do.it.whenever\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7Ez4rovbLJWq_LXZADjVXw"
+      }
+    },
+    "statistics": {
+      "viewCount": "204436",
+      "subscriberCount": "10300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "6"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Do It Whenever?",
+        "description": "DIW - Do It Whenever\n\nMaker, designer, and creator working on various projects and ideas that solve issues while helping others along the way.\n\n3d printing, laser cutting/engraving, software/hardware integration, and brute force garage work are aspects present in my projects and art.\n\nwww.thingiverse.com/doitwhenever/designs\nwww.doitwhenever.com\nwww.instagram.com/do.it.whenever\n",
+        "keywords": "\"DIY do it yourself\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/OVhsqSufuXVHRQj0aa-gK397F_8YZe9t3VCmQP0xC6pSpBwLdJjenGtILqftIigFK145uZFh"
+      }
+    }
+  }
+}

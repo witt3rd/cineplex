@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC9IuUwwE2xdjQUT_LMLONoA",
+  "retrieved_on": "2021-12-05 03:47:28.552289",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Ek_NrS44x9gtbJDADXPAzkD-0eU",
+    "id": "UC9IuUwwE2xdjQUT_LMLONoA",
+    "snippet": {
+      "title": "The Julia Programming Language",
+      "description": "Julia is a high-performance, dynamic programming language for modern technical computing. It solves the two language problem by being simultaneously as fast as C and as easy as Python. The built-in package manager provides access to over 6,000 Julia packages created by the Julia community, in addition to foreign function interfaces for tens of thousands of C, Fortran, Python, and R libraries.\n\nThe Julia package ecosystem includes best in class packages in a number of ecosystems: Image Processing, Machine Learning, Data Science, Optimization, Parallel computing, Cloud computing, Automatic Differentiation, Graph Processing, Probabilistic Programming, Finite Elements, Computational Biology, Ecology, Climate science, Astrophysics, Quantum Computing, and much more.\n",
+      "customUrl": "thejulialanguage",
+      "publishedAt": "2013-03-25T12:38:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRTag_BUufSPddbTf92uOWlkGEY8yZlTsv_1Q-bwQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRTag_BUufSPddbTf92uOWlkGEY8yZlTsv_1Q-bwQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRTag_BUufSPddbTf92uOWlkGEY8yZlTsv_1Q-bwQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Julia Programming Language",
+        "description": "Julia is a high-performance, dynamic programming language for modern technical computing. It solves the two language problem by being simultaneously as fast as C and as easy as Python. The built-in package manager provides access to over 6,000 Julia packages created by the Julia community, in addition to foreign function interfaces for tens of thousands of C, Fortran, Python, and R libraries.\n\nThe Julia package ecosystem includes best in class packages in a number of ecosystems: Image Processing, Machine Learning, Data Science, Optimization, Parallel computing, Cloud computing, Automatic Differentiation, Graph Processing, Probabilistic Programming, Finite Elements, Computational Biology, Ecology, Climate science, Astrophysics, Quantum Computing, and much more.\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU9IuUwwE2xdjQUT_LMLONoA"
+      }
+    },
+    "statistics": {
+      "viewCount": "4692003",
+      "subscriberCount": "61600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1284"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Julia Programming Language",
+        "description": "Julia is a high-performance, dynamic programming language for modern technical computing. It solves the two language problem by being simultaneously as fast as C and as easy as Python. The built-in package manager provides access to over 6,000 Julia packages created by the Julia community, in addition to foreign function interfaces for tens of thousands of C, Fortran, Python, and R libraries.\n\nThe Julia package ecosystem includes best in class packages in a number of ecosystems: Image Processing, Machine Learning, Data Science, Optimization, Parallel computing, Cloud computing, Automatic Differentiation, Graph Processing, Probabilistic Programming, Finite Elements, Computational Biology, Ecology, Climate science, Astrophysics, Quantum Computing, and much more.\n",
+        "keywords": "Julia Programming opensource \"learn to code\" \"learn to program\" \"learn julia\" \"diversity in tech\" Julialang \"Julia Language\" \"Machine Learning\" coding code \"women in tech\" \"Data Science\" ai \"women in ml\" \"anyone can code\" \"everyone can code\" \"women in machine learning\" \"code newbie\"",
+        "trackingAnalyticsAccountId": "UA-28835595-8",
+        "unsubscribedTrailer": "_dIsKnABvQ4",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/FllYg0h2UnJgBjiPDEiPMyw-ZueamqFrXD49CT_m-NxzXdi-EDRsHMBpUS74AZ4qmDQm2bC6"
+      }
+    }
+  }
+}

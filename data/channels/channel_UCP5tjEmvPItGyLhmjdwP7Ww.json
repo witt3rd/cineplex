@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCP5tjEmvPItGyLhmjdwP7Ww",
+  "retrieved_on": "2021-12-05 03:47:31.570403",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "FDTlUH8zZmvKeTDngwKI-iH08yQ",
+    "id": "UCP5tjEmvPItGyLhmjdwP7Ww",
+    "snippet": {
+      "title": "RealLifeLore",
+      "description": "Answers to questions that you've never asked. Welcome to the RealLifeLore community\n\nPlease subscribe and ring the bell\n\nBusiness Email: reallifelore@standard.tv",
+      "customUrl": "reallifelore",
+      "publishedAt": "2016-02-15T04:55:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSp0-wTRfOTEZwjNemKUXs_eFtKPCnnIfsWBqGhVg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSp0-wTRfOTEZwjNemKUXs_eFtKPCnnIfsWBqGhVg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSp0-wTRfOTEZwjNemKUXs_eFtKPCnnIfsWBqGhVg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "RealLifeLore",
+        "description": "Answers to questions that you've never asked. Welcome to the RealLifeLore community\n\nPlease subscribe and ring the bell\n\nBusiness Email: reallifelore@standard.tv"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUP5tjEmvPItGyLhmjdwP7Ww"
+      }
+    },
+    "statistics": {
+      "viewCount": "1008292548",
+      "subscriberCount": "4810000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "256"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "RealLifeLore",
+        "description": "Answers to questions that you've never asked. Welcome to the RealLifeLore community\n\nPlease subscribe and ring the bell\n\nBusiness Email: reallifelore@standard.tv",
+        "keywords": "\"real life lore\" \"real life lore maps\" \"real life lore geography\" \"real life maps\" \"world map\" \"world map is wrong\" \"world map with countries\" \"world map real size\" \"map of the world\" \"world geography\" geography \"geography (field of study)\" \"facts you didn\u2019t know\"",
+        "unsubscribedTrailer": "9mVRc80vhhQ",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/2455n3or5DwLv_ODJwiwsVBCXARB4vD1YUFPg5KQlKVKZ-IXiNzhbJXs-9a5l8ODyA8ChmZ6Fw"
+      }
+    }
+  }
+}

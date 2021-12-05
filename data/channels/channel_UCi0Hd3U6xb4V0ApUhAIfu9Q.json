@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCi0Hd3U6xb4V0ApUhAIfu9Q",
+  "retrieved_on": "2021-12-05 03:47:37.728332",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "IVQpT0rxAN4fCwu_H88ibS9MUEw",
+    "id": "UCi0Hd3U6xb4V0ApUhAIfu9Q",
+    "snippet": {
+      "title": "Psychothan and the Jonathanauts",
+      "description": "Award-winning PhD dropout \ud83c\udfc6 \u24b6lways \u2a17ree, \u2115ever \ud835\udc9cccredited...\n\n\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\n\nUpdates \u261e https://twitter.com/jonathandinu\nGIFs \u261e https://giphy.com/channel/jonathandinu\nCourses \u261e https://jonathans.courses\nMerch \u261e https://jonathans.shop\nCommissions \u261e https://jonathans.consulting\nE'rything else \u261e https://jonathandinu.com\n",
+      "customUrl": "jonathandinu",
+      "publishedAt": "2015-03-20T21:52:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/T_yzlQONez56mvUlqFdvrzkomZYclAkz-wCkYQSUs9w-BoLXwVs4QeeWL9Y1NqcN5wRuOnta=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/T_yzlQONez56mvUlqFdvrzkomZYclAkz-wCkYQSUs9w-BoLXwVs4QeeWL9Y1NqcN5wRuOnta=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/T_yzlQONez56mvUlqFdvrzkomZYclAkz-wCkYQSUs9w-BoLXwVs4QeeWL9Y1NqcN5wRuOnta=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Psychothan and the Jonathanauts",
+        "description": "Award-winning PhD dropout \ud83c\udfc6 \u24b6lways \u2a17ree, \u2115ever \ud835\udc9cccredited...\n\n\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\n\nUpdates \u261e https://twitter.com/jonathandinu\nGIFs \u261e https://giphy.com/channel/jonathandinu\nCourses \u261e https://jonathans.courses\nMerch \u261e https://jonathans.shop\nCommissions \u261e https://jonathans.consulting\nE'rything else \u261e https://jonathandinu.com\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUi0Hd3U6xb4V0ApUhAIfu9Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "8236",
+      "subscriberCount": "344",
+      "hiddenSubscriberCount": false,
+      "videoCount": "9"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Psychothan and the Jonathanauts",
+        "description": "Award-winning PhD dropout \ud83c\udfc6 \u24b6lways \u2a17ree, \u2115ever \ud835\udc9cccredited...\n\n\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\n\nUpdates \u261e https://twitter.com/jonathandinu\nGIFs \u261e https://giphy.com/channel/jonathandinu\nCourses \u261e https://jonathans.courses\nMerch \u261e https://jonathans.shop\nCommissions \u261e https://jonathans.consulting\nE'rything else \u261e https://jonathandinu.com\n",
+        "keywords": "\"data science\" \"deep learning\" python javascript \"data visualization\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/MxX_rl9xTOrBIGxOP7CPRZFIAo8ZsmyhGuv7jxBl8CfcHPyJygPH3wizJgJsVJBY4cC4RmM9oX0"
+      }
+    }
+  }
+}

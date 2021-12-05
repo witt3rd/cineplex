@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCaHaoxnK04VvbLBTYli6obA",
+  "retrieved_on": "2021-12-05 03:47:36.095842",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "0oanMqs3nFSTzJyfckI16VIioAY",
+    "id": "UCaHaoxnK04VvbLBTYli6obA",
+    "snippet": {
+      "title": "Sero.Overdose - Topic",
+      "description": "",
+      "publishedAt": "2013-10-23T16:37:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kBOaWFQ2rfd6lx5SMXg9i6a1TDUYQKkm-oGMU-dNhFOf5XgZuODECRGvEGO83RxhIV0ZwZyAow=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kBOaWFQ2rfd6lx5SMXg9i6a1TDUYQKkm-oGMU-dNhFOf5XgZuODECRGvEGO83RxhIV0ZwZyAow=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kBOaWFQ2rfd6lx5SMXg9i6a1TDUYQKkm-oGMU-dNhFOf5XgZuODECRGvEGO83RxhIV0ZwZyAow=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sero.Overdose - Topic",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUaHaoxnK04VvbLBTYli6obA"
+      }
+    },
+    "statistics": {
+      "viewCount": "33788",
+      "subscriberCount": "152",
+      "hiddenSubscriberCount": false,
+      "videoCount": "78"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sero.Overdose - Topic"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Ro0KC_lqAlV-4dwDBFVtJLSKEU4fEpVVt7b-OPcRX7YnNhf6oEVWIQZ33focQxmmo3jaBqG7814"
+      }
+    }
+  }
+}

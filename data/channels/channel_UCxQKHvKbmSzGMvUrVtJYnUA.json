@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCxQKHvKbmSzGMvUrVtJYnUA",
+  "retrieved_on": "2021-12-05 03:47:36.581158",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "WFQnBFKyvN3zzJ8R0B5ZEVBM69c",
+    "id": "UCxQKHvKbmSzGMvUrVtJYnUA",
+    "snippet": {
+      "title": "LearnLinuxTV",
+      "description": "Want to Learn Linux? You came to the right place. On my channel I post Linux tutorials, guides, distribution reviews, and more. If you would like to have something covered that I haven't gotten around to yet, let me know!\n\n\ud83d\udcec Shipping:\n1737 Spring Arbor Rd #197\nJackson, MI 49203\n",
+      "customUrl": "learnlinuxtv",
+      "publishedAt": "2011-06-02T00:53:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSFadDrzEpOmbopzQAK6EE7uzQXp8yNaKoGEAgKIA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSFadDrzEpOmbopzQAK6EE7uzQXp8yNaKoGEAgKIA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSFadDrzEpOmbopzQAK6EE7uzQXp8yNaKoGEAgKIA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LearnLinuxTV",
+        "description": "Want to Learn Linux? You came to the right place. On my channel I post Linux tutorials, guides, distribution reviews, and more. If you would like to have something covered that I haven't gotten around to yet, let me know!\n\n\ud83d\udcec Shipping:\n1737 Spring Arbor Rd #197\nJackson, MI 49203\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUxQKHvKbmSzGMvUrVtJYnUA"
+      }
+    },
+    "statistics": {
+      "viewCount": "18160698",
+      "subscriberCount": "209000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "765"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "LearnLinuxTV",
+        "description": "Want to Learn Linux? You came to the right place. On my channel I post Linux tutorials, guides, distribution reviews, and more. If you would like to have something covered that I haven't gotten around to yet, let me know!\n\n\ud83d\udcec Shipping:\n1737 Spring Arbor Rd #197\nJackson, MI 49203\n",
+        "keywords": "LearnLinux Linux Review Preview Distribution Howto Ubuntu Debian Arch Scripting Tutorial GNU/Linux \"Linux Tutorials\" \"Linux Reviews\" \"How to use Linux\" \"Linux Operating System\" Pop!_OS \"Linux Mint\" \"Command Line\" DevOps \"Cloud Computing\" \"Virtual Machines\" Python Development Guide Laptop \"Linux Gaming\" \"Linux Tutorial\" \"Linux Review\" \"Distribution Tutorial\" \"Distribution Review\" AWS \"Linux Career\" Administration Homelab Server Networking \"Custom Build\" Desktop Workstation cloud \"cloud computing\"",
+        "unsubscribedTrailer": "ponwK3dBZe0",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Pi3cW2IS9r-QnLg1ULzdMSsBh-WW5RJCp5MIULhbKS-P3FFT6fRvMZpz928N4DNMi8c8pYVA04U"
+      }
+    }
+  }
+}

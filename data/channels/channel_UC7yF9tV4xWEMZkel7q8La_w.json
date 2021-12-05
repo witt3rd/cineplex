@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC7yF9tV4xWEMZkel7q8La_w",
+  "retrieved_on": "2021-12-05 03:47:28.304188",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YzSsgn5bDtE4wUAZZK5rEuRVDXo",
+    "id": "UC7yF9tV4xWEMZkel7q8La_w",
+    "snippet": {
+      "title": "PeterSripol",
+      "description": "Hi Internet stranger!\n\nWelcome to my Channel! This is the start of hopefully a loooong career of entertaining make videos. Though this channel is still fairly new I have been on Youtube for a long time. My older channel is \"Foam and tape\" if you want to go check it out! \n\nBack on Track, This channel is more of a kickstart to where I want to be and what I want to do. For the longest period of time I've sat back and watched others make and grow their YT channels and communities. I know I have something to offer and honestly I'd love to be a part of the maker orientated part of YT. So feel free to subscribe and comment! (sharing the videos helps too!!)\n\nAs of now I'm more focused on making good content rather than a fixed schedule of release dates. With that being said I try and make one a week give or take a day or two.\n\nThanks for taking time to visit the \"About\" page!\n\nFollow me on Instagram: User: PeterSripol\n\nAlso i'm on patreon!",
+      "customUrl": "petersripol",
+      "publishedAt": "2016-04-26T15:30:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSF6XCWAaCqpQ8ZoDA5cRJ8z8o2zWgETryA_PMx=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSF6XCWAaCqpQ8ZoDA5cRJ8z8o2zWgETryA_PMx=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSF6XCWAaCqpQ8ZoDA5cRJ8z8o2zWgETryA_PMx=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "PeterSripol",
+        "description": "Hi Internet stranger!\n\nWelcome to my Channel! This is the start of hopefully a loooong career of entertaining make videos. Though this channel is still fairly new I have been on Youtube for a long time. My older channel is \"Foam and tape\" if you want to go check it out! \n\nBack on Track, This channel is more of a kickstart to where I want to be and what I want to do. For the longest period of time I've sat back and watched others make and grow their YT channels and communities. I know I have something to offer and honestly I'd love to be a part of the maker orientated part of YT. So feel free to subscribe and comment! (sharing the videos helps too!!)\n\nAs of now I'm more focused on making good content rather than a fixed schedule of release dates. With that being said I try and make one a week give or take a day or two.\n\nThanks for taking time to visit the \"About\" page!\n\nFollow me on Instagram: User: PeterSripol\n\nAlso i'm on patreon!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7yF9tV4xWEMZkel7q8La_w"
+      }
+    },
+    "statistics": {
+      "viewCount": "305452477",
+      "subscriberCount": "1960000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "140"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PeterSripol",
+        "description": "Hi Internet stranger!\n\nWelcome to my Channel! This is the start of hopefully a loooong career of entertaining make videos. Though this channel is still fairly new I have been on Youtube for a long time. My older channel is \"Foam and tape\" if you want to go check it out! \n\nBack on Track, This channel is more of a kickstart to where I want to be and what I want to do. For the longest period of time I've sat back and watched others make and grow their YT channels and communities. I know I have something to offer and honestly I'd love to be a part of the maker orientated part of YT. So feel free to subscribe and comment! (sharing the videos helps too!!)\n\nAs of now I'm more focused on making good content rather than a fixed schedule of release dates. With that being said I try and make one a week give or take a day or two.\n\nThanks for taking time to visit the \"About\" page!\n\nFollow me on Instagram: User: PeterSripol\n\nAlso i'm on patreon!",
+        "keywords": "Hack Build Maker DIY RC Make Craft \"Peter Sripol\" PeterSripol Aircraft Fireworks \"Radio Control\"",
+        "unsubscribedTrailer": "X8xmmEtKM48",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/v1zAmzwJt2zJ3cR6yB2E0Vw5UVb7srYTFEDLJ8fv60iLt5NJC1KWqU2giiQsMUB47fbFnMr7UNI"
+      }
+    }
+  }
+}

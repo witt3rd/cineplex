@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCSC1HqVmTaE4Shn32ihbC7w",
+  "retrieved_on": "2021-12-05 03:47:36.581250",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "k_pwbcQnWdeT3XOcD7uSSirJ7Bc",
+    "id": "UCSC1HqVmTaE4Shn32ihbC7w",
+    "snippet": {
+      "title": "Bobby Duke Arts",
+      "description": "I make art. So should you.\n\nYa goobus\n\n\n If you want more Dukey in your life, go follow\nMy Instagram  @bobbydukearts\nand Twitter  @bobbydukearts\nand Patreon  (links to everything below)\nMail box- 9463 Benbrook Blvd #1135, Benbrook, TX 76126\n\nMusic I use is from epidemic sound. \nGo check them out and use my affiliate link below :)",
+      "customUrl": "bobbydukearts",
+      "publishedAt": "2011-12-06T23:24:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQsk2nmxt4z74zk2LBmXVAeRCbnnI_O0Kta7LoH=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQsk2nmxt4z74zk2LBmXVAeRCbnnI_O0Kta7LoH=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQsk2nmxt4z74zk2LBmXVAeRCbnnI_O0Kta7LoH=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Bobby Duke Arts",
+        "description": "I make art. So should you.\n\nYa goobus\n\n\n If you want more Dukey in your life, go follow\nMy Instagram  @bobbydukearts\nand Twitter  @bobbydukearts\nand Patreon  (links to everything below)\nMail box- 9463 Benbrook Blvd #1135, Benbrook, TX 76126\n\nMusic I use is from epidemic sound. \nGo check them out and use my affiliate link below :)"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUSC1HqVmTaE4Shn32ihbC7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "432866180",
+      "subscriberCount": "4430000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "99"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Bobby Duke Arts",
+        "description": "I make art. So should you.\n\nYa goobus\n\n\n If you want more Dukey in your life, go follow\nMy Instagram  @bobbydukearts\nand Twitter  @bobbydukearts\nand Patreon  (links to everything below)\nMail box- 9463 Benbrook Blvd #1135, Benbrook, TX 76126\n\nMusic I use is from epidemic sound. \nGo check them out and use my affiliate link below :)",
+        "keywords": "woodcarving wood handcarved whittling art \"wood carving\" \"hand made\" craftsmanship cosplay sculpting Disney cool sculpey clay",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/_HjqQOPQys8knZjjchDhjG-faLA6iNfKQiS7ERrO8gK2KVTA3n_wUpb_RraQWl5Kpgo1X01Xl6c"
+      }
+    }
+  }
+}

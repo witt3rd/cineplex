@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCp5WDvPDLCkSZWp9hP5xIvQ",
+  "retrieved_on": "2021-12-05 03:47:32.898656",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "c1vEyomhtJYYyF-JdF3lLvIK7lI",
+    "id": "UCp5WDvPDLCkSZWp9hP5xIvQ",
+    "snippet": {
+      "title": "CouchFerret makes Games",
+      "description": "Are you interested in making games with Unity? \n\nHi, I'm CouchFerret and follow me on my journey of indie game development. You will find in depth tutorials about developing games in Unity.\nWe will cover topics from programming to art and game design. Whether you are an expert or beginner, you will definitely find new tips and tricks about the whole game development process. These how to videos help you learn unity to develop 2d and 3d games on your own.\n\nStay tuned and consider subscribing!",
+      "customUrl": "couchferretmakesgames",
+      "publishedAt": "2018-04-21T09:22:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvxNaqJ15rVMFizWUXmljxt-5GLHpgYPO7AQ0g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvxNaqJ15rVMFizWUXmljxt-5GLHpgYPO7AQ0g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTvxNaqJ15rVMFizWUXmljxt-5GLHpgYPO7AQ0g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CouchFerret makes Games",
+        "description": "Are you interested in making games with Unity? \n\nHi, I'm CouchFerret and follow me on my journey of indie game development. You will find in depth tutorials about developing games in Unity.\nWe will cover topics from programming to art and game design. Whether you are an expert or beginner, you will definitely find new tips and tricks about the whole game development process. These how to videos help you learn unity to develop 2d and 3d games on your own.\n\nStay tuned and consider subscribing!"
+      },
+      "country": "HU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUp5WDvPDLCkSZWp9hP5xIvQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1321617",
+      "subscriberCount": "26700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "26"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CouchFerret makes Games",
+        "description": "Are you interested in making games with Unity? \n\nHi, I'm CouchFerret and follow me on my journey of indie game development. You will find in depth tutorials about developing games in Unity.\nWe will cover topics from programming to art and game design. Whether you are an expert or beginner, you will definitely find new tips and tricks about the whole game development process. These how to videos help you learn unity to develop 2d and 3d games on your own.\n\nStay tuned and consider subscribing!",
+        "keywords": "unity unity3d tutorial \"how to\" howto couchferret \"couchferret makes games\" \"make games\" couch ferret brackeys \"unity 2018\" \"unity games\" \"Unity programming\" \"learn unity\" \"game development\" \"Unity tutorial\" unity5 indie \"game design\" \"Game programming\" 2d 3d basics beginner \"C# programming\" \"C# tutorial\" coding design develop development devlog programming editor education guide introduction \"level design\" multiplayer scripting",
+        "unsubscribedTrailer": "plHcffZ0eLo",
+        "country": "HU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/DVcTqMIc1p9VEjhwk541uconMmkNb4BPTr4L7h4rDtKc6NKTPpm5TyioRf42kBGPS3Y1aIBOyg"
+      }
+    }
+  }
+}

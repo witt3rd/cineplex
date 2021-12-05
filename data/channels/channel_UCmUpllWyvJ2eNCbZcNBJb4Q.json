@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCmUpllWyvJ2eNCbZcNBJb4Q",
+  "retrieved_on": "2021-12-05 03:47:37.728380",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JGgVO_HxA8a7vm8bu2_xXGC1zyM",
+    "id": "UCmUpllWyvJ2eNCbZcNBJb4Q",
+    "snippet": {
+      "title": "TIFF Originals",
+      "description": "TIFF (Toronto International Film Festival) is a charitable cultural organization with a mission to transform the way people see the world through film. \n\nWhat began as a 10-day film festival has grown to embrace programming 365 days a year. TIFF offers screenings, lectures, discussions, festivals, workshops industry support, and the chance to meet filmmakers from Canada and around the world.\n\nIn September 2010, the opening of our new home, TIFF Bell Lightbox, enabled TIFF to expand to truly become a creative, community, and global leader and one of the world's premiere organizations in the discovery and understanding of film.",
+      "customUrl": "tiff",
+      "publishedAt": "2005-09-24T09:14:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1X_X6qEfGYfyF-4nmMx02SX2svWpGTEScly0ZZg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1X_X6qEfGYfyF-4nmMx02SX2svWpGTEScly0ZZg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLT1X_X6qEfGYfyF-4nmMx02SX2svWpGTEScly0ZZg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TIFF Originals",
+        "description": "TIFF (Toronto International Film Festival) is a charitable cultural organization with a mission to transform the way people see the world through film. \n\nWhat began as a 10-day film festival has grown to embrace programming 365 days a year. TIFF offers screenings, lectures, discussions, festivals, workshops industry support, and the chance to meet filmmakers from Canada and around the world.\n\nIn September 2010, the opening of our new home, TIFF Bell Lightbox, enabled TIFF to expand to truly become a creative, community, and global leader and one of the world's premiere organizations in the discovery and understanding of film."
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmUpllWyvJ2eNCbZcNBJb4Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "93877468",
+      "subscriberCount": "154000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3235"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TIFF Originals",
+        "description": "TIFF (Toronto International Film Festival) is a charitable cultural organization with a mission to transform the way people see the world through film. \n\nWhat began as a 10-day film festival has grown to embrace programming 365 days a year. TIFF offers screenings, lectures, discussions, festivals, workshops industry support, and the chance to meet filmmakers from Canada and around the world.\n\nIn September 2010, the opening of our new home, TIFF Bell Lightbox, enabled TIFF to expand to truly become a creative, community, and global leader and one of the world's premiere organizations in the discovery and understanding of film.",
+        "keywords": "\"Toronto International Film Festival\" film cinema movies toronto \"TIFF Bell Lightbox\" \"film interview\" \"movie interview\" \"film director\" \"film festival\"",
+        "trackingAnalyticsAccountId": "UA-19269325-1",
+        "unsubscribedTrailer": "4Q_fV35ZNaA",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/rGiENrG7zC-y-zkT4RxP7OgaQmt31N61Gqe5kpRHmSyBlW8GCa_szxxUxl-2aD_7BhFs7dvx"
+      }
+    }
+  }
+}

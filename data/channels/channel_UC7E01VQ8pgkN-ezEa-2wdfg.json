@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC7E01VQ8pgkN-ezEa-2wdfg",
+  "retrieved_on": "2021-12-05 03:47:28.057497",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "aQoho-G4CirzRNobQcNyaWU8y0w",
+    "id": "UC7E01VQ8pgkN-ezEa-2wdfg",
+    "snippet": {
+      "title": "Infinite Flow",
+      "description": "Welcome ! \n\nThis channel is made for anyone who is interested in gaining different perspectives about life and enjoying a bit of time away from the mass culture while encouraging you to think for your self to create your own culture.\n\nEnjoy",
+      "publishedAt": "2016-11-14T13:57:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQewIm1YlQjMgkz05Dw7r8OFxaqKjZZqjmMecT9=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQewIm1YlQjMgkz05Dw7r8OFxaqKjZZqjmMecT9=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQewIm1YlQjMgkz05Dw7r8OFxaqKjZZqjmMecT9=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Infinite Flow",
+        "description": "Welcome ! \n\nThis channel is made for anyone who is interested in gaining different perspectives about life and enjoying a bit of time away from the mass culture while encouraging you to think for your self to create your own culture.\n\nEnjoy"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU7E01VQ8pgkN-ezEa-2wdfg"
+      }
+    },
+    "statistics": {
+      "viewCount": "2465268",
+      "subscriberCount": "8840",
+      "hiddenSubscriberCount": false,
+      "videoCount": "369"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Infinite Flow",
+        "description": "Welcome ! \n\nThis channel is made for anyone who is interested in gaining different perspectives about life and enjoying a bit of time away from the mass culture while encouraging you to think for your self to create your own culture.\n\nEnjoy",
+        "unsubscribedTrailer": "ktgf05X2z1I",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/WPjOgB8H-ZeYu9JeUtvkGWyB8hZyoLC-ZaaP3LXQOMGLZqJzesRIhdoFXIPyZR-oD1gVDyJWkW8"
+      }
+    }
+  }
+}

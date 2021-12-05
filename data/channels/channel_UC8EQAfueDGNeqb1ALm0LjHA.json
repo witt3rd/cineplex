@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC8EQAfueDGNeqb1ALm0LjHA",
+  "retrieved_on": "2021-12-05 03:47:35.580914",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "YgX0T7cp8TbOVE7L3vBGOupSIFk",
+    "id": "UC8EQAfueDGNeqb1ALm0LjHA",
+    "snippet": {
+      "title": "Exploring Alternatives",
+      "description": "Exploring Alternatives is a hub of alternative living video content that we hope will inform and inspire you.  \n\nEach week, we post a new video about people who are living in tiny houses, vans, RVs, and boats; and people who are exploring long-term travel, minimalism, zero waste living, off-grid living, and more.  \n\nSubscribe to see new videos and let us know what you think in the comments!  \n\nThanks for watching and happy exploring :)\n\nMat & Danielle\n",
+      "customUrl": "exploringalternatives",
+      "publishedAt": "2014-08-24T23:37:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR2Lup5GUBaomBEhBycL2rBqGgwVl2Q7riO07Q8LQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR2Lup5GUBaomBEhBycL2rBqGgwVl2Q7riO07Q8LQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR2Lup5GUBaomBEhBycL2rBqGgwVl2Q7riO07Q8LQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Exploring Alternatives",
+        "description": "Exploring Alternatives is a hub of alternative living video content that we hope will inform and inspire you.  \n\nEach week, we post a new video about people who are living in tiny houses, vans, RVs, and boats; and people who are exploring long-term travel, minimalism, zero waste living, off-grid living, and more.  \n\nSubscribe to see new videos and let us know what you think in the comments!  \n\nThanks for watching and happy exploring :)\n\nMat & Danielle\n"
+      },
+      "country": "CA"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU8EQAfueDGNeqb1ALm0LjHA"
+      }
+    },
+    "statistics": {
+      "viewCount": "259910103",
+      "subscriberCount": "1950000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "280"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Exploring Alternatives",
+        "description": "Exploring Alternatives is a hub of alternative living video content that we hope will inform and inspire you.  \n\nEach week, we post a new video about people who are living in tiny houses, vans, RVs, and boats; and people who are exploring long-term travel, minimalism, zero waste living, off-grid living, and more.  \n\nSubscribe to see new videos and let us know what you think in the comments!  \n\nThanks for watching and happy exploring :)\n\nMat & Danielle\n",
+        "keywords": "minimalism minimalist \"tiny house\" \"tiny home\" \"van life\" conversion camper van campervan rv sailboat solar power travel \"zero waste\" tour green eco environment simple living lifestyle \"off grid\" \"living in a van\" \"living on a boat\" \"living in an rv\" \"digital nomad\" earthship \"shipping container\" \"container house\" \"long term travel\" \"save money\" alternative tips ideas \"how to\" inspiring documentary short videos Canada Canadian YouTube channel US 2016 2017",
+        "unsubscribedTrailer": "AUJlRuP0zR8",
+        "country": "CA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/eZ3JqL3Tr-hr2FndMAJMKm-08GIg87DKhoUMv554cncxPWvn-rYkgsZWLCMaAEsZmYoGuSI"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCXotYfmdCxPoQrgQsIY-Low",
+  "retrieved_on": "2021-12-05 03:47:34.793852",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "lPYa9Qqk6H06IkVymWhLzrZVj9Q",
+    "id": "UCXotYfmdCxPoQrgQsIY-Low",
+    "snippet": {
+      "title": "PorterRobinsonVEVO",
+      "description": "",
+      "publishedAt": "2013-11-11T18:14:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR23T2BAQ0tM_gTHrwrgzK5mi28TZWIOd2sWMmZZg=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR23T2BAQ0tM_gTHrwrgzK5mi28TZWIOd2sWMmZZg=s240-c-k-c0x00ffffff-no-rj-mo",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR23T2BAQ0tM_gTHrwrgzK5mi28TZWIOd2sWMmZZg=s800-c-k-c0x00ffffff-no-rj-mo",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "PorterRobinsonVEVO",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXotYfmdCxPoQrgQsIY-Low"
+      }
+    },
+    "statistics": {
+      "viewCount": "140692858",
+      "subscriberCount": "254000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "29"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "PorterRobinsonVEVO",
+        "trackingAnalyticsAccountId": "UA-5015465-26",
+        "unsubscribedTrailer": "cKYxgysMfA0",
+        "defaultLanguage": "en"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/-7uWUR35NtUsv3dI5JNf1KCxr3wBiphlEQST0I8TFHmo1SrMEEPg4ocxEZwjDa19UAuN-v8-"
+      }
+    }
+  }
+}

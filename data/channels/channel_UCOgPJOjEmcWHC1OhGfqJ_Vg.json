@@ -1,0 +1,59 @@
+{
+  "channel_id": "UCOgPJOjEmcWHC1OhGfqJ_Vg",
+  "retrieved_on": "2021-12-05 03:47:37.030726",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Xsos0gK_gl3F_b_3E73m5q10tek",
+    "id": "UCOgPJOjEmcWHC1OhGfqJ_Vg",
+    "snippet": {
+      "title": "Stacy's Stories",
+      "description": "If you're new to my channel WELCOME!  Thanks for stopping by, let's chat!  If your one of my fantastic friends already, THANKS for sticking with me!  I really appreciate it!\n\nMy favorite genres are horror, thriller, historical fiction,  and sometimes cheesy romance:)",
+      "publishedAt": "2013-09-19T13:49:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjsdrZ8vrEbI7Hvs6ISJvby3XMF7b1f7Q7SpQPEA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjsdrZ8vrEbI7Hvs6ISJvby3XMF7b1f7Q7SpQPEA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTjsdrZ8vrEbI7Hvs6ISJvby3XMF7b1f7Q7SpQPEA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Stacy's Stories",
+        "description": "If you're new to my channel WELCOME!  Thanks for stopping by, let's chat!  If your one of my fantastic friends already, THANKS for sticking with me!  I really appreciate it!\n\nMy favorite genres are horror, thriller, historical fiction,  and sometimes cheesy romance:)"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUOgPJOjEmcWHC1OhGfqJ_Vg"
+      }
+    },
+    "statistics": {
+      "viewCount": "110638",
+      "subscriberCount": "1600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "174"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Stacy's Stories",
+        "description": "If you're new to my channel WELCOME!  Thanks for stopping by, let's chat!  If your one of my fantastic friends already, THANKS for sticking with me!  I really appreciate it!\n\nMy favorite genres are horror, thriller, historical fiction,  and sometimes cheesy romance:)",
+        "keywords": "\"books booktube\" reviews hauls \"historical fiction\" paranormal horror \"book reviews\"",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/Qr6iRDhUuqimhrIupmQymBQtNT1c4x7BRkaMpXeYZ5RdGvd577_iBq3emJkw3lDx1sV9TNb1rQ"
+      }
+    }
+  }
+}

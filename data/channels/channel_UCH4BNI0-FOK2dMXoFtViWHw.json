@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCH4BNI0-FOK2dMXoFtViWHw",
+  "retrieved_on": "2021-12-05 03:47:29.852493",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "C8cCQIMqCX8vyi7kfEGFqEfZKkk",
+    "id": "UCH4BNI0-FOK2dMXoFtViWHw",
+    "snippet": {
+      "title": "It's Okay To Be Smart",
+      "description": "It's Okay to be Smart is created by Joe Hanson, Ph.D. \n\nWe are all curious groups of atoms in a very curious universe. Join me as we explore curiosity together and illuminate the science behind everything. \n\nHave ideas or questions? Find me on Twitter: @okaytobesmart or @DrJoeHanson\n\nMailing address:\nIt's Okay To Be Smart\nPO Box 82611\nAustin, TX 78708",
+      "customUrl": "itsokaytobesmart",
+      "publishedAt": "2012-03-17T14:59:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlKVUuA1pNkP40YsvMLthZxcAP9VSGGEJUDFhxrg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlKVUuA1pNkP40YsvMLthZxcAP9VSGGEJUDFhxrg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTlKVUuA1pNkP40YsvMLthZxcAP9VSGGEJUDFhxrg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "It's Okay To Be Smart",
+        "description": "It's Okay to be Smart is created by Joe Hanson, Ph.D. \n\nWe are all curious groups of atoms in a very curious universe. Join me as we explore curiosity together and illuminate the science behind everything. \n\nHave ideas or questions? Find me on Twitter: @okaytobesmart or @DrJoeHanson\n\nMailing address:\nIt's Okay To Be Smart\nPO Box 82611\nAustin, TX 78708"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUH4BNI0-FOK2dMXoFtViWHw"
+      }
+    },
+    "statistics": {
+      "viewCount": "408149887",
+      "subscriberCount": "4420000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "339"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "It's Okay To Be Smart",
+        "description": "It's Okay to be Smart is created by Joe Hanson, Ph.D. \n\nWe are all curious groups of atoms in a very curious universe. Join me as we explore curiosity together and illuminate the science behind everything. \n\nHave ideas or questions? Find me on Twitter: @okaytobesmart or @DrJoeHanson\n\nMailing address:\nIt's Okay To Be Smart\nPO Box 82611\nAustin, TX 78708",
+        "keywords": "science biology space chemistry \"joe hanson pbs digital studios\" \"it's okay to be smart\" \"it's ok to be smart\" evolution \"joe hanson\" drjoehanson",
+        "trackingAnalyticsAccountId": "UA-54540056-1",
+        "unsubscribedTrailer": "KifG-jMUU8k",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/-GYR1pssehTP6Ut01f_5KXwOkzZUYroothgI6XBiqiDZAMgVoZ52IlQffaq9wTLEpGg8c2OmTw"
+      }
+    }
+  }
+}

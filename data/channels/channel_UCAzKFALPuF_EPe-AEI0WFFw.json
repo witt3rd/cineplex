@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCAzKFALPuF_EPe-AEI0WFFw",
+  "retrieved_on": "2021-12-05 03:47:31.215451",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "1uZuzSNMxlM6LagNM7R6G8rYKXw",
+    "id": "UCAzKFALPuF_EPe-AEI0WFFw",
+    "snippet": {
+      "title": "TwoSetViolin",
+      "description": "We play violin. We love classical music. We love to Practice.",
+      "customUrl": "twosetviolin",
+      "publishedAt": "2013-09-21T02:01:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSBpAYNRsYe3CE1qArMOzcUd7ukefhAuuaaZtSLbg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSBpAYNRsYe3CE1qArMOzcUd7ukefhAuuaaZtSLbg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSBpAYNRsYe3CE1qArMOzcUd7ukefhAuuaaZtSLbg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TwoSetViolin",
+        "description": "We play violin. We love classical music. We love to Practice."
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUAzKFALPuF_EPe-AEI0WFFw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1002838577",
+      "subscriberCount": "3410000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1207"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TwoSetViolin",
+        "description": "We play violin. We love classical music. We love to Practice.",
+        "keywords": "violin prodigy lingling practice music \"classical music\" comedy orchestra symphony",
+        "unsubscribedTrailer": "1rZ0ymDHwnU",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/FV0e5Uay0I-lsfUudTaPYSo3w-hvlxiHyJTXVjHYgSKUqNtDgavCl69mkCOmAzO-DBsDV1vZcQ"
+      }
+    }
+  }
+}

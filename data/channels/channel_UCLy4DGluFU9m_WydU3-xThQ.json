@@ -1,0 +1,56 @@
+{
+  "channel_id": "UCLy4DGluFU9m_WydU3-xThQ",
+  "retrieved_on": "2021-12-05 03:47:38.478818",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "U7u_Eld8KH9O8ExdsUfA63ppBtE",
+    "id": "UCLy4DGluFU9m_WydU3-xThQ",
+    "snippet": {
+      "title": "Mohamed Abouelwafa",
+      "description": "",
+      "customUrl": "mohamedabouelwafa",
+      "publishedAt": "2012-02-25T18:58:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRk8pgZpXwIYvBiDl72cpSzQHdgX_ceDfqNQV2Tjw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRk8pgZpXwIYvBiDl72cpSzQHdgX_ceDfqNQV2Tjw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRk8pgZpXwIYvBiDl72cpSzQHdgX_ceDfqNQV2Tjw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mohamed Abouelwafa",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UULy4DGluFU9m_WydU3-xThQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "12362",
+      "hiddenSubscriberCount": true,
+      "videoCount": "4"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mohamed Abouelwafa",
+        "keywords": "Mohamed Abouelwafa"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/wa2uo1BNs5VILFeAo6l2kKpoYK9PjojEpDzdY4epMCbzkdkXdpWnwWZI0n9qRw0XfjMvmBJnRw"
+      }
+    }
+  }
+}

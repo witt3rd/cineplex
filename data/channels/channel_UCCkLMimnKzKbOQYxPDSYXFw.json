@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCCkLMimnKzKbOQYxPDSYXFw",
+  "retrieved_on": "2021-12-05 03:47:37.250642",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "5h9ADQVCGxtJ3XZQUQY7IF_tJQk",
+    "id": "UCCkLMimnKzKbOQYxPDSYXFw",
+    "snippet": {
+      "title": "samyam",
+      "description": "Game development YouTube channel where I post tutorials on game development. If you want to stay updated on new content be sure to subscribe :)\n\nProfile Picture made on: https://picrew.me/image_maker",
+      "customUrl": "samyam",
+      "publishedAt": "2020-04-23T18:59:51.57079Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/-vuGWQ-6RIi6RtuL-G-4xxlrd1p1j2-3RS5y9PB3lxxLDETLLUGP0XAg7KVDxOExkPGfnYQh=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/-vuGWQ-6RIi6RtuL-G-4xxlrd1p1j2-3RS5y9PB3lxxLDETLLUGP0XAg7KVDxOExkPGfnYQh=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/-vuGWQ-6RIi6RtuL-G-4xxlrd1p1j2-3RS5y9PB3lxxLDETLLUGP0XAg7KVDxOExkPGfnYQh=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "samyam",
+        "description": "Game development YouTube channel where I post tutorials on game development. If you want to stay updated on new content be sure to subscribe :)\n\nProfile Picture made on: https://picrew.me/image_maker"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUCkLMimnKzKbOQYxPDSYXFw"
+      }
+    },
+    "statistics": {
+      "viewCount": "929595",
+      "subscriberCount": "16200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "76"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "samyam",
+        "description": "Game development YouTube channel where I post tutorials on game development. If you want to stay updated on new content be sure to subscribe :)\n\nProfile Picture made on: https://picrew.me/image_maker",
+        "keywords": "game development gamedev indiedev indie unity tutorial tutorials samyam samiam \"sam yam\" sam",
+        "unsubscribedTrailer": "GNCEcf_lYlo",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/CVlEZj5dYgwiCcxRQjYhIoMidYutpLB0gGqHPpPht8tNLPwDj9eoEeN-QjdeFHCqmmRH9x64IA"
+      }
+    }
+  }
+}

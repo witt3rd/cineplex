@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCNEZ7cqaZzYLeyWfTkelkEA",
+  "retrieved_on": "2021-12-05 03:47:38.852334",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "PqCdxXE8ILQuUU_U3XSl8ASWGuk",
+    "id": "UCNEZ7cqaZzYLeyWfTkelkEA",
+    "snippet": {
+      "title": "TAOFLEDERMAUS",
+      "description": "We create original videos,  many of which are viewer-suggestions.   From strange demonstrations of mercury,   to shooting  projectiles made by viewers and other YouTube channels.   Instead of being passive observers,   viewers can become part of the the video production process by suggesting ideas.\n\n#AvantLink.\n----These videos are copyrighted.    No part of our videos may be used without our express permission.----\n\n\n\n\nBest way to contact TAOFLEDERMAUS.   Facebook PM  or Email me.   No MCN's Please.",
+      "customUrl": "taofledermaus",
+      "publishedAt": "2006-07-23T08:04:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTeqvuTML6kkbft--W44tXjLQmgZ_6EtIsuCOG2hw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTeqvuTML6kkbft--W44tXjLQmgZ_6EtIsuCOG2hw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTeqvuTML6kkbft--W44tXjLQmgZ_6EtIsuCOG2hw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "TAOFLEDERMAUS",
+        "description": "We create original videos,  many of which are viewer-suggestions.   From strange demonstrations of mercury,   to shooting  projectiles made by viewers and other YouTube channels.   Instead of being passive observers,   viewers can become part of the the video production process by suggesting ideas.\n\n#AvantLink.\n----These videos are copyrighted.    No part of our videos may be used without our express permission.----\n\n\n\n\nBest way to contact TAOFLEDERMAUS.   Facebook PM  or Email me.   No MCN's Please."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUNEZ7cqaZzYLeyWfTkelkEA"
+      }
+    },
+    "statistics": {
+      "viewCount": "653229733",
+      "subscriberCount": "1390000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1096"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TAOFLEDERMAUS",
+        "description": "We create original videos,  many of which are viewer-suggestions.   From strange demonstrations of mercury,   to shooting  projectiles made by viewers and other YouTube channels.   Instead of being passive observers,   viewers can become part of the the video production process by suggesting ideas.\n\n#AvantLink.\n----These videos are copyrighted.    No part of our videos may be used without our express permission.----\n\n\n\n\nBest way to contact TAOFLEDERMAUS.   Facebook PM  or Email me.   No MCN's Please.",
+        "keywords": "mercury science physics funny sports male slomo education challenges technology",
+        "moderateComments": true,
+        "unsubscribedTrailer": "7on15IWC2u4",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/yebTxJt0dvr-OCXy5DsaXQy_BAp5kBCLJ68_H0W0DXz1vddu-Ebyy-xvxU9yAZzJpflYMtHB2iI"
+      }
+    }
+  }
+}

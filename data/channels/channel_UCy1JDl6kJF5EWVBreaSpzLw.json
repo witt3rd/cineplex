@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCy1JDl6kJF5EWVBreaSpzLw",
+  "retrieved_on": "2021-12-05 03:47:30.960787",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "MWbatnbKgwwyoeJb-f2KWrNXSQk",
+    "id": "UCy1JDl6kJF5EWVBreaSpzLw",
+    "snippet": {
+      "title": "Jason Headley",
+      "description": "Jason Headley\u2019s short films have been featured on NBC\u2019s TODAY Show, SundanceTV, Banksy\u2019s Dismaland, the front page of Funny or Die, the TED Conference, Vimeo Staff Picks, and film festivals far and wide. Jason has been selected to participate in the IFP Emerging Storytellers program. He\u2019s also been commissioned by Heineken, Sony, and Chrysler to write, direct, and produce original short films. Fun fact: Jason is more handsome in real life than he is on camera, but he\u2019s still not actually handsome.",
+      "customUrl": "jasonheadley",
+      "publishedAt": "2006-06-27T23:00:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSx-kaRGMjzx-GR_gFoel38TRUPMGHn-NrdwSBmrA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSx-kaRGMjzx-GR_gFoel38TRUPMGHn-NrdwSBmrA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSx-kaRGMjzx-GR_gFoel38TRUPMGHn-NrdwSBmrA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Jason Headley",
+        "description": "Jason Headley\u2019s short films have been featured on NBC\u2019s TODAY Show, SundanceTV, Banksy\u2019s Dismaland, the front page of Funny or Die, the TED Conference, Vimeo Staff Picks, and film festivals far and wide. Jason has been selected to participate in the IFP Emerging Storytellers program. He\u2019s also been commissioned by Heineken, Sony, and Chrysler to write, direct, and produce original short films. Fun fact: Jason is more handsome in real life than he is on camera, but he\u2019s still not actually handsome."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUy1JDl6kJF5EWVBreaSpzLw"
+      }
+    },
+    "statistics": {
+      "viewCount": "40425772",
+      "subscriberCount": "95900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "27"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jason Headley",
+        "description": "Jason Headley\u2019s short films have been featured on NBC\u2019s TODAY Show, SundanceTV, Banksy\u2019s Dismaland, the front page of Funny or Die, the TED Conference, Vimeo Staff Picks, and film festivals far and wide. Jason has been selected to participate in the IFP Emerging Storytellers program. He\u2019s also been commissioned by Heineken, Sony, and Chrysler to write, direct, and produce original short films. Fun fact: Jason is more handsome in real life than he is on camera, but he\u2019s still not actually handsome."
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/pwo02DFuxE7Hca12HpbAOjeq0le5X2P8GBwClwDYbTRZLG6Aj3vFf447ZZBWT7EjY3SQmeGrMA"
+      }
+    }
+  }
+}

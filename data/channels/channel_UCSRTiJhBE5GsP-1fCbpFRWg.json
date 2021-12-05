@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCSRTiJhBE5GsP-1fCbpFRWg",
+  "retrieved_on": "2021-12-05 03:47:33.852078",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "JdfZXpd4tC1MPHqF31LKSKv1IsI",
+    "id": "UCSRTiJhBE5GsP-1fCbpFRWg",
+    "snippet": {
+      "title": "learnelectronics",
+      "description": "Digital and analog electronics projects, tutorials, teardowns, and reviews. If you're feeling generous here's my Amazon wishlist: http://a.co/ghcz3kc",
+      "customUrl": "learnelectronics",
+      "publishedAt": "2016-11-10T21:05:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTiCE1cB3pYt_J6u6LtOtkSg1wKkIVsMy7JLtqc=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTiCE1cB3pYt_J6u6LtOtkSg1wKkIVsMy7JLtqc=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTiCE1cB3pYt_J6u6LtOtkSg1wKkIVsMy7JLtqc=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "learnelectronics",
+        "description": "Digital and analog electronics projects, tutorials, teardowns, and reviews. If you're feeling generous here's my Amazon wishlist: http://a.co/ghcz3kc"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUSRTiJhBE5GsP-1fCbpFRWg"
+      }
+    },
+    "statistics": {
+      "viewCount": "15831993",
+      "subscriberCount": "125000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1174"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "learnelectronics",
+        "description": "Digital and analog electronics projects, tutorials, teardowns, and reviews. If you're feeling generous here's my Amazon wishlist: http://a.co/ghcz3kc",
+        "keywords": "electronics \"electronics education\" \"diy electronics\" \"learn electronics\" \"electronics projects\" \"getting started in electronics\" \"555 timer projects\" \"555 timer setup\" cd4017 soldering oscilloscope \"beginner oscilloscope\" \"oscilloscope tips\" \"pcb design\" \"how to make a pcb\" \"arduino projects\" \"raspberry pi projects\" \"guitar amplifer\" \"ham radio\" \"multimeter review\" \"electronic tear down\" \"oscilloscope tear down\"",
+        "unsubscribedTrailer": "rcuIAFdDGAI",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/EiYvAtSYb3NO2suHFCFO5HOY9p2ykFJXvzk9WmEhXW8jGZEz2aBZ5e9OW3Vg9i8HWbYbFB3wgg"
+      }
+    }
+  }
+}

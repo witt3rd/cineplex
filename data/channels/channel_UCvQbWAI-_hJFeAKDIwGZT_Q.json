@@ -1,0 +1,52 @@
+{
+  "channel_id": "UCvQbWAI-_hJFeAKDIwGZT_Q",
+  "retrieved_on": "2021-12-05 03:47:34.308910",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "o8PKJpjTYU810X87FsXYpQuQ4YY",
+    "id": "UCvQbWAI-_hJFeAKDIwGZT_Q",
+    "snippet": {
+      "title": "gallamine",
+      "description": "",
+      "publishedAt": "2005-10-07T15:13:15Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhA4dQfjmXRqYRLlBzjslPr0sf7AYiSQeJEA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhA4dQfjmXRqYRLlBzjslPr0sf7AYiSQeJEA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQhA4dQfjmXRqYRLlBzjslPr0sf7AYiSQeJEA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "gallamine",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUvQbWAI-_hJFeAKDIwGZT_Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "3954861",
+      "subscriberCount": "2590",
+      "hiddenSubscriberCount": false,
+      "videoCount": "40"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "gallamine"
+      }
+    }
+  }
+}

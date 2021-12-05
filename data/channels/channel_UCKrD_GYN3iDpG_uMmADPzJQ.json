@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCKrD_GYN3iDpG_uMmADPzJQ",
+  "retrieved_on": "2021-12-05 03:47:33.306676",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "dcj-j2uf3YCVFrzUwRWP48IpsNU",
+    "id": "UCKrD_GYN3iDpG_uMmADPzJQ",
+    "snippet": {
+      "title": "Erlang Solutions",
+      "description": "We build transformative solutions for the world\u2019s most ambitious companies. \nBy providing user-focused consultancy, high tech capabilities and connection to diverse communities.\n\nSharing knowledge is one of our team values and we believe to have an important part to play in creating comfortable spaces for the functional programming community, and to get together and exchange battle stories. We organise meetups, webinars and conferences and we're happy to share our content with others. Also our conference Code Sync brand features talks from the last few years - worth hitting subscribe there too https://www.youtube.com/c/CodeSync\n\nDisclaimer: Our comments section is open. While on on-point criticism of talks is encouraged, please refrain from name-calling or personal insults. Violators will be dismissed and blocked.",
+      "customUrl": "erlangsolutions",
+      "publishedAt": "2010-11-25T11:41:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlCxXYOSw_khct-3oW-Z1WJHwTkinrKsuxOKEI8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlCxXYOSw_khct-3oW-Z1WJHwTkinrKsuxOKEI8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQlCxXYOSw_khct-3oW-Z1WJHwTkinrKsuxOKEI8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Erlang Solutions",
+        "description": "We build transformative solutions for the world\u2019s most ambitious companies. \nBy providing user-focused consultancy, high tech capabilities and connection to diverse communities.\n\nSharing knowledge is one of our team values and we believe to have an important part to play in creating comfortable spaces for the functional programming community, and to get together and exchange battle stories. We organise meetups, webinars and conferences and we're happy to share our content with others. Also our conference Code Sync brand features talks from the last few years - worth hitting subscribe there too https://www.youtube.com/c/CodeSync\n\nDisclaimer: Our comments section is open. While on on-point criticism of talks is encouraged, please refrain from name-calling or personal insults. Violators will be dismissed and blocked."
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUKrD_GYN3iDpG_uMmADPzJQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "2656711",
+      "subscriberCount": "17000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1320"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Erlang Solutions",
+        "description": "We build transformative solutions for the world\u2019s most ambitious companies. \nBy providing user-focused consultancy, high tech capabilities and connection to diverse communities.\n\nSharing knowledge is one of our team values and we believe to have an important part to play in creating comfortable spaces for the functional programming community, and to get together and exchange battle stories. We organise meetups, webinars and conferences and we're happy to share our content with others. Also our conference Code Sync brand features talks from the last few years - worth hitting subscribe there too https://www.youtube.com/c/CodeSync\n\nDisclaimer: Our comments section is open. While on on-point criticism of talks is encouraged, please refrain from name-calling or personal insults. Violators will be dismissed and blocked.",
+        "keywords": "Erlang Elixir MongooseIM WombatOAM",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/X7sA9lmVm5T9qiOf-jWQ5LTrOBOm4h6rDpMTAfmTRj-97ddb1e-uaQ-Q5AHc5HPQCkdM-01B0A"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+  "retrieved_on": "2021-12-05 03:47:30.960806",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "CnuVlP0KtxBzsJlW45N5uols7r8",
+    "id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+    "snippet": {
+      "title": "Henry AI Labs",
+      "description": "Welcome to Henry AI Labs! I am very excited about Deep Learning and AI powered technology!\n\nI try to post Weekly Updates on Mondays about new papers that research labs from companies such as Google and Facebook are publishing, as well as miscellaneous interesting news from the AI community.\n\nAdditionally, I am making paper summaries that I hope you will find useful for staying up to date with new papers, at least to give an overview if you don't have time to digest the full paper.\n\n\nThis channel includes topics such as Computer Vision, Natural Language Processing, Graph Embeddings, Generative Adversarial Networks, Reinforcement Learning, and more. \n\nI also try to post coding videos occasionally and am working on developing a podcast!\n\nYou may be interested in this Github Repository that organizes the videos a bit better than going through the YouTube channel: https://github.com/CShorten/HenryAILabs-VideoList\n\nThanks for checking it out, please subscribe!",
+      "publishedAt": "2019-02-02T15:46:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTmSo2khWg_LPK0rxnx8t2NeQJTNEW40WjIveWY=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTmSo2khWg_LPK0rxnx8t2NeQJTNEW40WjIveWY=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTmSo2khWg_LPK0rxnx8t2NeQJTNEW40WjIveWY=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Henry AI Labs",
+        "description": "Welcome to Henry AI Labs! I am very excited about Deep Learning and AI powered technology!\n\nI try to post Weekly Updates on Mondays about new papers that research labs from companies such as Google and Facebook are publishing, as well as miscellaneous interesting news from the AI community.\n\nAdditionally, I am making paper summaries that I hope you will find useful for staying up to date with new papers, at least to give an overview if you don't have time to digest the full paper.\n\n\nThis channel includes topics such as Computer Vision, Natural Language Processing, Graph Embeddings, Generative Adversarial Networks, Reinforcement Learning, and more. \n\nI also try to post coding videos occasionally and am working on developing a podcast!\n\nYou may be interested in this Github Repository that organizes the videos a bit better than going through the YouTube channel: https://github.com/CShorten/HenryAILabs-VideoList\n\nThanks for checking it out, please subscribe!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUHB9VepY6kYvZjj0Bgxnpbw"
+      }
+    },
+    "statistics": {
+      "viewCount": "1666961",
+      "subscriberCount": "36900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "266"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Henry AI Labs",
+        "description": "Welcome to Henry AI Labs! I am very excited about Deep Learning and AI powered technology!\n\nI try to post Weekly Updates on Mondays about new papers that research labs from companies such as Google and Facebook are publishing, as well as miscellaneous interesting news from the AI community.\n\nAdditionally, I am making paper summaries that I hope you will find useful for staying up to date with new papers, at least to give an overview if you don't have time to digest the full paper.\n\n\nThis channel includes topics such as Computer Vision, Natural Language Processing, Graph Embeddings, Generative Adversarial Networks, Reinforcement Learning, and more. \n\nI also try to post coding videos occasionally and am working on developing a podcast!\n\nYou may be interested in this Github Repository that organizes the videos a bit better than going through the YouTube channel: https://github.com/CShorten/HenryAILabs-VideoList\n\nThanks for checking it out, please subscribe!",
+        "keywords": "\"Deep Learning\" \"Artificial Intelligence\" \"Machine Learning\"",
+        "unsubscribedTrailer": "CFmNM3eXOVg",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/QZh4Y6G0kJjVW-Cc3ikzsGwzcJTRpXLW-GVzd204oETOD7EWr-XUee4U9pSJGNtVkhn1GRyuq-w"
+      }
+    }
+  }
+}

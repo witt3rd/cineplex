@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCVA3cYOgsTN4hs3v7pjne7w",
+  "retrieved_on": "2021-12-05 03:47:32.562683",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "92fURth4p6iFMq2K6cXYt0yerSw",
+    "id": "UCVA3cYOgsTN4hs3v7pjne7w",
+    "snippet": {
+      "title": "Gleb Alexandrov",
+      "description": "CG tutorials, Blender tutorials, creative ideas and inspiration by Gleb Alexandrov. Join the Creative Shrimp community and let's get better at digital graphics and 3D art.",
+      "customUrl": "glebalexandrov",
+      "publishedAt": "2013-08-29T17:16:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRowZrMXaXXTSUfgdMsYSddep0GrePTPMzeJPF9Jg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRowZrMXaXXTSUfgdMsYSddep0GrePTPMzeJPF9Jg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRowZrMXaXXTSUfgdMsYSddep0GrePTPMzeJPF9Jg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Gleb Alexandrov",
+        "description": "CG tutorials, Blender tutorials, creative ideas and inspiration by Gleb Alexandrov. Join the Creative Shrimp community and let's get better at digital graphics and 3D art."
+      },
+      "country": "PL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVA3cYOgsTN4hs3v7pjne7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "13896105",
+      "subscriberCount": "186000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "207"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Gleb Alexandrov",
+        "description": "CG tutorials, Blender tutorials, creative ideas and inspiration by Gleb Alexandrov. Join the Creative Shrimp community and let's get better at digital graphics and 3D art.",
+        "keywords": "\"Blender tutorials\" \"CG tutorials\" \"Gleb Alexandrov\" \"''Creative Shrimp\" 3d art",
+        "trackingAnalyticsAccountId": "UA-55947464-1",
+        "unsubscribedTrailer": "yfk813tWNww",
+        "country": "PL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/MpMGNIq12wXGYU86_j9NpXifpQ-YkdRQwDDBcNkCh4vehpT5xK2WmIdHQdoEhd9cbfb0n9LD"
+      }
+    }
+  }
+}

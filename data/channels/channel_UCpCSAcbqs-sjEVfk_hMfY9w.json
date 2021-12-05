@@ -1,0 +1,63 @@
+{
+  "channel_id": "UCpCSAcbqs-sjEVfk_hMfY9w",
+  "retrieved_on": "2021-12-05 03:47:29.852532",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "2aN-J8ed1wzLipXki8n9ashf0dc",
+    "id": "UCpCSAcbqs-sjEVfk_hMfY9w",
+    "snippet": {
+      "title": "Zach Star",
+      "description": "(This channel used to be called MajorPrep, changed as of January 8th, 2020). I make nerdy and occasionally funny videos.",
+      "customUrl": "zachstar",
+      "publishedAt": "2016-10-07T06:32:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtmAsFSRmGsyue-Ags0bNL3iCj5k-b5lQx1LpYOw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtmAsFSRmGsyue-Ags0bNL3iCj5k-b5lQx1LpYOw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRtmAsFSRmGsyue-Ags0bNL3iCj5k-b5lQx1LpYOw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Zach Star",
+        "description": "(This channel used to be called MajorPrep, changed as of January 8th, 2020). I make nerdy and occasionally funny videos."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUpCSAcbqs-sjEVfk_hMfY9w"
+      }
+    },
+    "statistics": {
+      "viewCount": "86437693",
+      "subscriberCount": "951000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "232"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Zach Star",
+        "description": "(This channel used to be called MajorPrep, changed as of January 8th, 2020). I make nerdy and occasionally funny videos.",
+        "keywords": "engineering math physics \"computer science\" \"computer engineering\" \"stem fields\" \"electrical engineering\" \"mechanical engineering\" \"engineering classes\" majorprep \"major prep\" \"stem majors\" \"civil engineering\" \"college curriculum\" \"engineering curriculum\" college \"chemical engineering\" careers \"engineering careers\" \"college success\" school learning \"zach star\" zachstar math \"applied math\" mathematics",
+        "unsubscribedTrailer": "NS_Nk6mx1Rk",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/TuvluJOzQuBEOcPgiwYYxN1yb7ADlUZf6jup2tNAoV4S_6fV-Enx9snqi3rfdbckWranyk8J6-g"
+      }
+    }
+  }
+}

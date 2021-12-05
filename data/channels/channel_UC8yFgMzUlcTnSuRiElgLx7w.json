@@ -1,0 +1,58 @@
+{
+  "channel_id": "UC8yFgMzUlcTnSuRiElgLx7w",
+  "retrieved_on": "2021-12-05 03:47:28.920511",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "gp6QU-M8f2sAQLd31SuLue5O-tc",
+    "id": "UC8yFgMzUlcTnSuRiElgLx7w",
+    "snippet": {
+      "title": "VaultShow",
+      "description": "The Vault - Web Series\n\nGrand Prize Winner - Best Web Series of 2013 - HollyWeb Festival\n\nThe year is 2016.  TV sucks.  Ratings - at least at one major network - are at an all-time low.  Desperate to save their jobs, the executives make an unprecedented decision: It's time to pull the plug.  On everything.  All programming must go.  But what will replace it?\n\nEnter \"The Vault,\" the greatest reality television competition in history... Or at least that's how they're selling it.  A 24/7 game show that offers more questions than answers.  The contestants, college students chosen from all over the country, will have 7 days to uncover its secrets and win a multi-million dollar prize.  But once they're locked inside, they'll discover a game that's bigger and stranger than they could have ever imagined.\n\n\"The Vault\" is an original web series created by Aaron Hann and Mario Miscione, with the support of Mark Cuban and AXS TV.",
+      "publishedAt": "2010-07-31T04:15:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNDdYONUNEviVm4P7HT6anL65ZSET4_Tdyz0CF=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNDdYONUNEviVm4P7HT6anL65ZSET4_Tdyz0CF=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLSNDdYONUNEviVm4P7HT6anL65ZSET4_Tdyz0CF=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "VaultShow",
+        "description": "The Vault - Web Series\n\nGrand Prize Winner - Best Web Series of 2013 - HollyWeb Festival\n\nThe year is 2016.  TV sucks.  Ratings - at least at one major network - are at an all-time low.  Desperate to save their jobs, the executives make an unprecedented decision: It's time to pull the plug.  On everything.  All programming must go.  But what will replace it?\n\nEnter \"The Vault,\" the greatest reality television competition in history... Or at least that's how they're selling it.  A 24/7 game show that offers more questions than answers.  The contestants, college students chosen from all over the country, will have 7 days to uncover its secrets and win a multi-million dollar prize.  But once they're locked inside, they'll discover a game that's bigger and stranger than they could have ever imagined.\n\n\"The Vault\" is an original web series created by Aaron Hann and Mario Miscione, with the support of Mark Cuban and AXS TV."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU8yFgMzUlcTnSuRiElgLx7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "2686949",
+      "subscriberCount": "29000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "40"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "VaultShow",
+        "description": "The Vault - Web Series\n\nGrand Prize Winner - Best Web Series of 2013 - HollyWeb Festival\n\nThe year is 2016.  TV sucks.  Ratings - at least at one major network - are at an all-time low.  Desperate to save their jobs, the executives make an unprecedented decision: It's time to pull the plug.  On everything.  All programming must go.  But what will replace it?\n\nEnter \"The Vault,\" the greatest reality television competition in history... Or at least that's how they're selling it.  A 24/7 game show that offers more questions than answers.  The contestants, college students chosen from all over the country, will have 7 days to uncover its secrets and win a multi-million dollar prize.  But once they're locked inside, they'll discover a game that's bigger and stranger than they could have ever imagined.\n\n\"The Vault\" is an original web series created by Aaron Hann and Mario Miscione, with the support of Mark Cuban and AXS TV.",
+        "keywords": "The Vault Web Series Independent Film Drama Mystery Suspense Show canon 7d low budget 24p",
+        "unsubscribedTrailer": "ig05s_rB39o"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/TbghcHdSWgUaNkyb4n2h19yKe5jVFQY1tcmSDgd4vxb0L11lKe2ygXApunBMDNNBNPGyVHWhjUI"
+      }
+    }
+  }
+}

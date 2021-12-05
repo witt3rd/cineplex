@@ -1,0 +1,61 @@
+{
+  "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
+  "retrieved_on": "2021-12-05 03:47:40.531423",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Cj2vbQQHA8f9PENzRtwYFEzX4yY",
+    "id": "UC0m-80FnNY2Qb7obvTL_2fA",
+    "snippet": {
+      "title": "Microsoft Azure",
+      "description": "Welcome to the official Microsoft Azure YouTube channel. Subscribe to our channel and be the first to learn about the latest products & solutions, watch training demos, and discover technical insights relevant to you. Invent with purpose with Microsoft Azure. \n\nMicrosoft YouTube Community Guidelines:\n1). Avoid explicit and inflammatory language.\n2). Do not post repetitively nor spam our comment section.\n3). Avoid posting personal information, such as: email, physical address, personal phone number, credit card information, or your site password. \n4). Please report posts that violate community guidelines using the spam button or YouTube\u2019s Reporting and Enforcement Center.",
+      "customUrl": "microsoftazure",
+      "publishedAt": "2008-11-21T07:09:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRWrisdne6s62jFSEqac07vG0wP_XT5m7hawTUHTA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRWrisdne6s62jFSEqac07vG0wP_XT5m7hawTUHTA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRWrisdne6s62jFSEqac07vG0wP_XT5m7hawTUHTA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Microsoft Azure",
+        "description": "Welcome to the official Microsoft Azure YouTube channel. Subscribe to our channel and be the first to learn about the latest products & solutions, watch training demos, and discover technical insights relevant to you. Invent with purpose with Microsoft Azure. \n\nMicrosoft YouTube Community Guidelines:\n1). Avoid explicit and inflammatory language.\n2). Do not post repetitively nor spam our comment section.\n3). Avoid posting personal information, such as: email, physical address, personal phone number, credit card information, or your site password. \n4). Please report posts that violate community guidelines using the spam button or YouTube\u2019s Reporting and Enforcement Center."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU0m-80FnNY2Qb7obvTL_2fA"
+      }
+    },
+    "statistics": {
+      "viewCount": "13029746",
+      "subscriberCount": "228000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1344"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Microsoft Azure",
+        "description": "Welcome to the official Microsoft Azure YouTube channel. Subscribe to our channel and be the first to learn about the latest products & solutions, watch training demos, and discover technical insights relevant to you. Invent with purpose with Microsoft Azure. \n\nMicrosoft YouTube Community Guidelines:\n1). Avoid explicit and inflammatory language.\n2). Do not post repetitively nor spam our comment section.\n3). Avoid posting personal information, such as: email, physical address, personal phone number, credit card information, or your site password. \n4). Please report posts that violate community guidelines using the spam button or YouTube\u2019s Reporting and Enforcement Center.",
+        "keywords": "Microsoft PaaS SaaS \"Microsoft Azure\" DevOps \"Virtual Machine\" Developers \"Big Data\" \"Artificial Intelligence\" Azure \"Cloud Computing\" Cloud IoT \"Digital Transformation\" Security \"Machine Learning\" \"Open Source\" \"Hybrid Cloud\" \"Business Intelligence\" Applications \"Cloud Computing Platform\" IaaS",
+        "unsubscribedTrailer": "3GULgBZvoDM",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/i7IRIwHpf6H-FPxs7vPDp4Zd1N2eUlX58_hY-KUWu2-5IJVMb76weTI_MN1Lc1QM6T3NRDSdCg"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCDrqwWzmuo8pywH-T4bYLSw",
+  "retrieved_on": "2021-12-05 03:47:32.898599",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "X4pjrtfea55-J5Oec8P8lHtFLRE",
+    "id": "UCDrqwWzmuo8pywH-T4bYLSw",
+    "snippet": {
+      "title": "Anuska Dhar",
+      "description": "fashion, entertainment, cultural commentary, etc.",
+      "customUrl": "anuskadhar",
+      "publishedAt": "2011-04-24T17:26:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQE8dOnb6JT19WbBs46IdIDaV1ha7Wgiiw0NaAeKA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQE8dOnb6JT19WbBs46IdIDaV1ha7Wgiiw0NaAeKA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQE8dOnb6JT19WbBs46IdIDaV1ha7Wgiiw0NaAeKA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Anuska Dhar",
+        "description": "fashion, entertainment, cultural commentary, etc."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDrqwWzmuo8pywH-T4bYLSw"
+      }
+    },
+    "statistics": {
+      "viewCount": "367772",
+      "subscriberCount": "3180",
+      "hiddenSubscriberCount": false,
+      "videoCount": "8"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Anuska Dhar",
+        "description": "fashion, entertainment, cultural commentary, etc."
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/66HFgUw7YdaaKpB015HGm-Zn4TfiuN-OMHJfqgCOo4gdbzYN17VLKt9Fc4C6ywaEoV16MQbqcWU"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "channel_id": "UCxx8ZYfvw_OpwXYkAcafrQw",
+  "retrieved_on": "2021-12-05 03:47:41.016881",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "qC9gtmRQcoy2KIjBO7lni8s-TJc",
+    "id": "UCxx8ZYfvw_OpwXYkAcafrQw",
+    "snippet": {
+      "title": "Uplift Yourself",
+      "description": "A space where people can come to find upliftment, healing, and relief.",
+      "publishedAt": "2014-07-03T23:46:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iLD0aW7SfjgSDxURFaz7H81AL8KwlN0RzfaBep8KgZgyTDjjXVWmfu4vXbjeDJXHJdXflrBqlQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iLD0aW7SfjgSDxURFaz7H81AL8KwlN0RzfaBep8KgZgyTDjjXVWmfu4vXbjeDJXHJdXflrBqlQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iLD0aW7SfjgSDxURFaz7H81AL8KwlN0RzfaBep8KgZgyTDjjXVWmfu4vXbjeDJXHJdXflrBqlQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Uplift Yourself",
+        "description": "A space where people can come to find upliftment, healing, and relief."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUxx8ZYfvw_OpwXYkAcafrQw"
+      }
+    },
+    "statistics": {
+      "viewCount": "334407",
+      "subscriberCount": "4770",
+      "hiddenSubscriberCount": false,
+      "videoCount": "44"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Uplift Yourself",
+        "description": "A space where people can come to find upliftment, healing, and relief.",
+        "unsubscribedTrailer": "1VuxqKS-dkk"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/aWjfOnsy-gVPG1Kg7aeKTyXgV0_wRhTulD0rhyhFxOCrqV2-Bp7lShwZ42kEWNZGuxKf4tbBbg"
+      }
+    }
+  }
+}

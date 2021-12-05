@@ -1,0 +1,64 @@
+{
+  "channel_id": "UCe_QLqna7cFtTCfZ0a8pycg",
+  "retrieved_on": "2021-12-05 03:47:38.478926",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "HRLHim0mDB41s9g6X6G3JGj4ktE",
+    "id": "UCe_QLqna7cFtTCfZ0a8pycg",
+    "snippet": {
+      "title": "AIP - State-of-the-Art AI Research",
+      "description": "Welcome to AIP.\n- The main focus of this channel is to publicize and promote existing SoTA AI research works presented in top conferences, removing barrier for people to access the cutting-edge AI research works.\n- All videos are either taken from the public internet or the Creative Common licensed, which can be accessed via the link provided in the description.\n- To avoid conflict of interest with the ongoing conferences, all videos are published at least 1 week after the main events. A takedown can be requested if it infringes your right via email.\n- If you would like your presentation to be published on AIP, feel free to drop us an email.\n- AI conferences covered include: NeurIPS (NIPS), AAAI, ICLR, ICML, ACL, NAACL, EMNLP, IJCAI\n\nIf you would like to support the channel, please join the membership:\nhttps://www.youtube.com/c/AIPursuit/join\n\nSubscribe to the channel:\nhttps://www.youtube.com/c/AIPursuit?sub_confirmation=1\n",
+      "customUrl": "aipursuit",
+      "publishedAt": "2019-01-20T10:31:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/BCN37g_3nAMe_C8wHt6KrSuO_3KcS7shYLPw90SjQ710mxDXqYWhs5YVCP2eCO9PCVM_X2Kq=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/BCN37g_3nAMe_C8wHt6KrSuO_3KcS7shYLPw90SjQ710mxDXqYWhs5YVCP2eCO9PCVM_X2Kq=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/BCN37g_3nAMe_C8wHt6KrSuO_3KcS7shYLPw90SjQ710mxDXqYWhs5YVCP2eCO9PCVM_X2Kq=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AIP - State-of-the-Art AI Research",
+        "description": "Welcome to AIP.\n- The main focus of this channel is to publicize and promote existing SoTA AI research works presented in top conferences, removing barrier for people to access the cutting-edge AI research works.\n- All videos are either taken from the public internet or the Creative Common licensed, which can be accessed via the link provided in the description.\n- To avoid conflict of interest with the ongoing conferences, all videos are published at least 1 week after the main events. A takedown can be requested if it infringes your right via email.\n- If you would like your presentation to be published on AIP, feel free to drop us an email.\n- AI conferences covered include: NeurIPS (NIPS), AAAI, ICLR, ICML, ACL, NAACL, EMNLP, IJCAI\n\nIf you would like to support the channel, please join the membership:\nhttps://www.youtube.com/c/AIPursuit/join\n\nSubscribe to the channel:\nhttps://www.youtube.com/c/AIPursuit?sub_confirmation=1\n"
+      },
+      "country": "MY"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUe_QLqna7cFtTCfZ0a8pycg"
+      }
+    },
+    "statistics": {
+      "viewCount": "293623",
+      "subscriberCount": "5470",
+      "hiddenSubscriberCount": false,
+      "videoCount": "832"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "AIP - State-of-the-Art AI Research",
+        "description": "Welcome to AIP.\n- The main focus of this channel is to publicize and promote existing SoTA AI research works presented in top conferences, removing barrier for people to access the cutting-edge AI research works.\n- All videos are either taken from the public internet or the Creative Common licensed, which can be accessed via the link provided in the description.\n- To avoid conflict of interest with the ongoing conferences, all videos are published at least 1 week after the main events. A takedown can be requested if it infringes your right via email.\n- If you would like your presentation to be published on AIP, feel free to drop us an email.\n- AI conferences covered include: NeurIPS (NIPS), AAAI, ICLR, ICML, ACL, NAACL, EMNLP, IJCAI\n\nIf you would like to support the channel, please join the membership:\nhttps://www.youtube.com/c/AIPursuit/join\n\nSubscribe to the channel:\nhttps://www.youtube.com/c/AIPursuit?sub_confirmation=1\n",
+        "keywords": "\"machine learning\" AI \"deep learning\" research conference \"ai confereence\" \"reinforcement learning\" fintech \"deep learning conference\" \"reinforcement learning conference\" aaai neurips nips icml iclr ijcai acl nlp \"nlp conference\" huggingface pytorch",
+        "moderateComments": true,
+        "unsubscribedTrailer": "9BOTtLfHOOI",
+        "defaultLanguage": "en",
+        "country": "MY"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/08yZAXWbh3kr9qlArdJnl1lDfOPizRB28J32PmhXDTMkJWkWK5kXVDpmCduVk4AKCK3TFWXEJ4w"
+      }
+    }
+  }
+}

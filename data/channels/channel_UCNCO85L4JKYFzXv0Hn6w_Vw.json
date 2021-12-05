@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCNCO85L4JKYFzXv0Hn6w_Vw",
+  "retrieved_on": "2021-12-05 03:47:32.562735",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Vn1tBiB3g84-uptF53mVQOdaTRU",
+    "id": "UCNCO85L4JKYFzXv0Hn6w_Vw",
+    "snippet": {
+      "title": "Pranshu Tople",
+      "description": "Hey! \nI am Pranshu Tople, a Mechatronics Engineer from Pune, MH, India \ud83c\uddee\ud83c\uddf3\n\nI create all sorts of fun, cool & easy to understand projects in Robotics, ROS, Computer Vision, AI/ML, AR/VR/MR, etc.\nYou name it, & we can get it done \ud83d\ude09\n\nI started this channel long back just for fun but now as I have learned so much from YouTube, I want to give back to the community.\nOn this channel, you can find videos that'll help you learn concepts right from scratch. \n\nYour major takeaways from this channel would be understandable, rememberable and useful information about - \n\u2022 Arduino, Raspberry Pi & more.\n\u2022 ROS - Robot Operating System.\n\u2022 Basic Robotics & Robot programming.\n\u2022 AR/VR - Augmented Reality / Virtual Reality.\n\u2022 Computer Vision, AI/ML\n& many more Fun-to-do projects for beginners as well as experts.\n\nFor any doubts or inquiries, you can find my contact info below...",
+      "customUrl": "pranshutople",
+      "publishedAt": "2014-06-18T06:04:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLShD7Z-V_i_SJ66MP3jG1YY-n-hr5GSQW-vrzxzmcM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLShD7Z-V_i_SJ66MP3jG1YY-n-hr5GSQW-vrzxzmcM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLShD7Z-V_i_SJ66MP3jG1YY-n-hr5GSQW-vrzxzmcM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Pranshu Tople",
+        "description": "Hey! \nI am Pranshu Tople, a Mechatronics Engineer from Pune, MH, India \ud83c\uddee\ud83c\uddf3\n\nI create all sorts of fun, cool & easy to understand projects in Robotics, ROS, Computer Vision, AI/ML, AR/VR/MR, etc.\nYou name it, & we can get it done \ud83d\ude09\n\nI started this channel long back just for fun but now as I have learned so much from YouTube, I want to give back to the community.\nOn this channel, you can find videos that'll help you learn concepts right from scratch. \n\nYour major takeaways from this channel would be understandable, rememberable and useful information about - \n\u2022 Arduino, Raspberry Pi & more.\n\u2022 ROS - Robot Operating System.\n\u2022 Basic Robotics & Robot programming.\n\u2022 AR/VR - Augmented Reality / Virtual Reality.\n\u2022 Computer Vision, AI/ML\n& many more Fun-to-do projects for beginners as well as experts.\n\nFor any doubts or inquiries, you can find my contact info below..."
+      },
+      "country": "IN"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUNCO85L4JKYFzXv0Hn6w_Vw"
+      }
+    },
+    "statistics": {
+      "viewCount": "144321",
+      "subscriberCount": "3610",
+      "hiddenSubscriberCount": false,
+      "videoCount": "24"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Pranshu Tople",
+        "description": "Hey! \nI am Pranshu Tople, a Mechatronics Engineer from Pune, MH, India \ud83c\uddee\ud83c\uddf3\n\nI create all sorts of fun, cool & easy to understand projects in Robotics, ROS, Computer Vision, AI/ML, AR/VR/MR, etc.\nYou name it, & we can get it done \ud83d\ude09\n\nI started this channel long back just for fun but now as I have learned so much from YouTube, I want to give back to the community.\nOn this channel, you can find videos that'll help you learn concepts right from scratch. \n\nYour major takeaways from this channel would be understandable, rememberable and useful information about - \n\u2022 Arduino, Raspberry Pi & more.\n\u2022 ROS - Robot Operating System.\n\u2022 Basic Robotics & Robot programming.\n\u2022 AR/VR - Augmented Reality / Virtual Reality.\n\u2022 Computer Vision, AI/ML\n& many more Fun-to-do projects for beginners as well as experts.\n\nFor any doubts or inquiries, you can find my contact info below...",
+        "keywords": "\"pranshu tople\" robotics pranshu tople \"ajeenkya dy patil university\" \"smart india hackathon\" \"sih 2020\" \"smart india hackathon winners\" \"ros tutorials\" \"what is ros\" \"how to learn ros\" engineering STEM \"learn robotics\" creative diy \"make it on your own\" \"how to code\" \"how to learn robotics\" \"robotics basics\" \"ros basics\" \"ros for beginners\" fusion360 \"autodesk fusion 360\" \"learn robot designing\" \"learn fusion 360\" \"robot operating system\"",
+        "moderateComments": true,
+        "unsubscribedTrailer": "SlmpJHA_Vz4",
+        "country": "IN"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/Gp__LDHDyEI18QYzhvdqEtLZb26W7eMVFV4xUpPSCxEoF0-e4qtzRyHxpkOuNUrKt6uXn-Lz"
+      }
+    }
+  }
+}

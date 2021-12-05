@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCUK0HBIBWgM2c4vsPhkYY4w",
+  "retrieved_on": "2021-12-05 03:47:35.856821",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "reTqpGHITQ2-f-FoCTwLrRDfbdk",
+    "id": "UCUK0HBIBWgM2c4vsPhkYY4w",
+    "snippet": {
+      "title": "The Slow Mo Guys",
+      "description": "Gav and Dan take on the world in Slow Motion!\nDefinitely in the top 10 of slow motion based Youtube channels!\nIf you can, watch our videos at the highest possible resolution on your device for some offensively crisp slow motion footage. \n\nFor business enquiries, use the link below. All emails are read.\n\u00a9 GAVIN FREE",
+      "publishedAt": "2010-08-15T13:51:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUdNBzBsQgteIjytTFVkBVWkAsiASo82XkUEEhTA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUdNBzBsQgteIjytTFVkBVWkAsiASo82XkUEEhTA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTUdNBzBsQgteIjytTFVkBVWkAsiASo82XkUEEhTA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "The Slow Mo Guys",
+        "description": "Gav and Dan take on the world in Slow Motion!\nDefinitely in the top 10 of slow motion based Youtube channels!\nIf you can, watch our videos at the highest possible resolution on your device for some offensively crisp slow motion footage. \n\nFor business enquiries, use the link below. All emails are read.\n\u00a9 GAVIN FREE"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUK0HBIBWgM2c4vsPhkYY4w"
+      }
+    },
+    "statistics": {
+      "viewCount": "2265500871",
+      "subscriberCount": "14200000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "286"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Slow Mo Guys",
+        "description": "Gav and Dan take on the world in Slow Motion!\nDefinitely in the top 10 of slow motion based Youtube channels!\nIf you can, watch our videos at the highest possible resolution on your device for some offensively crisp slow motion footage. \n\nFor business enquiries, use the link below. All emails are read.\n\u00a9 GAVIN FREE",
+        "keywords": "slow mo guys high speed motion super slomo phantom hd gav dan 1000fps gavin free slap smash flex \"the slow mo guys\"",
+        "unsubscribedTrailer": "-Iktr62DFEY",
+        "defaultLanguage": "en-GB",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/a9og5UQI5bF6wGDs5azpxxNsPelQcNEa1GlNjo5HtAd60_gmzuYCw8-xbqzR64vpXJ4QMZ9LCA0"
+      }
+    }
+  }
+}

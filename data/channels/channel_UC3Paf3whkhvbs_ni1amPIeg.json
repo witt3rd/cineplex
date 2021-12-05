@@ -1,0 +1,59 @@
+{
+  "channel_id": "UC3Paf3whkhvbs_ni1amPIeg",
+  "retrieved_on": "2021-12-05 03:47:29.188803",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "Qu_4mIb0yMO7YU2H4DTmnI-D32s",
+    "id": "UC3Paf3whkhvbs_ni1amPIeg",
+    "snippet": {
+      "title": "Scala in the City",
+      "description": "For the latest Scala videos please subscribe to our page. This page is for anyone who loves all things Scala. Our aim is to help connect people and companies using Scala. We will bring you news, help you learn and organise some of the best meet ups and conferences Globally.\n\nWe will discuss challenges, best practices, share past experiences, share new ideas and explore new emerging libraries in Scala with some of the most well-known faces in the community. We plan to bring you the best events with a handful of short but engaging presentations by key speakers from the Scala community across Europe. You will also have the chance to ask questions and mingle at the end of the event with food & drink provided. \n\nWe are passionate about sponsoring the Scala community and helping it to grow. \n\nTo attend our latest events please visit our meet up page- https://www.meetup.com/Scala-in-the-City/",
+      "customUrl": "scalainthecity",
+      "publishedAt": "2018-03-08T15:19:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmIVymZhi7vNKFIOistlUyxnpxQVZMRF2iA5cS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmIVymZhi7vNKFIOistlUyxnpxQVZMRF2iA5cS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQmIVymZhi7vNKFIOistlUyxnpxQVZMRF2iA5cS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Scala in the City",
+        "description": "For the latest Scala videos please subscribe to our page. This page is for anyone who loves all things Scala. Our aim is to help connect people and companies using Scala. We will bring you news, help you learn and organise some of the best meet ups and conferences Globally.\n\nWe will discuss challenges, best practices, share past experiences, share new ideas and explore new emerging libraries in Scala with some of the most well-known faces in the community. We plan to bring you the best events with a handful of short but engaging presentations by key speakers from the Scala community across Europe. You will also have the chance to ask questions and mingle at the end of the event with food & drink provided. \n\nWe are passionate about sponsoring the Scala community and helping it to grow. \n\nTo attend our latest events please visit our meet up page- https://www.meetup.com/Scala-in-the-City/"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3Paf3whkhvbs_ni1amPIeg"
+      }
+    },
+    "statistics": {
+      "viewCount": "127474",
+      "subscriberCount": "1680",
+      "hiddenSubscriberCount": false,
+      "videoCount": "187"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Scala in the City",
+        "description": "For the latest Scala videos please subscribe to our page. This page is for anyone who loves all things Scala. Our aim is to help connect people and companies using Scala. We will bring you news, help you learn and organise some of the best meet ups and conferences Globally.\n\nWe will discuss challenges, best practices, share past experiences, share new ideas and explore new emerging libraries in Scala with some of the most well-known faces in the community. We plan to bring you the best events with a handful of short but engaging presentations by key speakers from the Scala community across Europe. You will also have the chance to ask questions and mingle at the end of the event with food & drink provided. \n\nWe are passionate about sponsoring the Scala community and helping it to grow. \n\nTo attend our latest events please visit our meet up page- https://www.meetup.com/Scala-in-the-City/",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/RTACK261LKb0wy10ga9KlZdrhmGKjGeSiL7yTWZ28Jm3EU9NvItRsuPgk2mNWLTaxPtcpuGQvA"
+      }
+    }
+  }
+}

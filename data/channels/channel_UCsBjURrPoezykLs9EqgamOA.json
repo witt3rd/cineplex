@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+  "retrieved_on": "2021-12-05 03:47:33.604516",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nLpIQ_VY4IQUP4KBNoQFxV6gzO0",
+    "id": "UCsBjURrPoezykLs9EqgamOA",
+    "snippet": {
+      "title": "Fireship",
+      "description": "High-intensity \u26a1 code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development.\n\nThe original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney. \n\nBuilding an app? Get project support, advanced full courses, and more at https://fireship.io",
+      "customUrl": "fireship",
+      "publishedAt": "2017-04-07T18:17:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTcIl6kKt3lEPJEySUf_hpHiKDKiFeo9eWPReLysQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTcIl6kKt3lEPJEySUf_hpHiKDKiFeo9eWPReLysQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLTcIl6kKt3lEPJEySUf_hpHiKDKiFeo9eWPReLysQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fireship",
+        "description": "High-intensity \u26a1 code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development.\n\nThe original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney. \n\nBuilding an app? Get project support, advanced full courses, and more at https://fireship.io"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUsBjURrPoezykLs9EqgamOA"
+      }
+    },
+    "statistics": {
+      "viewCount": "78052251",
+      "subscriberCount": "962000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "390"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Fireship",
+        "description": "High-intensity \u26a1 code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development.\n\nThe original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney. \n\nBuilding an app? Get project support, advanced full courses, and more at https://fireship.io",
+        "keywords": "angular firebase web development javascript typescript",
+        "unsubscribedTrailer": "emFMHH2Bfvo",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/ck2RpMx__gA4Gtx6aS0TWCwPO9XerK_AKTanViJAWv-cHnZeKahprcSgniHuXgTjsgOCXasTXA"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCDdv3C21EFv7MxBMu70OExw",
+  "retrieved_on": "2021-12-05 03:47:34.309015",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "nT1_iWYEpxnv2nz0KWPNS4JDAkU",
+    "id": "UCDdv3C21EFv7MxBMu70OExw",
+    "snippet": {
+      "title": "InspirationTuts",
+      "description": "in InspirationTuts we are gonna help you understand the basics of the industries that involve working using 3D software such as game development, visual effects, and animation to name a few.\n we discuss simple topics such as modeling, texturing, rigging, animation, lighting, rendering. also, we are interested in subjects related to the major 3D software that are used in the entertainment industries such as 3ds Max, Blender, Maya, Cinema4D, Houdini, Modo and so on. \n i created Inspirationtuts to teach people about 3d and inspire them to become a better artist as they learn about the technique used in 3d modeling and animation and the important concepts of digital art in general.",
+      "customUrl": "inspirationtuts",
+      "publishedAt": "2015-07-18T15:50:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQLugzl56T2Cpq0d253cfNgGaAPdoVECyiUi9qrLA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQLugzl56T2Cpq0d253cfNgGaAPdoVECyiUi9qrLA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLQLugzl56T2Cpq0d253cfNgGaAPdoVECyiUi9qrLA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "InspirationTuts",
+        "description": "in InspirationTuts we are gonna help you understand the basics of the industries that involve working using 3D software such as game development, visual effects, and animation to name a few.\n we discuss simple topics such as modeling, texturing, rigging, animation, lighting, rendering. also, we are interested in subjects related to the major 3D software that are used in the entertainment industries such as 3ds Max, Blender, Maya, Cinema4D, Houdini, Modo and so on. \n i created Inspirationtuts to teach people about 3d and inspire them to become a better artist as they learn about the technique used in 3d modeling and animation and the important concepts of digital art in general."
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDdv3C21EFv7MxBMu70OExw"
+      }
+    },
+    "statistics": {
+      "viewCount": "21797753",
+      "subscriberCount": "157000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "470"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "InspirationTuts",
+        "description": "in InspirationTuts we are gonna help you understand the basics of the industries that involve working using 3D software such as game development, visual effects, and animation to name a few.\n we discuss simple topics such as modeling, texturing, rigging, animation, lighting, rendering. also, we are interested in subjects related to the major 3D software that are used in the entertainment industries such as 3ds Max, Blender, Maya, Cinema4D, Houdini, Modo and so on. \n i created Inspirationtuts to teach people about 3d and inspire them to become a better artist as they learn about the technique used in 3d modeling and animation and the important concepts of digital art in general.",
+        "keywords": "\"3D Software\" \"3D animation Software\" \"Game industry\" \"Game Develpment\" Blender \"3ds Max\" Maya Cinema4D Houdini",
+        "unsubscribedTrailer": "hOoo_4Lq9rA",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/yPdo7ehmTFv02ZBjr8y4LIYQQsp4-rF-4XJGrgb__EOghT1PjmecKFQehqSptkW_0a6j8BA0uQ"
+      }
+    }
+  }
+}

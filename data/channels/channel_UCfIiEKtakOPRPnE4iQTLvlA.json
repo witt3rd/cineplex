@@ -1,0 +1,62 @@
+{
+  "channel_id": "UCfIiEKtakOPRPnE4iQTLvlA",
+  "retrieved_on": "2021-12-05 03:47:32.314776",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "8tqRFPIJlV1icXaociaVyqpm7eA",
+    "id": "UCfIiEKtakOPRPnE4iQTLvlA",
+    "snippet": {
+      "title": "Coco Code",
+      "description": "Educational content - tutorials and guides focused mainly on Unity UI, Unity editor and PlayFab services. More stuff to come!\n\nMy main topics:\n- Unity UI\n- Playfab\n- Other Unity tips\n\nVideos: 1-2/week\n",
+      "customUrl": "cococode",
+      "publishedAt": "2019-07-25T08:28:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRESKyFoucN8N16Kt6NgVt2edN12NjuyQq_qxdz=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRESKyFoucN8N16Kt6NgVt2edN12NjuyQq_qxdz=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRESKyFoucN8N16Kt6NgVt2edN12NjuyQq_qxdz=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Coco Code",
+        "description": "Educational content - tutorials and guides focused mainly on Unity UI, Unity editor and PlayFab services. More stuff to come!\n\nMy main topics:\n- Unity UI\n- Playfab\n- Other Unity tips\n\nVideos: 1-2/week\n"
+      },
+      "country": "PL"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUfIiEKtakOPRPnE4iQTLvlA"
+      }
+    },
+    "statistics": {
+      "viewCount": "606780",
+      "subscriberCount": "8150",
+      "hiddenSubscriberCount": false,
+      "videoCount": "47"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Coco Code",
+        "description": "Educational content - tutorials and guides focused mainly on Unity UI, Unity editor and PlayFab services. More stuff to come!\n\nMy main topics:\n- Unity UI\n- Playfab\n- Other Unity tips\n\nVideos: 1-2/week\n",
+        "keywords": "unity playfab tutorials cococode \"bionicl code\" bionicl \"Maciej maj\" \"free multiplayer\" \"coco code\" \"unity tutorials\" \"unity guide\" \"unity ui\" cocococo \"coco tutorials\" \"coco games\" \"coco unity\" \"coco coding\" coding",
+        "trackingAnalyticsAccountId": "UA-42993529-10",
+        "unsubscribedTrailer": "YqMpVCPX2ls",
+        "country": "PL"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/awkutgV2vQa81Usm-Cmu8pH1s-14ZJ5wMqCD75r3ehLzaxTIgM6w8pPzFzn8fQ3xc7cqGP_MWg"
+      }
+    }
+  }
+}

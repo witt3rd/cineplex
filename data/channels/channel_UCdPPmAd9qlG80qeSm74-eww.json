@@ -1,0 +1,61 @@
+{
+  "channel_id": "UCdPPmAd9qlG80qeSm74-eww",
+  "retrieved_on": "2021-12-05 03:47:37.948877",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "kHskWnmsZ8A8Chxn1ZR6cYWctec",
+    "id": "UCdPPmAd9qlG80qeSm74-eww",
+    "snippet": {
+      "title": "In Praise of Shadows",
+      "description": "Horror history, reviews, and retrospectives. Looking at all forms of media, from the best stuff to the worst stuff, and giving it some context in the landscape of horror history. Thanks for watching!",
+      "customUrl": "inpraiseofshadows",
+      "publishedAt": "2018-07-04T02:56:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRKr_P7B3XB1hBsC9kMvkD06btSb7Qmj_D6pDHDHg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRKr_P7B3XB1hBsC9kMvkD06btSb7Qmj_D6pDHDHg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLRKr_P7B3XB1hBsC9kMvkD06btSb7Qmj_D6pDHDHg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "In Praise of Shadows",
+        "description": "Horror history, reviews, and retrospectives. Looking at all forms of media, from the best stuff to the worst stuff, and giving it some context in the landscape of horror history. Thanks for watching!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUdPPmAd9qlG80qeSm74-eww"
+      }
+    },
+    "statistics": {
+      "viewCount": "17078133",
+      "subscriberCount": "319000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "44"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "In Praise of Shadows",
+        "description": "Horror history, reviews, and retrospectives. Looking at all forms of media, from the best stuff to the worst stuff, and giving it some context in the landscape of horror history. Thanks for watching!",
+        "keywords": "horror retrospectives scary reviews analysis movies",
+        "unsubscribedTrailer": "M_dGbJcLt6g",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://lh3.googleusercontent.com/0OQSYHyNPkyVjtlBVoPQ1i6OIrlOxfVeZIjwrK0sGjUq2eDNLyN0SKL6xFppdEPgR6sRE-7p"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "channel_id": "UC2WHjPDvbE6O328n17ZGcfg",
+  "retrieved_on": "2021-12-05 03:47:39.693623",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "KnB73Yund2N3Bg1ELPpekdX1o_0",
+    "id": "UC2WHjPDvbE6O328n17ZGcfg",
+    "snippet": {
+      "title": "ForrestKnight",
+      "description": "Behind the scenes of real software development. I film what I code.\n\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight\n\ud83c\udfa5 Twitch: https://www.twitch.tv/forrestknight\n\ud83d\udc26 Twitter: https://www.twitter.com/forrestpknight\n\ud83d\udcf8 Instagram: https://www.instagram.com/forrestpknight\n\n\u2693 First Supply Coffee:  https://bit.ly/firstsupplycoffee\n\ud83d\udc68\u200d\ud83d\udcbb My Coding Gear:  https://bit.ly/my-coding-gear\n\n\ud83d\udcd3 Learning Resources: \nMy Favorite Machine Learning Course:  https://bit.ly/coursera-forrest\nOpen Source Computer Science Degree:  https://bit.ly/open-source-forrest\nPython Open Source Computer Science Degree:  https://bit.ly/python-open-source\nSolid for Algorithms & Coding Interviews (use code \"forrest\"):  https://bit.ly/algoexpert-forrest\n",
+      "customUrl": "fknight",
+      "publishedAt": "2016-07-01T02:50:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/avdsle4t42vMMUPALsh5wi5yD8CE2-ELOhwVjjd08OL1hUBobYaR1WhwACXjAdXe-VoESDwZ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/avdsle4t42vMMUPALsh5wi5yD8CE2-ELOhwVjjd08OL1hUBobYaR1WhwACXjAdXe-VoESDwZ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/avdsle4t42vMMUPALsh5wi5yD8CE2-ELOhwVjjd08OL1hUBobYaR1WhwACXjAdXe-VoESDwZ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ForrestKnight",
+        "description": "Behind the scenes of real software development. I film what I code.\n\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight\n\ud83c\udfa5 Twitch: https://www.twitch.tv/forrestknight\n\ud83d\udc26 Twitter: https://www.twitter.com/forrestpknight\n\ud83d\udcf8 Instagram: https://www.instagram.com/forrestpknight\n\n\u2693 First Supply Coffee:  https://bit.ly/firstsupplycoffee\n\ud83d\udc68\u200d\ud83d\udcbb My Coding Gear:  https://bit.ly/my-coding-gear\n\n\ud83d\udcd3 Learning Resources: \nMy Favorite Machine Learning Course:  https://bit.ly/coursera-forrest\nOpen Source Computer Science Degree:  https://bit.ly/open-source-forrest\nPython Open Source Computer Science Degree:  https://bit.ly/python-open-source\nSolid for Algorithms & Coding Interviews (use code \"forrest\"):  https://bit.ly/algoexpert-forrest\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2WHjPDvbE6O328n17ZGcfg"
+      }
+    },
+    "statistics": {
+      "viewCount": "18331712",
+      "subscriberCount": "340000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "239"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ForrestKnight",
+        "description": "Behind the scenes of real software development. I film what I code.\n\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight\n\ud83c\udfa5 Twitch: https://www.twitch.tv/forrestknight\n\ud83d\udc26 Twitter: https://www.twitter.com/forrestpknight\n\ud83d\udcf8 Instagram: https://www.instagram.com/forrestpknight\n\n\u2693 First Supply Coffee:  https://bit.ly/firstsupplycoffee\n\ud83d\udc68\u200d\ud83d\udcbb My Coding Gear:  https://bit.ly/my-coding-gear\n\n\ud83d\udcd3 Learning Resources: \nMy Favorite Machine Learning Course:  https://bit.ly/coursera-forrest\nOpen Source Computer Science Degree:  https://bit.ly/open-source-forrest\nPython Open Source Computer Science Degree:  https://bit.ly/python-open-source\nSolid for Algorithms & Coding Interviews (use code \"forrest\"):  https://bit.ly/algoexpert-forrest\n",
+        "keywords": "\"Computer Science\" \"Computer Science Degree\" \"Computer Science Student\" \"Software Development\" \"Software Developer\" Software Engineer Programmer \"Software Engineering\" Coding \"Artificial Intelligence\" \"Machine Learning\" ai ml",
+        "moderateComments": true,
+        "unsubscribedTrailer": "FTcjl-qVMHA",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.ggpht.com/_3yUWShTkcoMShkEXJtYFD_II1JgpTVG4UXYqpmauEN2cpIsFA3VtUAvdxjwMtMkShUL3ZWk"
+      }
+    }
+  }
+}
