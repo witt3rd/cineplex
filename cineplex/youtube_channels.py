@@ -19,7 +19,7 @@ def get_channels_from_youtube(channel_ids):
         channel_ids_string = ','.join(channel_ids)
 
     logger = Logger()
-    logger.debug(f"getting channel for {channel_ids_string=}")
+    logger.debug(f"getting channel from YouTube for {channel_ids_string=}")
 
     youtube = youtube_api()
 
@@ -37,24 +37,25 @@ def get_channels_from_youtube(channel_ids):
             break
         for channel in response['items']:
             channel_with_meta = {}
-            channel_with_meta['channel_id'] = channel['id']
+            channel_with_meta['_id'] = channel['id']
             channel_with_meta['retrieved_on'] = str(datetime.now())
             channel_with_meta['channel'] = channel
             channels_with_meta.append(channel_with_meta)
         request = youtube.channels().list_next(request, response)
 
     logger.info(
-        f"retrieved {len(channels_with_meta)} channels for {len(channel_ids)} channels")
+        f"retrieved {len(channels_with_meta)} channels from YouTube for {len(channel_ids)} channels")
 
     return channels_with_meta
 
 
 def get_channel_from_db(channel_id):
     logger = Logger()
-    logger.debug(f"getting channel for {channel_id=}")
+    logger.debug(f"getting channel from db for {channel_id=}")
 
     channel = get_db().yt_channel_info.find_one({'_id': channel_id})
-    logger.debug(f"got channel {channel=}")
+    logger.debug(
+        f"retrieved channel from db: {channel['channel']['snippet']['title']}")
 
     return channel
 
@@ -75,10 +76,10 @@ def get_channels_from_db(channel_ids):
 
 
 def save_channel(channel_with_meta, to_disk=True):
-    channel_id = channel_with_meta['channel_id']
+    channel_id = channel_with_meta['_id']
 
     logger = Logger()
-    logger.debug(f"saving channel for {channel_id=}")
+    logger.debug(f"saving channel {channel_id}")
 
     if to_disk:
         dir = os.path.join(settings.data_dir, "channels")
@@ -86,20 +87,16 @@ def save_channel(channel_with_meta, to_disk=True):
         with open(os.path.join(dir, f"channel_{channel_id}.json"), "w") as result:
             json.dump(channel_with_meta, result, indent=2)
 
-    info = channel_with_meta.copy()
-    info['_id'] = channel_id
-    del info['channel_id']
-
     get_db().yt_channel_info.update_one(
-        {'_id': info['_id']}, {'$set': info}, upsert=True)
+        {'_id': channel_with_meta['_id']}, {'$set': channel_with_meta}, upsert=True)
 
 
 def save_channels(channels_with_meta, to_disk=True):
     logger = Logger()
-    logger.debug(f"saving channels for {channels_with_meta=}")
+    logger.debug(f"saving {len(channels_with_meta)} channels")
 
-    for channel in channels_with_meta:
-        save_channel(channel, to_disk)
+    for channel_with_meta in channels_with_meta:
+        save_channel(channel_with_meta, to_disk)
 
     logger.info(
         f"saved {len(channels_with_meta)} channels")
