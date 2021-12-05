@@ -51,7 +51,9 @@ def get_channel_playlists_from_db(channel_id):
     return get_db().yt_channel_playlists.find_one({'_id': channel_id})
 
 
-def save_channel_playlists(channel_id, playlists_with_meta, to_disk=True):
+def save_channel_playlists(playlists_with_meta, to_disk=True):
+
+    channel_id = playlists_with_meta['_id']
 
     logger = Logger()
     logger.debug(f"saving playlists for {channel_id=}")

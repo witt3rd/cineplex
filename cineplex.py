@@ -64,7 +64,7 @@ def update_my_playlists():
     playlists_with_meta = get_channel_playlists_from_youtube(
         channel_id)
 
-    save_channel_playlists(channel_id, playlists_with_meta)
+    save_channel_playlists(playlists_with_meta)
     print_channel_playlists(playlists_with_meta)
 
 
@@ -91,7 +91,10 @@ def update_playlists(channel_id: str):
 def list_playlists(channel_id: str):
     """List playlists for a channel"""
     playlists_with_meta = get_channel_playlists_from_db(channel_id)
-    print_channel_playlists(playlists_with_meta)
+    if playlists_with_meta is None:
+        print(f"There are no playlists in the database for that channel; try 'update-playlists'")
+    else:
+        print_channel_playlists(playlists_with_meta)
 
 
 @app.command()
