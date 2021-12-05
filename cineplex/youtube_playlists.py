@@ -33,7 +33,7 @@ def get_channel_playlists_from_youtube(channel_id):
         request = youtube.playlists().list_next(request, response)
 
     playlists_with_meta = {}
-    playlists_with_meta['channel_id'] = channel_id
+    playlists_with_meta['_id'] = channel_id
     playlists_with_meta['retrieved_on'] = str(datetime.now())
     playlists_with_meta['playlists'] = playlists
 
@@ -48,7 +48,7 @@ def get_channel_playlists_from_db(channel_id):
     logger = Logger()
     logger.debug(f"getting playlists from db for {channel_id=}")
 
-    return get_db().yt_ch_playlists.find_one({'_id': channel_id})
+    return get_db().yt_channel_playlists.find_one({'_id': channel_id})
 
 
 def save_channel_playlists(channel_id, playlists_with_meta, to_disk=True):
@@ -60,7 +60,9 @@ def save_channel_playlists(channel_id, playlists_with_meta, to_disk=True):
         with open(os.path.join(settings.data_dir, f"playlists_{channel_id}.json"), "w") as result:
             json.dump(playlists_with_meta, result, indent=2)
 
-    get_db().set(f'playlists#{channel_id}', json.dumps(playlists_with_meta))
+    get_db().yt_channel_playlists.update_one(
+        {'_id': channel_id},
+        {'$set': playlists_with_meta}, upsert=True)
 
 
 def get_playlist_items_from_youtube(playlist_id):

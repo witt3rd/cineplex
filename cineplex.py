@@ -1,4 +1,5 @@
 import os
+import json
 import typer
 from cineplex.youtube_playlists import (
     get_channel_playlists_from_db,
@@ -58,9 +59,12 @@ def print_playlist_items(items_with_meta):
 @app.command()
 def update_my_playlists():
     """Get my playlists"""
+    channel_id = settings.youtube_my_channel_id
+
     playlists_with_meta = get_channel_playlists_from_youtube(
-        settings.youtube_my_channel_id)
-    save_channel_playlists(playlists_with_meta)
+        channel_id)
+
+    save_channel_playlists(channel_id, playlists_with_meta)
     print_channel_playlists(playlists_with_meta)
 
 
@@ -69,7 +73,10 @@ def list_my_playlists():
     """List my playlists"""
     playlists_with_meta = get_channel_playlists_from_db(
         settings.youtube_my_channel_id)
-    print_channel_playlists(playlists_with_meta)
+    if playlists_with_meta is None:
+        print(f"You have no playlists in the database; try 'update-my-playlists'")
+    else:
+        print_channel_playlists(playlists_with_meta)
 
 
 @app.command()
