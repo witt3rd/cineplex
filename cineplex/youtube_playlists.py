@@ -27,6 +27,8 @@ def get_channel_playlists_from_youtube(channel_id):
 
     while request:
         response = request.execute()
+        if 'items' not in response:
+            break
         playlists.extend(response['items'])
         request = youtube.playlists().list_next(request, response)
 
@@ -79,6 +81,8 @@ def get_playlist_items_from_youtube(playlist_id):
 
     while request:
         response = request.execute()
+        if 'items' not in response:
+            break
         items.extend(response['items'])
         request = youtube.playlistItems().list_next(request, response)
 

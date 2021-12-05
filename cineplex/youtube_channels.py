@@ -33,6 +33,8 @@ def get_channels_from_youtube(channel_ids):
 
     while request:
         response = request.execute()
+        if 'items' not in response:
+            break
         for channel in response['items']:
             channel_with_meta = {}
             channel_with_meta['channel_id'] = channel['id']
@@ -42,7 +44,7 @@ def get_channels_from_youtube(channel_ids):
         request = youtube.channels().list_next(request, response)
 
     logger.info(
-        f"retrieved {len(channels_with_meta)} channels for {channel_ids_string=}")
+        f"retrieved {len(channels_with_meta)} channels for {len(channel_ids)} channels")
 
     return channels_with_meta
 
@@ -55,6 +57,21 @@ def get_channel_from_db(channel_id):
     logger.debug(f"got channel {channel=}")
 
     return channel
+
+
+def get_channels_from_db(channel_ids):
+    logger = Logger()
+    logger.debug(f"getting channels from db for {len(channel_ids)} channels")
+
+    channels_cursor = get_db().yt_channel_info.find(
+        {'_id': {'$in': channel_ids}})
+
+    channels = list(channels_cursor)
+
+    logger.info(
+        f"retrieved {len(channels)} channels for {len(channel_ids)} channels")
+
+    return channels
 
 
 def save_channel(channel_with_meta, to_disk=True):
@@ -75,6 +92,17 @@ def save_channel(channel_with_meta, to_disk=True):
 
     get_db().yt_channel_info.update_one(
         {'_id': info['_id']}, {'$set': info}, upsert=True)
+
+
+def save_channels(channels_with_meta, to_disk=True):
+    logger = Logger()
+    logger.debug(f"saving channels for {channels_with_meta=}")
+
+    for channel in channels_with_meta:
+        save_channel(channel, to_disk)
+
+    logger.info(
+        f"saved {len(channels_with_meta)} channels")
 
 
 def get_channel_videos_from_youtube(channel_id):
