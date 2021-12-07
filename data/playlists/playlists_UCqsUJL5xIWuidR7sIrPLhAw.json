@@ -1,7 +1,139 @@
 {
-  "channel_id": "UCqsUJL5xIWuidR7sIrPLhAw",
-  "retrieved_on": "2021-11-28 15:31:48.553315",
+  "_id": "UCqsUJL5xIWuidR7sIrPLhAw",
+  "as_of": "2021-12-05 07:26:47.696776",
   "playlists": [
+    {
+      "id": "PLIjhfluhNd9-7grSXUPi8p68rrVedyy1s",
+      "snippet": {
+        "publishedAt": "2021-11-30T12:05:00Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "\ud83d\udef8 Tinfoil",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4yX6ETCKyPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4yX6ETCKyPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4yX6ETCKyPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4yX6ETCKyPo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4yX6ETCKyPo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "localized": {
+          "title": "\ud83d\udef8 Tinfoil",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "id": "PLIjhfluhNd99r4cEVMiP18VZlsNkJ4C76",
+      "snippet": {
+        "publishedAt": "2021-11-30T12:01:13Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "\ud83c\udfa5 Cinema",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oq5M7X3d7Uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oq5M7X3d7Uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oq5M7X3d7Uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oq5M7X3d7Uo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oq5M7X3d7Uo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "localized": {
+          "title": "\ud83c\udfa5 Cinema",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 15
+      }
+    },
+    {
+      "id": "PLIjhfluhNd99dcIzBD-rk0Ek-konvinzI",
+      "snippet": {
+        "publishedAt": "2021-11-30T02:48:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "\ud83e\udde9 Donedoku",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dHyVQPKNALU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dHyVQPKNALU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dHyVQPKNALU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dHyVQPKNALU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dHyVQPKNALU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "localized": {
+          "title": "\ud83e\udde9 Donedoku",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 8
+      }
+    },
     {
       "id": "PLIjhfluhNd99MRKts39v06oyAG1u3Z8bZ",
       "snippet": {
@@ -43,7 +175,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 24
+        "itemCount": 41
       }
     },
     {
@@ -143,22 +275,22 @@
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ci_AIMCF-HA/default.jpg",
+            "url": "https://i.ytimg.com/vi/Pyi8-qm02hs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ci_AIMCF-HA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pyi8-qm02hs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ci_AIMCF-HA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pyi8-qm02hs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ci_AIMCF-HA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pyi8-qm02hs/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -170,7 +302,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 102
+        "itemCount": 104
       }
     },
     {
@@ -214,7 +346,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 18
+        "itemCount": 19
       }
     },
     {
@@ -258,7 +390,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 33
+        "itemCount": 32
       }
     },
     {
@@ -585,7 +717,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 42
+        "itemCount": 55
       }
     },
     {
@@ -773,27 +905,27 @@
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -805,7 +937,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 109
+        "itemCount": 112
       }
     },
     {
@@ -1293,7 +1425,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 125
+        "itemCount": 126
       }
     },
     {
@@ -1339,29 +1471,24 @@
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7f8jgvvJe-Q/default.jpg",
+            "url": "https://i.ytimg.com/vi/yEoWgh2Mv9g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7f8jgvvJe-Q/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yEoWgh2Mv9g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7f8jgvvJe-Q/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yEoWgh2Mv9g/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7f8jgvvJe-Q/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/yEoWgh2Mv9g/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7f8jgvvJe-Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "Donald Thompson",
@@ -1371,7 +1498,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 963
+        "itemCount": 962
       }
     },
     {
@@ -1959,27 +2086,27 @@
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/CqaAs_3azSs/default.jpg",
+            "url": "https://i.ytimg.com/vi/7OYkWSW7u4k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/CqaAs_3azSs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7OYkWSW7u4k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/CqaAs_3azSs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7OYkWSW7u4k/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/CqaAs_3azSs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/7OYkWSW7u4k/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/CqaAs_3azSs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7OYkWSW7u4k/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -1991,7 +2118,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 397
+        "itemCount": 398
       }
     },
     {
@@ -2091,27 +2218,27 @@
         "description": "poo is #1!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VEeiuNGbkos/default.jpg",
+            "url": "https://i.ytimg.com/vi/-xZ2qRvjod8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VEeiuNGbkos/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-xZ2qRvjod8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VEeiuNGbkos/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-xZ2qRvjod8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/VEeiuNGbkos/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-xZ2qRvjod8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/VEeiuNGbkos/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-xZ2qRvjod8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -2123,7 +2250,7 @@
         }
       },
       "contentDetails": {
-        "itemCount": 550
+        "itemCount": 556
       }
     },
     {

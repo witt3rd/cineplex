@@ -1,10 +1,11 @@
 import os
 import json
 from aiohttp import content_disposition_filename
+from grpc import channel_ready_future
 import typer
 from cineplex.youtube_playlists import (
-    get_channel_playlists_from_db,
     get_channel_playlists_from_youtube,
+    get_channel_playlists_from_db,
     save_channel_playlists,
     get_playlist_items_from_db,
     get_playlist_items_from_youtube,
@@ -12,10 +13,17 @@ from cineplex.youtube_playlists import (
 )
 from cineplex.youtube_channels import (
     get_channels_from_youtube,
+    get_channels_from_db,
     get_channel_from_db,
+    get_channel_videos_from_db,
     save_channels,
 )
-
+from cineplex.youtube_videos import (
+    get_videos_from_db,
+    get_video_from_db,
+    save_videos,
+    download_video
+)
 from cineplex.config import Settings
 
 settings = Settings()
@@ -28,10 +36,10 @@ if not os.path.isdir(settings.data_dir):
 
 def print_channel(channel_with_meta):
     channel_id = channel_with_meta['_id']
-    retrieved_on = channel_with_meta['retrieved_on']
+    as_of = channel_with_meta['as_of']
     # playlists = channel_with_meta['playlists']
 
-    typer.echo(f"Channel {channel_id=} as of {retrieved_on}:")
+    typer.echo(f"Channel {channel_id=} as of {as_of}:")
     channel = channel_with_meta['channel']
     snippet = channel['snippet']
     typer.echo(f'- Title       : {snippet["title"]}')
@@ -64,10 +72,10 @@ def print_channels(channels_with_meta):
 
 def print_channel_playlists(playlists_with_meta):
     channel_id = playlists_with_meta['_id']
-    retrieved_on = playlists_with_meta['retrieved_on']
+    as_of = playlists_with_meta['as_of']
     playlists = playlists_with_meta['playlists']
 
-    typer.echo(f"Playlists for {channel_id=} as of {retrieved_on}:")
+    typer.echo(f"Playlists for {channel_id=} as of {as_of}:")
 
     # sort by item count
     playlists.sort(key=lambda x: x['contentDetails']
@@ -83,10 +91,10 @@ def print_channel_playlists(playlists_with_meta):
 
 def print_playlist_items(items_with_meta):
     playlist_id = items_with_meta['playlist_id']
-    retrieved_on = items_with_meta['retrieved_on']
+    as_of = items_with_meta['as_of']
     items = items_with_meta['items']
 
-    typer.echo(f"Playlist items for {playlist_id=} as of {retrieved_on}:")
+    typer.echo(f"Playlist items for {playlist_id=} as of {as_of}:")
 
     # sort items by position
     items.sort(key=lambda x: x['snippet']['position'])
@@ -97,6 +105,17 @@ def print_playlist_items(items_with_meta):
         video_id = snippet['resourceId']['videoId']
         typer.echo(
             f'{snippet["position"]:04d}) {video_id}: {snippet["channelTitle"]}: {snippet["title"]} @ {snippet["publishedAt"]}')
+
+
+def print_video(video_with_meta):
+
+    print(video_with_meta.keys())
+    return
+    typer.echo(
+        f"Video {video_with_meta['_id']=} as of {video_with_meta['as_of']}:")
+    video = video_with_meta['video']
+
+    typer.echo(video_with_meta)
 
 
 @app.command()
@@ -168,7 +187,7 @@ def update_my_playlists():
 
 
 @ app.command()
-def list_my_playlists():
+def show_my_playlists():
     """List my playlists from the database."""
     playlists_with_meta = get_channel_playlists_from_db(
         settings.youtube_my_channel_id)
@@ -193,7 +212,7 @@ def update_playlists(channel_id: str):
 
 
 @ app.command()
-def list_playlists(channel_id: str):
+def show_playlists(channel_id: str):
     """List playlists for a channel from the database."""
     playlists_with_meta = get_channel_playlists_from_db(channel_id)
     if playlists_with_meta is None:
@@ -213,10 +232,37 @@ def update_playlist_items(playlist_id: str):
 
 
 @ app.command()
-def list_playlist_items(playlist_id: str):
+def show_playlist_items(playlist_id: str):
     """List playlist items for a playlist"""
     items_with_meta = get_playlist_items_from_db(playlist_id)
     print_playlist_items(items_with_meta)
+
+
+@app.command()
+def show_video(video_id: str):
+    """Show a video from the database."""
+    video_with_meta = get_video_from_db(video_id)
+    if not video_with_meta:
+        typer.echo(
+            f"That video is not in the database; try 'update-video'")
+        return
+
+    print(json.dumps(video_with_meta, indent=2))
+    return
+
+    channel_id = video_with_meta['channel_id']
+    channel_with_meta = get_channel_from_db(channel_id)
+    channel_title = channel_with_meta['channel']['snippet']['title']
+    video_dir = os.path.join(settings.youtube_channels_dir, channel_title)
+    video_path = os.path.join(video_dir, video_with_meta['video_file'])
+
+    if not os.path.exists(video_path):
+        typer.echo(
+            f'Video file {video_path} does not exist; try "update-video"')
+        return
+    print(f"Video file {video_path} exists")
+
+    # print_video(video_with_meta)
 
 
 @ app.command()
@@ -236,6 +282,17 @@ def offline_playlist(playlist_id: str):
 @ app.command()
 def offline_channel(channel_id: str):
     """Get offline channel"""
+    pass
+
+
+@app.command()
+def offline_vidoo(video_id: str):
+    """Download a video from YouTube and place it in its channel's folder."""
+
+    # get the video's metadata
+    video_with_meta = get_video_from_db(video_id)
+    video_with_meta = get_video_from_youtube(video_id)
+
     pass
 
 

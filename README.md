@@ -34,7 +34,7 @@ YouTube channels ... Channel related collections are prefixed with `yt_channel_<
 
 ##### Channel Info
 
-- Collection: `yt_channel_info`
+- Collection: `yt_channels`
 - `_id`: YouTube `channel_id`
 
 ##### Channel Playlists
