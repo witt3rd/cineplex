@@ -254,7 +254,8 @@ def save_channel_playlists(channel_playlists_with_meta, to_disk=True):
             {'_id': channel_id},
             {'$set': channel_playlists_with_meta}, upsert=True)
 
-        Logger.log_saved('yt_channel_playlists', 'db', channel_id)
+        Logger.log_saved('yt_channel_playlists', 'db', channel_id, len(
+            channel_playlists_with_meta['playlists']))
 
     except Exception as e:
         Logger.exception(e)

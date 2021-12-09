@@ -1,0 +1,83 @@
+{
+  "_id": "UC_SD8q_CLdAoeb1_uiJOvmA",
+  "as_of": "2021-12-09 02:10:42.040913",
+  "playlists": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "vdn0Z10tXTeRBn6xuWwODZyqH0M",
+      "id": "PLIe06ZXqYfYAIVTp1e9jIx2iMtWmipMee",
+      "snippet": {
+        "publishedAt": "2018-05-15T16:10:20Z",
+        "channelId": "UC_SD8q_CLdAoeb1_uiJOvmA",
+        "title": "Scott Adams Talks About Stuff",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ManOfAllCreation",
+        "localized": {
+          "title": "Scott Adams Talks About Stuff",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 0
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "F0N_Atce_XXfpn0EKGOWi3pl01Q",
+      "id": "PLIe06ZXqYfYC99vreeHm5lq0AX9KVz7Jc",
+      "snippet": {
+        "publishedAt": "2017-12-02T20:22:07Z",
+        "channelId": "UC_SD8q_CLdAoeb1_uiJOvmA",
+        "title": "12 Rules For Life: An Antidote to Chaos",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uq3Fh2eQ9Ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uq3Fh2eQ9Ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uq3Fh2eQ9Ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uq3Fh2eQ9Ls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ManOfAllCreation",
+        "localized": {
+          "title": "12 Rules For Life: An Antidote to Chaos",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    }
+  ]
+}
