@@ -11,6 +11,9 @@ from cineplex.config import Settings
 
 settings = Settings()
 
+videos_data_dir = os.path.join(settings.data_dir, 'yt_videos')
+os.makedirs(videos_data_dir, exist_ok=True)
+
 
 ydl_opts = {
     'logger': Logger(),
@@ -25,7 +28,7 @@ image_exts = ['.jpg', '.webp', '.png']
 videos_exts = ['.webm', '.mkv', '.mp4']
 
 
-def resolve_files(json_filename):
+def _resolve_files(json_filename):
 
     logger = Logger()
     logger.debug(f"resolving from {json_filename=}")
@@ -85,7 +88,7 @@ def extract_video_info(json_filename, files=None):
     logger.debug(f"extracting video info from json {json_filename=}")
 
     if files is None:
-        files = resolve_files(json_filename)
+        files = _resolve_files(json_filename)
         if files is None:
             return None
 
@@ -122,7 +125,7 @@ def extract_video_info(json_filename, files=None):
 
 def download_video(video_url):
     logger = Logger()
-    logger.debug(f"downloading video {video_url=}")
+    logger.debug(f"downloading video from YouTube: {video_url=}")
 
     try:
 
@@ -166,21 +169,22 @@ def get_video_from_db(video_id):
     return get_db().yt_videos.find_one({'_id': video_id})
 
 
-def get_videos_from_db(video_ids):
+def get_video_from_db_batch(video_id_batch):
 
     logger = Logger()
-    logger.debug(f"getting {len(video_ids)} videos from db")
+    logger.debug(f"getting batch of {len(video_id_batch)} videos from db")
 
-    videos_cursor = get_db().yt_videos.find({'_id': {'$in': video_ids}})
+    videos_cursor = get_db().yt_videos.find({'_id': {'$in': video_id_batch}})
 
     videos = list(videos_cursor)
 
-    logger.debug(f"got {len(videos)} videos for {len(video_ids)} from db")
+    logger.debug(
+        f"got batch of {len(videos)} (of {len(video_id_batch)}) videos from db")
 
     return videos
 
 
-def save_video(video_with_meta, to_disk=True):
+def save_video_to_db(video_with_meta, to_disk=True):
 
     logger = Logger()
     logger.debug(f"saving video to db: {video_with_meta['video']['title']}")
@@ -188,21 +192,19 @@ def save_video(video_with_meta, to_disk=True):
     id = video_with_meta['_id']
 
     if to_disk:
-        dir = os.path.join(settings.data_dir, 'videos')
-        os.makedirs(dir, exist_ok=True)
-        with open(os.path.join(dir, f'video_{id}.json'), 'w') as f:
+        with open(os.path.join(videos_data_dir, f'video_{id}.json'), 'w') as f:
             json.dump(video_with_meta, f, indent=2)
 
     get_db().yt_videos.update_one(
         {'_id': id}, {'$set': video_with_meta}, upsert=True)
 
 
-def save_videos(videos_with_meta, to_disk=True):
+def save_video_to_db_batch(video_with_meta_batch, to_disk=True):
 
     logger = Logger()
-    logger.debug(f"saving {len(videos_with_meta)} videos to db")
+    logger.debug(f"saving batch of {len(video_with_meta_batch)} videos to db")
 
-    for video_with_meta in videos_with_meta:
-        save_video(video_with_meta, to_disk)
+    for video_with_meta in video_with_meta_batch:
+        save_video_to_db(video_with_meta, to_disk)
 
-    logger.debug(f"saved {len(videos_with_meta)} videos to db")
+    logger.debug(f"saved {len(video_with_meta_batch)} videos to db")

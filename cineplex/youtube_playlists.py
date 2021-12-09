@@ -8,63 +8,101 @@ from cineplex.config import Settings
 
 settings = Settings()
 
+playlists_data_dir = os.path.join(settings.data_dir, 'yt_playlists')
+os.makedirs(playlists_data_dir, exist_ok=True)
 
-def get_channel_playlists_from_youtube(channel_id):
+
+def get_playlist_from_youtube_batch(playlist_id_batch):
 
     logger = Logger()
-    logger.debug(f"getting playlists for {channel_id=}")
+    logger.debug(f"getting playlist batch from YouTube: {playlist_id_batch=}")
 
     youtube = youtube_api()
 
     request = youtube.playlists().list(
-        channelId=channel_id,
+        id=playlist_id_batch,
         part="id,snippet,contentDetails",
         maxResults=50,
-        fields='nextPageToken,items(id,snippet,contentDetails)'
     )
 
-    playlists = []
+    playlist_with_meta_batch = []
 
     while request:
         response = request.execute()
         if 'items' not in response:
             break
-        playlists.extend(response['items'])
+        for playlist in response['items']:
+            playlist_with_meta = {}
+            playlist_with_meta['_id'] = playlist['id']
+            playlist_with_meta['as_of'] = str(datetime.now())
+            playlist_with_meta['playlist'] = playlist
+            playlist_with_meta_batch.append(playlist_with_meta)
         request = youtube.playlists().list_next(request, response)
 
-    playlists_with_meta = {}
-    playlists_with_meta['_id'] = channel_id
-    playlists_with_meta['as_of'] = str(datetime.now())
-    playlists_with_meta['playlists'] = playlists
+    logger.debug(
+        f"got batch of {len(playlist_with_meta_batch)} (of {len(playlist_id_batch)}) playlists from YouTube")
+
+    return playlist_with_meta_batch
+
+
+def get_playlist_from_db(playlist_id):
+
+    logger = Logger()
+    logger.debug(f"getting playlist from db: {playlist_id=}")
+
+    playlist = get_db().yt_playlists.find_one({'_id': playlist_id})
+
+    title = playlist['playlist']['snippet']['title']
+
+    logger.debug(f"got playlist from db: {playlist_id=} {title=}")
+
+    return playlist
+
+
+def get_playlist_from_db_batch(playlist_id_batch):
+
+    logger = Logger()
+    logger.debug(
+        f"getting playlist batch from db: {playlist_id_batch}")
+
+    playlist_cursor = get_db().yt_playlists.find(
+        {'_id': {'$in': playlist_id_batch}})
+
+    playlist_batch = list(playlist_cursor)
 
     logger.debug(
-        f"got {len(playlists)} playlists for {channel_id=}")
+        f"got batch of {len(playlist_batch)} (of {len(playlist_id_batch)} playlists from db")
 
-    return playlists_with_meta
-
-
-def get_channel_playlists_from_db(channel_id):
-
-    logger = Logger()
-    logger.debug(f"getting playlists from db for {channel_id=}")
-
-    return get_db().yt_channel_playlists.find_one({'_id': channel_id})
+    return playlist_batch
 
 
-def save_channel_playlists(playlists_with_meta, to_disk=True):
+def save_playlist_to_db(playlist_with_meta, to_disk=True):
 
-    channel_id = playlists_with_meta['_id']
+    playlist_id = playlist_with_meta['_id']
 
     logger = Logger()
-    logger.debug(f"saving playlists for {channel_id=}")
+    logger.debug(f"saving playlist to db: {playlist_id=} ({to_disk=})")
 
     if to_disk:
-        with open(os.path.join(settings.data_dir, "playlists", f"playlists_{channel_id}.json"), "w") as result:
-            json.dump(playlists_with_meta, result, indent=2)
+        with open(os.path.join(playlists_data_dir, f"yt_playlist_{playlist_id}.json"), "w") as result:
+            json.dump(playlist_with_meta, result, indent=2)
 
-    get_db().yt_channel_playlists.update_one(
-        {'_id': channel_id},
-        {'$set': playlists_with_meta}, upsert=True)
+    get_db().yt_playlists.update_one(
+        {'_id': playlist_id},
+        {'$set': playlist_with_meta}, upsert=True)
+
+
+def save_playlist_to_db_batch(playlist_with_meta_batch, to_disk=True):
+
+    logger = Logger()
+    logger.debug(
+        f"saving playlist batch to db: {[x['_id'] for x in playlist_with_meta_batch]} ({to_disk=}")
+
+    for playlist_with_meta in playlist_with_meta_batch:
+        save_playlist_to_db(playlist_with_meta, to_disk)
+
+    logger.debug(
+        f"saved batch of {len(playlist_with_meta_batch)} playlists to db")
 
 
 def get_playlist_items_from_youtube(playlist_id):

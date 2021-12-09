@@ -18,8 +18,8 @@ class Settings(BaseSettings):
     mongo_url: str = "mongodb://localhost:27017"
     mongo_db: str = "cineplex"
 
-    data_dir: str = './data'
     tmp_dir: str = './tmp'
+    data_dir: str = './data'
 
     youtube_videos_dir: str = '/Volumes/media/youtube/videos'
     youtube_channels_dir: str = '/Volumes/media/youtube/channels'

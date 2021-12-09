@@ -1,9 +1,9 @@
 {
-  "channel_id": "UCWyJJVqoG65bOt4uLfFc7yg",
-  "as_of": "2021-12-05 03:47:40.292766",
+  "_id": "UCWyJJVqoG65bOt4uLfFc7yg",
+  "as_of": "2021-12-07 02:11:35.310049",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "dXaZE2q_OIefMsla6bWWD4vpLnw",
+    "etag": "JjJprSVpzzwRXKklCkuBlzvHdnI",
     "id": "UCWyJJVqoG65bOt4uLfFc7yg",
     "snippet": {
       "title": "David Smith",
@@ -38,7 +38,7 @@
       }
     },
     "statistics": {
-      "viewCount": "23288",
+      "viewCount": "23312",
       "subscriberCount": "826",
       "hiddenSubscriberCount": false,
       "videoCount": "12"

@@ -1,27 +1,26 @@
 import os
 import json
-from aiohttp import content_disposition_filename
-from grpc import channel_ready_future
+import pprint
 import typer
 from cineplex.youtube_playlists import (
-    get_channel_playlists_from_youtube,
-    get_channel_playlists_from_db,
-    save_channel_playlists,
     get_playlist_items_from_db,
     get_playlist_items_from_youtube,
     save_playlist_items,
 )
 from cineplex.youtube_channels import (
-    get_channels_from_youtube,
-    get_channels_from_db,
+    get_channel_from_youtube_batch,
+    get_channel_from_db_batch,
     get_channel_from_db,
     get_channel_videos_from_db,
-    save_channels,
+    save_channel_to_db_batch,
+    get_channel_playlists_from_youtube,
+    get_channel_playlists_from_db,
+    save_channel_playlists,
 )
 from cineplex.youtube_videos import (
-    get_videos_from_db,
+    get_video_from_db_batch,
     get_video_from_db,
-    save_videos,
+    save_video_to_db_batch,
     download_video
 )
 from cineplex.config import Settings
@@ -30,8 +29,11 @@ settings = Settings()
 
 app = typer.Typer()
 
-if not os.path.isdir(settings.data_dir):
-    os.mkdir(settings.data_dir)
+os.makedirs(settings.data_dir, exist_ok=True)
+
+
+def val(text):
+    return typer.style(text, fg=typer.colors.GREEN, bold=True)
 
 
 def print_channel(channel_with_meta):
@@ -39,30 +41,30 @@ def print_channel(channel_with_meta):
     as_of = channel_with_meta['as_of']
     # playlists = channel_with_meta['playlists']
 
-    typer.echo(f"Channel {channel_id=} as of {as_of}:")
+    typer.echo(f"📺 Channel {val(channel_id)} as of {val(as_of)}:")
     channel = channel_with_meta['channel']
     snippet = channel['snippet']
-    typer.echo(f'- Title       : {snippet["title"]}')
+    typer.echo(f'- Title       : {val(snippet["title"])}')
     typer.echo(
-        f'- Description : {snippet["description"] if snippet["description"] else "None"}')
-    typer.echo(f'- Published on: {snippet["publishedAt"]}')
+        f'- Description : {val(snippet["description"]) if snippet["description"] else "None"}')
+    typer.echo(f'- Published on: {val(snippet["publishedAt"])}')
 
     statistics = channel['statistics']
-    typer.echo(f'- Subscribers : {statistics["subscriberCount"]}')
-    typer.echo(f'- Views       : {statistics["viewCount"]}')
-    typer.echo(f'- Videos      : {statistics["videoCount"]}')
+    typer.echo(f'- Subscribers : {val(statistics["subscriberCount"])}')
+    typer.echo(f'- Views       : {val(statistics["viewCount"])}')
+    typer.echo(f'- Videos      : {val(statistics["videoCount"])}')
 
     brandingSettings = channel['brandingSettings']
     branding_channel = brandingSettings['channel']
     if 'title' in branding_channel:
         typer.echo(
-            f"- Title (B)   : {branding_channel['title']}")
+            f"- Title (B)   : {val(branding_channel['title'])}")
     if 'description' in branding_channel:
         typer.echo(
-            f"- Desc. (B)   : {branding_channel['description']}")
+            f"- Desc. (B)   : {val(branding_channel['description'])}")
     if 'keywords' in branding_channel:
         typer.echo(
-            f"- Keywords (B): {branding_channel['keywords']}")
+            f"- Keywords (B): {val(branding_channel['keywords'])}")
 
 
 def print_channels(channels_with_meta):
@@ -70,10 +72,10 @@ def print_channels(channels_with_meta):
         print_channel(channel_with_meta)
 
 
-def print_channel_playlists(playlists_with_meta):
-    channel_id = playlists_with_meta['_id']
-    as_of = playlists_with_meta['as_of']
-    playlists = playlists_with_meta['playlists']
+def print_channel_playlists(channel_playlists_with_meta):
+    channel_id = channel_playlists_with_meta['_id']
+    as_of = channel_playlists_with_meta['as_of']
+    playlists = channel_playlists_with_meta['playlists']
 
     typer.echo(f"Playlists for {channel_id=} as of {as_of}:")
 
@@ -87,6 +89,15 @@ def print_channel_playlists(playlists_with_meta):
         contentDetails = playlist['contentDetails']
         typer.echo(
             f'{id}: {snippet["title"]} ({contentDetails["itemCount"]})')
+
+
+def print_playlist(playlist_with_meta):
+    playlist_id = playlist_with_meta['_id']
+    as_of = playlist_with_meta['as_of']
+    playlist = playlist_with_meta['playlist']
+
+    typer.echo(f"Playlist {playlist_id=} as of {as_of}:")
+    pprint(playlist, indent=2)
 
 
 def print_playlist_items(items_with_meta):
@@ -123,12 +134,12 @@ def update_my_channel():
     """Get my channel from YouTube and save it to the database."""
     channel_id = settings.youtube_my_channel_id
 
-    channels_with_meta = get_channels_from_youtube([channel_id])
+    channels_with_meta = get_channel_from_youtube_batch([channel_id])
     if not channels_with_meta:
         typer.echo(f'No channel found for {channel_id=}')
         return
 
-    save_channels(channels_with_meta)
+    save_channel_to_db_batch(channels_with_meta)
     print_channels(channels_with_meta)
 
 
@@ -150,12 +161,12 @@ def show_my_channel():
 def update_channel(channel_id: str):
     """Get a channel from YouTube and save it to the database."""
 
-    channels_with_meta = get_channels_from_youtube([channel_id])
+    channels_with_meta = get_channel_from_youtube_batch([channel_id])
     if not channels_with_meta:
         typer.echo(f'No channel found for {channel_id}')
         return
 
-    save_channels(channels_with_meta)
+    save_channel_to_db_batch(channels_with_meta)
     print_channels(channels_with_meta)
 
 
@@ -200,7 +211,7 @@ def show_my_playlists():
 
 
 @ app.command()
-def update_playlists(channel_id: str):
+def update_channel_playlists(channel_id: str):
     """Get playlists for a channel from YouTube and save them to the database."""
     playlists_with_meta = get_channel_playlists_from_youtube(channel_id)
     if not playlists_with_meta:
@@ -212,15 +223,39 @@ def update_playlists(channel_id: str):
 
 
 @ app.command()
-def show_playlists(channel_id: str):
+def show_channel_playlists(channel_id: str):
     """List playlists for a channel from the database."""
     playlists_with_meta = get_channel_playlists_from_db(channel_id)
     if playlists_with_meta is None:
         typer.echo(
-            f"There are no playlists in the database for that channel; try 'update-playlists'")
+            f"There are no playlists in the database for that channel; try 'update-channel-playlists'")
         return
 
     print_channel_playlists(playlists_with_meta)
+
+
+@ app.command()
+def update_playlist(playlist_id: str):
+    """Get playlist info from YouTube and save it to the database."""
+    playlists_with_meta = get_playlists_from_youtube_batch([playlist_id])
+    if not playlists_with_meta:
+        typer.echo(f"That playlist doesn't exist.")
+        return
+
+    save_playlists_batch(playlists_with_meta)
+    print_playlist([playlists_with_meta])
+
+
+@ app.command()
+def show_playlist(playlist_id: str):
+    """List playlist info from the database."""
+    playlist_with_meta = get_playlist_from_db(playlist_id)
+    if playlist_with_meta is None:
+        typer.echo(
+            f"There is no such playlist in the database; try 'update-playlist'")
+        return
+
+    print_playlist(playlist_with_meta)
 
 
 @ app.command()
@@ -247,7 +282,7 @@ def show_video(video_id: str):
             f"That video is not in the database; try 'update-video'")
         return
 
-    print(json.dumps(video_with_meta, indent=2))
+    pprint(video_with_meta, indent=2)
     return
 
     channel_id = video_with_meta['channel_id']

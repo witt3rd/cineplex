@@ -1,7 +1,9 @@
 from cmath import log
+from genericpath import exists
 import json
 import os
 from datetime import datetime
+from tkinter import E
 from cineplex.youtube import youtube_api
 from cineplex.db import get_db
 from cineplex.logger import Logger
@@ -9,98 +11,115 @@ from cineplex.config import Settings
 
 settings = Settings()
 
+channels_data_dir = os.path.join(settings.data_dir, 'yt_channels')
+os.makedirs(channels_data_dir, exist_ok=True)
 
-def get_channels_from_youtube(channel_ids):
 
-    # if channel_ids is a list
-    if isinstance(channel_ids, str):
-        channel_ids_string = channel_ids
-    else:
-        channel_ids_string = ','.join(channel_ids)
+def get_channel_from_youtube_batch(channel_id_batch):
 
-    logger = Logger()
-    logger.debug(f"getting channel from YouTube for {channel_ids_string=}")
+    Logger.log_get_batch('channels', 'YouTube', channel_id_batch)
 
-    youtube = youtube_api()
+    try:
+        youtube = youtube_api()
+        request = youtube.channels().list(
+            part="snippet,contentDetails,statistics,brandingSettings",
+            id=channel_id_batch,
+            maxResults=50,
+        )
 
-    request = youtube.channels().list(
-        part="snippet,contentDetails,statistics,brandingSettings",
-        id=channel_ids,
-        maxResults=50,
-    )
+        channel_with_meta_batch = []
 
-    channels_with_meta = []
+        while request:
+            response = request.execute()
+            if 'items' not in response:
+                break
+            for channel in response['items']:
+                channel_with_meta = {}
+                channel_with_meta['_id'] = channel['id']
+                channel_with_meta['as_of'] = str(datetime.now())
+                channel_with_meta['channel'] = channel
+                channel_with_meta_batch.append(channel_with_meta)
+            request = youtube.channels().list_next(request, response)
 
-    while request:
-        response = request.execute()
-        if 'items' not in response:
-            break
-        for channel in response['items']:
-            channel_with_meta = {}
-            channel_with_meta['_id'] = channel['id']
-            channel_with_meta['as_of'] = str(datetime.now())
-            channel_with_meta['channel'] = channel
-            channels_with_meta.append(channel_with_meta)
-        request = youtube.channels().list_next(request, response)
+        Logger.log_got_batch('channels', 'YouTube', channel_with_meta_batch)
 
-    logger.debug(
-        f"got {len(channels_with_meta)} channels from YouTube for {len(channel_ids)} channels")
+        return channel_with_meta_batch
 
-    return channels_with_meta
+    except Exception as e:
+        Logger.exception(e)
+        return []
 
 
 def get_channel_from_db(channel_id):
-    logger = Logger()
-    logger.debug(f"getting channel from db for {channel_id=}")
 
-    channel = get_db().yt_channels.find_one({'_id': channel_id})
+    Logger.log_get('channel', 'db', channel_id)
 
-    logger.debug(
-        f"got channel from db: {channel['channel']['snippet']['title']}")
+    try:
+        channel = get_db().yt_channels.find_one({'_id': channel_id})
 
-    return channel
+        title = channel['channel']['snippet']['title']
 
+        Logger.log_got('channel', 'db', channel_id, f"{title=}")
 
-def get_channels_from_db(channel_ids):
-    logger = Logger()
-    logger.debug(f"getting channels from db for {len(channel_ids)} channels")
+        return channel
 
-    channels_cursor = get_db().yt_channels.find(
-        {'_id': {'$in': channel_ids}})
-
-    channels = list(channels_cursor)
-
-    logger.debug(
-        f"got {len(channels)} channels for {len(channel_ids)} channels from db")
-
-    return channels
+    except Exception as e:
+        Logger.exception(e)
+        return None
 
 
-def save_channel(channel_with_meta, to_disk=True):
+def get_channel_from_db_batch(channel_id_batch):
+
+    Logger.log_get_batch('channels', 'db', channel_id_batch)
+
+    try:
+        channels_cursor = get_db().yt_channels.find(
+            {'_id': {'$in': channel_id_batch}})
+
+        channel_batch = list(channels_cursor)
+
+        Logger.log_got_batch('channels', 'db', channel_batch)
+
+        return channel_batch
+
+    except Exception as e:
+        Logger.exception(e)
+        return []
+
+
+def save_channel_to_db(channel_with_meta, to_disk=True):
+
     channel_id = channel_with_meta['_id']
 
-    logger = Logger()
-    logger.debug(f"saving channel {channel_id}")
+    Logger.log_save('channel', 'db', channel_id, f"{to_disk=}")
 
-    if to_disk:
-        dir = os.path.join(settings.data_dir, "channels")
-        os.makedirs(dir, exist_ok=True)
-        with open(os.path.join(dir, f"channel_{channel_id}.json"), "w") as result:
-            json.dump(channel_with_meta, result, indent=2)
+    try:
+        if to_disk:
+            with open(os.path.join(channels_data_dir, f"yt_channel_{channel_id}.json"), "w") as result:
+                json.dump(channel_with_meta, result, indent=2)
 
-    get_db().yt_channels.update_one(
-        {'_id': channel_with_meta['_id']}, {'$set': channel_with_meta}, upsert=True)
+        get_db().yt_channels.update_one(
+            {'_id': channel_with_meta['_id']}, {'$set': channel_with_meta}, upsert=True)
+
+        Logger.log_saved('channel', 'db', channel_id)
+
+    except Exception as e:
+        Logger.exception(e)
 
 
-def save_channels(channels_with_meta, to_disk=True):
-    logger = Logger()
-    logger.debug(f"saving {len(channels_with_meta)} channels")
+def save_channel_to_db_batch(channel_with_meta_batch, to_disk=True):
 
-    for channel_with_meta in channels_with_meta:
-        save_channel(channel_with_meta, to_disk)
+    Logger.log_save_batch('channels', 'db',
+                          channel_with_meta_batch, f"{to_disk=}")
 
-    logger.debug(
-        f"saved {len(channels_with_meta)} channels")
+    try:
+        for channel_with_meta in channel_with_meta_batch:
+            save_channel_to_db(channel_with_meta, to_disk)
+
+        Logger.log_saved_batch('channels', 'db', channel_with_meta_batch)
+
+    except Exception as e:
+        Logger.exception(e)
 
 
 def get_channel_videos_from_youtube(channel_id):
@@ -161,12 +180,75 @@ def save_channel_videos(channel_id, videos_with_meta, to_disk=True):
 
 
 def get_channel_playlists_from_youtube(channel_id):
-    pass
+
+    Logger.log_get('channel playlists', 'YouTube', channel_id)
+
+    try:
+        youtube = youtube_api()
+
+        request = youtube.playlists().list(
+            channelId=channel_id,
+            part="id,snippet,contentDetails",
+            maxResults=50,
+        )
+
+        playlists = []
+
+        while request:
+            response = request.execute()
+            if 'items' not in response:
+                break
+            playlists.extend(response['items'])
+            request = youtube.playlists().list_next(request, response)
+
+        channel_playlists_with_meta = {}
+        channel_playlists_with_meta['_id'] = channel_id
+        channel_playlists_with_meta['as_of'] = str(datetime.now())
+        channel_playlists_with_meta['playlists'] = playlists
+
+        Logger.log_got('channel playlists', 'YouTube', channel_id)
+
+        return channel_playlists_with_meta
+
+    except Exception as e:
+        Logger.exception(e)
+        return {}
 
 
 def get_channel_playlists_from_db(channel_id):
-    pass
+
+    Logger.log_get('channel playlist', 'db', channel_id)
+
+    try:
+        channel_playlist = get_db().yt_channel_playlists.find_one(
+            {'_id': channel_id})
+
+        Logger.log_got('channel playlists', 'db',
+                       f"{channel_id} {channel_playlist['playlists']['snippet']['title']}")
+
+        return channel_playlist
+
+    except Exception as e:
+        Logger.exception(e)
+        return None
 
 
-def save_channel_playlists(channel_id, playlists_with_meta, to_disk=True):
-    pass
+def save_channel_playlists(channel_playlists_with_meta, to_disk=True):
+
+    channel_id = channel_playlists_with_meta['_id']
+
+    Logger.log_save('channel_playlists', 'db', f"{channel_id} ({to_disk=})")
+
+    try:
+        if to_disk:
+            with open(os.path.join(settings.data_dir, "channel_playlists", f"channel_playlists_{channel_id}.json"), "w") as result:
+                json.dump(channel_playlists_with_meta, result, indent=2)
+
+        get_db().yt_channel_playlists.update_one(
+            {'_id': channel_id},
+            {'$set': channel_playlists_with_meta}, upsert=True)
+
+        Logger.log_saved('channel_playlists', 'db', channel_id)
+
+    except Exception as e:
+        Logger.exception(e)

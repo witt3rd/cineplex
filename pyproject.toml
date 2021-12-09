@@ -6,7 +6,7 @@ authors = ["witt3rd <donald@witt3rd.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-ray = {extras = ["default", "data", "serve"], version = "1.9.0rc2"}
+ray = {extras = ["default", "data", "serve"], version = "1.9.0"}
 python-dotenv = "^0.19.2"
 google-api-python-client = "^2.31.0"
 google-auth-oauthlib = "^0.4.6"
