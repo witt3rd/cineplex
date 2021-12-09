@@ -61,6 +61,9 @@ def get_channel_from_db(channel_id):
     try:
         channel = get_db().yt_channels.find_one({'_id': channel_id})
 
+        if channel is None:
+            return None
+
         title = channel['channel']['snippet']['title']
 
         Logger.log_got('yt_channel', 'db', channel_id, f"{title=}")
@@ -103,7 +106,7 @@ def save_channel_to_db(channel_with_meta, to_disk=True):
                 json.dump(channel_with_meta, result, indent=2)
 
         get_db().yt_channels.update_one(
-            {'_id': channel_with_meta['_id']}, {'$set': channel_with_meta}, upsert=True)
+            {'_id': channel_id}, {'$set': channel_with_meta}, upsert=True)
 
         Logger.log_saved('yt_channel', 'db', channel_id)
 

@@ -1,0 +1,45 @@
+{
+  "_id": "PLIe06ZXqYfYC99vreeHm5lq0AX9KVz7Jc",
+  "as_of": "2021-12-09 03:53:03.474391",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "F0N_Atce_XXfpn0EKGOWi3pl01Q",
+    "id": "PLIe06ZXqYfYC99vreeHm5lq0AX9KVz7Jc",
+    "snippet": {
+      "publishedAt": "2017-12-02T20:22:07Z",
+      "channelId": "UC_SD8q_CLdAoeb1_uiJOvmA",
+      "title": "12 Rules For Life: An Antidote to Chaos",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Uq3Fh2eQ9Ls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Uq3Fh2eQ9Ls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Uq3Fh2eQ9Ls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Uq3Fh2eQ9Ls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "ManOfAllCreation",
+      "localized": {
+        "title": "12 Rules For Life: An Antidote to Chaos",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 13
+    }
+  }
+}
