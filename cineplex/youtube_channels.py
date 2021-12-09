@@ -11,13 +11,17 @@ from cineplex.config import Settings
 
 settings = Settings()
 
-channels_data_dir = os.path.join(settings.data_dir, 'yt_channels')
-os.makedirs(channels_data_dir, exist_ok=True)
+yt_channels_data_dir = os.path.join(settings.data_dir, 'yt_channels')
+os.makedirs(yt_channels_data_dir, exist_ok=True)
+
+yt_channel_playlists_data_dir = os.path.join(
+    settings.data_dir, 'yt_channel_playlists')
+os.makedirs(yt_channel_playlists_data_dir, exist_ok=True)
 
 
 def get_channel_from_youtube_batch(channel_id_batch):
 
-    Logger.log_get_batch('channels', 'YouTube', channel_id_batch)
+    Logger.log_get_batch('yt_channels', 'YouTube', channel_id_batch)
 
     try:
         youtube = youtube_api()
@@ -41,7 +45,7 @@ def get_channel_from_youtube_batch(channel_id_batch):
                 channel_with_meta_batch.append(channel_with_meta)
             request = youtube.channels().list_next(request, response)
 
-        Logger.log_got_batch('channels', 'YouTube', channel_with_meta_batch)
+        Logger.log_got_batch('yt_channels', 'YouTube', channel_with_meta_batch)
 
         return channel_with_meta_batch
 
@@ -52,14 +56,14 @@ def get_channel_from_youtube_batch(channel_id_batch):
 
 def get_channel_from_db(channel_id):
 
-    Logger.log_get('channel', 'db', channel_id)
+    Logger.log_get('yt_channel', 'db', channel_id)
 
     try:
         channel = get_db().yt_channels.find_one({'_id': channel_id})
 
         title = channel['channel']['snippet']['title']
 
-        Logger.log_got('channel', 'db', channel_id, f"{title=}")
+        Logger.log_got('yt_channel', 'db', channel_id, f"{title=}")
 
         return channel
 
@@ -70,7 +74,7 @@ def get_channel_from_db(channel_id):
 
 def get_channel_from_db_batch(channel_id_batch):
 
-    Logger.log_get_batch('channels', 'db', channel_id_batch)
+    Logger.log_get_batch('yt_channels', 'db', channel_id_batch)
 
     try:
         channels_cursor = get_db().yt_channels.find(
@@ -78,7 +82,7 @@ def get_channel_from_db_batch(channel_id_batch):
 
         channel_batch = list(channels_cursor)
 
-        Logger.log_got_batch('channels', 'db', channel_batch)
+        Logger.log_got_batch('yt_channels', 'db', channel_batch)
 
         return channel_batch
 
@@ -91,17 +95,17 @@ def save_channel_to_db(channel_with_meta, to_disk=True):
 
     channel_id = channel_with_meta['_id']
 
-    Logger.log_save('channel', 'db', channel_id, f"{to_disk=}")
+    Logger.log_save('yt_channel', 'db', channel_id, f"{to_disk=}")
 
     try:
         if to_disk:
-            with open(os.path.join(channels_data_dir, f"yt_channel_{channel_id}.json"), "w") as result:
+            with open(os.path.join(yt_channels_data_dir, f"yt_channel_{channel_id}.json"), "w") as result:
                 json.dump(channel_with_meta, result, indent=2)
 
         get_db().yt_channels.update_one(
             {'_id': channel_with_meta['_id']}, {'$set': channel_with_meta}, upsert=True)
 
-        Logger.log_saved('channel', 'db', channel_id)
+        Logger.log_saved('yt_channel', 'db', channel_id)
 
     except Exception as e:
         Logger.exception(e)
@@ -109,14 +113,14 @@ def save_channel_to_db(channel_with_meta, to_disk=True):
 
 def save_channel_to_db_batch(channel_with_meta_batch, to_disk=True):
 
-    Logger.log_save_batch('channels', 'db',
+    Logger.log_save_batch('yt_channels', 'db',
                           channel_with_meta_batch, f"{to_disk=}")
 
     try:
         for channel_with_meta in channel_with_meta_batch:
             save_channel_to_db(channel_with_meta, to_disk)
 
-        Logger.log_saved_batch('channels', 'db', channel_with_meta_batch)
+        Logger.log_saved_batch('yt_channels', 'db', channel_with_meta_batch)
 
     except Exception as e:
         Logger.exception(e)
@@ -181,7 +185,7 @@ def save_channel_videos(channel_id, videos_with_meta, to_disk=True):
 
 def get_channel_playlists_from_youtube(channel_id):
 
-    Logger.log_get('channel playlists', 'YouTube', channel_id)
+    Logger.log_get('yt_channel_playlists', 'YouTube', channel_id)
 
     try:
         youtube = youtube_api()
@@ -206,7 +210,7 @@ def get_channel_playlists_from_youtube(channel_id):
         channel_playlists_with_meta['as_of'] = str(datetime.now())
         channel_playlists_with_meta['playlists'] = playlists
 
-        Logger.log_got('channel playlists', 'YouTube', channel_id)
+        Logger.log_got('yt_channel_playlists', 'YouTube', channel_id)
 
         return channel_playlists_with_meta
 
@@ -217,14 +221,16 @@ def get_channel_playlists_from_youtube(channel_id):
 
 def get_channel_playlists_from_db(channel_id):
 
-    Logger.log_get('channel playlist', 'db', channel_id)
+    Logger.log_get('yt_channel_playlists', 'db', channel_id)
 
     try:
         channel_playlist = get_db().yt_channel_playlists.find_one(
             {'_id': channel_id})
 
-        Logger.log_got('channel playlists', 'db',
-                       f"{channel_id} {channel_playlist['playlists']['snippet']['title']}")
+        Logger.log_got('yt_channel_playlists', 'db',
+                       channel_id, len(channel_playlist['playlists']))
+
+        return channel_playlist
 
         return channel_playlist
 
@@ -237,18 +243,18 @@ def save_channel_playlists(channel_playlists_with_meta, to_disk=True):
 
     channel_id = channel_playlists_with_meta['_id']
 
-    Logger.log_save('channel_playlists', 'db', f"{channel_id} ({to_disk=})")
+    Logger.log_save('yt_channel_playlists', 'db', channel_id, f"{to_disk=}")
 
     try:
         if to_disk:
-            with open(os.path.join(settings.data_dir, "channel_playlists", f"channel_playlists_{channel_id}.json"), "w") as result:
+            with open(os.path.join(yt_channel_playlists_data_dir, f"yt_channel_playlists_{channel_id}.json"), "w") as result:
                 json.dump(channel_playlists_with_meta, result, indent=2)
 
         get_db().yt_channel_playlists.update_one(
             {'_id': channel_id},
             {'$set': channel_playlists_with_meta}, upsert=True)
 
-        Logger.log_saved('channel_playlists', 'db', channel_id)
+        Logger.log_saved('yt_channel_playlists', 'db', channel_id)
 
     except Exception as e:
         Logger.exception(e)

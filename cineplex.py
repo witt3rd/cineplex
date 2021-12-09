@@ -77,7 +77,7 @@ def print_channel_playlists(channel_playlists_with_meta):
     as_of = channel_playlists_with_meta['as_of']
     playlists = channel_playlists_with_meta['playlists']
 
-    typer.echo(f"Playlists for {channel_id=} as of {as_of}:")
+    typer.echo(f"📝 Playlists for {val(channel_id)} as of {val(as_of)}:")
 
     # sort by item count
     playlists.sort(key=lambda x: x['contentDetails']
@@ -88,7 +88,7 @@ def print_channel_playlists(channel_playlists_with_meta):
         snippet = playlist['snippet']
         contentDetails = playlist['contentDetails']
         typer.echo(
-            f'{id}: {snippet["title"]} ({contentDetails["itemCount"]})')
+            f'{id}: {val(snippet["title"])} ({val(contentDetails["itemCount"])})')
 
 
 def print_playlist(playlist_with_meta):
