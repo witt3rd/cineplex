@@ -1,0 +1,517 @@
+{
+  "_id": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+  "as_of": "2021-12-10 00:22:07.042081",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UTAXl9vAd6gJWfx07Hw1rpXstJg",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-02-24T02:25:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Utterance robot finally got the same voice as humans",
+        "description": "Utterance robot finally got the same voice as humans\n\u52d5\u753b\u65e5\u672c\u8a9e\u7248\uff08JapaneseVer.\uff09\n\u2192 https://youtu.be/J_R7fgo0FLc\nSite version\uff08English Ver.\uff09\n\u2192  http://www.ikinamo.net/11-0147-r-en/\n\nExhibited speech robot with speech generation organ similar to humans at ROBOTECH 2011. For example, even if you do not know the meaning in unknown languages, humans can produce sounds that are similar to that sound. In other words, you can guess how to move through the mouth in order to produce a certain sound. Using already learned data. So this robot can not teach all the sounds, so if you teach it to a certain extent and use that learning result, even if unknown sound comes in, you can not guess the movement , Began research on autonomous learning. Even if that sounds quite good and let you hear unknown sounds, you can estimate it by reasonable motion and reproduce that sound.\n\nTalking Robot Mouth Mimics Human Speech #DigInfo\n\n--------------------------------------------------------------------------------------------\n\u3010Ikinamo administration site \u00b7 channel list\u3011\n\u25ce Ikinamo management company (Glasona International Inc.)\nhttp://glasona.com/\n\u25ce Ikinamo YouTube channel (English version)\nhttps://www.youtube.com/c/ikinamo\n\u25ce iIkinamoJapan YouTube channel (Japanese version)\nhttps://www.youtube.com/c/ikinamoJapan\n\n\u25ce Ikinamo site (English version)\n\u2192 http://www.ikinamo.net/\n\u25ceFacebook\n\u2192 https://www.facebook.com/Ikinamo%E3%82%A4%E3%82%AD%E3%83%8A%E3%83%A2-1658945947754662/\n\n--------------------------------------------------------------------------------------------\n\u25ce Click here for popular videos\nSony Rolly in Motion - Uncut Demonstration 2007\n\u2192 https://youtu.be/HTxdKi77G20\nUltra-realistic Dental Training Android Robot - Showa Hanako 2\n\u2192 https://youtu.be/WhzbFaNueKU\n\nKagawa University",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HmSYnOvEueo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HmSYnOvEueo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HmSYnOvEueo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HmSYnOvEueo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HmSYnOvEueo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HmSYnOvEueo"
+        },
+        "videoOwnerChannelTitle": "ikinamo",
+        "videoOwnerChannelId": "UCOHoBDJhP2cpYAI8YKroFbA"
+      },
+      "contentDetails": {
+        "videoId": "HmSYnOvEueo",
+        "videoPublishedAt": "2011-07-14T11:19:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MlzqOunouX8lm2G6LLrvEFZnhfU",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-02-24T02:24:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Nachbau des Kempelenschen Sprechapparats",
+        "description": "K\u00fcnstliches Sprechen ist ein alter Traum, nicht ohne Unheimlichkeit. Das Deutsche Museum bewahrt einen Sprechapparat, der als der \u00e4lteste seiner Art gilt. Er \u00e4hnelt dem ber\u00fchmten Apparat, den Wolfgang von Kempelen in seinem Buch \"Mechanismus der menschlichen Sprache\" von 1791 beschrieb. Leistung und Funktion des Apparats waren bislang unbekannt. Jetzt fertigten die Werkst\u00e4tten des Deutschen Museums eine genaue Replik, um dem auf die Spur zu kommen. Alexander Steinbei\u00dfer, der die Replik mit Kolleginnen und Kollegen gebaut hat, f\u00fchrt ihn vor.\nEin Film von Raimund und Amon Ritz.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oIjkzZGe2I8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oIjkzZGe2I8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oIjkzZGe2I8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oIjkzZGe2I8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oIjkzZGe2I8"
+        },
+        "videoOwnerChannelTitle": "Deutsches Museum",
+        "videoOwnerChannelId": "UCCjFn707ij2b4qtsKe7901Q"
+      },
+      "contentDetails": {
+        "videoId": "oIjkzZGe2I8",
+        "videoPublishedAt": "2016-11-30T15:44:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Cr9fEhJsS9NZhubwnzGklo5mUXs",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-02-24T02:24:55Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Kempelen's speaking machine",
+        "description": "The 'speaking machine' of Wolfgang von Kempelen (1734-1804) was the first fully functional and anatomically based speech synthesis ever. \nThis is a renewed short presentation of the replica built at the department of Phonetics of Saarland University, Saarbr\u00fccken (Germany) by Fabian Brackhane with assistance by the Orgelbaumanufaktur Hugo Mayer and Dominik Bauer. We began in 2007 and did improvements and further developements until 2016.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k_YUB_S6Gpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k_YUB_S6Gpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k_YUB_S6Gpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k_YUB_S6Gpo"
+        },
+        "videoOwnerChannelTitle": "Fabian Brackhane",
+        "videoOwnerChannelId": "UC_HYkQT1eKwaPNkF9UTTUXA"
+      },
+      "contentDetails": {
+        "videoId": "k_YUB_S6Gpo",
+        "videoPublishedAt": "2017-06-06T13:19:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DhLmTesz15cKBNgjTSt0acsVR0M",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-02-24T02:23:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Kempelen's speaking machine - with free reed",
+        "description": "This replica was built from 2007 on by Fabian Brackhane with assistance by Dominik Bauer and the Hugo Mayer Orgelbaumanufaktur. It is located since then at the Phonetics Departement of Saarland University at Saarbr\u00fccken (Germany). It's still work in progress - various experiments and improvements were made during the last years. For instance we developed a free reed excitation in parallel to the idea of Christian Gottlieb Kratzenstein's \"vowel organ\" which is demonstrated in this video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5fWYCTkWRoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5fWYCTkWRoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5fWYCTkWRoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5fWYCTkWRoE"
+        },
+        "videoOwnerChannelTitle": "Fabian Brackhane",
+        "videoOwnerChannelId": "UC_HYkQT1eKwaPNkF9UTTUXA"
+      },
+      "contentDetails": {
+        "videoId": "5fWYCTkWRoE",
+        "videoPublishedAt": "2016-09-13T07:04:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7xBQyqzWugAqnwhvGDgEjhNYLCw",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-02-24T02:24:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "ToneSpectra.com ~Speech Machine (Vowel Generator Sequencer)",
+        "description": "\"Wolfgang von Kempelen, Mensch-[in der]-Maschine\" exhibition, ZKM, Karlsruhe (D), 2007.\r\n\r\n(Cloned to avoid broken links)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LnowyJR50pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LnowyJR50pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LnowyJR50pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LnowyJR50pk"
+        },
+        "videoOwnerChannelTitle": "ToneSpectra.com",
+        "videoOwnerChannelId": "UCcC2iQbzkHbDXepD-wYXWjQ"
+      },
+      "contentDetails": {
+        "videoId": "LnowyJR50pk",
+        "videoPublishedAt": "2011-01-04T14:38:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bxyiIjixdTldo7rbFeznQPhbdEc",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-02-24T02:25:55Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Voder: 1939,  the worlds first electronic voice synthesizer",
+        "description": "The Voder was the worlds first voice electronic synthesizer. In 1939 Homer Dudley working at Bell Telephone Laboratories in Murray Hill, New Jersey began to publicly demonstrate the Voder, the first electronic device that could generate continuous human speech electronically.\n\nThe Voder was designed for the 1939 World Fair in New York as a showcase of the advanced work being done at Bell Laboratories.  It was a manually operated system requiring training, ten finger, two foot paddles, a knee leaver and arm switch to generate sounds. The sounds quality actually was better than most voice synthesizers all the way up to the late 1990s.\n\nThis is audio from a radio program recorded live during the broadcast.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TsdOej_nC1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TsdOej_nC1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TsdOej_nC1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TsdOej_nC1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TsdOej_nC1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TsdOej_nC1M"
+        },
+        "videoOwnerChannelTitle": "Brian Roemmele",
+        "videoOwnerChannelId": "UCbU8V0oZzQibwabDn7_tQjw"
+      },
+      "contentDetails": {
+        "videoId": "TsdOej_nC1M",
+        "videoPublishedAt": "2016-11-21T21:12:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4OAKXhr662D3IyM6G2Krt4FuM_Y",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-06-05T09:37:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Cipher Hunt: Gravity Falls' Insane Worldwide Treasure Hunt | blameitonjorge",
+        "description": "Today, we go over one of the most cryptic games in Disney history.\n\nWritten by:\nMatt Acu\u00f1a: https://twitter.com/Acuna_Mattata\n\nArt by: Nolan B.\nhttps://twitter.com/nolanbartworks\n\nMusic:\n\"Elsewhere\" by Synth Kid\nhttps://synthkid.bandcamp.com/album/elsewhere\n\n\"Willow Trees\" by Gustaav\nhttps://www.youtube.com/watch?v=UGfua_TUfGU\n\n\"Mischievous Operations\" by Alfie-Jay Winters\nhttps://www.epidemicsound.com/track/MpHo8lpSNt\n\n\"Peppermint\" by Dylan Sitts\nhttps://www.youtube.com/watch?v=pgHU2XU73n4\n\n\"Temple of Runha\" by ELFL\nhttps://www.youtube.com/watch?v=6NwbcYgethw\n\n\"On The Sleeping Shores\" by Chaxti\nhttps://www.youtube.com/watch?v=krj2mxmC064\n\n\"Bitterness\" by Max Anson\nhttps://www.youtube.com/watch?v=UFDqJSg9IAo\n\n\"Lumz\" by Spin Master Mugen\nhttps://www.youtube.com/watch?v=FLhkNxOicgk\n\n\"Gaining Traction\" by Three Chain Links\nhttps://soundcloud.com/beardmont/gaining-traction\n\n\"Panthalassa\" by Nihilore\nhttps://www.youtube.com/watch?v=Sdr0gYVVd9w\n\n\"The Author Never Dies\" by Nihilore\nhttps://www.youtube.com/watch?v=Pm2QnPztgzY\n\n\"slept till 1pm then made this\" by Falling Forever\nhttps://ffm.bio/fallingforever\n\nThe Cipher Hunt: Gravity Falls' Insane Worldwide Treasure Hunt | blameitonjorge\nhttps://youtu.be/19beAwdWjbw\n\nblameitonjorge\nhttps://www.youtube.com/blameitonjorge",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/19beAwdWjbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/19beAwdWjbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/19beAwdWjbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/19beAwdWjbw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/19beAwdWjbw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "19beAwdWjbw"
+        },
+        "videoOwnerChannelTitle": "blameitonjorge",
+        "videoOwnerChannelId": "UCU3oAyhHDXjgbxazqOEG2UA"
+      },
+      "contentDetails": {
+        "videoId": "19beAwdWjbw",
+        "videoPublishedAt": "2020-02-29T00:10:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pu7nuI0bQj7nUEm6wAhW_ajiQDM",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-12-13T04:52:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "openDog V2 #8 Hand Gesture Recognition",
+        "description": "Get complete digital privacy for less than $3 a month AND 3 extra months for free!\r http://www.privateinternetaccess.com/JamesBruton\n\nI thought it would be nice if openDog could respond to hand gesture signals instead of driving with the remote control. I really wanted to try to train a deep learning model to do this also so I can see how well it can distinguish between hand gestures. I used an NVIDIA Jetson Nano and used transfer learning with the tools provided by NVIDIA to retrain an existing vision detection model. For now I'm using digital pins to convey the five signals from the python code to the Teensy which controls the robot, eventually I'll wrap the machine vision script in a ROS wrapper to control the robot.\n\nYou can support me on Patreon or buy my Merchandise:\n***************************\nPatreon: https://www.patreon.com/xrobots\nMerchandise: https://teespring.com/stores/james-bruton\n***************************\n\nAffiliate links - I will get some money of you use them to sign up or buy something:\n***************************\nMatterhackers 3D printing supplies: http://www.matterhackers.com?aff=7500\nMusic for your YouTube videos: http://share.epidemicsound.com/xrobots\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nFacebook: https://www.facebook.com/xrobotsuk/\nTwitter: https://twitter.com/xrobotsuk \n***************************\n\nCAD and Code for my projects: https://github.com/XRobots\n\nHuge thanks to my Patrons, without whom my standard of living would drastically decline. Like, inside out-Farm Foods bag decline. Plus a very special shoutout to Lulzbot, Inc who keep me in LulzBot 3D printers and support me via Patreon.\n\nHARDWARE/SOFTWARE\n\nBelow you can also find a lot of the typical tools, equipment and supplies used in my projects:\n\nFilament from: https://www.3dfuel.com/\nLulzbot 3D Printers: http://bit.ly/2Sj6nil\nLincoln Electric Welder: https://bit.ly/2Rqhqos\nCNC Router: https://bit.ly/2QdsNjt\nRyobi Tools: http://bit.ly/2RhArcD\nAxminster Micro Lathe: http://bit.ly/2Sj6eeN\n3D Printer Filament: http://bit.ly/2PdcdUu\nSoldering Iron: http://bit.ly/2DrNWDR\nVectric CNC Software: http://bit.ly/2zxpZqv\n\nWhy not join my community, who are mostly made up of actual geniuses. There\u2019s a Facebook group and everything: https://www.facebook.com/groups/287089964833488/\n\nXROBOTS\n\nFormer toy designer, current YouTube maker and general robotics, electrical and mechanical engineer, I\u2019m a fan of doing it yourself and innovation by trial and error. My channel is where I share some of my useful and not-so-useful inventions, designs and maker advice. Iron Man is my go-to cosplay, and 3D printing can solve most issues - broken bolts, missing parts, world hunger, you name it.\n\nXRobots is the community around my content where you can get in touch, share tips and advice, and more build FAQs, schematics and designs are also available.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HXEAfCGzw20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HXEAfCGzw20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HXEAfCGzw20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HXEAfCGzw20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HXEAfCGzw20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HXEAfCGzw20"
+        },
+        "videoOwnerChannelTitle": "James Bruton",
+        "videoOwnerChannelId": "UCUbDcUPed50Y_7KmfCXKohA"
+      },
+      "contentDetails": {
+        "videoId": "HXEAfCGzw20",
+        "videoPublishedAt": "2020-12-01T07:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T05tigUdWo7j0D-h_MgI8BXdVDI",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-08-21T07:00:16Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "HBO Intro 1983",
+        "description": "Brings back memories.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GjYDBLnHE1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GjYDBLnHE1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GjYDBLnHE1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GjYDBLnHE1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GjYDBLnHE1Y"
+        },
+        "videoOwnerChannelTitle": "bobolito",
+        "videoOwnerChannelId": "UCvyS5gppuLuPfjzU1dLLfdQ"
+      },
+      "contentDetails": {
+        "videoId": "GjYDBLnHE1Y",
+        "videoPublishedAt": "2015-10-31T20:26:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YHNxXLolKlAhkP5GG63HO8XL0Fs",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-08-21T07:00:28Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "HBO Intro - Behind the Scenes",
+        "description": "This was shown between features in 1983 on how they made the HBO Starship in Space logo sequence. Very cool.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/agS6ZXBrcng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/agS6ZXBrcng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/agS6ZXBrcng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "agS6ZXBrcng"
+        },
+        "videoOwnerChannelTitle": "archivefilms",
+        "videoOwnerChannelId": "UCplXTsYQLRHD5wuo55oAFfg"
+      },
+      "contentDetails": {
+        "videoId": "agS6ZXBrcng",
+        "videoPublishedAt": "2007-07-23T07:47:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LB-LYO6mmrnp0BvEmXPUk5PauBA",
+      "id": "UExJamhmbHVoTmQ5OTJZNXJaYlhwQTMzYzZMTDNnQkdxVS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-09-05T12:23:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Making a Camera Jib",
+        "description": "I have built a camera jib.  This is an arm that sits on the top of a tripod to hold a camera in such a way that it keeps itself parallel to whatever angle you've set the camera to as it moves up and down. It does this with a parallelogram. I have a main structural beam that holds the weight of the camera and a smaller piece that completes the parallelogram and holds the camera parallel. I use the old pine paneling as material that I got from friends of mine last spring. I also motorized the movement of the camera jib with a geared system.  It moves the jib up and down very slowly so I can film time lapses with it. The action that's being time-lapsed is very fast and the movement of the camera is very smooth and slow. This makes for a very cinematic contrast.\n\nTools used in this project can be found at \nhttp://www.frankmakes.com/\u200b\n\nCNC: http://www.cncrouterparts.com\u200b\n\nTo see upcoming projects follow me on social media\n\nPatreon\nhttps://www.patreon.com/user?u=16151185\u200b\n\nInstagram\nhttps://instagram.com/frank.howarth/\u200b\n\nTwitter\nhttps://twitter.com/FrankHowarth\u200b\n\nFacebook\nhttps://www.facebook.com/FrankMakes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YR9ljRrNU8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YR9ljRrNU8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YR9ljRrNU8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YR9ljRrNU8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YR9ljRrNU8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd992Y5rZbXpA33c6LL3gBGqU",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YR9ljRrNU8U"
+        },
+        "videoOwnerChannelTitle": "frank howarth",
+        "videoOwnerChannelId": "UC3_VCOJMaivgcGqPCTePLBA"
+      },
+      "contentDetails": {
+        "videoId": "YR9ljRrNU8U",
+        "videoPublishedAt": "2021-08-29T13:24:59Z"
+      }
+    }
+  ]
+}

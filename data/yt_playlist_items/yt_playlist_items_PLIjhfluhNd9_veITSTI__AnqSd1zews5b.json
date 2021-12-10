@@ -1,0 +1,2230 @@
+{
+  "_id": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+  "as_of": "2021-12-10 00:21:59.532343",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cjQLLOqghOhAJqoajG5cF2uDk-k",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "SR latch",
+        "description": "Digital logic gets really interesting when we connect the output of gates back to an input. The SR latch is one of the most basic memory circuits that we can build on to make counters, registers, and all sorts of other interesting things.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n1x 74LS32 (Quad two-input OR gate)\n1x 74LS02 (Quad two-input NOR gate)\n3x 330\u03a9 resistor\n3x Momentary \"Microtivity 6mm tact switch\"\n3x LEDs\nSolderless breadboard(s)\n22 gauge wire\nUSB charger and cable or some other 5v power source",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KM0DdEaY5sY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KM0DdEaY5sY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KM0DdEaY5sY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KM0DdEaY5sY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KM0DdEaY5sY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KM0DdEaY5sY"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "KM0DdEaY5sY",
+        "videoPublishedAt": "2016-02-17T19:13:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cxYJYPbvaJyPQh1O3pO3vmv6JY0",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "D latch",
+        "description": "Building on the SR latch from the previous video (https://youtu.be/KM0DdEaY5sY), the D latch  makes it easier to store a single bit of data.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n4x 74LS02 (Quad two-input NOR gate)\n2x 74LS08 (Quad two-input AND gate)\n8x 330\u03a9 resistor\n1x 1k\u03a9 resistor\n8x Momentary \"Microtivity 6mm tact switch\"\n9x LEDs\nSolderless breadboard(s)\n22 gauge wire\nUSB charger and cable or some other 5v power source",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/peCh_859q7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/peCh_859q7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/peCh_859q7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/peCh_859q7Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/peCh_859q7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "peCh_859q7Q"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "peCh_859q7Q",
+        "videoPublishedAt": "2016-02-24T20:44:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G9kZfxMhydOVl3wchSkcaGMIX0A",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "D flip-flop",
+        "description": "Building on the D latch from the previous video (https://youtu.be/peCh_859q7Q), the D flip-flop has a \"clock\" input instead of an \"enable\" input and stores data just on the rising edge of the clock.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n1x 74LS02 (Quad two-input NOR gate)\n1x 74LS08 (Quad two-input AND gate)\n2x 330\u03a9 resistor\n1x 1k\u03a9 resistor\n1x 0.1\u00b5F capacitor\n2x Momentary \"Microtivity 6mm tact switch\"\n4x LEDs\nSolderless breadboard(s)\n22 gauge wire\nUSB charger and cable or some other 5v power source",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YW-_GkUguMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YW-_GkUguMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YW-_GkUguMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YW-_GkUguMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YW-_GkUguMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YW-_GkUguMM"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "YW-_GkUguMM",
+        "videoPublishedAt": "2016-03-04T01:23:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c52KRSAygxkQSRD935rTTeZ0eBw",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "8-bit computer update",
+        "description": "An update on my plans to build another 8-bit computer from scratch and make videos of the whole process! Buy a kit and build your own! https://eater.net/8bit/kits\n\nSupport me on Patreon: https://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HyznrdDSSGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HyznrdDSSGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HyznrdDSSGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HyznrdDSSGM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HyznrdDSSGM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HyznrdDSSGM"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "HyznrdDSSGM",
+        "videoPublishedAt": "2016-03-09T19:25:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c0NYbhEiRRy2tC5AM6egiG9wp_M",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Astable 555 timer - 8-bit computer clock - part 1",
+        "description": "Our computer's clock is built using several 555 timers. The first is configured as an astable oscillator. See https://eater.net/bbcpu8-clock-module for more.\n\nPart 2: https://youtu.be/81BgFhm2vz8\nPart 3: https://youtu.be/WCwJNnx36Rk\nPart 4: https://youtu.be/SmQ5K7UQPMM\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n1x 555 timer IC\n1x 1M\u03a9 potentiometer\n2x 1k\u03a9 resistors\n1x 100k\u03a9 resistor\n1x 330\u03a9 resistor\n1x 2\u00b5F capacitor\n1x 0.1\u00b5F capacitor\n1x 0.01\u00b5F capacitor\n1x LED\nSolderless breadboard\n22 gauge wire\nUSB charger and cable or some other 5v power source",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRlSFm519Bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRlSFm519Bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRlSFm519Bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kRlSFm519Bo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kRlSFm519Bo"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "kRlSFm519Bo",
+        "videoPublishedAt": "2016-03-17T23:35:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SdqzcyhhHyyxkurGyJ1ocZrESmM",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Monostable 555 timer - 8-bit computer clock - part 2",
+        "description": "Our computer's clock is built using several 555 timers. The second is configured as a basic monostable circuit to debounce a pushbutton. See https://eater.net/bbcpu8-clock-module for more.\n\nPart 1: https://youtu.be/kRlSFm519Bo\nPart 3: https://youtu.be/WCwJNnx36Rk\nPart 4: https://youtu.be/SmQ5K7UQPMM\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n- Circuit from part 1\n- 1x 555 timer IC\n- 1x 1k\u03a9 resistor\n- 1x 1M\u03a9 resistor\n- 1x 330\u03a9 resistor\n- 1x 2\u00b5F capacitor\n- 1x 0.1\u00b5F capacitor\n- 1x 0.01\u00b5F capacitor\n- 1x Momentary \"Microtivity 6mm tact switch\"\n- 1x LED\n- 22 gauge wire",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/81BgFhm2vz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/81BgFhm2vz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/81BgFhm2vz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/81BgFhm2vz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/81BgFhm2vz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "81BgFhm2vz8"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "81BgFhm2vz8",
+        "videoPublishedAt": "2016-03-18T00:01:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KWeGiGPy7cnqDAgoYaIA1yXEkxM",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Bistable 555 - 8-bit computer clock - part 3",
+        "description": "Our computer's clock is built using several 555 timers. The second is configured as a bistable multivibrator to debounce the toggle switch for selecting between the clock oscillator and manual clock stepping. See https://eater.net/bbcpu8-clock-module for more.\n\nPart 1: https://youtu.be/kRlSFm519Bo\nPart 2: https://youtu.be/81BgFhm2vz8\nPart 4: https://youtu.be/SmQ5K7UQPMM\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n- Circuit from parts 1 and 2\n- 1x 555 timer IC\n- 2x 1k\u03a9 resistors\n- 1x 330\u03a9 resistor\n- 1x 0.01\u00b5F capacitor\n- 1x Double-pole toggle switch\n- 1x LED\n- 22 gauge wire",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WCwJNnx36Rk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WCwJNnx36Rk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WCwJNnx36Rk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WCwJNnx36Rk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WCwJNnx36Rk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WCwJNnx36Rk"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "WCwJNnx36Rk",
+        "videoPublishedAt": "2016-03-18T00:02:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ywZziHSqYScTD6p2_3lfRxWFWkA",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Clock logic - 8-bit computer clock - part 4",
+        "description": "Our computer's clock is built using several 555 timers. This video covers the logic that ties them together, resulting in the completed clock module. See https://eater.net/bbcpu8-clock-module for more.\n\nPart 1: https://youtu.be/kRlSFm519Bo\nPart 2: https://youtu.be/81BgFhm2vz8\nPart 3: https://youtu.be/WCwJNnx36Rk\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n- Circuit from parts 1, 2, and 3\n- 1x 74LS04 (Hex inverter)\n- 1x 74LS08 (Quad AND gate)\n- 1x 74LS32 (Quad OR gate)\n- 1x LED\n- 22 gauge wire",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SmQ5K7UQPMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SmQ5K7UQPMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SmQ5K7UQPMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SmQ5K7UQPMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SmQ5K7UQPMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SmQ5K7UQPMM"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "SmQ5K7UQPMM",
+        "videoPublishedAt": "2016-03-18T00:03:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pvjDNISEYBmTz4XvPmhRb1lT8cQ",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Bus architecture and how register transfers work - 8 bit register - Part 1",
+        "description": "Before we build the registers for our 8-bit computer, this video describes the basic operation of the bus and how data moves from one module to another across the bus. See https://eater.net/bbcpu8-registers for more.\n\nSupport me on Patreon: https://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QzWW-CBugZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QzWW-CBugZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QzWW-CBugZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QzWW-CBugZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QzWW-CBugZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QzWW-CBugZo"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "QzWW-CBugZo",
+        "videoPublishedAt": "2016-05-02T21:12:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "doQYm2DTbB1vqM05NDzMuKg0nWY",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Tri-state logic: Connecting multiple outputs together - 8 bit register - Part 2",
+        "description": "With tri-state logic, a logic gate can be effectively disconnected from the circuit rather than assuming the normal 0 and 1 logic levels.\n\nThis video goes into more detail on what it means to output a 0 or 1 and then describes how and why we'd want to output neither. This detail is essential to how a bus works.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nSee https://eater.net/bbcpu8-registers for more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/faAjse109Q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/faAjse109Q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/faAjse109Q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/faAjse109Q8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/faAjse109Q8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "faAjse109Q8"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "faAjse109Q8",
+        "videoPublishedAt": "2016-05-02T21:12:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sZ3bOYQvZsMythv0buyk8pq5VF0",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Designing and building a 1-bit register - 8 bit register - Part 3",
+        "description": "Before we build the 8-bit registers for our computer, let's design and build a 1-bit register.\n\nThe 8-bit registers we'll actually use in our 8-bit computer will be simplified. We're going to take a big shortcut\u2014using the 74LS173\u2014described at the end of this video. But before we get to that, this video shows how we could build a 1-bit register using more basic components.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars. See https://eater.net/bbcpu8-registers for more.\n\nComplete parts list (everything in this video):\n- Clock circuit from https://youtu.be/SmQ5K7UQPMM\n- 1x 74LS04 (Hex inverter)\n- 1x 74LS08 (Quad AND gate)\n- 1x 74LS32 (Quad OR gate)\n- 1x 74LS74 (Dual D flip-flop)\n- 1x LED\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-arYx_oVIj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-arYx_oVIj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-arYx_oVIj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-arYx_oVIj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-arYx_oVIj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-arYx_oVIj8"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "-arYx_oVIj8",
+        "videoPublishedAt": "2016-05-02T21:13:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MWuTZhm0yijPv6RunW6hx5HGAJM",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Building an 8-bit register - 8-bit register - Part 4",
+        "description": "In this video, we'll build the first of three 8-bit registers used in the 8-bit computer!\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars. See https://eater.net/bbcpu8-registers for more.\n\nComplete parts list (everything in this video):\n- 2x 74LS173 (4-bit D-type register)\n- 1x 74LS245 (Octal bus transceiver)\n- 8x LED\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)\n\n(The computer will have 3 registers like this; see the next video for details)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CiMaWbz_6E8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CiMaWbz_6E8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CiMaWbz_6E8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CiMaWbz_6E8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CiMaWbz_6E8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CiMaWbz_6E8"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "CiMaWbz_6E8",
+        "videoPublishedAt": "2016-05-02T21:13:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gqPRlgFaY35bumYC3mx59gCukyE",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Testing our computer's registers - 8-bit register - Part 5",
+        "description": "In this video, we test the register we built in the last video (https://youtu.be/CiMaWbz_6E8) and connect it to two more registers like it.\n\nAfter this video, we'll have three registers built and tested:\n- A register\n- B register\n- Instruction register\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars. See https://eater.net/bbcpu8-registers for more.\n\nComplete parts list (everything in this video):\n- Clock circuit from https://youtu.be/SmQ5K7UQPMM\n- 6x 74LS173 (4-bit D-type register)\n- 3x 74LS245 (Octal bus transceiver)\n- 32x LEDs\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9WE3Obdjtv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9WE3Obdjtv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WE3Obdjtv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9WE3Obdjtv0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9WE3Obdjtv0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9WE3Obdjtv0"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "9WE3Obdjtv0",
+        "videoPublishedAt": "2016-05-02T21:13:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ci9f5ukz66enwo7UH-nHgVFJo2o",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Twos complement: Negative numbers in binary",
+        "description": "How can we represent negative numbers in binary? There are several ways. This video compares using a sign bit, ones complement, and twos complement. Twos complement is the most commonly technique because it's relatively easy to implement in hardware and it makes addition and subtraction with negative numbers easy.\n\nSupport me on Patreon: https://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qH4unVtJkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qH4unVtJkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qH4unVtJkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4qH4unVtJkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4qH4unVtJkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4qH4unVtJkE"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "4qH4unVtJkE",
+        "videoPublishedAt": "2016-07-10T18:25:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Abd_bPq7pHtnZ3ZjuPiRDTkej_s",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "ALU Design",
+        "description": "In this video we go over the design for the Arithmetic and Logic Unit for our 8-bit computer.\n\nBefore watching it's helpful to understand:\n- How a binary adder works: https://www.youtube.com/watch?v=wvJc9CZcvBc\n- How negative numbers are represented in binary: https://www.youtube.com/watch?v=4qH4unVtJkE\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nSee https://eater.net/bbcpu8-alu for more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mOVOS9AjgFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mOVOS9AjgFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mOVOS9AjgFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mOVOS9AjgFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mOVOS9AjgFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mOVOS9AjgFs"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "mOVOS9AjgFs",
+        "videoPublishedAt": "2016-07-10T18:26:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3usZotsKS5e41-AVFGowouF93xQ",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Building the ALU",
+        "description": "In this video, we'll build the ALU for our 8-bit computer!\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nSee https://eater.net/bbcpu8-alu for more.\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n- 2x 74LS283 (4-bit binary full adder)\n- 2x 74LS86 (Quad XOR gate)\n- 1x 74LS245 (Octal bus transceiver)\n- 8x LED\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)\n- Clock module and registers from previous videos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S-3fXU3FZQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S-3fXU3FZQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S-3fXU3FZQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S-3fXU3FZQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S-3fXU3FZQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S-3fXU3FZQc"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "S-3fXU3FZQc",
+        "videoPublishedAt": "2016-07-10T18:26:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DjZQFlXO98UgkAo9tlTu4JfMBqs",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Troubleshooting the ALU",
+        "description": "When we built and powered up the ALU for our 8-bit computer in the last video (https://youtu.be/S-3fXU3FZQc), it didn\u2019t work properly. In this video we\u2019ll try to get to the bottom of what\u2019s going on.\n\nI got lucky that the problems were relatively easy to find. Sometimes troubleshooting can take a lot more time and be a lot more frustrating. But it\u2019s also often where you learn the most. Sometimes you\u2019ve just made a silly mistake (that you keep overlooking). Sometimes you get stuck because of some detail you don\u2019t know about *yet*. It\u2019s important to remember that unless you completely give up, you *will* eventually figure it out. There are a lot of resources out there to help you. Sometimes just taking a break and coming back to it a few days later with fresh eyes does wonders.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nSee https://eater.net/bbcpu8-alu for more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U7Q8-2YZTUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U7Q8-2YZTUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U7Q8-2YZTUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U7Q8-2YZTUU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U7Q8-2YZTUU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U7Q8-2YZTUU"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "U7Q8-2YZTUU",
+        "videoPublishedAt": "2016-07-17T23:05:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nMvtr9Wgb6VCKu0E06S45e-mtQQ",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Testing the computer's ALU",
+        "description": "In this video, we test the ALU we built (and fixed) in the last two videos (https://youtu.be/S-3fXU3FZQc and https://youtu.be/U7Q8-2YZTUU) and connect it to the bus. See https://eater.net/bbcpu8-alu for more.\n\nSupport me on Patreon: https://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4nCMDvnR2Fg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4nCMDvnR2Fg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4nCMDvnR2Fg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4nCMDvnR2Fg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4nCMDvnR2Fg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4nCMDvnR2Fg"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "4nCMDvnR2Fg",
+        "videoPublishedAt": "2016-07-24T23:32:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "inXzPQwhUtTWTkCtXpEAnwC06wM",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "8-bit computer RAM intro",
+        "description": "An introduction to the 16-byte by 8-bit static RAM that we're going to build for our 8-bit computer.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nPreviously we built a 1-bit register: https://youtu.be/-arYx_oVIj8\nNext we extended that to build an 8-bit register: https://youtu.be/CiMaWbz_6E8\nIn this video, we extend that further to describe how a 16-byte static RAM would work. Then we take a look at the 74LS189, which we'll use to build our computer's RAM.\n\nSee https://eater.net/bbcpu8-ram for more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FnxPIZR1ybs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FnxPIZR1ybs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FnxPIZR1ybs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FnxPIZR1ybs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FnxPIZR1ybs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FnxPIZR1ybs"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "FnxPIZR1ybs",
+        "videoPublishedAt": "2016-08-01T05:50:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fJbu2h8TevCExiG4SGolPkPHz4I",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "RAM module build - part 1",
+        "description": "Part 1 of building the RAM module for the 8-bit computer.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars. See https://eater.net/bbcpu8-ram for more.\n\nComplete parts list (everything in the RAM module):\n- 2x 74LS189 (64-bit random access memory)\n- 2x 74LS04 (Hex inverter)\n- 1x 74LS173 (4-bit D-type register)\n- 4x 74LS157 (Quad 2-to-1 line data selector)\n- 1x 74LS245 (Octal bus transceiver)\n- 1x 74LS00 (Quad NAND gate)\n- 14x LEDs (9 red, 4 yellow, 1 green)\n- 3x 1K\u03a9 resistors\n- 1x 0.01\u00b5F capacitor\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uYXwCBo40iA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uYXwCBo40iA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uYXwCBo40iA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uYXwCBo40iA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uYXwCBo40iA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uYXwCBo40iA"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "uYXwCBo40iA",
+        "videoPublishedAt": "2016-08-08T06:26:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4giiEhjTNSOfiPsw5RPpvKa1r2Y",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "RAM module build - part 2",
+        "description": "Part 2 of building the RAM module for the 8-bit computer. In this video, we add the memory address register (MAR) and DIP switches for setting the address when programming along with the logic to switch between using the register and using the switches.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor (Jameco, Digikey, Mouser, etc). See https://eater.net/bbcpu8-ram for more.\n\nComplete parts list (everything in the RAM module):\n- 2x 74LS189 (64-bit random access memory)\n- 2x 74LS04 (Hex inverter)\n- 1x 74LS173 (4-bit D-type register)\n- 4x 74LS157 (Quad 2-to-1 line data selector)\n- 1x 74LS245 (Octal bus transceiver)\n- 1x 74LS00 (Quad NAND gate)\n- 14x LEDs (9 red, 4 yellow, 1 green)\n- 3x 1K\u03a9 resistors\n- 1x 0.01\u00b5F capacitor\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KNve2LCcSRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KNve2LCcSRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KNve2LCcSRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KNve2LCcSRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KNve2LCcSRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KNve2LCcSRc"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "KNve2LCcSRc",
+        "videoPublishedAt": "2016-08-21T22:31:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IRwTW-QicaadFx6W3gKJvT9ZvrE",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "RAM module build - part 3",
+        "description": "Part 3 of building the RAM module for the 8-bit computer. In this video, we add the DIP switches and logic for manually inputting data  in program mode. In run mode, data can be written from the bus into RAM.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor (Jameco, Digikey, Mouser, etc). See https://eater.net/bbcpu8-ram for more.\n\nComplete parts list (everything in the RAM module):\n- 2x 74LS189 (64-bit random access memory)\n- 2x 74LS04 (Hex inverter)\n- 1x 74LS173 (4-bit D-type register)\n- 4x 74LS157 (Quad 2-to-1 line data selector)\n- 1x 74LS245 (Octal bus transceiver)\n- 1x 74LS00 (Quad NAND gate)\n- 14x LEDs (9 red, 4 yellow, 1 green)\n- 3x 1K\u03a9 resistors\n- 1x 0.01\u00b5F capacitor\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5rl1tEFXKt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5rl1tEFXKt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5rl1tEFXKt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5rl1tEFXKt0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5rl1tEFXKt0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5rl1tEFXKt0"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "5rl1tEFXKt0",
+        "videoPublishedAt": "2016-09-05T02:50:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ocsea_EJ5pC2E1hl51TxNg8kFCQ",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "RAM module testing and troubleshooting",
+        "description": "Testing and troubleshooting the RAM module. In this video we check out the RAM module, fix an issue, and make a small modification so RAM writes are triggered on the rising edge of the clock.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor (Jameco, Digikey, Mouser, etc). See https://eater.net/bbcpu8-ram for more.\n\nComplete parts list (everything in the RAM module):\n- 2x 74LS189 (64-bit random access memory)\n- 2x 74LS04 (Hex inverter)\n- 1x 74LS173 (4-bit D-type register)\n- 4x 74LS157 (Quad 2-to-1 line data selector)\n- 1x 74LS245 (Octal bus transceiver)\n- 1x 74LS00 (Quad NAND gate)\n- 14x LEDs (9 red, 4 yellow, 1 green)\n- 3x 1K\u03a9 resistors\n- 1x 0.01\u00b5F capacitor\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vw3uDOUJRGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vw3uDOUJRGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vw3uDOUJRGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vw3uDOUJRGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vw3uDOUJRGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vw3uDOUJRGw"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "Vw3uDOUJRGw",
+        "videoPublishedAt": "2016-09-10T17:47:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r80WdfPxMK99jVdF8QwafRVH_wA",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "JK flip-flop",
+        "description": "Check out my SR latch video first: https://youtu.be/KM0DdEaY5sY\n\nThe JK flip-flop builds on the SR flip-flop by adding a \"toggle\" function when both inputs are 1. The S (set) and R (reset) inputs are now referred to as J (set) and K (reset) to indicate the different operation.\n\nIn other words:\nJ=1, K=0 sets the flip-flop\nJ=0, K=1 resets the flip-flop\nJ=1, K=1 toggles the flip-flop\n\nThe toggling function is useful for building counter circuits which we'll do in future videos.\n\nSupport me on Patreon: https://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F1OC5e7Tn_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F1OC5e7Tn_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F1OC5e7Tn_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "F1OC5e7Tn_o"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "F1OC5e7Tn_o",
+        "videoPublishedAt": "2016-12-30T02:06:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wfF-PlY4hWJie4bwafj_v9x2fmQ",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "JK flip-flop racing",
+        "description": "In this video, we build the JK flip-flop described in my previous video (https://youtu.be/F1OC5e7Tn_o) and find out it doesn't work properly. I demonstrate \"racing\" (aka \"race around\" or \"race condition\") in a JK flip flop.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nIf you want to build this (broken) circuit, you can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n- 1x 74LS02 (Quad 2-input NOR gate)\n- 1x 74LS11 (Triple 3-input AND gate)\n- 2x LEDs\n- 2x Momentary \"Microtivity 6mm tact switch\"\n- 3x 1K\u03a9 resistors\n- 1x 100\u03a9 resistor\n- 1x 0.001\u00b5F capacitor\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)\n- Clock circuit from https://youtu.be/kRlSFm519Bo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/st3mUEub99E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/st3mUEub99E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/st3mUEub99E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/st3mUEub99E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/st3mUEub99E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "st3mUEub99E"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "st3mUEub99E",
+        "videoPublishedAt": "2017-01-16T06:19:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZFZtuhv7Uwldtd3Y6XrCoPvM5ZI",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Master-slave JK flip-flop",
+        "description": "An effective solution to the \"racing\" problem described in my previous video (https://youtu.be/st3mUEub99E) is the master-slave JK flip-flop which comprises two SR latches. In this video I explain how it works, build, and test it.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor (Jameco, Digikey, Mouser, etc).\n\nComplete parts list (everything in this video):\n- 1x 74LS02 (Quad 2-input NOR gate)\n- 1x 74LS11 (Triple 3-input AND gate)\n- 1x 74LS08 (Quad 2-input AND gate)\n- 1x 74LS04 (Hex inverter)\n- 4x LEDs\n- 2x Momentary \"Microtivity 6mm tact switch\"\n- 2x 1K\u03a9 resistors\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)\n- Clock circuit from https://youtu.be/kRlSFm519Bo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rXHSB5w7CyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rXHSB5w7CyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rXHSB5w7CyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rXHSB5w7CyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rXHSB5w7CyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rXHSB5w7CyE"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "rXHSB5w7CyE",
+        "videoPublishedAt": "2017-01-20T04:27:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XvJDjkTW5wio7OXccWxY_AIw57A",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Binary counter",
+        "description": "The JK flip-flop can be used to count in binary!\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor (Jameco, Digikey, Mouser, etc).\n\nComplete parts list (everything in this video):\n- 4x 74LS76 (Dual master-slave JK flip-flops)\n- 4x LEDs\n- 22 gauge wire\n- 5 volt power source (e.g., a USB phone charger)\n- Clock circuit from https://youtu.be/kRlSFm519Bo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/exGEmA67dNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/exGEmA67dNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/exGEmA67dNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/exGEmA67dNc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/exGEmA67dNc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "exGEmA67dNc"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "exGEmA67dNc",
+        "videoPublishedAt": "2017-01-23T02:12:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X8Ln2pT0b8aiTdviscyxeT1r8so",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Program counter design",
+        "description": "Designing the program counter module for the 8-bit computer.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nThis video describes how the program counter works and what functionality we need it to have. We'll build the program counter in the next video: https://youtu.be/tNwU7pK_3tk\n\nSee https://eater.net/bbcpu8-program-counter for more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_1HyxBzjl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_1HyxBzjl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_1HyxBzjl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g_1HyxBzjl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g_1HyxBzjl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g_1HyxBzjl0"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "g_1HyxBzjl0",
+        "videoPublishedAt": "2017-02-05T22:29:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t-D_iTNOW9JEFpYN51mLviNTfa4",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Program counter build",
+        "description": "Building the program counter module for the 8-bit computer.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars. See https://eater.net/bbcpu8-program-counter for more.\n\nComplete parts list (everything in the program counter module):\n- 1x 74LS161 (4-bit synchronous binary counter)\n- 1x 74LS245 (Octal bus transceiver)\n- 4x LEDs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tNwU7pK_3tk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tNwU7pK_3tk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tNwU7pK_3tk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tNwU7pK_3tk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tNwU7pK_3tk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tNwU7pK_3tk"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "tNwU7pK_3tk",
+        "videoPublishedAt": "2017-02-11T20:57:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9iL2AECGtfrHygrkMRmzX3X_TjQ",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Designing a 7-segment hex decoder",
+        "description": "Building a combinational logic circuit to decode 8 bits and display a 3-digit decimal number on 7-segment displays is complex. In this video, I build something much simpler\u2014a circuit that decodes 4 bits to a one-digit hexadecimal display\u2014and even that's pretty complicated. In future videos, we'll look at much easier ways of doing this, which we'll use for our computer's output register and then as a key element of the control logic.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou don't really want to build this do you? If you do, you'll need some breadboards, 5x 74LS32s, 9x 74LS08s, 1x 74LS04, 1x common anode 7-segment display, 1x 100\u03a9 resistor for the display, some DIP switches, LEDs, and 1k pullup resistors for the input, and hours of podcasts or something to keep you from losing your mind. :)\n\nIf you do build this, you'll _really_ appreciate the elegance of the next few videos.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7zffjsXqATg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7zffjsXqATg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7zffjsXqATg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7zffjsXqATg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7zffjsXqATg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7zffjsXqATg"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "7zffjsXqATg",
+        "videoPublishedAt": "2017-02-18T20:27:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "89PM9i3ueun9rrHD3azr0p_BOT4",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Using an EEPROM to replace combinational logic",
+        "description": "In this video, we'll wire up an EEPROM (28C16) so we can read its contents. We'll also take a look at the data sheet to learn how to program it, and try programming some values. Finally, we'll see how the EEPROM can be used to replace any combinational logic circuit such as the 7-segment decoder from the previous video (https://youtu.be/7zffjsXqATg)\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n- 1x 28C16 EEPROM\n- 8x LEDs\n- 8x 330\u03a9 resistors\n- 1x 8-position DIP switch\n- 1x 4-position DIP switch\n- 12x 10k\u03a9 resistors\n- 1x 100nF capacitor\n- 1x 680\u03a9 resistor\n- 1x momentary tact switch\n- 1x Common Anode 7-segment display\n- 1x 100\u03a9 resistor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BA12Z7gQ4P0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BA12Z7gQ4P0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BA12Z7gQ4P0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BA12Z7gQ4P0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BA12Z7gQ4P0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BA12Z7gQ4P0"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "BA12Z7gQ4P0",
+        "videoPublishedAt": "2017-02-26T15:58:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xeGdIucUj2KDpclQY3BjdJLLLXM",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Build an Arduino EEPROM programmer",
+        "description": "In this video, we'll use an Arduino Nano to make programming EEPROMs (e.g., 28C16) much easier. For more info on these EEPROMs, check out the previous video: https://youtu.be/BA12Z7gQ4P0\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nAll the code is available here: https://github.com/beneater/eeprom-programmer\n\nParts list for the programmer:\n- 1x Arduino Nano (or most any other kind)\n- 2x 74HC595\n- 1x 28C16 EEPROM (should also work for 28C64 or 28C256)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K88pgWhEb1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K88pgWhEb1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K88pgWhEb1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K88pgWhEb1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K88pgWhEb1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K88pgWhEb1M"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "K88pgWhEb1M",
+        "videoPublishedAt": "2017-03-06T03:33:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4TZV-0CoXNGJ7AzMEbT3mkdODRY",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Build an 8-bit decimal display for our 8-bit computer",
+        "description": "In this video, we'll use an EEPROM (28C16) to create a decimal display for an 8-bit value. The display uses multiplexing to drive four digits using a single EEPROM. As a bonus it supports both unsigned and signed (twos complement) display modes.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nThe code used in this video for programming the EEPROM is available here: https://github.com/beneater/eeprom-programmer/blob/master/multiplexed-display/multiplexed-display.ino\n\nSee https://eater.net/bbcpu8-output-register for more info.\nParts list for the finished decimal display:\n- 1x 28C16 EEPROM\n- 1x 555 timer IC\n- 1x 74LS76 (Dual JK flip-flop)\n- 1x 74LS139 (Dual 2-line to 4-line decoder)\n- 4x Common cathode 7-segment displays\n- 1x 1k resistor\n- 1x 100k resistor\n- 2x 10nF capacitors",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dLh1n2dErzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dLh1n2dErzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dLh1n2dErzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dLh1n2dErzE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dLh1n2dErzE"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "dLh1n2dErzE",
+        "videoPublishedAt": "2017-03-18T16:27:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a-4Rer3JXe9ZaShGGqXMSIS67hk",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "8-bit computer build: Connecting the bus",
+        "description": "In this video, we'll first build a simple 8-bit register to store the contents of the computer's output. Then we put everything we've built so far together. Everything is tied together through the common bus and common clock signal.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nSee https://eater.net/bbcpu8-output-register and https://eater.net/bbcpu8-bus for more.\n\nAdditional parts for the output register:\n- 1x 74LS273 (Octal D flip-flop with clear)\n- 1x 74LS08 (Quad 2-input AND gate)\nYou could also use two 74LS137s like \n\nAdditional parts for the bus\n- 8x 10k\u03a9 resistors\n- 8x LEDs\n- Lots of breadboards, wire, and patience :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-6JAgFWCL9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-6JAgFWCL9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-6JAgFWCL9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-6JAgFWCL9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-6JAgFWCL9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-6JAgFWCL9w"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "-6JAgFWCL9w",
+        "videoPublishedAt": "2017-04-02T23:54:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dI0edILd0B0zOPtg8biyZFofaRU",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "8-bit CPU control signal overview",
+        "description": "This video goes over the control signals used in our 8-bit breadboard computer.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nSee https://eater.net/bbcpu8-bus for more.\nAdditional components used in this video:\n- 15x LEDs to indicate which control signals are active\n- 15x 470\u03a9 resistors for the control signal LEDs\n- 15x 470\u03a9 resistors for the bus LEDs\n- 2x 74LS04 Hex inverter (optional, but makes the control word simpler to interpret)\n- Red gel (e.g., https://www.amazon.com/dp/B004GE19E2)\n\nhttps://www.eater.net\nhttps://twitter.com/ben_eater\nhttps://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AwUirxi9eBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AwUirxi9eBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AwUirxi9eBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AwUirxi9eBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AwUirxi9eBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AwUirxi9eBg"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "AwUirxi9eBg",
+        "videoPublishedAt": "2017-04-16T05:33:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kc-AFmZhQtOi0fXeXlQtRTHR-HI",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "8-bit CPU control logic: Part 1",
+        "description": "In this video, we walk through writing a program\u2014using a machine language we get to make up! Then we walk through exactly what the control logic will need to do in order to execute the program. See https://eater.net/bbcpu8-control-logic for more.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n\nhttps://www.eater.net\nhttps://twitter.com/ben_eater\nhttps://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dXdoim96v5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dXdoim96v5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dXdoim96v5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dXdoim96v5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dXdoim96v5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dXdoim96v5A"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "dXdoim96v5A",
+        "videoPublishedAt": "2017-04-16T20:26:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fwn3EW3m1BoX538E1QfEtXTPGR0",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "8-bit CPU control logic: Part 2",
+        "description": "In this video, we talk about the difference between instructions and microinstructions. Then we build a ring counter to keep track of where we are in the instruction cycle. Finally, we hook up a quick-and-dirty implementation of the fetch cycle to demonstrate instruction fetching. See https://eater.net/bbcpu8-control-logic for more.\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nhttps://www.eater.net\nhttps://twitter.com/ben_eater\nhttps://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X7rCxs1ppyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X7rCxs1ppyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X7rCxs1ppyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X7rCxs1ppyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X7rCxs1ppyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X7rCxs1ppyY"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "X7rCxs1ppyY",
+        "videoPublishedAt": "2017-05-01T04:44:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Es3lxje7NP2_58jKLnzPy_lDV18",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "8-bit CPU control logic: Part 3",
+        "description": "See https://eater.net/bbcpu8-control-logic for more.\nIn this video we use two EEPROMs to translate the instruction cycle ring counter and the contents of the instruction register to the correct control signals for each microinstruction. At the end of the video, we run the first full program!\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nhttps://www.eater.net\nhttps://twitter.com/ben_eater\nhttps://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dHWFpkGsxOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dHWFpkGsxOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dHWFpkGsxOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dHWFpkGsxOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dHWFpkGsxOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dHWFpkGsxOs"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "dHWFpkGsxOs",
+        "videoPublishedAt": "2017-05-22T03:51:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GSPP_aGARFup2ugSf2DnUwDErjg",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "8-bit CPU reset circuit and power supply tips",
+        "description": "More 8-bit computer: https://eater.net/8bit\nCheck out Julian's channel: https://www.youtube.com/user/julius256\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nhttps://www.eater.net\nhttps://twitter.com/ben_eater\nhttps://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HtFro0UKqkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HtFro0UKqkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HtFro0UKqkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HtFro0UKqkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HtFro0UKqkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HtFro0UKqkk"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "HtFro0UKqkk",
+        "videoPublishedAt": "2017-05-29T16:46:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H-fZxgXseJZeIucOb2OdDljArz4",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Reprogramming CPU microcode with an Arduino",
+        "description": "The code from this video is on GitHub: http://bit.ly/2sK7Qlb\nMore 8-bit computer: https://eater.net/8bit\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nhttps://www.eater.net\nhttps://twitter.com/ben_eater\nhttps://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUVt_KYAp-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUVt_KYAp-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUVt_KYAp-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JUVt_KYAp-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JUVt_KYAp-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JUVt_KYAp-I"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "JUVt_KYAp-I",
+        "videoPublishedAt": "2017-06-23T17:59:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wKV5P2viknOHz8svu94Mp7cN_34",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Adding more machine language instructions to the CPU",
+        "description": "In this video, we'll add several new machine language instructions to our CPU: STA (store A), LDI (load immediate), and JMP (jump). Then we'll write a program that uses those instructions and walk through the execution.\n\nMore 8-bit computer: https://eater.net/8bit\nThe code from this video is on GitHub: http://bit.ly/2sK7Qlb\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nhttps://www.eater.net\nhttps://twitter.com/ben_eater\nhttps://www.patreon.com/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FCscQGBIL-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FCscQGBIL-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FCscQGBIL-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FCscQGBIL-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FCscQGBIL-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FCscQGBIL-Y"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "FCscQGBIL-Y",
+        "videoPublishedAt": "2017-07-07T18:21:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m15u0ab8_xqMmvuoUbYq3Em3Rig",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Making a computer Turing complete",
+        "description": "The 8-bit breadboard computer is certainly limited. But is it capable enough to even be a computer? In this video we explore how Turing Machines and the Lambda Calculus defined the whole class of \"computable problems.\" And we talk about the relatively minor change needed to make the 8-bit breadboard computer Turing complete.\n\n\nMore 8-bit computer: https://eater.net/8bit\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\n------------------\n\nSocial media:\nWebsite: https://www.eater.net\nTwitter: https://twitter.com/ben_eater\nPatreon: https://patreon.com/beneater\nReddit: https://www.reddit.com/r/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AqNDk_UJW4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AqNDk_UJW4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AqNDk_UJW4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AqNDk_UJW4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AqNDk_UJW4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AqNDk_UJW4k"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "AqNDk_UJW4k",
+        "videoPublishedAt": "2018-01-05T15:34:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0f_xDPSvj-FzWGMR7oFX2P77eps",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "CPU flags register",
+        "description": "Share your requests for future video topics here: https://www.reddit.com/r/beneater/comments/88m9jy/ben_eater_video_suggestions/\nIntel x86 developers guide (4800 pages!): https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf#page=80\n\nMore 8-bit computer: https://eater.net/8bit\nSupport me on Patreon: https://www.patreon.com/beneater\n\n------------------\n\nSocial media:\nWebsite: https://www.eater.net\nTwitter: https://twitter.com/ben_eater\nPatreon: https://patreon.com/beneater\nReddit: https://www.reddit.com/r/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ObnosznZvHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ObnosznZvHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ObnosznZvHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ObnosznZvHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ObnosznZvHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ObnosznZvHY"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "ObnosznZvHY",
+        "videoPublishedAt": "2018-03-31T23:08:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YbTvOXA7fnDo0g6VbTpuZi5Vz4E",
+      "id": "UExJamhmbHVoTmQ5X3ZlSVRTVElfX0FucVNkMXpld3M1Yi5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-11-01T16:58:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Conditional jump instructions",
+        "description": "In this video we program the microcode of the 8-bit breadboard computer so that it supports two conditional jump instructions: JC (jump carry) and JZ (jump zero). We also test out these new instructions and write several programs using them.\n\nCode from this video: https://github.com/beneater/eeprom-programmer\nMatthew's Patreon post with clever self-modifying code: https://www.patreon.com/posts/how-to-make-16240529\nIntel x86 developers guide (4800 pages! CMP instruction is on p.726): https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf#page=726\n\nMore 8-bit computer: https://eater.net/8bit\nSupport me on Patreon: https://www.patreon.com/beneater\n\n------------------\n\nSocial media:\nWebsite: https://www.eater.net\nTwitter: https://twitter.com/ben_eater\nPatreon: https://patreon.com/beneater\nReddit: https://www.reddit.com/r/beneater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zg1NdPKoosU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zg1NdPKoosU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zg1NdPKoosU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zg1NdPKoosU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zg1NdPKoosU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_veITSTI__AnqSd1zews5b",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zg1NdPKoosU"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "Zg1NdPKoosU",
+        "videoPublishedAt": "2018-04-21T16:42:00Z"
+      }
+    }
+  ]
+}

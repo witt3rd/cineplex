@@ -1,0 +1,761 @@
+{
+  "_id": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+  "as_of": "2021-12-10 00:22:06.470354",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6IMnakgEw8Q7KwcOAC75rMjiwAc",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "CppCon 2014: Mike Acton \"Data-Oriented Design and C++\"",
+        "description": "http://www.cppcon.org\n--\nPresentation Slides, PDFs, Source Code and other presenter materials are available at: https://github.com/CppCon/CppCon2014\n--\nThe transformation of data is the only purpose of any program. Common approaches in C++ which are antithetical to this goal will be presented in the context of a performance-critical domain (console game development). Additionally, limitations inherent in any C++ compiler and how that affects the practical use of the language when transforming that data will be demonstrated.\n--\nMike Acton: Engine Director, Insomniac Games\n--\nVideos Filmed & Edited by Bash Films: http://www.BashFilms.com \n\n*-----*\nThe CppCon YouTube Channel Is Sponsored By:\nJetBrains : http://jb.gg/cpptools \nSonarSource:  https://www.sonarsource.com/\n*-----*",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rX0ItVEVjHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rX0ItVEVjHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rX0ItVEVjHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rX0ItVEVjHc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rX0ItVEVjHc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rX0ItVEVjHc"
+        },
+        "videoOwnerChannelTitle": "CppCon",
+        "videoOwnerChannelId": "UCMlGfpWw-RUdWX_JbLCukXg"
+      },
+      "contentDetails": {
+        "videoId": "rX0ItVEVjHc",
+        "videoPublishedAt": "2014-09-30T03:57:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X9QB3dpiBjwBqpWoNhvWvVKFEK8",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "2017_07_06 Mike Acton - Just Practice Something for 30 Mins",
+        "description": "The preacher we need\n\nIGC 2017\nFull talk https://youtu.be/4B00hV3wmMY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v9TRIwLssW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v9TRIwLssW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v9TRIwLssW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v9TRIwLssW4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v9TRIwLssW4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v9TRIwLssW4"
+        },
+        "videoOwnerChannelTitle": "minRef",
+        "videoOwnerChannelId": "UClS8RoBDLTc7xnIo6sd66KA"
+      },
+      "contentDetails": {
+        "videoId": "v9TRIwLssW4",
+        "videoPublishedAt": "2020-10-24T18:02:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qmt2anzKFi7NwfvEatq01tQGsek",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Leadership in Game Development - Mike Acton",
+        "description": "In this episode, we talk with Mike Acton, VP of DOTS at Unity and previous Engine Director at Insomniac Games, about leadership in game development.\n\nWizardology podcast website, includes links to listen to the podcast on Apple Podcasts, Google Podcasts, Spotify, Castbox and Stitcher:\nhttps://wizardology-podcast.com\n\nFollow Wizardology on Twitter:\nhttps://twitter.com/WizardologyCast\n\nMike Acton LinkedIn:\nhttps://www.linkedin.com/in/mikeacton/\n\nMike Acton presentations and articles on leadership\nYou\u2019re Responsible\nhttps://www.youtube.com/watch?v=xNjfruknpaQ\nTechnical Direction: Communication, ROI and Triage\nhttps://www.youtube.com/watch?v=WQlf9UIzF14\nShould your Engineering Lead be fired?\nhttps://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3\nHow much time should I spend coding versus managing?\nhttps://itsyourturnblog.com/how-much-time-should-i-spend-coding-versus-managing-4f8e5c4551c6\nIntroductory bullshit detection for non-technical managers\nhttps://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee\nIt doesn\u2019t have to suck!\nhttps://www.gamasutra.com/blogs/BrendaBrathwaite/20110117/88791/Mike_Actons_quotIt_Doesnt_Have_To_Suck_gamedevquot.php\n\nChapters\n0:00 Introduction\n1:44 What was your first leadership role?\n7:02 Coaching in game development.\n10:18 Unique challenges for leaders in the game industry.\n14:50 You have talked a lot about leadership, why did you feel this is important?\n18:43 Team chemistry in game development.\n24:45 Can a leader enhance the quality of team communication?\n32:25 Can leadership be learned?\n39:52 What has changed for gamedev leaders in remote work?\n46:21 What do you lose in a remote one on one meeting?\n50:13 What are your advice for young leaders in the industry?\n53:08 How much of a technical leader's time should be spent coding?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rW1KMO2O6ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rW1KMO2O6ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rW1KMO2O6ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rW1KMO2O6ak"
+        },
+        "videoOwnerChannelTitle": "Wizardology",
+        "videoOwnerChannelId": "UC55lIfyuUDO_9CYhIEC1lQQ"
+      },
+      "contentDetails": {
+        "videoId": "rW1KMO2O6ak",
+        "videoPublishedAt": "2021-06-01T04:08:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jwFJSYRzFePR4qMkBOdAciuIiVM",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Math for Game Programmers: Solving Nintendo's CodinGame Challenge",
+        "description": "In this 2017 GDC talk, programmer Mike Acton explains how he solved a very difficult puzzle for CodinGame sponsored by Nintendo, and how other programmers can benefit form his process. \n\nRegister for GDC: https://ubm.io/2yWXW38\n\nJoin the GDC mailing list: http://www.gdconf.com/subscribe\n\nFollow GDC on Twitter: https://twitter.com/Official_GDC \n\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every day.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_BUnm-bnik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_BUnm-bnik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_BUnm-bnik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x_BUnm-bnik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x_BUnm-bnik/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x_BUnm-bnik"
+        },
+        "videoOwnerChannelTitle": "GDC",
+        "videoOwnerChannelId": "UC0JB7TSe49lg56u6qH8y_MQ"
+      },
+      "contentDetails": {
+        "videoId": "x_BUnm-bnik",
+        "videoPublishedAt": "2019-10-08T16:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nVTch3mAbjjMOcd9Gw-wYoO-2iQ",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Technical Direction: Communication, ROI and Triage",
+        "description": "In this 2017 GDC talk, programmer Mike Acton shares his specific processes to ensure that (1) everyone has the best information available to make the best decisions to do their job well; (2) what we do is worth doing; and (3) the most important things get done when programming video games. \n\nRegister for GDC: https://ubm.io/2yWXW38\n\nJoin the GDC mailing list: http://www.gdconf.com/subscribe\n\nFollow GDC on Twitter: https://twitter.com/Official_GDC \n\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every day.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQlf9UIzF14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQlf9UIzF14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQlf9UIzF14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WQlf9UIzF14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WQlf9UIzF14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WQlf9UIzF14"
+        },
+        "videoOwnerChannelTitle": "GDC",
+        "videoOwnerChannelId": "UC0JB7TSe49lg56u6qH8y_MQ"
+      },
+      "contentDetails": {
+        "videoId": "WQlf9UIzF14",
+        "videoPublishedAt": "2019-10-02T16:09:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pMhnmlJjtQgFHE4CO2wiS1Ci2EY",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Solving the Right Problems for Engine Programmers - Mike Acton\u200c  (TGC 2017)",
+        "description": "Mike Acton (then from Insomniac Games) talks about what engine programmers should do and how they should do them - to become better.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4B00hV3wmMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4B00hV3wmMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4B00hV3wmMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4B00hV3wmMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4B00hV3wmMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4B00hV3wmMY"
+        },
+        "videoOwnerChannelTitle": "Yaser Zhian",
+        "videoOwnerChannelId": "UCw1NhBzoRNvb7gnLWxNqoIQ"
+      },
+      "contentDetails": {
+        "videoId": "4B00hV3wmMY",
+        "videoPublishedAt": "2020-09-12T20:06:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fwbKJYC5WZIk69WiQc5-lavMAsg",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "HandmadeCon 2015 - Mike Acton",
+        "description": "For more information, or to purchase tickets to a future HandmadeCon, see http://handmadecon.org.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qWJpI2adCcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qWJpI2adCcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qWJpI2adCcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qWJpI2adCcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qWJpI2adCcs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qWJpI2adCcs"
+        },
+        "videoOwnerChannelTitle": "Molly Rocket",
+        "videoOwnerChannelId": "UCaTznQhurW5AaiYPbhEA-KA"
+      },
+      "contentDetails": {
+        "videoId": "qWJpI2adCcs",
+        "videoPublishedAt": "2016-05-16T17:48:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9BFaTI8RXeCpL6q0i2-ibH4RElY",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Everyone Watching This Is Fired: Tips for Game Industry Programmers",
+        "description": "In this 2019 GDC talk, Unity's Mike Acton presents some broad, sweeping, and perhaps unfair generalizations about programmers in the video industry, and discusses what it would mean to be among the very best programmers in the field. \n\nRegister for GDC: https://ubm.io/2yWXW38\n\nJoin the GDC mailing list: http://www.gdconf.com/subscribe\n\nFollow GDC on Twitter: https://twitter.com/Official_GDC \n\nGDC talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more. We post a fresh GDC video every day.  Subscribe to the channel to stay on top of regular updates, and check out GDC Vault  for thousands of more in-depth talks from our archives.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cV5HArLYajE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cV5HArLYajE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cV5HArLYajE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cV5HArLYajE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cV5HArLYajE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cV5HArLYajE"
+        },
+        "videoOwnerChannelTitle": "GDC",
+        "videoOwnerChannelId": "UC0JB7TSe49lg56u6qH8y_MQ"
+      },
+      "contentDetails": {
+        "videoId": "cV5HArLYajE",
+        "videoPublishedAt": "2019-07-22T16:16:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aEGeYVgZ7abCXOiriXO-M5I-qro",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Building a Data-Oriented Future -  Mike Acton",
+        "description": "Dive into what data-oriented engineering means, how it radically impacts software engineering efforts and will drive us toward a future where our users get more value from their computers.\n\nVisit the largest developer playground in Europe!\nhttps://www.wearedevelopers.com/\n\nFacebook: https://www.facebook.com/wearedevelopers\nTwitter: https://twitter.com/WeAreDevs\nInstagram: https://www.instagram.com/_wearedevelopers/\n\n#WeAreDevs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u8B3j8rqYMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u8B3j8rqYMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u8B3j8rqYMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u8B3j8rqYMw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u8B3j8rqYMw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u8B3j8rqYMw"
+        },
+        "videoOwnerChannelTitle": "WeAreDevelopers",
+        "videoOwnerChannelId": "UCSD0dLRGQk_T-D3RvpM5aFQ"
+      },
+      "contentDetails": {
+        "videoId": "u8B3j8rqYMw",
+        "videoPublishedAt": "2019-07-11T09:23:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ISZnOVW0cPyD5GZHMuvLWdPSvUc",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Data-Oriented Demo: SOA, composition",
+        "description": "In this demo we start to do some 'object-system-ish' stuff, but with a data-oriented mindset. The goal is: how do we recreate some of the high-level expressiveness you get in a language like C++, but in a way that helps make your program fast?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZHqFrNyLlpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZHqFrNyLlpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHqFrNyLlpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZHqFrNyLlpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZHqFrNyLlpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZHqFrNyLlpA"
+        },
+        "videoOwnerChannelTitle": "Jonathan Blow",
+        "videoOwnerChannelId": "UCCuoqzrsHlwv1YyPKLuMDUQ"
+      },
+      "contentDetails": {
+        "videoId": "ZHqFrNyLlpA",
+        "videoPublishedAt": "2015-01-21T08:20:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A1OdVRzsGSVGNhn6liPGdR-vY4I",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Rant: Entity systems and the Rust borrow checker ... or something.",
+        "description": "Commentary on the closing keynote from RustConf 2018, which you can view here:\nhttps://www.youtube.com/watch?v=aKLntZcp27M",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4t1K66dMhWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4t1K66dMhWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4t1K66dMhWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4t1K66dMhWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4t1K66dMhWk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4t1K66dMhWk"
+        },
+        "videoOwnerChannelTitle": "Jonathan Blow",
+        "videoOwnerChannelId": "UCCuoqzrsHlwv1YyPKLuMDUQ"
+      },
+      "contentDetails": {
+        "videoId": "4t1K66dMhWk",
+        "videoPublishedAt": "2018-09-14T07:37:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ACNROC1vYr-hMDuBpvqQIEY7TwM",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Understanding data-oriented design for entity component systems - Unity at GDC 2019",
+        "description": "Unity's new ECS features enable huge performance improvements over traditional object-oriented ways of designing game systems, but data-oriented design is a much different way of thinking. Watch to learn how to think in a data-oriented way so you can take advantage of these new features.\n\nSpeaker: Elizabeth Baumel (DOTS Software Engineer, Unity Technologies)\n\nLearn more about Data-oriented Technology Stack (DOTS): https://on.unity.com/2P0ERF1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0_Byw9UMn9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0_Byw9UMn9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0_Byw9UMn9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0_Byw9UMn9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0_Byw9UMn9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0_Byw9UMn9g"
+        },
+        "videoOwnerChannelTitle": "Unity",
+        "videoOwnerChannelId": "UCG08EqOAXJk_YXPDsAvReSg"
+      },
+      "contentDetails": {
+        "videoId": "0_Byw9UMn9g",
+        "videoPublishedAt": "2019-04-09T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RmGBDhB7q8Zc39r6DEsmWQN4qUk",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "OOP Is Dead, Long Live Data-Oriented Design",
+        "description": "For decades C++ developers have built software around OOP concepts that ultimately failed us - we didn\u2019t see the promises of code reuse, maintenance or simplicity fulfilled, and performance suffers significantly. Data-oriented design can be a better paradigm in fields where C++ is most important - game development, high-performance computing, and real-time systems. \n\nThe talk will briefly introduce data-oriented design and focus on practical real-world examples of applying DoD where previously OOP constructs were widely employed. \n\nExamples will be shown from modern web browsers. They are overwhelmingly written in C++ with OOP - that\u2019s why most of them are slow memory hogs. In the talk I\u2019ll draw parallels between the design of systems in Chrome and their counterparts in the HTML renderer Hummingbird. \n\nAs we\u2019ll see, Hummingbird is multiple times faster because it ditches OOP for good in all performance-critical areas. We will see how real-world C++ OOP systems can be re-designed in a C++ data-oriented way for better performance, scalability, maintainability and testability.\n\nEVENT:\n\nCppCon 2018\n\nSPEAKER:\n\nStoyan Nikolov\n\nPERMISSIONS:\n\nCppCon Organizer provided Coding Tech with the permission to republish this video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g1TsP60z2OQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g1TsP60z2OQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g1TsP60z2OQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g1TsP60z2OQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g1TsP60z2OQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g1TsP60z2OQ"
+        },
+        "videoOwnerChannelTitle": "Coding Tech",
+        "videoOwnerChannelId": "UCtxCXg-UvSnTKPOzLH4wJaQ"
+      },
+      "contentDetails": {
+        "videoId": "g1TsP60z2OQ",
+        "videoPublishedAt": "2018-10-30T18:37:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-dlbcgRwa0ZMb30T0HFNKxCEwxY",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-08-24T11:49:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "CppCon 2014: Chandler Carruth \"Efficiency with Algorithms, Performance with Data Structures\"",
+        "description": "http://www.cppcon.org\n\u2014\nPresentation Slides, PDFs, Source Code and other presenter materials are available at: https://github.com/CppCon/CppCon2014\n--\nWhy do you write C++ code? There is a good chance it is in part because of concerns about the performance of your software. Whether they stem from needing to run on every smaller mobile devices, squeezing the last few effects into video game, or because every watt of power in your data center costs too much, C++ programmers throughout the industry have an insatiable desire for writing high performance code.\n\nUnfortunately, even with C++, this can be really challenging. Over the past twenty years processors, memory, software libraries, and even compilers have radically changed what makes C++ code fast. Even measuring the performance of your code can be a daunting task. This talk will dig into how modern processors work, what makes them fast, and how to exploit them effectively with modern C++ code. It will teach you how modern C++ optimizers see your code today, and how that is likely to change in the coming years. It will teach you how to reason better about the performance of your code, and how to write your code so that it performs better. You will even learn some tricks about how to measure the performance of your code.\n--\nChandler Carruth leads the Clang team at Google, building better diagnostics, tools, and more. Previously, he worked on several pieces of Google\u2019s distributed build system. He makes guest appearances helping to maintain a few core C++ libraries across Google\u2019s codebase, and is active in the LLVM and Clang open source communities. He received his M.S. and B.S. in Computer Science from Wake Forest University, but disavows all knowledge of the contents of his Master\u2019s thesis. He is regularly found drinking Cherry Coke Zero in the daytime and pontificating over a single malt scotch in the evening.\n--\nVideos Filmed & Edited by Bash Films: http://www.BashFilms.com \n\n*-----*\nThe CppCon YouTube Channel Is Sponsored By:\nJetBrains : http://jb.gg/cpptools \nSonarSource:  https://www.sonarsource.com/\n*-----*",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fHNmRkzxHWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fHNmRkzxHWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fHNmRkzxHWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fHNmRkzxHWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fHNmRkzxHWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fHNmRkzxHWs"
+        },
+        "videoOwnerChannelTitle": "CppCon",
+        "videoOwnerChannelId": "UCMlGfpWw-RUdWX_JbLCukXg"
+      },
+      "contentDetails": {
+        "videoId": "fHNmRkzxHWs",
+        "videoPublishedAt": "2014-10-21T19:34:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GHfLZlHjMt_-YxllbnT5HJjQ4fo",
+      "id": "UExJamhmbHVoTmQ5OEwtcFZoOTltazNJeVZEZUhOM2x3RS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-09-29T09:14:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Data-Oriented Design for Object-Oriented Programmers - Shachar Langbeheim [ C++ on Sea 2020 ]",
+        "description": "There\u2019s intuitive code, and then there\u2019s fast code. Most programmers today are taught Object Oriented Programming. OOP code is defined as interactions between objects, which is the way that human intuition tends to model the world. However, the resulting code isn't structured in a way that considers the actual instructions that a computer will run, and that\u2019s why OOP might suffer performance loss. The more efficient paradigm, Data Oriented Design, pushes the programmers to write code that maximizes speed by removing abstract models and writing code according to how a computer will actually run it. However, DOD code is sometimes viewed as harder to read and less intuitive to people accustomed to OOP.\n\nBoth paradigms have their place in a programmer\u2019s toolset, but the difficulty of the paradigm shift from OOP to DOD means that not enough programmers add the DOD perspective to their programming toolset. In this talk we\u2019ll demonstrate that transitioning code from OOP to DOD is not necessarily complex, by showing an example of real world OOP-to-DOD code conversion. We\u2019ll take OOP code, and chip away at it, thus showing the design process that allows us to create data-oriented code.\n\n-------\n\nA generalist coder, I enjoy being the jack of all languages, rather than an expert in one. I like learning new platforms and languages, and sharing what I learn in various forms, from internal tech-talks to conventions.\n\nI'm one of the founders of the MakeGamesJLM video game making community, and work at Lightricks Ltd as a video-rendering engine coder.\n\n-------\n\nC++ on Sea is an annual c++ and coding conference, usually held in Folkestone, Kent in the UK. The 2020 conference was moved to a virtual event due to social distancing requirements.\n\nProduced and Edited by Digital Medium Ltd: https://events.digital-medium.co.uk\nEnquiries: events@digital-medium.co.uk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d2eihVaJLNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d2eihVaJLNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d2eihVaJLNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d2eihVaJLNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d2eihVaJLNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98L-pVh99mk3IyVDeHN3lwE",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d2eihVaJLNE"
+        },
+        "videoOwnerChannelTitle": "cpponsea",
+        "videoOwnerChannelId": "UCAczr0j6ZuiVaiGFZ4qxApw"
+      },
+      "contentDetails": {
+        "videoId": "d2eihVaJLNE",
+        "videoPublishedAt": "2020-07-27T19:00:26Z"
+      }
+    }
+  ]
+}

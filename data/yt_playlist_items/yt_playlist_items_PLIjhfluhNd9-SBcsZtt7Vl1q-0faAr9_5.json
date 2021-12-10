@@ -1,0 +1,1725 @@
+{
+  "_id": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+  "as_of": "2021-12-10 00:22:01.530673",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZsqWThuWcX0-nOL1T19h7J94Jxk",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-08-07T21:30:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Chris Haugen - Et Voila",
+        "description": "Chris Haugen Et Voila\nHappy Jazz & Blues Music\n\nArtist: Chris Haugen\nTitle: Et Voila\nFree Download: https://bit.ly/2SjVwaG\nYou're free to use this song in any of your videos\n\nPhoto: https://bit.ly/2DKCiTH\nLicense Photo: https://bit.ly/2RgpgWe\n\nNo Copyright Music\nSubscribe: https://goo.gl/WPTt5y\nGoogle+: https://bit.ly/2FWbZw7\nBlog: https://bit.ly/2DJiG24\n\nNo Copyright Music promote music that's free to download and use on YouTube videos.\nYou can use any song from this channel on Youtube without\nworrying about content ID matches or copyright claims.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ptXKAr-I0ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ptXKAr-I0ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ptXKAr-I0ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ptXKAr-I0ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ptXKAr-I0ro"
+        },
+        "videoOwnerChannelTitle": "No Copyright Music",
+        "videoOwnerChannelId": "UCy-unM_4IUeSvmyaLrFPyWg"
+      },
+      "contentDetails": {
+        "videoId": "ptXKAr-I0ro",
+        "videoPublishedAt": "2018-02-22T10:30:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-mQMN1D0sgyYwkWNUtq4tPE2ags",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-08-01T12:57:33Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Scott Buckley - 'Parasite' [Dark, Glitchy Rocktronica CC-BY]",
+        "description": "A brooding, melancholy guitar track featuring glitchy electronic drums and synths. I made this many years ago, and I'm finally putting it on the 'Tube :).\n\nWant to show your support for my Creative Commons music library? Consider becoming my patron on Patreon: http://bit.ly/2eFfLhn\n\nAs usual, 'Parasite' is released under CC-BY. Download it from my library over here: http://bit.ly/2m1XUzP.\n\nFollow me on...\nTwitter - http://www.twitter.com/musoscientific\nFacebook - http://www.facebook.com/musicbyscottbuckley\nInstagram - http://www.instagram.com/musicbyscottb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OeE89HAzBuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OeE89HAzBuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OeE89HAzBuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OeE89HAzBuA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OeE89HAzBuA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OeE89HAzBuA"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "OeE89HAzBuA",
+        "videoPublishedAt": "2017-02-20T00:39:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I1UdZ_w9w6_Lw3-F-MoeymdLBLM",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-08-01T12:57:11Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Scott Buckley - 'Contagion' [Epic Rocktronica CC-BY 4.0]",
+        "description": "Follow me on...\nTwitter - http://www.twitter.com/musoscientific\nFacebook - http://www.facebook.com/musicbyscottbuckley\nInstagram - http://www.instagram.com/musicbyscottb\n\n'Contagion' by Scott Buckley (released under CC BY 4.0). \n\nDownload this track, and more creative commons music at www.scottbuckley.com.au/library - a library of music for indie filmmakers, media artists and game designers - free for both non-commercial and commercial use. \n\nDigital art - 'Art of Murder' by O-Nobody-O (http://O-Nobody-O.deviantart.com/art/...)\n\nIf you liked it, 'like' it!  Share it with your friends! I write music so you all have access to decent, freely available music for your projects - so please enjoy! :)\n\n-s",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-AZTF8f0JV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-AZTF8f0JV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-AZTF8f0JV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-AZTF8f0JV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-AZTF8f0JV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-AZTF8f0JV4"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "-AZTF8f0JV4",
+        "videoPublishedAt": "2012-07-23T23:15:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "slUQ7VL-HoeVISKWpTw-OwMX2b0",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-08-01T12:42:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to use my music correctly // Using CC-BY music from the music library",
+        "description": "I love you all for using and sharing my music all around the internet, and the world! However, I get a lot of questions about how to use my music correctly, and how to avoid copyright problems. Here's a quick video covering the basics of the Creative Commons Attribution license, how you can credit me with some examples, and what you should avoid doing with my music to help stop copyright claims from happening.\n\n00:00 -- Intro\n00:52 -- Info about CC-BY \n01:55 -- Examples of Crediting\n03:25 -- What NOT to do\n06:17 -- What to do if you get a copyright claim\n\n\ud83d\udcd6 Read more about how to use my music here: https://www.scottbuckley.com.au/library/using-this-music/\n\nTL;DR - you can use my music freely (even in commercial projects) as long as you credit me. However, I can't allow any use that submits my music to a copyright management service (like YT Content ID), which means that music distributors like DistroKid and Tunecore are out-of-bounds (unless you get in touch first). \n\n\u27a1\ufe0f Here's a more detailed video about Creative Commons licenses if you'd like to know more: https://youtu.be/nHg9uiw3DQg\n\n\u27a1\ufe0f If you get a copyright claim - get in touch with me here: https://www.scottbuckley.com.au/about/contact/\n\n\u27a1\ufe0f If you can't credit me in your project, you can view other licenses here: https://www.scottbuckley.com.au/library/licensing/\n\n\ud83c\udfb5 Music used in this video (all by Scott Buckley \ud83d\ude09):\nSolace - https://www.scottbuckley.com.au/library/solace/\nHorizons -  https://www.scottbuckley.com.au/library/horizons/\nMachina - https://www.scottbuckley.com.au/library/machina/\nFelicity - https://www.scottbuckley.com.au/library/felicity/\n\n\ud83d\udc40 Search my Creative Commons Music Library here: https://www.scottbuckley.com.au/library/\n\n------------------------------------------------------------------------------------------\n\ud83d\udcb0 Ways to support my music library: \n\u25b6 Become a Patreon: https://www.patreon.com/musicbyscottbuckley -- get early access to new music, hi-res waves and more!\n\u25b6 Subscribe on Twitch: https://www.twitch.tv/musoscientific -- get early access to new music via Discord!\n\u25b6 Make a donation via PayPal: https://bit.ly/2TPDMa9\n\u25b6 Make a donation via Ko-Fi: https://ko-fi.com/scottbuckley\n\n\ud83c\udfa5 Come join me over on Twitch! I write music live at 7pm CEST on Tuesdays, Thursdays and Saturdays! -- https://www.twitch.tv/musoscientific\u200b\n\n\u2757 Join the official Discord server! Hang out and relax with a fun, supportive community of music producers, filmmakers and game designers: http://discord.gg/X9mHFZG\u200b\n\n\ud83d\udce7 Join the mailing list! Get notified when I release new library music: http://bit.ly/2vI6bPt\u200b \n\n------------------------------------------------------------------------------------------\n\nFollow me on...\n\u25cf Twitter - http://bit.ly/2zV7KNo\n\u25cf Facebook - http://bit.ly/2V3uVfR\n\u25cf Twitch - http://bit.ly/2Dp30lI\n\u25cf Instagram - http://bit.ly/2hDPMom\n\u25cf Soundcloud - http://bit.ly/2iAj8Vy\n\n----------------------------------------------------------------------------------------\n#copyright #creativecommons #contentid #copyrightclaims #freemusic #musicforyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OHshuTzgUYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OHshuTzgUYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OHshuTzgUYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OHshuTzgUYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OHshuTzgUYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OHshuTzgUYw"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "OHshuTzgUYw",
+        "videoPublishedAt": "2021-07-28T11:49:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MDOQ5I2-etip20BtWLU51EsLxXo",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-23T09:50:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "'Library Songs 6' [Full Album - Royalty-Free Music CC-BY] - Scott Buckley",
+        "description": "\ud83c\udfb5\ud83c\udfb6 'Library Songs 6 ' -- (Full Album of Royalty-free Music)\ud83c\udfb6\ud83c\udfb5\n\nMy sixth compilation album of cinematic Creative Commons music. This album features a mix of epic, emotional orchestral music. \n\n01. Discovery\n02. Inflection\n03. Inbound\n04. Soar\n05. Omega\n06. Emergent\n07. Helios\n08. Catalyst\n09. The Illusionist\n10. Absolution\n\n\ud83d\udd3d Download all the tracks from the album for free from my library here: https://bit.ly/3jtcw9j\n\n\ud83c\udfb5 You can also listen here: \n\u25b6 Spotify: https://spoti.fi/2BCde2Y\n\u25b6 Apple Music: https://apple.co/2D9YHM4\n\u25b6 Bandcamp: https://bit.ly/39BjnZF\n\u25b6 Amazon Music: https://amzn.to/3f5yuLY\n\u25b6 Tidal: https://bit.ly/2XeviYD\n\u25b6 Google Play: https://bit.ly/2CSDWom\n\nThese tracks are released under Creative Commons Attribution, meaning you can use the track in your projects (including commercial projects) as long as you credit me. More info here: http://bit.ly/2mF9RPX\n\n\ud83d\udcf7 Video by Amanda Buckley\n\n------------------------------------------------------------------------------------------\n\ud83d\udce7 Join the mailing list! Get notified when I release new library music (2 - 3 emails per month): http://bit.ly/2vI6bPt \n\n\ud83d\udc50 Want to show your support for my Creative Commons music library? Become a patron on Patreon: http://bit.ly/2eFfLhn\n\n\ud83c\udfa5 Watch me produce library tracks 3 days a week over on Twitch: http://bit.ly/2CGgrvJ\n\nYou can also support the library via:\n\u25b6 Ko-Fi: https://bit.ly/2Luvj4n\n\u25b6 PayPal: https://bit.ly/2T5Im00\n------------------------------------------------------------------------------------------\n\nFollow me on...\n\u25cf Twitter - http://bit.ly/2zV7KNo\n\u25cf Facebook - http://bit.ly/2V3uVfR\n\u25cf Twitch - http://bit.ly/2Dp30lI\n\u25cf Instagram - http://bit.ly/2hDPMom\n\u25cf Soundcloud - http://bit.ly/2iAj8Vy\n\n------------------------------------------------------------------------------------------\n\n#epicmusic #royaltyfreemusic #soundtrack #ost #creativecommons  #underscore #backgroundmusic #freemusic #peacefulmusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oWIeEsCpHIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oWIeEsCpHIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oWIeEsCpHIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oWIeEsCpHIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oWIeEsCpHIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oWIeEsCpHIA"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "oWIeEsCpHIA",
+        "videoPublishedAt": "2020-07-26T19:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q9GAake8loFMzSPpSBD-I7nAE_k",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-21T22:44:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "'Omega' [Emotional Hybrid Orchestra CC-BY] - Scott Buckley",
+        "description": "\ud83c\udfb5\ud83c\udfb6 'Omega' (Royalty-free music)\ud83c\udfb6\ud83c\udfb5\nAn emotional, bittersweet orchestral hybrid track, starting with solo cello and a synth ostinato, and slowly driving towards a full orchestral backend.\n\n\ud83d\udd3dDownload 'Omega' for free from my library here: http://bit.ly/2lCJGde\n\n\ud83c\udfb5 You can also listen here: \n\u25b6 Spotify: https://spoti.fi/2m1vTx3\n\u25b6 Apple Music: https://apple.co/2lZBYtM\n\u25b6 Amazon Music: https://amzn.to/2k5nBUc\n\u25b6 Tidal: http://bit.ly/2ly9QxA\n\u25b6 Google Play: http://bit.ly/2ksH1lZ\n\u25b6 Soundcloud: http://bit.ly/2lCK5MM\n\nThis track is released under Creative Commons Attribution, meaning you can use the track in your projects (including commercial projects) as long as you credit me. More info here: http://bit.ly/2mF9RPX\n\n------------------------------------------------------------------------------------------\n\ud83d\udce7 Join the mailing list! - https://mailchi.mp/ff8ddbf0e1ca/sbmailinglist\n------------------------------------------------------------------------------------------\n\n\u25b6 Want to show your support for my Creative Commons music library? Become a patron on Patreon: http://bit.ly/2eFfLhn\n\n\u25b6 This track was supported by generous $5+/month Patreons:  Achim Lammers, Adhi Hargo, Brandon Michael, Claire Nicholls, Dean Thomson, Fallen, Harith Alshuwaykh, Ismael Sola Unzu, Jasiek Vetulani, JulienD, Justin Hawley, Kennith Nichol, Michael Tucker, Postandfly, Tim Robinson, Tough Soles, Vaggelis Papantoniu\u2026\n\n\u2026 and this months new crew of patreons: Andr\u00e8s Cuellar Wills, Catherine Lecourtois, Jose-Pedro Mora-Encinas, Leslie Gideon and Sachin RP. Welcome! \n\n\u25b6Also thanks to my Twitch subscribers (http://bit.ly/2CGgrvJ): kennithnichol, ramboproduction, timherber, syropian, jvetulani, cortexreader, gunfalfvn, effane, badgey, spaceyblurr, gobishi and thesilencenoise. Thanks for watching!\n------------------------------------------------------------------------------------------\n\nFollow me on...\n\u25cf Twitter - http://bit.ly/2zV7KNo\n\u25cf Facebook - http://bit.ly/2hDPMom\n\u25cf Twitch - http://bit.ly/2Dp30lI\n\u25cf Instagram - http://bit.ly/2hDPMom\n\u25cf Soundcloud - http://bit.ly/2iAj8Vy\n\n------------------------------------------------------------------------------------------\n\n#emotionalmusic #epicmusic #royaltyfreemusic #soundtrack #ost #creativecommons  #underscore #backgroundmusic #freemusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nvz0avKwSsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nvz0avKwSsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nvz0avKwSsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nvz0avKwSsM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nvz0avKwSsM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nvz0avKwSsM"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "nvz0avKwSsM",
+        "videoPublishedAt": "2019-09-05T05:30:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z2N4FJFeCTQ4BEhbjcSyYpNpGaI",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-21T22:44:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "'Borealis' [Cinematic Ambient CC-BY] - Scott Buckley",
+        "description": "\ud83c\udfb5\ud83c\udfb6 'Borealis ' (Royalty-free music)\ud83c\udfb6\ud83c\udfb5\nA contemplative, slow-moving ambient track, with slight uplifting tone. Inspired by the quiet stillness of the boreal forests around our new home here in Sweden.\n\n\ud83d\udd3dDownload 'Borealis' for free from my library here: http://bit.ly/35iXVG9\n\n\ud83c\udfb5 You can also listen here: \n\u25b6 Spotify: https://spoti.fi/31XrE5F\n\u25b6 Apple Music: https://apple.co/35feHWS\n\u25b6 Amazon Music: https://amzn.to/33bXeMY\n\u25b6 Tidal: http://bit.ly/2OzBTJs\n\u25b6 Google Play: http://bit.ly/2OwKzAj\n\u25b6 Soundcloud: http://bit.ly/30WVsOf\n\nThis track is released under Creative Commons Attribution, meaning you can use the track in your projects (including commercial projects) as long as you credit me. More info here: http://bit.ly/2mF9RPX\n\n------------------------------------------------------------------------------------------\n\ud83d\udce7 Join the mailing list! - https://mailchi.mp/ff8ddbf0e1ca/sbmailinglist\n------------------------------------------------------------------------------------------\n\n\u25b6 Want to show your support for my Creative Commons music library? Become a patron on Patreon: http://bit.ly/2eFfLhn\n\n\u25b6 This track was supported by generous $5+/month Patreons:  Achim Lammers, Adhi Hargo, Andr\u00e8s Cuellar Wills, Brandon Michael, Catherine Lecourtois, Dean Thomson, Fallen, Harith Alshuwaykh, Ismael Sola Unzu, Jasiek Vetulani, Jose-Pedro Mora-Encinas, JulienD, Justin Hawley, Kennith Nichol, Leslie Gideon, Marina Dragun, Michael Tucker, Postandfly, Tim Robinson, Tough Soles, Vaggelis Papantoniu\u2026 \n\n\u2026 and this month\u2019s new patreon: Tommy Zamberlan. Welcome! and a bunch of others. Thanks!\n\n\u25b6Also thanks to my Twitch subscribers (http://bit.ly/2CGgrvJ): syropian, gobishi, tjcasper, thelaspan, badgey, hexd0t, gundalfvn, jventulani, effane, kennithnichol, dementum89 and statzbooster.\n\n------------------------------------------------------------------------------------------\n\nFollow me on...\n\u25cf Twitter - http://bit.ly/2zV7KNo\n\u25cf Facebook - http://bit.ly/2hDPMom\n\u25cf Twitch - http://bit.ly/2Dp30lI\n\u25cf Instagram - http://bit.ly/2hDPMom\n\u25cf Soundcloud - http://bit.ly/2iAj8Vy\n\n------------------------------------------------------------------------------------------\n\n#ambientmusic #royaltyfreemusic #creativecommons #soundtrack #ost #creativecommons  #underscore #backgroundmusic #freemusic #peacefulmusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nw3UHvNU0QE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nw3UHvNU0QE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nw3UHvNU0QE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nw3UHvNU0QE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nw3UHvNU0QE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nw3UHvNU0QE"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "nw3UHvNU0QE",
+        "videoPublishedAt": "2019-10-09T10:29:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_5oxygWx3uf6AuVKGKh9fMSP8GY",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-21T20:38:55Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "'Soar' [Inspirational Orchestral CC-BY] - Scott Buckley",
+        "description": "\ud83c\udfb5\ud83c\udfb6 'Soar' (Royalty-free music)\ud83c\udfb6\ud83c\udfb5\nAn inspirational, uplifting orchestral theme that sounds straight from a 90s family adventure. This would also work for a Christmas holiday special!\n\n\ud83d\udd3dDownload 'Soar' for free from my library here: http://bit.ly/2Gfpmpg\n\n\ud83c\udfb5 You can also listen here: \n\u25b6 Spotify: https://spoti.fi/2GiYcxJ\n\u25b6 Apple Music: https://apple.co/3aAmWiN\n\u25b6 Amazon Music: https://amzn.to/2GjGABQ\n\u25b6 Tidal: http://bit.ly/3aDVO2m \n\u25b6 Google Play: http://bit.ly/38yPkA8\n\u25b6 Soundcloud: http://bit.ly/3aExFJa\n\nThis track is released under Creative Commons Attribution, meaning you can use the track in your projects (including commercial projects) as long as you credit me. More info here: http://bit.ly/2mF9RPX\n\n------------------------------------------------------------------------------------------\n\ud83d\udce7 Join the mailing list! - https://mailchi.mp/ff8ddbf0e1ca/sbmailinglist\n------------------------------------------------------------------------------------------\n\n\u25b6 Want to help support my Creative Commons music library? Become a patron on Patreon: http://bit.ly/2eFfLhn\n\n\u25b6 This track was supported by generous $5+/month Patreons: Achim Lammers, Adhi Hargo, Dean Thomson, Fallen, Greville Oh, Harith Alshuwaykh, Ismael Sola Unzu, Jasiek Vetulani, Jon le Bon, Jose-Pedro Mora-Encinas, JulienD, Justin Hawley, Keith Walker, Kennith Nichol, Leslie Gideon, Marina Dragun, Michael Tucker, Orkenspalter TV, Postandfly, Tim Robinson, Tommy Zamberlan, Tough Soles, Vaggelis Papantoniu, The Popcast...\n\n... and this month's new patreon: Jonathan West. Welcome!\n\n\u25b6Also thanks to my Twitch subscribers (http://bit.ly/2CGgrvJ): daemetrius, jvetulani, kennithnichol, mandythephilomath, hexd0t, classiccocacola, horseradish_power, badgey, effane, and syropian. Thanks for watching!\n------------------------------------------------------------------------------------------\n\nFollow me on...\n\u25cf Twitter - http://bit.ly/2zV7KNo\n\u25cf Facebook - http://bit.ly/2V3uVfR\n\u25cf Twitch - http://bit.ly/2Dp30lI\n\u25cf Instagram - http://bit.ly/2hDPMom\n\u25cf Soundcloud - http://bit.ly/2iAj8Vy\n\n------------------------------------------------------------------------------------------\n\n#epicmusic #royaltyfreemusic #soundtrack #ost #creativecommons  #underscore #backgroundmusic #freemusic #inspirationalmusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XSoVmuGYvKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XSoVmuGYvKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XSoVmuGYvKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XSoVmuGYvKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XSoVmuGYvKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XSoVmuGYvKA"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "XSoVmuGYvKA",
+        "videoPublishedAt": "2020-01-24T07:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MIWh3xFkMtGa2crRw7Ys_bPwyZA",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-21T20:37:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "'Discovery' [Epic Cinematic CC-BY] - Scott Buckley",
+        "description": "\ud83c\udfb5\ud83c\udfb6 'Discovery' (Royalty-free music)\ud83c\udfb6\ud83c\udfb5\nA driving, optimistic hybrid orchestral track featuring arpeggiated synth and dramatic brass & strings, with a momentary section of solo cello - a symphonic poem to those who boldly go.\n\n\ud83d\udd3dDownload 'Discovery' for free from my library here: http://bit.ly/2GDbs0h\n\n\ud83c\udfb5 You can also listen here: \n\u25b6 Spotify: https://spoti.fi/2RGJSpi\n\u25b6 Apple Music: https://apple.co/38M6xpU\n\u25b6 Amazon Music: https://amzn.to/36K6KZk\n\u25b6 Tidal: http://bit.ly/2tXjqie\n\u25b6 Google Play: http://bit.ly/2Ub6mQN\n\u25b6 Soundcloud: http://bit.ly/2GGTJFm\n\nThis track is released under Creative Commons Attribution, meaning you can use the track in your projects (including commercial projects) as long as you credit me. More info here: http://bit.ly/2mF9RPX\n\n------------------------------------------------------------------------------------------\n\ud83d\udce7 Join the mailing list! - https://mailchi.mp/ff8ddbf0e1ca/sbmailinglist\n------------------------------------------------------------------------------------------\n\n\u25b6 Want to show your support for my Creative Commons music library? Become a patron on Patreon: http://bit.ly/2eFfLhn\n\n\u25b6 This track was supported by generous $5+/month Patreons:  Achim Lammers, Adhi Hargo, Chiffmonkey, Dean Thomson, Fallen, Greville Oh, Harith Alshuwaykh, Ismael Sola Unzu, Jasiek Vetulani, Jon le Bon, Jose-Pedro Mora-Encinas, JulienD, Justin Hawley, Keith Walker, Kennith Nichol, Leslie Gideon, Marina Dragun, Michael Tucker, Orkenspalter TV, Postandfly, Tim Robinson, Tommy Zamberlan, Tough Soles, Vaggelis Papantoniu, The Popcast...\n\n... and this month's new patreons: Jonathan West and Simon Page. Welcome!\n\n\u25b6Also a big thanks to my Twitch subscribers (http://bit.ly/2CGgrvJ): daemetrius, jvetulani, kennithnichol, mandythephilomath, hexd0t, fishingforsound, horseradish_power, badgey, effane, and syropian. Thanks for watching!\n------------------------------------------------------------------------------------------\n\nFollow me on...\n\u25cf Twitter - http://bit.ly/2zV7KNo\n\u25cf Facebook - http://bit.ly/2V3uVfR\n\u25cf Twitch - http://bit.ly/2Dp30lI\n\u25cf Instagram - http://bit.ly/2hDPMom\n\u25cf Soundcloud - http://bit.ly/2iAj8Vy\n\n------------------------------------------------------------------------------------------\n\n#epicmusic #royaltyfreemusic #soundtrack #ost #creativecommons  #cinematicmusic #backgroundmusic #freemusic #peacefulmusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V1S1IfoX8Yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V1S1IfoX8Yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V1S1IfoX8Yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V1S1IfoX8Yg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V1S1IfoX8Yg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V1S1IfoX8Yg"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "V1S1IfoX8Yg",
+        "videoPublishedAt": "2020-01-31T07:35:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w2NyAEfAoC7UVFkxwTSvMURTkUc",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-21T15:15:52Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "'Horizons' [Cinematic Modern Classical CC-BY] - Scott Buckley",
+        "description": "\ud83c\udfb5\ud83c\udfb6 'Horizons ' (Royalty-free music)\ud83c\udfb6\ud83c\udfb5\nA textural, melancholy piece for piano and strings, with a driving arpeggiated synth that propels it forward. Slightly optimistic, with moments that build, and others that fade away.\n\n\ud83d\udd3dDownload 'Horizons' for free from my library here: http://bit.ly/2Py14f3\n\n\ud83c\udfb5 You can also listen here: \n\u25b6 Spotify: https://spoti.fi/2weAAIC\n\u25b6 Apple Music: https://apple.co/386KXLV\n\u25b6 Amazon Music: https://amzn.to/2T4jdDr\n\u25b6 Tidal: http://bit.ly/2TkIGaE\n\u25b6 Google Play: http://bit.ly/39c8YTe\n\u25b6 Soundcloud: http://bit.ly/2I0BsU0\n \nThis track is released under Creative Commons Attribution, meaning you can use the track in your projects (including commercial projects) as long as you credit me. More info here: http://bit.ly/2mF9RPX\n\n------------------------------------------------------------------------------------------\n\n\u25b6 Want to show your support for my Creative Commons music library? Become a patron on Patreon: http://bit.ly/2eFfLhn\n\n\u25b6 This track was supported by generous $5+/month Patreons: Achim Lammers, Adhi Hargo, captainsubtle, Chiffmonkey, Dean Thomson, Fallen, Greville Oh, Harith Alshuwaykh, Ismael Sola Unzu, Jasiek Vetulani, Jon le Bon, Jonathan West, Jose-Pedro Mora-Encinas, Josef Plata, JulienD, Justin Hawley, Keith Walker, Kennith Nichol, Leslie Gideon, Marina Dragun, Michael Tucker, Orkenspalter TV, Postandfly, The Popcast, Tommy Zamberlan, Tough Soles, Vaggelis Papantoniu\u2026\n\n\u2026 and this month\u2019s new patreons: Matthew Moran and Natasha Moskaljov. Welcome!\n\n\u25b6Also thanks to my Twitch subscribers (http://bit.ly/2CGgrvJ):  jvetulani, kennithnichol, mandythephilomath, fishingforsound, horseradish_power, effane, hexd0t, tjcasper, le_paul_ and syropian. Thanks for watching!\n------------------------------------------------------------------------------------------\n\nFollow me on...\n\u25cf Twitter - http://bit.ly/2zV7KNo\n\u25cf Facebook - http://bit.ly/2V3uVfR\n\u25cf Twitch - http://bit.ly/2Dp30lI\n\u25cf Instagram - http://bit.ly/2hDPMom\n\u25cf Soundcloud - http://bit.ly/2iAj8Vy\n\n------------------------------------------------------------------------------------------\n\n#cinematicmusic #royaltyfreemusic #soundtrack #ost #creativecommons  #underscore #backgroundmusic #freemusic #peacefulmusic #inspirationalmusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dkyBVvZXJaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dkyBVvZXJaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dkyBVvZXJaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dkyBVvZXJaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dkyBVvZXJaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dkyBVvZXJaM"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "dkyBVvZXJaM",
+        "videoPublishedAt": "2020-02-28T09:42:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WdVaquuvYIL4M-O2lquggS84XGU",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-21T15:00:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "'Electric Dreams' [Synthwave CC-BY] - Scott Buckley",
+        "description": "\ud83c\udfb5\ud83c\udfb6 'Electric Dreams' (Royalty-free music)\ud83c\udfb6\ud83c\udfb5\nSmooth, cruisy synthwave. Featuring warm, reverberant synth pads, synth arpeggios, and rad synth leads, with an electric piano break-down at 2:47. Live your best 80's life, folks \ud83d\ude0e.\n\n\ud83d\udcf7 Album art by Amanda Buckley, from an original image by Mitchell Luo (via Pexels) - IG: https://instagram.com/mitchel3uo\n\n\ud83d\udd3dDownload 'Electric Dreams' for free from my library here: https://bit.ly/32DZBLh\n\n\ud83c\udfb5 You can also listen here: \n\u25b6 Spotify: https://spoti.fi/3cekz6v\n\u25b6 Apple Music: https://apple.co/3mwL4ce\n\u25b6 Amazon Music: https://amzn.to/3mFvs6r\n\u25b6 Tidal: https://bit.ly/2EcA9D7\n\u25b6 Google Play: https://bit.ly/3knVtow\n\u25b6 Soundcloud: https://bit.ly/2FLit1R\n\nThis track is released under Creative Commons Attribution, meaning you can use the track in your projects (including commercial projects) as long as you credit me. More info here: http://bit.ly/2mF9RPX\n\n------------------------------------------------------------------------------------------\n\u2757 NEW! -- Join the official Discord server! Hang out and relax with a cool little community of music producers, filmmakers and game designers: https://discord.gg/X9mHFZG\n\n\ud83d\udce7 Join the mailing list! Get notified when I release new library music (2 - 3 emails per month): http://bit.ly/2vI6bPt \n\n\u25b6 Want to show your support for my Creative Commons music library? Become a patron on Patreon: http://bit.ly/2eFfLhn\n\n\u25b6 This track was supported by generous $5+/month Patreons: \n\nAchim Lammers, Adhi Hargo,\u00a0Akos Kovacs, Alexander McHardy, Amany Badawy, Amman Abid, Amy Won, Andrew Venus, Caleb Levesque, Carrie Husband, Chiffmonkey, C S Williams, Cubicle Dexter,\u00a0Dave Starr, Dean Thompson, Fallen, Fernando Blazquez Aguado, Gilles, Greville Oh, Harith Alshuwaykh, Ismael Sola Unzu, Jaroslav Bengl, Jasiek Vetulani, Jesus Abancens Tejero, John le Bon, Jonathan West,\u00a0Julia Poturay, JulienD, Justin Hawley, Kaj Suominen, Keith Walker, Kennith Nichol, Kyle Lapthorne, Leslie Gideon,\u00a0Lou Marich,\u00a0Marina Dragun, Mark Diaz, Mark Templeton, Matt Cowart, Matthew Moran, Michael Tucker, Noah C Cline, Olek Petro,\u00a0Orkenspalter TV, Patrek Gill, Patrick McGrath, Pierre, proxcent, Rob Tran, Rene Mitchell-Lambert, Rob Tran, Roc\u00ed\u00ado Villalba, Roman Herasymenko,\u00a0Rony Fgl, Sam Moore, Stephen W Jenks,\u00a0Stephen Roberts, Tanja, Postandfly, The Popcast, Tim McGhee, Todd D'Arcy, Tommy Zamberlan, Tough Soles, Vaggelis Papantoniu, Vakoryn, Yolanda Torres...\n\n... and this month's new patrons:\u00a0 Coraille en Voyage and Robbo Stew.\u00a0\n\n\u25b6Also thanks to my Twitch subscribers (http://bit.ly/2CGgrvJ): \n\nchiffmonkey, cruisingthewaterways, cs_aaron, effane, fors4ken7, gustavph, hexd0t, horseradish_power, jvetulani, kennithnichol, le_paul_, longhaulergmg, mandythephilomath, marcelotrevino, naomithinksit,\u00a0neurokittyuk, nunohflores, oldboyuk, proxcent, superpoup, supercaptainhammerhart, supernab, syropian, and toddmoonbounce. Thanks for watching!\n------------------------------------------------------------------------------------------\n\nFollow me on...\n\u25cf Twitter - http://bit.ly/2zV7KNo\n\u25cf Facebook - http://bit.ly/2V3uVfR\n\u25cf Twitch - http://bit.ly/2Dp30lI\n\u25cf Instagram - http://bit.ly/2hDPMom\n\u25cf Soundcloud - http://bit.ly/2iAj8Vy\n\n------------------------------------------------------------------------------------------\n\n#synthwave #royaltyfreemusic #retrowave #soundtrack #ost #creativecommons  #underscore #backgroundmusic #freemusic #peacefulmusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XogM1yiNas0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XogM1yiNas0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XogM1yiNas0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XogM1yiNas0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XogM1yiNas0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XogM1yiNas0"
+        },
+        "videoOwnerChannelTitle": "Scott Buckley",
+        "videoOwnerChannelId": "UCUuUqWLLsUjheuYkP9AWxTA"
+      },
+      "contentDetails": {
+        "videoId": "XogM1yiNas0",
+        "videoPublishedAt": "2020-09-18T08:09:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZADANCeOnElFwO0AvXXwccK3FW4",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-07-11T14:44:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Nikki",
+        "description": "Provided to YouTube by Believe SAS\n\nNikki \u00b7 Worakls \u00b7 Kevin Rodrigues \u00b7 Kevin Rodrigues\n\nOrchestra\n\n\u2117 Hungry Music\n\nReleased on: 2019-03-08\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Smm8RH8DgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Smm8RH8DgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Smm8RH8DgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Smm8RH8DgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Smm8RH8DgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Smm8RH8DgU"
+        },
+        "videoOwnerChannelTitle": "Worakls - Topic",
+        "videoOwnerChannelId": "UCIXXU6Ag0DMhte-I0AQkTpA"
+      },
+      "contentDetails": {
+        "videoId": "-Smm8RH8DgU",
+        "videoPublishedAt": "2019-03-07T10:17:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "opkNvOizbBBzBsH2274rini_9bg",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-06-04T15:33:31Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Vibe Mountain | Santorini 2",
+        "description": "Video created by NCALIB.\nMusic without copyright - Attribution not required.\nYou're free to use this song and monetize your video.\nArtist: Vibe Mountain | Track: Santorini 2\nDownload MP3 - https://support.google.com/youtube/answer/3376882\nPop | Bright\nVibe Mountain playlist: https://www.youtube.com/playlist?list=PLrwYF1Q780z9rSPq_482oFTTpUlmbGfQ-\nPop music playlist: https://www.youtube.com/playlist?list=PLrwYF1Q780z9JWdSJLMBnHzBTd6gJ8ADZ\nBright music playlist: https://www.youtube.com/playlist?list=PLrwYF1Q780z9pcLI44pNx2MrRBPQgILVN\n\n#PopBright #VibeMountain #Santorini2 #NoCopyrightMusic #NoCopyrightAudioLibrary   #MusicVisualization #NCALIB\n\nSubscribe: https://www.youtube.com/c/ncalib?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RXR_nbwUBAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RXR_nbwUBAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RXR_nbwUBAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RXR_nbwUBAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RXR_nbwUBAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RXR_nbwUBAc"
+        },
+        "videoOwnerChannelTitle": "No Copyright Audio Library",
+        "videoOwnerChannelId": "UCNhmOF-7XMymHPT-oWHLpuQ"
+      },
+      "contentDetails": {
+        "videoId": "RXR_nbwUBAc",
+        "videoPublishedAt": "2019-10-14T23:31:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k5PDYy2YX0udgypiolhTYMlJkTQ",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-05-16T12:17:48Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Chernobyl Approaching Disaster",
+        "description": "Provided to YouTube by DistroKid\n\nChernobyl Approaching Disaster \u00b7 CO.Ag Music\n\nChernobyl Approaching Disaster\n\n\u2117 1285828 Records DK\n\nReleased on: 2019-05-14\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vjeUD6kI6us/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vjeUD6kI6us/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjeUD6kI6us/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vjeUD6kI6us/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vjeUD6kI6us/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vjeUD6kI6us"
+        },
+        "videoOwnerChannelTitle": "CO.Ag Music - Topic",
+        "videoOwnerChannelId": "UCJ1SS_FKzSFbmBpLGNKpS_A"
+      },
+      "contentDetails": {
+        "videoId": "vjeUD6kI6us",
+        "videoPublishedAt": "2019-05-14T23:14:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Jx2nW7QzKkAT0XXx2jth7GkFfPs",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-05-16T12:04:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Digital Shift",
+        "description": "Provided to YouTube by DistroKid\n\nDigital Shift \u00b7 CO.Ag Music\n\nDigital Shift\n\n\u2117 1285828 Records DK\n\nReleased on: 2020-04-23\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TsVuysPGryM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TsVuysPGryM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TsVuysPGryM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TsVuysPGryM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TsVuysPGryM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TsVuysPGryM"
+        },
+        "videoOwnerChannelTitle": "CO.Ag Music - Topic",
+        "videoOwnerChannelId": "UCJ1SS_FKzSFbmBpLGNKpS_A"
+      },
+      "contentDetails": {
+        "videoId": "TsVuysPGryM",
+        "videoPublishedAt": "2020-04-26T18:24:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "odhwCL1hdhix-czes7Ks5Ne3hFc",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-05-16T11:59:12Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Automaton",
+        "description": "Provided to YouTube by DistroKid\n\nAutomaton \u00b7 CO.Ag Music\n\nAutomaton\n\n\u2117 1285828 Records DK\n\nReleased on: 2020-04-23\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KySfKF6FvnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KySfKF6FvnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KySfKF6FvnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KySfKF6FvnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KySfKF6FvnY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KySfKF6FvnY"
+        },
+        "videoOwnerChannelTitle": "CO.Ag Music - Topic",
+        "videoOwnerChannelId": "UCJ1SS_FKzSFbmBpLGNKpS_A"
+      },
+      "contentDetails": {
+        "videoId": "KySfKF6FvnY",
+        "videoPublishedAt": "2020-04-26T20:54:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6fxAo9wMc_m-x-3u4_SRwFa4moY",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-04-25T15:37:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ambient Music - Wonders of the World #1",
+        "description": "The ice cold water \n\nIf you wish to use any of my music all I ask is that you credit me in your description and  message me at my YouTube account so I can see how it fits with your project!\n\n\n\nThank you very much for listening!\n\n\nCO.AG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8lZ5LkoAhho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8lZ5LkoAhho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8lZ5LkoAhho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8lZ5LkoAhho/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8lZ5LkoAhho/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8lZ5LkoAhho"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "8lZ5LkoAhho",
+        "videoPublishedAt": "2015-08-27T16:13:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bEsIf9MSFJkwKdKC_tvFCFWEy7A",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-04-21T15:55:03Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "More human than humans  -   Futuristic  Background Music",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on this page or my Facebook page  CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/   so I can see how it fits with your work.\n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\n donate to my PayPal. - Coagmusic@gmail.com \nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \n\nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \n\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GhKa28BggTs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GhKa28BggTs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GhKa28BggTs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GhKa28BggTs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GhKa28BggTs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GhKa28BggTs"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "GhKa28BggTs",
+        "videoPublishedAt": "2018-09-17T18:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pkc3bG8_QBTYq34NJyqhmWdnPME",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-04-21T15:35:06Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The other side of Black Holes  1  -  Ambient Music",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/   so I can see how it fits with your work.\n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\n donate to my PayPal. - Coagmusic@gmail.com \nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \n\nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \nPodcasts , \n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FyRZk-Ub4o4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FyRZk-Ub4o4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FyRZk-Ub4o4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FyRZk-Ub4o4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FyRZk-Ub4o4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FyRZk-Ub4o4"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "FyRZk-Ub4o4",
+        "videoPublishedAt": "2018-12-17T19:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B0EG846PUbke0pWNwnqjBI3ttdg",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-04-21T15:28:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The other side of Black Holes  2  -  Ambient Music",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/   so I can see how it fits with your work.\n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\n donate to my PayPal. - Coagmusic@gmail.com \nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \n\nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \npodcast .\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FK2OLn8xhlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FK2OLn8xhlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FK2OLn8xhlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FK2OLn8xhlc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FK2OLn8xhlc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FK2OLn8xhlc"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "FK2OLn8xhlc",
+        "videoPublishedAt": "2018-12-18T19:01:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hWzbKZWdPmq0wLTi72rfR8FdNmg",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-04-21T14:48:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Trajectory back to Earth  -  Ambient Music",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/   so I can see how it fits with your work.\n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\n donate to my PayPal. - Coagmusic@gmail.com \nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \n\nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \n\n\nThank you very much for subscribing to my channel and thanks for listening.\n\nArtwork for NASA  Unsplash \nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oV37FEmi2Cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oV37FEmi2Cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oV37FEmi2Cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oV37FEmi2Cw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oV37FEmi2Cw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oV37FEmi2Cw"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "oV37FEmi2Cw",
+        "videoPublishedAt": "2019-07-18T19:23:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CT2ZMDgauzfjX2J9G2Vms1c1_aM",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-04-21T14:28:52Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "AI  -  Area 51  part 4",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/   so I can see how it fits with your work.\n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\n donate to my PayPal. - Coagmusic@gmail.com \nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \n\nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \npodcast ,\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mRT_p3c7EiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mRT_p3c7EiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mRT_p3c7EiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mRT_p3c7EiU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mRT_p3c7EiU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mRT_p3c7EiU"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "mRT_p3c7EiU",
+        "videoPublishedAt": "2019-08-26T16:04:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6QHE0_KDB4SnBllvbh1D7pJZqfw",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-04-21T14:22:14Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Alpha  -  Futuristic Background Music",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  \nThe Facebook page to CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/  \n\nEmail\nCoagmusic@gmail.com \n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\ndonate to my PayPal. - \n\npaypal.me/AlanG286 \n\nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \nPodcast  Music,\nCinematic Music  ,\n\nPlease note that this track  Alpha\" has been submitted to YouTube ContentID fingerprinting system. \nIf you do receive a email from YouTube that there's been a copyright claim against you This is nothing to worry about--it's YouTube's ContentID system doing its thing. You can safely ignore the message\n\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5NEpA7KRiLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5NEpA7KRiLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NEpA7KRiLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5NEpA7KRiLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5NEpA7KRiLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5NEpA7KRiLE"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "5NEpA7KRiLE",
+        "videoPublishedAt": "2020-02-24T20:34:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sX-MxfApbz-k-ipwbrvT6v3OU8U",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-04-21T14:18:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Apex   -   Futuristic Background Music",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/   so I can see how it fits with your work.\n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\n donate to my PayPal. - Coagmusic@gmail.com \nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \n\nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \n\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music\nThanks to Drecci Gislaadt. \nFor the Digital Artwork  \n\nhttps://www.flickr.com/photos/gislaadt/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xN7EseV14Ts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xN7EseV14Ts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xN7EseV14Ts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xN7EseV14Ts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xN7EseV14Ts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xN7EseV14Ts"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "xN7EseV14Ts",
+        "videoPublishedAt": "2019-03-25T18:59:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3Yv-_QphwYG-wLpSGGKaGx_nlqE",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-04-21T13:29:49Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Andromeda   -   Futuristic Sci-fi Electronic Background Music CO.AG",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  \nThe Facebook page to CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/  \n\nEmail\nCoagmusic@gmail.com \n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\ndonate to my PayPal. - \n\npaypal.me/AlanG286 \n\nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \nPodcast  Music,\nCinematic Music  ,\n\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oaijMoMarP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oaijMoMarP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oaijMoMarP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oaijMoMarP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oaijMoMarP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oaijMoMarP0"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "oaijMoMarP0",
+        "videoPublishedAt": "2020-03-26T20:26:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kPwpam6JyOXBg5bKFa_nHNrvBOY",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-04-13T12:40:39Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Aries Beats \u2013 Turbo Rush [Synthwave] \ud83c\udfb5 from Royalty Free Planet\u2122",
+        "description": "Our music library prioritizes quality over quantity. We carefully select each track based on the feeling it creates. \ud83c\udfb6\n\nMusic is like a language that communicates emotion, and the goal here is to provide songs that will truly enhance the emotional impact of your projects. Synthwave is our specialty, but we feature much more. So sit back, listen, and feel. Oh, and enjoy the planet\u2019s dancing atmosphere while you\u2019re at it! Welcome to Royalty Free Planet, citizen.\n\nSubscribe and make Royalty Free Planet your home. \ud83d\udc99\n\n\u2615 Buy me a coffee to support this channel: http://buymeacoffee.com/ITQtMuL\n\u2b50 Become a patron on Patreon for exclusive perks! http://patreon.com/RoyaltyFreePlanet\n\n\ud83c\udfb5 Song: Turbo Rush\n\ud83c\udfa7 Artist: Aries Beats\n\ud83d\udd0a Direct Download: http://bit.ly/TurboRush_Download \n\n\ud83d\ude4c Support the Artist(s):\nhttp://ariesbeats.bandcamp.com\nhttp://soundcloud.com/aries4rce\nhttp://twitter.com/Aries_4Rce\n\nLicense: Creative Commons Attribution 3.0 - http://bit.ly/RFP_CClicense\n\nPlease add the following to the description of your work: Music by Aries Beats: https://www.youtube.com/c/ariesbeats\n\nBrowse our growing music collection with these categorized playlists: http://bit.ly/RFP_Playlists\n\n\ud83d\udcf1 Keep in touch with Royalty Free Planet on social media:\nhttp://bit.ly/RFP_Instagram\nhttp://bit.ly/RFP_Twitter \nhttp://bit.ly/RFP_Facebook \n\nAbout Royalty Free Planet:\n\nRoyalty Free Planet is owned and maintained by a professional Video Editor who has spent countless hours searching the vast expanse of the internet for meaningful and inspiring music to use in videos. This channel was created in hopes of making it easier for others doing the same. Feel free to use any music uploaded here in your videos, streams, games, vlogs, podcasts, and more! Have peace of mind and never worry about copyright strikes again. Use quality music for your projects stress-free. Unleash your creativity!\n\n\ud83d\udd0a Note - In every video description, you will find a free direct download link to the song. Click the link and download the song immediately and securely from Dropbox.\n\n\n\nThank you for visiting Royalty Free Planet. \ud83d\udc99\n\n#RoyaltyFreeMusic #CopyrightFreeMusic #Synthwave",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PPyarYC0Gc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PPyarYC0Gc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PPyarYC0Gc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PPyarYC0Gc8"
+        },
+        "videoOwnerChannelTitle": "RoyaltyFreePlanet",
+        "videoOwnerChannelId": "UC6-wx-04aMXk6a3m_fSXLEw"
+      },
+      "contentDetails": {
+        "videoId": "PPyarYC0Gc8",
+        "videoPublishedAt": "2019-12-22T15:56:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3TjqJ1xcd8ZNfrGVuFS3_qEmI2s",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-04-13T12:38:56Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Perturbator - Night Driving Avenger [Full Album]",
+        "description": "The debut EP release from the new king of synthesized horror and sci-fi is here.  Perturbator's \"Night Driving Avenger\" -- available through Bancamp, iTunes, Amazon, Google Play, X-Box Music, Spotify, and every other digital service imaginable.\n\nDownload at Name Your Own Price through Bandcamp:\n\nhttps://blood-music.bandcamp.com/album/night-driving-avenger-ep-remaster\n\nComing soon to CD and vinyl through BLOOD MUSIC (Finland).\n\nhttp://www.facebook.com/Perturbator\nhttp://ww.facebook.com/BlooodMusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wWuxobSmfpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wWuxobSmfpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wWuxobSmfpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wWuxobSmfpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wWuxobSmfpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wWuxobSmfpg"
+        },
+        "videoOwnerChannelTitle": "BlooodMusic",
+        "videoOwnerChannelId": "UCqDx1qx8HM5ZMd2WB9zA2lQ"
+      },
+      "contentDetails": {
+        "videoId": "wWuxobSmfpg",
+        "videoPublishedAt": "2015-10-14T12:23:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yve6L2Egf6zM5sHoKs7S2ba-OA4",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-04-13T11:57:14Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "EVA \u2013 \u5931\u671b\u3057\u305f [Synthwave] \ud83c\udfb5 from Royalty Free Planet\u2122",
+        "description": "Our music library prioritizes quality over quantity. We carefully select each track based on the feeling it creates. \ud83c\udfb6\n\nMusic is like a language that communicates emotion, and the goal here is to provide songs that will truly enhance the emotional impact of your projects. Synthwave is our specialty, but we feature much more. So sit back, listen, and feel. Oh, and enjoy the planet\u2019s dancing atmosphere while you\u2019re at it! Welcome to Royalty Free Planet, citizen.\n\nDonations and subscriptions are a great way of supporting the channel. \ud83d\udc99\n\u2615 Buy Me a Coffee: http://buymeacoffee.com/ITQtMuL\n\n\ud83c\udf10 Easily browse genres and artists on the RFP website: https://www.royaltyfreeplanet.com \n\n\ud83d\udd00 Listen to our official Spotify playlist here: https://open.spotify.com/playlist/64ITdcq4Z9eaVHyQ0Ce3JG?si=bff598fe368a41d8 \n\n\ud83c\udfb5 Song: \u5931\u671b\u3057\u305f\n\ud83c\udfa7 Artist: EVA \n\ud83d\udd0a Download: https://hypeddit.com/track/mklgab\n\n\ud83d\ude4c Support the Artist(s):\nhttps://joshlis.bandcamp.com\nhttps://soundcloud.com/joshlis \nhttps://instagram.com/josh.lis \n\nCredit the Artist (Copy & Paste): \n\n\u5931\u671b\u3057\u305f by EVA\nhttps://joshlis.bandcamp.com\nPromoted by @RoyaltyFreePlanet - https://royaltyfreeplanet.com\nCreative Commons Attribution 3.0\nhttp://bit.ly/RFP_CClicense\n\nListen on Spotify: https://open.spotify.com/track/5E4KvUjuwUfyuRIzVQwt7u?si=rMrEFsOCRQuTsclfBL1v9w\n\nVibe to EVA's entire \"Rear View\" album here: https://youtu.be/Gpm6YPwqJUA\n\nBrowse our growing music collection with these categorized playlists: http://bit.ly/RFP_Playlists\n\n\ud83d\udcf1 Keep in touch with Royalty Free Planet on social media:\nhttp://bit.ly/RFP_Instagram\nhttp://bit.ly/RFP_Twitter \nhttp://bit.ly/RFP_Facebook \n\nAbout Royalty Free Planet:\n\nRoyalty Free Planet is owned and maintained by a professional Video Editor who has spent countless hours searching the vast expanse of the internet for meaningful and inspiring music to use in videos. This channel was created in hopes of making it easier for others doing the same. Feel free to use any music uploaded here in your videos, streams, games, vlogs, podcasts, and more! Have peace of mind and never worry about copyright strikes again. Use quality music for your projects stress-free. Unleash your creativity!\n\nThank you for visiting Royalty Free Planet. \ud83d\udc99\n\n#RoyaltyFreeMusic #CopyrightFreeMusic #Synthwave",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jVTsD4UPT-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jVTsD4UPT-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jVTsD4UPT-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jVTsD4UPT-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jVTsD4UPT-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jVTsD4UPT-k"
+        },
+        "videoOwnerChannelTitle": "RoyaltyFreePlanet",
+        "videoOwnerChannelId": "UC6-wx-04aMXk6a3m_fSXLEw"
+      },
+      "contentDetails": {
+        "videoId": "jVTsD4UPT-k",
+        "videoPublishedAt": "2018-08-22T19:56:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2fdju5Gf4tD6tAQnabjnTxYUDBU",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-04-13T11:54:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Synthwave E - Royalty Free Music",
+        "description": "Download Music: http://teknoaxe.com/Link_Code_3.php?q=1534\nGaming Channel: https://www.youtube.com/channel/UC3avSC7PN9ISN4zJWbGkwBQ\nSpotify:  http://open.spotify.com/artist/0Hyqsw7GWssXIOVgy36ohS\nhttp://www.facebook.com/teknoaxe\n**This track is Royalty Free and is free for anyone to use in YouTube videos or other projects, whether monetized or not.**\nhttp://www.reverbnation.com/teknoaxe\n\n\nLet me know what you think! :)\n\n*Legal notice:  The publisher of this video is the original source for the music track being presented in this video, which is entitled \"\".  No one entity, person or organization may take legal action against other entity, person or organization due to use or distribution of this track or modified portions of this music track.\n\nUsed Image:  https://hdqwalls.com/download/synthwave-future-scifi-5k-yn-1920x1080.jpg\n\nSpotify:  http://open.spotify.com/artist/0Hyqsw7GWssXIOVgy36ohS\n\nGoogle Play:\nhttps://play.google.com/store/music/artist/TeknoAXE?id=Af6e7gogazwhtmiltgt4kvq3cdm&hl=en\n\niHeart Radio:\nhttps://www.iheart.com/artist/teknoaxe-368741/\n\nYandex: \nhttps://music.yandex.ru/artist/3142096\n\nitunes:\nhttps://itunes.apple.com/us/artist/teknoaxe/id372600507\n\nAmazon Music:\nhttps://www.amazon.com/TeknoAXE/e/B00F5BREVW\n\nDeezer:\nwww.deezer.com/artist/4978208\n\ngab.ai:\nhttp://www.gab.ai/teknoaxe\n\nminds.com:\nhttp://www.minds.com/teknoaxe\n\npatreon:\nhttp://www.patreon.com/teknoaxe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBxnYXGNNAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBxnYXGNNAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBxnYXGNNAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RBxnYXGNNAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RBxnYXGNNAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RBxnYXGNNAk"
+        },
+        "videoOwnerChannelTitle": "TeknoAXE's Royalty Free Music",
+        "videoOwnerChannelId": "UCtgf00GvfFQVsYBA7V7RwUw"
+      },
+      "contentDetails": {
+        "videoId": "RBxnYXGNNAk",
+        "videoPublishedAt": "2019-09-07T20:52:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Cu17sFMKCaXCuySqfBxDN84q1s",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-04-12T13:22:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Dark Dystopian Music - Mentality",
+        "description": "From my new cyberpunk album Vae Victis!\nhyperurl.co/VaeVictis\n\nSecession Studios\nWebsite      \u25ba http://secessionstudios.com/\nBandcamp \u25ba http://thesecession.bandcamp.com/music\nInstagram   \u25ba https://instagram.com/thesecession/\nFacebook    \u25ba http://www.facebook.com/Secession.Studios\n\nLicensing: www.SecessionStudios.com\nComposer: Greg Dombrowski (thesecession)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ndWyxzDtFqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ndWyxzDtFqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ndWyxzDtFqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ndWyxzDtFqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ndWyxzDtFqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ndWyxzDtFqc"
+        },
+        "videoOwnerChannelTitle": "Secession Studios",
+        "videoOwnerChannelId": "UCwd8uu2mtJUgHYRffUl2yPQ"
+      },
+      "contentDetails": {
+        "videoId": "ndWyxzDtFqc",
+        "videoPublishedAt": "2017-07-19T00:39:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZX4mu-BAB2BkSJpKdvCFoHf_TE0",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-04-09T15:39:41Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "There's a little of every artist in their work   -   CO.AG Music",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  \nThe Facebook page to CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/  \n\nEmail\nCoagmusic@gmail.com \n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\ndonate to my PayPal. - \n\npaypal.me/AlanG286 \n\nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \nPodcast  Music,\nCinematic Music  ,\n\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hvi_8VUM9BE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hvi_8VUM9BE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hvi_8VUM9BE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hvi_8VUM9BE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hvi_8VUM9BE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hvi_8VUM9BE"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "Hvi_8VUM9BE",
+        "videoPublishedAt": "2020-03-18T19:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BTNUwzKmvwK-xu3ybvLow_MWPbo",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-04-09T15:37:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Beginning and the End   -   EDM  -   CO.AG Music",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  \nThe Facebook page to CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/  \n\nEmail\nCoagmusic@gmail.com \n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\ndonate to my PayPal. - \n\npaypal.me/AlanG286 \n\nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \nPodcast  Music,\nCinematic Music  ,\n\nThe Beginning and the End  -  Narrated by Frank Black from Millennium \n\nsecond season disc 1 \n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q3OxVIDLd8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q3OxVIDLd8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q3OxVIDLd8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q3OxVIDLd8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q3OxVIDLd8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q3OxVIDLd8Q"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "Q3OxVIDLd8Q",
+        "videoPublishedAt": "2020-04-03T13:01:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8JGtCjSqaQAGu1g9rx8r-l2Cg0M",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-04-09T15:37:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Children of the Directive Purified  -  Background Track",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  \nThe Facebook page to CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/  \n\nEmail\nCoagmusic@gmail.com \n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\ndonate to my PayPal. - \n\npaypal.me/AlanG286 \n\nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \nPodcast  Music,\nCinematic Music  ,\n\n\nArtwork  Gary Numan and daughter Persia \n\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e6FdATQKnBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e6FdATQKnBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e6FdATQKnBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e6FdATQKnBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e6FdATQKnBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e6FdATQKnBw"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "e6FdATQKnBw",
+        "videoPublishedAt": "2020-04-06T17:59:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2c-rU5eL1Z2l2lRIYvRQUS7YR-Q",
+      "id": "UExJamhmbHVoTmQ5LVNCY3NadHQ3VmwxcS0wZmFBcjlfNS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-04-09T15:37:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Launch  -   Background Music  -  CO.AG",
+        "description": "All the music I produce on my channel (unless stated) is 100% copyright free and you're welcome to use if for your Youtube videos, film presentations or Documentaries. \n\nAll I ask is that you credit me in the description or message me on  my Facebook page  \nThe Facebook page to CO.AG Music  ( link )       \nhttps://www.facebook.com/COAG-Music-146339785905623/  \n\nEmail\nCoagmusic@gmail.com \n\nIf you would like a custom made track, intro or outro, or would like to show your support to the free content I produce, you can\ndonate to my PayPal. - \n\npaypal.me/AlanG286 \n\nor you can support me on Patreon - https://www.patreon.com/user?ty=h&u=3550597 \nAll money is hugely appreciated and is used to buy new equipment and gear to help produce the best tracks I can!\n\n\n\nBackground Music , \nDark Ambient Music,\nSlow Ambient Music ,\nDeep Meditation Music\nSci-fi Music, \nFuturistic Sci-fi Electronic Background Music , \nPeaceful Ambient Background Music,\nHaunting Atmospheric  Soundscape  ,  \nDocumentary  Music,\nDark Haunting   Music  , \nFilm Music  , \nTV Music  , \nSuspense Music  , \nAction Music  , \nCase Files Music  , \nPodcast  Music,\nCinematic Music  ,\n\n\nThank you very much for subscribing to my channel and thanks for listening.\n\n\nCO.AG Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KnS6rDV2LXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KnS6rDV2LXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KnS6rDV2LXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KnS6rDV2LXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KnS6rDV2LXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-SBcsZtt7Vl1q-0faAr9_5",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KnS6rDV2LXw"
+        },
+        "videoOwnerChannelTitle": "CO.AG Music",
+        "videoOwnerChannelId": "UCcavSftXHgxLBWwLDm_bNvA"
+      },
+      "contentDetails": {
+        "videoId": "KnS6rDV2LXw",
+        "videoPublishedAt": "2020-04-04T18:48:54Z"
+      }
+    }
+  ]
+}

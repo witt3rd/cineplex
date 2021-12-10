@@ -1,0 +1,45 @@
+{
+  "_id": "PLIjhfluhNd99sC8ZLF86uJG6-o27mxMTl",
+  "as_of": "2021-12-10 00:21:41.763754",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "34kVuYYknLDpdkiWsy7dnjiPECw",
+    "id": "PLIjhfluhNd99sC8ZLF86uJG6-o27mxMTl",
+    "snippet": {
+      "publishedAt": "2019-09-30T20:33:18Z",
+      "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+      "title": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f ex nihilo",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f4cr86ldmXg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f4cr86ldmXg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f4cr86ldmXg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f4cr86ldmXg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Donald Thompson",
+      "localized": {
+        "title": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f ex nihilo",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 16
+    }
+  }
+}

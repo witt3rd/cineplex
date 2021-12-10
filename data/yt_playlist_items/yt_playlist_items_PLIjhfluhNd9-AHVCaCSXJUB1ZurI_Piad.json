@@ -1,0 +1,1567 @@
+{
+  "_id": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+  "as_of": "2021-12-10 00:22:02.339673",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jMLPuLFgpwkKtl3IeCE27nxuhZ0",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:12:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity Ragdoll Tutorial - Ragdoll Physics - Gang Beasts Style - Part 1",
+        "description": "Hello friends,\n\nHave you ever wanted to create ragdoll characters just like the ones you see in games like Gang Beasts and Human Fall Flat?\nIf yes then this video is for you!\n\nPart2 : https://youtu.be/7FbF2PfLxmc\n\nEnjoy!\n\n\n#unityragdolltutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I1beTn_913c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I1beTn_913c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I1beTn_913c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I1beTn_913c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I1beTn_913c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I1beTn_913c"
+        },
+        "videoOwnerChannelTitle": "Happy Chuck Programming",
+        "videoOwnerChannelId": "UChjK0Ht3LhMOMpNE_WFa82A"
+      },
+      "contentDetails": {
+        "videoId": "I1beTn_913c",
+        "videoPublishedAt": "2020-08-16T01:15:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bS9ItlvIcQjqMZEnDaY9fi10CBY",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:12:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "RAGDOLL PHYSICS in Unity!",
+        "description": "Let's set up Ragdoll Physics in Unity!\n\n15% OFF for Web Hosting and FREE Domain included! https://www.hostinger.com/brackeys \nCoupon Code: \"BRACKEYS\"\n\n\u25cf Active Ragdoll Asset: https://bit.ly/2IWKpza\n\u25cf Turning Ragdoll on and off: https://youtu.be/OJFS4Z0tT9A?t=276\n\u25cf Bodyguard asset pack: https://bit.ly/2B9XUGA\n\n\ud83d\udc55Check out our merch! https://lineofcode.io/\n\n\u2665 Support Brackeys on Patreon: http://patreon.com/brackeys/\n\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\n\n\u2665 Subscribe: http://bit.ly/1kMekJV\n\n\u25cf Website: http://brackeys.com/\n\u25cf Facebook: https://facebook.com/brackeys/\n\u25cf Twitter: https://twitter.com/BrackeysTweet/\n\u25cf Instagram: https://instagram.com/brackeysteam/\n\u25cf Discord: http://discord.gg/brackeys\n\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00ad\u00ad\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00ad\u00b7\u00ad\u00b7\u00b7\u00b7\u00b7\n\n\u25ba All content by Brackeys is 100% free. We believe that education should be available for everyone. Any support is truly appreciated so we can keep on making the content free of charge.\n\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00ad\u00ad\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00ad\u00b7\u00ad\u00b7\u00b7\u00b7\u00b7\n\n\u266a \"ES_Dress Code_Black - oomiee\" by Epidemic Sound",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DInV-jHm9rk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DInV-jHm9rk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DInV-jHm9rk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DInV-jHm9rk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DInV-jHm9rk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DInV-jHm9rk"
+        },
+        "videoOwnerChannelTitle": "Brackeys",
+        "videoOwnerChannelId": "UCYbK_tjZ2OrIZFBvU6CCMiA"
+      },
+      "contentDetails": {
+        "videoId": "DInV-jHm9rk",
+        "videoPublishedAt": "2019-07-07T20:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6jyPnbvQtYt98lSlcP_PPrckCKA",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:12:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to Create a Ragdoll Character in Unity",
+        "description": "In this video learn how to create a ragdoll character for your Unity games. I cover how to set up the ragdoll and a controller for turning it on and off. \n\nTo learn more about our game projects check out : https://www.lumpystudios.com/\n\nFor regular updates follow us on Instagram : https://instagram.com/lumpystudios/\nOr Twitter : https://twitter.com/LumpyStudios",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnK5S05orfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnK5S05orfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnK5S05orfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jnK5S05orfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jnK5S05orfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jnK5S05orfA"
+        },
+        "videoOwnerChannelTitle": "Lumpy GameDev",
+        "videoOwnerChannelId": "UCqHNHC7-SMaNEUnsYmMR6xw"
+      },
+      "contentDetails": {
+        "videoId": "jnK5S05orfA",
+        "videoPublishedAt": "2019-04-30T08:59:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xPjqf9eagsQlWtp3EhVGfgFelF4",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:12:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Create a Ragdoll in 100 Seconds! And make it shootable!",
+        "description": "Ragdoll explaination: 0:44\nShoot/Activate Ragdoll: 3:30\n\nYes, this is a video for a short introduction in Unity for ragdolls. Ragdolls are a great way to plug your player out of the matrix and let it fall as if it was dead. This time I will use Unity's build in Ragdoll Component. I personaly do not like it that much, but it is doing what it is supposed to do. You can find this type of tutorial all over youtube, but many are missing the activation/deactivation.\n\nThis was just the start for ragdolls. In the next video I will create a custom ragdoll from scratch to apply it to custom objects, like animals and all kind of creatures. Make sure to subscribe: https://www.youtube.com/c/DitzelGames?sub_confirmation=1\n\nCharacter Elf: https://assetstore.unity.com/packages/3d/characters/humanoids/character-elf-114445\nProject Files: http://bit.ly/36_ragdoll",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k9Id-LhJq_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k9Id-LhJq_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k9Id-LhJq_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k9Id-LhJq_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k9Id-LhJq_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k9Id-LhJq_c"
+        },
+        "videoOwnerChannelTitle": "DitzelGames",
+        "videoOwnerChannelId": "UCdedu-nAwMACE5WbVcmp3Bg"
+      },
+      "contentDetails": {
+        "videoId": "k9Id-LhJq_c",
+        "videoPublishedAt": "2018-08-05T12:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4V8Pb1BazfoeMW_N41ehvoJ1ktE",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:12:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ragdoll Controller - Unity Experiments",
+        "description": "Ragdoll Controller - Unity Experiments\nHi everyone,\nI just started this new series to share with you my experiments in Unity and the scripts & tools that I created so you might use them too!\nHope you find them useful, enjoy :D\n\nYou can find the project files here:\nhttps://github.com/OBalfaqih/UnityExperiments/tree/master/RagdollController\n\n------- Tools & Gear I Use (Affiliate Links) -----\nhttps://obalfaqih.com/gear\n\n------------- Links -------------\nMy website:\nhttp://obalfaqih.com\n\nBlog:\nhttp://obalfaqih.com/blog\n\nDiscord:\nhttps://discord.gg/x7q9VrX\n\nUnity:\nhttps://unity3d.com\n\nGitHub (All tutorials):\nhttps://github.com/OBalfaqih/Unity-Tutorials\n\nGitHub (Unity Experiments):\nhttps://github.com/OBalfaqih/UnityExperiments\n\nTwitter:\nhttp://twitter.com/OBalfaqih\n\nInstagram:\nhttps://www.instagram.com/OBalfaqih\n\nFacebook:\nhttps://www.facebook.com/OBalfaqih\n\nMusic:\nhttp://bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KLpQsBrHYag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KLpQsBrHYag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLpQsBrHYag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KLpQsBrHYag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KLpQsBrHYag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KLpQsBrHYag"
+        },
+        "videoOwnerChannelTitle": "Omar Balfaqih",
+        "videoOwnerChannelId": "UC0BI507DZAOVYLEJ0617xDQ"
+      },
+      "contentDetails": {
+        "videoId": "KLpQsBrHYag",
+        "videoPublishedAt": "2019-08-27T21:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lw4vSnXGxF2WjZu8ZUTaXZy9kFY",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:12:55Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity 3D Active Ragdoll Tutorial! (Balance, Walking, Grabbing)",
+        "description": "Hi in this tutorial I show you how to make an active ragdoll walk and grab. This is Just like Human Fall Flat. also Pls consider subscribing it would really help me make more vids and stuff = )\n\nAll the scripts are pretty simple so you will probably understand them if you read them.\nif you want to do this to you own character then here is a link to the Scripts: https://drive.google.com/drive/folders/1PQDm1Tp7XhTRdb4ygCdjvBGQWPJ54mX4?usp=sharing\nOr download the project https://drollestprawn4.itch.io/active-ragdoll-unity-3d\n\n\njoin my discord https://discord.gg/pW2nQxS\nsupport me on Patreon: https://www.patreon.com/drollest",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y8rVmDRDzp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y8rVmDRDzp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y8rVmDRDzp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y8rVmDRDzp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y8rVmDRDzp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y8rVmDRDzp0"
+        },
+        "videoOwnerChannelTitle": "Drollest Prawn",
+        "videoOwnerChannelId": "UCugx74JNroshzoLFJHoWZsw"
+      },
+      "contentDetails": {
+        "videoId": "y8rVmDRDzp0",
+        "videoPublishedAt": "2020-10-05T20:25:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "27ZKTCLO-kiiegSxG6vyMHjnppI",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:13:03Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity Ragdoll Tutorial - Ragdoll Movement - Gang Beasts Style - Part 3",
+        "description": "Hey guys, \n\nWelcome to Part 3 of the Unity Ragdoll Series! \nIn this video I cover funny ragdoll movement. \n\nEnjoy! \n\n#funnyragdolls \n#gangbeastsragdolls",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZvNOt7I4C3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZvNOt7I4C3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZvNOt7I4C3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZvNOt7I4C3I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZvNOt7I4C3I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZvNOt7I4C3I"
+        },
+        "videoOwnerChannelTitle": "Happy Chuck Programming",
+        "videoOwnerChannelId": "UChjK0Ht3LhMOMpNE_WFa82A"
+      },
+      "contentDetails": {
+        "videoId": "ZvNOt7I4C3I",
+        "videoPublishedAt": "2020-08-29T01:02:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HfcD53KDRKCyu6Sv4kti4hfyfSU",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:13:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity Active Ragdoll Tutorial - Control Ragdoll Animations",
+        "description": "Hey guys!\n\nWelcome to Part 5 of the Ragdoll Tutorial Series.\nIn this video I show y'all how to control ragdoll animations using WASD keys.\n\nEnjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nmN1TyEd7lE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nmN1TyEd7lE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nmN1TyEd7lE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nmN1TyEd7lE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nmN1TyEd7lE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nmN1TyEd7lE"
+        },
+        "videoOwnerChannelTitle": "Happy Chuck Programming",
+        "videoOwnerChannelId": "UChjK0Ht3LhMOMpNE_WFa82A"
+      },
+      "contentDetails": {
+        "videoId": "nmN1TyEd7lE",
+        "videoPublishedAt": "2020-09-28T04:02:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QC7kDRkGXXStLcV-uccNVtOrYjw",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:13:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "#10 Controlling the Ragdoll - Unity Tutorial - Devlog",
+        "description": "Controlling the Ragdoll - Unity Tutorial - Devlog\n- Marionette\n- Joint limits\n- Multiple state machines\n\nCharacter controller playlist:\nhttps://youtube.com/playlist?list=PLWYGofN_jX5CtphJqxBpn3_HwAyoLjdig\n\nRepository:\nhttps://github.com/RoundBearChoi/ControllerExperiment\n\nFiles are available here:\nhttps://drive.google.com/drive/folders/17Lfpa5r-3zeR1jaT0eJ4nqIR3pkU9ABE?usp=sharing\n\nAny questions/comments? Join us on discord: \nhttps://discord.gg/hAFTgcA\n\nSocial\ntwitter: https://twitter.com/roundbeargames\nfacebook: https://facebook.com/roundbeargames17\nhive: https://peakd.com/@roundbeargames/posts\nreddit: https://reddit.com/user/roundbeargames\nlinkedin: https://linkedin.com/in/jangwon-choi-roundbeargames\n\nPatreon:\nhttps://patreon.com/roundbeargames\n\nChannel Memberships:\nhttps://youtube.com/roundbeargames/join\n\n#gamedev #indiegame #unitytutorial #devlog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WKAHyBzrmGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WKAHyBzrmGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WKAHyBzrmGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WKAHyBzrmGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WKAHyBzrmGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WKAHyBzrmGs"
+        },
+        "videoOwnerChannelTitle": "Roundbeargames",
+        "videoOwnerChannelId": "UCAoJgVzDHnFDOQwC42raByg"
+      },
+      "contentDetails": {
+        "videoId": "WKAHyBzrmGs",
+        "videoPublishedAt": "2020-04-30T16:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BA5JmhfRNhZ-ar1Nr841Rtwr_v8",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:13:25Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Active Ragdolls in Unity",
+        "description": "This is all I learned making active ragdolls in Unity, I hope you find it useful, or at least interesting :D\n\nThe actual tutorial: https://bit.ly/3lKsfk2\nGithub repository: https://bit.ly/2VxnU98\n\n----- Social -----\n\nTwitter: https://twitter.com/sergioabreu_g\n\n------------------\n\nAmbient Generative Music by Alex Bainter [generative.fm]\n\n------------------\n\nSections:\n0:00 Why use Active Ragdolls?\n1:25 Things we need before starting\n3:19 Making ragdolls move\n4:44 Balance\n7:22 Inverse Kinematics\n9:04 Results!\n\n------------------\n\nBe curious my friend.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HF-cp6yW3Iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HF-cp6yW3Iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HF-cp6yW3Iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HF-cp6yW3Iw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HF-cp6yW3Iw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HF-cp6yW3Iw"
+        },
+        "videoOwnerChannelTitle": "Sergio Abreu",
+        "videoOwnerChannelId": "UCUddl_zx5SHrn4csHj_r4xQ"
+      },
+      "contentDetails": {
+        "videoId": "HF-cp6yW3Iw",
+        "videoPublishedAt": "2020-12-04T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UsZNOsjVaeL4dTqi76q2vp_kKxY",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:13:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How To Make an Active Ragdoll Controller in Unity (My method) | Part 1 - Setting up the ragdoll",
+        "description": "This is my very first time recording a tutorial video, as you can probably tell by all the screw-ups I've done throughout the video.\n\nIn this vid I'll be showing you how set up an active ragdoll using the Unity game engine. I've used some made up terms that not everyone will understand in the video, so I'll explain them...\n\n- faint : basically when the ragdoll is in full ragdoll mode.\n- toDef(Boolean) : for the damper value of the spring joint, the default damper value for spring joints is 0,2f.\n- returning : when the ragdoll is going back into non-ragdoll mode.\n\nThe \"Joint\" script - https://www.mediafire.com/file/n7o3dvfwonalj7u/Joint.cs/file\n\nIn the next part I'll (hopefully) be completing the ragdoll controller.\n\nIf you have any questions or something is wrong then let me know.\n\nMy itch.io account - https://greyseth.itch.io",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x4rNDN4yla8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x4rNDN4yla8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x4rNDN4yla8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x4rNDN4yla8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x4rNDN4yla8"
+        },
+        "videoOwnerChannelTitle": "Greyseth",
+        "videoOwnerChannelId": "UCMwBeEN7GDu-9r7n2o52uxg"
+      },
+      "contentDetails": {
+        "videoId": "x4rNDN4yla8",
+        "videoPublishedAt": "2020-12-13T00:57:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YZWwxUjrktOCA_BBh5DmTpGguRk",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:14:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "#11 Basic Ragdoll Movement - Unity Tutorial - Devlog",
+        "description": "Basic Ragdoll Movement - Unity Tutorial - Devlog\n\nThe current form of ragdoll is too simple to capture a realistic human body movement (even something as seemingly simple as walking). I'll add more systems (more details) as I go on.\n\nCharacter controller playlist:\nhttps://youtube.com/playlist?list=PLWYGofN_jX5CtphJqxBpn3_HwAyoLjdig\n\nRepository:\nhttps://github.com/RoundBearChoi/ControllerExperiment\n\nFiles are available here:\nhttps://drive.google.com/drive/folders/17Lfpa5r-3zeR1jaT0eJ4nqIR3pkU9ABE?usp=sharing\n\nAny questions/comments? Join us on discord: \nhttps://discord.gg/hAFTgcA\n\nSocial\ntwitter: https://twitter.com/roundbeargames\nfacebook: https://facebook.com/roundbeargames17\nhive: https://peakd.com/@roundbeargames/posts\nreddit: https://reddit.com/user/roundbeargames\nlinkedin: https://linkedin.com/in/jangwon-choi-roundbeargames\n\nPatreon:\nhttps://patreon.com/roundbeargames\n\nChannel Memberships:\nhttps://youtube.com/roundbeargames/join\n\n#gamedev #indiegame #unitytutorial #devlog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1qf1QvKMLys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1qf1QvKMLys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1qf1QvKMLys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1qf1QvKMLys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1qf1QvKMLys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1qf1QvKMLys"
+        },
+        "videoOwnerChannelTitle": "Roundbeargames",
+        "videoOwnerChannelId": "UCAoJgVzDHnFDOQwC42raByg"
+      },
+      "contentDetails": {
+        "videoId": "1qf1QvKMLys",
+        "videoPublishedAt": "2020-05-01T16:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L1QBJzPuiWi1-2PUvDa59NWkOtc",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:14:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to make a self balancing active ragdoll in unity3d with Ik",
+        "description": "In this video, I show you how to make a ragdoll balance by itself. like and subscribe if this helped you.\nJoin my discord: https://discord.gg/pW2nQxS\nScript: https://pastebin.com/FikqrNg4\nplease support me on Patreon: https://www.patreon.com/drollest",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1jb9nD-kWvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1jb9nD-kWvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1jb9nD-kWvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1jb9nD-kWvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1jb9nD-kWvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1jb9nD-kWvY"
+        },
+        "videoOwnerChannelTitle": "Drollest Prawn",
+        "videoOwnerChannelId": "UCugx74JNroshzoLFJHoWZsw"
+      },
+      "contentDetails": {
+        "videoId": "1jb9nD-kWvY",
+        "videoPublishedAt": "2020-11-18T19:52:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jXy0apK_nUlxCjHizICLJS4_9M8",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:14:41Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "#7 Setting Up for Ragdoll Physics - Unity Tutorial",
+        "description": "This is just one example, so be as creative as you want with the configurable joints. Once you get the hang of using them you'll probably start building cool stuff like active ragdolls and more. \n\nConfigurable joint:\nhttps://docs.unity3d.com/Manual/class-ConfigurableJoint.html\n\nCharacter controller playlist:\nhttps://youtube.com/playlist?list=PLWYGofN_jX5CtphJqxBpn3_HwAyoLjdig\n\nRepository:\nhttps://github.com/RoundBearChoi/ControllerExperiment\n\nFiles are available here:\nhttps://drive.google.com/drive/folders/17Lfpa5r-3zeR1jaT0eJ4nqIR3pkU9ABE?usp=sharing\n\nAny questions/comments? Join us on discord: \nhttps://discord.gg/hAFTgcA\n\nSocial\ntwitter: https://twitter.com/roundbeargames\nfacebook: https://facebook.com/roundbeargames17\nhive: https://peakd.com/@roundbeargames/posts\nreddit: https://reddit.com/user/roundbeargames\nlinkedin: https://linkedin.com/in/jangwon-choi-roundbeargames\n\nPatreon:\nhttps://patreon.com/roundbeargames\n\nChannel Memberships:\nhttps://youtube.com/roundbeargames/join\n\n#gamedev #indiegame #unitytutorial #devlog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TJDO3i312_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TJDO3i312_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJDO3i312_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TJDO3i312_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TJDO3i312_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TJDO3i312_g"
+        },
+        "videoOwnerChannelTitle": "Roundbeargames",
+        "videoOwnerChannelId": "UCAoJgVzDHnFDOQwC42raByg"
+      },
+      "contentDetails": {
+        "videoId": "TJDO3i312_g",
+        "videoPublishedAt": "2020-04-25T17:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L5fi3YHyDfBwpIW9yYWhEDCwiYY",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:14:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Making An Standing Active RAGDOLL in Unity!",
+        "description": "Let's make a standing active ragdoll in Unity!\n\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\n\n\u25cf Scripts Used:\n\n\u25cf IgnoreCollision script\n//////////////////////////////////////////////\nhttps://pastebin.com/wLMK8C4q\n//////////////////////////////////////////////\n\u25cf StickmanController script\n//////////////////////////////////////////////\nhttps://pastebin.com/vX2dBNbA\n//////////////////////////////////////////////\n\n\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00ad\u00ad\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00ad\u00b7\u00ad\u00b7\u00b7\u00b7\u00b7\n\n\u25ba Music used in video:\n\n\u266a \"HIGH ENERGY CHIPTUNE Biscuits - Evan King\n\u266a \"Nico Co - Silverlights (Original Mix)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-F6OMqo52qY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-F6OMqo52qY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-F6OMqo52qY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-F6OMqo52qY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-F6OMqo52qY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-F6OMqo52qY"
+        },
+        "videoOwnerChannelTitle": "Zunity",
+        "videoOwnerChannelId": "UCd4GCrbuq3x-dQQaI4el1hQ"
+      },
+      "contentDetails": {
+        "videoId": "-F6OMqo52qY",
+        "videoPublishedAt": "2020-04-11T17:41:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kGjIATAv6tOH5AgkyMT52DdT5Dw",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:15:07Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "how to Balance Active Ragdoll Unity 3d in 1 line of code tutorial",
+        "description": "in this video, I show you how to make your ragdoll balance/stand up.\ndownload the project here https://drollestprawn4.itch.io/unity\nsupport me on Patreon: https://www.patreon.com/drollest",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sjRE4qW_giU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sjRE4qW_giU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sjRE4qW_giU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sjRE4qW_giU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sjRE4qW_giU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sjRE4qW_giU"
+        },
+        "videoOwnerChannelTitle": "Drollest Prawn",
+        "videoOwnerChannelId": "UCugx74JNroshzoLFJHoWZsw"
+      },
+      "contentDetails": {
+        "videoId": "sjRE4qW_giU",
+        "videoPublishedAt": "2019-12-21T02:27:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NwoNuRYXwKFHOnfy4qCUQGV8FZA",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:15:17Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How To Use Ragdoll Physics In Unity",
+        "description": "Check out Admix here: https://admixplay.com/ and their Discord server here: https://discordapp.com/invite/GjJsPhY\n-----------------------------------------------------------------------------------------------------------\nThe Course: https://www.udemy.com/course/unitytowerdefencegame/?referralCode=2C2FB97426D00893A900\n-----------------------------------------------------------------------------------------------------------\nJoin Our Community: https://student.dapperdino.co.uk/\n-----------------------------------------------------------------------------------------------------------\nJust Here To Plug My Social Media Stuff:\nhttps://www.patreon.com/dapperdino\nhttps://www.twitch.tv/dapper_dino\nhttps://twitter.com/dapperdino4\nhttps://www.facebook.com/Dapper-Dino-2313996518859283\nhttps://github.com/DapperDino\nhttps://discord.gg/sn9xXK4\n-----------------------------------------------------------------------------------------------------------\nIf you liked the video then please respond with a like and a subscribe to show your support for the channel and I'll repay you by creating more tutorials for you to enjoy :D",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_QCbilpOzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_QCbilpOzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_QCbilpOzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4_QCbilpOzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4_QCbilpOzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4_QCbilpOzQ"
+        },
+        "videoOwnerChannelTitle": "Dapper Dino",
+        "videoOwnerChannelId": "UCjCpZyil4D8TBb5nVTMMaUw"
+      },
+      "contentDetails": {
+        "videoId": "4_QCbilpOzQ",
+        "videoPublishedAt": "2020-07-01T17:59:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xzID01Nlr_vYHZrItfb_Q9SWkc4",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:17:17Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity Ragdoll Tutorial - Self-Balance - Gang Beasts Style - Part 2",
+        "description": "Hey buds,\n\nIn today's video I show you how to make your active ragdoll balance by itself.\n\nEnjoy!\n\n#unityragdolltutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7FbF2PfLxmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7FbF2PfLxmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7FbF2PfLxmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7FbF2PfLxmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7FbF2PfLxmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7FbF2PfLxmc"
+        },
+        "videoOwnerChannelTitle": "Happy Chuck Programming",
+        "videoOwnerChannelId": "UChjK0Ht3LhMOMpNE_WFa82A"
+      },
+      "contentDetails": {
+        "videoId": "7FbF2PfLxmc",
+        "videoPublishedAt": "2020-08-22T03:15:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x2IRZ6zDsfkc6CL5Gmm1LH4JmBc",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:17:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity Ragdoll Tutorial - Animation With Physics - Gang Beasts Style - Part 4",
+        "description": "Unity Ragdoll Tutorial - Animation With Physics - Gang Beasts Style - Part 4\n\nHey Buds,\nIf you are having issues with copying the animation, please look at the reply to the pinned comment.\n\nWelcome to Part 4 of the Unity Ragdoll Tutorial Series.\nIn this one I show you how to animate your ragdoll while allowing the limbs to be affected by physics.\n\nEnjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iNLQCwCHEBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iNLQCwCHEBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iNLQCwCHEBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iNLQCwCHEBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iNLQCwCHEBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iNLQCwCHEBM"
+        },
+        "videoOwnerChannelTitle": "Happy Chuck Programming",
+        "videoOwnerChannelId": "UChjK0Ht3LhMOMpNE_WFa82A"
+      },
+      "contentDetails": {
+        "videoId": "iNLQCwCHEBM",
+        "videoPublishedAt": "2020-09-14T03:26:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vLUJUSbpmvrn6x1zY6uW3ekVlWY",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:17:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity Ragdoll Tutorial - Camera Control - Part 6",
+        "description": "Hey guys! \n\nWelcome to part 6 of the Ragdoll Series. \nToday we make a camera controller to allow the player to look around. \n\nEnjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WKrlZydojiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WKrlZydojiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WKrlZydojiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WKrlZydojiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WKrlZydojiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WKrlZydojiw"
+        },
+        "videoOwnerChannelTitle": "Happy Chuck Programming",
+        "videoOwnerChannelId": "UChjK0Ht3LhMOMpNE_WFa82A"
+      },
+      "contentDetails": {
+        "videoId": "WKrlZydojiw",
+        "videoPublishedAt": "2020-10-19T02:51:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vs_DRnLrKmEm8zPO2e3DMFVR_ZY",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:17:39Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity Active Ragdoll Tutorial - Grabbing",
+        "description": "Hey guys,\n\nDo you want your ragdoll to grab objects?\nWell, if so, this video is for you!\n\nIf you enjoy this video, please support me by subscribing.\n\n\n\n\ntags (ignore)\n\nragdolls\nunity ragdolls\nhow to make a ragdoll in unity like gang beasts\ngang beasts ragdolls\nactive ragdolls\nunity ragdolls gang beasts style\nragdolls grabbing objects\nmake a ragdoll that grabs objects in unity\nunity make ragdoll that grabs objects\ngrabbing objects like in gang beasts\nunity ragdoll grabbing\nhow to make ragdoll that can grab in unity",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K1StYRsml0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K1StYRsml0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1StYRsml0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K1StYRsml0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K1StYRsml0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K1StYRsml0E"
+        },
+        "videoOwnerChannelTitle": "Happy Chuck Programming",
+        "videoOwnerChannelId": "UChjK0Ht3LhMOMpNE_WFa82A"
+      },
+      "contentDetails": {
+        "videoId": "K1StYRsml0E",
+        "videoPublishedAt": "2020-11-09T02:25:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fMZfRIs0L-Y9bvUaYkSANxibp_o",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:18:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How To Make an Active Ragdoll Controller in Unity (My method) | Part 2 - setting up the controller",
+        "description": "I'm not exactly great at making tutorials, so it's not uncommon for people to be confused by my way of explaining things which is why I will let you download the unity package with the link below.\n\nIn this video, we will be continuing the last part where we set up the ragdoll. I've used some made up terms in this video that not everyone will understand, so I'm going to explain them...\n- pivot : a position for a limb to follow\n- position : the start position of a limb\n\nIf something isn't working for you then let me know I will be gladly to help.\n\nLinks :\nUnity package file - https://www.mediafire.com/file/gpm6d4dle5cs8ns/ActiveRagdollTutorial.unitypackage/file\nArmJoint script - https://www.mediafire.com/file/jlvl7ft9322ayag/ArmJoint.cs/file\nJoint script - https://www.mediafire.com/file/91lt997c3gcajoo/Footage2.mp4/file\nPrevious part - https://youtu.be/x4rNDN4yla8\nMusic : Pigstep - https://youtu.be/R9eC3WBRKeY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FPYEadqT_ZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FPYEadqT_ZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FPYEadqT_ZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FPYEadqT_ZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FPYEadqT_ZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FPYEadqT_ZA"
+        },
+        "videoOwnerChannelTitle": "Greyseth",
+        "videoOwnerChannelId": "UCMwBeEN7GDu-9r7n2o52uxg"
+      },
+      "contentDetails": {
+        "videoId": "FPYEadqT_ZA",
+        "videoPublishedAt": "2020-12-16T01:47:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O9tkUG7LKsvXluFBlobqf7qdlj8",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-01-29T16:43:48Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "C# Inverse Kinematics in Unity \ud83c\udf93",
+        "description": "Woha! We are going deeper. With the last episode of mine, I demonstrated how to use inverse kinematics if the script is already set up for you. But many of you want to look under the hood and want to have a deeper understanding of it.\nI will use the FABRIK IK Algorithm that is used in Roblox for example. We will go step by step through the code. The best thing is, that the code is already available on github:\nhttps://github.com/ditzel/SimpleIK\n\nAnd of course ready to go on the asset store:\nhttps://assetstore.unity.com/packages/tools/animation/fast-ik-139972\n\nIf you want to know what you can do with it, i will recommend you the first part:\nhttps://youtu.be/SHplmEc6iv0 \n\nOn the time of this video release I will have my espousal. Wish me Luck!\n\nBecome a patreon: https://www.patreon.com/ditzelgames\n\n#ditzelgames #unity #gamedev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qqOAzn05fvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qqOAzn05fvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qqOAzn05fvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qqOAzn05fvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qqOAzn05fvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qqOAzn05fvk"
+        },
+        "videoOwnerChannelTitle": "DitzelGames",
+        "videoOwnerChannelId": "UCdedu-nAwMACE5WbVcmp3Bg"
+      },
+      "contentDetails": {
+        "videoId": "qqOAzn05fvk",
+        "videoPublishedAt": "2019-05-11T13:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GVjqLGyNMx66OL_aL7lVrbbkfqU",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-01-29T17:00:29Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Fixed, Spring, Hinge, Character & Configurable Joint explained - Unity Tutorial",
+        "description": "Timecodes:\n0:26 Scene Setup\n1:15 Fixed Joint\n3:33 Spring Joint\n6:54 Hinge Joint\n9:52 Character Joint\n11:55 Configurable Joint\n\nThis is a tutorial for unity, that I wanted to make a long time ago. I would really wish that there was a tutorial out there, when I first used joints. And to be honest I am not quite sure, why sometimes the physics have a litte bit off. But nevertheless I present you these joints.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MElbAwhMvTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MElbAwhMvTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MElbAwhMvTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MElbAwhMvTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MElbAwhMvTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MElbAwhMvTc"
+        },
+        "videoOwnerChannelTitle": "DitzelGames",
+        "videoOwnerChannelId": "UCdedu-nAwMACE5WbVcmp3Bg"
+      },
+      "contentDetails": {
+        "videoId": "MElbAwhMvTc",
+        "videoPublishedAt": "2018-07-22T12:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TQVIGc-U-IaNC1Swc3-Tv3wopuY",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-01-29T17:00:34Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity Physics Joint Tutorial: Spring Joint",
+        "description": "Spring Joint: https://docs.unity3d.com/Manual/class-SpringJoint.html\nSupport us on the Asset Store! https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:18530?aid=1101lHIq\nHuge thanks to my amazing Patrons!! https://www.patreon.com/nurfacegames",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3EkJfRbYFos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3EkJfRbYFos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3EkJfRbYFos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3EkJfRbYFos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3EkJfRbYFos/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3EkJfRbYFos"
+        },
+        "videoOwnerChannelTitle": "Ryan Zehm",
+        "videoOwnerChannelId": "UCBgdXsT-dD4eF5PQLrx23sQ"
+      },
+      "contentDetails": {
+        "videoId": "3EkJfRbYFos",
+        "videoPublishedAt": "2017-04-26T23:32:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pNTdxzx4spkMo7VIcSkGZBb71ew",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-01-29T17:00:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Spring Joint (Physics Joints)",
+        "description": "Bouncy Springy connected rigidbodies in Unity with the Spring Joint. \n\nHttp://www.Omarvision.com - Omarvision website \n- you can download video tutorial scripts. \n- search videos by keyword\n- if you live in Tampa and would like to host a Kids Coding event contact me on Omarvision.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6nZE9PIWEbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6nZE9PIWEbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6nZE9PIWEbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6nZE9PIWEbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6nZE9PIWEbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6nZE9PIWEbA"
+        },
+        "videoOwnerChannelTitle": "Omar Santiago",
+        "videoOwnerChannelId": "UCH7ZDDbkEptVLI9Nsl6z6-g"
+      },
+      "contentDetails": {
+        "videoId": "6nZE9PIWEbA",
+        "videoPublishedAt": "2020-01-11T03:16:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aP16pcZQZWiyMOzFyByD92RfOW4",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-01-29T17:01:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Softbody Physics using Springs (Unity 2020)",
+        "description": "Turn a mesh mushy with softbody physics. How can I make softbody physics in Unity using the things unity has built in?  I tried to make softbody using a rigged mesh and spring joints. Here is how it came out.\n\nSource Code:  https://github.com/omarvision/Softbody-Physics-Spring-Joint-/find/gh-pages\n\ngo to http://www.omarvision.com  to:\n- browse/search my entire video collection\n- download source and assets for tutorials\n- sign up for omarvision kids coding camps",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rR3miSZxR3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rR3miSZxR3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rR3miSZxR3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rR3miSZxR3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rR3miSZxR3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rR3miSZxR3k"
+        },
+        "videoOwnerChannelTitle": "Omar Santiago",
+        "videoOwnerChannelId": "UCH7ZDDbkEptVLI9Nsl6z6-g"
+      },
+      "contentDetails": {
+        "videoId": "rR3miSZxR3k",
+        "videoPublishedAt": "2020-09-28T02:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Besq6dZGfwZErJV_MStibNNKCxQ",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-01-29T17:01:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Spring Bones in Unity (Bouncing Hair) [2/2]",
+        "description": "Character hair / cloth physics setup using Spring Bone script in Unity. This allows different parts of the model (eg, hair, coat, long shirt or skirt) to simulate cloth-like or bouncing behavior when the character moves.\nThis is more of an introduction to the basic setup. \nWill dive deeper into advanced setup in future videos, eg. dealing with issues of character legs going through the cloth.\nSo stay tuned for more!\n\nThe Spring Bones script is a feature that is part of the Unity-Chan Toon Shader 2.0 package, which I am using for this project. Information on this shader (in English) can be found here:\nhttps://connect.unity.com/p/unity-chan-toon-shader-ver-2-0\n\nThis is the official website for Unity-Chan:\nhttp://unity-chan.com/\nAll credits of the shader goes to them.\n\nLink to Part 1:\nhttps://youtu.be/cX_y9xkRCOs\n\n#unity  #hairphysics #bouncinghair #springbone #game #gamedevelopement #gamecharacter",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ABLFXcSHodE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ABLFXcSHodE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ABLFXcSHodE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ABLFXcSHodE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ABLFXcSHodE"
+        },
+        "videoOwnerChannelTitle": "J.Heart Studio",
+        "videoOwnerChannelId": "UC_xTaOKBF3tYF5vRzjtnpRA"
+      },
+      "contentDetails": {
+        "videoId": "ABLFXcSHodE",
+        "videoPublishedAt": "2019-05-08T14:44:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Yz5m5t5E6Jqjfcf534Wv-ppJQA",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-01-29T17:01:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Use Parent Constraints not fixed joints! Tutorial how to set them up",
+        "description": "join my patreon https://www.patreon.com/Zer0VFX\nbooth pm assets https://darealzer0.booth.pm/\nprivate Discord https://discord.gg/JVTMAck\npublic market https://discord.gg/5fAXvjD 0:00 - Why use them:\n1:51 - How to set them up\n5:34 - Demonstration\n\njoin my patreon https://www.patreon.com/Zer0VR\nbooth pm assets https://darealzer0.booth.pm/\nprivate Discord https://discord.gg/JVTMAck\npublic market https://discord.gg/5fAXvjD\n\nDiscord: Zer0#9999",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yVfPA-0cqtY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yVfPA-0cqtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yVfPA-0cqtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yVfPA-0cqtY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yVfPA-0cqtY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yVfPA-0cqtY"
+        },
+        "videoOwnerChannelTitle": "Zer0 VFX",
+        "videoOwnerChannelId": "UC9qCZ2NOyHhIUU8efbZ8rOQ"
+      },
+      "contentDetails": {
+        "videoId": "yVfPA-0cqtY",
+        "videoPublishedAt": "2020-04-07T15:38:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iK2ia2QpEFYcjW3IqvYMhHObiQY",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-01-29T17:01:54Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The right way to do movement in Unity!",
+        "description": "Hey everyone,\nin this video, I show you the right way to do movement int Unity.\nI explain the difference between using the Transform and using the Rigidbody and why is the Rigidbody better.\n\nCorrection:\nInstead of\n new Vector3 (xMove, rb.velocity.y, zMove)*speed*Time.deltaTime \nwrite\n new Vector3 (xMove*speed, rb.velocity.y, zMove*speed)*Time.deltaTime\n\n\nwebsite:                      http://phi4physics.net/\ndownload my game: http://phi4physics.net/downloads/\n\ndiscord:                       https://discord.gg/sY3QxD7\n\n\n#unity\n#tutorial\n#movement\n#rigidbody\n#transform\n#2D movement\n#3D movement\n#Rigidbody vs Tranform",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ymXyCVVMvAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ymXyCVVMvAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ymXyCVVMvAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ymXyCVVMvAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ymXyCVVMvAg"
+        },
+        "videoOwnerChannelTitle": "Complex Dimensions",
+        "videoOwnerChannelId": "UCaj9czvdjg2uSKL9g_jUJww"
+      },
+      "contentDetails": {
+        "videoId": "ymXyCVVMvAg",
+        "videoPublishedAt": "2020-04-11T11:29:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LBaUqc0WakNuRsH2R9l-lC9l-bg",
+      "id": "UExJamhmbHVoTmQ5LUFIVkNhQ1NYSlVCMVp1cklfUGlhZC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-01-29T20:05:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Unity3D Physics - Rigidbodies, Colliders, Triggers",
+        "description": "Check out the Course: https://bit.ly/3i7lLtH\n\n-------\n\nWe'll learn about Unity3D physics for beginners, everything from rigidbodies and moving objects around, to bouncing and sliding.\n\nI'll show how to use triggers and collisions / colliders to interact with your game in code.  We'll use OnTriggerEnter and OnCollisionEnter in some example physics scenarios and use physics materials to make things bouncy.\n\nMore Info: https://unity3d.college/2019/10/14/unity3d-physics-rigidbodies-colliders-triggers-for-beginners/\n\nJoin the Group: http://unity3d.group\n\nPatreon: https://patreon/unity3dcollege",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dLYTwDQmjdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dLYTwDQmjdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dLYTwDQmjdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dLYTwDQmjdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-AHVCaCSXJUB1ZurI_Piad",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dLYTwDQmjdo"
+        },
+        "videoOwnerChannelTitle": "Jason Weimann",
+        "videoOwnerChannelId": "UCX_b3NNQN5bzExm-22-NVVg"
+      },
+      "contentDetails": {
+        "videoId": "dLYTwDQmjdo",
+        "videoPublishedAt": "2019-10-13T16:00:11Z"
+      }
+    }
+  ]
+}

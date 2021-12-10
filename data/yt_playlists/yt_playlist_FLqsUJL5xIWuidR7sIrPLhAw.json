@@ -1,50 +1,51 @@
 {
-  "_id": "PLIjhfluhNd98r3U5HIlP2yRhlFSJL3v6x",
-  "as_of": "2021-12-10 00:22:07.784411",
+  "_id": "FLqsUJL5xIWuidR7sIrPLhAw",
+  "as_of": "2021-12-10 00:21:41.763678",
   "playlist": {
     "kind": "youtube#playlist",
-    "etag": "YUnLhLmrRQCLJ0orB6XqzYf6LV0",
-    "id": "PLIjhfluhNd98r3U5HIlP2yRhlFSJL3v6x",
+    "etag": "ffDnMSqSAl_L9pP3J25qOPw73Xw",
+    "id": "FLqsUJL5xIWuidR7sIrPLhAw",
     "snippet": {
-      "publishedAt": "2021-11-25T16:38:52Z",
+      "publishedAt": "2012-03-17T15:27:14Z",
       "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
-      "title": "\ud83d\udee1\ufe0f Sparta",
+      "title": "\u2b50 Favorites",
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/default.jpg",
+          "url": "https://i.ytimg.com/vi/Bw9zSMsKcwk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Bw9zSMsKcwk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Bw9zSMsKcwk/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/Bw9zSMsKcwk/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Bw9zSMsKcwk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "channelTitle": "Donald Thompson",
+      "defaultLanguage": "en",
       "localized": {
-        "title": "\ud83d\udee1\ufe0f Sparta",
+        "title": "\u2b50 Favorites",
         "description": ""
       }
     },
     "contentDetails": {
-      "itemCount": 8
+      "itemCount": 57
     }
   }
 }

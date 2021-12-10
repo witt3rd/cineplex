@@ -1,0 +1,40 @@
+{
+  "_id": "PLIjhfluhNd9_spzQ_pDyWR0nmjV_w0cOW",
+  "as_of": "2021-12-10 00:22:07.784435",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "E82JH01ipziYk4YrWCDZcwsovnc",
+    "id": "PLIjhfluhNd9_spzQ_pDyWR0nmjV_w0cOW",
+    "snippet": {
+      "publishedAt": "2020-03-30T23:32:59Z",
+      "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+      "title": "Short Films",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SzoZXd9PG_E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SzoZXd9PG_E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SzoZXd9PG_E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Donald Thompson",
+      "localized": {
+        "title": "Short Films",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 1
+    }
+  }
+}

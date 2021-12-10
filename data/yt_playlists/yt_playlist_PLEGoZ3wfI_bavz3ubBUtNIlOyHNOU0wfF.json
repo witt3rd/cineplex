@@ -1,0 +1,40 @@
+{
+  "_id": "PLEGoZ3wfI_bavz3ubBUtNIlOyHNOU0wfF",
+  "as_of": "2021-12-10 00:39:48.521894",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "AlgEK6y-ZGM_Nmsl5llKGWzq_K0",
+    "id": "PLEGoZ3wfI_bavz3ubBUtNIlOyHNOU0wfF",
+    "snippet": {
+      "publishedAt": "2020-11-12T00:16:18Z",
+      "channelId": "UCUi88uijCmus3eP3aDOjpsQ",
+      "title": "Fun",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Movies & Clips [FREE]",
+      "localized": {
+        "title": "Fun",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 0
+    }
+  }
+}

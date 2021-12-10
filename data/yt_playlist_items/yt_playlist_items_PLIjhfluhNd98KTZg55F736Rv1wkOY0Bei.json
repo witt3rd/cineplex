@@ -1,0 +1,3300 @@
+{
+  "_id": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+  "as_of": "2021-12-10 00:21:55.862563",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ylpIBJ2KZkHGAU5r_Vv0vDqLuto",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:40:48Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Category Theory Foundations, Lecture 1",
+        "description": "Steve Awodey - Category Theory Foundations, Lecture 1, Oregon Programming Languages Summer School 2012, University of Oregon\n\nHomework excercises are available here: http://www.andrew.cmu.edu/user/awodey/SummerSchool/HW/\n\nTopics covered in this lecture:\nDefinition of a category\nExamples of categories (Set, Pos, Mon, Cat, others...)\nIsomorphisms\nConstructions (functors, product categories, arrow categories, slice categories)\nDuality (opposite category, co- vs contravariant functors)\nExamples of duality (functors into exponentials, representable functors)\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZKmodCApZwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZKmodCApZwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZKmodCApZwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZKmodCApZwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZKmodCApZwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZKmodCApZwk"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "ZKmodCApZwk",
+        "videoPublishedAt": "2013-11-22T16:06:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nx7l9ahptwvGOaplk1EH-nU3Dq0",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:40:52Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Category Theory Foundations, Lecture 2",
+        "description": "Steve Awodey - Category Theory Foundations, Lecture 2, Oregon Programming Languages Summer School 2012, University of Oregon\n\nHomework excercises are available here: http://www.andrew.cmu.edu/user/awodey/SummerSchool/HW/\n\nTopics covered in this lecture:\nUniversal Mapping Property\nProducts, Coproducts (Examples: in Set, poset-categories)\nExponentials (Examples: in Set, Pos)\nCartesian Closed Categories (lambda calculus, CCC-completeness)\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TQYjekxqw-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TQYjekxqw-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TQYjekxqw-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TQYjekxqw-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TQYjekxqw-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TQYjekxqw-Q"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "TQYjekxqw-Q",
+        "videoPublishedAt": "2013-11-22T17:07:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4d0Ng7mX5O_LAJ0WIkbMv1Pn07U",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:40:56Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Category Theory Foundations, Lecture 3",
+        "description": "Steve Awodey - Category Theory Foundations, Lecture 3, Oregon Programming Languages Summer School 2012, University of Oregon\n\nHomework excercises are available here: http://www.andrew.cmu.edu/user/awodey/SummerSchool/HW/\n\nTopics covered in this lecture:\nNaturality\nFunctor categories, presheaves (arrow categories, product categories, graphs)\nHom functors, Yoneda embedding, Yoneda lemma\nProofs using the Yoneda lemma\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOynNljjbeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOynNljjbeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOynNljjbeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOynNljjbeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOynNljjbeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BOynNljjbeg"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "BOynNljjbeg",
+        "videoPublishedAt": "2013-11-22T18:09:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nf1FQxZrzgMB6B8AwDK353MKNTw",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Category Theory Foundations, Lecture 4",
+        "description": "Steve Awodey - Category Theory Foundations, Lecture 4, Oregon Programming Languages Summer School 2012, University of Oregon\n\nHomework excercises are available here: http://www.andrew.cmu.edu/user/awodey/SummerSchool/HW/\n\nTopics covered in this lecture:\nPresheaves (\"variable sets\") are CCC\nCompleteness of lambda calculus wrt variable sets\nAdjoint functors\nExamples of adjoints (currying, product-duplication-coproduct)\nUnit, counit\nQuantifiers are adjoints\nComparison between provability and proof theory (type theory)\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8fZmdhLLgs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8fZmdhLLgs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8fZmdhLLgs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8fZmdhLLgs4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8fZmdhLLgs4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8fZmdhLLgs4"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "8fZmdhLLgs4",
+        "videoPublishedAt": "2013-11-22T19:09:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jW7JfmMm2QmPDtSr3jb0BAwOPLY",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:35:55Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Type Theory Foundations, Lecture 1",
+        "description": "Robert Harper - Type Theory Foundations, Lecture 1, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ev7AYsLljxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ev7AYsLljxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ev7AYsLljxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ev7AYsLljxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ev7AYsLljxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ev7AYsLljxk"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "ev7AYsLljxk",
+        "videoPublishedAt": "2013-12-08T02:59:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nUHsGYR0c7uOR2iycQD9DJhTzek",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Type Theory Foundations, Lecture 2",
+        "description": "Robert Harper - Type Theory Foundations, Lecture 2, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3JHTb6b1to8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3JHTb6b1to8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3JHTb6b1to8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3JHTb6b1to8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3JHTb6b1to8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3JHTb6b1to8"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "3JHTb6b1to8",
+        "videoPublishedAt": "2013-12-08T03:07:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BAUvMgDpsH-k4aZMB5s8KoLV1t8",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Type Theory Foundations, Lecture 3",
+        "description": "Robert Harper - Type Theory Foundations, Lecture 3, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wJLTE8rnqH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wJLTE8rnqH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wJLTE8rnqH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wJLTE8rnqH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wJLTE8rnqH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wJLTE8rnqH0"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "wJLTE8rnqH0",
+        "videoPublishedAt": "2013-12-08T03:29:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T5XH0b7m_YjbBvEelaZ_b9OOWoM",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:22Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Type Theory Foundations, Lecture 4",
+        "description": "Robert Harper - Type Theory Foundations, Lecture 4, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P6YUm_E6rRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P6YUm_E6rRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P6YUm_E6rRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P6YUm_E6rRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P6YUm_E6rRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P6YUm_E6rRA"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "P6YUm_E6rRA",
+        "videoPublishedAt": "2013-12-08T03:31:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GC_7xE99mgfU-Lfeg_Tvp4wAdJU",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:27Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Type Theory Foundations, Lecture 5",
+        "description": "Robert Harper - Type Theory Foundations, Lecture 5, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wnHp5F9RDPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wnHp5F9RDPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wnHp5F9RDPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wnHp5F9RDPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wnHp5F9RDPI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wnHp5F9RDPI"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "wnHp5F9RDPI",
+        "videoPublishedAt": "2013-12-08T03:45:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "beFDojNAkqUW9yQ9Ziz-bqCi8N0",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:31Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Type Theory Foundations, Lecture 6",
+        "description": "Robert Harper - Type Theory Foundations, Lecture 6, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glv3X4PfrEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glv3X4PfrEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glv3X4PfrEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/glv3X4PfrEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/glv3X4PfrEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "glv3X4PfrEc"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "glv3X4PfrEc",
+        "videoPublishedAt": "2013-12-08T04:01:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wSBaPSVYvpTTfs9bubD1YJlfrVk",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Proof Theory Foundations, Lecture 1",
+        "description": "Frank Pfenning - Proof Theory Foundations, Lecture 1, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YRu7Xi-mNK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YRu7Xi-mNK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YRu7Xi-mNK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YRu7Xi-mNK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YRu7Xi-mNK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YRu7Xi-mNK8"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "YRu7Xi-mNK8",
+        "videoPublishedAt": "2013-12-14T17:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k8JG2nXMcszmAWhTC4xEczvlq7c",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Proof Theory Foundations, Lecture 2",
+        "description": "Frank Pfenning - Proof Theory Foundations, Lecture 2, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JzIAEv8fN88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JzIAEv8fN88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzIAEv8fN88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JzIAEv8fN88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JzIAEv8fN88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JzIAEv8fN88"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "JzIAEv8fN88",
+        "videoPublishedAt": "2013-12-14T17:57:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gg6LgaeWNrv0L-VzVZtoDbVdwcg",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Proof Theory Foundations, Lecture 3",
+        "description": "Frank Pfenning - Proof Theory Foundations, Lecture 3, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nw0JAF79gYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nw0JAF79gYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nw0JAF79gYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nw0JAF79gYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nw0JAF79gYI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nw0JAF79gYI"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "nw0JAF79gYI",
+        "videoPublishedAt": "2013-12-14T18:23:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h4cFoSaT0zrGfMTaZEvBP4DR-vY",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:41:49Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Proof Theory Foundations, Lecture 4",
+        "description": "Frank Pfenning - Proof Theory Foundations, Lecture 4, Oregon Programming Languages Summer School 2012, University of Oregon\n\nFor more info about the summer school please visit http://www.cs.uoregon.edu/research/summerschool/summer12/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_XtflAEN6aA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_XtflAEN6aA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_XtflAEN6aA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_XtflAEN6aA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_XtflAEN6aA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_XtflAEN6aA"
+        },
+        "videoOwnerChannelTitle": "p473r",
+        "videoOwnerChannelId": "UCt87cC-VEII0WXoBuz8UPCA"
+      },
+      "contentDetails": {
+        "videoId": "_XtflAEN6aA",
+        "videoPublishedAt": "2013-12-14T19:08:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g7AA_WkmneTY524jp_g6vsQrPE4",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2021-10-25T01:58:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Steve Awodey: Mac Lane and Carnap's Logical Syntax of Language",
+        "description": "# Impact des categories : \n60 ans de theorie des Categories :\naspects historiques et philosophiques\n\nOctober 11, 2005\n\nCredits to L' Ecole Normale Superieur",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/alLgEf0uVkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/alLgEf0uVkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/alLgEf0uVkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "alLgEf0uVkg"
+        },
+        "videoOwnerChannelTitle": "Logic and Foundations of Mathematics",
+        "videoOwnerChannelId": "UCZom5b9qGTZMfSFxa3bo-EA"
+      },
+      "contentDetails": {
+        "videoId": "alLgEf0uVkg",
+        "videoPublishedAt": "2014-04-12T14:18:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jr1wvBp3rU0z-g8Nc9bw0ZHWLHw",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:15:54Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Lambda Jam 2014 - Gershom Bazerman - Homotopy Type Theory: What's the Big Idea #YOWLambdaJam",
+        "description": "Homotopy Type Theory (http://homotopytypetheory.org/) is a research program that brings together computer science (in the form of dependent type theory), logic, and algebraic topology in a single cohesive way. Its great insight is in systematizing the way in which these fields have all, in some sense been studying the \u201csame\u201d thing. From the standpoint of computer science, it consists of a new \u201cgeometric\u201d interpretation of dependent type theory in which we think of types as topological spaces, and also the addition of a single axiom, univalence, which makes the initially confusing claim that \u201cequivalence is equivalent to equality.\u201d The implications of this work will take years before they affect the development of compilers and languages directly. However, the concepts and insights already can help us change the way in which we think about programming, and provide an avenue for programmers familiar with some type theory to discover that in some sense, they \u201calready\u201d knew more about homotopy theory than they imagined.\n\nThis talk will be very high level, spelling out the basic idea of the homotopy interpretation, as well as providing a way to concretely think about univalence in the context of Haskell. It will also spend some time discussing infinity-groupoids, why they are far more straightforward than their name implies, and why they turn out to be so important.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OupcXmLER7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OupcXmLER7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OupcXmLER7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OupcXmLER7I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OupcXmLER7I"
+        },
+        "videoOwnerChannelTitle": "Skills Matter (formerly YOW! Conferences)",
+        "videoOwnerChannelId": "UCAvGvvEemkeX8hurdPXr7hA"
+      },
+      "contentDetails": {
+        "videoId": "OupcXmLER7I",
+        "videoPublishedAt": "2014-09-13T13:58:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XP70OutcMa-O4aiEl72jkFu4cy0",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:36:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "LambdaConf 2015 - Introduction to Intuitionistic Type Theory   Vlad Patryshev",
+        "description": "Traditionally, in Computer Science, sets are assumed to be the basis of a type theory, together with Boolean logic. In this version of type theory, we do not need sets or Boolean logic; intuitionism is enough (\"no principle of excluded middle required\"). The underlying math is Topos Theory, but you are not required to be even aware of its existence. The theory is described using diagrams, not the traditional (and tricky) deduction rules. The resulting theory turns out to have dependent types. A simple \"real-life\" example or two will illustrate all this.\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/HcNK/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7gtSGxJ6Lm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7gtSGxJ6Lm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7gtSGxJ6Lm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7gtSGxJ6Lm8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7gtSGxJ6Lm8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7gtSGxJ6Lm8"
+        },
+        "videoOwnerChannelTitle": "Confreaks",
+        "videoOwnerChannelId": "UCWnPjmqvljcafA0z2U1fwKQ"
+      },
+      "contentDetails": {
+        "videoId": "7gtSGxJ6Lm8",
+        "videoPublishedAt": "2015-12-31T20:22:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yfnwNBSFuUev1csPItzFu6HQVw8",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:35:33Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "LambdaConf 2015 - Type Theory and its Meaning Explanations   Jon Sterling",
+        "description": "At the heart of intuitionistic type theory lies an intuitive semantics called the \u201cmeaning explanations.\" Crucially, when meaning explanations are taken as definitive for type theory, the core notion is no longer \u201cproof\u201d but \u201cverification\u201d. We\u2019ll explore how type theories of this sort arise naturally as enrichments of logical theories with further judgements, and contrast this with modern proof-theoretic type theories which interpret the judgements and proofs of logics, not their propositions and verifications. Expect the following questions to be answered: What is the difference between a judgement and a proposition? What is a meaning explanation? What is the difference between a proof and a verification? The so-called semantical approach to type theory is, in the speaker's view, more immediately philosophically acceptable than the modern syntactic one, and also provides a basis for a future where partiality and other effects may be treated naturally through refinement and behavioral typing, rather than by means of term-level monads and similar kludges.\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/HdB2/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xMAqniX2Paw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xMAqniX2Paw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xMAqniX2Paw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xMAqniX2Paw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xMAqniX2Paw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xMAqniX2Paw"
+        },
+        "videoOwnerChannelTitle": "Confreaks",
+        "videoOwnerChannelId": "UCWnPjmqvljcafA0z2U1fwKQ"
+      },
+      "contentDetails": {
+        "videoId": "xMAqniX2Paw",
+        "videoPublishedAt": "2016-01-04T17:09:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8mpNhMQqRLsQdxpJCs_iYItoRhQ",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:15:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "A working (class) introduction to Homotopy Type Theory: The favourite type theory of the proletariat",
+        "description": "Slides: https://docs.google.com/presentation/d/1D1JJQpR3GxVR6vw25SMhfCrcJ10iBrG8Iuk5_hKpGdY/edit?usp=sharing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xv6SwPn1dIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xv6SwPn1dIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xv6SwPn1dIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xv6SwPn1dIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xv6SwPn1dIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xv6SwPn1dIc"
+        },
+        "videoOwnerChannelTitle": "Sophie Taylor",
+        "videoOwnerChannelId": "UC51S1-dYKA5yXSYFCJbGopQ"
+      },
+      "contentDetails": {
+        "videoId": "xv6SwPn1dIc",
+        "videoPublishedAt": "2016-05-31T03:34:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-5Pig8Aqs6C3R_PSFENRLtBYcgo",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:18:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Homotopy Type Theory: what can logic do for homotopy theory? - Peter Lumsdaine",
+        "description": "Peter Lumsdaine\nHomotopy Type Theory: what can logic do for homotopy theory? \nInstitute for Advanced Study; Member, School of Mathematics\nOctober 4, 2013\n\nFor more videos, visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lONYo8DpAgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lONYo8DpAgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lONYo8DpAgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lONYo8DpAgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lONYo8DpAgg"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "lONYo8DpAgg",
+        "videoPublishedAt": "2016-08-11T13:55:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SFDSMm7jBvJNz2-l056GQ-OwJJk",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-10-23T08:36:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Homotopy Group - (1)Dan Licata, (2)Guillaume Brunerie, (3)Peter Lumsdaine",
+        "description": "(1)Carnegie Mellon Univ.; Member, School of Math, (2)School of Math., IAS, (3)Dalhousie Univ.; Member, School of Math\nApril 11, 2013\nIn this general survey talk, we will describe an approach to doing homotopy theory within Univalent Foundations. Whereas classical homotopy theory may be described as \"analytic\", our approach is synthetic in the sense that, in ``homotopy type theory\", homotopical concepts such as points, paths, and homotopies are basic notions. This term, we have used this synthetic approach to give computer-checked proofs of a number of basic theorems of homotopy theory, and we will discuss examples such as homotopy groups of spheres, the Hopf fibration, and the Freudenthal Suspension theorem. Another interesting aspect of the synthetic approach is that it has led to new proofs of these results, which are often shorter and more abstract than the classical proofs, and can be applied in settings other than topological spaces, such as Quillen model categories and oo-topoi. The talk presumes no prior knowledge of homotopy type theory, and is intended for a general mathematical audience.\n\nFor more videos, visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJJ7NhkySXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJJ7NhkySXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJJ7NhkySXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fJJ7NhkySXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fJJ7NhkySXM"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "fJJ7NhkySXM",
+        "videoPublishedAt": "2016-08-12T16:22:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1dEvkV9223Qv7b_KqgrC1REKuHs",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-10-22T05:54:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Five Stages of Accepting Constructive Mathematics - Andrej Bauer",
+        "description": "Andrej Bauer\nUniversity of Ljubljana, Slovenia; Member, School of Mathematics\nMarch 18, 2013\nDiscussions about constructive mathematics are usually derailed by philosophical opinions and meta-mathematics. But how does it actually feel to do constructive mathematics? A famous mathematician wrote that \"taking the principle of excluded middle from the mathematician would be the same, say, as proscribing the telescope to the astronomer or to the boxer the use of his fists.\" Was he right? In this talk we shall visit the astounding worlds of constructive mathematics. As tourists from the classical world we will at first be shocked by the bizarre and unfamiliar phenomena, but hopefully also left curious about the new possibilities and dimensions of mathematics that the classical dogma declares heretical or even non-existent.\n\nFor more videos, visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/21qPOReu4FI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/21qPOReu4FI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/21qPOReu4FI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/21qPOReu4FI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "21qPOReu4FI"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "21qPOReu4FI",
+        "videoPublishedAt": "2016-08-16T13:22:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j9SdJYIjItriMYJW3ivjYhAlPpY",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4xM0YyM0RDNDE4REQ1NDA0",
+      "snippet": {
+        "publishedAt": "2021-11-04T10:06:57Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Eilenberg-Mac Lane Spaces in HoTT - Daniel Licata",
+        "description": "Daniel Licata\nCarnegie Mellon University; Member, School of Mathematics\nMarch 13, 2013",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hgGDrwJxGmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hgGDrwJxGmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hgGDrwJxGmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hgGDrwJxGmw"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "hgGDrwJxGmw",
+        "videoPublishedAt": "2016-08-16T14:23:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3lwcYZaQt09Gwsw-MXcR7APepbU",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-10-23T07:57:41Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Univalent Foundations Seminar - Steve Awodey",
+        "description": "Steve Awodey\nCarnegie Mellon University; Member, School of Mathematics\nNovember 19, 2012\n\nFor more videos, visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ogoWR-LPgl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ogoWR-LPgl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ogoWR-LPgl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ogoWR-LPgl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ogoWR-LPgl8"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "ogoWR-LPgl8",
+        "videoPublishedAt": "2016-08-17T16:22:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zruylYP9P8ZkLHPac_yH2zGVBNk",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2021-10-25T02:06:12Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Toward a Computational Interpretation of Univalence - Daniel Licata",
+        "description": "Daniel Licata\nCarnegie Mellon University; Member, School of Mathematics \nOctober 18, 2012\n\nFor more videos, visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2IjqH-4G_eQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2IjqH-4G_eQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2IjqH-4G_eQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2IjqH-4G_eQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2IjqH-4G_eQ"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "2IjqH-4G_eQ",
+        "videoPublishedAt": "2016-08-18T12:40:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yIn7EY_J-uzY0ATOfI4kcuuoz0E",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:16:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Univalent Foundations of Mathematics - Vladimir Voevodsky",
+        "description": "Univalent Foundations of Mathematics - \nVladimir Voevodsky\nInstitute for Advanced Study\nDecember 10, 2010\n\nThe correspondence between homotopy types and higher categorical analogs of groupoids which was first conjectured by Alexander Grothendieck naturally leads to a view of mathematics where sets are used to parametrize collections of objects without \"internal structure\" while collections of objects with \"internal structure\" are parametrized by more general homotopy types. Univalent Foundations are based on the combination of this view with the discovery that it is possible to directly formalize reasoning about homotopy types using Martin-Lof type theories.\n\nIn this talk I will explain how to define usual mathematical objects starting with homotopy types instead of sets and show how to use Coq to reason about homotopy types.\n\nFor more videos, visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9f4pS9s-X2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9f4pS9s-X2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9f4pS9s-X2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9f4pS9s-X2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9f4pS9s-X2A"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "9f4pS9s-X2A",
+        "videoPublishedAt": "2016-08-30T14:54:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3KTkpGt0WxG5_wbNVg71uvIhjiI",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:16:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Constructive Type Theory and Homotopy - Steve Awodey",
+        "description": "Steve Awodey\nInstitute for Advanced Study\nDecember 3, 2010\n\nIn recent research it has become clear that there are fascinating connections between constructive mathematics, especially as formulated in the type theory of Martin-L\u00f6f, and homotopy theory, especially in the modern treatment in terms of Quillen model categories and higher-dimensional categories. This talk will survey some of these developments.\n\nFor more videos, visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CghfgqnOGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CghfgqnOGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CghfgqnOGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CghfgqnOGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4CghfgqnOGQ"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "4CghfgqnOGQ",
+        "videoPublishedAt": "2016-08-30T15:27:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hv5Jm9BzJgIKSmO_SLA-caf0dn8",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:15:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "3 01  A Functional Programmer's Guide to Homotopy Type Theory",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/caSOTjr1z18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/caSOTjr1z18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/caSOTjr1z18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "caSOTjr1z18"
+        },
+        "videoOwnerChannelTitle": "ICFP Video",
+        "videoOwnerChannelId": "UCwRL68qZFfub1Ep1EScfmBw"
+      },
+      "contentDetails": {
+        "videoId": "caSOTjr1z18",
+        "videoPublishedAt": "2016-10-04T04:33:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "npoeHax8tJd26RvPPEdRqow_o8M",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:16:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Computer Science \u2229 Mathematics (Type Theory) - Computerphile",
+        "description": "As computers are used more and more to confirm proofs, is it time to take computer science's contribution to mathematics further? Dr Thorsten Altenkirch discusses Type Theory vs Set Theory.\n\nA Longer version of this interview can be found here: https://youtu.be/ZDEHf1wR7VA \nEXTRA BITS: https://youtu.be/ex_g4zectTQ \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qT8NyyRgLDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qT8NyyRgLDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qT8NyyRgLDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qT8NyyRgLDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qT8NyyRgLDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qT8NyyRgLDQ"
+        },
+        "videoOwnerChannelTitle": "Computerphile",
+        "videoOwnerChannelId": "UC9-y-6csu5WGm29I7JiwpnA"
+      },
+      "contentDetails": {
+        "videoId": "qT8NyyRgLDQ",
+        "videoPublishedAt": "2017-01-11T17:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-tyf9ODTyo-aHlANRS4hu3HwXFE",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:36:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Notes on Type Theory for beginners",
+        "description": "Hanneli Tavante, Codeminer 42",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJ-yQEfvdVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJ-yQEfvdVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJ-yQEfvdVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AJ-yQEfvdVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AJ-yQEfvdVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AJ-yQEfvdVc"
+        },
+        "videoOwnerChannelTitle": "Jfokus",
+        "videoOwnerChannelId": "UCDG4jVD88QEjB8UKLYZKiNA"
+      },
+      "contentDetails": {
+        "videoId": "AJ-yQEfvdVc",
+        "videoPublishedAt": "2017-03-23T22:39:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gp9EmNJ5BcpRPvsbmVyz7IIPkWk",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:18:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Does HoTT Provide a Foundation for Mathematics? by James Ladyman (University of Bristol, UK)",
+        "description": "Talk at: FOMUS 2016. For all Talks and more information, slides etc. see: http://fomus.weebly.com/\n\nDoes HoTT Provide a Foundation for Mathematics? by James Ladyman (University of Bristol, UK)\n\nAbstract: Homotopy Type Theory (HoTT) is a putative new foundation for mathematics grounded in constructive intensional type theory, that offers an alternative to the foundations provided by ZFC set theory and category theory.  This paper explains and motivates an account of how to define, justify and think about HoTT in a way that is self-contained, and argues that so construed it is a candidate for being an autonomous foundation for mathematics.  We first consider various questions that a foundation for mathematics might be expected to answer, and find that the standard formulation of HoTT as presented in the `HoTT Book' does not answer many of them.  More importantly, the presentation of HoTT given in the HoTT Book is not 'autonomous' since it explicitly depends upon other fields of mathematics. In particular, an important rule for the treatment of identity in HoTT is path induction, which is commonly explained by appeal to the homotopy interpretation of the theory\u2019s types, tokens, and identities as (respectively) spaces, points, and paths. However, if HoTT is to be an autonomous foundation then such an interpretation cannot play a fundamental role. We offer a derivation of path induction, motivated from pre-mathematical considerations, without recourse to homotopy theory.  We use this as part of an alternative presentation of HoTT that does not depend upon ideas from other parts of mathematics, and in particular makes no reference to homotopy theory (but is compatible with the homotopy interpretation), and argue that it is a candidate autonomous foundation for mathematics.  Our elaboration of HoTT is based on an interpretation of types as mathematical concepts, which accords with the intensional nature of the type theory.\n\n\nThis workshop was organised with the generous support of the Association for Symbolic Logic (ASL), the Association of German Mathematicians (DMV), the Berlin Mathematical School (BMS), the Center of Interdisciplinary Research (ZiF), the Deutsche Vereinigung f\u00fcr Mathematische Logik und f\u00fcr Grundlagenforschung der Exakten Wissenschaften (DVMLG), the German Academic Merit Foundation (Stipendiaten machen Programm), the Fachbereich Grundlagen der Informatik of the German Informatics Society (GI) and the German Society for Analytic Philosophy (GAP).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cZsSzbNKCMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cZsSzbNKCMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cZsSzbNKCMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cZsSzbNKCMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cZsSzbNKCMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cZsSzbNKCMM"
+        },
+        "videoOwnerChannelTitle": "FOMUS 2016",
+        "videoOwnerChannelId": "UCKaadwPtdsKwsWTLZ8GGxCA"
+      },
+      "contentDetails": {
+        "videoId": "cZsSzbNKCMM",
+        "videoPublishedAt": "2017-04-02T09:18:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iB_88r0ZFwSqul51ioCVVfSWwR8",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:24:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Na\u00efve Type Theory by Thorsten Altenkirch (University of Nottingham, UK)",
+        "description": "Talk at: FOMUS 2016. For all Talks and more information, slides etc. see: http://fomus.weebly.com/\n\nNa\u00efve Type Theory by Thorsten Altenkirch (University of Nottingham, UK) \n\nAbstract: In this course we introduce Type Theory (sometimes called \"dependent type theory\") as an informal language for mathematical constructions in Computer Science and other disciplines. By Type Theory we mean the constructive foundation of Mathematics whose development was started by Per Martin-Loef in the 1970ies based on the Curry-Howard equivalence of propositions and types. Because of this proximity to Computer Science, Type Theory has been the foundation of interactive theorem provers and programming languages such as NuPRL, Coq, Agda and Idris. While the calculi on which these systems are based are an important research topic, in this course we want to emphasise the \"naive\" use of Type Theory using just pen and paper. Indeed this is similar to the naive use of set theory which is usually applied informally without explicitly relating each constructions to the axioms of set theory (as in Halmos' book on \"Naive Set Theory\").\n\nIn this course we focus on the intuitive foundations of Type Theory and on basic constructions such as: universes, (dependent) function types, (dependent) products, inductive types and equality and their use in informal reasoning. If time permits we will also cover basic constructions from Homotopy Type Theory, such as the univalence axiom (isomorphism is equality), and some Higher Inductive Types (a generalisation of quotient types). A good reference for our course is chapter 1 of the book on Homotopy Type Theory (available here: https://homotopytypetheory.org/book/).\n\nThis workshop was organised with the generous support of the Association for Symbolic Logic (ASL), the Association of German Mathematicians (DMV), the Berlin Mathematical School (BMS), the Center of Interdisciplinary Research (ZiF), the Deutsche Vereinigung f\u00fcr Mathematische Logik und f\u00fcr Grundlagenforschung der Exakten Wissenschaften (DVMLG), the German Academic Merit Foundation (Stipendiaten machen Programm), the Fachbereich Grundlagen der Informatik of the German Informatics Society (GI) and the German Society for Analytic Philosophy (GAP).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bNG53SA4n48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bNG53SA4n48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bNG53SA4n48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bNG53SA4n48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bNG53SA4n48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bNG53SA4n48"
+        },
+        "videoOwnerChannelTitle": "FOMUS 2016",
+        "videoOwnerChannelId": "UCKaadwPtdsKwsWTLZ8GGxCA"
+      },
+      "contentDetails": {
+        "videoId": "bNG53SA4n48",
+        "videoPublishedAt": "2017-04-02T09:18:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Z4qK5zkCzV1nrAXYgVTZwKKl8g",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:17:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Homotopy Theory in Type Theory \"Homotopy Group\"-  Licata,  Brunerie,  Lumsdaine",
+        "description": "April 11, 2013\n\nIn this general survey talk, we will describe an approach to doing homotopy theory within Univalent Foundations. Whereas classical homotopy theory may be described as \"analytic\", our approach is synthetic in the sense that, in ``homotopy type theory\", homotopical concepts such as points, paths, and homotopies are basic notions. This term, we have used this synthetic approach to give computer-checked proofs of a number of basic theorems of homotopy theory, and we will discuss examples such as homotopy groups of spheres, the Hopf fibration, and the Freudenthal Suspension theorem. Another interesting aspect of the synthetic approach is that it has led to new proofs of these results, which are often shorter and more abstract than the classical proofs, and can be applied in settings other than topological spaces, such as Quillen model categories and oo-topoi. The talk presumes no prior knowledge of homotopy type theory, and is intended for a general mathematical audience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CPlPS7a9wro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CPlPS7a9wro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CPlPS7a9wro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CPlPS7a9wro"
+        },
+        "videoOwnerChannelTitle": "xuan-gottfried YANG",
+        "videoOwnerChannelId": "UC-gJF-sb0NKKOZGBnoT2r-Q"
+      },
+      "contentDetails": {
+        "videoId": "CPlPS7a9wro",
+        "videoPublishedAt": "2017-07-07T07:50:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xVhj6L-ssCgff8Cvyv4AnLw14zo",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:15:50Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Homotopy Type Theory: Vladimir Voevodsky  - Computerphile",
+        "description": "Voevodsky took his knowledge of abstract geometry and applied it to Computer Science, then took Computer Science principles and applied them to Mathematics. Professor Thorsten Altenkirch remembers him.\n\nMore on Homotopy Type Theory: https://youtu.be/Ft8R3-kPDdk \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v5a5BYZwRx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v5a5BYZwRx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v5a5BYZwRx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v5a5BYZwRx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v5a5BYZwRx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v5a5BYZwRx8"
+        },
+        "videoOwnerChannelTitle": "Computerphile",
+        "videoOwnerChannelId": "UC9-y-6csu5WGm29I7JiwpnA"
+      },
+      "contentDetails": {
+        "videoId": "v5a5BYZwRx8",
+        "videoPublishedAt": "2017-10-06T14:12:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0YR2KZRVDQYKSYCjWpfLOsl0juQ",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:15:39Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Homotopy Type Theory Discussed - Computerphile",
+        "description": "Discussing Homotopy Type Theory with Professor Thorsten Altenkirch.\n\nMain Vladimir Voevodsky Video: https://youtu.be/v5a5BYZwRx8 \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ft8R3-kPDdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ft8R3-kPDdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ft8R3-kPDdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ft8R3-kPDdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ft8R3-kPDdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ft8R3-kPDdk"
+        },
+        "videoOwnerChannelTitle": "Computerphile",
+        "videoOwnerChannelId": "UC9-y-6csu5WGm29I7JiwpnA"
+      },
+      "contentDetails": {
+        "videoId": "Ft8R3-kPDdk",
+        "videoPublishedAt": "2017-10-13T15:41:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3sS5oLQY3fMH6e_QPtAwHm77mqs",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:18:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Clive Newstead: Algebraic models of dependent type theory",
+        "description": "HoTT MURI meeting\nSaturday 24th March 2018\nCarnegie Mellon University\nSlides: http://math.cmu.edu/~cnewstea/talks/20180324.pdf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q_XPKhCVrqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q_XPKhCVrqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q_XPKhCVrqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q_XPKhCVrqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q_XPKhCVrqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q_XPKhCVrqo"
+        },
+        "videoOwnerChannelTitle": "cwnewstead",
+        "videoOwnerChannelId": "UCb2vq15-8P0RGqW5isLaFww"
+      },
+      "contentDetails": {
+        "videoId": "q_XPKhCVrqo",
+        "videoPublishedAt": "2018-03-24T18:22:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lCOez61r7247Q4F0ydGWn_i_z7Y",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:18:16Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Thorsten Altenkirch, Towards higher models and syntax of type theory",
+        "description": "Homotopy Type Theory Electronic Seminar Talks, 2018-05-10\n\nWe (Ambrus Kaposi and myself) have defined the intrisic (no preterms) syntax of type theory in type theory using quotient inductive inductive types, that is set truncated higher inductive inductive types. Set truncation is necessary because we want to have decidability which we established using normalisation by evaluation. However, this stops us from defining any interesting semantic models, e.g. interpreting contexts as sets, types as families etc, because sets do not from a set (not for size reason but dimension). I suggest that we can overcome this problem by defining higher models of type theory and a higher syntax. I envisage that the higher syntax does form a set without being explicitely truncated, hence decability should still hold. In my talk I will describe the first steps towards this programme.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UgNYKxZKzsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UgNYKxZKzsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UgNYKxZKzsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UgNYKxZKzsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UgNYKxZKzsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UgNYKxZKzsk"
+        },
+        "videoOwnerChannelTitle": "HoTTEST",
+        "videoOwnerChannelId": "UC-9jDbJ-HegCFuWuam1SfvQ"
+      },
+      "contentDetails": {
+        "videoId": "UgNYKxZKzsk",
+        "videoPublishedAt": "2018-05-11T01:18:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "489KekGNbJUrEzjlbbhAHc7fzUk",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:23:49Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Functional Programming: Type Systems",
+        "description": "What comes to your mind when you hear the word \"type\"? Do you think of an integer or string? Do you think of an object type from your favorite OOP language? Do you think about never ending religious debates regarding static vs dynamic types? Do you realize that these things hardly scratch the surface of what it means to be a \"type\"? Be prepared to understand types on a whole new level. \n\nIn this talk, we will explore type systems. What is a type system? Why are type systems important? How have type systems been influenced by functional programming, category theory, and type theory? We will talk about variance, polymorphisms, higher-kinded types, existential types, algebraic data types, and type classes. \n\nWe will scratch the surface of type theory and learn how logic systems have influenced programming language design.\n\nEVENT:\n\nTechlahoma Events 2018\n\nSPEAKER:\n\nJordan Parmer\n\nPERMISSIONS:\n\nTechlahoma Events Organizer as well as Jordan Parmer provided Coding Tech with the permissions to republish this video.\n\nCREDITS:\n\nOriginal video source: https://www.youtube.com/watch?v=jsGhJ2pKKYY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hy1wjkcIBCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hy1wjkcIBCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hy1wjkcIBCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hy1wjkcIBCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hy1wjkcIBCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hy1wjkcIBCU"
+        },
+        "videoOwnerChannelTitle": "Coding Tech",
+        "videoOwnerChannelId": "UCtxCXg-UvSnTKPOzLH4wJaQ"
+      },
+      "contentDetails": {
+        "videoId": "hy1wjkcIBCU",
+        "videoPublishedAt": "2018-07-06T19:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BumF5exqV7Vjm0ugF96p224HGRk",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:24:05Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Computational Type Theory [1/5] - Robert Harper - OPLSS 2018",
+        "description": "Oregon Programming Languages Summer School\nParallelism and Concurrency\nJuly 3-21, 2018\nUniversity of Oregon\nhttps://www.cs.uoregon.edu/research/summerschool/summer18/\n\nTitle: Computational Type Theory [1/5]\nSpeaker: Robert Harper, Carnegie Mellon University\nDate: Monday, 16 July 2018, Session 1\n\nTopics:\n\n  - fundamental premise of constructivism\n  - type theory as basis for all mathematics\n  - type theory as a programming language\n  - theory of truth vs. theory of formal proof\n  - deterministic operational semantics\n  - abstract syntax with binding, scope, and substitution\n  - forms of expression\n  - judgment forms: values and transition rules\n  - derived notion\n  - binary decision diagrams\n  - types are specifications of program behavior\n  - judgments as forms of expression\n  - algorithms as communication\n  - behavioral vs. structural expressions\n  - types and values are programs\n  - families of types\n  - type-indexed families of types (a.k.a., dependent types)\n  - hypothetical/general judgments\n  - functionality: respecting equality of indices\n  - what is equality of types?\n  - equi-satisfaction\n  - preview of higher-dimensional/cubical type theory\n  - meanings of judgments, a.k.a., meaning explanations, a.k.a., computational semantics\n  - equality of canonical types, a.k.a., type-values\n  - head expansion lemma, a.k.a., reverse execution\n\n\u00a9 2018, University of Oregon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LE0SSLizYUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LE0SSLizYUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LE0SSLizYUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LE0SSLizYUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LE0SSLizYUI"
+        },
+        "videoOwnerChannelTitle": "OPLSS",
+        "videoOwnerChannelId": "UCDe6N9R7U-RYWA57wzJQ2SQ"
+      },
+      "contentDetails": {
+        "videoId": "LE0SSLizYUI",
+        "videoPublishedAt": "2018-08-01T21:11:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VVcSbvWRWxILKMruSSEDWt97W30",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:24:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Computational Type Theory [5/5] - Robert Harper - OPLSS 2018",
+        "description": "Oregon Programming Languages Summer School\nParallelism and Concurrency\nJuly 3-21, 2018\nUniversity of Oregon\nhttps://www.cs.uoregon.edu/research/summerschool/summer18/\n\nTitle: Computational Type Theory [5/5]\nSpeaker: Robert Harper, Carnegie Mellon University\nDate: Saturday, 21 July 2018, Session 4\n\nTopics: type theory\n\n\u00a9 2018, University of Oregon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RhDuRmg-SdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RhDuRmg-SdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RhDuRmg-SdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RhDuRmg-SdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RhDuRmg-SdA"
+        },
+        "videoOwnerChannelTitle": "OPLSS",
+        "videoOwnerChannelId": "UCDe6N9R7U-RYWA57wzJQ2SQ"
+      },
+      "contentDetails": {
+        "videoId": "RhDuRmg-SdA",
+        "videoPublishedAt": "2018-08-02T21:26:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FRPXxUokHGmbWAlQmHMKbFCOFKc",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5ERkUyQTM0MzEwQjZCMTY5",
+      "snippet": {
+        "publishedAt": "2021-11-01T09:15:29Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Univalence from a computer science point-of-view - Dan Licata",
+        "description": "Vladimir Voevodsky Memorial Conference\n\nTopic: Univalence from a computer science point-of-view\nSpeaker: Dan Licata\nAffiliation:  Wesleyan University\nDate: September 14, 2018\n\nFor more video please visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j5RIZAzooAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j5RIZAzooAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j5RIZAzooAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j5RIZAzooAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j5RIZAzooAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j5RIZAzooAg"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "j5RIZAzooAg",
+        "videoPublishedAt": "2018-09-14T15:01:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fU7gyZMM96WuQTD0t5YYOiR9XXA",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-01-20T18:54:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "On Voevodsky's univalence principle - Andr\u00e9 Joyal",
+        "description": "Vladimir Voevodsky Memorial Conference\n\nTopic: On Voevodsky's univalence principle\nSpeaker: Andr\u00e9 Joyal\nAffiliation: Universit\u00e9 du Qu\u00e9bec \u00e1 Montr\u00e9al\nDate: September 11, 2018\n\nFor more video please visit http://video.ias.edu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HRBShaxIblI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HRBShaxIblI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HRBShaxIblI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HRBShaxIblI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HRBShaxIblI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HRBShaxIblI"
+        },
+        "videoOwnerChannelTitle": "Institute for Advanced Study",
+        "videoOwnerChannelId": "UC8aRaZ6_0weiS50pvCmo0pw"
+      },
+      "contentDetails": {
+        "videoId": "HRBShaxIblI",
+        "videoPublishedAt": "2018-09-26T14:23:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iD4GzK3VA37W3hjydwSYRscBC00",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:18:33Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Carlo Angiuli, Computational semantics of Cartesian cubical type theory",
+        "description": "Homotopy Type Theory Electronic Seminar Talks, 2018-03-15\n\nDependent types are simultaneously a theory of constructive mathematics and a theory of computer programming: a proof of a proposition is at the same time a program that executes according to a specification. Homotopy type theory reveals a third aspect of dependent types, namely their role as an extensible formalism for reasoning synthetically about objects with homotopical structure.  Unfortunately, axiomatic formulations of univalence and higher inductive types disrupt the computational character of type theory, which pivots on a property called canonicity.\n\nI will discuss Cartesian cubical type theory, a univalent type theory in which the canonicity property holds, based on a judgmental notion of cubes with diagonals, faces, and degeneracies, and uniform Kan operations that compute according to their types. I will consider it primarily through the lens of its computational semantics, defined using a cubical generalization of the technique of logical relations, which licenses reading proofs as programs.\n\nThis talk is based on joint work with Favonia and Robert Harper, described in arXiv:1712.01800. Some familiarity with the syntax and rules of type theory will be very helpful; I will not assume knowledge about computational semantics or logical relations.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3iKwq9iRHWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3iKwq9iRHWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3iKwq9iRHWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3iKwq9iRHWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3iKwq9iRHWk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3iKwq9iRHWk"
+        },
+        "videoOwnerChannelTitle": "HoTTEST",
+        "videoOwnerChannelId": "UC-9jDbJ-HegCFuWuam1SfvQ"
+      },
+      "contentDetails": {
+        "videoId": "3iKwq9iRHWk",
+        "videoPublishedAt": "2018-09-27T17:26:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8esB6uuhCZa0N8WYZh8tFuGzGM0",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:18:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Emily Riehl, The synthetic theory of \u221e-categories vs the synthetic theory of \u221e-categories",
+        "description": "Homotopy Type Theory Electronic Seminar Talks, 2018-03-01\n\nHomotopy type theory provides a \u201csynthetic\u201d framework that is suitable for developing the theory of mathematical objects with natively homotopical content. A famous example is given by (\u221e,1)-categories \u2014 aka \u201c\u221e-categories\u201d \u2014 which are categories given by a collection of objects, a homotopy type of arrows between each pair, and a weak composition law. In this talk we\u2019ll compare two \u201csynthetic\u201d developments of the theory of \u221e-categories \u2014 the first (joint with Verity) using 2-category theory and the second (joint with Shulman) using a simplicial augmentation of homotopy type theory due to Shulman \u2014 by considering in parallel their treatment of the theory of adjunctions between \u221e-categories. Afterwards, I hope to launch a discussion about what considerations might motivate the use of homotopy type theory in place of classical approaches to prove theorems in similar settings.\n\nIdeal background: some familiarity with notions of a (ordinary strict 1-)category, functor, natural transformation, and the definition of an adjunction involving a unit and a counit (just look these up on wikipedia). Plus standard type theory syntax and the intuitions from the Curry-Howard-Voevodsky correspondence. I\u2019ll be talking about (\u221e,1)-categories but won\u2019t assume familiarity with them.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ge-9m1SsEmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ge-9m1SsEmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ge-9m1SsEmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ge-9m1SsEmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ge-9m1SsEmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ge-9m1SsEmc"
+        },
+        "videoOwnerChannelTitle": "HoTTEST",
+        "videoOwnerChannelId": "UC-9jDbJ-HegCFuWuam1SfvQ"
+      },
+      "contentDetails": {
+        "videoId": "ge-9m1SsEmc",
+        "videoPublishedAt": "2018-09-27T17:29:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aHBvvs1oMAqmsLdvCO7uJbp1ii4",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:36:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Kuen-Bang Hou (Favonia), Towards efficient cubical type theory",
+        "description": "Homotopy Type Theory Electronic Seminar Talks, 2018-10-11\n\nCubical type theory attracted much attention in the homotopy type theory community because it achieved canonicity in the presence of univalence and higher inductive types. To date, there are many variants of cubical type theory and experimental proof assistants based on them.\n\nIt may seem that the remaining task is to reconnect the syntax to standard models, but there are still numerous type-theoretic open problems arising from the concerns over efficiency and usability. In this talk, I will give an overview of several topics we are working on but not publicly presented before, including extension types, empty systems, the interplay between kinds and higher inductive types, and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9pc4QkMtrnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9pc4QkMtrnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9pc4QkMtrnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9pc4QkMtrnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9pc4QkMtrnQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9pc4QkMtrnQ"
+        },
+        "videoOwnerChannelTitle": "HoTTEST",
+        "videoOwnerChannelId": "UC-9jDbJ-HegCFuWuam1SfvQ"
+      },
+      "contentDetails": {
+        "videoId": "9pc4QkMtrnQ",
+        "videoPublishedAt": "2018-10-11T21:17:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7m2OxOiScVNhea-DrIeIX6O6Euw",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:16:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Thorsten Altenkirch - Why Type Theory matters | Lambda Days 2019",
+        "description": "This video was recorded at Lambda Days 2019 http://www.lambdadays.org/lambdadays2019\n\nGet involved in Lambda Days' next conference http://www.lambdadays.org\n\n---\n\nWHY TYPE THEORY MATTERS\nby Thorsten Altenkirch\n\nABSTRACT\nModern Type Theory (usually called Homotopy Type Theory) is at the same time the ultimate functional programming language and a novel foundation of Mathematics, an alternative to the mathematical assembly language called set theory. Type theory exploits the advantages of static typing to the limit, meaning that by hiding implementation details you can identify tow object which behave the same - this is called the univalence principle.\n\nRead the full abstract: http://www.lambdadays.org/lambdadays2019/thorsten-altenkirch\n\n---\n\nTHE SPEAKER - THORSTEN ALTENKIRCH\nUniversity of Nottingham\n\nThorsten Altenkirch is a Professor of Computer Science at the University of Nottingham known for his research on logic, type theory, and homotopy type theory. Altenkirch was part of the 2012/2013 special year on univalent foundations at the Institute for Advanced Study. At Nottingham he co-chairs the Functional Programming Laboratory with Graham Hutton.\n\nMore on Thorsten Altenkirch: http://www.lambdadays.org/lambdadays2019/thorsten-altenkirch\n\n---\n\nLAMBDA DAYS & ERLANG SOLUTIONS\nLambda Days is powered by Erlang Solutions. Lambda Days 2019 was sponsored by Brainly, Schibsted, Standard Chartered, Erlang Solutions, NoRedInk & Uber. \n\nLAMBDA DAYS\nWebsite: http://www.lambdadays.org\nTwitter: https://twitter.com/LambdaDays\nFacebook: https://www.facebook.com/lambdadays\nLinkedIn: https://www.linkedin.com/company/lambda-days/\nMail: info at lambdadays.org\n\n#LambdaDays #TypeTheory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DllYOFw5Qio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DllYOFw5Qio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DllYOFw5Qio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DllYOFw5Qio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DllYOFw5Qio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DllYOFw5Qio"
+        },
+        "videoOwnerChannelTitle": "Code Sync",
+        "videoOwnerChannelId": "UC47eUBNO8KBH_V8AfowOWOw"
+      },
+      "contentDetails": {
+        "videoId": "DllYOFw5Qio",
+        "videoPublishedAt": "2019-03-11T09:38:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZaQcxTgmQOMsEn8RdALUtPG245A",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:36:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Programming with Math (Exploring Type Theory)",
+        "description": "As programs are getting more complex, it's time to go back to basics, to the old well tested approach to complexity called mathematics. Let compilers deal with the intricacies of Turing machines. Our strength is abstract thinking. Let's use it!\n\nEVENT:\n\n\u00d8redev 2018\n\nSPEAKER:\n\nBartosz Milewski\n\nPERMISSIONS:\n\nConference Organizer provided Coding Tech with the permission to republish this video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8AGWTWVOJ74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8AGWTWVOJ74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8AGWTWVOJ74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8AGWTWVOJ74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8AGWTWVOJ74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8AGWTWVOJ74"
+        },
+        "videoOwnerChannelTitle": "Coding Tech",
+        "videoOwnerChannelId": "UCtxCXg-UvSnTKPOzLH4wJaQ"
+      },
+      "contentDetails": {
+        "videoId": "8AGWTWVOJ74",
+        "videoPublishedAt": "2019-05-01T18:09:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OpLGYrYJo0SHzznvfE3gR0o8p9U",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:16:39Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "YOW! Lambda Jam 2019 - Bartosz Milewski - A Taste of Type Theory",
+        "description": "We use types in programming, often without realizing how deeply rooted they are in the foundations of mathematics. There is a constant flow of ideas from type theory to programming (and back). We are familiar with algebraic data types; inductive types, like lists or trees; we've heard of dependent types and, in the future, we might encounter identity types and possibly get familiar with elements of homotopy type theory. I can't possibly talk about all of this, but I'll try to give you a little taste.\n\nBartosz used to be a physicist (he has a Ph.D. in Quantum Physics) but he fell in love with programming and joined Microsoft as the development lead of the Content Index team -- the search engine before the Internet. Whenever you do a file search on Windows, you're running his code.\n\nAfter Microsoft, Bartosz started his own company, Reliable Software, where he designed and helped implement the first peer-to-peer version control system, Code Co-op, which is still in commercial use.\n\nHe became an expert in C++ and published the book C++ In Action. He is best known for his blog, in which he discusses topics in concurrency, parallelism, language design, functional programming, and many other areas. He attended one C++ Standard Committee meeting on concurrency and decided that C++ was too far behind Haskell or even C# in this area. He's a frequent speaker at professional conferences about applications of category theory and type theory in programming.\n\nHe has been the architect of the FP Complete School of Haskell.\n\nHe published the book \"Category Theory for Programmers.\"\n\nFor more on YOW! Conference, visit http://www.yowconference.com.au",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nvw74z8uQVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nvw74z8uQVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nvw74z8uQVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nvw74z8uQVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nvw74z8uQVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nvw74z8uQVU"
+        },
+        "videoOwnerChannelTitle": "Skills Matter (formerly YOW! Conferences)",
+        "videoOwnerChannelId": "UCAvGvvEemkeX8hurdPXr7hA"
+      },
+      "contentDetails": {
+        "videoId": "Nvw74z8uQVU",
+        "videoPublishedAt": "2019-07-02T20:09:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2Vfy3yM1t2x3SyJTr6qYakPGzfg",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:19:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Anders M\u00f6rtberg, Unifying cubical models of homotopy type theory",
+        "description": "Homotopy Type Theory Electronic Seminar Talks, 2019-10-23\n\n(j.w.w. Evan Cavallo, Andrew Swan)\n\nIn recent years a wide variety of constructive cubical models of homotopy type theory have been developed. These models all provide constructive meaning to the univalence axiom and higher inductive types, but how are they related? In the talk I will give an answer to this question in the form of a generalization that covers most of the cubical models. The crucial idea of this generalization is to weaken the notion of fibration from the cartesian cubical set model so that it is not necessary to assume that the diagonal on the interval is a cofibration. This notion of fibration also gives rise to a model structure, generalizing earlier work on constructing model structures from cubical models of homotopy type theory.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KxQYT4SrENg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KxQYT4SrENg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KxQYT4SrENg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KxQYT4SrENg"
+        },
+        "videoOwnerChannelTitle": "HoTTEST",
+        "videoOwnerChannelId": "UC-9jDbJ-HegCFuWuam1SfvQ"
+      },
+      "contentDetails": {
+        "videoId": "KxQYT4SrENg",
+        "videoPublishedAt": "2019-10-23T20:07:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "16hfLF8unCNEN9iIIYjWCnUquqI",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2021-10-24T09:36:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Per Martin L\u00f6f: How did 'judgement' come to be a term of logic ?",
+        "description": "# Savoirs ENS 14.10.2011 \nWhat is logic? Is it the study of the process of inference or reasoning, called demonstration in mathematics, by means of which we justify our judgements? Or is it the study of the logical and set-theoretical concepts, like proposition, truth and consequence on the one hand, and set, element and function on the other, that make their appearance in the contents of our judgements? This is the fundamental question whether logic is in essence, or by nature, epistemological or ontological. The answer is presumably that it is both, which is to say that, within logic, one can distinguish between two parts, or two layers, the one epistemological and the other ontological. But there remains the question of the order of priority between these two layers: Which comes first? Is epistemology prior to ontology, or is it the other way round? Bolzano, whose logic in four volumes, called Wissenschaftslehre, has the most clear architectonic structure of all logics that have so far been written, treated of the ontological notions of proposition, truth and logical consequence (Ableitbarkeit) in the first two volumes of his Wissenschaftslehre, relegating the epistemology to the third volume. Thus he let ontology take priority over epistemology. Although the line of demarcation between the two was drawn in exactly the right place by Bolzano, my own work on constructive type theory has forced me to the conclusion that the order of priority between ontology and epistemology is nevertheless the reverse of the order in which they are treated in the Wissenschaftslehre. The epistemological notions of judgement and inference have to be in place already when you begin to deal with propositions, truth and consequence, as well as with other purely ontological notions, like the set-theoretical ones.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FGUzgcLXNuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FGUzgcLXNuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGUzgcLXNuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FGUzgcLXNuk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FGUzgcLXNuk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FGUzgcLXNuk"
+        },
+        "videoOwnerChannelTitle": "Logic and Foundations of Mathematics",
+        "videoOwnerChannelId": "UCZom5b9qGTZMfSFxa3bo-EA"
+      },
+      "contentDetails": {
+        "videoId": "FGUzgcLXNuk",
+        "videoPublishedAt": "2020-03-31T07:31:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jM6GBXpPN_Ly2RZIEfTxUU7K4Xw",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-10-23T09:32:13Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Valery Isaev, Indexed type theories",
+        "description": "Homotopy Type Theory Electronic Seminar Talks, 2020-06-16\nhttps://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_conference_2020.html\n\nIndexed type theory is a version of homotopy type theory which represents indexed \u221e-categories. It has two levels of types: the first level correspond to ordinary homotopy type theory and the second one represents indexed objects. Indexed type theories generalize other similar two-level systems such as a form of cohesive homotopy type theory and certain linear dependent type theories. It can be used to reason directly in \u221e-categories which do not have all the structure required by homotopy type theory.\nIn this talk, I define indexed type theory and describe various constructions in it including finite and infinite (co)limits and object classifiers. I will give several examples of models of indexed type theory including spectra and quasicategories. I will also prove a special case of the indexed adjoint functor theorem using the language of indexed type theories.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PzjmjIlc-kE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PzjmjIlc-kE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PzjmjIlc-kE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PzjmjIlc-kE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PzjmjIlc-kE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 50,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PzjmjIlc-kE"
+        },
+        "videoOwnerChannelTitle": "HoTTEST",
+        "videoOwnerChannelId": "UC-9jDbJ-HegCFuWuam1SfvQ"
+      },
+      "contentDetails": {
+        "videoId": "PzjmjIlc-kE",
+        "videoPublishedAt": "2020-06-17T00:54:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EOxP1oflxyRRsnzNVmQR7eURv8M",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:15:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Foundations 1: Introduction to Mathematics",
+        "description": "In this series we develop an understanding of the modern foundations of pure mathematics,  starting from first principles.  We start with intuitive ideas about set theory, and introduce notions from category theory,  logic and type theory,  until we are in a position to understand dependent type theory, and in particular, homotopy type theory,  which promises to replace set theory as the foundation of modern mathematics.  We also take an interest in computer science, and how to write computer programming languages to formalize mathematics. \n\nIn this first video, we introduce the material, and discuss the important basic ideas of sets and functions from a rough, intuitive perspective.\n\nSome people have said they want to support my efforts to make educational videos and software, and so I have made a Patreon page\n\nhttps://www.patreon.com/richardsouthwell\n\nAny support would really help me produce more videos and software.\n\nAnother way you can support me is by becoming a member of my YouTube channel. Doing this grants access to many more, currently unlisted, videos.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HsUxn2l1Wzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HsUxn2l1Wzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HsUxn2l1Wzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HsUxn2l1Wzk"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "HsUxn2l1Wzk",
+        "videoPublishedAt": "2020-11-24T06:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1xxsoLCnoTsMxJ7Xr10sjpEdofE",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:15:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Foundations 2: Category Theory",
+        "description": "In this series we develop an understanding of the modern foundations of pure mathematics,  starting from first principles.  We start with intuitive ideas about set theory, and introduce notions from category theory,  logic and type theory,  until we are in a position to understand dependent type theory, and in particular, homotopy type theory,  which promises to replace set theory as the foundation of modern mathematics.  We also take an interest in computer science, and how to write computer programming languages to formalize mathematics. \n\nIn this video, we introduce category theory, the category Set, and the idea of terminal objects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yz6XsqixvCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yz6XsqixvCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yz6XsqixvCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yz6XsqixvCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yz6XsqixvCo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Yz6XsqixvCo"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "Yz6XsqixvCo",
+        "videoPublishedAt": "2020-12-07T06:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HmFf8512Lg4CnZHw5_M61kn4IDQ",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:15:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Foundations 3: Universal Constructions",
+        "description": "In this series we develop an understanding of the modern foundations of pure mathematics,\u00a0 starting from first principles.\u00a0 We start with intuitive ideas about set theory, and introduce notions from category theory,\u00a0 logic and type theory,\u00a0 until we are in a position to understand dependent type theory, and in particular, homotopy type theory,\u00a0 which promises to replace set theory as the foundation of modern mathematics.\u00a0 We also take an interest in computer science, and how to write computer programming languages to formalize mathematics.\u00a0\nIn this video, we introduce initial objects, products, coproducts, and xponential objects. We describe the universal constructions for these structures in category theory, and describe their appearance\u00a0in set theory. We also sketch how these ideas correspond with logic in the Curry-Howard-Lambek isomorphism (computational trinitarianism).\nThe following videos from my Category For Beginners Playlist provide extra information about the topics covered:\nCategory Theory For Beginners: Productshttps://www.youtube.com/watch?v=fY02LIW8fvk\n\nCategory Theory For Beginners: Duality And Functorshttps://www.youtube.com/watch?v=oIc0K81yz6E\n\nCategory Theory For Beginners: Exponential Objectshttps://www.youtube.com/watch?v=pcWKUz-Nwag",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AE2nuSK7Ckk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AE2nuSK7Ckk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AE2nuSK7Ckk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AE2nuSK7Ckk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AE2nuSK7Ckk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 53,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AE2nuSK7Ckk"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "AE2nuSK7Ckk",
+        "videoPublishedAt": "2020-12-14T06:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e6vY31eVnXYspFnoohpSNgwYRME",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:15:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Foundations 4: Logic and Partially Ordered Sets",
+        "description": "In this series we develop an understanding of the modern foundations of pure mathematics,  starting from first principles.  We start with intuitive ideas about set theory, and introduce notions from category theory,  logic and type theory,  until we are in a position to understand dependent type theory, and in particular, homotopy type theory,  which promises to replace set theory as the foundation of modern mathematics.  We also take an interest in computer science, and how to write computer programming languages to formalize mathematics.  \n\nIn this video we introduce classical logic, using functional representations of and or, not and implies, and then we consider posets of subsets, introduce Boolean algebras, and eventually discuss Heyting Algebras as bicartesian closed categories, and discuss how our universal constructions of categorical products and coproducts give us ideas like AND and OR in intuitionistic logic. In this way we start to understand computational trinitarianism (which relates to the Curry-Howard-Lambek correspondence, and the Brouwer-Heyting-Kolmogorov interpretation).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y_QaYRwkT2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y_QaYRwkT2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_QaYRwkT2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y_QaYRwkT2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y_QaYRwkT2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 54,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y_QaYRwkT2c"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "Y_QaYRwkT2c",
+        "videoPublishedAt": "2021-01-04T06:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FgQ4gw2Lj5-2cFSSLbZ2pPokat4",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:38:29Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Foundations 5: Intuitionistic Logic and Type Theory",
+        "description": "In this series we develop an understanding of the modern foundations of pure mathematics,  starting from first principles.  We start with intuitive ideas about set theory, and introduce notions from category theory,  logic and type theory,  until we are in a position to understand dependent type theory, and in particular, homotopy type theory,  which promises to replace set theory as the foundation of modern mathematics.  We also take an interest in computer science, and how to write computer programming languages to formalize mathematics.  \n\nIn this video we introduce a type theoretic description of Heying algebras/ intuitionistic logic. We prove a few important results about intuitionistic logic, and then informally introduce some more ideas from type theory.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h6rTlirbfRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h6rTlirbfRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h6rTlirbfRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h6rTlirbfRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h6rTlirbfRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 55,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h6rTlirbfRI"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "h6rTlirbfRI",
+        "videoPublishedAt": "2021-01-11T06:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Snd0JVQBtGF2cF6lOU-jH-r8Zc",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:37:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Foundations 6: Simple Type Theory",
+        "description": "In this series we develop an understanding of the modern foundations of pure mathematics,  starting from first principles.  We start with intuitive ideas about set theory, and introduce notions from category theory,  logic and type theory,  until we are in a position to understand dependent type theory, and in particular, homotopy type theory,  which promises to replace set theory as the foundation of modern mathematics.  We also take an interest in computer science, and how to write computer programming languages to formalize mathematics.  \n\nIn this video we describe simple type theory, which is also known as typed lambda calculus with sums. This is a formal theory which can be used to describe set theory, intuitionistic logic, and any other cartesian closed category. We explain all the inference rules for the simple type theory, and describe how they relate to familiar ideas from category theory. We also practically demonstrate how to form a programming language implementing the rules, using Javascript.\n\nA theory close to the one we describe is given in the paper:\n\nExtensional Normalisation and Type-Directed Partial Evaluation for Typed Lambda Calculus with Sums,  Balat,Cosmo,Fiore  \nhttps://www.cl.cam.ac.uk/~mpf23/papers/Types/tdpe.pdf\n\nI wrote the following document which describes the simple type theory and how it gives rise to constructions with universal properties in category theory:\n\nhttps://github.com/AviCraimer/type-theory-js/blob/master/maths/theory_simplified.pdf\n\nThe computer code we mentioned for implementing simple type theory can be found here:\n\nhttps://github.com/AviCraimer/type-theory-js/blob/master/src/libraries/simpleTypeTheory/richsimp.js\n\nhttps://github.com/AviCraimer/type-theory-js/blob/master/src/libraries/simpleTypeTheory/richdone.js\n\nAdditional information about how to justify the universality of coproducts in this simple type theory can be found in these videos:\n\nhttps://youtu.be/mDRHYN37x0s\n\nhttps://youtu.be/pqU54EiCxYU\n\nhttps://youtu.be/7uvJ0ucZZq0\n\nhttps://youtu.be/ieG57w-C6uo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EEz8DGIjXQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EEz8DGIjXQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EEz8DGIjXQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EEz8DGIjXQI"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "EEz8DGIjXQI",
+        "videoPublishedAt": "2021-01-26T06:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0pTssENdu_uYhJ1ZwWYKHk6TUWM",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:15:28Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Foundations 7: Dependent Type Theory",
+        "description": "In this series we develop an understanding of the modern foundations of pure mathematics,  starting from first principles.  We start with intuitive ideas about set theory, and introduce notions from category theory,  logic and type theory,  until we are in a position to understand dependent type theory, and in particular, homotopy type theory,  which promises to replace set theory as the foundation of modern mathematics.  We also take an interest in computer science, and how to write computer programming languages to formalize mathematics.\n\nIn this video we introduce the concepts of dependent type theory (intensional Martin-L\u00f6f' type theory). In particular, we introduce type families, sigma types, pi types, identity types, propositional and judgmental equality, and natural number types. We also describe how dependent type theory relates to the theory of slice categories for locally Cartesian closed categories.\n\nThe following paper describes this theory in more detail:\n\nR. A. G. Seely, Locally cartesian closed categories and type theory, Math. Proc. Camb. Phil. Soc. (1984) 95   \n\nhttps://www.math.mcgill.ca/rags/LCCC/LCCC.pdf\n\nMore on topos theory can be found here\n\nhttps://www.youtube.com/watch?v=o-yBDYgUqZQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wh1QxF5FLJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wh1QxF5FLJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wh1QxF5FLJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wh1QxF5FLJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 57,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wh1QxF5FLJw"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "Wh1QxF5FLJw",
+        "videoPublishedAt": "2021-02-08T06:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AwVEGlPzZACtG8ckJD5umCscSr8",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:34:56Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "[Intro to HoTT] Martin-L\u00f6f Type Theory: Speaking the Language",
+        "description": "Video 0 of the Martin-L\u00f6f Type Theory lecture, part of the Introduction to Homotopy Type Theory video lecture series. Introduces formal languages & deductive systems, and establishes the key intuitions behind homotopy type theory. \n\nThis lecture series roughly follows Egbert Rijke's forthcoming textbook, Introduction to Homotopy Type Theory, which is expected to be released in 2021 by Cambridge University Press. More information can be found here: https://ncatlab.org/nlab/show/Introduction+to+Homotopy+Type+Theory.\n\nSome relevant resources:\n- Article about Mochizuki's purported proof of the ABC conjecture: https://www.quantamagazine.org/titans-of-mathematics-clash-over-epic-proof-of-abc-conjecture-20180920/\n- SEP article on intuitionistic logic: https://plato.stanford.edu/entries/logic-intuitionistic/\n- nLab article on spaces (more technical): https://ncatlab.org/nlab/show/space",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TeY5niDR8yE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TeY5niDR8yE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TeY5niDR8yE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TeY5niDR8yE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TeY5niDR8yE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 58,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TeY5niDR8yE"
+        },
+        "videoOwnerChannelTitle": "Jacob Neumann",
+        "videoOwnerChannelId": "UCRfR7ivZHwXIC8kdydo5jdQ"
+      },
+      "contentDetails": {
+        "videoId": "TeY5niDR8yE",
+        "videoPublishedAt": "2021-02-19T21:22:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y7kaEZy_BpcvXoYeOntLCGYeiVM",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2021-10-23T14:15:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Foundations 8: Formal Type Theory and Homotopy Type Theory and Idris",
+        "description": "In this series we develop an understanding of the modern foundations of pure mathematics,  starting from first principles.  We start with intuitive ideas about set theory, and introduce notions from category theory,  logic and type theory,  until we are in a position to understand dependent type theory, and in particular, homotopy type theory,  which promises to replace set theory as the foundation of modern mathematics.  We also take an interest in computer science, and how to write computer programming languages to formalize mathematics.   \n\nIn this video we describe the formal rules for the intensional dependent type theory described in \n\nhttps://homotopytypetheory.org/book/\n\nWe also provide look at a brief introduction to homotopy type theory, by describing the additional axioms (functional extensionality and the univalence axiom), which need to be added to the dependent type theory we have described to form homotopy type theory.\n\nA description of how to implement category theory with the Idris programming language can be found here:\n\nhttps://youtu.be/aLHXZcXQjmc\n\nThe idris code used can be found at \nhttps://github.com/richardsouthwell/learningidrisct/\n\nPlease note, the above code is just my attempt to understand \nhttps://github.com/statebox/idris-ct\n\nVideos describing how to install idris and vscode (patience required !) can be found here:\n\nhttps://youtu.be/iQ86mPZjmCo\nhttps://youtu.be/r0lSni82ya4\nhttps://youtu.be/xa-1NpBcprI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z2tKbdy_lys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z2tKbdy_lys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z2tKbdy_lys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 59,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z2tKbdy_lys"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "Z2tKbdy_lys",
+        "videoPublishedAt": "2021-02-22T06:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0i3bklAvaW7KHO9_pEDyp-o8GPE",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:35:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "[Intro to HoTT] Martin-L\u00f6f Type Theory: Judgments, Contexts, and Types",
+        "description": "Video 1 of the Martin-L\u00f6f Type Theory lecture, part of the Introduction to Homotopy Type Theory video lecture series. Covers the key mechanisms of formal MLTT: judgments, contexts, inference rules, and how to introduce new types.\n\nThis lecture series roughly follows Egbert Rijke's forthcoming textbook, Introduction to Homotopy Type Theory, which is expected to be released in 2021 by Cambridge University Press. More information can be found here: https://ncatlab.org/nlab/show/Introduction+to+Homotopy+Type+Theory.\n\nSome relevant resources:\n- Paragraph about judgments in the nLab: https://ncatlab.org/nlab/show/judgment#in_type_theory\n- Article I wrote (which others have improved/maintained) describing the bool type in Standard ML: https://smlhelp.github.io/book/types/bool.html\n- SEP article on Theophrastus, the inventor(?) of modus ponens: https://plato.stanford.edu/entries/theophrastus/\n- Wikipedia article on product spaces in classical topology: https://en.wikipedia.org/wiki/Product_topology\n- Some lecture slides I made about the simply-typed lambda calculus and cartesian closed categories (compare the definition of the STLC in Section 1 with how we're defining MLTT here): https://jacobneu.github.io/teaching/CategoryTheory/lambdaCalculus.pdf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9cR2Day-4Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9cR2Day-4Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9cR2Day-4Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9cR2Day-4Bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9cR2Day-4Bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 60,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9cR2Day-4Bk"
+        },
+        "videoOwnerChannelTitle": "Jacob Neumann",
+        "videoOwnerChannelId": "UCRfR7ivZHwXIC8kdydo5jdQ"
+      },
+      "contentDetails": {
+        "videoId": "9cR2Day-4Bk",
+        "videoPublishedAt": "2021-03-27T02:44:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ul3XDJEr40a-iDEQKhwM-wcBY4U",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:35:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "[Categories] Theory of the Category of Sets: Sets and Functions",
+        "description": "Video 0 of a lecture on the Theory of the Category of Sets, part of a planned series of videos introducing basic category theory. Reviews the basic terminology and notation of sets and functions, and provides some background of the relationship between set theory and category theory.\n\nOther resources:\n- Wikipedia article on elements (a screenshot from this page briefly appears in the video): https://en.wikipedia.org/wiki/Element_(mathematics)\n- SEP article on set theory: https://plato.stanford.edu/entries/set-theory/\n- SEP article on category theory: https://plato.stanford.edu/entries/category-theory/\n- Proof wiki page on set extensionality: https://proofwiki.org/wiki/Axiom:Axiom_of_Extension\n- Wikipedia article on the Lambda Calculus (where we get the lambda notation from): https://en.wikipedia.org/wiki/Lambda_calculus",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BlmGMRi8k-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BlmGMRi8k-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BlmGMRi8k-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BlmGMRi8k-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BlmGMRi8k-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BlmGMRi8k-c"
+        },
+        "videoOwnerChannelTitle": "Jacob Neumann",
+        "videoOwnerChannelId": "UCRfR7ivZHwXIC8kdydo5jdQ"
+      },
+      "contentDetails": {
+        "videoId": "BlmGMRi8k-c",
+        "videoPublishedAt": "2021-04-03T21:57:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oD-TgcesEcVy2HC1CjzdP3_tQYQ",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:34:48Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Paul Dancstep: The Universal Library; A novel approach to teaching category theory",
+        "description": "Title: The Universal Library; A novel approach to teaching category theory\nSpeaker: Paul Dancstep \n\nAbstract: I will offer a STEM educator\u2019s take on the unique challenges of learning category theory and present an extended thought experiment - roughly derived from the Jorge Luis Borges story The Library of Babel - as a strategy for sharing this subject with a general audience.\n\nTopos Institute Berkeley Seminar\nJuly 20, 2021\nhttps://topos.site/berkeley-seminar/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hNRETzXkE5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hNRETzXkE5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hNRETzXkE5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hNRETzXkE5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hNRETzXkE5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hNRETzXkE5M"
+        },
+        "videoOwnerChannelTitle": "Topos Institute",
+        "videoOwnerChannelId": "UCxUZjZaLPsHPlp8AtkSBZiA"
+      },
+      "contentDetails": {
+        "videoId": "hNRETzXkE5M",
+        "videoPublishedAt": "2021-07-23T05:28:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3yoW6nNgYFFDhEOoIerBmAzD2H8",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:36:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Hardest Problem in Type Theory - Computerphile",
+        "description": "Equality sounds a straightforward idea, but there are subtle problems in theoretical computer science. Professor Thorsten Altenkirch explains how his late friend Martin Hofmann solved one of the biggest problems. \n\nMore of Thorsten on Type Theory: https://bit.ly/C_Thor_playlist \n\nThorsten's paper dedicated to Martin: https://bit.ly/C_Thor_Paper \n\nhttps://www.facebook.com/computerphile\r\nhttps://twitter.com/computer_phile\r\n\r\nThis video was filmed and edited by Sean Riley.\r\n\r\nComputer Science at the University of Nottingham: https://bit.ly/nottscomputer\r\n\r\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m_PecfbEWik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m_PecfbEWik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m_PecfbEWik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m_PecfbEWik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m_PecfbEWik/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m_PecfbEWik"
+        },
+        "videoOwnerChannelTitle": "Computerphile",
+        "videoOwnerChannelId": "UC9-y-6csu5WGm29I7JiwpnA"
+      },
+      "contentDetails": {
+        "videoId": "m_PecfbEWik",
+        "videoPublishedAt": "2021-07-30T17:38:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a5Cx81U2gV84P2YXGhrqVQ2Lo04",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-10-23T11:34:41Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Conor McBride: \"Cats and Types: Best Friends?\"",
+        "description": "26th of August, 2021. Part of the Topos Institute Colloquium.\n-----\nAbstract:\u00a0Intensional Type Theory and Category Theory ought to fit well together, but the current practical experience of representing concepts from one with the tools of the other is often quite strained. On the one hand, fibrational approaches to dependency often seem heavy. On the other hand, definitional equality in type systems often falls way short of delivering even the simplest of coherences. In this talk, I shall reflect on the problems and search for opportunities. What has to change to make type theoretic proof assistants a good medium for categorical approaches to programming and proof? I wish I knew the answer to that question! I can at least offer a few clues. For example, I shall exhibit a universe of indexed inductively defined datatypes which exhibit nontrivial presheaf structure by construction.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/05IJ3YL8p0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/05IJ3YL8p0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/05IJ3YL8p0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/05IJ3YL8p0s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/05IJ3YL8p0s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 64,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "05IJ3YL8p0s"
+        },
+        "videoOwnerChannelTitle": "Topos Institute",
+        "videoOwnerChannelId": "UCxUZjZaLPsHPlp8AtkSBZiA"
+      },
+      "contentDetails": {
+        "videoId": "05IJ3YL8p0s",
+        "videoPublishedAt": "2021-08-27T06:20:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vgsao1iC3wwvz5W8MWHUA0NZbJM",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-10-23T07:00:27Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Meeting C++ online - Andreas Reischuck - Using C++20 coroutines for asynchronous parsers",
+        "description": "Meeting C++ online - Andreas Reischuck - Using C++20 coroutines for asynchronous parsers\nhttps://github.com/arBmind/co_parser_livecoding\nJoin Meeting C++ online: https://www.meetup.com/Meeting-Cpp-online",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u41EhjrqdGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u41EhjrqdGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u41EhjrqdGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 65,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u41EhjrqdGc"
+        },
+        "videoOwnerChannelTitle": "Meeting Cpp",
+        "videoOwnerChannelId": "UCJpMLydEYA08vusDkq3FmjQ"
+      },
+      "contentDetails": {
+        "videoId": "u41EhjrqdGc",
+        "videoPublishedAt": "2021-10-22T16:30:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R_xHdqnWESyOgavwwrofGacydoU",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS42MjYzMTMyQjA0QURCN0JF",
+      "snippet": {
+        "publishedAt": "2021-11-05T09:24:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Inside a static analyser: type system - Yuri Minaev - NDC TechTown 2021",
+        "description": "C++ is a wonderful language to use. It becomes even more wonderful if you're looking at it from the other side of the fence. Parsing and compiling C++ code is far from trivial. We'll take a look at possible representations of types inside a program which does just that. For that, we'll look at the PVS-Studio C++ analyser's internal mechanisms that deal with types. The current implementation is somewhat questionable, so, it is being redone. I'll give you an idea of how it currently works and how it will be working. We'll also take a look at some implementation details of the new type system.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/36MEItqw328/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/36MEItqw328/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/36MEItqw328/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/36MEItqw328/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/36MEItqw328/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 66,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "36MEItqw328"
+        },
+        "videoOwnerChannelTitle": "NDC Conferences",
+        "videoOwnerChannelId": "UCTdw38Cw6jcm0atBPA39a0Q"
+      },
+      "contentDetails": {
+        "videoId": "36MEItqw328",
+        "videoPublishedAt": "2021-11-03T10:36:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4OCtl5NedVNdSPjW7vY4sne2y6Q",
+      "id": "UExJamhmbHVoTmQ5OEtUWmc1NUY3MzZSdjF3a09ZMEJlaS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-01-20T17:16:25Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98KTZg55F736Rv1wkOY0Bei",
+        "position": 67,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4uYsoxhI0Lk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4uYsoxhI0Lk"
+      }
+    }
+  ]
+}

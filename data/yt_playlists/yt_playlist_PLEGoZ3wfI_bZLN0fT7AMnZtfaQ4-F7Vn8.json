@@ -1,0 +1,40 @@
+{
+  "_id": "PLEGoZ3wfI_bZLN0fT7AMnZtfaQ4-F7Vn8",
+  "as_of": "2021-12-10 00:39:48.521849",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "eazxZrI4Xewu-Z79gx0_-eSnYjA",
+    "id": "PLEGoZ3wfI_bZLN0fT7AMnZtfaQ4-F7Vn8",
+    "snippet": {
+      "publishedAt": "2020-12-18T17:24:01Z",
+      "channelId": "UCUi88uijCmus3eP3aDOjpsQ",
+      "title": "How the grinch stole Christmas FULL MOVIE",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3bYKkcQYb2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3bYKkcQYb2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3bYKkcQYb2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Movies & Clips [FREE]",
+      "localized": {
+        "title": "How the grinch stole Christmas FULL MOVIE",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  }
+}

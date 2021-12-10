@@ -1,0 +1,2062 @@
+{
+  "_id": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+  "as_of": "2021-12-10 00:22:00.723489",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7_4aLJUIEaSYswHNsfQgh0KR7RE",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Essential Machining Skills: Working with a Lathe, Part One",
+        "description": "A video overview of the essential skills involved in working metal with a lathe. Part 1 of 3. For more about the open source machine tools project, please go to http://www.opensourcemachinetools.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Za0t2Rfjewg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Za0t2Rfjewg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Za0t2Rfjewg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Za0t2Rfjewg"
+        },
+        "videoOwnerChannelTitle": "Open Source Machine Tools",
+        "videoOwnerChannelId": "UC79QdJW2rayvCzqNq-SAM-g"
+      },
+      "contentDetails": {
+        "videoId": "Za0t2Rfjewg",
+        "videoPublishedAt": "2013-08-30T17:33:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_o4bbjhOhnAIa0c-GQde-PjTtvg",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Beginners Guide to Manual & CNC Machining!",
+        "description": "This video is for the Concord Kids - a group of 5th grade students studying STEM!  And, of course, it's for anyone to serve as a basic beginners guide to a manual milling machine (Bridgeport) and a computer controlled CNC Milling machine (Tormach PCNC 1100)!\n\nCurious how we film? http://bit.ly/2q8MfoV\n\nTheir teacher, Dan, email saying a video on milling basics would really help the kids understand some of the work they are studying.  I love helping kids and would encourage everyone to reach out to any number of local programs - STEM, FIRST Robotics - anything to help increase interest and passion for engineering in our youth!\n\nMusic copyrighted by John Saunders\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nReach us / CNC Info:\n\n\n\nSpeeds & Feeds: https://provencut.com\n\nDownload Fusion 360: https://www.dpbolvw.net/click-9255839-12529306 \n\nOnline Fusion 360 Training: http://bit.ly/LearnFusion360\n\nHands-On CNC Classes:  https://www.nyccnc.com/events\n\nSMW Products: https://saundersmachineworks.com/\n\nCNC Resources: https://www.nyccnc.com 5 Reasons to Use a Fixture Plate on Your CNC Machine: https://bit.ly/3sNA4uH",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TecC9_nwpUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TecC9_nwpUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TecC9_nwpUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TecC9_nwpUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TecC9_nwpUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TecC9_nwpUw"
+        },
+        "videoOwnerChannelTitle": "NYC CNC",
+        "videoOwnerChannelId": "UCe0IyK4ntgdPTTjsxjvyHPg"
+      },
+      "contentDetails": {
+        "videoId": "TecC9_nwpUw",
+        "videoPublishedAt": "2015-01-19T05:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RL-FydSeDLk8NC1MF8GHUMK5LpU",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "What is Machining?",
+        "description": "America needs more machinists!   \n\nWe are fortunate enough to sit on a local advisory panel for the Mid-East Career & Technology Centers Precision Machining Program.  It's a great program for High School Juniors and Seniors to prepare them for careering in machining.  \n\nIn an effort to raise awareness for both machining in general as well as the Mid-East program, we made this short film!\n\nIf you're a High School student in the central Ohio area, consider checking out Mid-East's program in Zanesville!\n\nhttp://www.mid-east.k12.oh.us/WeldingMachiningManufacturingWMM.aspx 5 Reasons to Use a Fixture Plate on Your CNC Machine: https://bit.ly/3sNA4uH",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mKeBpqQSWug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mKeBpqQSWug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mKeBpqQSWug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mKeBpqQSWug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mKeBpqQSWug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mKeBpqQSWug"
+        },
+        "videoOwnerChannelTitle": "NYC CNC",
+        "videoOwnerChannelId": "UCe0IyK4ntgdPTTjsxjvyHPg"
+      },
+      "contentDetails": {
+        "videoId": "mKeBpqQSWug",
+        "videoPublishedAt": "2015-09-15T04:19:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mQB8hj53C6-M0_L6EB0xkwrc2XU",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "4th Axis Build",
+        "description": "Win some / lose some.  Still needs some work, but here's my start on a 4th axis.. you might like following along.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jkgmjIlOVKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jkgmjIlOVKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jkgmjIlOVKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jkgmjIlOVKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jkgmjIlOVKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jkgmjIlOVKc"
+        },
+        "videoOwnerChannelTitle": "This Old Tony",
+        "videoOwnerChannelId": "UC5NO8MgTQKHAWXp6z8Xl7yQ"
+      },
+      "contentDetails": {
+        "videoId": "jkgmjIlOVKc",
+        "videoPublishedAt": "2016-02-01T13:19:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EUKwokkHI4ulXGAvSm8lCx4pgN0",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Introduction to the Mini Mill",
+        "description": "An overview of the mini mill: what it does, how it is constructed, examples of things it can make, fundamentals of operation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8XWCHPO8kZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8XWCHPO8kZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XWCHPO8kZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8XWCHPO8kZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8XWCHPO8kZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8XWCHPO8kZ4"
+        },
+        "videoOwnerChannelTitle": "Frank Hoose",
+        "videoOwnerChannelId": "UC89zCBbbQ6L3yzu60NP-4Tw"
+      },
+      "contentDetails": {
+        "videoId": "8XWCHPO8kZ4",
+        "videoPublishedAt": "2016-03-09T18:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gGxjjfgSZaYIQMlGA7rO1Fzc47Q",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Machining Operations (Part 1: Introduction to Milling)",
+        "description": "This video is a overview of milling and different milling operations.  The student will learn the difference between inserted mills, ball mills, face milling and profile milling.\n\nFacebook: https://www.facebook.com/infinitymfg/\nTwitter: https://twitter.com/?lang=en",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oJPGioHgNjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oJPGioHgNjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oJPGioHgNjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oJPGioHgNjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oJPGioHgNjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oJPGioHgNjU"
+        },
+        "videoOwnerChannelTitle": "Infinity MFG",
+        "videoOwnerChannelId": "UC9eqr6EBMP9cOZHwSjGeAKA"
+      },
+      "contentDetails": {
+        "videoId": "oJPGioHgNjU",
+        "videoPublishedAt": "2017-02-08T22:27:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NPhPTQ040w5Mw6LFu-O-OvS3LgA",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "CNC Machining - What You Need to Get Started - A Basic Guide",
+        "description": "In this video, knife maker Walter Sorrells guides you through the basic components of a small CNC machining system.  This video is aimed specifically at knife makers...but there's something here for anybody wanting an introduction to the  basics of CNC machining.\n\nMore at:\n\nTactix Armory:  http://www.tactixarmory.com\nSword making videos:  http://www.waltersorrellsblades.com\nWalter's Instagram:  walterstactix\nTactix Armory Instagram:  tactixarmory\nTwitter:  @WalterSorrells\nFacebook:  http://www.facebook.com/WalterSorrellsBlades\nPatreon:  http://www.patreon.com/WalterSorrells",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f-zsGd2yqw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f-zsGd2yqw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f-zsGd2yqw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f-zsGd2yqw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f-zsGd2yqw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f-zsGd2yqw8"
+        },
+        "videoOwnerChannelTitle": "Walter Sorrells",
+        "videoOwnerChannelId": "UCkLxJCuQZ4hStBfs8TCnT9Q"
+      },
+      "contentDetails": {
+        "videoId": "f-zsGd2yqw8",
+        "videoPublishedAt": "2017-03-16T03:48:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QsRiq5_kejc6lutbHu2CIAvV9Zc",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-08-05T21:47:50Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "First DIY CNC build (Part 3) - Figuring out the ELECTRONICS - Arduino Genuino UNO GRBL",
+        "description": "Community:\nWebsite:\u00a0https://goo.gl/9wZcs1\nInstagram:\u00a0https://goo.gl/1TnxKW\nFacebook:\u00a0https://goo.gl/H7L72E\nPatreon:\u00a0https://goo.gl/5pm5qs\nTwitter:\u00a0https://goo.gl/fzWWcA\n\nThis videos recurses on my website:\nhttps://goo.gl/7auQVA\n\nI'm trying to figure out how to connect and control my steppermotors on my DIY CNC machine. Installing the Arduino UNO GRBL and getting the universal gcode sender to control my stepper motors. \n\nMaterials used in this project:\nWago Connectors:\nhttps://ebay.us/vUzMfB\nSBR12-600mm-Linear-Rail:\nhttps://goo.gl/U63i5a\nSBR12 600mm Linear Rail Shaft Rod with 2 SBR12UU Block:\nhttps://goo.gl/mFxE24\n4pcs Aluminum Flexible Shaft Coupling 5mm x 8mm:\nhttps://goo.gl/FT9zCb\nSBR12 600mm Linear Rail Shaft Rod with 2 SBR12UU Block:\nhttps://goo.gl/t7AWgo\nCNC 500W Spindle Motor with 52mm Clamps and Power Supply:\nhttps://goo.gl/s3Pi7h\nNema17:\nhttps://goo.gl/kPcpgD\nCNC Shield V3 3D Printer and 4xA4988 Driver and Arduino UNO w/USB Cable:\nhttps://goo.gl/LGM36v\n5pcs a4988 stepper motor driver:\nhttps://goo.gl/N7eeW2\n600mmrail:\nhttps://goo.gl/xxnFwi\nlinear bearings:\nhttps://goo.gl/dJjMgH\nSpring loaded Anti-Backlash Lead Nut:\nhttps://goo.gl/NPB3X2\nT8 600mm Stainless Steel Lead Screw:\nhttps://goo.gl/bZJyn4\nNema17:\nhttps://goo.gl/FxLB38\n5pcs a4988 stepper motor driver:\nhttps://goo.gl/N7eeW2\nNEMA23 2.8A:\nhttps://goo.gl/vNeica\n3pcs TB6560 3A Stepper Motor Drivers:\nhttps://goo.gl/N9qZhK\n24V 14.6A Power Supply For CNC and 3D-printers:\nhttps://goo.gl/mL83ah\nCNC Shield V3 3D Printer and 4xA4988 Driver and Arduino UNO w/USB Cable:\nhttps://goo.gl/LGM36v\nPlastic Cable Semi-closed Drag Chain 15mm x 30mm:\nhttps://goo.gl/oyQoyY\n10pcs Ferrite Bead 18X10X10mm:\nhttps://goo.gl/yoTVyF\n\nRouter / spindle CNC Bits / tools I use:\n3.175mm Shank 30 Degree 0.2mm Titanium Coated Carbide CNC Bit Router Tool:\nhttps://goo.gl/VFqZhZ\n2-12mm Solid Carbide End Mill 2 Flute Slot Drills 2-12mm End Mill Cutter CNC Tool:\nhttps://goo.gl/eb92dy\n3.175mm Carbide CNC 2 Flute Spiral Bits End Mill Router 22mm CEL:\nhttps://goo.gl/gP4Vsu\nDrillpro 1-10mm 4 Flutes Tungsten Carbide End Mill Cutter HRC50 End Mill Cutter CNC Tool:\nhttps://goo.gl/sAKkBt\n60 Degree 3D CNC Router V Groove Bit Wood Working Parts:\nhttps://goo.gl/oHnZ8T\nDrillpro RB21 1/4 Inch Shank Yellow T-Slot Cutter Woodworking Router Bit 1/2 Inch Hex Bolt:\nhttps://goo.gl/WTg8yX\nDrillpro 10pcs 1/8 Inch Shank Wood Working Router Bit:\nhttps://goo.gl/r3zf3G\n3.175 mm 17mm CEL 1 Flute Carbide End Mills Router Bit:\nhttps://goo.gl/ETL2pJ\n6mm 3 Flute HSS Aluminium Extra Long End Mill Cutter CNC Bit:\nhttps://goo.gl/HHoUxn\n3.175mm Carbide CNC 4 Flute Spiral Bit End Mill Cutter:\nhttps://goo.gl/bX1afd\n10Pcs 0.1mm 30Degree Carbide PCB Board Engraving Bits CNC Router Tool V-shape:\nhttps://goo.gl/RCXt6V\n\nMusic used:\nhttps://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ\nhttps://www.youtube.com/watch?v=JeO_Y8dbLkI\nand:\nRock Angel by Joakim Karud https://soundcloud.com/joakimkarud\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported\u2014 CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/by-sa/3.0/\nMusic provided by Audio Library https://youtu.be/K8eRXvLL7Wo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ud75Zdolh-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ud75Zdolh-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ud75Zdolh-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ud75Zdolh-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ud75Zdolh-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ud75Zdolh-M"
+        },
+        "videoOwnerChannelTitle": "WillysGarageNorway",
+        "videoOwnerChannelId": "UC5UWC_RN6KXgpshuzZ1ppSg"
+      },
+      "contentDetails": {
+        "videoId": "ud75Zdolh-M",
+        "videoPublishedAt": "2017-06-28T16:14:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rQsZmLKsc2m31aZ8lH29Bz_Jysw",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Anodising Aluminium Synthesizer Panels at Home",
+        "description": "I gave it my best shot to anodise aluminium panels for the synth extension. and they turned out almost ok.\nmaybe next time I will try a different way, there was a few things i'm sure I did wrong like not have hot dye or maybe the dye was the wrong type ? or maybe I diluted the acid too much. still they kinda look ok for my home project.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4vJ_o6URTXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4vJ_o6URTXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vJ_o6URTXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4vJ_o6URTXE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4vJ_o6URTXE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4vJ_o6URTXE"
+        },
+        "videoOwnerChannelTitle": "markusfuller",
+        "videoOwnerChannelId": "UCx36Uxaf_LHo635bK6kSCPQ"
+      },
+      "contentDetails": {
+        "videoId": "4vJ_o6URTXE",
+        "videoPublishedAt": "2017-11-22T01:33:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BCBghpUq9en9fGJ9QosjHLlixf0",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to Anodize Aluminum - My approach on DIY small scale anodizing by DeeWorks",
+        "description": "*** The titanium disc that you see in this video are available to purchase at https://www.anodizingsupplycanada.com/ as well as several other aluminum anodizing supply ***\n\nThis is a video to show how I made my home based anodizing line and to show the convenience of using it. I am not here to advertise my service as I only anodize my own product, but i'd be happy if I motivate a few to get started on their own!\n\nI've been wanting to make one of these video for awhile. As you can see english is not my first language so I make a lot of mistake here and there. If you hear anything wrong or have question about something I have not explained, please feel free to let me know! I will try to answer each and every question and comments I will have on my video. There is a lot of video out there on youtube showing how to do a first try using car battery charger and how to set up your acid concentration. I left aside that aspect of anodizing and decided to make this video to show how I made a permanent anodizing line in my garage in a 8' x 15' room. \n\nDoing anodizing for about 5 years now, I've started with tank smaller than these and slowly acquired knowledge and time saving trick. My success rate is well over 98% of perfectly anodized parts, and the 2% scrap were all mostly due to poor cleaning. It still surprise me every time I finish a batch!\n\nIn the video we see the Titanium Rack that I also sell and been using for the last 4 years now, they have speeded up my process by alot and helped me to make my own anodizing much more worth it. With the combination of the titanium racking, the temperature controller on each chemical/color & the gutted air conditioning unit for acid bath cooling, it takes about 45 minutes of my time for a full batch. Most of the time it just all run by itself.\n\nIf you like what you see, please subscribe to my channel for more DIY stuff, machining and car video!\n\nThanks for watching!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDA6EEo6dQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDA6EEo6dQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDA6EEo6dQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wDA6EEo6dQA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wDA6EEo6dQA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wDA6EEo6dQA"
+        },
+        "videoOwnerChannelTitle": "Roger's DeeWorks",
+        "videoOwnerChannelId": "UCdndFEYTjgv2FeiRiynp04A"
+      },
+      "contentDetails": {
+        "videoId": "wDA6EEo6dQA",
+        "videoPublishedAt": "2017-12-14T15:57:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wnvKtSJKESWrlLMUNlNOJKKQvTE",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "ShopBuilt - How to Anodize Aluminum!",
+        "description": "WARNING- always add acid to water!!!!\n\nIn this video i show my step by step process for anodizing aluminum in my woodworking shop. This video is full of tips and tricks for anodizing aluminum all sorts of colour using battery acid and a cheap power supply.\nGiaco whatever video - https://www.youtube.com/watch?v=rNjV6Jn1v_8&t=400s\nAnodizing supplies - http://www.caswellplating.com\nAnodizing forum - https://forum.caswellplating.com\n\nBusiness enquiry please email: shopbuilt.org@gmail.com\nhttps://www.instagram.com/shop_built/\ntweeter: https://twitter.com/nods221\nfacebook: https://www.facebook.com/pages/Shop-built/713921978645450",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8oesBi7_II/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8oesBi7_II/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8oesBi7_II/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P8oesBi7_II/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P8oesBi7_II/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P8oesBi7_II"
+        },
+        "videoOwnerChannelTitle": "ShopBuilt",
+        "videoOwnerChannelId": "UCZBqq0o54ShN5cSTflT2MnQ"
+      },
+      "contentDetails": {
+        "videoId": "P8oesBi7_II",
+        "videoPublishedAt": "2018-03-29T00:34:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2ttK4rj_Zq68xU_6-4n09Z_ztnY",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-08-07T11:11:25Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Build Your Own CNC! (Part 2) - Inputs, Outputs & Software",
+        "description": "Follow-up to Part 1.  Inputs, Outputs and software configuration. (Mach 4)\n\nPart 1 of this video: https://youtu.be/K0XfRPi_h2M\nMy CNC Basics Video: https://youtu.be/YBGqknN3gGs\nMy CNC Basics 2 Video: https://youtu.be/J4bMAIEFCYU\n\nNYC CNC: https://www.youtube.com/user/saunixcomp\nTitans Of CNC: https://www.youtube.com/user/titanamericanbuilt\n-----\nMusic: \"Cumberland Gap\" - Nat Keefe with The Bow Ties",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eLdlV3-JaH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eLdlV3-JaH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eLdlV3-JaH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eLdlV3-JaH8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eLdlV3-JaH8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eLdlV3-JaH8"
+        },
+        "videoOwnerChannelTitle": "This Old Tony",
+        "videoOwnerChannelId": "UC5NO8MgTQKHAWXp6z8Xl7yQ"
+      },
+      "contentDetails": {
+        "videoId": "eLdlV3-JaH8",
+        "videoPublishedAt": "2018-12-02T18:01:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yJEI9y0q7rAuWX57Pfnk9Dbm8y0",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Vertical Mill Tutorial 1 : The Basics",
+        "description": "This is Mill Skills, a multi-part series to help you learn basic machine shop work. Exclusive videos, drawings, models & plans available on Patreon!\nhttps://www.patreon.com/QuinnDunki\n\nWatch the whole Mill Skills series at\nhttps://www.youtube.com/playlist?list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ\n\n\nHere are links for many of the tools that you see me using:\n\u00a0(I earn small commissions on these links)\n\n\u2022 Chamfering Tool : https://amzn.to/2IJsAUs\n\u2022 Deburring Tool : https://amzn.to/2ItUtRb\n\u2022 Knurling Tool : https://amzn.to/2FblXb1\n\u2022 Tapered Reamer : https://amzn.to/2Gn0b3G\n\u2022 Nicholson files : https://amzn.to/2VcHkls\n\u2022 Nicholson needle files : https://amzn.to/2GZWcMl\n\u2022 Mitutoyo dial caliper : https://amzn.to/2IMIxJE\n\u2022 Mitutoyo micrometer set : https://amzn.to/2GtICPx\n\u2022 Brownell\u2019s Oxpho Blue : https://amzn.to/2YhZTmR\n\u2022 JAX Metal Blackener : https://amzn.to/2MVe8wj\n\u2022 1-2-3 Blocks : https://amzn.to/2EvAsGq\n\u2022 Dormer center drills : https://amzn.to/2X7U6ij\n\u2022 Mitutoyo edge finder : https://amzn.to/2G36omq\n\u2022 Mitutoyo dial indicator : https://amzn.to/2H09gBr\n\u2022 Mitutoyo dial test indicator : https://amzn.to/2E5lRQw\n\u2022 Starrett automatic center punch : https://amzn.to/2DCI7C9\n\u2022 6\u201d Divider : https://amzn.to/2GTncM3\n\u2022 NOGA arm with magnetic base : https://amzn.to/2U2bGTI\n\u2022 Collet Block set : https://amzn.to/2UkF1vZ\n\u2022 DeWalt drill and driver kit : https://amzn.to/2U2bGTI\n\u2022 DeWalt portable band saw : https://amzn.to/2U4Mhsw\n\u2022 DeWalt band saw blades : https://amzn.to/2H2J4X0\n\u2022 Dykem Layout fluid : https://amzn.to/2U7KQts\n\u2022 High Speed Steel parting blade : https://amzn.to/2YcdYBv\n\u2022 High Speed Steel blade holder : https://amzn.to/2JgO0IK\n\u2022 High Speed Steel tool blanks : https://amzn.to/2H1qoqr\n\u2022 Grizzly Pre-ground tool bits : https://amzn.to/2H4yr5z\n\u2022 AXA tool holders : https://amzn.to/2V1gOHl\n\u2022 Quick Change Toolpost : https://amzn.to/2Ea8EWR\n\u2022 Norton oil stone kit : https://amzn.to/2EbLEH3\n\u2022 Norton small sharpening stone: https://amzn.to/2PQwex9\n\u2022 Tap Magic cutting oil : https://amzn.to/2U68wOJ\n\u2022 WD-40 w/ smart straw : https://amzn.to/2GYV8rY\n\u2022 End mills : https://amzn.to/2U76Vsf\n\u2022 Milling machine starter pack : https://amzn.to/2tA2M4e\n\u2022 Super 77 Spray Glue : https://amzn.to/2YScxZl\n\u2022 Metal Lathe For Home Machinists: https://amzn.to/2LRouNb\n\u2022 Loctite 603 : https://amzn.to/2EYsPbi\n\u2022 Forceps : https://amzn.to/2Ww5dFT\n\n\n\nFor more cool shop projects, check out\nhttp://www.blondihacks.com\n\n\nWant more content like this? Try these places:\n\nBlondihacks on Instagram : http://instagram.com/blondihacks/\nBlondihacks on Twitter : https://twitter.com/quinndunki\nBlondihacks on Patreon : https://www.patreon.com/QuinnDunki",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FyuG-B95PQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FyuG-B95PQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FyuG-B95PQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FyuG-B95PQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FyuG-B95PQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FyuG-B95PQs"
+        },
+        "videoOwnerChannelTitle": "Blondihacks",
+        "videoOwnerChannelId": "UC7Jf7t6BL4e74O53dL6arSw"
+      },
+      "contentDetails": {
+        "videoId": "FyuG-B95PQs",
+        "videoPublishedAt": "2019-07-06T15:42:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tH0FNF752PSnQfbS_0zVXX9Iy84",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2021-08-12T09:05:48Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "DIY CNC build. How to make your own CNC machine",
+        "description": "How to build your CNC machineat home\nIn this video I install stepper motors, ball screws, spindle and electrons . For first time CNC  is powers up and runs small G code.\n\nStepper motors........Nema 34\nBoard .......................PMDX 424\nsoftware                    Mach4\nPower supply ..........60 volt 6 amp x3\nSpindle.....................ATC 220 volt 5.5 Kw 18000 rpm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KX6Y-biN-2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KX6Y-biN-2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KX6Y-biN-2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KX6Y-biN-2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KX6Y-biN-2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KX6Y-biN-2U"
+        },
+        "videoOwnerChannelTitle": "VinceBuild",
+        "videoOwnerChannelId": "UCBYs0ZJLaVK8VV3_tsXVysg"
+      },
+      "contentDetails": {
+        "videoId": "KX6Y-biN-2U",
+        "videoPublishedAt": "2020-02-18T18:24:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cPvBhZzechqZAIqR37w4qC3CIn8",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-08-07T10:06:14Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to build A CNC machine _ DIY CNC mill",
+        "description": "This is full video on how to build CNC machine at home. This CNC mill is very rigid it has very high accuracy. It has zero backlash.\n\nHere are some info on build.\n\nBuild time: About 500 hours.\nBuild cost:  About $4500\n\nTravels:\nZ : 11\" ( 27.9 cm )\nX: 22\" (55.88 cm)\nY: 12\" (30.48cm)\n\nSpindle:\n5.5 KW ATC BT30 18000RPM from Ebay. ( very happy with it) seller is super nice guy.\n\nhttps://www.ebay.ca/itm/Combo-ATC-tool-change-spindle-motor-BT30-5-5kw-18k-rpm-VFD-NBT30/184223154689?hash=item2ae48e4201:g:XTQAAOSwPdhdOt~h\n\nElectronics:\n\nBOB:  PMDX 424. https://www.pmdx.com/PMDX-424\nSpindle speed control:  PMDX 407.   https://www.pmdx.com/PMDX-407\nStepper motors : Nema 34 1275oz-in\nDrivers: DM860d from Ebay\n\nSoftware: \nMach4. \nhttps://www.machsupport.com/shop/mach4-hobby/\n\nRails:\n20 mm Raills for  X,Y and Z\n\nBall screws:\nY ball screw is 20mm\nX  Z ball screws are 16mm\n\nCouplings:\nBellows style Ruland  coupling with zero backlash .\nhttps://www.ruland.com/servo-couplings/bellows-couplings.html.\n\nFrame:\nY Axis \n24\" x 14\" X 4\"( 64 X 35.5 X 10.1 cm ) \nMaterial 1.25\" X 4\" ( 3.1 X 10.1cm )steel\n\nX Axis\n35\" X 11\" ( 88 X 28 cm ) \nMaterial .500\" (12.7mm) base plate \n1.25\" X 3\" walls \n\nZ column\n35\" x 8\" X 4\" ( 88.9 X20.3 X 10.1 cm) tube with .500\" (12.7mm) wall thikness\nfilled with cement.\n\nEnclosure:\nAluminum sheet and angle.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i4q95Czq7pc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i4q95Czq7pc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i4q95Czq7pc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i4q95Czq7pc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i4q95Czq7pc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i4q95Czq7pc"
+        },
+        "videoOwnerChannelTitle": "VinceBuild",
+        "videoOwnerChannelId": "UCBYs0ZJLaVK8VV3_tsXVysg"
+      },
+      "contentDetails": {
+        "videoId": "i4q95Czq7pc",
+        "videoPublishedAt": "2020-03-30T20:18:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QQ6BTFrOfgOdusHBBQS9X3JtvOs",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-08-09T14:37:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Cutting aluminium on a desktop CNC - Must have upgrades!",
+        "description": "I've been wanting to cut aluminium better on my desktop CNC and have purchased various tools and accessories over the last few months to help improve my cuts and workflow. I also explain why they are beneficial and why you might need them too. Feel free to use the timestamps below.\n\nChapters\n0:00 Intro\n1:46 Endmills\n2:50 What type of endmills\n4:11 Why use air and coolant on your cuts\n5:20 Air compressor costs\n7:38 Mist coolant tips\n8.56 Coolant UK supplier\n9:41 Example of how coolant can help\n10:41 Vice tips and what to avoid\n12:53 Vice parallels\n13:53 Enclosure\n15:20 Calipers\n16:00 Layout fluid\n16:41 Carbide Scriber\n17:00 Deburring tool\n17:33 Engineer Square and grade types\n18:41 Indicators\n19:07 Surface plates\n19:43 Taps\n20:41 Bandsaw & money saving with it\n22:47 Recap\n24:04 Fixturing and Workholding\n\nUK Coolant Supplier - https://www.westwayoils.co.uk/\n\nMist Coolant (US) https://amzn.to/2YCqsUU | (UK) https://amzn.to/3e70C1J\nQuiet air compressor (US) https://amzn.to/2UOKjPm (California Tools are highly rated) | (UK) https://amzn.to/2Y7vWrm (I really like this Implotex compressor)\nDial Test Indicator (US) https://amzn.to/30NekCU | (UK) https://amzn.to/3e8uNFA\nCheap Vice Stop (US) https://amzn.to/2XZpRNL | (Aliexpress) https://bit.ly/2zvhtMu\nSingle Flute Endmills (US) https://amzn.to/30GpAB1 | (UK) https://amzn.to/3dY8530\n(Aliexpress are usually cheaper for endmills but a longer wait) - https://bit.ly/2B3JBH3\nDykem (US) https://amzn.to/3fscUSp | (UK) https://amzn.to/2N3iyyh\nEngineer Square (US) https://amzn.to/2zFhayU | (UK) https://amzn.to/2YDkfId\nVice Parallels (US) https://amzn.to/2CghAMZ | (UK) https://www.rdgtools.co.uk/acatalog/Parallel-Sets.html\n\nSMW Modular Vice - https://saundersmachineworks.com/products/modular-vise-system-1-2\nMitee Bite Workholding  - https://www.miteebite.com/products/\n\nClips use under Creative Commons:\nNoga - https://youtu.be/oE1cPRsaNfE\nGerardi - https://youtu.be/vqnmtUZQpfA\nRyan V1 Engineering Inc - https://youtu.be/1CX3qui0-Yo\nMark Qvale - https://youtu.be/X5tpqR1g6qI\nNaomi 'SexyCyborg' Wu - https://youtu.be/BkmVH8knK60\nSCHUNK - https://youtu.be/1RZYvnKAlB4\n\n\ud83d\udc9a Support me \ud83d\udc9a\r\nPatreon - https://www.patreon.com/thisdesignedthat\r\n\r\n---------\r\n\r\nGEAR USED:\r\nBEST CAMERA UNDER $1K (US) https://amzn.to/2GpRCIw | (UK) https://amzn.to/2Xg7dOo\r\nFAV LOW LIGHT LENS: (US) https://amzn.to/2QT7aJ5 | (UK) https://amzn.to/2v7HbRr\r\nFAV MACRO LENS: (US) https://amzn.to/2VcOa6O | (UK) https://amzn.to/2V12pPA\r\nGOOD VLOG MIC: (US) https://amzn.to/2Sdr12I | (UK) https://amzn.to/2DfVyHU\r\nAMAZING LOW COST LIGHT: (US) https://amzn.to/2ElMJxg | (UK) https://amzn.to/2v8A23u \r\n120CM QUICK SETUP SOFTBOX: (US) https://amzn.to/2IAOBDf | (UK) https://amzn.to/2F6jcrd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nlH-JpQVCWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nlH-JpQVCWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nlH-JpQVCWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nlH-JpQVCWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nlH-JpQVCWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nlH-JpQVCWE"
+        },
+        "videoOwnerChannelTitle": "This Designed That",
+        "videoOwnerChannelId": "UCgT2z8r_q7wqDLfjigKWqJA"
+      },
+      "contentDetails": {
+        "videoId": "nlH-JpQVCWE",
+        "videoPublishedAt": "2020-06-16T15:42:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q3LyF7Y1V5kkxqqZvKf1Hrbc_pE",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Machining Fundamentals: Introduction to Mills",
+        "description": "This Machining Fundamentals episode is a full introduction to Mills, where you\u2019ll learn the basics of when and how to use a milling machine in your workflow.\n\nMachining Fundamentals is a series created to help you brush up on your machining knowledge. Each episode is hosted by one of our in-house experts and provides a detailed overview of a specific machining tool/process. \n\n\n\u25baFREE TRIAL |  https://autode.sk/2uLm8a6\r\n\u25baSUBSCRIBE |  https://autode.sk/2q61ZpD\r\n\u25baGET STARTED | https://autode.sk/2HaB2Jk\r\n\r\nCONNECT:\r\nINSTAGRAM | https://autode.sk/2Enzh8P\r\nFACEBOOK |  http://autode.sk/19jII5A\r\nTWITTER |  http://autode.sk/19jIJXc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9-I-_O0fbn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9-I-_O0fbn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-I-_O0fbn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9-I-_O0fbn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9-I-_O0fbn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9-I-_O0fbn4"
+        },
+        "videoOwnerChannelTitle": "Autodesk Fusion 360",
+        "videoOwnerChannelId": "UCiMwMz3RMbW5mbx0iDcRQ2g"
+      },
+      "contentDetails": {
+        "videoId": "9-I-_O0fbn4",
+        "videoPublishedAt": "2020-10-26T14:36:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eUWHdTs9qhkZzJdPVem8-Lwz9Js",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Machining Fundamentals: Introduction to Milling Tools",
+        "description": "This episode of our Machining Fundamentals series explores the different types of cutting tools that can be used for milling purposes, when it\u2019s best to use these tools, and how to use them inside of Fusion 360.\n\nMachining Fundamentals is a series created to help you brush up on your machining knowledge. Each episode is hosted by one of our in-house experts and provides a detailed overview of a specific machining tool/process. \n\n\u25baFREE TRIAL |  https://autode.sk/2uLm8a6\r\n\u25baSUBSCRIBE |  https://autode.sk/2q61ZpD\r\n\u25baGET STARTED | https://autode.sk/2HaB2Jk\r\n\r\nCONNECT:\r\nINSTAGRAM | https://autode.sk/2Enzh8P\r\nFACEBOOK |  http://autode.sk/19jII5A\r\nTWITTER |  http://autode.sk/19jIJXc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yU9QvIp5MwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yU9QvIp5MwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yU9QvIp5MwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yU9QvIp5MwU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yU9QvIp5MwU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yU9QvIp5MwU"
+        },
+        "videoOwnerChannelTitle": "Autodesk Fusion 360",
+        "videoOwnerChannelId": "UCiMwMz3RMbW5mbx0iDcRQ2g"
+      },
+      "contentDetails": {
+        "videoId": "yU9QvIp5MwU",
+        "videoPublishedAt": "2020-11-03T14:17:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LycoHiCwCiTe4Mv1kDnvYJuR6nc",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-08-06T00:01:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How To CNC Cut Metal For Under $400",
+        "description": "The dream is to be able to CNC cut metal parts in your garage for the least money possible. Well, I think I've got a solution for y'all: The 1310 CNC. It'a all metal construciton thick linear motion rods and Lead Screws on all 3 axis makes this the most robust inexpensive CNC machine coming out of China for under $300, but it's got an achilles heel: The spindle motor. So let's replace that and cut some 1/2\" Aluminum.\n\nSupport this Channel on Patreon: https://www.patreon.com/designprototypetest\n\nTimestamps:\n0:00 Intro\n3:41 - Assembly Timelapse\n4:48 - Stock Built Walkthrough & Critique\n11:31 - Electronics\n12:50 - Universal G-code Sender (UGS)\n15:41 - CNC Coordinates Explained\n19:07 - Firmware Modification\n20:09 - Software workflow\n29:07 - First Cuts in Metal\n31:03 - New Motor\n32:35 - 3D Printed Upgrade\n34:20 - Getting the RPM correct by ear\n35:32 - Adjusting Stepper Motor Torque\n38:00 - New Motor Fan\n39:13 - First Successful Aluminum Metal Parts Cut\n43:15 - The Chatter is Breaking Bits\n44:47 - Issues with Bits and Bit Selection\n48:48 - Air cooling the cut\n49:39 - Relocating the electronics\n50:34 - Conclusion/Lessons Learned",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EaGFQ7M04Wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EaGFQ7M04Wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EaGFQ7M04Wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EaGFQ7M04Wo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EaGFQ7M04Wo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EaGFQ7M04Wo"
+        },
+        "videoOwnerChannelTitle": "Design Prototype Test",
+        "videoOwnerChannelId": "UCOyW3G18eCIhZvvmCb9jzCg"
+      },
+      "contentDetails": {
+        "videoId": "EaGFQ7M04Wo",
+        "videoPublishedAt": "2020-11-23T20:34:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MSS2Azoi2nrLxQC5ls6M1CGHcKY",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Machining Fundamentals: Introduction to Lathes",
+        "description": "This episode of Machining Fundamentals is all about the lathe. Learn how lathes work, how they differ from milling machines, when to use a lathe versus a milling machine, and more.\n\nMachining Fundamentals is a series created to help you brush up on your machining knowledge. Each episode is hosted by one of our in-house experts and provides a detailed overview of a specific machining tool/process. \n\n\u25baFREE TRIAL |  https://autode.sk/2uLm8a6\r\n\u25baSUBSCRIBE |  https://autode.sk/2q61ZpD\r\n\u25baGET STARTED | https://autode.sk/2HaB2Jk\r\n\r\nCONNECT:\r\nINSTAGRAM | https://autode.sk/2Enzh8P\r\nFACEBOOK |  http://autode.sk/19jII5A\r\nTWITTER |  http://autode.sk/19jIJXc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5il7lKJmftk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5il7lKJmftk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5il7lKJmftk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5il7lKJmftk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5il7lKJmftk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5il7lKJmftk"
+        },
+        "videoOwnerChannelTitle": "Autodesk Fusion 360",
+        "videoOwnerChannelId": "UCiMwMz3RMbW5mbx0iDcRQ2g"
+      },
+      "contentDetails": {
+        "videoId": "5il7lKJmftk",
+        "videoPublishedAt": "2020-11-24T19:01:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pM2vOFHgI4JN7herNrYqXRuXaAs",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-08-09T14:37:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "3018 CNC/PRO - New (updated) beginner's step by step guide - All tricks and tips",
+        "description": "#DIYCNCMill\n#3018CNC\n#Fusion360\n#GRBL\n#Tutorials\n\n0:00:00 Introduction\n0:01:17 Unboxing and assembly\n0:15:06 Testing the offline controller\n0:17:17 Setting up the touch probe\n0:19:14 Connect the 3018 to the computer\n0:20:36 Setting up Candle (GRBL Controller)\n0:22:45 Reversing axis direction using Candle\n0:23:44 Set the correct spindle speed\n0:24:38 Candle user interface\n0:25:33 Setting up the Z probe button in Candle\n0:26:58 Setting up Fusion 360\n0:28:48 Creating a simple 3D CAD part with Fusion 360\n0:32:51 Creating a Tool Library in Fusion 360\n0:36:39 Creating tool paths and G-code for the first example\n0:47:02 Generating the G-code files\n0:48:34 Homing - G28 problem in G-code file\n0:50:18 Setting up the stock and run the G-code file on the CNC machine\n0:59:49 Creating tool paths for existing 3D models (STEP or STL files)\n1:00:57 Creating tool paths for 3D art relief (from STL files)\n1:13:58 Laser engraving using LightBurn\n1:18:41 Upgrading GRBL firmware\n1:22:07 Conclusion\n\nI got some feedback from viewers about the previous version of this video that I skipped showing how to change the view of the model. I updated the video in republished it.\n\n\nHere are the links where you can buy the CNC machine set I used in this video:\nhttps://www.amazon.com/Mostics-5-5-450nm-Controller-Software-300x180x45mm/dp/B08K8V9HCZ/ref=sr_1_2?crid=8UWRQRWHVOVH\n\n\n\nCNC machine without laser:\nhttps://www.amazon.com/Upgraded-Mostics-Controller-Software-300x180x45mm/dp/B08K8YMVYJ/ref=sr_1_4?crid=8UWRQRWHVOVH\n\n\nI got sponsored by a seller from Amazon with a free set of 3018 CNC Pro and I took the chance to remake the instructional video about how to start engraving with this machine.\n\n\nI tried to show every details, all the tricks and tips that I know about this machine:\n- Assembling the kit\n- Testing the hardware - correcting axis direction\n- Quick guide to 3D CAD design with Fusion 360\n- Setting up the CAM for the part\n- Export to Gcode files\n- Using Gcode sender - GRBL controller/Candle\n- Setting up CAM process for STEP and STL files using fusion 360\n\n- Touch probe\n- firmware update\nHappy milling!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fd07-OfCsAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fd07-OfCsAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fd07-OfCsAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fd07-OfCsAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fd07-OfCsAk"
+        },
+        "videoOwnerChannelTitle": "Minh's man cave",
+        "videoOwnerChannelId": "UC2WnVQvs841c7HwUIXtaA0Q"
+      },
+      "contentDetails": {
+        "videoId": "fd07-OfCsAk",
+        "videoPublishedAt": "2020-11-27T22:40:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JzK4VJz1L9gZZK_EhwV68u3cA4M",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Machining Fundamentals: Introduction to Post Processors",
+        "description": "In this episode of Machining Fundamentals, you'll learn all about post processor files (aka posts) - what they are, why we need them, and where to get them to use with Fusion 360.\n\nMachining Fundamentals is a series created to help you brush up on your machining knowledge. Each episode is hosted by one of our in-house experts and provides a detailed overview of a specific machining tool/process. \n\n\u25baFREE TRIAL |  https://autode.sk/2uLm8a6\r\n\u25baSUBSCRIBE |  https://autode.sk/2q61ZpD\r\n\u25baGET STARTED | https://autode.sk/2HaB2Jk\r\n\r\nCONNECT:\r\nINSTAGRAM | https://autode.sk/2Enzh8P\r\nFACEBOOK |  http://autode.sk/19jII5A\r\nTWITTER |  http://autode.sk/19jIJXc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FGqinfbiAV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FGqinfbiAV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGqinfbiAV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FGqinfbiAV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FGqinfbiAV0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FGqinfbiAV0"
+        },
+        "videoOwnerChannelTitle": "Autodesk Fusion 360",
+        "videoOwnerChannelId": "UCiMwMz3RMbW5mbx0iDcRQ2g"
+      },
+      "contentDetails": {
+        "videoId": "FGqinfbiAV0",
+        "videoPublishedAt": "2020-12-18T18:09:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u-YRLVeU85MzoqbGkT1S0DBnvxo",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Build your own Injection Molding Machine for around $200",
+        "description": "This video will show you how to build your own Injection Molding Machine for around $200. We provide step by step instructions as well and build of materials and other resources to get you started.\n\n***The items linked below are for description purposes only, please search around for the best prices on all items except for the stainless steel parts. Those are only available through the links.***  \n\nWhat you will need:\nBench Drill Press Stand  x2 \nhttps://amzn.to/3GR3vCy\nBuster Beagle 3D Custom Stainless Steel Chamber and Plunger\nhttps://busterbeagle3d.square.site/product/injection-molding-machine-stainless-steel-parts/1?cs=true  (Preferred site to purchase)\n****International/Domestic buyers can also buy from the Etsy page that allows international shipping***\nhttps://etsy.me/36OFPxc\n\n3D Printed Enclosure (can use own enclosure as well)\nhttps://www.thingiverse.com/thing:4658991\n2  # 4x1/2in Flat Head Phillips (To hold enclosure back on)\n3/8-16 x 6\"  Hex Bolt full thread x2\nRex C-100 PID Temperature Controller , Solid State Relay 40A, M6 Temp Sensor (Red to positive, blue to negative) https://amzn.to/3bR7Qap\nAC power switch \nhttps://busterbeagle3d.square.site/product/220v-110v-power-triple-outlet-socket-10a-power-supply-switch-with-fuse/4?cs=true\n35x35 110V x 380W Band Heater x2\nhttps://busterbeagle3d.square.site/product/110v-380w-35mm-x-35mm-band-heater/5?cs=true\nINTERNATIONAL PEOPLE THAT USE 220V JUST HOOK UP 110V BANDS IN SERIES\n1/4-20 x 4\" Screw /Socket cap screw x2  ( or M6 x100mm) for handles.\n1/4-20 x .5 Bolt -Screwed into top hole in the heat chamber (M6 may also work)\n14 Gauge Wire with connectors\n3 Prong Power Cord Cable\nhttps://amzn.to/3GXg4fs\n1/4\" Wire Loom (optional) https://amzn.to/3eeKRs5\nTitanium Exhaust Wrap with Stainless Steel zip ties (optional)\nhttps://amzn.to/3eTdGJt\n\nHere are some current Injection Molding Machines on the market. These sites are also a great resource for learning about and purchasing plastic and molds.  \nLNS Tech Model 150A: https://www.techkits.com/\nGalomb Model B100: https://www.injectionmolder.net/\n\nAnother good online resource for purchasing Aluminum blanks to CNC or Mill. \nSpeedy Metals: https://www.speedymetals.com/c-8351-category.aspx\n\nMusic. Lone Wolf by Dan Lebowitz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HoSVPHVESiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HoSVPHVESiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HoSVPHVESiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HoSVPHVESiE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HoSVPHVESiE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HoSVPHVESiE"
+        },
+        "videoOwnerChannelTitle": "Buster Beagle 3D",
+        "videoOwnerChannelId": "UCzQXsDo_IF1EJodh3MGvUHw"
+      },
+      "contentDetails": {
+        "videoId": "HoSVPHVESiE",
+        "videoPublishedAt": "2020-12-31T00:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ANn66g2Q50DBWoi3wJ8_uh3u3lY",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Afraid of Micro Machining? An Introduction",
+        "description": "I've been using small end mills (down to 0.01\" diameter, or 0.254 mm) for many years as part of my hobby making small injection molds. At first I used trial and error, but that was expensive. Here I show some of the things I've learned that allow me to use micro end mills without fear I'll break them (or at least, not as much fear).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6HpHvuyJBF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6HpHvuyJBF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6HpHvuyJBF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6HpHvuyJBF4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6HpHvuyJBF4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6HpHvuyJBF4"
+        },
+        "videoOwnerChannelTitle": "JohnSL",
+        "videoOwnerChannelId": "UCJT6JcjZCttm5PHnW9kWluQ"
+      },
+      "contentDetails": {
+        "videoId": "6HpHvuyJBF4",
+        "videoPublishedAt": "2021-01-02T19:49:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nyfMlzCQPcOia3knJWuDZZy9dCE",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Machining Fundamentals: Introduction to Toolpath Types - From 2D to 5 Axis",
+        "description": "The next installment of our Machining Fundamentals Series features an in-depth look at various tool pathtypes, from 2D all the way to 5 Axis, and how you can program them with Fusion 360.\n\nMachining Fundamentals is a series created to help you brush up on your machining knowledge. Each episode is hosted by one of our in-house experts and provides a detailed overview of a specific machining tool/process. \n\n\u25baFREE TRIAL |  https://autode.sk/2uLm8a6\r\n\u25baSUBSCRIBE |  https://autode.sk/2q61ZpD\r\n\u25baGET STARTED | https://autode.sk/2HaB2Jk\r\n\r\nCONNECT:\r\nINSTAGRAM | https://autode.sk/2Enzh8P\r\nFACEBOOK |  http://autode.sk/19jII5A\r\nTWITTER |  http://autode.sk/19jIJXc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YvluIxAzSi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YvluIxAzSi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YvluIxAzSi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YvluIxAzSi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YvluIxAzSi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YvluIxAzSi4"
+        },
+        "videoOwnerChannelTitle": "Autodesk Fusion 360",
+        "videoOwnerChannelId": "UCiMwMz3RMbW5mbx0iDcRQ2g"
+      },
+      "contentDetails": {
+        "videoId": "YvluIxAzSi4",
+        "videoPublishedAt": "2021-01-13T21:51:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d4EzwGZpr4UeRv8-oVWvgH5q7R8",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-08-09T14:37:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Cutting Aluminum Molds on my 3018 Pro CNC Machine.",
+        "description": "This is a not so quick video I put together on how I cut aluminum molds for the Buster Beagle 3D Injection Molding Machine.  As I say in the video I am not an expert on CNC but as a tinker/maker this is how I was able to do it. \n\nBuster Beagle 3D DIY injection molding machine:\nhttps://www.youtube.com/watch?v=HoSVPHVESiE\n\nXYZ Probe Vice:\nhttps://www.youtube.com/watch?v=m8PIV4qrlXo&\n\nWhere is get my metal:\nhttp://www.speedymetals.com/default.aspx?\n\n3018 Pro CNC Machine:\nhttps://www.ebay.com/itm/3018-PRO-DIY-CNC-Router-2in1-Laser-Engraving-Machine-2500mw-ER11-Collet/303450416716?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649\n\n500W 52mm Spindle with Offline Controller:\n\nhttps://usa-m.banggood.com/Machifit-ER11-Chuck-CNC-500W-Spindle-Motor-with-52mm-Clamps-and-Power-Supply-Speed-Governor-p-1027937.html?rmmds=orderdetail\n\n\nMusic. Lone Wolf by Dan Lebowitz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yb_kre3Zwz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yb_kre3Zwz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yb_kre3Zwz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yb_kre3Zwz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yb_kre3Zwz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Yb_kre3Zwz0"
+        },
+        "videoOwnerChannelTitle": "Buster Beagle 3D",
+        "videoOwnerChannelId": "UCzQXsDo_IF1EJodh3MGvUHw"
+      },
+      "contentDetails": {
+        "videoId": "Yb_kre3Zwz0",
+        "videoPublishedAt": "2021-01-17T22:10:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "alisiQ63vSC404NeZVM0E-uuDCg",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Amazing precision of a DIY Wire EDM machine",
+        "description": "This video demonstrates what kind of precision is possible on a DIY wire EDM machine.\nPlans for this machine are available for free on https://www.baxedm.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2dsrLD52Mv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2dsrLD52Mv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2dsrLD52Mv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2dsrLD52Mv0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2dsrLD52Mv0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2dsrLD52Mv0"
+        },
+        "videoOwnerChannelTitle": "BAXEDM",
+        "videoOwnerChannelId": "UCy4kgsAYxcraee8w5SfqXPA"
+      },
+      "contentDetails": {
+        "videoId": "2dsrLD52Mv0",
+        "videoPublishedAt": "2021-04-05T15:51:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EE8_S_mR8zOX4clhGHh4mkDeO8M",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-08-12T00:06:16Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Making A Simple Depth Gauge",
+        "description": "G'day everyone. I'll be making a quick, but very useful depth gauge base attachment for my dial caliper. Measuring the depth of holes is arguably the weakest feature of what a caliper can do as the base is small and tents to walk around, giving you varying measurements. With this easy modification, we will be able to make a larger base and use the caliper to make much more accurate depth measurements. The one I made in the video will be made from aluminum, however I will be sure to remake it in the future from a harder steel. Cheers.\n\nTimestamps\n0:00 - Introduction\n0:43 - CAD and Design\n1:27 - Making The Base\n5:23 - Making The Retaining Bolt\n6:33 - Assembly",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oeYUQYkE6_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oeYUQYkE6_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oeYUQYkE6_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oeYUQYkE6_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oeYUQYkE6_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oeYUQYkE6_g"
+        },
+        "videoOwnerChannelTitle": "Artisan Makes",
+        "videoOwnerChannelId": "UC7aAyIrjeH2RKciAXzdOaJA"
+      },
+      "contentDetails": {
+        "videoId": "oeYUQYkE6_g",
+        "videoPublishedAt": "2021-04-18T17:23:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rr7kq-MQCrqNfeGHkQvzatiEzX8",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "BEST DIY Anodizing Setup",
+        "description": "Have you ever wanted to anodize aluminum at home? \n\nThe process doesn't have to be complex, and in this video we share a cheap DIY anodizing setup that we put together. We use it to anodize parts from our lathe or mill. Here we anodize plastic injection molds we made on our custom CNC milling machine.\n\n#anodizing #diy #homescience #CNC #3dprinting\n\nI Built My Own CNC Machine \nhttps://youtu.be/FkGdJMVJ1Fc\n\nI Built My Own Plastic Injection Machine \nhttps://youtu.be/l4gGWufoIYI\n\nI Built My Own Anodizing Setup \nhttps://youtu.be/YIG4TqPqoVc\n\nI Built My Own CNC Router \nhttps://youtu.be/O2LlD0qsXwY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YIG4TqPqoVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YIG4TqPqoVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YIG4TqPqoVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YIG4TqPqoVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YIG4TqPqoVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YIG4TqPqoVc"
+        },
+        "videoOwnerChannelTitle": "Action BOX",
+        "videoOwnerChannelId": "UCHrFvnP1EEEZHNam_Nk_5rQ"
+      },
+      "contentDetails": {
+        "videoId": "YIG4TqPqoVc",
+        "videoPublishedAt": "2021-06-15T05:20:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uAC3s31b1eXakObFzBBpLHPau0g",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-08-07T10:05:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "BEST DIY CNC Machine",
+        "description": "I designed and built my own DIY homemade industrial grade CNC milling machine to use for personal projects. This homebuilt machine is made from epoxy granite and has an 8 horse power spindle, servo motors all around, and an automatic tool changer. The machine weighs over 3000kg and works perfectly. All designs are my own and 100% original. \n\nEnjoy and post your questions \ud83d\ude03 \n\n\nI Built My Own CNC Machine \nhttps://youtu.be/FkGdJMVJ1Fc\n\nI Built My Own Plastic Injection Machine \nhttps://youtu.be/l4gGWufoIYI\n\nI Built My Own Anodizing Setup \nhttps://youtu.be/YIG4TqPqoVc\n\nI Built My Own CNC Router \nhttps://youtu.be/O2LlD0qsXwY\n\n#CNC #machineshop #DIY #epoxy #mill #engineering #machine",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FkGdJMVJ1Fc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FkGdJMVJ1Fc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FkGdJMVJ1Fc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FkGdJMVJ1Fc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FkGdJMVJ1Fc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FkGdJMVJ1Fc"
+        },
+        "videoOwnerChannelTitle": "Action BOX",
+        "videoOwnerChannelId": "UCHrFvnP1EEEZHNam_Nk_5rQ"
+      },
+      "contentDetails": {
+        "videoId": "FkGdJMVJ1Fc",
+        "videoPublishedAt": "2021-06-15T05:24:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ouj6xjhx4-1GSrlw5t3M8DOJR6I",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "DIY Plastic Injection Machine - Faster than 3D printing",
+        "description": "After building my DIY homemade CNC milling machine from scratch, I wanted to push my home shop to the limits. I designed, and developed a homebuilt, fully automated plastic injection machine that is desktop size, and fully electric. 3D printing takes hours per part. This machine can make 4 parts every minute. \n\nI hope you enjoy, and drop your questions in the comments below.  \n\n\n\nI Built My Own CNC Machine \nhttps://youtu.be/FkGdJMVJ1Fc\n\nI Built My Own Plastic Injection Machine \nhttps://youtu.be/l4gGWufoIYI\n\nI Built My Own Anodizing Setup \nhttps://youtu.be/YIG4TqPqoVc\n\nI Built My Own CNC Router \nhttps://youtu.be/O2LlD0qsXwY\n\n\n#CNC #machineshop #DIY #3Dprinting #engineering #machine",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l4gGWufoIYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l4gGWufoIYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l4gGWufoIYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l4gGWufoIYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l4gGWufoIYI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l4gGWufoIYI"
+        },
+        "videoOwnerChannelTitle": "Action BOX",
+        "videoOwnerChannelId": "UCHrFvnP1EEEZHNam_Nk_5rQ"
+      },
+      "contentDetails": {
+        "videoId": "l4gGWufoIYI",
+        "videoPublishedAt": "2021-06-15T05:28:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HCLP0JtfN8ViYbT_8TpP4JHOF1A",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-08-06T00:02:00Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Casting Aluminum for the Home from a Simple 3D Print",
+        "description": "Returning to the foundry, I cast an aluminum wall hook.  The design of the hook had to take into consideration how it would be cast.  Every face had to taper perfectly for the pattern to actually release from the mold!\n\nIf you are at all interested in my foundry and torch setup, please check out my website:   https://www.grunblau.com\n\nBTW... If you are a long-time subscriber, thank you!  If you are new to the channel, welcome!  (Be sure to also hit the bell notification or you might miss out on new content!)\n\nLink for Black Licorice:  https://amzn.to/2TCtzNN\n\n(Brian Oltrogge is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com).\n\nMusic: \n\nCooper Ave by The Westerlies (intro)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9AaujAPghhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9AaujAPghhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9AaujAPghhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9AaujAPghhE"
+        },
+        "videoOwnerChannelTitle": "Brian Oltrogge",
+        "videoOwnerChannelId": "UCOywIdppbhn6hkgcEtDMatg"
+      },
+      "contentDetails": {
+        "videoId": "9AaujAPghhE",
+        "videoPublishedAt": "2021-06-17T11:43:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n478_D9BFfOnkrxVQ9w1xlVmpmQ",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Getting Started In Machining - Absolute Beginners Click Here!",
+        "description": "This episode on Blondihacks, I'm showing you how to get started in machining as hobby from nothing! Exclusive videos, drawings, models & plans available on Patreon!\nhttps://www.patreon.com/QuinnDunki\n\nBuy Blondihacks stuff in my store! http://www.blondihacks.com/store\n\nYour Day 1 Shopping List:\n\n- Safety glasses : https://amzn.to/2SO99AY\n- Ear plugs : https://amzn.to/3ca1Bzg\n- Pre-ground tool bits : https://amzn.to/2H4yr5z\n- Quick Change Tool Post set : https://amzn.to/310mshq\n- Full drill index : https://littlemachineshop.com/products/product_view.php?ProductID=2827&category=\n- Center drills : https://amzn.to/34CItFP\n- Reamers : https://amzn.to/3fIlPT0\n- Lathe drive dogs : https://amzn.to/34AgDKf\n- Live center : https://amzn.to/3ca1Vhf\n- Drill chuck with JT33/MT2 arbor : https://littlemachineshop.com/products/product_view.php?ProductID=2870&category=\n- Mitutoyo dial indicator : https://amzn.to/2H09gBr\n- Mitutoyo dial test indicator (optional for beginners) : https://amzn.to/3yUbHhr\n- NOGA arm with magnetic base : https://amzn.to/2U2bGTI\n- Mitutoyo dial caliper : https://amzn.to/2IMIxJE\n- Mitutoyo micrometer with tenths scale : https://amzn.to/2RhNO2s\n- Tap Magic cutting oil : https://amzn.to/37uYzRS\n- Way Oil (no whales involved) : https://amzn.to/3yPlJAx\n\nImport Lathe Buying Guide : https://www.youtube.com/watch?v=znZgT3Zmf5Y\nHow To Buy Metal : https://www.youtube.com/watch?v=yBVo8wufsCE\n\nOld catalogues courtesy of:\nVintage Machinery : http://www.vintagemachinery.org\n\nHere are links for many of the tools that you see me using:\n (I earn small commissions on these links)\n\n\u2022 Mill clamping set : https://amzn.to/2xc9vqr\n\u2022 Zero Flute Chamfering Tool : https://amzn.to/3bmPLPe\n\u2022 NOGA Deburring set : https://amzn.to/2Jv3RlW\n\u2022 NOGA Reversible Deburring Tool : https://amzn.to/2X07WX1\n\u2022 Chucking Reamer set : https://amzn.to/3odnVvh\n\u2022 Nicholson files : https://amzn.to/2VcHkls\n\u2022 Nicholson needle files : https://amzn.to/2BDt7ph\n\u2022 1-2-3 Blocks : https://amzn.to/2EvAsGq\n\u2022 Dormer center drills : https://amzn.to/2X7U6ij\n\u2022 NOGA arm with magnetic base : https://amzn.to/2U2bGTI\n\u2022 Collet Block set : https://amzn.to/2UkF1vZ\n\u2022 DeWalt portable band saw : https://amzn.to/2U4Mhsw\n\u2022 High Speed Steel parting blade : https://amzn.to/2YcdYBv\n\u2022 High Speed Steel blade holder : https://amzn.to/2JgO0IK\n\u2022 High Speed Steel tool blanks : https://amzn.to/2H1qoqr\n\u2022 Grizzly Pre-ground tool bits : https://amzn.to/2H4yr5z\n\u2022 AXA tool holders : https://amzn.to/2V1gOHl\n\u2022 Quick Change Toolpost : https://amzn.to/310mshq\n\u2022 Norton oil stone kit : https://amzn.to/2EbLEH3\n\u2022 Norton small sharpening stone: https://amzn.to/2PQwex9\n\u2022 End mills : https://amzn.to/2U76Vsf\n\u2022 Milling machine starter pack : https://amzn.to/2tA2M4e\n\u2022 Forceps : https://amzn.to/2Ww5dFT\n\u2022 Mill Parallels : https://amzn.to/2lfW82i\n\u2022 Starrett automatic center punch : https://amzn.to/2DCI7C9\n\u2022 Budget transfer punch set : https://amzn.to/2yfDgHi\n\u2022 Precision shim stock : https://amzn.to/34lJlME\n\u2022 Jet 2-ton press : https://amzn.to/2SLas1s\n\u2022 Starrett tap wrenches : https://amzn.to/35jxM9e\n\u2022 Goldenrod oiler : https://amzn.to/2TTS0En\n\u2022 Acid brushes : https://amzn.to/36qWCo5\n\u2022 Scotchbrite deburring wheel : https://amzn.to/3ks0P2V\n\u2022 Fein Turbo I shop vac : https://amzn.to/2vXpech\n\n\u2022 Machinist\u2019s scale : https://amzn.to/2Zk6oVj\n\u2022 Mixed metric/imperial dial caliper : https://amzn.to/2KKARYY\n\u2022 Mitutoyo dial caliper : https://amzn.to/2IMIxJE\n\u2022 Mitutoyo micrometer set : https://amzn.to/2GtICPx\n\u2022 Mitutoyo depth micrometer : https://amzn.to/33M8aSH\n\u2022 Mitutoyo edge finder : https://amzn.to/2G36omq\n\u2022 Mitutoyo dial indicator : https://amzn.to/2H09gBr\n\u2022 Mitutoyo dial test indicator : https://amzn.to/2E5lRQw\n\u2022 Coaxial indicator : https://amzn.to/3bbBEwE\n\u2022 Mitutoyo telescoping gauge set : https://amzn.to/2Z6houn\n\u2022 Starrett 98-6 Level : https://amzn.to/38K7lMD\n\u2022 Grizzly Height Gage : https://amzn.to/2PDTr7i\n\u2022 Thread Checker : https://amzn.to/2CpvAUU\n\u2022 The Amateur\u2019s Lathe book : https://amzn.to/3jIYlwe\n\n\u2022 Anchor Lube : https://amzn.to/2H9X6oQ\n\u2022 Boeshield T-9 : https://amzn.to/2TCE0wB\n\u2022 Brownell\u2019s Oxpho Blue : https://amzn.to/2YhZTmR\n\u2022 Dykem layout fluid : https://amzn.to/2U7KQts\n\u2022 Dykem dauber : https://amzn.to/2uoXtbm\n\u2022 Tap Magic cutting oil : https://amzn.to/37uYzRS\n\u2022 WD-40  : https://amzn.to/2GYV8rY\n\u2022 Super 77 Spray Glue : https://amzn.to/2YScxZl\n\u2022 Loctite 603 : https://amzn.to/2EYsPbi\n\u2022 Loctite 242 : https://amzn.to/2RIt3sQ\n\u2022 Way oil : https://amzn.to/38Gl9qW\n\u2022 High pressure grease : https://amzn.to/2GloHTd\n\u2022 CMD Extreme Pressure lube : https://amzn.to/36JPNy9\n\u2022 Dry graphite lube : https://amzn.to/2U0YEZH\n\u2022 3-in-1 oil : https://amzn.to/36in43e\n\n\nCommenting policy : https://blondihacks.com/commenting-policy/\n\nWant more content like this? Try these places:\n\nBlondihacks on Instagram : http://instagram.com/blondihacks/\nBlondihacks on Twitter : https://twitter.com/quinndunki\nBlondihacks on Patreon : https://www.patreon.com/QuinnDunki\n\nAs an Amazon Associate, I earn from qualifying purchases.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lZJ45RIw77A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lZJ45RIw77A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lZJ45RIw77A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lZJ45RIw77A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lZJ45RIw77A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lZJ45RIw77A"
+        },
+        "videoOwnerChannelTitle": "Blondihacks",
+        "videoOwnerChannelId": "UC7Jf7t6BL4e74O53dL6arSw"
+      },
+      "contentDetails": {
+        "videoId": "lZJ45RIw77A",
+        "videoPublishedAt": "2021-06-19T17:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NFYGsyWS-WzWvk-4wsdzFxutmNg",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-08-05T08:45:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Introduction to Electrical Discharge Machining | Learn to Burn",
+        "description": "Welcome to the first episode of the Everything EDM - Learn to Burn series. Zero Tolerance LLC zeroes in on electrical discharge machining (EDM), starting from the basic concepts.\n\nThere are many different names for this subtractive manufacturing process: spark machining, spark eroding, die sinking... the list goes on and electrical discharge machining is considered a \"non traditional\" or \"non conventional\" machining process. This video, Introduction to Electrical Discharge Machining, will show you how, what, and why. \n\n00:15 Introduction to Zero Tolerance and how they use electrical discharge machining to create their plastic injection molds. \n2:14 Beginning the electrical discharge machining process of an intricate mold.\n3:37 Using the electrode holder and how it works.\n8:43 Continuing the electrical discharge machining process of an intricate mold.\n11:24 Quick lesson about how the electrode and voltage create the spark and cut the metal. \n13:31 No broken cutters with hardened steel and EDM.\n14:01 Thank you and closing \n\nLet us know in the comments any topics you want to see covered on our new series Everything EDM - Learn to Burn. Have questions? Drop them below! \n\nStay tuned for next month's episode that will talk all about wire EDM and fast hole EDM.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j1wM6i-goEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j1wM6i-goEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1wM6i-goEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j1wM6i-goEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j1wM6i-goEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j1wM6i-goEg"
+        },
+        "videoOwnerChannelTitle": "PracticalMachinist",
+        "videoOwnerChannelId": "UC2OjGgjNiqyLr_1qkqAwsUQ"
+      },
+      "contentDetails": {
+        "videoId": "j1wM6i-goEg",
+        "videoPublishedAt": "2021-06-25T17:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_H4mCs0-cKVAFe1FwfoNbaPp7HM",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-08-06T00:00:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Cutting aluminum parts with 3018 Pro CNC, making an E3D V6 hotend mount for the Sapphire Plus CoreXY",
+        "description": "In this video, we will make some aluminum parts with this super cheap CNC 3018 Pro for the Sapphire Plus CoreXY printer. If you\u2019ve watched my previous videos, this printer has a few minor issues, but considering that it costs less than $400 and has a very sturdy frame, it actually has a lot of potential. It\u2019s able to print at 150mm/s with pretty good quality. But, when I try to print at over 200mm/s, the hotend couldn\u2019t melt the filament fast enough. So, I decided to upgrade the hotend to a E3D V6 Volcano which should do a much better job than the stock one.\n\nSince the X carriage has a bit of a unique design that doesn\u2019t fit any other hotends, I have to redesign it. If I just 3D print one, I\u2019m worried that the high temperature of the heater block will melt the plastic. Even if I use filament with higher temperature resistance like ASA, which softens only when the temperature grows above 100 degree celsius, it may still not be the best solution, since when you print at higher speed, you may need to print at an even higher temperature to melt the plastic fast enough to keep up with the speed. So, a better option would be to use some aluminum bars to make the parts.\n\nThis is the cheapest CNC in the world, the 3018 Pro. It only cost around $150. It was designed to do some light engraving on soft materials like MDF or acrylic, so obviously, it\u2019s not capable of cutting metal. The price of the 3018 CNC ranges from $150 to $350. They are basically the same, with the same frame, same hardware. Some of the more expensive ones may have added limit switches, the emergency stop button and some other cosmetic upgrades.\n\nSo, I just bought the cheapest one and upgraded the spindle from the stock 80-watt one to a 500-watt one, which cost $70. I also added 3 limit switches on each axis to home the machine, which cost $3. I got a probe sensor, which was DIY by connecting 2 wires to the mainboard, which cost $1 or less, and finally, emergency stop buttons, one for the spindle and one for the machine, which cost $8. All other parts are stock parts. \n\nAfter all upgrades, the total price of this machine is $230. I also made an enclosure, as this machine is quite noisy when it cuts things. I used less than 4 meters of 2020 aluminum extrusions, which cost around $35, 2 pieces of laminated MDF from Home Depot, which cost $12, and one piece of a one-eighth-inch acrylic sheet and some magnetic tape, which cost $30.  So, the total cost of the machine with the enclosure costs less than $300. It actually doesn\u2019t look too bad, but the most important part is, can it really cut aluminum? Let\u2019s find out.\n\n\nPlease also watch my 500w spindle upgrade video:\nhttps://youtu.be/xD2_JvOSx7s\n\n\nAffiliate Links:\n\nCNC Machine:\n\nCNC 3018 Pro:\nhttps://ebay.us/hsMbmC \n($147.5, cheapest price available but no ER11 Chuck and Collet on the spindle, but it doesn't matter if you are going to upgrade to a 500W spindle)\n\nhttps://amzn.to/3eSFcIe\n($165 with 2 side boards but no offline controller)\n\n\n500w Spindle:\n\n500w Spindle with DC 110V power supply and mount:\nhttps://amzn.to/3iINO5g ($99 Spindle + Power Supply + Mount + 13 pcs Collet)\nhttps://ebay.us/P69eXv ($70 Spindle + Power Supply + Mount)\n\n\nEnd Mill:\n\nSpeed Tiger Carbide 2-flute end mill:\nhttps://amzn.to/3kTO8AQ (1/8\" $22.5 pack of 5)\nhttps://amzn.to/3eTmFLT (3/16\" $30.8 pack of 5)\n\nCheap High Speed Steel 4-flute end mill: \nhttps://amzn.to/3zxAFm9 (with 8 different diameters)\nThis set is not work as good as speed tiger carbide, but super cheap and have 8 different Diameter \n\n\nPolymaker ASA Temperature Resistant Filament: (For 3D printing the Z carriage)\nhttps://amzn.to/3i4PSFi\n\n\nOther items you may need for this upgrade:\n\nNema 17 48mm stepper motor:\nhttps://amzn.to/3ePsAkU ($13.99)\n\nM3x35mm Spacer x4:\nhttps://amzn.to/3x6lDlP ($4.49 pack of 20)\n\nPower Cord:\nhttps://ebay.us/dVb3RQ ($3.91)\n\n45mm LM8uu bearings x2:\nhttps://amzn.to/2UKvcd4 ($9.99 pack of 4)\n\nM6*90mm Screws x4:\nhttps://amzn.to/3iFlzEq ($9.46 pack of 10)\n\nM6-10 T-Nuts x4:\nhttps://amzn.to/2WjMDBG ($7.94 pack of 40)\n\n16 gauge wire:\nhttps://amzn.to/3iMvqZe ($6.95 25FT Red +25FT Black)\n\n24v relay x1:\nhttps://amzn.to/3iNGm8K ($8.5 pack of 4) (better deal)\nhttps://amzn.to/2VcgMlW ($6.09 pack of 2)\n\n\n\nFor enclosure:\n\n2020 Aluminum Extrusion (need 6M to make this 50x42x40 enclosure)\nhttps://amzn.to/3ePt22r ($79.99 10M)\n\nCorner brackets for 2020 extrusion (need 12)\nhttps://amzn.to/3j14yF5 ($26.99 pack of 20)\n\nMagnetic Tape for acrylic door: (Need 12FT, half inch wide)\nhttps://amzn.to/3l10uH8 ($13.99, only need 1 roll as it's 1\" wide, you can cut in half if you want to save money)\nhttps://amzn.to/3kTOtn6 ($10.97, need 2 rolls, it's 0.5\" wide, ready to use but you need 2 rows)\n\nAcrylic sheet 18x24 1/8\" thick\" \nhttps://amzn.to/2Wkgjyz ($45.99 pack of 2, you only need one for the enclosure)\n\nLED Light inside the CNC Enclosure:\nhttps://amzn.to/2V8XZbd ($18.49)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zjpDHaTs-1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zjpDHaTs-1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zjpDHaTs-1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zjpDHaTs-1g"
+        },
+        "videoOwnerChannelTitle": "Aurora Tech",
+        "videoOwnerChannelId": "UCGER4yfUXubhNVPYoNzBSEA"
+      },
+      "contentDetails": {
+        "videoId": "zjpDHaTs-1g",
+        "videoPublishedAt": "2021-06-28T06:47:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XSoSU-ai4yk38ggrDuHrm1NIJFw",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Best Way To Make Parts At Home - RTV Silicone",
+        "description": "Have you ever wanted to start a home business on a budget? Here is one great way to manufacture products at home. In this video, I am making DIY RTV Silicone molds of a hang board used for rock climbing, and then making duplicates of it using polyurethane (PU). \n\nI Built My Own CNC Machine \nhttps://youtu.be/FkGdJMVJ1Fc\n\nI Built My Own Plastic Injection Machine \nhttps://youtu.be/l4gGWufoIYI\n\nI Built My Own Anodizing Setup \nhttps://youtu.be/YIG4TqPqoVc\n\nI Built My Own CNC Router \nhttps://youtu.be/O2LlD0qsXwY\n\n\n#CNC #DIY #3dprinting #rockclimbing #epoxy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uYDA-01Yfow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uYDA-01Yfow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uYDA-01Yfow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uYDA-01Yfow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uYDA-01Yfow/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uYDA-01Yfow"
+        },
+        "videoOwnerChannelTitle": "Action BOX",
+        "videoOwnerChannelId": "UCHrFvnP1EEEZHNam_Nk_5rQ"
+      },
+      "contentDetails": {
+        "videoId": "uYDA-01Yfow",
+        "videoPublishedAt": "2021-06-29T21:52:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8e7UbGUeVEUGZpNKUmYBUSIpWIM",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Building  What I Think Is The Best Router Table (With Tilting Router)",
+        "description": "Head to https://squarespace.com/alch to save 10% off your first purchase of a website or domain using code ALCH\n\nDownload the plans for this project and many more here: https://www.alch.shop/ \n\nIf you want you can support me on Patreon: https://www.patreon.com/chappel  \n\nLinks to the products sent to me by SauterShop:\n\nLift + Motor https://bit.ly/2SwCTm2\nKreg Fence https://bit.ly/3glu3k7\nPocket hole jig https://bit.ly/3xhcRSs\n\nBlum drawer runners: https://www.cabinetparts.com/p/blum-drawer-slides-undermount-drawer-slides-BS7634570M-p9216#productinfo \ndrawer slides: https://amzn.to/3Ag0XdR  \n\nSome of my favorite tools:\n\nfavorite 3d printer: http://shop.prusa3d.com/#a_aid=ALCH \nsuper glue: https://www.starbond.com/?rfsn=4808714.c5a1bc\nSmall vacuum forming machine: https://amzn.to/3kiV3Qd\nJapanese hand saw: https://amzn.to/2QcLUMo  \nOlfa knife - https://amzn.to/3hXRzBT \nmachinist square - https://amzn.to/3hORmkc \ncombination square - https://amzn.to/39HSlji \nPocket hole jig: https://amzn.to/3eXGcM3 \nBiscuit jointer: https://amzn.to/333GzfY\nOrbital sander: https://amzn.to/2xglSBs\nTrack-saw:  https://amzn.to/2Q07Bj7\nDrill: https://amzn.to/3cKVXCr \nImpact driver: https://amzn.to/2VZFGDp\nJigsaw: https://amzn.to/2vQtbj1\nMitre saw: https://amzn.to/3b3QBkY \n\nBy using these links I may earn an affiliate commission, which helps support the channel.\n\nThank you for Watching! Tune in next week for more videos :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OXp4XhbJH4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OXp4XhbJH4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OXp4XhbJH4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OXp4XhbJH4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OXp4XhbJH4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OXp4XhbJH4o"
+        },
+        "videoOwnerChannelTitle": "Alexandre Chappel",
+        "videoOwnerChannelId": "UCe1Aj6VEO299Yq4WkXdoD3Q"
+      },
+      "contentDetails": {
+        "videoId": "OXp4XhbJH4o",
+        "videoPublishedAt": "2021-06-30T15:14:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Yy72tS3rk-nPY9pYxgdxZUHN92A",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-08-06T00:00:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The cheapest $149 CNC 3018, cut and mill aluminum is now possible with 500 W spindle upgrade",
+        "description": "In my previous videos, I used this CNC 3018 Pro to make some aluminum 3D printer parts. As many of you are interested in how I upgraded this $149 CNC to cut aluminum, I am going to make a series of videos to show you everything including the hardware upgrade, firmware configuration, using Fusion 360 CAD for 3D modeling and using Fusion 360 CAM to generate G-code for the CNC.\n\nIn this video, we will start with the most important part, upgrading the 500W spindle. You will see the detail process, what hardware and 3D printed models you need for this upgrade. I will also show some aluminum cutting footage so you can expect what you can get after the 500W spindle is installed.\n\n\nAffiliate Links:\n\nCNC Machine:\n\nCNC 3018 Pro:\nhttps://ebay.us/hsMbmC \n($147.5, cheapest price available but no ER11 Chuck and Collet on the spindle, but it doesn't matter if you are going to upgrade to a 500W spindle)\n\nhttps://amzn.to/3eSFcIe\n($165 with 2 side boards but no offline controller)\n\n\n500w Spindle:\n\n500w Spindle with DC 110V power supply and mount:\nhttps://amzn.to/3iINO5g ($99 Spindle + Power Supply + Mount + 13 pcs Collet)\nhttps://ebay.us/P69eXv ($70 Spindle + Power Supply + Mount)\n\n\nEnd Mill:\n\nSpeed Tiger Carbide 2-flute end mill:\nhttps://amzn.to/3kTO8AQ (1/8\" $22.5 pack of 5)\nhttps://amzn.to/3eTmFLT (3/16\" $30.8 pack of 5)\n\nCheap High Speed Steel 4-flute end mill: \nhttps://amzn.to/3zxAFm9 (with 8 different diameters)\nThis set is not work as good as speed tiger carbide, but super cheap and have 8 different Diameter \n\n\nPolymaker ASA Temperature Resistant Filament: (For 3D printing the Z carriage)\nhttps://amzn.to/3i4PSFi\n\n\nOther items you may need for this upgrade:\n\nNema 17 48mm stepper motor:\nhttps://amzn.to/3ePsAkU ($13.99)\n\nM3x35mm Spacer x4:\nhttps://amzn.to/3x6lDlP ($4.49 pack of 20)\n\nPower Cord:\nhttps://ebay.us/dVb3RQ ($3.91)\n\n45mm LM8uu bearings x2:\nhttps://amzn.to/2UKvcd4 ($9.99 pack of 4)\n\nM6*90mm Screws x4:\nhttps://amzn.to/3iFlzEq ($9.46 pack of 10)\n\nM6-10 T-Nuts x4:\nhttps://amzn.to/2WjMDBG ($7.94 pack of 40)\n\n16 gauge wire:\nhttps://amzn.to/3iMvqZe ($6.95 25FT Red +25FT Black)\n\n24v relay x1:\nhttps://amzn.to/3iNGm8K ($8.5 pack of 4) (better deal)\nhttps://amzn.to/2VcgMlW ($6.09 pack of 2)\n\n\n\nFor enclosure:\n\n2020 Aluminum Extrusion (need 6M to make this 50x42x40 enclosure)\nhttps://amzn.to/3ePt22r ($79.99 10M)\n\nCorner brackets for 2020 extrusion (need 12)\nhttps://amzn.to/3j14yF5 ($26.99 pack of 20)\n\nMagnetic Tape for acrylic door: (Need 12FT, half inch wide)\nhttps://amzn.to/3l10uH8 ($13.99, only need 1 roll as it's 1\" wide, you can cut in half if you want to save money)\nhttps://amzn.to/3kTOtn6 ($10.97, need 2 rolls, it's 0.5\" wide, ready to use but you need 2 rows)\n\nAcrylic sheet 18x24 1/8\" thick\" \nhttps://amzn.to/2Wkgjyz ($45.99 pack of 2, you only need one for the enclosure)\n\nLED Light inside the CNC Enclosure:\nhttps://amzn.to/2V8XZbd ($18.49)\n\nMDF (Buy from Home Depot) $6.08 each (need 2)\nhttps://www.homedepot.com/p/3-16-in-2-ft-x-4-ft-Black-Chalk-White-Marker-MDF-Board-00066/313382855\n\n\n\n\nSoftware and Reference:\n\nGRBL reference:\nhttps://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration\n\nUGS(universal gcode sender) download:\nhttps://winder.github.io/ugs_website/download/\n\nFusion 360 download:\nhttps://www.autodesk.com/products/fusion-360/personal\n\n\n\n3D Models:\n\nNew Z-Carriage for 52mm 500w Spindle holder:\nhttps://www.thingiverse.com/thing:3717710\n\n500w Spindle fan replacement:\nhttps://www.thingiverse.com/thing:4692525",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xD2_JvOSx7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xD2_JvOSx7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xD2_JvOSx7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xD2_JvOSx7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xD2_JvOSx7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xD2_JvOSx7s"
+        },
+        "videoOwnerChannelTitle": "Aurora Tech",
+        "videoOwnerChannelId": "UCGER4yfUXubhNVPYoNzBSEA"
+      },
+      "contentDetails": {
+        "videoId": "xD2_JvOSx7s",
+        "videoPublishedAt": "2021-07-12T01:41:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mw1IWOqzXbXrHLAUto35gW4cTV0",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2021-08-12T01:11:56Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Making An Inverted Dovetail Cutter | Chamfer Cutter On the Mill",
+        "description": "G'day everyone,\n\nToday I'll be showing you the process I undertook to make my simple cutter to make the gib strips for the mini lathe. Having just bought my new mill, tooling was quite limited, so I decided to make a 60 degree chamfer cutter using some TCMT inserts that I already use for the lathe. Since this tool would not be used for many parts, I thought it be best to make it in house from some mild steel, than buy an off the shelf part. It is not a perfect tool, but I learned a lot through out the process.\n\nCheers\n\n#machining #DIY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YgwEwhm2cIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YgwEwhm2cIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YgwEwhm2cIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YgwEwhm2cIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YgwEwhm2cIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YgwEwhm2cIU"
+        },
+        "videoOwnerChannelTitle": "Artisan Makes",
+        "videoOwnerChannelId": "UC7aAyIrjeH2RKciAXzdOaJA"
+      },
+      "contentDetails": {
+        "videoId": "YgwEwhm2cIU",
+        "videoPublishedAt": "2021-08-01T17:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ooVRlJIxpUWJhv3yeStX1eQ7OGU",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-08-08T11:32:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How Are Rocket Nozzles Made?",
+        "description": "This is part 2 in a 4 part series on rocket motors, rocket nozzles and nitrous oxide. We start by showing you how to fabricate your own fuel grains and then we move on to the nozzles.\n\nPrevious video:\nhttps://youtu.be/AFyzTqhM6is\n\nRelated videos:\nhttps://youtube.com/playlist?list=PLzrI14lOlSqcoYtfoC8uo25gRkIAJgt5i\n\nFind us on Patreon and our website:\nhttps://www.patreon.com/techingredients\nhttps://www.techingredients.com/\n\n#SpaceX #DIY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PD6XpFfR68E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PD6XpFfR68E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PD6XpFfR68E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PD6XpFfR68E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PD6XpFfR68E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PD6XpFfR68E"
+        },
+        "videoOwnerChannelTitle": "Tech Ingredients",
+        "videoOwnerChannelId": "UCVSHXNNBitaPd5lYz48--yg"
+      },
+      "contentDetails": {
+        "videoId": "PD6XpFfR68E",
+        "videoPublishedAt": "2021-08-06T19:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "STYxaJz6RVBLgzAdnHZQZFzmCMQ",
+      "id": "UExJamhmbHVoTmQ5XzJ6VmQxMkZZaTlOTENtSUFZdXB5by5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-08-10T11:50:07Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Making A Steel Quick Change Tool Post And Tool Holders For The Mini Lathe",
+        "description": "G'day everyone,\n\nThe time has come to replace my old quick change tool post that I made on this channel at the beginning of the year. It has served me well for a long time, and it has never let me down. However it is made from aluminum, and now that I turn steel more often than I used to, I have decided to upgrade to a steel tool post. Now that I have my new vertical milling machine I will now be able to make it, plus 7 tool holders, in the workshop using about $20 worth of mild steel.\n\nTimestamps\n0:00 - Intro\n1:18 - Making the Tool Post\n8:17 - Making The Quick Change Tool Holders\n\n#machining #millingmachine #lathe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mnSU4c5earY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mnSU4c5earY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mnSU4c5earY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mnSU4c5earY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mnSU4c5earY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_2zVd12FYi9NLCmIAYupyo",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mnSU4c5earY"
+        },
+        "videoOwnerChannelTitle": "Artisan Makes",
+        "videoOwnerChannelId": "UC7aAyIrjeH2RKciAXzdOaJA"
+      },
+      "contentDetails": {
+        "videoId": "mnSU4c5earY",
+        "videoPublishedAt": "2021-08-07T18:08:41Z"
+      }
+    }
+  ]
+}

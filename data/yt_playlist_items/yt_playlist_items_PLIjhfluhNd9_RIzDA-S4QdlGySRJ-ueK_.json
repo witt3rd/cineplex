@@ -1,0 +1,1440 @@
+{
+  "_id": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+  "as_of": "2021-12-10 00:22:02.588238",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1eqip63BzUdyt4U-ggEVPqZk_ns",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:18:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Visualization of Quantum Physics (Quantum Mechanics)",
+        "description": "This video visually demonstrates some basic quantum physics concepts using the simple case of a free particle. \n\nAll the simulations here are based on real equations and laws. See more information here: https://www.udiprod.com/quantum-physics/\n\nThe mathematics involved was taken from this excellent book:\nhttps://www.amazon.com/exec/obidos/ASIN/0387989293/visualquantummec",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p7bzE1E5PMY"
+        },
+        "videoOwnerChannelTitle": "udiprod",
+        "videoOwnerChannelId": "UCcf4LQogGFtYzPhq05uHE4g"
+      },
+      "contentDetails": {
+        "videoId": "p7bzE1E5PMY",
+        "videoPublishedAt": "2017-01-31T10:06:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "txmLpf4gaLZK-CoLZQM6SNTdcV4",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:19:50Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Is relativistic mass real?",
+        "description": "One of the oddest features of special relativity is the inability to go faster than the speed of light and this is absolutely true.  The most common explanation is that the mass of an object increases with speed, but this particular explanation simply isn\u2019t true.  In this video, Fermilab\u2019s Dr. Don Lincoln explains the truth behind this.  (And, no, don\u2019t send him emails about how this proves relativity is wrong.  He is a strong believer in properly-understood relativity.)\n\nDig in deeper here: https://arxiv.org/pdf/hep-ph/0602037.pdf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LTJauaefTZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LTJauaefTZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LTJauaefTZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LTJauaefTZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LTJauaefTZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LTJauaefTZM"
+        },
+        "videoOwnerChannelTitle": "Fermilab",
+        "videoOwnerChannelId": "UCD5B6VoXv41fJ-IW8Wrhz9A"
+      },
+      "contentDetails": {
+        "videoId": "LTJauaefTZM",
+        "videoPublishedAt": "2017-09-05T22:50:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dJRee6SazilqFFOArRwltEsoPXk",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:20:00Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Can We Really Touch Anything?",
+        "description": "Can we really touch things? Well if by touch we mean exchange a force-carrying particle with, then yes. The photon is the force-carrier of the electromagnetic interaction. But if the photon is also a particle of light then why aren't magnets glowing? Because the photons are virtual particles, which means they can't be directly detected (without changing the outcome we are trying to measure.\nSupported by Audible: http://bit.ly/ZJ5Q6z\nWho would win in a chin-up competition between me and MinutePhysics? What is going to be the most exciting area of scientific discovery in the next few decades? Where can you get a Veritasium t-shirt? http://dft.ba/-vetshirt\nHuge thanks to Brady, CGP Grey, and Henry for their cameos.\n\nThank you to PhET for the Bohr model simulation: http://phet.colorado.edu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bKldI-XGHIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bKldI-XGHIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bKldI-XGHIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bKldI-XGHIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bKldI-XGHIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bKldI-XGHIw"
+        },
+        "videoOwnerChannelTitle": "Veritasium",
+        "videoOwnerChannelId": "UCHnyfMqiRRG1u-2MsSQLbXA"
+      },
+      "contentDetails": {
+        "videoId": "bKldI-XGHIw",
+        "videoPublishedAt": "2013-06-24T16:01:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jfD_IzJoVB1vPTlQSlwmiKRzfsA",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:20:57Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Concept of Mass - with Jim Baggott",
+        "description": "Everything around us is made of \u2018stuff\u2019, or matter. But what is it, exactly? \nSubscribe for regular science videos: http://bit.ly/RiSubscRibe\n\nBuy Jim's book \"Mass: The quest to understand matter from Greek atoms to quantum fields\"  - https://geni.us/BGZ0Pd\n\nJim Baggott will explore our changing understanding of the nature of matter, from the ancient Greeks to the development of quantum field theory and the discovery of the Higgs boson.\n\nJim Bagott is an award-winning science writer. He trained as a scientist, completing a doctorate in chemical physics at the University of Oxford in the early 80s, before embarking on post-doctoral research studies at Oxford and at Stanford University in California.\n\nThe Ri is on Twitter: http://twitter.com/ri_science\nand Facebook: http://www.facebook.com/royalinstitution\nand Tumblr: http://ri-science.tumblr.com/\nOur editorial policy: http://www.rigb.org/home/editorial-policy\nSubscribe for the latest science videos: http://bit.ly/RiNewsletter\n\nProduct links on this page may be affiliate links which means it won't cost you any extra but we may earn a small commission if you decide to purchase through the link.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HfHjzomqbZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HfHjzomqbZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HfHjzomqbZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HfHjzomqbZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HfHjzomqbZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HfHjzomqbZc"
+        },
+        "videoOwnerChannelTitle": "The Royal Institution",
+        "videoOwnerChannelId": "UCYeF244yNGuFefuFKqxIAXw"
+      },
+      "contentDetails": {
+        "videoId": "HfHjzomqbZc",
+        "videoPublishedAt": "2017-09-27T15:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n5XCckv9n5UkYMzDeBgcgDy5lYc",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:21:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Quantum Waves visualized in 3D",
+        "description": "This is a new way to visualize a one dimensional quantum wave function in 3D. Basically for a wavefunction confined to the x axis we use the y and z directions to represent the amplitude and phase of the complex value of the wavefunction at the corresponding value of x. This video is a crude \"first pass\" that I cooked up in a few hours using VPython. VPython is so amazingly great at allowing casual programmers to create 3D visualizations that I was able to come up with this very quickly after I had the basic idea worked out. You can get VPython for free and try it yourself at \"http://vpython.org\".  Pre-class lecture by Steve Spicklemire. If you like this one you might be interested in my quantum course slides which follow Griffith's text: \n\nhttp://www.youtube.com/playlist?list=PLUQUmchCCkOKQ7c-U_tUGkT9yKCg3D0bI&feature=view_all",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/imdFhDbWDyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/imdFhDbWDyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/imdFhDbWDyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "imdFhDbWDyM"
+        },
+        "videoOwnerChannelTitle": "Steve Spicklemire",
+        "videoOwnerChannelId": "UCMnX5yrIUsv4Vde8-i5oxVA"
+      },
+      "contentDetails": {
+        "videoId": "imdFhDbWDyM",
+        "videoPublishedAt": "2011-02-12T18:46:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OX1ZLCJ9HG7PVlWJl6shwdREnqQ",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:21:54Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "de Broglie Waves - Sixty Symbols",
+        "description": "The strange world of de Broglie waves and particles. \r\n\r\nMore physics at http://www.sixtysymbols.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JIGI-eXK0tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JIGI-eXK0tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JIGI-eXK0tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JIGI-eXK0tg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JIGI-eXK0tg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JIGI-eXK0tg"
+        },
+        "videoOwnerChannelTitle": "Sixty Symbols",
+        "videoOwnerChannelId": "UCvBqzzvUBLCs8Y7Axb-jZew"
+      },
+      "contentDetails": {
+        "videoId": "JIGI-eXK0tg",
+        "videoPublishedAt": "2011-05-17T15:36:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t4DAR2RHcFqdE3z8gO_LUBnVBAM",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:22:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Atomic Orbitals",
+        "description": "CG Animation showing the atomic orbitals of chemical elements.\n\nhttp://www.scienceviz.com/\n\nProduced by Tabea Waizmann in context of the masters lecture \"Practical Course 3D Modelling\" directed by Dr.-Ing. Wolfgang H\u00f6hl at Ludwig-Maximilians-University (LMU) Department of Media Informatics.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0kRvVR8Y9lw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0kRvVR8Y9lw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0kRvVR8Y9lw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0kRvVR8Y9lw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0kRvVR8Y9lw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0kRvVR8Y9lw"
+        },
+        "videoOwnerChannelTitle": "scienceviz.com",
+        "videoOwnerChannelId": "UCo4p5ixFD9m3FfOiXqnkWkQ"
+      },
+      "contentDetails": {
+        "videoId": "0kRvVR8Y9lw",
+        "videoPublishedAt": "2015-08-01T10:56:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "olxvnvh4F_wD_zJ5-YjJlke2-50",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:27:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Hydrogen atom wavefunctions",
+        "description": "The hydrogen atom wavefunctions are mathematically precise but difficult to visualize.  This video presents a few visualizations as produced by http://commons.wikimedia.org/wiki/User:Geek3/hydrogen.  (This lecture is part of a series for a course based on Griffiths' Introduction to Quantum Mechanics.  The Full playlist is at http://www.youtube.com/playlist?list=PL65jGfVh1ilueHVVsuCxNXoxrLI3OZAPI.)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DvRzdCnsiYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DvRzdCnsiYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DvRzdCnsiYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DvRzdCnsiYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DvRzdCnsiYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DvRzdCnsiYw"
+        },
+        "videoOwnerChannelTitle": "Brant Carlson",
+        "videoOwnerChannelId": "UCNIEAv633WRg4ubBIhOcwMg"
+      },
+      "contentDetails": {
+        "videoId": "DvRzdCnsiYw",
+        "videoPublishedAt": "2013-05-15T03:50:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kl--pLJkq7Z4KaUWtLdtFfewOTI",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:27:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How does electron move around nucleus? Gryzinski's free-fall atomic models for chemical elements",
+        "description": "See also\nhttps://www.youtube.com/watch?v=FeIZOVOTFtU\nhttps://www.youtube.com/watch?v=X7WkT8FAu-Q\n\nDiscover the naked truth of quantum mechanics hidden behind the screen of psi function and see how electrons move in an atom!\nThe free-fall atomic model was introduced in 1965 by Michael Gryzinski (1930-2004), a Polish nuclear and plasma physicist, as a result of adding electron's magnetic moment to Bohr's atomic picture. Gryzinski proposed the model as a consequence of his classical scattering theory. In this classical approximation, electrons don't circulate as in the Bohr model, but enter in almost radial free-fall towards the nucleus. Due to their magnetic moment, the Lorentz force bends the electron trajectories to return them to their initial radius. For more see https://en.wikipedia.org/wiki/Free-fall_atomic_model",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P2IsIkSn5bk"
+        },
+        "videoOwnerChannelTitle": "Barthek88",
+        "videoOwnerChannelId": "UCZEODTOwYK4oq4EpW6BO00g"
+      },
+      "contentDetails": {
+        "videoId": "P2IsIkSn5bk",
+        "videoPublishedAt": "2015-07-09T11:09:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jdCRPqR3naWu_79dY7ZeGVxt12U",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:28:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Wave Function - Sixty Symbols",
+        "description": "If you think you understand this video, you probably don't. Another adventure into the world of quantum mechanics with three professors of physics and astronomy.\r\n\r\nAnother explanation from Professor Moriarty can be found at http://www.youtube.com/watch?v=afgc3SeZnV8\r\n\r\nMore videos at http://www.sixtysymbols.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KRRnMS1sm6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KRRnMS1sm6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KRRnMS1sm6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KRRnMS1sm6Y"
+        },
+        "videoOwnerChannelTitle": "Sixty Symbols",
+        "videoOwnerChannelId": "UCvBqzzvUBLCs8Y7Axb-jZew"
+      },
+      "contentDetails": {
+        "videoId": "KRRnMS1sm6Y",
+        "videoPublishedAt": "2009-08-08T12:53:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XfrOhyeDGG23e9KS23UXfTneToc",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:28:14Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Quantum Mechanics Part 3 of 4 - The Electron Shells",
+        "description": "Essential knowledge of Modern Science, formulated in 1926, yet relatively few people are exposed to this as their Standard Educational Curriculum.\r\n\r\n\r\nQuantum Mechanics Part 1 of 4 - An Introduction to Modern Physics\r\nhttp://www.youtube.com/watch?v=_2fcDqr39Jk\r\n\r\nQuantum Mechanics Part 2 of 4 - The Modern Atomic Structure, Matter and Existence \r\nhttp://www.youtube.com/watch?v=5Gnqpbge3Yk\r\n\r\nQuantum Mechanics Part 3 of 4 - The Electron Shells \r\nhttp://www.youtube.com/watch?v=Q9Sl1PYSyOw\r\n\r\nQuantum Mechanics Part 4 of 4 - Electron Spin and Entanglement and Wave Function Collapse \r\nhttp://www.youtube.com/watch?v=28Xe4FCCjt4\r\n\r\nQuantum Mechanics - The Double Slit Experiment, Matter both a Particle and a Wave \r\nhttp://www.youtube.com/watch?v=jFfG_c24eVc\r\n\r\n\r\nCreated by Cassiopeia Project for the education of Teachers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q9Sl1PYSyOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q9Sl1PYSyOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q9Sl1PYSyOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q9Sl1PYSyOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q9Sl1PYSyOw"
+        },
+        "videoOwnerChannelTitle": "TheAsianRepublican",
+        "videoOwnerChannelId": "UCdtCHQnEakkYEVtBL-VE-vw"
+      },
+      "contentDetails": {
+        "videoId": "Q9Sl1PYSyOw",
+        "videoPublishedAt": "2012-02-13T05:14:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4e7M4WMhcimPsPAFFMZ3gFJruvI",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:28:28Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How does electron move around nucleus? Gryzinski's free-fall atomic models for chemical elements",
+        "description": "See also\nhttps://www.youtube.com/watch?v=FeIZOVOTFtU\nhttps://www.youtube.com/watch?v=X7WkT8FAu-Q\n\nDiscover the naked truth of quantum mechanics hidden behind the screen of psi function and see how electrons move in an atom!\nThe free-fall atomic model was introduced in 1965 by Michael Gryzinski (1930-2004), a Polish nuclear and plasma physicist, as a result of adding electron's magnetic moment to Bohr's atomic picture. Gryzinski proposed the model as a consequence of his classical scattering theory. In this classical approximation, electrons don't circulate as in the Bohr model, but enter in almost radial free-fall towards the nucleus. Due to their magnetic moment, the Lorentz force bends the electron trajectories to return them to their initial radius. For more see https://en.wikipedia.org/wiki/Free-fall_atomic_model",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P2IsIkSn5bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P2IsIkSn5bk"
+        },
+        "videoOwnerChannelTitle": "Barthek88",
+        "videoOwnerChannelId": "UCZEODTOwYK4oq4EpW6BO00g"
+      },
+      "contentDetails": {
+        "videoId": "P2IsIkSn5bk",
+        "videoPublishedAt": "2015-07-09T11:09:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lx7SHn4XQ1SUSmb2hzDqc3bx8MI",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:29:12Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Erik Verlinde Public Lecture: A New View on Gravity and the Dark Side of the Cosmos",
+        "description": "In his public lecture at Perimeter on October 4, 2017, Dr. Erik Verlinde explored the core ideas behind this research into emergent gravity, and examine the implications of this potential revolution in our understanding of the universe. \n\nPerimeter Institute (charitable registration number 88981 4323 RR0001) is the world\u2019s largest independent research hub devoted to theoretical physics, created to foster breakthroughs in the fundamental understanding of our universe, from the smallest particles to the entire cosmos. The Perimeter Institute Public Lecture Series is made possible in part by the support of donors like you. Be part of the equation: https://perimeterinstitute.ca/inspiring-and-educating-public\n\nSubscribe for updates on future live webcasts, events, free posters, and more: https://insidetheperimeter.ca/newsletter/\n\nfacebook.com/pioutreach \ntwitter.com/perimeter \ninstagram.com/perimeterinstitute \nDonate: https://perimeterinstitute.ca/give-today",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-OlEGq_g2FI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-OlEGq_g2FI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-OlEGq_g2FI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-OlEGq_g2FI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-OlEGq_g2FI"
+        },
+        "videoOwnerChannelTitle": "Perimeter Institute for Theoretical Physics",
+        "videoOwnerChannelId": "UCpHvNclapYpq8b0ZnGRoMeg"
+      },
+      "contentDetails": {
+        "videoId": "-OlEGq_g2FI",
+        "videoPublishedAt": "2017-10-05T13:26:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kj0zYkW-dm6uFBmf8FnWDvZ8NFY",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2017-10-28T12:58:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Klee Irwin - Scientific Clues That We Are Living In the Matrix",
+        "description": "Klee Irwin, founder of physics research group Quantum Gravity Research discusses fundamental reality. This is a Powerpoint presentation and talk given October 9th, 2015 in San Francisco before the San Francisco Theosophical Society (http://theosophicalsocietyofsanfrancisco.blogspot.com/)\n\nFor the new short movie 'What Is Reality' about a theory in development:  https://youtu.be/w0ztlIAYTCU\n\nVISIT THE QGR BLOG: http://www.quantumgravityresearch.org/blog\n\nVISIT THE QGR WEBSITE: http://www.quantumgravityresearch.org \n\nGET TO KNOW QGR\u2019s RESEARCH SCIENTISTS: http://www.quantumgravityresearch.org/about-quantum \n\nENJOY MANY PEER-REVIEWED RESEARCH PAPERS & PRESENTATIONS: http://www.quantumgravityresearch.org/portfolio/all-papers \n\nQGR FACEBOOK: https://www.facebook.com/QuantumGravityResearch/\n\nQGR TWITTER: https://twitter.com/emergencetheory?lang=en\n\nKLEE IRWIN TWITTER: https://twitter.com/Kleeirwin?lang=en\n\nREAD QGR FOUNDER KLEE IRWIN'S BLOG: http://kleeirwindeepthoughts.blogspot.com\n\nKLEE IRWIN'S WEBSITE: http://www.kleeirwinphysics.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fV07SJz1YXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fV07SJz1YXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fV07SJz1YXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fV07SJz1YXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fV07SJz1YXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fV07SJz1YXI"
+        },
+        "videoOwnerChannelTitle": "Quantum Gravity Research",
+        "videoOwnerChannelId": "UCUyk0KLo7JPLCCh4oRNLzsQ"
+      },
+      "contentDetails": {
+        "videoId": "fV07SJz1YXI",
+        "videoPublishedAt": "2015-11-17T01:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0kPjq07OQ41ZkWv0HE_aTivDb0w",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2017-10-28T14:26:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Rethinking Reality: Space, Time and Gravity",
+        "description": "With Sam Gralla. At the dawn of the twentieth century, Einstein revolutionized our conception of reality, showing that space and time are not merely the stage on which the show unfolds, but dynamical entities that stretch, bend, and vibrate to give rise to the force we know as gravity. A century later, the vibrations of spacetime have been directly detected as gravitational radiation from colliding black holes, confirming Einstein\u2019s prediction and ushering in a new era in observational astronomy. How did physicists measure these minuscule vibrations, and what does it mean for our understanding of the universe? And what is the next revolution, fomenting right now, in our conception of space and time?\n\nPart of the UA Science Lecture Series.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dn33_ySzB-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dn33_ySzB-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dn33_ySzB-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dn33_ySzB-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dn33_ySzB-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dn33_ySzB-w"
+        },
+        "videoOwnerChannelTitle": "Arizona Public Media",
+        "videoOwnerChannelId": "UC5FWCWFWRKg5a8QYsUYFhpg"
+      },
+      "contentDetails": {
+        "videoId": "Dn33_ySzB-w",
+        "videoPublishedAt": "2017-02-16T16:53:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "emTMspe-0WBd51ti-KEkKszmab8",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2017-10-28T14:26:13Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The True Nature of Matter and Mass | Space Time | PBS Digital Studios",
+        "description": "Are matter, mass, and time real?\n\nTweet at us! @pbsspacetime\nFacebook: facebook.com/pbsspacetime\nEmail us! pbsspacetime [at] gmail [dot] com\nComment on Reddit: http://www.reddit.com/r/pbsspacetime\nSupport us on Patreon! http://www.patreon.com/pbsspacetime\n\nHelp translate our videos! http://www.youtube.com/timedtext_cs_panel?tab=2&c=UC7_gcs09iThXybpVgjHZ_7g\n\nWe know that mass is energy\u2026 but what is energy? And where did matter and time even come from? Matt begins to dive into these intricate topics by first examining what inertial mass is, how it relates to gravitational mass, and what it all means for mass as a fundamental property. \n\nThe Speed of Light is NOT About Light\nhttps://www.youtube.com/watch?v=msVuCEs8Ydo\n\nThe Real Meaning of E=mc\u00b2\nhttps://www.youtube.com/watch?v=Xo232kyTsO0\n\n______________________\n\nCOMMENTS:\n\nCaleb Limb\nhttps://www.youtube.com/watch?v=kixAljyfdqU&lc=z13quhjzkvituzvmf23fx5oy5pzxilxeh\n\nFelix Feist\nhttps://www.youtube.com/watch?v=kixAljyfdqU&lc=z12fvxor4kn5jxexj04cgrhw2v2bv5rywf0\n\ndeathbypowerpoint\nhttps://www.youtube.com/watch?v=kixAljyfdqU&lc=z124hzobmyvhxdx4n04cef5xzrjpwjob52c\n______________________\n\nFURTHER READING:\n\nInertial Mass\nhttp://www.physlink.com/Education/AskExperts/ae305.cfm\n\nEquivalence Principle\nhttps://en.wikipedia.org/wiki/Equivalence_principle\n______________________\n\nWritten and hosted by Matt O\u2019Dowd \nMade by Kornhaber Brown (www.kornhaberbrown.com)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gSKzgpt4HBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gSKzgpt4HBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gSKzgpt4HBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gSKzgpt4HBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gSKzgpt4HBU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gSKzgpt4HBU"
+        },
+        "videoOwnerChannelTitle": "PBS Space Time",
+        "videoOwnerChannelId": "UC7_gcs09iThXybpVgjHZ_7g"
+      },
+      "contentDetails": {
+        "videoId": "gSKzgpt4HBU",
+        "videoPublishedAt": "2016-01-06T17:53:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qTtWbZXRIk8Vjp46TXRHtsecH6A",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2017-10-29T22:46:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "What Does An Atom REALLY Look Like?",
+        "description": "From orbital mechanics to quantum mechanics, this video explains why we must accept a world of particles based on probabilities, statistics, and chance. Electrons, protons, and neutrons don't behave the same way that planets and billiard balls do.\n________________________________\nVIDEO ANNOTATIONS/CARDS\n\nWhat EXACTLY is a Bond?\nhttp://youtu.be/mFKCW_D2oE4\n\nHow Do We KNOW What Stars Are Made Of?\nhttps://youtu.be/FQJj2kBJ5A8\n\nWhat the HECK is Light?!\nhttp://youtu.be/m2-UJAEJzcc\n\nThe Uncertainty Principle:\nhttp://youtu.be/skPI-BhohR8\n________________________________\nRELATED YOUTUBE VIDEOS\n\nSciShow on Atoms:\nhttps://youtu.be/1StzvGFX4_c\n\nKurz Gesagt on Atoms:\nhttps://youtu.be/_lNF3_30lUE\n\nReactions on Atoms:\nhttps://youtu.be/ipzFnGRfsfE\n________________________________\nHUGE THANK YOU TO THESE PATRONS\n\n** Clint Cloys, Rick Finn, Nikko Lai, Evgeny, Preston From, Christian McCracken **\n________________________________\nSUPPORT THE SCIENCE ASYLUM\n\nPatreon:\nhttp://www.patreon.com/ScienceAsylum\n\nAdvanced Theoretical Physics (eBook):\nhttps://gumroad.com/l/ubSc\n\nMerchandise:\nhttp://shop.spreadshirt.com/scienceasylum/\n________________________________\nOTHER SOURCES\n\nFeynman Lectures:\nhttp://www.feynmanlectures.caltech.edu/\n\nFeynman Quote:\nhttp://www.feynmanlectures.caltech.edu/III_21.html\n________________________________\nLINKS TO COMMENTS\n\nJeremiah Pendley - Featured Comment:\nhttps://www.youtube.com/watch?v=Li_nmKw4Buc&lc=z133d1yquknxzx44004cdrtaezylzhbynec\n________________________________\nIMAGE CREDITS\n\nImages of historical figures are public domain and can be found on Wikimedia Commons.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EOHYT5q5lhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EOHYT5q5lhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EOHYT5q5lhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EOHYT5q5lhQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EOHYT5q5lhQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EOHYT5q5lhQ"
+        },
+        "videoOwnerChannelTitle": "The Science Asylum",
+        "videoOwnerChannelId": "UCXgNowiGxwwnLeQ7DXTwXPg"
+      },
+      "contentDetails": {
+        "videoId": "EOHYT5q5lhQ",
+        "videoPublishedAt": "2017-07-12T20:49:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c5kMj3VF0CP2QkyOzQKOkbUG8Aw",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2017-10-29T22:47:06Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Music And Measure Theory",
+        "description": "A connection between a classical puzzle about rational numbers and what makes music harmonious.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cyW5z-M2yzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cyW5z-M2yzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cyW5z-M2yzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cyW5z-M2yzw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cyW5z-M2yzw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cyW5z-M2yzw"
+        },
+        "videoOwnerChannelTitle": "3Blue1Brown",
+        "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw"
+      },
+      "contentDetails": {
+        "videoId": "cyW5z-M2yzw",
+        "videoPublishedAt": "2015-10-04T02:14:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-WrmhjJSnmpfob_OXk5g1IX6Jkk",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2018-10-22T19:49:41Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Quantum Wave Function Visualization",
+        "description": "Superposition, wave function collapse, and uncertainty principle in Quantum Physics.  Shows real & imaginary components of quantum wave functions for free particles and confined particles.    My Patreon page is at  https://www.patreon.com/EugeneK",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KKr91v7yLcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KKr91v7yLcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KKr91v7yLcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KKr91v7yLcM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KKr91v7yLcM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KKr91v7yLcM"
+        },
+        "videoOwnerChannelTitle": "Physics Videos by Eugene Khutoryansky",
+        "videoOwnerChannelId": "UCJ0yBou72Lz9fqeMXh9mkog"
+      },
+      "contentDetails": {
+        "videoId": "KKr91v7yLcM",
+        "videoPublishedAt": "2016-02-13T13:28:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dYODxXY7rX9uagTCZHcrlSG_fMk",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-12-06T19:58:50Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "A Brief History of Quantum Mechanics - with Sean Carroll",
+        "description": "The mysterious world of quantum mechanics has mystified scientists for decades. But this mind-bending theory is the best explanation of reality that we have.\n\nSean\u2019s book \"Something Deeply Hidden\" is available now - https://geni.us/jrBLV\n\nWatch the Q&A: https://youtu.be/Jv5FYrOthvE\n\nWhether it\u2019s Schr\u00f6dinger's cat or the many worlds interpretation, the ideas quantum mechanics throws up about the reality we live in can seem incredibly strange and daunting.\n\nIn this talk, Sean walks you through the history of quantum discoveries, from Einstein and Bohr to the present day, guiding you through the most intriguing subject in science and explaining his own favourite theories along the way.\n\nSean M Carroll is a theoretical physicist, specialising in quantum mechanics, gravitation, cosmology, statistical mechanics, and foundations of physics, with occasional dabblings elsewhere. His official titles are Research Professor of Physics at Caltech and Research Professor at the Santa Fe Institute. He lives in Los Angeles with his wife, writer Jennifer Ouellette.\n\nThis talk was filmed in the Ri on 22 January 2020.\n\n---\nA very special thank you to our Patreon supporters who help make these videos happen, especially:\nAlan Latteri, Andrew McGhee, Anonymous, Dave Ostler, David Crowner, David Lindo, David Schick, Greg Nagel, Jan Bannister, Joe Godenzi, John C. Vesey, Kellas Lowery, L S, Lasse T. Stendan, Matt Townsend, Osian Gwyn Williams, Paul Brown, Rebecca Pan, Robert Hillier, Robert Reinecke, and Roger Baker.\n\n---\n\nThe Ri is on Patreon: https://www.patreon.com/TheRoyalInstitution\nand Twitter: http://twitter.com/ri_science\nand Facebook: http://www.facebook.com/royalinstitution\nand Tumblr: http://ri-science.tumblr.com/\nOur editorial policy: http://www.rigb.org/home/editorial-policy\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe\n\nProduct links on this page are affiliate links which means it won't cost you any extra but we may earn a small commission if you decide to purchase through the link.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5hVmeOCJjOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5hVmeOCJjOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5hVmeOCJjOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5hVmeOCJjOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5hVmeOCJjOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5hVmeOCJjOU"
+        },
+        "videoOwnerChannelTitle": "The Royal Institution",
+        "videoOwnerChannelId": "UCYeF244yNGuFefuFKqxIAXw"
+      },
+      "contentDetails": {
+        "videoId": "5hVmeOCJjOU",
+        "videoPublishedAt": "2020-02-06T17:29:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WCdjvinG9bPFOjKq1oVLrOXn01M",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-12-06T19:59:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Quantum Fields: The Real Building Blocks of the Universe - with David Tong",
+        "description": "According to our best theories of physics, the fundamental building blocks of matter are not particles, but continuous fluid-like substances known as 'quantum fields'. David Tong explains what we know about these fields, and how they fit into our understanding of the Universe.\nWatch the Q&A here: https://youtu.be/QUMeKDlgKmk\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe\n\nDavid Tong is a professor of theoretical physics at Cambridge University, specialising in quantum field theory. \n\nThe Ri is on Twitter: http://twitter.com/ri_science\nand Facebook: http://www.facebook.com/royalinstitution\nand Tumblr: http://ri-science.tumblr.com/\nOur editorial policy: http://www.rigb.org/home/editorial-policy\nSubscribe for the latest science videos: http://bit.ly/RiNewsletter",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zNVQfWC_evg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zNVQfWC_evg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zNVQfWC_evg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zNVQfWC_evg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zNVQfWC_evg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zNVQfWC_evg"
+        },
+        "videoOwnerChannelTitle": "The Royal Institution",
+        "videoOwnerChannelId": "UCYeF244yNGuFefuFKqxIAXw"
+      },
+      "contentDetails": {
+        "videoId": "zNVQfWC_evg",
+        "videoPublishedAt": "2017-02-15T15:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-CiXfQPm7khfPlXksjw4cHq2QMI",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-12-07T17:12:57Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Quantum Entanglement: Explained & Debunked - Quantum Entanglement & Bell Test Experiments",
+        "description": "Aimed at the intelligent lay person & unlike most other quantum entanglement videos, this does not miss out vital information in favour of over simplification. We explain the 'spooky action at a distance' quantum effect (in Bell test experiments) that underpins quantum computing. We also explore Einstein's claim that such results can be explained using local hidden variables.\n\nMany thanks to James Tankersley Jr for implementing an online Bell test simulation incorporating the \u2018Karma Peny\u2019 model described in this video. To see it in action simply go to https://codeserver.net/bell/chsh/ , select mode 'Karma Peny then sit back and watch the S value in the first table tend towards the 2.828 value predicted by QM.\n\nALSO SEE MY LATEST VIDEOS ABOUT BELL TESTS:\n\nPart 1: Bell's Inequality (My Best Explanation)   https://youtu.be/R4IYN4LVe5U\nPart 2: How QM Became Mainstream (1st Bell Test)   https://youtu.be/atqMU-VztQ4\nPart 3: The CRAP Loophole   https://youtu.be/Y6l3aBh1zcw\nPart 4: Delft \u2013 The 1st Loophole-free Bell Test   https://youtu.be/9XHJfUeEmns\nPart 5: Has Proper Science Been Abandoned?   https://youtu.be/gRtl6pAfCwg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOtsEgbg1-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOtsEgbg1-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOtsEgbg1-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yOtsEgbg1-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yOtsEgbg1-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yOtsEgbg1-s"
+        },
+        "videoOwnerChannelTitle": "Karma Peny",
+        "videoOwnerChannelId": "UC3blYLgZ6JiGdEL1M8EThGw"
+      },
+      "contentDetails": {
+        "videoId": "yOtsEgbg1-s",
+        "videoPublishedAt": "2018-04-19T05:12:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Whac2h5yS3wspeaVX7j4U63x6Rw",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-12-07T17:13:07Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "NEW RESULTS! Cosmic Quantum Bell Test",
+        "description": "Try 23andMe at http://23andme.com/physicsgirl\nOriginal paper: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.060401 \n\nHow do you test quantum mechanics with ancient stars? A new experiment aims to close loopholes to the iconic \"Quantum Bell Test\", with new results published in Feb. 2017!\n\nIf you liked this video check out these:\nWhat is a Black Hole? - Stephen Hawking's final theory\nhttps://www.youtube.com/watch?v=SdySHadrYAA\nWhy aren't plants black? \ud83c\udf3f\nhttps://www.youtube.com/watch?v=3BRP4wcSCM0\n\nCreator/host: Dianna Cowern\nAnimator: Kyle Norby\nWriter: Sophia Chen\nEditor: Jabril Ashe\n\nhttps://instagram.com/thephysicsgirl\nhttps://facebook.com/thephysicsgirl\nhttps://twitter.com/thephysicsgirl\nhttps://physicsgirl.org\n\nPaper:\nhttps://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.060401\nPhoto of detector thumbs-up and quantum receiver apparatus photo: Thomas Scheidl\nGuth/Zeilinger/Kaiser photo: Ari Daniel\nCosmic Bell Group photo: Courtesy Dave Kaiser\n\nMusic: APM and YouTube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i6WxIblKVZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i6WxIblKVZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i6WxIblKVZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i6WxIblKVZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i6WxIblKVZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i6WxIblKVZI"
+        },
+        "videoOwnerChannelTitle": "Physics Girl",
+        "videoOwnerChannelId": "UC7DdEm33SyaTDtWYGO2CwdA"
+      },
+      "contentDetails": {
+        "videoId": "i6WxIblKVZI",
+        "videoPublishedAt": "2017-05-11T16:50:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FqAJSfMBDP-GLBgn6MG8S3VaNAg",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-12-07T17:13:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Some light quantum mechanics (with minutephysics)",
+        "description": "The math of superposition and quantum states.\nMinutephysics channel: https://www.youtube.com/user/minutephysics\nHelp fund future projects: https://www.patreon.com/3blue1brown\nThis video was sponsored by Brilliant: https://brilliant.org/3b1b\nAn equally valuable form of support is to simply share some of the videos.\nSpecial thanks to these supporters: http://3b1b.co/light-quantum-thanks\n\nHuge thanks to my friend Evan Miyazono, both for encouraging me to do this project, and for helping me understand many things along the way.\n\nThis is a simple primer for how the math of quantum mechanics, specifically in the context of polarized light, relates to the math of classical waves, specifically classical electromagnetic waves.\n\nI will say, if you *do* want to go off and learn the math of quantum mechanics, you just can never have too much linear algebra, so check out the series I did at https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab\n\nMistakes: As several astute commenters have pointed out, the force arrow is pointing the wrong way at 2:18.  Thanks for the catch!\n\n*Note on conventions:  Throughout this video, I use a single-headed right arrow to represent the horizontal direction.  The standard in quantum mechanics is actually to use double-headed arrows for describing polarization states, while single-headed arrows are typically reserved for the context of spin.\n\nWhat's the difference?  Well, using a double-headed arrow to represent the horizontal direction emphasizes that in a quantum mechanical context, there's no distinction between left and right.  They each have the same measurable state: horizontal (e.g. they pass through horizontally oriented filters).  Once you're in QM, these kets are typically vectors in a more abstract space where vectors are not necessarily spatial directions but instead represent any kind of state.\n\nBecause of how I chose to motivate things with classical waves, where it makes sense for this arrow to represent a unit vector in the right direction, rather than the more abstract idea of a horizontal state vector, I chose to stick with the single-headed notation throughout, though this runs slightly against convention.\n\nMusic by Vincent Rubinetti:\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3Blue1Brown\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nReddit: https://www.reddit.com/r/3Blue1Brown",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MzRCDLre1b4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MzRCDLre1b4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MzRCDLre1b4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MzRCDLre1b4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MzRCDLre1b4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MzRCDLre1b4"
+        },
+        "videoOwnerChannelTitle": "3Blue1Brown",
+        "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw"
+      },
+      "contentDetails": {
+        "videoId": "MzRCDLre1b4",
+        "videoPublishedAt": "2017-09-13T14:06:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bdOuKgcAuKJNt7PdM0ol9YVhv0o",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-02-10T11:41:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Neil Turok Public Lecture: The Astonishing Simplicity of Everything",
+        "description": "On Oct. 7, 2015, Perimeter Institute Director Neil Turok opened the 2015/16 season of the PI  Public Lecture Series with a talk about the remarkable simplicity that underlies nature. Turok discussed how this simplicity at the largest and tiniest scales of the universe is pointing toward new avenues of physics research and could lead to revolutionary advances in technology.\n\nPerimeter Institute (charitable registration number 88981 4323 RR0001) is the world\u2019s largest independent research hub devoted to theoretical physics, created to foster breakthroughs in the fundamental understanding of our universe, from the smallest particles to the entire cosmos. The Perimeter Institute Public Lecture Series is made possible in part by the support of donors like you. Be part of the equation: https://perimeterinstitute.ca/inspiring-and-educating-public\n\nSubscribe for updates on future live webcasts, events, free posters, and more: https://insidetheperimeter.ca/newsletter/\n\nfacebook.com/pioutreach \ntwitter.com/perimeter \ninstagram.com/perimeterinstitute \nDonate: https://perimeterinstitute.ca/give-today",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1x9lgX8GaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1x9lgX8GaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1x9lgX8GaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f1x9lgX8GaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f1x9lgX8GaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f1x9lgX8GaE"
+        },
+        "videoOwnerChannelTitle": "Perimeter Institute for Theoretical Physics",
+        "videoOwnerChannelId": "UCpHvNclapYpq8b0ZnGRoMeg"
+      },
+      "contentDetails": {
+        "videoId": "f1x9lgX8GaE",
+        "videoPublishedAt": "2015-10-08T18:25:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xX6ZgH71xFBEcupvDZv5uopvDuo",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-08-21T06:51:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "New quantum derivation of E=mc^2 suggests deBroglie matter waves are helical",
+        "description": "Combining Plank's Law with Einstein's mass momentum equation into a single quantized derivation, new insights are discovered into how energy forms mass and momentum.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zOBLR5V6gx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zOBLR5V6gx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zOBLR5V6gx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zOBLR5V6gx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zOBLR5V6gx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zOBLR5V6gx0"
+        },
+        "videoOwnerChannelTitle": "Brian Nelson",
+        "videoOwnerChannelId": "UCyMJrLuIr31kYIs_xXZ6XEQ"
+      },
+      "contentDetails": {
+        "videoId": "zOBLR5V6gx0",
+        "videoPublishedAt": "2014-01-25T21:22:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wlB4_VWXTlgsJQ4XPomwdLwent4",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-08-21T06:51:50Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "AT&T Archives: Matter Waves, Holden and Germer on Wave Nature and the Davisson-Germer Experiment",
+        "description": "Shown in college classrooms (occasionally, still!), this 28-minute film gives both historical and scientific insight to the wave nature of elementary, atomic-level particles. The film\u2019s guides are Lester Germer and Alan Holden, both Bell Laboratories scientists.\n\nIn 1927, Bell Labs physicists Clinton Davisson and Lester Germer performed an experiment involving electron patterns on the surface of nickel. Their experiment confirmed the hypothesis that particles also have a wave-like nature. Davisson won the Nobel Prize for this in 1937; he was the first Bell Labs scientist to win the Nobel. He retired from the Labs in 1946. \n\nLester Germer was a graduate student lab assistant when he worked with Davisson in 1927. He had started at the Labs\u2014while it was still part of Western Electric\u2014back in 1919. Later, he headed the Labs\u2019 contact physics department, and developed equipment that allowed for the visual display of low-energy electron diffraction patterns on a fluorescent screen. By 1961 he was ready to retire, but before he did, he made this film, which re-creates the famous 1927 experiment.\n\nDr. Alan Holden, the host and narrator of the film, started at Bell Labs in 1925. Though trained as a chemist, he joined in the accounting department, then publications, finally starting work as a chemist (and physicist) for Bell Labs around 1936. He also was instrumental in promoting science education, both inside the Labs and out in the community. He retired from the Labs in 1960.\n\nThe film was directed by John R. Friedman, who later joined the staff of Bell Labs, producing many of the films in the AT&T Archives over the next few decades. This film was produced by Educational Services Incorporated; it was intended for classroom use.\n\nAnother film with Alan Holden, Crystals, directed by and written with filmmaker Richard Leacock, who did other work for the Bell System: \nhttp://archive.org/details/Crystals1958\n\nFootage Courtesy of AT&T Archives and History Center, Warren, NJ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/szGJnpNowqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/szGJnpNowqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/szGJnpNowqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "szGJnpNowqw"
+        },
+        "videoOwnerChannelTitle": "AT&T Tech Channel",
+        "videoOwnerChannelId": "UCnpDurxReTSpFs5-AhDo8Kg"
+      },
+      "contentDetails": {
+        "videoId": "szGJnpNowqw",
+        "videoPublishedAt": "2015-01-20T15:06:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MeDVFHRwmowPjqNThaYkPXnx_Hw",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-08-21T06:52:06Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Hewitt-Drew-it! PHYSICS 126. Matter Waves",
+        "description": "Paul further discusses Quantum Mechanics and Matter Waves.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ogj6of6DIbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ogj6of6DIbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ogj6of6DIbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ogj6of6DIbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ogj6of6DIbE"
+        },
+        "videoOwnerChannelTitle": "Marshall Ellenstein",
+        "videoOwnerChannelId": "UCrJ5K-Br4RsBrDY_ZAC6iRw"
+      },
+      "contentDetails": {
+        "videoId": "ogj6of6DIbE",
+        "videoPublishedAt": "2014-01-29T17:55:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GbEcSZjqBG9DYuRGFRjDGr1Lv9o",
+      "id": "UExJamhmbHVoTmQ5X1JJekRBLVM0UWRsR3lTUkotdWVLXy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-08-21T06:52:12Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "What is Matter ??? & standing waves. Explained.",
+        "description": "Milo Wolff  explains the newest apllication of dielectric magnetic waves and in regards to time with there vales being either + or - making four wave types.... and of course there is even more because electrons and other radiations are byproducts of the 4.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/st4XxXB07ng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/st4XxXB07ng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/st4XxXB07ng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/st4XxXB07ng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/st4XxXB07ng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "st4XxXB07ng"
+        },
+        "videoOwnerChannelTitle": "PuzzleMaster",
+        "videoOwnerChannelId": "UCOHP0teq9bxUneaExItvGPg"
+      },
+      "contentDetails": {
+        "videoId": "st4XxXB07ng",
+        "videoPublishedAt": "2014-03-02T16:02:42Z"
+      }
+    }
+  ]
+}

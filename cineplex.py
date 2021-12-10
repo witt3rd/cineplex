@@ -2,6 +2,7 @@ import os
 import json
 import pprint
 import typer
+from typing import List
 from cineplex.youtube_playlists import (
     get_playlist_from_youtube_batch,
     get_playlist_from_db_batch,
@@ -88,8 +89,8 @@ def print_channel(channel_with_meta):
             f"- Keywords (B): {green(branding_channel['keywords'])}")
 
 
-def print_channels(channels_with_meta):
-    for channel_with_meta in channels_with_meta:
+def print_channel_batch(channel_with_meta_batch):
+    for channel_with_meta in channel_with_meta_batch:
         print_channel(channel_with_meta)
 
 
@@ -109,7 +110,7 @@ def print_channel_playlists(channel_playlists_with_meta):
         snippet = playlist['snippet']
         contentDetails = playlist['contentDetails']
         typer.echo(
-            f'{id}: {green(snippet["title"])} ({green(contentDetails["itemCount"])})')
+            f'{id}: {green(snippet["title"])} ({blue(contentDetails["itemCount"])})')
 
 
 def print_playlist(playlist_with_meta):
@@ -128,13 +129,18 @@ def print_playlist(playlist_with_meta):
     typer.echo(f"- Item count   : {green(contentDetails['itemCount'])}")
 
 
+def print_playlist_batch(playlist_with_meta_batch):
+    for playlist_with_meta in playlist_with_meta_batch:
+        print_playlist(playlist_with_meta)
+
+
 def print_playlist_items(playlist_items_with_meta):
     playlist_id = playlist_items_with_meta['_id']
     as_of = playlist_items_with_meta['as_of']
     items = playlist_items_with_meta['items']
 
     typer.echo(
-        f"📝 Playlist items for {green(playlist_id)} as of {green(as_of)}:")
+        f"📝 Playlist items for {green(playlist_id)} as of {blue(as_of)}:")
 
     # sort items by position
     items.sort(key=lambda x: x['snippet']['position'])
@@ -146,7 +152,7 @@ def print_playlist_items(playlist_items_with_meta):
         video_id = green(snippet['resourceId']['videoId'])
         channel_title = yellow(snippet['channelTitle'])
         title = green(snippet['title'])
-        published_at = green(f"{snippet['publishedAt']}")
+        published_at = blue(f"{snippet['publishedAt']}")
         typer.echo(
             f"{pos}) {video_id}: {channel_title}: {title} @ {published_at}")
 
@@ -169,15 +175,7 @@ def print_video(video_with_meta):
 @app.command()
 def update_my_channel():
     """Get my channel from YouTube and save it to the database."""
-    channel_id = settings.youtube_my_channel_id
-
-    channels_with_meta = get_channel_from_youtube_batch([channel_id])
-    if not channels_with_meta:
-        typer.echo(f"❗ {red('Channel not found')}")
-        return
-
-    save_channel_to_db_batch(channels_with_meta)
-    print_channels(channels_with_meta)
+    update_channel([settings.youtube_my_channel_id])
 
 
 @app.command()
@@ -195,28 +193,32 @@ def show_my_channel():
 
 
 @app.command()
-def update_channel(channel_id: str):
+def update_channel(channel_id_batch: List[str]):
     """Get a channel from YouTube and save it to the database."""
-
-    channels_with_meta = get_channel_from_youtube_batch([channel_id])
-    if not channels_with_meta:
-        typer.echo(f"❗ {red('Channel not found')}")
+    channel_id_batch = list(channel_id_batch)
+    channel_with_meta_batch = get_channel_from_youtube_batch(channel_id_batch)
+    if not channel_with_meta_batch:
+        plural = 's' if len(channel_id_batch) > 1 else ''
+        typer.echo(
+            f"❗ {red('Channel' + plural + ' not found')}: {green(channel_id_batch)}")
         return
 
-    save_channel_to_db_batch(channels_with_meta)
-    print_channels(channels_with_meta)
+    save_channel_to_db_batch(channel_with_meta_batch)
+    print_channel_batch(channel_with_meta_batch)
 
 
 @app.command()
-def show_channel(channel_id: str):
+def show_channel(channel_id_batch: List[str]):
     """Show a channel from the database."""
-    channel_with_meta = get_channel_from_db(channel_id)
-    if not channel_with_meta:
+    channel_id_batch = list(channel_id_batch)
+    channel_with_meta_batch = get_channel_from_db_batch(channel_id_batch)
+    if not channel_with_meta_batch:
+        plural = 's' if len(channel_id_batch) > 1 else ''
         typer.echo(
-            f"💡 {yellow('That channel is not in the db; try')} {blue('update-channel')} {green(channel_id)}")
+            f"💡 {yellow('Channel'+plural+' not in db; try')} {blue('update-channel')} {green(channel_id_batch)}")
         return
 
-    print_channel(channel_with_meta)
+    print_channel_batch(channel_with_meta_batch)
 
 #
 # Channel playlists
@@ -226,56 +228,61 @@ def show_channel(channel_id: str):
 @app.command()
 def update_my_playlists():
     """Get my playlists from YouTube and save them to the database."""
-    channel_id = settings.youtube_my_channel_id
-
-    playlists_with_meta = get_channel_playlists_from_youtube(
-        channel_id)
-    if not playlists_with_meta:
-        msg = "Your channel doesn't have any playlists"
-        typer.echo(f"❗ {red(msg)}")
-        return
-
-    save_channel_playlists(playlists_with_meta)
-    print_channel_playlists(playlists_with_meta)
+    update_channel_playlists([settings.youtube_my_channel_id])
 
 
 @app.command()
 def show_my_playlists():
     """List my playlists from the database."""
-    playlists_with_meta = get_channel_playlists_from_db(
-        settings.youtube_my_channel_id)
-    if playlists_with_meta is None:
-        # TODO
-        typer.echo(
-            f"💡 {yellow('You have no playlists in the db; try')} {blue('update-my-playlists')}")
-        return
-
-    print_channel_playlists(playlists_with_meta)
+    show_channel_playlists([settings.youtube_my_channel_id])
 
 
 @app.command()
-def update_channel_playlists(channel_id: str):
+def update_channel_playlists(channel_id_batch: List[str], with_items: bool = False):
     """Get playlists for a channel from YouTube and save them to the database."""
-    playlists_with_meta = get_channel_playlists_from_youtube(channel_id)
-    if not playlists_with_meta:
-        msg = "That channel doesn't have any playlists"
-        typer.echo(f"❗ {red(msg)}")
-        return
+    channel_id_batch = list(channel_id_batch)
+    for channel_id in channel_id_batch:
+        playlists_with_meta = get_channel_playlists_from_youtube(
+            channel_id)
+        if not playlists_with_meta:
+            msg = "That channel doesn't have any playlists"
+            typer.echo(f"❗ {red(msg)}: {green(channel_id)}")
+            return
 
-    save_channel_playlists(playlists_with_meta)
-    print_channel_playlists(playlists_with_meta)
+        save_channel_playlists(playlists_with_meta)
+        print_channel_playlists(playlists_with_meta)
+
+        # for each of the playlists identified for the channel, fetch
+        # the playlist info and possibly the items in the playlist
+        playlist_id_batch = [x['id'] for x in playlists_with_meta['playlists']]
+
+        # N at a time
+        N = 50
+        for i in range(0, len(playlist_id_batch), N):
+            update_playlist(playlist_id_batch[i:i+N], with_items)
 
 
 @app.command()
-def show_channel_playlists(channel_id: str):
+def show_channel_playlists(channel_id_batch: List[str]):
     """List playlists for a channel from the database."""
-    playlists_with_meta = get_channel_playlists_from_db(channel_id)
-    if playlists_with_meta is None:
-        typer.echo(
-            f"💡 {yellow('That channel playlists is not in the db; try')} {blue('update-channel-playlists')} {green(channel_id)}")
-        return
+    channel_id_batch = list(channel_id_batch)
+    for channel_id_batch in channel_id_batch:
+        playlists_with_meta = get_channel_playlists_from_db(channel_id_batch)
+        if playlists_with_meta is None:
+            typer.echo(
+                f"💡 {yellow('Channel playlists not in db; try')} {blue('update-channel-playlists')} {green(channel_id_batch)}")
+            return
 
-    print_channel_playlists(playlists_with_meta)
+        print_channel_playlists(playlists_with_meta)
+
+        playlist_id_batch = [x['id'] for x in playlists_with_meta['playlists']]
+
+        in_db = get_playlist_from_db_batch(playlist_id_batch)
+        if len(in_db) == len(playlist_id_batch):
+            typer.echo(f"✅ {green('All playlists are in the db')}")
+        else:
+            typer.echo(
+                f"💡 {red(len(in_db))} of {red(len(playlist_id_batch))} {yellow('playlists in the db')}")
 
 #
 # Playlists
@@ -283,28 +290,36 @@ def show_channel_playlists(channel_id: str):
 
 
 @app.command()
-def update_playlist(playlist_id: str):
+def update_playlist(playlist_id_batch: List[str], with_items: bool = False):
     """Get playlist info from YouTube and save it to the database."""
-    playlists_with_meta = get_playlist_from_youtube_batch([playlist_id])
-    if not playlists_with_meta:
-        msg = "That playlist doesn't exist."
-        typer.echo(f"❗ {red(msg)}")
+    playlist_id_batch = list(playlist_id_batch)
+    playlist_with_meta_batch = get_playlist_from_youtube_batch(
+        playlist_id_batch)
+    if not playlist_with_meta_batch:
+        plural = 's' if len(playlist_id_batch) > 1 else ''
+        msg = 'Playlist' + plural + ' not found'
+        typer.echo(f"❗ {red(msg)}: {green(playlist_id_batch)}")
         return
 
-    save_playlist_to_db_batch(playlists_with_meta)
-    print_playlist(playlists_with_meta[0])
+    save_playlist_to_db_batch(playlist_with_meta_batch)
+    print_playlist_batch(playlist_with_meta_batch)
+
+    if with_items:
+        update_playlist_items(playlist_id_batch)
 
 
 @app.command()
-def show_playlist(playlist_id: str):
+def show_playlist(playlist_id_batch: List[str]):
     """List playlist info from the database."""
-    playlist_with_meta = get_playlist_from_db(playlist_id)
-    if playlist_with_meta is None:
+    playlist_id_batch = list(playlist_id_batch)
+    playlist_with_meta_batch = get_playlist_from_db_batch(playlist_id_batch)
+    if playlist_with_meta_batch is None:
+        plural = 's' if len(playlist_id_batch) > 1 else ''
         typer.echo(
-            f"💡 {yellow('That playlist is not in the db; try')} {blue('update-playlist')} {green(playlist_id)}")
+            f"💡 {yellow('Playlist' + plural + ' not in db; try')} {blue('update-playlist')} {green(playlist_id_batch)}")
         return
 
-    print_playlist(playlist_with_meta)
+    print_playlist_batch(playlist_with_meta_batch)
 
 #
 # Playlist items
@@ -312,28 +327,32 @@ def show_playlist(playlist_id: str):
 
 
 @app.command()
-def update_playlist_items(playlist_id: str):
+def update_playlist_items(playlist_id: List[str]):
     """Get playlist items for a playlist"""
-    playlist_items_with_meta = get_playlist_items_from_youtube(playlist_id)
-    if not playlist_items_with_meta:
-        msg = "That playlist doesn't exist."
-        typer.echo(f"❗ {red(msg)}")
-        return
+    playlist_id_batch = list(playlist_id)
+    for playlist_id in playlist_id_batch:
+        playlist_items_with_meta = get_playlist_items_from_youtube(playlist_id)
+        if not playlist_items_with_meta:
+            msg = "Playlist not found"
+            typer.echo(f"❗ {red(msg)}: {green(playlist_id)}")
+            return
 
-    save_playlist_items_to_db(playlist_items_with_meta)
-    print_playlist_items(playlist_items_with_meta)
+        save_playlist_items_to_db(playlist_items_with_meta)
+        print_playlist_items(playlist_items_with_meta)
 
 
 @app.command()
-def show_playlist_items(playlist_id: str):
+def show_playlist_items(playlist_id: List[str]):
     """List playlist items for a playlist"""
-    playlist_items_with_meta = get_playlist_items_from_db(playlist_id)
-    if playlist_items_with_meta is None:
-        typer.echo(
-            f"💡 {yellow('That playlist has no items in the db; try')} {blue('update-playlist-items')} {green(playlist_id)}")
-        return
+    playlist_id_batch = list(playlist_id)
+    for playlist_id in playlist_id_batch:
+        playlist_items_with_meta = get_playlist_items_from_db(playlist_id)
+        if playlist_items_with_meta is None:
+            typer.echo(
+                f"💡 {yellow('That playlist has no items in the db; try')} {blue('update-playlist-items')} {green(playlist_id)}")
+            return
 
-    print_playlist_items(playlist_items_with_meta)
+        print_playlist_items(playlist_items_with_meta)
 
 #
 # Videos

@@ -1,50 +1,50 @@
 {
-  "_id": "PLIjhfluhNd98r3U5HIlP2yRhlFSJL3v6x",
-  "as_of": "2021-12-10 00:22:07.784411",
+  "_id": "PLIjhfluhNd9-oPNZlggzBetaOxxfJZ9x2",
+  "as_of": "2021-12-10 00:21:41.763700",
   "playlist": {
     "kind": "youtube#playlist",
-    "etag": "YUnLhLmrRQCLJ0orB6XqzYf6LV0",
-    "id": "PLIjhfluhNd98r3U5HIlP2yRhlFSJL3v6x",
+    "etag": "2nyydiUJ79BTQKQSxTZg7wjfceA",
+    "id": "PLIjhfluhNd9-oPNZlggzBetaOxxfJZ9x2",
     "snippet": {
-      "publishedAt": "2021-11-25T16:38:52Z",
+      "publishedAt": "2021-07-21T10:08:18Z",
       "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
-      "title": "\ud83d\udee1\ufe0f Sparta",
+      "title": "\ud83d\udda8\ufe0f 3D Printing",
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/default.jpg",
+          "url": "https://i.ytimg.com/vi/mivXN41GUjA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mivXN41GUjA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mivXN41GUjA/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/mivXN41GUjA/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mivXN41GUjA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "channelTitle": "Donald Thompson",
       "localized": {
-        "title": "\ud83d\udee1\ufe0f Sparta",
+        "title": "\ud83d\udda8\ufe0f 3D Printing",
         "description": ""
       }
     },
     "contentDetails": {
-      "itemCount": 8
+      "itemCount": 40
     }
   }
 }

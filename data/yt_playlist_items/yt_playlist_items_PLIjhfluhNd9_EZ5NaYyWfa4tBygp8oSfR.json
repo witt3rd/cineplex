@@ -1,0 +1,1613 @@
+{
+  "_id": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+  "as_of": "2021-12-10 00:22:02.081633",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JNLlknyIPftaj6doIKqN4oHtfrg",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-11-21T16:59:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "\"Ray: A distributed system for emerging AI applications\" by Stephanie Wang and Robert Nishihara",
+        "description": "Over the past decade, the bulk synchronous processing (BSP) model has proven highly effective for processing large amounts of data. However, today we are witnessing the emergence of a new class of applications, i.e., AI workloads. These applications exhibit new requirements, such as nested parallelism and highly heterogeneous computations. To support such workloads, we have developed Ray, a distributed system which provides both task-parallel and actor abstractions. Ray is highly scalable employing an in-memory storage system and a distributed scheduler. In this talk, I will discuss some of our design decisions and our early experience with using Ray to implement a variety of applications.\n\nSpeakers: Stephanie Wang, Robert Nishihara",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CCL0ZkLl9ns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CCL0ZkLl9ns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CCL0ZkLl9ns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CCL0ZkLl9ns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CCL0ZkLl9ns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CCL0ZkLl9ns"
+        },
+        "videoOwnerChannelTitle": "Strange Loop Conference",
+        "videoOwnerChannelId": "UC_QIfHvN9auy2CoOdSfMWDw"
+      },
+      "contentDetails": {
+        "videoId": "CCL0ZkLl9ns",
+        "videoPublishedAt": "2018-10-14T14:16:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7NTF3kTnayFxiAD8ZEfQwmzmSdU",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-11-21T17:00:07Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray for Reinforcement Learning | UC Berkeley RISELab",
+        "description": "Get the slides: https://www.datacouncil.ai/talks/ray-for-reinforcement-learning\n\n\nABOUT THE TALK\n\nIn his talk Robert will discuss Ray, a distributed system to address demanding systems requirements in AI apps. Since the next generation of AI applications will continuously interact with the environment and learn from these interactions. These applications impose new and demanding systems requirements, both in terms of performance and flexibility.\n\nRobert will walk us through a distributed system to address them: Ray and how it implements a unified interface that can express both task-parallel and actor-based computations, supported by a single dynamic execution engine.\n\nTo meet the performance requirements, Ray employs a distributed scheduler and a distributed and fault-tolerant store to manage the system's control state. In his talk he will demonstrate scaling beyond 1.8 million tasks per second and better performance than existing specialized systems for several challenging reinforcement learning applications.\n\nABOUT THE SPEAKER\n\nRobert Nishihara is a PhD student in the UC Berkeley RISELab and the Berkeley AI Research Lab working with Michael Jordan. His research focuses on building distributed systems to enable the next generation of artificial intelligence applications including applications in reinforcement learning and online learning. He is building Ray (https://github.com/ray-project/ray), an open-source platform for general-purpose parallel and distributed computing. His past research focused on machine learning theory and algorithms for optimization.\n\nABOUT DATA COUNCIL: \nData Council (https://www.datacouncil.ai/) is a community and conference series that provides data professionals with the learning and networking opportunities they need to grow their careers. Make sure to subscribe to our channel for more videos, including DC_THURS, our series of live online interviews with leading data professionals from top open source projects and startups. \n\nFOLLOW DATA COUNCIL: \nTwitter: https://twitter.com/DataCouncilAI\nLinkedIn: https://www.linkedin.com/company/datacouncil-ai\nFacebook: https://www.facebook.com/datacouncilai\nEventbrite: https://www.eventbrite.com/o/data-council-30357384520",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ayc0ca150HI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ayc0ca150HI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ayc0ca150HI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ayc0ca150HI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ayc0ca150HI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ayc0ca150HI"
+        },
+        "videoOwnerChannelTitle": "Data Council",
+        "videoOwnerChannelId": "UCAezwIIm1SfsqdmbQI-65pA"
+      },
+      "contentDetails": {
+        "videoId": "Ayc0ca150HI",
+        "videoPublishedAt": "2019-06-18T09:31:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RURkri3ileGpMpU_4dtf9AsOSoU",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-12-04T00:49:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Talk: Dean Wampler - Ray: A System for High-performance, Distributed Python Applications",
+        "description": "Presented by:\nDean Wampler\n\nRay is an open-source, distributed framework from U.C. Berkeley\u2019s RISELab that easily scales Python applications from a laptop to a cluster, with an emphasis on the unique performance challenges of ML/AI systems. It is now used in many production deployments.\n\nI\u2019ll explain the problems that Ray solves and useful features it provides, such as rapid distribution, scheduling, and execution of \u201ctasks\u201d and management of distributed stateful \u201cserverless\u201d computing. I\u2019ll illustrate how it\u2019s used in several ML libraries. You\u2019ll learn when to use Ray and how to use it in your projects.\n\n\n\n\nTalk slides: https://speakerdeck.com/wampler/ray-scalability-from-a-laptop-to-a-cluster-582a9702-9c67-4f12-9b27-64846dc52162",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tqUe0gcfqAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tqUe0gcfqAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tqUe0gcfqAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tqUe0gcfqAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tqUe0gcfqAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tqUe0gcfqAU"
+        },
+        "videoOwnerChannelTitle": "PyCon US",
+        "videoOwnerChannelId": "UCMjMBMGt0WJQLeluw6qNJuA"
+      },
+      "contentDetails": {
+        "videoId": "tqUe0gcfqAU",
+        "videoPublishedAt": "2020-04-15T16:43:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vzzxq8X3LS4p9AU6o0vhjE97PBY",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-11-17T15:02:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray Community and the Ray Ecosystem",
+        "description": "Ben Lorica (@bigdata) prepared this companion video for the blog post, \"Understanding the Ray Ecosystem and Community\", https://anyscale.com/blog/understanding-the-ray-ecosystem-and-community/, by Ben and Ion Stoica.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M37hMsBcBnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M37hMsBcBnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M37hMsBcBnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M37hMsBcBnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M37hMsBcBnY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M37hMsBcBnY"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "M37hMsBcBnY",
+        "videoPublishedAt": "2020-04-29T20:22:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eRcIpxlpeJxkI6qPgNPXz0UebWo",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-11-20T19:50:55Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray Summit Connect, May 2020 - Ion Stoica",
+        "description": "The inaugural Ray Summit Connect, May 13, 2020. This is Ion Stoica's talk, \"The Future of Computing Is Distributed\". Slides are here, https://anyscale.com/ion-stoica-ray-summit-connect-2020-05-13/\n\nSee also the Q&A and Panel Discussion video that follows.\n\nSign up for future Ray Summit Connect events and our new tutorial series, part of Anyscale Academy, at https://anyscale.com/events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dl29iiRIBT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dl29iiRIBT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dl29iiRIBT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dl29iiRIBT8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dl29iiRIBT8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dl29iiRIBT8"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "dl29iiRIBT8",
+        "videoPublishedAt": "2020-05-15T01:09:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6w_9F8nCt1T5V5Wv9sXvUgMRDrU",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-11-24T07:52:57Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray: A System for Scalable Python and ML |SciPy 2020| Robert Nishihara",
+        "description": "Distributed computing is becoming the norm, and this trend is driven largely by the computational requirements of machine learning applications. However, building distributed applications today requires tons of expertise. Ray aims to make it as easy to program a cluster of machines as it is to program a laptop. The goal of this is to enable many more software developers to take advantage of all the advances in machine learning to solve harder problems without needing to build systems infrastructure or to have expertise in distributed computing. Ray is a rapidly growing open source project used in production by large companies as well as startups and in cutting-edge research. In addition to the core distriuted system, Ray encompasses a collection of state-of-the-art libraries targeting scalable machine learning. These include scalable libraries for hyperparameter tuning, distributed training, reinforcement learning, and model serving. This talk will discuss the lessons learned from developing Ray and deploying it in production, the key architectural decisions that enable Ray's performance, as well as how companies are using Ray for scalable machine learning. https://ray.io/\n\n\n*****************\r\nhttps://twitter.com/enthought\r\nhttps://www.facebook.com/Enthought/\r\nhttps://www.linkedin.com/company/enthought",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XIu8ZF7RSkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XIu8ZF7RSkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XIu8ZF7RSkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XIu8ZF7RSkw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XIu8ZF7RSkw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XIu8ZF7RSkw"
+        },
+        "videoOwnerChannelTitle": "Enthought",
+        "videoOwnerChannelId": "UCkhm72fuzkS9fYGlGpEmj7A"
+      },
+      "contentDetails": {
+        "videoId": "XIu8ZF7RSkw",
+        "videoPublishedAt": "2020-07-05T13:18:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JrKXkNQEmc7EoJw-3fEt_ZQxok4",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-11-17T14:59:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Anyscale Academy: Ray Tune & Serve, July 22, 2020",
+        "description": "The third live Anyscale Academy tutorial, on the Ray Tune and Ray Serve libraries. The full source code can be found in this GitHub repo: https://github.com/anyscale/academy\n\nJoin us at Ray Summit Virtual, a free conference about the Ray ecosystem, ML/AI, data engineering, and other topics, September 30 - October 1, 2020. Register at http://raysummit.org.\n\nSee https://anyscale.com/events for more information about Ray Summit and our other forthcoming, online events. You can also find information there and at the Anyscale blog (https://anyscale.com/blog) about videos and presentations from past events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7-DlqvaPrTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7-DlqvaPrTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7-DlqvaPrTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7-DlqvaPrTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7-DlqvaPrTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7-DlqvaPrTE"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "7-DlqvaPrTE",
+        "videoPublishedAt": "2020-07-23T02:17:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ngzg9-KMhM-VCQXvDHZhixQjZ2M",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-11-20T03:34:55Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray: Faster Python through parallel and distributed computing",
+        "description": "Parallel and Distributed computing sounds scary until you try this fantastic Python library. Ray makes it dead simple to run your code on a cluster of computers with minimal changes to the actual code. Check it out!\n \nMY OTHER VIDOES:\n\u25cb 5 Common Python Mistakes: https://www.youtube.com/watch?v=fMRzuwlqfzs\n\u25cb 5 Amazing Python Libraries: https://www.youtube.com/watch?v=eILeIEE3C8c\n\u25cb Making Python fast: https://www.youtube.com/watch?v=XW32lPcWOxg\n\u25cb VSCode's Python Interactive Mode: https://www.youtube.com/watch?v=lwN4-W1WR84\n\u25cb Learning programming language Julia: https://www.youtube.com/watch?v=TNoShNPoEak\n\nTwitter: https://twitter.com/safijari\nPatreon: https://www.patreon.com/jackofsome\n\n#python #vscode #notebooks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q_aTbb7XeL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q_aTbb7XeL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q_aTbb7XeL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q_aTbb7XeL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q_aTbb7XeL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q_aTbb7XeL4"
+        },
+        "videoOwnerChannelTitle": "Jack of Some",
+        "videoOwnerChannelId": "UCe6ABcJkH_Gso9HJOt4x9fg"
+      },
+      "contentDetails": {
+        "videoId": "q_aTbb7XeL4",
+        "videoPublishedAt": "2020-08-18T02:57:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T3rPB-Af7j1wjBX5AvR7u0cGn4Q",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-11-21T23:40:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Distributed Computing is the Future of Computing with Robert Nishihara",
+        "description": "In this Salon, Robert Nishihara, CEO and co-founder of AnyScale (https://anyscale.com/), talks about his open source distributed computing library Ray (https://ray.io/) and the ecosystem that has grown up around it.\n\nFind Ray on GitHub: https://github.com/ray-project/ray\nFind Robert on Twitter: https://twitter.com/robertnishihara\n\nThis presentation was part of our bi-weekly Virtual Deep Learning Salon!\n\nJoin us and listen to industry leaders and researchers in machine learning share their research:\nhttp://tiny.cc/wb-salon\n\nJoin our community of ML practitioners where we host AMA's, share interesting projects and meet other people working in Deep Learning:\nhttp://bit.ly/slack-forum\n\nOur gallery features curated machine learning reports by researchers exploring deep learning techniques, Kagglers showcasing winning models, and industry leaders sharing best practices.\nhttps://app.wandb.ai/gallery\n\nWeights and Biases makes developer tools for machine learning: record and visualize every detail of your research, collaborate easily, advance the state of the art - we\u2019re always free for academics and open source projects.\n\nJoin us next time!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zRaWCFJcagI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zRaWCFJcagI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zRaWCFJcagI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zRaWCFJcagI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zRaWCFJcagI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zRaWCFJcagI"
+        },
+        "videoOwnerChannelTitle": "Weights & Biases",
+        "videoOwnerChannelId": "UCBp3w4DCEC64FZr4k9ROxig"
+      },
+      "contentDetails": {
+        "videoId": "zRaWCFJcagI",
+        "videoPublishedAt": "2020-09-16T19:42:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zR5BKcotsOyQ_2GEwVifo4h0QgQ",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-11-17T16:30:07Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Keynote: Anyscale Product Demo - Edward Oakes, Software Engineer, Anyscale",
+        "description": "Keynote: Anyscale Product Demo - Edward Oakes, Software Engineer, Anyscale\n\nThis demo will illustrate how the Anyscale Platform enables you to build an end-to-end distributed AI application in a matter of minutes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8GTd8Y_JGTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8GTd8Y_JGTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8GTd8Y_JGTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8GTd8Y_JGTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8GTd8Y_JGTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8GTd8Y_JGTQ"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "8GTd8Y_JGTQ",
+        "videoPublishedAt": "2020-09-30T17:43:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-_yURmjgsvNdiWzu0uw3cau19Xs",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-11-17T15:02:28Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray: A General Purpose Serverless Substrate? - Eric Liang, Anyscale",
+        "description": "Ray: A General Purpose Serverless Substrate? - Eric Liang, Anyscale\n\nEveryone wishes their app was \"serverless\". You don't have to worry about machines, and it's very elastic, so you get the best of both worlds on performance and cost. However, the reality today is that many classes of applications are infeasible to build serverlessly today: either they don't fit into or cannot depend on proprietary serverless platforms and execution models. In this talk, we look at the key limitations these applications face, and a vision of how Ray 1.0 fits into the picture as a more general purpose serverless platform.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vzMXTpdJSuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vzMXTpdJSuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vzMXTpdJSuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vzMXTpdJSuk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vzMXTpdJSuk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vzMXTpdJSuk"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "vzMXTpdJSuk",
+        "videoPublishedAt": "2020-10-04T05:36:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rrAZnKPG1ySOsKzVrntyJN8ldt4",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-11-20T19:48:03Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Introducing Ray Serve: Scalable and Programmable ML Serving Framework - Simon Mo, Anyscale",
+        "description": "Introducing Ray Serve: Scalable and Programmable ML Serving Framework - Simon Mo, Anyscale\n\nAfter data scientists train a machine learning (ML) model, the model needs to be served for interactive scoring or batch predictions. The go-to solution is often to wrap the model inside a Flask microservice. But when is that not enough? In this talk, I will discuss the short-comings of the Flask-only solution and then discuss the more common alternative, the \u201ctensor prediction service\u201d approach used by TFServing, SageMaker, and others. I will then introduce an easy-to-use, scalable ML serving system \u201cRay Serve\u201d that overcomes the deficiencies of the two approaches. I will highlight the architectural innovations in Ray Serve.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gV4YS4e1CXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gV4YS4e1CXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gV4YS4e1CXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gV4YS4e1CXg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gV4YS4e1CXg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gV4YS4e1CXg"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "gV4YS4e1CXg",
+        "videoPublishedAt": "2020-10-04T05:36:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L4WdOy3HSmZIz-mdrvYT5TgyY3g",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-11-17T15:02:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Building a Python Web Service with Ray - Philipp Moritz, Anyscale",
+        "description": "Building a Python Web Service with Ray - Philipp Moritz, Anyscale\n\nIf you are building web services in Python that need to scale, this talk is for you! We show how the Python web serving ecosystem integrates with Ray and how Ray makes it easy to scale up web services and to manage their state. We address practical challenges such as how to use Ray tasks and actors effectively, how to write asynchronous code, and how to do type checking and testing. We also cover deployment challenges like monitoring and tracing in a distributed web service. The talk draws on lessons we learned from building Anyscale. We will dive into Anyscale\u2019s architecture and the technology choices we made and how they evolved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A1dB-4FdFgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A1dB-4FdFgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A1dB-4FdFgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A1dB-4FdFgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A1dB-4FdFgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A1dB-4FdFgQ"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "A1dB-4FdFgQ",
+        "videoPublishedAt": "2020-10-04T05:38:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iFJpj0q8wnSicvDmYPr1K2Kr2tw",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-11-28T02:15:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "AlphaDow: Reinforcement Learning for Industrial Production Scheduling - Adam Kelloway, Dow Chemical",
+        "description": "AlphaDow: Reinforcement Learning for Industrial Production Scheduling - Adam Kelloway, Dow Chemical\n\nAdam has deployed reinforcement learning trained agents that optimize a production planning problem at Dow, Inc and deliver measurable business impact. Inspired by the successes of AlphaGO, this ambitious project is named AlphaDow. The production scheduling problem at Dow is non-trivial. Dow\u2019s continuous manufacturing plants transition through a product sequence which must minimize the costs of transitions and maximize product availability for customers all whilst minimizing inventory on hand. Human schedulers use experience and heuristics to select the best sequence today. The trained RL agents augment this decision-making process. Adam has used Ray extensively to distribute his training among Azure based compute clusters. This significantly decreased the time needed to train an RL agent capable of producing optimal production schedules. Adam will present several of the challenges faced when training and deploying RL agents for industrial production scheduling and how Ray has helped him to overcome those challenges by facilitating the scale required to solve these complex problems and achieve real-world business impact.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DQm3e7mMBt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DQm3e7mMBt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DQm3e7mMBt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DQm3e7mMBt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DQm3e7mMBt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DQm3e7mMBt4"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "DQm3e7mMBt4",
+        "videoPublishedAt": "2020-10-04T05:38:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T95fHa46nC65XndEkffEVxPMMeE",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-11-21T19:49:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray Internals: A Peek at `ray.get` - Stephanie Wang, Anyscale",
+        "description": "Ray Internals: A Peek at `ray.get` - Stephanie Wang, Anyscale\n\nThe ability to reference remote memory is a cornerstone of the Ray API. In this talk, I'll give an overview of the lifetime of a Ray object. Along the way, I'll show what exactly happens during a `ray.get` call. I'll also explain how an object gets allocated, tracked, and deallocated. Finally, I'll give a quick overview of some of our current and future projects towards object persistence and distributed memory management.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a1kNnQu6vGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a1kNnQu6vGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a1kNnQu6vGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a1kNnQu6vGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a1kNnQu6vGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a1kNnQu6vGw"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "a1kNnQu6vGw",
+        "videoPublishedAt": "2020-10-04T05:38:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i2HllGJJa-ebf3yIMGJaW1cuang",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-11-24T07:55:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Aaron Richter- Parallel Processing in Python| PyData Global 2020",
+        "description": "Talk \nPython has a vast ecosystem of tools for scientific computing and data science. However, when data size or computational complexity grows, users may encounter performance challenges. This talk will cover the current landscape of parallel processing tools in Python, with a focus on which tools are best suited for various workloads such as arrays, dataframes, machine learning, and deep learning.\n\nSpeaker\nAaron Richter is a software developer turned data engineer and data scientist. He has pioneered the development and implementation of large-scale data science infrastructure in both business and research environments. Inevitably, he spent a lot of time finding efficient ways to clean data, run pipelines, and tune models. Aaron is a Senior Data Scientist at Saturn Cloud, and holds a PhD in machine learning from Florida Atlantic University.\nwww.pydata.org\r\n\r\nPyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R. \r\n\r\nPyData conferences aim to be accessible and community-driven, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases. 00:00 Welcome!\n00:10 Help us add time stamps or captions to this video! See the description for details.\n\nWant to help add timestamps to our YouTube videos to help with discoverability? Find out more here: https://github.com/numfocus/YouTubeVideoTimestamps",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eJyjB3cNIB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eJyjB3cNIB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eJyjB3cNIB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eJyjB3cNIB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eJyjB3cNIB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eJyjB3cNIB0"
+        },
+        "videoOwnerChannelTitle": "PyData",
+        "videoOwnerChannelId": "UCOjD18EJYcsBog4IozkF_7w"
+      },
+      "contentDetails": {
+        "videoId": "eJyjB3cNIB0",
+        "videoPublishedAt": "2021-01-05T17:09:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "65pcM6f55BZnSklCVNLsaYf1eUI",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-11-20T03:58:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "A Glimpse into the Ray Autoscaler by Ameer Haj Ali",
+        "description": "Ray autoscaler is the core engine for running distributed Ray applications and the most used Ray library. Autoscaler runs under the hood with every Ray cluster launched. It manages the entire cluster of nodes based on demand and the user\u2019s application. Autoscaler dynamically determines how many nodes and which types of nodes are running at a given time, how many to launch, how many to terminate, how efficient the application will run and more.\nIn this talk, Ameer will give a glimpse into Ray autoscaler: the algorithm it uses to schedule resources and the different recent new features added to it including placement groups, directly requesting resources, and multi node types.\n\nFor future Anyscale Connect events, visit https://anyscale.com/events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BJ06eJasdu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BJ06eJasdu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BJ06eJasdu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BJ06eJasdu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BJ06eJasdu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BJ06eJasdu4"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "BJ06eJasdu4",
+        "videoPublishedAt": "2021-01-28T17:32:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "igM2TbcoXsx8W6L-so52uuwuAnA",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-11-21T20:58:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Seamlessly Scaling your ML Pipelines with Ray Serve - Archit Kulkarni",
+        "description": "Ray Serve is an open-source library for serving machine learning models at scale. In this talk, we will demonstrate some new features of Ray Serve, including an integration with the open-source ML lifecycle management platform MLflow, and an easy way to use Ray Serve to scale up an existing Python web server.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DqgwRAKhIUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DqgwRAKhIUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DqgwRAKhIUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DqgwRAKhIUs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DqgwRAKhIUs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DqgwRAKhIUs"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "DqgwRAKhIUs",
+        "videoPublishedAt": "2021-03-03T20:27:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "72kYoCZR6PZZST-IhlODRtK8C_8",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-11-26T11:51:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Introduction to Distributed Computing with the Ray Framework",
+        "description": "In this video, I give a brief introduction to distributed computing concepts and show how the Ray framework provides elegant abstractions for scaling data science in Python.\n\n\ud83c\udfa5 Next video: https://youtu.be/jua2dFrHSUk\n\ud83c\udf9e Playlist: https://youtube.com/playlist?list=PLmetp36hFxeyc9qO_5tPNMW-YD3tZfCFN\n\ud83d\udcca Slides: https://github.com/psychothan/scaling-data-science\n\n\ud83d\udd17 Ray Docs: https://docs.ray.io/en/master/index.html\n\ud83d\udd17 Original Ray Paper: https://arxiv.org/abs/1712.05889\n\ud83d\udd17 Ray Design Patterns: https://docs.google.com/document/d/167rnnDFIVRhHhK4mznEIemOtj63IOhtIPvSYaPgI4Fg\n\ud83d\udd17 Ray Architecture: https://docs.google.com/document/d/1lAy0Owi-vPz2jEqBSaHNQcy2IBSDEHyXNOQZlGuj93c\n\nStay in the loop! \ud83d\udc47\n\nhttps://discord.gg/nbyZ6EpUum\nhttps://twitter.com/jonathandinu\nhttps://jonathandinu.com\nhttps://jonathans.courses\n\n#python #ray #datascience\n\n\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\n\n0:00 - Introduction\n2:07 - Introduction to the Ray framework\n3:30 - Conceptual introduction to distributed systems\n5:38 - Challenges of distributed systems\n7:25 - Ray internals\n11:33 - The larger Ray ecosystem\n14:16 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cEF3ok1mSo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cEF3ok1mSo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cEF3ok1mSo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cEF3ok1mSo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cEF3ok1mSo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cEF3ok1mSo0"
+        },
+        "videoOwnerChannelTitle": "Psychothan and the Jonathanauts",
+        "videoOwnerChannelId": "UCi0Hd3U6xb4V0ApUhAIfu9Q"
+      },
+      "contentDetails": {
+        "videoId": "cEF3ok1mSo0",
+        "videoPublishedAt": "2021-03-10T07:34:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EaorWfxm0gBFRkOKG834EmlKmaE",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-11-20T06:59:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Autoscaling machine learning APIs in Python with Ray",
+        "description": "If you have used web frameworks like Flask or Django to wrap a scikit-learn model when writing your own REST API from scratch, see how to create a much more performant application with fewer lines of code using Ray serve. https://github.com/jonathandinu/scaling-data-science\n\nAdditionally, this video covers the general process of deploying a machine learning model for production and best practices for building a scalable architecture.\n\n\u23ed next video: https://youtu.be/yLKHHiT2nWw\n\u23ee previous video: https://youtu.be/a051mbC9zqw\n\ud83c\udf9e playlist: https://youtube.com/playlist?list=PLmetp36hFxeyc9qO_5tPNMW-YD3tZfCFN\n\n\ud83d\udd17 Ray serve: https://docs.ray.io/en/latest/serve/index.html\n\ud83d\udd17 Ray dashboard: https://docs.ray.io/en/master/ray-dashboard.html\n\ud83d\udd17 Ray cluster: https://docs.ray.io/en/master/cluster/index.html\n\ud83d\udd17 Locust: https://locust.io\n\ud83d\udd17 scikit-learn: https://sklearn.org\n\ud83d\udd17 Stack Exchange data explorer: https://data.stackexchange.com/stats/queries\n\nStay in the loop! \ud83d\udc47\n\nhttps://discord.gg/nbyZ6EpUum\nhttps://twitter.com/jonathandinu\nhttps://jonathandinu.com\nhttps://jonathans.courses\n\n#python #machinelearning #datascience\n\n\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\u26a1\ufe0e\u270c\ufe0e\n\n0:00 - Introduction\n2:22 - Deploying a model\n4:23 - Scalable architectures for serving models\n9:07 - Building an API with Ray serve\n12:00 - Machine learning in production with Ray Serve\n16:17 - Load (or stress) testing our API with Locust\n19:16 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xa_94PuUYQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xa_94PuUYQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xa_94PuUYQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xa_94PuUYQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xa_94PuUYQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xa_94PuUYQI"
+        },
+        "videoOwnerChannelTitle": "Psychothan and the Jonathanauts",
+        "videoOwnerChannelId": "UCi0Hd3U6xb4V0ApUhAIfu9Q"
+      },
+      "contentDetails": {
+        "videoId": "Xa_94PuUYQI",
+        "videoPublishedAt": "2021-04-07T16:54:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BoHqaOeaXBI3Chrl-gq4SKGNI1A",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-11-19T13:43:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "apply() Conference 2021 | Third Generation Production ML Architectures",
+        "description": "Third Generation Production ML Architectures: Lessons from History, Experiences with Ray\nby:\nDr. Waleed Kadous, Head of Engineering, Anyscale\n\nProduction ML architectures (deployed at scale in production) are evolving at a rapid pace. We suggest there have been two generations so far: the first generation were very much fixed function pipelines with predetermined stages, the second generation was pluggable components with a bit more flexibility but still pretty constrained. If history is a guide (especially looking at the evolution of GPU APIs), the third generation is going to come from making the computational power accessible and flexible.\n\nWe share our experiences with Ray, a system that makes distributed computing accessible and flexible. We give a two slide introduction to Ray, and show how Ray\u2019s flexibility enables approaches like online reinforcement learning that are not easy to fit in to existing production ML architectures without some serious shoe-horning.\n\nWe then outline how different companies (such as Uber, Ant Financial, McKinsey) are using Ray in a way that extends beyond the constraints of existing second generation architectures.\n\napply(): The ML data engineering Conference\nPresented by Tecton\n\nConnect with us:\nSlack: https://slack.feast.dev/\nLinkedIn: https://www.linkedin.com/company/tectonai/\nTwitter: https://twitter.com/TectonAI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hzW0AKKqew4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hzW0AKKqew4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzW0AKKqew4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hzW0AKKqew4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hzW0AKKqew4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hzW0AKKqew4"
+        },
+        "videoOwnerChannelTitle": "Tecton",
+        "videoOwnerChannelId": "UCd_xjxHKZ0F9un2NaHQiAmA"
+      },
+      "contentDetails": {
+        "videoId": "hzW0AKKqew4",
+        "videoPublishedAt": "2021-05-07T16:47:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AHSqC91QL6GlnUIgffXap9Ey_GY",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-11-26T14:40:51Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Building an ML Platform with Ray and MLflow",
+        "description": "A successful machine learning platform allows ML practitioners to focus solely on their experiments and models and minimizes the time it takes to develop ML applications and take them to production. However, building an ML Platform is typically not an easy task due to the many different components involved in the process. In this talk, we will show how two open source projects, Ray (https://ray.io/) and MLflow (https://mlflow.org/), work together to make it easy for ML platform developers to add scaling and experiment management to their platform.\n\nWe will first provide an overview of Ray and its native libraries: Ray Tune (https://tune.io) for distributed hyperparameter tuning and Ray Serve (https://docs.ray.io/en/master/serve/index.html) for scalable model serving. Then we will showcase how MLflow provides a perfect solution for managing experiments through integrations with Ray for tracking and model deployment. Finally, we will finish with a demo of an ML platform built on Ray, MLflow, and other open source tools.\n\nConnect with us:\nWebsite: https://databricks.com\nFacebook: https://www.facebook.com/databricksinc\nTwitter: https://twitter.com/databricks\nLinkedIn: https://www.linkedin.com/company/databricks\nInstagram: https://www.instagram.com/databricksinc/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qr-n7IVBXHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qr-n7IVBXHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qr-n7IVBXHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qr-n7IVBXHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qr-n7IVBXHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qr-n7IVBXHY"
+        },
+        "videoOwnerChannelTitle": "Databricks",
+        "videoOwnerChannelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA"
+      },
+      "contentDetails": {
+        "videoId": "qr-n7IVBXHY",
+        "videoPublishedAt": "2021-07-09T17:34:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X8suO2o3K8a3kU-fuo416vu1GMs",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-11-17T14:58:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray Core Tutorial",
+        "description": "(Paco Nathan, Derwen, Inc.)\n\nA Guided Tour of Ray Core covers an introductory, hands-on coding tour through the core features of Ray, which provide powerful yet easy-to-use design patterns for implementing distributed systems in Python. This training includes a brief talk to provide overview of concepts, then coding for remote functions, actors, parallel iterators, and so on. Then we'll follow with Q&A. All code is available in notebooks in the GitHub repo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_KOlq2C-568/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_KOlq2C-568/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_KOlq2C-568/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_KOlq2C-568/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_KOlq2C-568/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_KOlq2C-568"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "_KOlq2C-568",
+        "videoPublishedAt": "2021-07-12T20:50:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xQ2Ap80vNaJSiU_9fx5N1NrX3H0",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-11-17T14:58:56Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Hands-on RL with Ray\u2019s RLlib",
+        "description": "(Sven Mika, Anyscale)\n\n\u201cHands-on RL with Ray\u2019s RLlib\u201d is a beginners tutorial for working with reinforcement learning (RL) multi-agent environments, models, and algorithms using Ray\u2019s RLlib library. RLlib offers high scalability, a large list of algorithms to choose from (offline, model-based, model-free, etc..), support for TensorFlow and PyTorch, and a unified API for a variety of applications and customizations. This tutorial includes a brief introduction to provide an overview of concepts (e.g. why RL) before proceeding to RLlib models, hyperparameter tuning, debugging, student exercises, Q/A, and more. All code will be provided as .py files in a GitHub repo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AGkHhvhkkMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AGkHhvhkkMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AGkHhvhkkMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AGkHhvhkkMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AGkHhvhkkMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AGkHhvhkkMg"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "AGkHhvhkkMg",
+        "videoPublishedAt": "2021-07-12T21:04:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PhMO-moq_KQmA9qQm1ioBF6fcrg",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-11-19T06:51:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "[Opening Keynote] Anyscale Demo: Machine Learning Application from Dev to Prod",
+        "description": "(Edward Oakes, Anyscale)\n\nThis demo shows the full machine learning-based application lifecycle on Anyscale. You\u2019ll see how Anyscale makes it seamless both to go from developing on your laptop to running on a cluster and to transition from development to serving in production.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZYaumfW_ofw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZYaumfW_ofw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZYaumfW_ofw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZYaumfW_ofw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZYaumfW_ofw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZYaumfW_ofw"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "ZYaumfW_ofw",
+        "videoPublishedAt": "2021-07-16T17:10:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FqQxKbLsniJ06C_AP3cckILJ9Tk",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-11-17T16:32:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "[Opening Keynote] Making Distributed Computing Easy",
+        "description": "Ion Stoica, co-founder, executive chairman & president, Anyscale, highlights the product developments on the Anyscale platform, spotlights customer stories, and provides a sneak preview into the future.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dn8hu2sgRWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dn8hu2sgRWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dn8hu2sgRWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dn8hu2sgRWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dn8hu2sgRWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dn8hu2sgRWU"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "dn8hu2sgRWU",
+        "videoPublishedAt": "2021-07-19T19:41:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rh1Mi2TPugp2ZNiuR2xAJUwbsxI",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-11-19T06:47:03Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Achieving Scalability and Interactivity with Ray Serve",
+        "description": "(Jaehyun Sim & Amar Shah, Ikigai Labs)\n\nCreating a scalable and highly interactive data pipelining platform is a challenging task. Ikigai Labs is tackling this problem by enabling users to inject custom Python code into a traditional data pipelining platform. The challenges of such a flexible platform create non-traditional problems. Ray and Ray Serve enable solutions at scale without hurting data interactivity. We\u2019ll explore the challenges we faced and how Ray and Ray Serve provided excellent flexibility in resolving those challenges. We will conclude with the potential of Ray Client to push the bar even further in the future.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RLyt8RKF7II/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RLyt8RKF7II/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RLyt8RKF7II/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RLyt8RKF7II/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RLyt8RKF7II/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RLyt8RKF7II"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "RLyt8RKF7II",
+        "videoPublishedAt": "2021-08-11T20:28:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pC8T8FFZOsEB_w9HFXOlq143BJg",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-11-19T06:57:14Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray Serve: Patterns of ML Models in Production",
+        "description": "(Simon Mo, Anyscale)\n\nYou trained a ML model, now what? The model needs to be deployed for online serving and offline processing. This talk walks through the journey of deploying your ML models in production. I will cover common deployment patterns backed by concrete use cases which are drawn from 100+ user interviews for Ray and Ray Serve. Lastly, I will cover how we built Ray Serve, a scalable model serving framework, from these learnings.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mM4hJLelzSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mM4hJLelzSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mM4hJLelzSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mM4hJLelzSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mM4hJLelzSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mM4hJLelzSw"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "mM4hJLelzSw",
+        "videoPublishedAt": "2021-09-25T01:52:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FEs-7AFr4ZDuA3tdGDMzNjPF1kc",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-11-21T19:51:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ray Internals: Object Management with the Ownership Model",
+        "description": "(Stephanie Wang & Yi Cheng, Anyscale)\n\nIn this talk, Stephanie and Yi do a deep dive into Ray's distributed object management layer. They explain the Ray execution model and the basics behind the Ray distributed object store. Next, they describe the challenges with achieving both performance and reliability for object management. They present their solution to this problem, which is based on a novel concept called ownership that ensures object metadata consistency with low overhead. Finally, they present some exciting upcoming work on how to extend ownership to better support recent use cases.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1oSBxTayfJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1oSBxTayfJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1oSBxTayfJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1oSBxTayfJc"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "1oSBxTayfJc",
+        "videoPublishedAt": "2021-11-17T21:12:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fTfa-H0dvWm2MvV-oFBganIjI4M",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-11-19T06:58:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Using Reinforcement Learning to Optimize IAP Offer Recommendations in Mobile Games",
+        "description": "(Emiliano Castro, Vinicius Alves, & Felipe Antunes, Wildlife Studios)\n\nA significant part of mobile games revenue comes from In-App Purchases (IAP), and offers play a relevant role there. Offers are defined as sales opportunities that present a set of virtual items (like gems, for example) with a discount when compared to regular purchases in the game store. Additionally, the player base is very diverse: most of our users never make a purchase in our apps, and there are casual as well as hardcore players. This diversity pushes us to personalize user experience.\n\nThe key goal is to define, for any given player at any given time, what is the best offer that we can show to maximize long-term profits. With that in mind, we are encouraged to frame this system as a very particular optimization problem: what is the best policy, the one that will help us make the best sequence of decisions, maximizing revenue in the long run?\n\nIn this talk, we'll explain how we used Reinforcement Learning (RL) algorithms and Ray to tackle this problem, from formulating the problem and setting up our clusters, to the RL agents' deployment in production. We'll provide an overview of the main issues we faced and how we managed to overcome them.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cGQk8rIoc1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cGQk8rIoc1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cGQk8rIoc1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cGQk8rIoc1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cGQk8rIoc1Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cGQk8rIoc1Y"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "cGQk8rIoc1Y",
+        "videoPublishedAt": "2021-11-17T21:12:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n7MI4yzuFd8mICUvOCMX2-c7DE8",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-11-19T06:57:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "A 24x Speedup for Reinforcement Learning with RLlib + Ray",
+        "description": "(Raoul Khouri, Two Sigma)\n\nTraining a reinforcement learning (RL) agent is compute intensive. Under classical deep learning assumptions bigger and better GPUs reduce training time. However, for RL, bigger and better GPUs do not always lead to reduced training time. In practice, RL can require millions of samples from a relatively slow and CPU-only environment leading to a bottleneck in training that GPUs do not solve. Empirically, we find that training agents with RLlib removes this bottleneck because its Ray integration allows scaling to many CPUs across a cluster of commodity machines. This talk details how such scaling can cut training wall-time down by orders of magnitude.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ezCJQscPuGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ezCJQscPuGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezCJQscPuGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ezCJQscPuGE"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "ezCJQscPuGE",
+        "videoPublishedAt": "2021-11-17T21:12:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hol-oFrgKTipRvwYK268OqYW1xc",
+      "id": "UExJamhmbHVoTmQ5X0VaNU5hWXlXZmE0dEJ5Z3A4b1NmUi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-11-18T14:29:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "DeepCoMP: Multi-agent Reinforcement Learning for Multi-cell Selection in 5G and Beyond",
+        "description": "(Stefan Schneider, Paderborn University)\n\nWe present DeepCoMP as outcome of a research project on dynamic multi-cell selection in future mobile networks. DeepCoMP is a (multi-agent) deep reinforcement learning approach using Ray RLlib that continuously coordinates user-cell connections in mobile networks. Connecting to and receiving data from multiple cells simultaneously using coordinated multipoint (CoMP) can greatly increase the received data rate and is crucial for AR/VR, smart manufacturing, cloud gaming, and vehicular networking scenarios in 5G and beyond. Selecting how many and which cells to serve which users is challenging as users compete for limited radio resources and channel state continuously changes with users moving around.\n\nExisting approaches typically build on expert-tailored models and require strict assumptions or perfect knowledge of the underlying radio system and environment dynamics, which are often unavailable in practice. Instead, DeepCoMP has very limited built-in assumptions and learns to control multi-cell selection just from partial, realistically available observations and its own experience. We present three different variants of DeepCoMP using either centralized or distributed multi-agent deep reinforcement learning, discuss their strengths and weaknesses, and show that DeepCoMP outperforms other approaches by up to 231%. We also show how we used Ray RLlib to implement DeepCoMP and how RLlib simplified switching between centralized and multi-agent RL as well as local development and deployment of experiments on a private cluster.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qy4SzJKXlGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qy4SzJKXlGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qy4SzJKXlGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qy4SzJKXlGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_EZ5NaYyWfa4tBygp8oSfR",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qy4SzJKXlGE"
+        },
+        "videoOwnerChannelTitle": "Anyscale",
+        "videoOwnerChannelId": "UC7L1tZw52rtgmIB4fr_f40w"
+      },
+      "contentDetails": {
+        "videoId": "Qy4SzJKXlGE",
+        "videoPublishedAt": "2021-11-17T21:39:43Z"
+      }
+    }
+  ]
+}

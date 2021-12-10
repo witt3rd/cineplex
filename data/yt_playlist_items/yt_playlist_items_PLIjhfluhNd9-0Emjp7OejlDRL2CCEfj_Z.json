@@ -1,0 +1,3185 @@
+{
+  "_id": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+  "as_of": "2021-12-10 00:21:56.313881",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5gxCtrKSs7zxWDVURimjJSoTp3Y",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2021-11-28T21:12:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Web Wednesday: Getting started with Svelte with John Papa",
+        "description": "Svelte is a front-end JavaScript framework designed to feel like writing standard JavaScript, HTML and CSS. This allows you to quickly start creating components without the necessary boilerplate code other frameworks may require. This week John Papa joins us to walk us through the core concepts of the framework. He'll explain why we should consider using Svelte and highlight some of its best features.\n\nLearn more:\n\nDeploy to Azure: https://aka.ms/WebWeds/Svelte/Deploy\nAdd a server-side API: https://aka.ms/WebWeds/Svelte/API",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DnBeY3JsTtY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DnBeY3JsTtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DnBeY3JsTtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DnBeY3JsTtY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DnBeY3JsTtY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DnBeY3JsTtY"
+        },
+        "videoOwnerChannelTitle": "Microsoft Developer",
+        "videoOwnerChannelId": "UCsMica-v34Irf9KVTh6xx-g"
+      },
+      "contentDetails": {
+        "videoId": "DnBeY3JsTtY",
+        "videoPublishedAt": "2021-09-30T18:22:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CIfFHZ4WMbOB8HqYFVbp2nkJOJU",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2021-11-28T21:12:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to Deploy a Dockerized Svelte App to Azure",
+        "description": "Learn how to create a production-ready Docker image with Svelte. Then we will use that Docker Image to push it to Azure Container Registry and we will Host it to Azure Container Instance.\n\nNginx: https://gist.github.com/scalablescripts/a69000659a0a09bb71066b9b4d3fcecb\n\nCheck more tutorials: \nGet access to all my courses for 15$/month: https://scalablescripts.com/p/membership\n\n#docker #azure #svelte",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gdg4ne_uDm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gdg4ne_uDm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gdg4ne_uDm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gdg4ne_uDm8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gdg4ne_uDm8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gdg4ne_uDm8"
+        },
+        "videoOwnerChannelTitle": "Scalable Scripts",
+        "videoOwnerChannelId": "UCljAHzX-PBxv6WrXkI2rnQw"
+      },
+      "contentDetails": {
+        "videoId": "gdg4ne_uDm8",
+        "videoPublishedAt": "2021-06-21T12:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zmAPpw48FoGy3OkFMP3_gHcqRDg",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2021-11-28T21:12:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Crash Course 2021",
+        "description": "Learn the fundamentals of Svelte by building a feedback app\n\nCode:\nhttps://github.com/bradtraversy/svelte-feedback-app\n\n\ud83d\udc47 Website & Courses:\nhttps://traversymedia.com\nhttps://freelancemastery.dev\n\n\ud83d\udc96  Show Support\nPatreon: https://www.patreon.com/traversymedia\nPayPal: https://paypal.me/traversymedia\n\n\ud83d\udc47 Follow Me On Social Media:\nTwitter: https://twitter.com/traversymedia\nInstagram: https://www.instagram.com/traversymedia\nLinkedin: https://www.linkedin.com/in/bradtraversy\n\nThe article where I got the image:\nhttps://blog.bitsrc.io/react-vs-sveltejs-the-war-between-virtual-and-real-dom-59cbebbab9e9",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3TVy6GdtNuQ"
+        },
+        "videoOwnerChannelTitle": "Traversy Media",
+        "videoOwnerChannelId": "UC29ju8bIPH5as8OGnQzwJyA"
+      },
+      "contentDetails": {
+        "videoId": "3TVy6GdtNuQ",
+        "videoPublishedAt": "2021-10-13T17:58:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I_BqXz2l5YOYNMtbjbr0lS_jf0o",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2021-11-28T04:48:16Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Sirens: Building Design Systems in SvelteKit",
+        "description": "Learn about what a design system is, how to structure your code, and the SvelteKit package command.\r\n\r\nJoin the community: https://svelte.dev/chat\r\nEvent: https://sveltesirens.dev/events/building-design-systems-in-sveltekit\r\nGitHub Repo: https://github.com/brittneypostma/sveltekit-design-system\n\n02:45 - Audio issues fixed - Intro\n04:15 - Building Design Systems in SvelteKit\n04:59 - Atomic Design\n05:55 - A simpler design system\n06:22 - Component Libraries https://carbon-svelte.vercel.app/\n09:18 - SvelteKit Package\n11:10 - Vanilla CSS\n13:30 - Tailwind CSS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3bjVQJwF6O8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3bjVQJwF6O8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3bjVQJwF6O8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3bjVQJwF6O8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3bjVQJwF6O8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3bjVQJwF6O8"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "3bjVQJwF6O8",
+        "videoPublishedAt": "2021-11-29T18:18:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U3sIOXkxApFddvxRvZSPhqFcCkM",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2021-11-22T13:41:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Summit Fall 2021",
+        "description": "Platinum Sponsor:\r\nGraphCMS - https://bit.ly/3Ft8ojy\r\n\r\nGold Sponsors:\r\nLevelUp Tutorials - https://leveluptutorials.com/\r\nCloudflare Pages - https://pages.cloudflare.com\r\nSvekyll - https://bit.ly/3qZc4FR\r\nNetlify - https://netlify.com/\r\nVercel - https://vercel.com\r\nMagic - https://magic.link\r\nFaunaDB - https://bit.ly/30FdKJy\r\nWPEngine - https://wpengine.com/atlas/\r\n\r\nMusic By:\r\nFractal - https://soundcloud.com/officialfractal\n\n0:00 Prelude\n20:00 Start\n29:00 Where Do I Begin?\n38:00 Documentation\n42:55 Svelte's Reactivity\n1:12:34 primo - building and managing static sites\n1:21:54 Guillermo Rauch - Vercel + Svelte\n1:32:30 Svelte transitions and accessibility\n1:43:06 Custom Svelte stores\n1:49:30 Headless WP and SvelteKit\n2:17:15 Islands architecture and Jamstack\n3:16:35 Scott Tolinski - From React to Svelte\n3:50:45 Svelte Sirens\n3:56:00 Rich Harris discusses creating libraries with SvelteKit\n4:07:18 State Machine meets Svelte component (svelte-fsm)\n4:21:50 Small steps lead to big leaps\n4:32:30 Coding with Jesse\n4:59:00 Plenti, a minimalist JAMstack framework and Theming\n5:07:00 Kevin, Robert, Rich\n5:08:55 Svelte and Vest Form Validation Framework\n5:30:04 Icon libraries",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Df-9EKvZr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Df-9EKvZr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Df-9EKvZr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Df-9EKvZr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Df-9EKvZr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Df-9EKvZr0"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "1Df-9EKvZr0",
+        "videoPublishedAt": "2021-11-20T22:58:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lwShJdpMw1fhCf2h8xnTomN275E",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2021-10-17T06:52:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Crash Course 2021",
+        "description": "Learn the fundamentals of Svelte by building a feedback app\n\nCode:\nhttps://github.com/bradtraversy/svelte-feedback-app\n\n\ud83d\udc47 Website & Courses:\nhttps://traversymedia.com\nhttps://freelancemastery.dev\n\n\ud83d\udc96  Show Support\nPatreon: https://www.patreon.com/traversymedia\nPayPal: https://paypal.me/traversymedia\n\n\ud83d\udc47 Follow Me On Social Media:\nTwitter: https://twitter.com/traversymedia\nInstagram: https://www.instagram.com/traversymedia\nLinkedin: https://www.linkedin.com/in/bradtraversy\n\nThe article where I got the image:\nhttps://blog.bitsrc.io/react-vs-sveltejs-the-war-between-virtual-and-real-dom-59cbebbab9e9",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3TVy6GdtNuQ"
+        },
+        "videoOwnerChannelTitle": "Traversy Media",
+        "videoOwnerChannelId": "UC29ju8bIPH5as8OGnQzwJyA"
+      },
+      "contentDetails": {
+        "videoId": "3TVy6GdtNuQ",
+        "videoPublishedAt": "2021-10-13T17:58:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VZoaPmWPesVmkuf9bBKmOH9-SLo",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-09-05T13:09:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "I built the same app 10 times // Which JS Framework is best?",
+        "description": "I built a simple app with 10 different JavaScript frameworks... Learn the pros and cons of each JS framework before building your next app https://github.com/fireship-io/10-javascript-frameworks\n\n#javascript #webdev #top10\n\n\ud83d\udd17 Resources\n\nFull Courses https://fireship.io/courses/\nPerformance Benchmarks https://github.com/krausest/js-framework-benchmark\nSource code https://github.com/fireship-io/10-javascript-frameworks\n\n\ud83d\udcda Chapters\n\n00:00 JavaScript Frameworks\n00:53 1. Vanilla\n04:21 2. React\n07:48 3. Angular\n10:15 4. Vue\n12:18 5. Svelte\n14:16 6. Lit\n16:11 7. Stencil\n17:18 8. Solid\n18:35 9. Alpine\n20:17 10. Mithril\n\n \ud83e\udd13 Install the quiz app\n\niOS https://itunes.apple.com/us/app/fireship/id1462592372?mt=8\nAndroid https://play.google.com/store/apps/details?id=io.fireship.quizapp\n\n\ud83d\udd25 Watch more with Fireship PRO\n\nUpgrade to Fireship PRO at https://fireship.io/pro\nUse code lORhwXd2 for 25% off your first payment. \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cuHDQhDhvPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cuHDQhDhvPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cuHDQhDhvPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cuHDQhDhvPE"
+        },
+        "videoOwnerChannelTitle": "Fireship",
+        "videoOwnerChannelId": "UCsBjURrPoezykLs9EqgamOA"
+      },
+      "contentDetails": {
+        "videoId": "cuHDQhDhvPE",
+        "videoPublishedAt": "2021-08-11T17:39:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zMPHhFeorf65YiXsCPPK0cfxjtI",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-08-30T23:56:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Get Started with Svelte and SvelteKit",
+        "description": "Embrace the hype. Give Svelte and SvelteKit a try!\n\nLearn how to build modern web applications with SvelteKit, a quickly growing framework for generating static web pages (SSG) as well as Server Side Rendered content (SSR). In this crash course, you'll learn all the basics including file-based routing, API routes, dynamic routes, global and scoped CSS, and much more!\n\nSource Code - https://github.com/brittneypostma/sveltekit-starter\nFollow Brittney on Twitter - https://twitter.com/BrittneyPostma\n___________________________________________\nLearn with Auth0\n\nTry Auth0 for free - https://a0.to/auth0\nThe Auth0 blog - https://a0.to/blog\nWatch Live Streams on Twitch - https://a0.to/twitch\nAsk questions on the Community Forum - https://a0.to/community\n\n___________________________________________\nFollow Us on Social\n\nFollow us on Twitter - https://a0.to/twitter\nFollow us on LinkedIn - https://a0.to/linkedin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOD_3iSiwTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOD_3iSiwTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOD_3iSiwTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fOD_3iSiwTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fOD_3iSiwTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fOD_3iSiwTQ"
+        },
+        "videoOwnerChannelTitle": "Auth0",
+        "videoOwnerChannelId": "UCUlQ5VoIzE_kFbYjzUwHTKA"
+      },
+      "contentDetails": {
+        "videoId": "fOD_3iSiwTQ",
+        "videoPublishedAt": "2021-07-07T17:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "luMqUXM-EJ64hhBJuqoRFEeTXGI",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-08-30T23:56:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Society Day 2020: Antony Jones: Authentication with Sapper",
+        "description": "Authentication Server-Side Rendered Single-Page Apps can be difficult. Antony looks to break down the simplest possible way of providing full SSR compatible authentication with JWT\n\n\nSlides: https://antony.github.io/svelte-meetup-sapper-authentication-april-2020/\nSample project: https://github.com/antony/sapper-authentication-demo\nSapper-rbac: https://github.com/beyonk-adventures/sapper-rbac",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E47uUYvlhQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E47uUYvlhQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E47uUYvlhQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E47uUYvlhQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E47uUYvlhQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E47uUYvlhQc"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "E47uUYvlhQc",
+        "videoPublishedAt": "2020-04-28T17:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HGyIJ2wbxyruav0YJayF69WI3os",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-08-30T23:46:50Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte.js Demo - WebSockets",
+        "description": "In this video, we'll go over how to use WebSocket with svelte using the REPL.\n\nSvelte REPL:\nhttps://svelte.dev/repl/29a5bdfb981f479fb387298aef1190a0?version=3.22.2\n\nWebsocket Github:\nhttps://github.com/phptuts/node-relay-server\n\nNgrok:\nhttps://ngrok.com/\n\nSteps:\n\ngit clone https://github.com/phptuts/node-relay-server.git\ncd node-relay-server\nnpm install\nnode app.js\nSetup an account with ngrok.\nnpm install -g ngrok\nngrok authtoken \"your auth token\"\nngrok http 3000\nGo into message-store.js file and replace it with your ngrok url",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/weC9HydHEAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/weC9HydHEAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/weC9HydHEAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/weC9HydHEAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/weC9HydHEAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "weC9HydHEAg"
+        },
+        "videoOwnerChannelTitle": "Noah Glaser",
+        "videoOwnerChannelId": "UCjWnee4Cv1MESU8ALLsHdCA"
+      },
+      "contentDetails": {
+        "videoId": "weC9HydHEAg",
+        "videoPublishedAt": "2020-05-09T01:55:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Dkr7gFsiXsTC9zJe0bwEZLQLEpY",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-08-30T02:09:17Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "SvelteKit Session Authentication Using Cookies",
+        "description": "In this video I show how to setup a SvelteKit app with both pages and endpoints to demonstrate how to do authentication using session based cookies. I demonstrate how to create a registration and login that leads to a profile page displaying some basic profile information. I also show two different ways to do client side redirects. \n\nIf you enjoy my content you can find me on Twitter @BraydenGirard and make sure you are subscribed on YouTube so you don't miss out on upcoming content!\n\nhttps://twitter.com/BraydenGirard",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bG7cxwBMVag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bG7cxwBMVag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bG7cxwBMVag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bG7cxwBMVag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bG7cxwBMVag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bG7cxwBMVag"
+        },
+        "videoOwnerChannelTitle": "Brayden Girard",
+        "videoOwnerChannelId": "UCGl66MHcjMDJyIPZkuKULSQ"
+      },
+      "contentDetails": {
+        "videoId": "bG7cxwBMVag",
+        "videoPublishedAt": "2021-04-02T23:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fmNF8ZGgK2dfpbvOfFkvvxoTMb4",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-08-29T22:19:16Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "SvelteKit Authentication with Github OAuth  - Tom Wilson",
+        "description": "\ud83d\udc4b\ud83c\udffb Hello,\n\nThis is a workshop on how to set up cookie-based session authentication using SvelteKit.\n\nSvelteKit is the new way to build Svelte Applications, it combines the client and server in a clean and seamless bridge so you can build your applications in complete flow.\n\nFor more details check out: \n\nhttps://blog.hyper.io/sveltekit-authentication/\n\nWorkshop Completed Github Repository:\n\nhttps://github.com/hyper63/sveltekit-auth-workshop\n\nThank you for taking the workshop!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D4ZcbudB1n0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D4ZcbudB1n0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D4ZcbudB1n0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D4ZcbudB1n0"
+        },
+        "videoOwnerChannelTitle": "hyper videos",
+        "videoOwnerChannelId": "UC_V8BG1cTmILu9IkTK-yn1A"
+      },
+      "contentDetails": {
+        "videoId": "D4ZcbudB1n0",
+        "videoPublishedAt": "2021-06-02T20:57:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ktHTYnaEFaFfPD1ZZhV0wtZsxl4",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-08-29T21:33:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte + Firebase = Sveltefire (and it is FIRE \ud83d\udd25\ud83d\udd25\ud83d\udd25)",
+        "description": "NOTICE - I'm not a firebase expert. Make sure you know good security practices before putting an app into production that uses sensitive user data!\n\nSteps in video\n1. - Setup your Local using Sveltefire-template https://github.com/codediodeio/sveltefire-template\n2. - Make your Firebase Project on https://firebase.google.com/\n3. - Add a web app to your Firebase Project, put config in App.svelte\n4. - Make a Firestore, add these rules\nrules_version = '2';\nservice cloud.firestore {\n  match /databases/{database}/documents {\n    match /posts/{postId}/{document=**} {\n      allow read, write: if request.auth.uid == postId;\n       }\n     }\n   }\n5. - Allow Anonymous signin and Email signin\n6. - Add Email Sign-in to template https://firebase.google.com/docs/auth/web/password-auth\n7. - Deploy app with $ firebase login, $ firebase init, $ firebase deploy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/urDLn8RNlCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/urDLn8RNlCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/urDLn8RNlCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/urDLn8RNlCA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/urDLn8RNlCA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "urDLn8RNlCA"
+        },
+        "videoOwnerChannelTitle": "Svelte Mastery",
+        "videoOwnerChannelId": "UCg6SQd5jnWo5Y70rZD9SQFA"
+      },
+      "contentDetails": {
+        "videoId": "urDLn8RNlCA",
+        "videoPublishedAt": "2020-01-18T11:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YZdcyzDbDZI04mEPgjBVs0TskUw",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-08-29T21:32:54Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Build Real-time Chat App with Google Authentication using Svelte & Firebase | HTML, CSS & JavaScript",
+        "description": "In this video, I will show you how you can easily build simple & responsive real-time chat / messaging app with google authentication using svelte and firebase. I have used two services of firebase, google authentication and firestore for real-time database.\n\n00:00 - Introduction\n00:05 - Demo\n01:25 - Setting up Project\n04:55 - Firebase Configuration\n07:05 - Svelte Firebase Integration\n08:35 - Google Authentication Implementation\n14:28 - Firestore Integration for Chat\n26:55 - Final Demo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IDrOeFPj7Ps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IDrOeFPj7Ps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IDrOeFPj7Ps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IDrOeFPj7Ps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IDrOeFPj7Ps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IDrOeFPj7Ps"
+        },
+        "videoOwnerChannelTitle": "Codingflag",
+        "videoOwnerChannelId": "UCXDLrsqe14uFu6k96xjlF4w"
+      },
+      "contentDetails": {
+        "videoId": "IDrOeFPj7Ps",
+        "videoPublishedAt": "2021-07-05T14:02:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ygUdmGIRXXyA28Y-QxBkRtETgzw",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-08-29T12:30:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Project - Bulma Habit App",
+        "description": "Let me know what you think of this format and please like and subscribe!\n\nHere is my patreon: https://patreon.com/sveltemaster",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U5Eb8zBhO1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U5Eb8zBhO1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U5Eb8zBhO1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U5Eb8zBhO1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U5Eb8zBhO1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U5Eb8zBhO1c"
+        },
+        "videoOwnerChannelTitle": "Svelte Mastery",
+        "videoOwnerChannelId": "UCg6SQd5jnWo5Y70rZD9SQFA"
+      },
+      "contentDetails": {
+        "videoId": "U5Eb8zBhO1c",
+        "videoPublishedAt": "2019-10-13T23:34:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jaPxACR7DCvAL_3kLtR_Pd3Uw1A",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-08-29T06:56:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "[Svelte Talks] Persisting a Svelte Store with Local Storage",
+        "description": "Brittney Postma of CodingCat.dev shows us how to create a store with Svelte and setting it to local storage so that it persists through refresh!\n\nSample Code: https://github.com/brittneypostma/svelte-stores\nDemo: https://github.com/brittneypostma/svelte-kanban\n\nAbout Brittney: \n\nI am a self-taught developer with a background in Graphic Design. I am the frontend designer and developer for CodingCat.dev. I co-host a podcast called Purrfect.dev and I also create educational content centered around CSS and the Jamstack on CodingCat.dev and Zero to Mastery Academy.\n\nFollow:\n- https://twitter.com/brittneypostma\n- https://linkedin.com/in/brittney-postma-868928178\n- https://theconsolelogs.com (blog)\n- https://codingcat.dev (company)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a65aPLz18IM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a65aPLz18IM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a65aPLz18IM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a65aPLz18IM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a65aPLz18IM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a65aPLz18IM"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "a65aPLz18IM",
+        "videoPublishedAt": "2021-04-07T17:23:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q84gBFbg4VmAS7pPcUIbAX3EJS0",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-08-29T06:55:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Introduction to Svelte, Actions and Stores - Kevin \u00c5berg Kultalahti @ Svelte Society Stockholm",
+        "description": "Kevin walks us through some basic Svelte syntax as well as shows us some examples of Actions as well as Stores. Thanks to Christian Heine for some of the examples shown in the presentation. Read his article here: https://medium.com/better-programming/practical-svelte-the-use-directive-60635671335f\n\n\n\nHosted by Valtech: https://www.valtech.com/ in their beautiful location on Kungsholmen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BsNkyQ130Wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BsNkyQ130Wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BsNkyQ130Wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BsNkyQ130Wc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BsNkyQ130Wc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BsNkyQ130Wc"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "BsNkyQ130Wc",
+        "videoPublishedAt": "2020-02-25T18:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5LR8gyIBCgGY9X_NMyjTQdA6wgg",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-08-29T06:55:07Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Tim Raderschad: Modern fetch in svelte using stores",
+        "description": "This was recorded for Svelte Summit 2020: https://www.sveltesummit.com\n\nIn this short talk we will take a look at using Svelte and their awesome stores to create a modified version of fetch which will make our UIs feel responsive and clean. At the end we will also sprinkle in a bit of caching to further improve the performance. We will also talk about Loading Spinners and how we can avoid bored users!\n\nFurther links and resources are available in this gist! https://gist.github.com/vedam/cb1fca38d021143a87f59813f36995dc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IUHkSoBxyLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IUHkSoBxyLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IUHkSoBxyLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IUHkSoBxyLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IUHkSoBxyLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IUHkSoBxyLM"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "IUHkSoBxyLM",
+        "videoPublishedAt": "2020-10-22T05:59:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MFtrCmsBJhwtWbd3F3L_m6idW3Q",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-08-29T06:14:52Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Rich Harris: Futuristic Web Development",
+        "description": "Edit from the future: check out our followup podcast interview on SvelteKit https://share.transistor.fm/s/859bbd95\n\n---\nThis was recorded for Svelte Summit 2020: https://www.sveltesummit.com\n\nThe front end development landscape has been transformed since we started building Svelte and Sapper. What would a reimagined, truly modern workflow look like?\n\nOpen Collective: https://opencollective.com/svelte",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qSfdtmcZ4d0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qSfdtmcZ4d0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qSfdtmcZ4d0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qSfdtmcZ4d0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qSfdtmcZ4d0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qSfdtmcZ4d0"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "qSfdtmcZ4d0",
+        "videoPublishedAt": "2020-10-19T11:07:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ScfVs5LJl5BvuQHoEoFju5JOsq0",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-08-29T06:14:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Society Day 2020: Rich Harris: Frequently Asked Questions",
+        "description": "You have questions. Rich has answers.\n\n\nTwitter: https://twitter.com/Rich_Harris/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/luM5uobewhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/luM5uobewhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/luM5uobewhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/luM5uobewhA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/luM5uobewhA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "luM5uobewhA"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "luM5uobewhA",
+        "videoPublishedAt": "2020-05-01T16:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lzc2ieS4vlXJC0l-rFshMBpQwzA",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-08-29T06:12:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Return of 'Write Less, Do More' by Rich Harris  | JSCAMP 2019",
+        "description": "More information:\nhttps://jscamp.tech",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BzX4aTRPzno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BzX4aTRPzno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BzX4aTRPzno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BzX4aTRPzno"
+        },
+        "videoOwnerChannelTitle": "JScamp",
+        "videoOwnerChannelId": "UCVLlWT1NZZEJs4A67XgObnQ"
+      },
+      "contentDetails": {
+        "videoId": "BzX4aTRPzno",
+        "videoPublishedAt": "2019-10-26T15:29:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3zLCxuCRXEd2e6zdNelR4Q6dmrg",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-08-29T06:12:23Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Rich Harris - Rethinking reactivity",
+        "description": "Modern JavaScript frameworks are all about reactivity. Change your application's state, and the view updates automatically. But there's a catch \u2014 tracking state changes at runtime adds overhead that eats into your bundle size and performance budgets. In this talk, we'll discover an alternative approach: moving reactivity into the language itself. Your apps have never been smaller or faster than they're about to become.\n\nSlides: https://rethinking-reactivity.surge.sh/\n\nYGLF 2019: Code Camp Blog - Rich Harris:\nhttps://www.israel.yglfconf.com/post/meet-the-speaker-rich-harris",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AdNJ3fydeao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AdNJ3fydeao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AdNJ3fydeao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AdNJ3fydeao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AdNJ3fydeao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AdNJ3fydeao"
+        },
+        "videoOwnerChannelTitle": "You Gotta Love Frontend",
+        "videoOwnerChannelId": "UCU-fOxx_kT5OARG0KiksiCA"
+      },
+      "contentDetails": {
+        "videoId": "AdNJ3fydeao",
+        "videoPublishedAt": "2019-04-22T07:39:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dWMefjGbyYXPiyV3l72zLgyt0To",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-08-29T03:41:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "live code: Svelte app showing realtime Postgres data changes (GraphQL subscriptions)",
+        "description": "We live code a Svelte app to show realtime queries (subscriptions) to Postgres data over GraphQL using Hasura. The data changes in the database and the view updates instantly.\n\nSource repo: https://bitbucket.org/spinspire/hasura-todo\n\nTOC/Index\n00:00 Intro & Overview\n01:47 Start coding (npx degit sveltejs/template hasura-todo)\n03:40 Download and run Hasura docker-compose.yml\n05:56 Create todo table in Hasura\n07:30 Insert todo using GraphQL mutation\n10:35 Add npm module dependencies (npm install apollo-client apollo-cache-inmemory apollo-link-http apollo-link-error apollo-link graphql-tag graphql apollo-link-ws subscriptions-transport-ws --save)\n12:00 Demo live subscription query\n14:30 Back to coding the Svelte client app\n17:10 Create graphql-client.js with HTTP as well as WebSocket links to GraphQL server\n22:40 Create Svelte UI and form submit handler to insert todo\n28:00 Test if todo insert works\n29:00 Code subscription to live data and display live data (realtime feed)\n34:00 Realtime todo list working\n35:40 Order by ID descending\n38:04 Update todo completion status\n47:58 Closing summary & recap\n\nFor questions, post a comment. For business inquiries, email info@spinspire.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HX5cqBkNJA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HX5cqBkNJA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HX5cqBkNJA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HX5cqBkNJA0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HX5cqBkNJA0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HX5cqBkNJA0"
+        },
+        "videoOwnerChannelTitle": "SpinSpire",
+        "videoOwnerChannelId": "UCJ4h7utY-IjXKXOUuwmSYXw"
+      },
+      "contentDetails": {
+        "videoId": "HX5cqBkNJA0",
+        "videoPublishedAt": "2020-02-25T01:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OJ37f0qnlHoWRpM4Gfmy2M7nBME",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-08-29T03:39:48Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte - Quickstart & Thorough Introduction Tutorial",
+        "description": "Learn SvelteJS - a modern JavaScript compiler which produces lightweight, high performance web apps.\nJoin the full \"Svelte - The Complete Guide\" course: https://acad.link/svelte\nCheck out all our other courses: https://academind.com/learn/our-courses\n\n----------\n\nSvelte vs React, Angular & Vue: https://youtu.be/DZyWNS4fVE0\nCreating Svelte Projects: https://svelte.dev/blog/the-easiest-way-to-get-started\nOfficial Docs: https://svelte.dev/tutorial/basics\nUnderstanding reduce(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce\n\n----------\n\n\u2022 Go to https://www.academind.com and subscribe to our newsletter to stay updated and to get exclusive content & discounts\n\u2022 Follow @maxedapps and @academind_real on Twitter\n\u2022 Follow @academind_real on Instagram: https://www.instagram.com/academind_real\n\u2022 Join our Facebook community on https://www.facebook.com/academindchannel/\n\nSee you in the videos!\n\n----------\n\nAcademind is your source for online education in the areas of web development, frontend web development, backend web development, programming, coding and data science! No matter if you are looking for a tutorial, a course, a crash course, an introduction, an online tutorial or any related video, we try our best to offer you the content you are looking for. Our topics include Angular, React, Vue, Html, CSS, JavaScript, TypeScript, Redux, Nuxt.js, RxJs, Bootstrap, Laravel, Node.js, Progressive Web Apps (PWA), Ionic, React Native, Regular Expressions (RegEx), Stencil, Power BI, Amazon Web Services (AWS), Firebase or other topics, make sure to have a look at this channel or at academind.com to find the learning resource of your choice!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIfIRdRlD58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIfIRdRlD58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIfIRdRlD58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LIfIRdRlD58/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LIfIRdRlD58/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LIfIRdRlD58"
+        },
+        "videoOwnerChannelTitle": "Academind",
+        "videoOwnerChannelId": "UCSJbGtTlrDami-tDGPUV9-w"
+      },
+      "contentDetails": {
+        "videoId": "LIfIRdRlD58",
+        "videoPublishedAt": "2019-05-15T15:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bPJ-xiTh9a7XUR4KiGS0YhexF9Q",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-08-29T03:39:00Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Crash Course",
+        "description": "In this video we will scratch the surface with the Svelte and look at how to set it up and create a simple user interface\n\nSponsor: DevMountain Bootcamp\nhttps://goo.gl/6q0dEa\n\nCode:\nhttps://github.com/bradtraversy/svelte-scoreboard\n\n\ud83d\udc96 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nFollow Traversy Media:\nhttps://www.facebook.com/traversymedia\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uK2RnIzrQ0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uK2RnIzrQ0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uK2RnIzrQ0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uK2RnIzrQ0M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uK2RnIzrQ0M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uK2RnIzrQ0M"
+        },
+        "videoOwnerChannelTitle": "Traversy Media",
+        "videoOwnerChannelId": "UC29ju8bIPH5as8OGnQzwJyA"
+      },
+      "contentDetails": {
+        "videoId": "uK2RnIzrQ0M",
+        "videoPublishedAt": "2019-06-06T20:44:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LOifyiDOooBPXI2kJzRVGrFw8iA",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-08-29T03:12:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte with GraphQL - Getting Started",
+        "description": "GAIN A 6-FIGURE CAREER WITH REACT: \nhttps://reactbootcamp.com\n\n\ud83d\udc47 SUBSCRIBE TO REACT BOOTCAMP \ud83d\udc47\nhttps://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A?sub_confirmation=1\n\n\u2b50 FOLLOW ON TWITTER\nhttps://twitter.com/ReactBootcamp\n---------\nCodeSandbox: https://codesandbox.io\nFinal Code: https://codesandbox.io/s/fetching-data-in-reactjs-complete-guide-rup0i\nMusic by sugiwa\n\n#javascript #sveltejs #graphql\n---------\nCodeSandbox: https://codesandbox.io/s/jolly-kepler-y5brj",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WqOLx2yuF3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WqOLx2yuF3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WqOLx2yuF3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WqOLx2yuF3M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WqOLx2yuF3M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WqOLx2yuF3M"
+        },
+        "videoOwnerChannelTitle": "Web Dev Hero",
+        "videoOwnerChannelId": "UC-kHm7pG884IYQiYwqJWv9A"
+      },
+      "contentDetails": {
+        "videoId": "WqOLx2yuF3M",
+        "videoPublishedAt": "2019-06-19T16:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WUvfIMfKZNJza7jScBQRjI26N_g",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:54:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Beginner Svelte Tutorial - Coding A Movie Journal With Svelte",
+        "description": "Svelte is a newer frontend framework that takes a different approach than frameworks such as Vue, React, and Angular. Svelte is gaining a lot of traction! This video will get you up to speed with using Svelte!\n\n#Svelte #PortEXE\n\n\ud83c\udfb5 Music by Moon Wash.\nhttps://songfuze.com/artist/moonwash\n\n\ud83d\udd17Podcast Ep. 1 - Svelte vs The Rest: https://portexe.com/cast/1\n\ud83d\udd17Finished Code: https://github.com/portexe/beginner-svelte-tutorial\n\n---\n\n\ud83d\udc40 Follow Me:\nTwitter \u2794 https://twitter.com/portexe\nInstagram \u2794 https://www.instagram.com/port.exe/\nGitHub \u2794 https://github.com/portexe\nFacebook \u2794 https://www.facebook.com/portexe\nWebsite \u2794 https://www.portexe.com/\nGAMING \u2794 https://www.twitch.tv/portexe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FkDN29z_D1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FkDN29z_D1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FkDN29z_D1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FkDN29z_D1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FkDN29z_D1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FkDN29z_D1k"
+        },
+        "videoOwnerChannelTitle": "PortEXE",
+        "videoOwnerChannelId": "UCjGQyJCSU_VVMTu5nigonqg"
+      },
+      "contentDetails": {
+        "videoId": "FkDN29z_D1k",
+        "videoPublishedAt": "2021-01-24T14:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AnVUDQ9hsyxxY1OKW58Vl4SnFw8",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:53:41Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Future of Svelte with Alexander Esselink",
+        "description": "Alexander Esselink aka. Dexter, FullStack developer at Passionate People has introduced us to the future of Svelte, which has been one of his favourite tool for building web applications for years.\n\n\"I\u2019ve been looking for a good reactive application platform for a long time. At some point, a friend of mine introduced me to Svelte and I immediately fell in love with it.\" - Dexter\n________\nRewatch more recordings from our past conferences at our video portal \n\u27a1\ufe0f https://frontenddeveloperlove.com/video\n_________\nOur upcoming conferences:\n\u27a1\ufe0f www.vuejsglobal.com \n\u27a1\ufe0f www.reactlive.nl\n\u27a1\ufe0f https://frontenddeveloperlove.com/ \n________\n#jsworldconference #jsworldconferenceusa #frontendlove #vuejsamsterdam #javascript #reactacademy #react #microinteractions #designsystems #artificialintelligence #speaker #conference #frontendlove #frontenddeveloperlove #javascriptconference #frontendconference #vue #angular #react #cfp #meetup #conferences #events #mobx #newyork Sign up for our newsletter: https://www.frontenddeveloperlove.com/newsletter\nStay up to date via LinkedIn: https://www.linkedin.com/company/frontendlove/\n\nPowered by https://passionatepeople.io\n\n#unittests #webaudio #unittesting #hiphop #frontendlove or #vuejsamsterdam #javascript #reactacademy #react #microinteractions #designsystems #javascript #artificialintelligence #amsterdam #speaker #conference #frontendlove #frontenddeveloperlove #javascriptconference #frontendconference #vue #angular #react #cfp #theateramsterdam #meetup #conferences #events",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JRF2yi69ZII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JRF2yi69ZII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JRF2yi69ZII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JRF2yi69ZII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JRF2yi69ZII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JRF2yi69ZII"
+        },
+        "videoOwnerChannelTitle": "Frontend Love",
+        "videoOwnerChannelId": "UC1nBp6ouBB1o5P8YvPznPOw"
+      },
+      "contentDetails": {
+        "videoId": "JRF2yi69ZII",
+        "videoPublishedAt": "2021-07-09T12:11:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vQfcpYTJoiZGIFTATFZIGqWUGW8",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:53:33Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Sveltekit Crash Course - Svelte Typescript - Getting started with Sveltekit Endpoints",
+        "description": "I'll show how to set up a project from scratch using the framework SvelteKit with Typescript. The main focus in this video is to explain Sveltekit endpoints and Typescript in combination with Svelte.\n\nSupport me by subscribing to this channel \u2764\ufe0f\n\nDo you want to master #react, #gatsby, or #svelte fast? \u23e9 \ud83d\ude80 \ud83d\udc69\u200d\ud83d\ude80\n\n\u2014\n\nFind me somewhere below: \n\nWebsite: https://www.weibenfalk.com\nUdemy: https://www.udemy.com/user/thomas-928/\nLinkedin: https://www.linkedin.com/in/thomas-weibenfalk-76356611/\nTwitter: https://twitter.com/weibenfalk\nGithub: https://github.com/weibenfalk\nFreeCodeCamp: https://www.freecodecamp.org/news/author/thomas-weibenfalk/\nDev.to: https://dev.to/weibenfalk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6oDSwcZPbxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6oDSwcZPbxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6oDSwcZPbxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6oDSwcZPbxA"
+        },
+        "videoOwnerChannelTitle": "Weibenfalk",
+        "videoOwnerChannelId": "UCnnnWy4UTYN258FfVGeXBbg"
+      },
+      "contentDetails": {
+        "videoId": "6oDSwcZPbxA",
+        "videoPublishedAt": "2021-07-06T12:18:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_iXuOsUy-eKX-lKslV3fFK6LU5Y",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:53:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte + Vite = \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f",
+        "description": "Vite is used in SvelteKit and is super speedy so give it a try ~\nJust start with this command:\nnpm init @vitejs/app\n\nVite Docs: https://vitejs.dev/\n\nPlease like and subscribe my wonderful and brilliant viewers \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nz9RFVQ_nZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nz9RFVQ_nZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nz9RFVQ_nZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nz9RFVQ_nZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nz9RFVQ_nZo"
+        },
+        "videoOwnerChannelTitle": "Svelte Mastery",
+        "videoOwnerChannelId": "UCg6SQd5jnWo5Y70rZD9SQFA"
+      },
+      "contentDetails": {
+        "videoId": "nz9RFVQ_nZo",
+        "videoPublishedAt": "2021-03-20T13:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wc08DZ1HDrTZyhhqhLj-o97NlUQ",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:52:57Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte & Sveltekit Persistent Store",
+        "description": "In this video we will learn how to use persistent store in Svelte and Sveltekit.\nWe are going to use localStorage to be in sync with our stores but you can also use sessionStorage.\n\nPlaylist: https://www.youtube.com/watch?v=Gtg4yG8Bhcs&list=PLm_Qt4aKpfKjf77S8UD79Ockhwp_699Ms\n\nSnippet: https://gist.github.com/sharu725/b47c5bbd13d49b12e9b8760effae2595\n\n======================================\n\ud83d\udc26 Follow me - @webjeda\n\ud83c\udf10 Visit my website - https://blog.webjeda.com\n=======================================\n\n#sveltekit #store #persistent #localStorage",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jOOrWeYfmlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jOOrWeYfmlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jOOrWeYfmlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jOOrWeYfmlQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jOOrWeYfmlQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jOOrWeYfmlQ"
+        },
+        "videoOwnerChannelTitle": "WebJeda",
+        "videoOwnerChannelId": "UCbOO7d0vVo0kIrkd7m32irg"
+      },
+      "contentDetails": {
+        "videoId": "jOOrWeYfmlQ",
+        "videoPublishedAt": "2021-08-15T13:50:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A4RDW9Djp1mUsF99VF-Tu3JYMOE",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:52:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Learn the Svelte JavaScript Framework - Full Course",
+        "description": "Full Course on the Svelte JavaScript Framework.\n\n\u2b50\ufe0f Code / Projects \u2b50\ufe0f\nHandwashing App\n  \ud83d\udd17 https://phptuts.github.io/fcc-handwashing/\n  \ud83d\udd17 https://github.com/phptuts/fcc-handwashing\nCOVID-19 US Tracker App\n  \ud83d\udd17 https://covid-us.noahglaser.net/\n  \ud83d\udd17 https://github.com/phptuts/fcc-covid-19-us\nProject Estimator App\n  \ud83d\udd17 https://phptuts.github.io/fcc-project-estimator-svelte/\n  \ud83d\udd17 https://github.com/phptuts/fcc-project-estimator-svelte\nTictactoe App\n  \ud83d\udd17 https://phptuts.github.io/fcc-tictactoe-svelte/\n  \ud83d\udd17 https://github.com/phptuts/fcc-tictactoe-svelte\n\n\u270f\ufe0f Created by by Coding With Noah: https://www.youtube.com/channel/UCjWnee4Cv1MESU8ALLsHdCA\n\n\u2b50\ufe0f Course Contents \u2b50\ufe0f\n\u2328\ufe0f (00:01:02) What is svelte\n\u2328\ufe0f (00:01:25) What is Sapper\n\u2328\ufe0f (00:01:49) Svelte Demo\n  \ud83d\udd17 REPL Demo: https://svelte.dev/repl/856a0501186742b2b2446fd720271ed4?version=3.20.1\n\u2328\ufe0f (00:07:41) What we are building\n\u2328\ufe0f (00:10:48) What you will need\n  \ud83d\udd17 https://nodejs.org/en/\n  \ud83d\udd17 https://git-scm.com/\n  \ud83d\udd17 https://github.com\n  \ud83d\udd17 https://code.visualstudio.com/\n  \ud83d\udd17 https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode\n\u2328\ufe0f (00:11:36) Installing Svelte\n\u2328\ufe0f (00:12:56) Clean up + tour\n\u2328\ufe0f (00:16:46) Installing CSS\n  \ud83d\udd17 https://www.npmjs.com/package/rollup-plugin-css-only\n  \ud83d\udd17 https://blueprintcss.dev/docs/grid\n\nnpm install blueprint rollup-plugin-css-only --save-dev\n\n@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');\nbody {\n  font-family: 'Lato', sans-serif;\n}\n\n\u2328\ufe0f (00:25:15) Components & HTML\n  \ud83d\udd17 https://www.who.int/gpsc/clean_hands_protection/en/\n\u2328\ufe0f (https://)freesound.org/people/metrostock99/sounds/345086/\n\u2328\ufe0f (00:42:06) Timer Component & Reactive Variables\n\u2328\ufe0f (00:55:39) Playing Sound & Custom Events\n\u2328\ufe0f (01:02:32) Github Pages\n\nnpm install gh-pages --save-dev\n\n\u2328\ufe0f (01:06:41) What is Sapper\n  \ud83d\udd17 https://sapper.svelte.dev/\n\u2328\ufe0f (01:07:31) What we'll be using to build covid-19 US Tracker\n  \ud83d\udd17 https://covidtracking.com/\n  \ud83d\udd17 https://bulma.io/\n  \ud83d\udd17 https://www.chartjs.org/\n  \ud83d\udd17 https://momentjs.com/\n  \ud83d\udd17 https://github.com/axios/axios\n\u2328\ufe0f (01:08:52) Tour of the app\n  \ud83d\udd17 https://covid-us.noahglaser.net/\n\u2328\ufe0f (01:10:49) Project Setup / Sapper Tour\n\u2328\ufe0f (01:20:48) Project Cleanup\n\u2328\ufe0f (01:25:21) NPM Install + Bulma Setup\n\nnpm install bulma rollup-plugin-css-only chart.js moment --save-dev\nnpm install --save axios\n\n\u2328\ufe0f (01:31:09) Page & Components\n\u2328\ufe0f (01:41:24) NavBar\n  \ud83d\udd17 https://bulma.io/documentation/components/navbar/\n\u2328\ufe0f (01:51:39) About Pages + Titles\n  \ud83d\udd17 https://bulma.io/documentation/layout/section/\n\u2328\ufe0f (01:58:55) Getting data from an api\n\u2328\ufe0f (02:13:51) Populating CovidStat component with data\n  \ud83d\udd17 https://covidtracking.com/api\n\u2328\ufe0f (02:21:22) Error Page\n\u2328\ufe0f (02:24:51) CovidStat data for the states\n\u2328\ufe0f (02:45:30) Requesting & Parsing Chart Data\n  \ud83d\udd17 https://charturl.com/app/examples/chartjs-timeseries\n\u2328\ufe0f (03:04:32) Covid Chart Component\n\u2328\ufe0f (03:21:39) Covid Chart State Component + Fixing Chartjs Errors\n\u2328\ufe0f (03:33:29) Request Data For States Table Component\n\u2328\ufe0f (03:41:48) Table Component\n\u2328\ufe0f (03:49:31) Filtering Table Component\n\u2328\ufe0f (04:12:03) Deploying Sapper\n  \ud83d\udd17 https://www.digitalocean.com/docs/networking/dns/how-to/add-domains/\n  \ud83d\udd17 https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04\n  \ud83d\udd17 https://certbot.eff.org/\n  \ud83d\udd17 https://pm2.keymetrics.io/\n\u2328\ufe0f (04:29:25) Final Touches + Redeploy\n  \ud83d\udd17 https://sapper.svelte.dev/docs/#prefetch_href\n\u2328\ufe0f (04:40:53) Project Estimator Introduction\n\u2328\ufe0f (04:41:44) Writable Store Demo\n  \ud83d\udd17 https://svelte.dev/examples#writable-stores\n\u2328\ufe0f (04:45:36) Project Setup\n  \ud83d\udd17 https://sscaffold-css.com/\n\u2328\ufe0f (04:52:01)  Component Setup\n\u2328\ufe0f (04:56:28) Form Components\n\u2328\ufe0f (05:12:27) Writable Stores\n\u2328\ufe0f (05:21:13) Table Component\n\u2328\ufe0f (05:32:52) Edit Item\n\u2328\ufe0f (05:43:31) Remove Item\n\u2328\ufe0f (05:50:31) Github Pages\n\u2328\ufe0f (5:53:50 )Fixing Bugs and Redeploying\n  \ud83d\udd17 https://github.com/sveltejs/svelte/issues/4687\n  \ud83d\udd17 https://github.com/sveltejs/svelte/pull/4689\n\u2328\ufe0f (06:01:44) Svelte Amazing Community\n\u2328\ufe0f (06:03:00) Readable Stores Example\n  \ud83d\udd17 https://svelte.dev/examples#readable-stores\n\u2328\ufe0f (06:05:53) Challenge Create HTML & CSS & Props\n\u2328\ufe0f (06:17:55) Node Server Tour\n  \ud83d\udd17 https://github.com/phptuts/tictactoe-server\n  \ud83d\udd17 https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp?hl=en-US\n  \ud83d\udd17 https://www.postman.com/\n\u2328\ufe0f (06:26:34) Readable Store\n\u2328\ufe0f (06:46:23) Websock\n\u2328\ufe0f (06:58:14) New Game\n\u2328\ufe0f (07:02:19) Deploying TicTacToe To Github\n\u2328\ufe0f (07:06:20) Other Resources and Libraries\n  \ud83d\udd17 https://svelte.dev/tutorial/basics\n  \ud83d\udd17 https://svelte.dev/examples#hello-world\n  \ud83d\udd17 https://routify.dev/\n  \ud83d\udd17 https://bestguy.github.io/sveltestrap/\n  \ud83d\udd17 https://smeltejs.com/\n  \ud83d\udd17 https://sveltematerialui.com/\n  \ud83d\udd17 https://discordapp.com/invite/yy75DKs\n  \ud83d\udd17 https://www.reddit.com/r/sveltejs\n  \ud83d\udd17 The Return of 'Write Less, Do More' by Rich Harris: https://www.youtube.com/watch?v=BzX4aTRPzno\n  \ud83d\udd17 Rich Harris: Thinking Reactively: https://www.youtube.com/watch?v=AdNJ3fydeao\n\u2328\ufe0f (07:09:38) Congrats you completed the course",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ujbE0mzX-CU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ujbE0mzX-CU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ujbE0mzX-CU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ujbE0mzX-CU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ujbE0mzX-CU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ujbE0mzX-CU"
+        },
+        "videoOwnerChannelTitle": "freeCodeCamp.org",
+        "videoOwnerChannelId": "UC8butISFwT-Wl7EV0hUK0BQ"
+      },
+      "contentDetails": {
+        "videoId": "ujbE0mzX-CU",
+        "videoPublishedAt": "2020-05-05T13:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f1OrPAEPEUjDOZ8ULoIvY9Mybd4",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:52:06Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte - Web App Development Reimagined \u2022 Mark Volkmann \u2022 GOTO 2021",
+        "description": "This presentation was recorded at GOTOpia Chicago 2021. #GOTOcon #GOTOpia\nhttp://gotochgo.com\n\nMark Volkmann - Distinguished Software Engineer at Object Computing\n\nABSTRACT\nSvelte is an alternative to web frameworks like React, Vue, and Angular. Effort to learn yet another approach is only worthwhile if it brings significant benefits. These might include writing less code to achieve the same result, doing less actual work at runtime, and requiring fewer bytes to be downloaded browsers. Check, check, and check. Svelte delivers on all of these goals and more.\nThis talk will introduce you to a better way to write web applications [...]\n\nTIMECODES\n00:00 Intro\n00:53 What is Svelte?\n02:22 What is SvelteKit?\n06:30 Creating a SvelteKit project\n07:07 Running a SvelteKit project\n07:52 Example \"Todo App\"\n22:52 Logic in markup\n23:06 Top Svelte features\n25:48 Small bundle sizes\n26:15 File-based component defs\n26:42 CSS\n26:52 Easy component state management\n28:34 Reactive statements\n29:08 Example \"Loan\"\n30:49 Easy app state management\n31:04 Kinds of stores\n31:25 Defining writable stores\n32:31 Using stores\n33:02 Issues to consider\n34:03 Related tools\n34:43 Topics not covered here\n34:54 Svelte resources\n35:12 Conclusion\n\nDownload slides and read the full abstract here:\nhttps://gotochgo.com/2021/sessions/1777/svelte-web-app-development-reimagined\n\nRECOMMENDED BOOKS\nMark Volkmann \u2022 Svelte and Sapper in Action \u2022 https://amzn.to/3lQqXrw\nAlessandro Segala \u2022 Svelte 3 Up and Running \u2022 https://amzn.to/3jzpLWM\nShane Deam \u2022 Svelte JS Book \u2022 https://amzn.to/3iykEqo\n\nhttps://twitter.com/GOTOcon\nhttps://www.linkedin.com/company/goto-\nhttps://www.facebook.com/GOTOConferences\n#Svelte #SvelteKit #Programming #React #Vue #Angular #Frontend  #WebDevelopment #WebApp #WebAppDevelopment #CSS\n\nLooking for a unique learning experience?\nAttend the next GOTO conference near you! Get your ticket at https://gotopia.tech\n\nSUBSCRIBE TO OUR CHANNEL - new videos posted almost daily.\nhttps://www.youtube.com/user/GotoConferences/?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CGzFwHoD0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CGzFwHoD0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CGzFwHoD0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4CGzFwHoD0A"
+        },
+        "videoOwnerChannelTitle": "GOTO Conferences",
+        "videoOwnerChannelId": "UCs_tLP3AiwYKwdUHpltJPuA"
+      },
+      "contentDetails": {
+        "videoId": "4CGzFwHoD0A",
+        "videoPublishedAt": "2021-08-10T12:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "REl41z3XAKK_UJdzSWHYLG7XWQE",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:51:31Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "I Tried Svelte and I LOVE It!! Favorite Features vs React",
+        "description": "I like Svelte a lot more than I thought I would. I finally sat down and watched some tutorials to understand the syntax and how it works, and I'm a big fan. Here are my favorite features.\n\n- smaller/faster code\n- automatic scoped CSS\n- simple binding syntax\n- share data with Svelte stores\n- SvelteKit \n\nSvelte Docs - https://svelte.dev/docs \nWhy Svelte is Faster - https://svelte.dev/blog/virtual-dom-is-pure-overhead\nSvelteKit - https://kit.svelte.dev/\n\nSvelte Crash Course by Traversy Media - https://www.youtube.com/watch?v=uK2RnIzrQ0M&\nSvelte Crash Course by DesignCourse - https://www.youtube.com/watch?v=BZzBtzl6aq4\n_____________________________________________\n\nNewsletter \ud83d\uddde\nInterested in exclusive content and discounts? \ud83e\udd2f Sign up for the newsletter!\nhttps://www.jamesqquick.com\n_____________________________________________\n\nConnect with me \ud83d\ude00\nLive streams on Twitch - https://twitch.tv/jamesqquick\nFollow me on Twitter - https://www.twitter.com/jamesqquick\nJoin the \ud83d\udcac Discord Server \ud83d\udcac - https://discord.gg/vM2bagU\n_____________________________________________\n\nCOURSES  \ud83d\udcbb\nLearn how to build Fullstack apps with React and Serverless Functions - https://www.jamesqquick.com/courses/react-and-serverless-fullstack-developmnent\nLearn everything you need to know about Visual Studio Code - https://www.udemy.com/learn-visual-studio-code/\nBuild a Quiz App  - https://www.udemy.com/build-a-quiz-app-with-html-css-and-javascript/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dsPsJY54afw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dsPsJY54afw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dsPsJY54afw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dsPsJY54afw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dsPsJY54afw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dsPsJY54afw"
+        },
+        "videoOwnerChannelTitle": "James Q Quick",
+        "videoOwnerChannelId": "UC-T8W79DN6PBnzomelvqJYw"
+      },
+      "contentDetails": {
+        "videoId": "dsPsJY54afw",
+        "videoPublishedAt": "2021-05-04T14:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u8-yfdHa0i8UKycMxH4LsZJg4ZA",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:51:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "SvelteKit Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!",
+        "description": "SvelteKit is one of the most exciting frameworks in Web Development. With the success and growth of Next.js (framework built on top of React), SvelteKit is a promising competitor. With SvelteKit, you can create Server Side Rendered pages (SSR), API routes, and a lot more while leveraging the natural and concise syntax of Svelte. \n\nIn this video, we'll create a Pokedex using the PokeAPI. We'll also use Tailwind CSS and its new Just-In-Time compiler (JIT).\n\nSource Code - https://github.com/jamesqquick/svelte-kit-pokedex\n\nSvelteKit Docs - https://kit.svelte.dev/docs\nVite (SvelteKit Build Tool) - https://github.com/vitejs/vite\nPokeAPI - https://pokeapi.co/\nTailwind Setup - https://jsco.dev/blog/how-to-set-up-tailwindcss-with-svelte-kit\n\n00:00 - Intro\n01:00 - What We'll Build (Pokedex)\n02:00 - What is Svelte and SvelteKit\n03:00 - Project Setup and Svelte Kit Intro\n10:00 - svelte:head\n12:00 - Svelte Layout File\n14:30 - Svelte Stores\n20:00 - Reactivity and Consuming Store Data\n24:45 - Tailwind CSS Setup\n33:00 - Displaying Pokemon\n39:00 - Adding Search and Svelte Binding\n45:50 - Dynamic (SSR) Pages for Each Pokemon\n54:10 - API Endpoints\n57:36 - Svelte Animations\n\n_____________________________________________\n\nNewsletter \ud83d\uddde\nInterested in exclusive content and discounts? \ud83e\udd2f Sign up for the newsletter!\nhttps://www.jamesqquick.com\n_____________________________________________\n\nConnect with me \ud83d\ude00\nLive streams on Twitch - https://twitch.tv/jamesqquick\nFollow me on Twitter - https://www.twitter.com/jamesqquick\nJoin the \ud83d\udcac Discord Server \ud83d\udcac - https://discord.gg/vM2bagU\n_____________________________________________\n\nCOURSES  \ud83d\udcbb\nLearn how to build Fullstack apps with React and Serverless Functions - https://www.jamesqquick.com/courses/react-and-serverless-fullstack-developmnent\nLearn everything you need to know about Visual Studio Code - https://www.udemy.com/learn-visual-studio-code/\nBuild a Quiz App  - https://www.udemy.com/build-a-quiz-app-with-html-css-and-javascript/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UU7MgYIbtAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UU7MgYIbtAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UU7MgYIbtAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UU7MgYIbtAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UU7MgYIbtAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UU7MgYIbtAk"
+        },
+        "videoOwnerChannelTitle": "James Q Quick",
+        "videoOwnerChannelId": "UC-T8W79DN6PBnzomelvqJYw"
+      },
+      "contentDetails": {
+        "videoId": "UU7MgYIbtAk",
+        "videoPublishedAt": "2021-06-04T14:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mBMo6h0UZirI0eYrqqGtHQWSwto",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:50:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte JWT Authentication",
+        "description": "Learn how to login with Svelte with Sapper and handle the JWT Token. We will Login using JWT( JSON Web Token ) which is the standard method for SPA Authentications. We will not use the traditional \"Bearer method\" but instead we will login using HttpOnly cookies which is a more secure authentication.\n\nSource Code: https://github.com/scalablescripts/svelte-auth\nAuth API: https://github.com/scalablescripts/auth-api\n\nThis video can be combined with other videos:\nSvelte and Laravel JWT Authentication: https://www.youtube.com/playlist?list=PLlameCF3cMEssaXOEym93ID7_e6ZDyiGO\nSvelte and Django JWT Authentication: https://www.youtube.com/playlist?list=PLlameCF3cMEsdQhdJ_gpbW8wS7gut11Xt\nSvelte and NodeJS JWT Authentication: https://www.youtube.com/playlist?list=PLlameCF3cMEvpWcrNdChkqhlcOuQDkdBo\nSvelte and Golang JWT Authentication: https://www.youtube.com/playlist?list=PLlameCF3cMEs5vYnpFLdDPuXnUiJcBgT0\nSvelte and NestJS JWT Authentication: https://www.youtube.com/playlist?list=PLlameCF3cMEuNXTAJaAzkTsPpYzjh8JO1\nSvelte and Deno JWT Authentication: https://www.youtube.com/playlist?list=PLlameCF3cMEtNUrKiZoMoyTZlQpBMf4mH\nSvelte and C# JWT Authentication: https://www.youtube.com/playlist?list=PLlameCF3cMEsjVKo7spDXCuw37703jnfc\nSvelte and Kotlin JWT Authentication: https://www.youtube.com/playlist?list=PLlameCF3cMEsjy7tZJzSkR0tf7TCQAKz5\n\nOther Courses:\nGet access to all my courses for 15$/month: https://scalablescripts.com/p/membership\n\n#svelte #sapper #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eDx9igpmRqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eDx9igpmRqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eDx9igpmRqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eDx9igpmRqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eDx9igpmRqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eDx9igpmRqM"
+        },
+        "videoOwnerChannelTitle": "Scalable Scripts",
+        "videoOwnerChannelId": "UCljAHzX-PBxv6WrXkI2rnQw"
+      },
+      "contentDetails": {
+        "videoId": "eDx9igpmRqM",
+        "videoPublishedAt": "2021-03-11T13:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o2iPRexDirKfC5bfphmubDE3aXE",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:50:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Animated CSS Login Form w/ Password Validation Meter",
+        "description": "Learn how build an animated login form with HTML and CSS. Then take it to the next level with a dynamic password meter using JavaScript (Svelte). https://github.com/fireship-io/230-animated-form-password-meter\n\n#tutorial #css #js\n\nInstall the quiz app \ud83e\udd13\n\niOS https://itunes.apple.com/us/app/fireship/id1462592372?mt=8\nAndroid https://play.google.com/store/apps/details?id=io.fireship.quizapp\n\nUpgrade to Fireship PRO at https://fireship.io/pro\nUse code lORhwXd2 for 25% off your first payment. \n\nMy VS Code Theme\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yrrw6KdGuxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yrrw6KdGuxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yrrw6KdGuxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yrrw6KdGuxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yrrw6KdGuxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yrrw6KdGuxc"
+        },
+        "videoOwnerChannelTitle": "Fireship",
+        "videoOwnerChannelId": "UCsBjURrPoezykLs9EqgamOA"
+      },
+      "contentDetails": {
+        "videoId": "yrrw6KdGuxc",
+        "videoPublishedAt": "2020-05-18T15:15:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T_nFk1UJOIPzqGvS8pOs0Vxiffc",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:50:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Login Page with Svelte, TailwindCSS, Userbase",
+        "description": "Github: https://github.com/sveltemaster/login-page-svelte-tailwind-userbase\n\nThis is what I mean by using name and FormData to create JSON: https://svelte.dev/repl/33c9c1b0a7cc4abc943a3fc6fa3f529b?version=3.32.3\n\nPlease like and subscribe!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LOZs0fpr4K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LOZs0fpr4K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LOZs0fpr4K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LOZs0fpr4K4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LOZs0fpr4K4"
+        },
+        "videoOwnerChannelTitle": "Svelte Mastery",
+        "videoOwnerChannelId": "UCg6SQd5jnWo5Y70rZD9SQFA"
+      },
+      "contentDetails": {
+        "videoId": "LOZs0fpr4K4",
+        "videoPublishedAt": "2021-02-11T13:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wxwRitdH9l1U_iEbz7lNMdYif54",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:50:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Fullstack CRUD + Auth in 50 lines and 25 minutes - SUNstack (Svelte, Userbase, Netlify)",
+        "description": "Userbase is amazing! You can get a JAMstack up and running in no time. \nThe SUNstack,  Svelte/Sapper + Userbase + Netlify, is the simplest stack out there.\n\nPlease like and subscribe ~\n\nUserbase: https://userbase.com/\nCode REPL: https://svelte.dev/repl/1811f093e1c940e9adb6061d11ea1618?version=3.24.1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iW-OdnldsZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iW-OdnldsZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iW-OdnldsZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iW-OdnldsZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iW-OdnldsZk"
+        },
+        "videoOwnerChannelTitle": "Svelte Mastery",
+        "videoOwnerChannelId": "UCg6SQd5jnWo5Y70rZD9SQFA"
+      },
+      "contentDetails": {
+        "videoId": "iW-OdnldsZk",
+        "videoPublishedAt": "2020-08-16T20:17:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rJBkoUuEHjYgM43aZUC-ThjSvzc",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:50:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Tutorial: Learn svelte js in 5 minutes",
+        "description": "In this video, we will explore the main concepts of svelte like reactivity, data binding, dom listeners, lifecycle, stores, animations, logic blocks with practical examples.\n\nIf you enjoyed this video please subscribe to the channel.\n---------------\nYou can support the channel for more free content at:\nhttps://www.buymeacoffee.com/estebancodes\n---------------\nJoin our discord community \nhttps://discord.gg/qxTFSww3AZ\n---------------\nSecond channel on Spanish\nhttps://www.youtube.com/channel/UCEa_7NSLmjqAi9rQQ4ZkKIA\n----------------\nFollow me on social media\nInstagram: https://www.instagram.com/esteban.codes/\nGitHub: https://github.com/3stbn\nTwitter: https://twitter.com/esteban_codes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cKsx0VwkWrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cKsx0VwkWrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cKsx0VwkWrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cKsx0VwkWrc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cKsx0VwkWrc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cKsx0VwkWrc"
+        },
+        "videoOwnerChannelTitle": "Esteban Codes",
+        "videoOwnerChannelId": "UCbWV65OoGP6mw2pGd0c5E-g"
+      },
+      "contentDetails": {
+        "videoId": "cKsx0VwkWrc",
+        "videoPublishedAt": "2020-06-14T21:16:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zt3pKMv299gKm1W4luFzC1X2-58",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:50:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte tutorial : Full stack svelte [1/2] Mongo, express and node js",
+        "description": "Build and deploy a full-stack application with Mongodb, Express js , Svelte and Node js\n\n\ud83d\ude80 Live application  https://expenses-tracker-svelte.herokuapp.com/\n\ud83d\udcbb Source code: https://github.com/3stbn/full-stack-svelte-expenses-tracker\n\nTimestamps of the parts of the course.\n- Introduction.-  0:00:00\n- Mongo setup.-  0:03:48\n- Project config.-  0:08:40\n- Rest API .- 0:32:39\n- Svelte frontend  0:58:22\n- Svelte store 2:12:43\n- Deployment 2:24:49\n---------------\nYou can support the channel for more free content at:\nhttps://www.buymeacoffee.com/estebancodes\n---------------\nJoin our discord community \nhttps://discord.gg/qxTFSww3AZ\n---------------\nSecond channel on Spanish\nhttps://www.youtube.com/channel/UCEa_7NSLmjqAi9rQQ4ZkKIA\n----------------\nFollow me on social media\nInstagram: https://www.instagram.com/esteban.codes/\nGitHub: https://github.com/3stbn\nTwitter: https://twitter.com/esteban_codes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X6J41F2DadQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X6J41F2DadQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X6J41F2DadQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X6J41F2DadQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X6J41F2DadQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X6J41F2DadQ"
+        },
+        "videoOwnerChannelTitle": "Esteban Codes",
+        "videoOwnerChannelId": "UCbWV65OoGP6mw2pGd0c5E-g"
+      },
+      "contentDetails": {
+        "videoId": "X6J41F2DadQ",
+        "videoPublishedAt": "2020-05-23T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7u520K9gFWaOHNRropLOXS36IEk",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-08-28T16:50:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Tutorial: Full Stack Svelte [2/2]: Authentication - Routing (Mongo, Passport, Node, Express)",
+        "description": "Initial code \n\ud83d\udcbb  https://github.com/3stbn/full-stack-svelte-expenses-tracker\nFinal code\n\ud83d\udcbb  https://github.com/3stbn/full-stack-svelte-expenses-tracker/tree/auth\n\nTimeStamps :\n0:00:00 Intro and demo\n0:03:20 Initial setup\n0:09:17 Dependencies (Backend)\n0:13:01 User Model (Backend)\n0:16:39 Passport Config (Backend)\n0:23:32 Auth routes (Backend)\n0:55:36 Protecting routes and User relationship (Backend)\n1:09:13 Dependencies (Frontend)\n1:11:49 Initial Routes(Frontend)\n1:23:04 SignUp (Frontend)\n1:41:53 Navbar and logout (Frontend)\n1:58:07 Login (Frontend)\n2:03:46 Protecting routes (Frontend)\n2:03:46 Profile Page (Frontend)\n2:35:15 Final Cleanup\n\n---------------\nYou can support the channel for more free content at:\nhttps://www.buymeacoffee.com/estebancodes\n---------------\nJoin our discord community \nhttps://discord.gg/qxTFSww3AZ\n---------------\nSecond channel on Spanish\nhttps://www.youtube.com/channel/UCEa_7NSLmjqAi9rQQ4ZkKIA\n----------------\nFollow me on social media\nInstagram: https://www.instagram.com/esteban.codes/\nGitHub: https://github.com/3stbn\nTwitter: https://twitter.com/esteban_codes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lg69Xtf-XAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lg69Xtf-XAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lg69Xtf-XAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lg69Xtf-XAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lg69Xtf-XAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Lg69Xtf-XAA"
+        },
+        "videoOwnerChannelTitle": "Esteban Codes",
+        "videoOwnerChannelId": "UCbWV65OoGP6mw2pGd0c5E-g"
+      },
+      "contentDetails": {
+        "videoId": "Lg69Xtf-XAA",
+        "videoPublishedAt": "2020-07-18T23:42:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Yrh4XKPufnsZ8vfWpPBkSrSeMTg",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte vs Svelte Kit - What's The Difference?",
+        "description": "What is the difference between Svelte and Svelte Kit? Here is a quick guide to explaining the relationship between the two projects.\n\nLearn Svelte and Svelte Kit!\nBecome a Level Up Pro and take your web skills to the next level!\nhttps://www.leveluptutorials.com/pro?utm_source=youtube&utm_medium=video&utm_campaign=what_is\n\n\nLearn Web Components with Web Components for Beginners\nhttps://www.leveluptutorials.com/tutorials/web-components-for-beginners?utm_source=youtube&utm_medium=video&utm_campaign=what_is\n\n\nThe best web development podcast out there\nSyntax with Wes Bos and Scott Tolinski\nhttps://syntax.fm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IKhtnhQKjxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IKhtnhQKjxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IKhtnhQKjxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IKhtnhQKjxQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IKhtnhQKjxQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IKhtnhQKjxQ"
+        },
+        "videoOwnerChannelTitle": "LevelUpTuts",
+        "videoOwnerChannelId": "UCyU5wkjgQYGRB0hIHMwm2Sg"
+      },
+      "contentDetails": {
+        "videoId": "IKhtnhQKjxQ",
+        "videoPublishedAt": "2021-10-15T20:54:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zWmFPF55Ki6aFObXSHkjxAzpmsU",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Experimenting With SvelteKit \u2014 Learn With Jason",
+        "description": "In this episode, Jason will experiment with SvelteKit!\n\n*   demo: https://fun-with-sveltekit.netlify.app\n\n*   repo: https://github.com/learnwithjason/fun-with-sveltekit\n\nLinks:  \n\n- https://kit.svelte.dev\n\n- https://github.com/sveltejs/kit/tree/master/packages/adapter-netlify\n\n- https://www.learnwithjason.dev/let-s-learn-svelte\n\n- https://www.learnwithjason.dev/animation-with-svelte\n\n- https://svelte.dev/tutorial/named-slots\n\n- https://svelte.dev/docs#transition_fn\n\n- https://www.learnwithjason.dev/javascript-autocomplete\n\n- https://www.learnwithjason.dev/limit-access-to-web-pages-for-twitch-subscriptions\n\n- https://www.learnwithjason.dev/lets-learn-esbuild\n\n- https://cli.github.com\n\n- https://ntl.fyi/cli\n\n- https://github.com/nvm-sh/nvm\n\n- https://twitter.com/toddlibby\n\n- https://volta.sh \n\n  -- Watch live at https://www.twitch.tv/jlengstorf\n\nCredits:\n\nLocal Elevator by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300012\n\nArtist: http://incompetech.com/\n\nBusybody by Audionautix is licensed under a Creative Commons Attribution license https://creativecommons.org/licenses/by/4.0/\n\nArtist: http://audionautix.com/\n\nAdditional sound effects obtained from https://www.zapsplat.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kEMrGsDEgOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kEMrGsDEgOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kEMrGsDEgOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kEMrGsDEgOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kEMrGsDEgOw"
+        },
+        "videoOwnerChannelTitle": "Learn With Jason",
+        "videoOwnerChannelId": "UCnty0z0pNRDgnuoirYXnC5A"
+      },
+      "contentDetails": {
+        "videoId": "kEMrGsDEgOw",
+        "videoPublishedAt": "2021-09-10T21:32:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BFNmyHEgTXX_9OdXA0ggmK9vlY8",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte with Rich Harris",
+        "description": "0:00 Introduction\n3:14 When should developers use Svelte?\n5:19 How does Svelte perform without a virtual DOM?\n8:03 What is Svelte's approach to managing state?\n12:16 Could React reduce their boilerplates the way Svelte does?\n18:20 How does templating work in Svelte?\n21:13 How have React and Vue become more Svelte-like?\n24:14 What is SvelteKit?\n28:40 The future of Svelte\n30:14 The future of front-end development\n32:36 Differences between Svelte and React\n36:00 Is Svelte an underdog?\n\nAbout the episode\nWe interview Rich Harris about Svelte's position in the landscape of frameworks, how other popular frameworks are becoming more Svelte-like, how Svelte handles state, how SvelteKit works, and more!\n\n\nNOTE: This is the video recording of the podcast. You can listen to the audio-only version of the episode at https://podrocket.logrocket.com or wherever you get your podcasts.\n\nLogRocket \nPodRocket was created by LogRocket. LogRocket is a frontend monitoring solution that combines session replay, performance monitoring, and product analytics to help software teams create an ideal product experience. Try LogRocket pro for free: https://logrocket.com/podrocket\n\nLinks\nhttps://twitter.com/Rich_Harris\nhttps://svelte.dev/\nhttps://kit.svelte.dev/\nhttps://github.com/sveltejs/svelte\nhttps://github.com/sveltejs/kit\nhttps://svelte.dev/chat\nhttps://twitter.com/sveltesociety",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JIBZwYZcwIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JIBZwYZcwIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JIBZwYZcwIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JIBZwYZcwIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JIBZwYZcwIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JIBZwYZcwIo"
+        },
+        "videoOwnerChannelTitle": "LogRocket",
+        "videoOwnerChannelId": "UCktI_HQAkbr-tJbdWnQ_osw"
+      },
+      "contentDetails": {
+        "videoId": "JIBZwYZcwIo",
+        "videoPublishedAt": "2021-10-05T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A2P5RDPLmxrYefuL1D3agplbytM",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "SvelteKit Crash Course w/ Tailwind CSS and DaisyUI, GraphQL and dynamic routes",
+        "description": "From hello world to a CMS powered blog using SvelteKit!\n\nLearn how to build with SvelteKit and GraphQL in SvelteKit using endpoints to fetch data from an endpoint.\n\nUses Tailwind CSS, DaisyUI and theme change\n\n00:00 - Intro\n00:41 - Initialise backend\n02:20 - Initialise frontend\n03:32 - Initial commit to git\n04:33 - Project tour\n07:50 - Configure Tailwind\n09:45 - Install graphql-request, GraphQL, DaisyUI and Tailwind CSS Typography\n12:35 - DaisyUI and Tailwind CSS Typography\n16:40 - Vite environment variables\n18:49 - Defining the first GraphQL query\n20:05 - Create posts endpoint\n22:38 - Use environment variables with env-cmd\n23:42 - Get data from endpoint\n27:47 - Return endpoint data as props\n30:27 - Use svelte:head API\n30:53 - Style the index page\n31:15 - Use Svelte each directive\n37:00 - Add constrained layout to the __layout file\n39:03 - Post endpoint and query\n46:01 - Dynamic routing for post\n51:00 - Svelte if directive\n52:30 - Create dynamic pages from CMS content\n56:00 - Create a navigation bar\n1:06:19 - commit to git\n1:07:27  - add theme switch",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zH2qG9YwN3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zH2qG9YwN3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zH2qG9YwN3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zH2qG9YwN3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zH2qG9YwN3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zH2qG9YwN3s"
+        },
+        "videoOwnerChannelTitle": "Scott Spence",
+        "videoOwnerChannelId": "UCnngLXpLSFsKkDhFoO9Ct3w"
+      },
+      "contentDetails": {
+        "videoId": "zH2qG9YwN3s",
+        "videoPublishedAt": "2021-09-15T20:51:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-ZvL67TEZResCqUcEYikZM96GG8",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Rich Harris - Svelte, Rollup",
+        "description": "Join as we talk with Rich Harris, creator of Rollup, Svelte, degit and more. Rich works at the New York Time developing engaging data visualizations and building the tools of tomorrow.\n\nhttps://devtools.fm/episode/15\n\n00:00:00 Introduction\n00:01:03 Working at the Times\n00:11:40 Svelte\n00:18:16 Building the Future of Web\n00:32:08 Tooltips",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aeij24E-jHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aeij24E-jHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aeij24E-jHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aeij24E-jHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aeij24E-jHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Aeij24E-jHI"
+        },
+        "videoOwnerChannelTitle": "devtools-fm",
+        "videoOwnerChannelId": "UCFsRlOn7gODgv6WUriLrzXg"
+      },
+      "contentDetails": {
+        "videoId": "Aeij24E-jHI",
+        "videoPublishedAt": "2021-10-08T07:23:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f2Fq4unDEkc636nfQ2K8j9GwrvM",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte and SvelteKit - Why We Love It and Why You Should Try It",
+        "description": "Let's talk about Svelte and SvelteKit with Brittney Postma! We'll talk about why we like Svelte, how we got started, how it compares to other frontend JavaScript frameworks, and much more!\n\n00:00 - Guest and topic introduction\n02:07 - Guest's learning path before Svelte\n04:10 - What convinced James to try out Svelte\n05:15 - Svelte vs. popular frontend frameworks\n08:05 - Guest's favorite Svelte features\n10:06 - \"Why use CSS modules?\"\n11:51 - Adopting third party solutions into CSS & JS\n14:34 - James' Quick rants\n17:00 - Comparing JSX and Svelte syntax\n22:23 - The most difficult technology for guest to grasp\n25:43 - Word or two about Tailwind\n28:58 - How the guest got their new role\n32:06 - The power of networking and building in public\n35:11 - Why the guest started creating content\n37:23 - Blogging in relation to job opportunities\n41:06 - Time & effort video editing takes\n43:00 - Behavioral interviews, comparing personal traits\n44:48 - \"Quality vs. quantity\" in content creation\n46:16 - Current state of SvelteKit\n49:34 - Overall reception among the dev community\n51:09 - Final words and wrap-up -- Watch live at https://www.twitch.tv/jamesqquick",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KJ-qMlZnMCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KJ-qMlZnMCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KJ-qMlZnMCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KJ-qMlZnMCE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KJ-qMlZnMCE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KJ-qMlZnMCE"
+        },
+        "videoOwnerChannelTitle": "James Q Quick",
+        "videoOwnerChannelId": "UC-T8W79DN6PBnzomelvqJYw"
+      },
+      "contentDetails": {
+        "videoId": "KJ-qMlZnMCE",
+        "videoPublishedAt": "2021-09-06T19:53:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gl455CmrgLs3OjeDnnlU8rDjBe0",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "SvelteKit Authentication with Github OAuth  - Tom Wilson",
+        "description": "\ud83d\udc4b\ud83c\udffb Hello,\n\nThis is a workshop on how to set up cookie-based session authentication using SvelteKit.\n\nSvelteKit is the new way to build Svelte Applications, it combines the client and server in a clean and seamless bridge so you can build your applications in complete flow.\n\nFor more details check out: \n\nhttps://blog.hyper.io/sveltekit-authentication/\n\nWorkshop Completed Github Repository:\n\nhttps://github.com/hyper63/sveltekit-auth-workshop\n\nThank you for taking the workshop!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D4ZcbudB1n0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D4ZcbudB1n0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D4ZcbudB1n0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D4ZcbudB1n0"
+        },
+        "videoOwnerChannelTitle": "hyper videos",
+        "videoOwnerChannelId": "UC_V8BG1cTmILu9IkTK-yn1A"
+      },
+      "contentDetails": {
+        "videoId": "D4ZcbudB1n0",
+        "videoPublishedAt": "2021-06-02T20:57:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YinZ2AGOOqDTsoNTCjj57GxV0Vc",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Svelte Crash Course 2021",
+        "description": "Learn the fundamentals of Svelte by building a feedback app\n\nCode:\nhttps://github.com/bradtraversy/svelte-feedback-app\n\n\ud83d\udc47 Website & Courses:\nhttps://traversymedia.com\nhttps://freelancemastery.dev\n\n\ud83d\udc96  Show Support\nPatreon: https://www.patreon.com/traversymedia\nPayPal: https://paypal.me/traversymedia\n\n\ud83d\udc47 Follow Me On Social Media:\nTwitter: https://twitter.com/traversymedia\nInstagram: https://www.instagram.com/traversymedia\nLinkedin: https://www.linkedin.com/in/bradtraversy\n\nThe article where I got the image:\nhttps://blog.bitsrc.io/react-vs-sveltejs-the-war-between-virtual-and-real-dom-59cbebbab9e9",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3TVy6GdtNuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3TVy6GdtNuQ"
+        },
+        "videoOwnerChannelTitle": "Traversy Media",
+        "videoOwnerChannelId": "UC29ju8bIPH5as8OGnQzwJyA"
+      },
+      "contentDetails": {
+        "videoId": "3TVy6GdtNuQ",
+        "videoPublishedAt": "2021-10-13T17:58:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z3tBQdtVP_Y_1V5DoqokPtfBfGY",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2021-11-29T15:04:21Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Intro to SvelteKit: Build an iTunes Search App!",
+        "description": "Learn how to build an iTunes search app using SvelteKit! This is a beginner friendly tutorial that covers all the basics!\n\n00:00 - Intro\n00:51 - Project demo\n01:20 - Create new SvelteKit project\n02:26 - Basic routing\n03:58 - Nested Routing\n04:49 - Dynamic routing\n06:20 - Default routes \n06:57 - iTunes API \n10:13 - Install tailwind.css \n11:40 - Layouts\n14:21 - Nested Layouts\n16:54 - Load Function\n20:12 - Adapt for Vercel\n\n\ud83d\udcbb RESOURCES:\n\u25c6 GitHub Repo: https://github.com/StephDietz/sveltekit-itunes-search\n\u25c6 SvelteKit Docs: https://kit.svelte.dev/\n\n\ud83e\udd1d LET\u2019S CONNECT:\n\u25c6 Twitter: https://twitter.com/steph_dietz_\n\u25c6 Github: https://github.com/StephDietz\n\u25c6 Blog: https://steph-dietz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uC6y59y4V4w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uC6y59y4V4w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uC6y59y4V4w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uC6y59y4V4w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uC6y59y4V4w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 50,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uC6y59y4V4w"
+        },
+        "videoOwnerChannelTitle": "this.stephie",
+        "videoOwnerChannelId": "UCr8BLoBSZtmVr31UEfCiQfA"
+      },
+      "contentDetails": {
+        "videoId": "uC6y59y4V4w",
+        "videoPublishedAt": "2021-09-15T15:54:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EGx0cGmil4cMQe25vhwCgDz5Lvc",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2021-12-01T10:21:54Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How To Use Material Design Components (Web) In A Svelte App - SvelteJS Material Components Tutorial",
+        "description": "This tutorial shows how you can use plain old Material Design Components (Web) in your Svelte apps. Specifically, we walk through how to make a re-usable button component (with ripple effect) by copying the code directly from https://material.io (with a few extra tricks to make things work smoothly with Svelte).\n\nFinal code can be found here: https://github.com/sjc5/svelte-material-starter\n\nMy Website: https://samcook.cc\nTwitter: https://twitter.com/samcookfm\nGitHub: https://github.com/sjc5",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-6Hy3MHfPhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-6Hy3MHfPhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-6Hy3MHfPhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-6Hy3MHfPhA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-6Hy3MHfPhA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-6Hy3MHfPhA"
+        },
+        "videoOwnerChannelTitle": "Sam Cook",
+        "videoOwnerChannelId": "UCv-4pNh8Sbg_cSnWc1D_pCw"
+      },
+      "contentDetails": {
+        "videoId": "-6Hy3MHfPhA",
+        "videoPublishedAt": "2021-09-28T03:06:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nwG1GQgno0fx5KhaT8O2BJGVj3s",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2021-12-04T06:27:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Evyatar Alush - Up your form validation game with Vest",
+        "description": "Platinum Sponsor:\nGraphCMS - https://bit.ly/3Ft8ojy\n\nGold Sponsors:\nLevelUp Tutorials - https://leveluptutorials.com/\nCloudflare Pages - https://pages.cloudflare.com\nSvekyll - https://bit.ly/3qZc4FR\nNetlify - https://netlify.com/\nVercel - https://vercel.com\nMagic - https://magic.link\nFaunaDB - https://bit.ly/30FdKJy\nWPEngine - https://wpengine.com/atlas/\n\nMusic By:\nFractal - https://soundcloud.com/officialfractal\n\nAbout the talk:\nForms were not always a part of the web, in fact, they were only added in HTML2, and even to this day writing them feels like they are an afterthought.\n\nVest is a powerful form validations framework inspired by the syntax and style of unit testing libraries like Mocha or Jest. It uses their declarative structure and makes it easy to write complex form validations that are also easy to read and maintain.\n\nSpeaker: https://twitter.com/evyataral",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X2PuiawaGV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X2PuiawaGV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X2PuiawaGV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X2PuiawaGV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X2PuiawaGV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X2PuiawaGV4"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "X2PuiawaGV4",
+        "videoPublishedAt": "2021-11-27T13:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gwlj84sg3dvIB2_-WfBlNXPq3rc",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2021-12-04T06:29:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Ken Kunz - A State Machine walks into a Svelte Component",
+        "description": "Platinum Sponsor:\nGraphCMS - https://bit.ly/3Ft8ojy\n\nGold Sponsors:\nLevelUp Tutorials - https://leveluptutorials.com/\nCloudflare Pages - https://pages.cloudflare.com\nSvekyll - https://bit.ly/3qZc4FR\nNetlify - https://netlify.com/\nVercel - https://vercel.com\nMagic - https://magic.link\nFaunaDB - https://bit.ly/30FdKJy\nWPEngine - https://wpengine.com/atlas/\n\nMusic By:\nFractal - https://soundcloud.com/officialfractal\n\nAbout the talk:\nFinite state machines provide an elegant, powerful approach for modeling complex behavior, and are ideally suited to many UI components. Alas, existing JavaScript FSM implementations feel verbose and bloated alongside Svelte's elegant, minimalist syntax. No more! svelte-fsm is the Svelte-esque FSM library. Discover the joy and benefits of using svelte-fsm to manage your components' state.\n\nSpeaker: https://twitter.com/kennethkunz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3_D-3HPUdEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3_D-3HPUdEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3_D-3HPUdEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3_D-3HPUdEI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3_D-3HPUdEI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 53,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3_D-3HPUdEI"
+        },
+        "videoOwnerChannelTitle": "Svelte Society",
+        "videoOwnerChannelId": "UCZSr5B0l07JXK2FIeWA0-jw"
+      },
+      "contentDetails": {
+        "videoId": "3_D-3HPUdEI",
+        "videoPublishedAt": "2021-11-28T19:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dAGsquuZt0zOmvngLRjIn6z9qD4",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2021-12-04T17:09:51Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "CSS Layout Workshop",
+        "description": "Learn about the key CSS layout methods of flexbox and grid. Discover how these layout methods enable responsive, content-aware designs, and how to choose the best layout method for the component you need to build.\n\nResources: https://noti.st/rachelandrew/IQsXZC/css-layout-workshop\n\nPUBLICATION PERMISSIONS:\nOriginal video was published with the Creative Commons Attribution license (reuse allowed). Link: https://www.youtube.com/watch?v=yMEjLBKyvEg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EmwjBKNX0Rc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EmwjBKNX0Rc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EmwjBKNX0Rc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EmwjBKNX0Rc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EmwjBKNX0Rc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 54,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EmwjBKNX0Rc"
+        },
+        "videoOwnerChannelTitle": "Coding Tech",
+        "videoOwnerChannelId": "UCtxCXg-UvSnTKPOzLH4wJaQ"
+      },
+      "contentDetails": {
+        "videoId": "EmwjBKNX0Rc",
+        "videoPublishedAt": "2021-12-03T20:10:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZEsGxS94PCHgpKBZofnrL1XugbA",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2021-12-05T20:15:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Add a Login to Your Svelte Site With Auth0",
+        "description": "How do you add a login to Jamstack sites? In this episode, James Quick will show us how to combine Svelte and Auth0 to create a members-only section!\n\n00:00:00 Welcome to Learn With Jason\n00:00:44 Guest introduction\n00:02:00 What is Auth0?\n00:09:31 Live Captioning \n00:10:21 What should I do first?\n00:20:01 Netlify init this thing\n00:24:35 Do I need serverless functions?\n00:26:26 Installing the SDK\n00:27:02 What are Stores in Sveltekit?\n00:30:09 What domain do you use in Auth0?\n00:42:48 Building the Task List page\n00:48:52 Markup, CSS, and HTML in one file\n00:51:08 Troubleshooting Issues\n01:04:09 Future Ideas for Building Auth0 Apps\n01:04:09 Setting up Multi-factor Authentication\n01:15:06 Where can people go to find out more?\n\n*   demo: https://lwj-auth0-sveltekit.netlify.app/\n\n*   repo: https://github.com/learnwithjason/lwj-auth0-sveltekit\n\nLinks:  \n\n- https://auth0.com/\n\n- https://kit.svelte.dev/\n\n- https://auth0.com/blog/authenticating-svelte-apps/\n\n- https://store.gatsbyjs.org/\n\n- https://github.com/sveltejs/kit/tree/master/packages/adapter-netlify\n\n- https://ntl.fyi/cli\n\n- https://www.youtube.com/c/Auth0\n\n- https://auth0.com/docs/quickstarts/\n\nWatch future episodes at https://twitch.tv/jlengstorf\n\n\nThis episode was sponsored by:\n- Netlify (https://lwj.dev/netlify)\n- Fauna (https://lwj.dev/fauna)\n- Auth0 (https://lwj.dev/auth0)\n\nLive transcription by White Coat Captioning (https://whitecoatcaptioning.com/)\n\nCredits:\n\nLocal Elevator by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300012\nArtist: http://incompetech.com/\n\nBusybody by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://audionautix.com/\n\nAdditional sound effects obtained from https://www.zapsplat.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wMKMKcfWLsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wMKMKcfWLsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wMKMKcfWLsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wMKMKcfWLsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wMKMKcfWLsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 55,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wMKMKcfWLsk"
+        },
+        "videoOwnerChannelTitle": "Learn With Jason",
+        "videoOwnerChannelId": "UCnty0z0pNRDgnuoirYXnC5A"
+      },
+      "contentDetails": {
+        "videoId": "wMKMKcfWLsk",
+        "videoPublishedAt": "2021-11-18T01:20:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bdFx5JRxS9NQcsHiSe9v7TsKkAs",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2021-12-07T00:38:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to: Svelte Hamburger Menu Animation \ud83c\udf54",
+        "description": "Let's create a delightful hamburger menu animation, using SVGs and CSS! \n\nImplemented with Svelte, but it's all about the SVG paths and a couple CSS properties: vanilla web stuff! You may implement with React, or Vue, or whatever else you fancy, just let me know if you do \ud83d\ude04\n\nInspired by viewer comments, Rich's full-time switch to Vercel, and Mikael's Medium article and related CodePens:\n\nhttps://uxdesign.cc/the-menu-210bec7ad80c\n\nClick around yourself: https://svelte-hamburger.vercel.app/\n\nSee the code: https://github.com/jmagrippis/svelte-hamburger\n\nHighlighted software:\nSvelte: https://svelte.dev/\nSvelteKit: https://kit.svelte.dev/\n\nFurther Reading:\nSVG: https://developer.mozilla.org/en-US/docs/Web/SVG\nCSS Variables: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties\n\n\ud83c\udfb6 I've remixed \"Follow The Trail\" by Future Joust for the background music \ud83c\udfb6\n\nNo affiliations whatsoever: if I show something, you know you're hearing my unfiltered thoughts \ud83d\ude04\n\nMy own website: https://magrippis.com/\n\n--\nTIMESTAMPS\n--\n0:00 - AnimatedHamburger Svelte component\n0:12 - An SVG \ud83c\udf54 with simple paths\n0:50 - Complicated paths that transform into an X\n2:23 - Toggling \ud83c\udf54 \u2192 X on:click \n3:06 - Transitions & the animation comes together!\n4:09 - Usage in a Header for toggleable navigation\n4:52 - Should you use a Hamburger Menu?!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fWzKPUUQdQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fWzKPUUQdQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fWzKPUUQdQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fWzKPUUQdQY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fWzKPUUQdQY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fWzKPUUQdQY"
+        },
+        "videoOwnerChannelTitle": "Johnny Magrippis",
+        "videoOwnerChannelId": "UCm1ALyg61uhPoTnZBm7mY2g"
+      },
+      "contentDetails": {
+        "videoId": "fWzKPUUQdQY",
+        "videoPublishedAt": "2021-11-14T10:43:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yszeYszJIutLYHhzK6gw1DwAizM",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2021-12-07T05:57:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Container queries - Designing in the Browser",
+        "description": "Container queries are an experimental API that unlocks intrinsic component-level styling based on an element\u2019s containing parent. This episode goes over how to use container queries, to highlight the responsive possibilities of tomorrow.\n\nContainer Query Polyfill \u2192 https://goo.gle/3Gn9UUO\nCSS Container Queries on MDN \u2192 https://goo.gle/3ogyIrp \nSimplified Container Query Demo \u2192 https://goo.gle/3lxbb3P \nPodcast Card Demo \u2192 https://goo.gle/2ZRxdGY \nPlant Store Demo \u2192 https://goo.gle/3G831GR \nBaby Clothes Demo \u2192 https://goo.gle/3GdVYwB \nContainer Query Spec \u2192 https://goo.gle/3ok42pw \nCSS Tricks post on @container \u2192 https://goo.gle/3rvGkIB \nWeb.dev article on containment \u2192 https://goo.gle/3wBMB52 \n\nCatch more videos from Designing in the Browser \u2192 https://goo.gle/dib-chrome \nSubscribe to Google Chrome Developers \u2192 https://goo.gle/ChromeDevs  \n\n#DesigningInTheBrowser #Chrome #Developer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gCNMyYr7F6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gCNMyYr7F6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gCNMyYr7F6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gCNMyYr7F6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 57,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gCNMyYr7F6w"
+        },
+        "videoOwnerChannelTitle": "Google Chrome Developers",
+        "videoOwnerChannelId": "UCnUYZLuoy1rq1aVMwx4aTzw"
+      },
+      "contentDetails": {
+        "videoId": "gCNMyYr7F6w",
+        "videoPublishedAt": "2021-12-03T08:12:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wbTASBuLSHAcJX8qsuu__YFNNJQ",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2021-12-07T05:57:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Floats, Flexbox, Grid? The progression of CSS layouts",
+        "description": "CSS is confusing enough, and now in 2018 there are so many different options out there, from floats to flexbox to CSS Grid. \n\nThis video takes a look at why we used floats for layout, and how things have progressed to flexbox, and now to grid to give a bit of a historical look at it all, as well as some ideas about what you should be using today.\n\nThis article was heavily influenced by Modern CSS Explained for Dinosaurs by Peter Jang: https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525\n\nCodePen: https://codepen.io/kevinpowell/pen/gzZpGL/ \n\nTimestamps\nFloats: 3:10\nFlexbox: 12:14\nGrid: 17:26\nBrowser Support?: 25:00\n\n---\n\nI have a newsletter! https://www.kevinpowell.co/newsletter\n\nNew to Sass, or want to step up your game with it? I've got a course just for you: https://www.kevinpowell.co/learn-sass\n\n---\n\nMy Code Editor: VS Code - https://code.visualstudio.com/\n\nHow my browser refreshes when I save: https://youtu.be/h24noHYsuGc\n\n---\n\nSupport me on Patreon: https://www.patreon.com/kevinpowell\n\nI'm on some other places on the internet too!\n\nIf you'd like a behind the scenes and previews of what's coming up on my YouTube channel, make sure to follow me on Instagram and Twitter.\n\nInstagram: https://www.instagram.com/kevinpowell.co/\nTwitter: https://twitter.com/KevinJPowell\nCodepen: https://codepen.io/kevinpowell/\nGithub: https://github.com/kevin-powell",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R7gqJkdc5dM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R7gqJkdc5dM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R7gqJkdc5dM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R7gqJkdc5dM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R7gqJkdc5dM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 58,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R7gqJkdc5dM"
+        },
+        "videoOwnerChannelTitle": "Kevin Powell",
+        "videoOwnerChannelId": "UCJZv4d5rbIKd4QHMPkcABCw"
+      },
+      "contentDetails": {
+        "videoId": "R7gqJkdc5dM",
+        "videoPublishedAt": "2018-05-23T16:41:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bQWjuMBCu4VoNVQcSVir74wxyTQ",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2021-12-07T05:57:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The fundamentals of CSS layout | Workshop",
+        "description": "Learn about the key CSS layout methods of flexbox and grid. Discover how these layout methods enable responsive, content-aware designs, and how to choose the best layout method for the component you need to build.\n\nResources:\nCSS Layout Workshop \u2192 https://goo.gle/3BmBoXR\n\nSpeaker: Rachel Andrew\n\nWatch more:\nWatch all Chrome Developer Summit videos \u2192 https://goo.gle/cds21-allsessions\nSubscribe to Google Chrome Developers \u2192 https://goo.gle/ChromeDevs\n\n#ChromeDevSummit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yMEjLBKyvEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yMEjLBKyvEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMEjLBKyvEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yMEjLBKyvEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yMEjLBKyvEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 59,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yMEjLBKyvEg"
+        },
+        "videoOwnerChannelTitle": "Google Chrome Developers",
+        "videoOwnerChannelId": "UCnUYZLuoy1rq1aVMwx4aTzw"
+      },
+      "contentDetails": {
+        "videoId": "yMEjLBKyvEg",
+        "videoPublishedAt": "2021-12-01T17:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KnQgYByG8VtEM9IPbTXwyQnPDpY",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2021-12-07T08:13:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The most common HTML mistake that I see",
+        "description": "Using headings is nice and simple, but most people don't understand the effect they have on the document outline, and end up using them in incorrect ways. In this one, we look at what the document outline is, how headings effect it, and a few other best practices.\n\n\u2705 Polypane: https://a.paddle.com/v2/click/39438/133152?link=3110\n (this is an affiliate link, so if you purchase Polypane through this link, I will earn a small commission, which helps support my channel)\r\n\r\n\ud83d\udd17 Links \n\u2705 The a11y project: https://www.a11yproject.com\r\n\u2705 More info about heading levels: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements\n\u2705 More info on landmark regions: https://www.a11yproject.com/posts/2013-01-14-aria-landmark-roles/\n\r\n\u231a Timestamps\r\n00:00 - Introduction\n01:34 - Polypane and the document outline\n04:06 - Issues with the document outline\n07:08 - Exploring heading structure\n09:23 - Skipping headings and other heading issues\n10:43 - Landmark regions\n13:32 - Think of it like a table of contents\n\r\n#css\r\n\r\n--\r\n\r\nCome hang out with other dev's in my Discord Community\r\n\ud83d\udcac https://discord.gg/nTYCvrK\r\n\r\nKeep up to date with everything I'm up to\r\n\u2709 https://www.kevinpowell.co/newsletter\r\n\r\nCome hang out with me live every Monday on Twitch!\r\n\ud83d\udcfa https://www.twitch.tv/kevinpowellcss\r\n\r\n---\r\n\r\nHelp support my channel\r\n\ud83d\udc68\u200d\ud83c\udf93 Get a course: https://www.kevinpowell.co/courses\r\n\ud83d\udc55 Buy a shirt: https://teespring.com/stores/making-the-internet-awesome\r\n\ud83d\udc96 Support me on Patreon: https://www.patreon.com/kevinpowell\r\n\r\n---\r\n\r\nMy editor: VS Code - https://code.visualstudio.com/\r\n\r\n---\r\n\r\nI'm on some other places on the internet too!\r\n\r\nIf you'd like a behind the scenes and previews of what's coming up on my YouTube channel, make sure to follow me on Instagram and Twitter.\r\n\r\nTwitter: https://twitter.com/KevinJPowell\r\nCodepen: https://codepen.io/kevinpowell/\r\nGithub: https://github.com/kevin-powell\r\n\r\n---\r\n\r\nAnd whatever you do, don't forget to keep on making your corner of the internet just a little bit more awesome!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NexL5_Vdoq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NexL5_Vdoq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NexL5_Vdoq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NexL5_Vdoq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NexL5_Vdoq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 60,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NexL5_Vdoq8"
+        },
+        "videoOwnerChannelTitle": "Kevin Powell",
+        "videoOwnerChannelId": "UCJZv4d5rbIKd4QHMPkcABCw"
+      },
+      "contentDetails": {
+        "videoId": "NexL5_Vdoq8",
+        "videoPublishedAt": "2021-11-04T14:02:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JptRbe1DcoXAzXEuo_dH-WTIkbA",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2021-12-07T11:44:27Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "SvelteKit Crash Course Follow Up - Deploy Your Project to Production",
+        "description": "Follow up video for the SvelteKit Crash Course!\n\nDeploy your project to Netlify and Vercel without GitHub, then push the project to GitHub and deploy via code changes and Pull Requests.\n\nSource code on GitHub: https://github.com/spences10/sparkles-blog\n\nFull Crash Course here: https://www.youtube.com/watch?v=zH2qG9YwN3s\n\n00:00 - Intro\n00:58 - Adapters documentation\n01:52 - Configure Adapter Static\n02:21 - Build Static project\n03:21 - Deploy project to Netlify without git\n04:58 - Deploy to Vercel without git\n05:29 - Vercel CLI\n08:23 - Push project to GitHub\n10:00 - Connect Vercel Project to GitHub project\n10:26 - Deploy project to Vercel with GitHub\n13:50 - Change Vercel project domain name\n14:18 - Configure adapter static to deploy to Netlify\n15:40 - Deploy to Netlify with GitHub\n19:05 - Change Netlify project domain name\n20:10 - Using hybrid (Vercel node) and jamstack",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qD4wJ62NIZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qD4wJ62NIZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qD4wJ62NIZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qD4wJ62NIZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qD4wJ62NIZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qD4wJ62NIZc"
+        },
+        "videoOwnerChannelTitle": "Scott Spence",
+        "videoOwnerChannelId": "UCnngLXpLSFsKkDhFoO9Ct3w"
+      },
+      "contentDetails": {
+        "videoId": "qD4wJ62NIZc",
+        "videoPublishedAt": "2021-10-01T16:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9UEJykEF3dIKOZZfKJmiVk3hLak",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi5ERkUyQTM0MzEwQjZCMTY5",
+      "snippet": {
+        "publishedAt": "2021-12-08T03:27:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "5 Awesome Svelte Packages - Weekly Svelte",
+        "description": "Packages\n\nhttps://mdsvex.com/\n\nhttps://date-picker-svelte.kasper.space/\n\nhttps://github.com/leveluptuts/Svelte-Element-Query\n\nhttps://www.npmjs.com/package/svelte-drag?ref=leveluptuts\n\nhttps://svelte-steps.web.app/\n\nBecome a Level Up Pro and take your web skills to the next level!\nhttps://www.leveluptutorials.com/pro?utm_source=youtube&utm_medium=video&utm_campaign=weekly_svelte\n\n\nSvelte for Beginners \nhttps://leveluptutorials.com/tutorials/svelte-for-beginners/introduction\n\n\nThe best web development podcast out there\nSyntax with Wes Bos and Scott Tolinski\nhttps://syntax.fm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Dma8hchfdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Dma8hchfdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Dma8hchfdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Dma8hchfdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Dma8hchfdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Dma8hchfdk"
+        },
+        "videoOwnerChannelTitle": "LevelUpTuts",
+        "videoOwnerChannelId": "UCyU5wkjgQYGRB0hIHMwm2Sg"
+      },
+      "contentDetails": {
+        "videoId": "1Dma8hchfdk",
+        "videoPublishedAt": "2021-10-01T20:27:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o1UwqejHZFqrch24-HTb9T1INoQ",
+      "id": "UExJamhmbHVoTmQ5LTBFbWpwN09lamxEUkwyQ0NFZmpfWi4xM0YyM0RDNDE4REQ1NDA0",
+      "snippet": {
+        "publishedAt": "2021-12-08T11:49:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to Deploy a Dockerized Svelte App to AWS",
+        "description": "Learn how to create a production-ready Docker image with Svelte. Then we will use that Docker Image to push it to AWS Container Registry and we will Host it to AWS Fargate.\n\nNginx: https://gist.github.com/scalablescripts/a69000659a0a09bb71066b9b4d3fcecb\n\nCheck more tutorials: \nGet access to all my courses for 15$/month: https://scalablescripts.com/p/membership\n\n#docker #aws #svelte",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VOs2Od5jYOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VOs2Od5jYOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VOs2Od5jYOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VOs2Od5jYOc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VOs2Od5jYOc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VOs2Od5jYOc"
+        },
+        "videoOwnerChannelTitle": "Scalable Scripts",
+        "videoOwnerChannelId": "UCljAHzX-PBxv6WrXkI2rnQw"
+      },
+      "contentDetails": {
+        "videoId": "VOs2Od5jYOc",
+        "videoPublishedAt": "2021-06-21T12:00:21Z"
+      }
+    }
+  ]
+}

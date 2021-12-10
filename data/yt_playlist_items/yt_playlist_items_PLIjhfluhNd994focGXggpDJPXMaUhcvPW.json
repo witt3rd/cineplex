@@ -1,0 +1,2241 @@
+{
+  "_id": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+  "as_of": "2021-12-10 00:21:59.179819",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e7kAI73YqtBDkHr_JH_sqJcB2fs",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:08:00Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Functors Applicatives and Monads in Haskell - Part 1 (Functors)",
+        "description": "Part 2 (Applicatives): https://www.youtube.com/watch?v=CNOff5LPKQI&feature=youtu.be\nPart 3 (Monads): https://www.youtube.com/watch?v=f1Y7vLakykk&feature=youtu.be\nFunctors in Haskell",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xCut-QT2cpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xCut-QT2cpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xCut-QT2cpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xCut-QT2cpI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xCut-QT2cpI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xCut-QT2cpI"
+        },
+        "videoOwnerChannelTitle": "Krac X",
+        "videoOwnerChannelId": "UCnuqY7a57F_JRGQRY8naqQA"
+      },
+      "contentDetails": {
+        "videoId": "xCut-QT2cpI",
+        "videoPublishedAt": "2019-04-24T04:33:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WDZwy9G-HRUBDw93mqk0lV9clQM",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:08:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Haskell: Applicative Functor",
+        "description": "Blog: https://odone.io/posts/2020-02-18-dollar-functor-applicative-monad.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4GcwM1Exu5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4GcwM1Exu5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4GcwM1Exu5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4GcwM1Exu5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4GcwM1Exu5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4GcwM1Exu5o"
+        },
+        "videoOwnerChannelTitle": "Riccardo Odone",
+        "videoOwnerChannelId": "UCqoYTAX09Ico3T_NCRy-iSg"
+      },
+      "contentDetails": {
+        "videoId": "4GcwM1Exu5o",
+        "videoPublishedAt": "2020-05-01T11:09:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XogqYnQdZ_ACjg9_jY9lQFfQE9o",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:08:25Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "scale.bythebay.io: Adelbert Chang, The Functor, Applicative, Monad talk",
+        "description": "Scale By the Bay 2019 is held on November 13-15 in sunny Oakland, California, on the shores of Lake Merritt: https://scale.bythebay.io.  Join us!\n-----\n\nFunctors, applicatives, and monads are fundamental tools for some programmers, yet for many others they are considered immaterial. Indeed there are extremely few languages which offer support for even talking about these concepts. Why then are these programmers so fixated on them? What about them makes them so desirable and necessary? In this talk we will explore the what and why of these concepts and hopefully leave you understanding, if not convinced of, their utility.\n\nAdelbert Chang\nLead Data Engineer, Target\nAdelbert is a programmer at Target where he builds tooling and infrastructure for the data science and optimization team. In his free time he explores the intersection of functional programming and systems design and watches random videos on the Internet.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L0aYcq1tqMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L0aYcq1tqMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L0aYcq1tqMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L0aYcq1tqMo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L0aYcq1tqMo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L0aYcq1tqMo"
+        },
+        "videoOwnerChannelTitle": "FunctionalTV",
+        "videoOwnerChannelId": "UCKvhw2CPR-0S4XZ1bNlihnw"
+      },
+      "contentDetails": {
+        "videoId": "L0aYcq1tqMo",
+        "videoPublishedAt": "2018-01-04T04:30:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PtHGQqxwPG74DuGcubacQKxTIAI",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:08:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Describing Data...with free applicative functors (and more)\u2014Kris Nuttycombe",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oRLkb6mqvVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oRLkb6mqvVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oRLkb6mqvVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oRLkb6mqvVM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oRLkb6mqvVM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oRLkb6mqvVM"
+        },
+        "videoOwnerChannelTitle": "Scala World",
+        "videoOwnerChannelId": "UCc0j7uOItUDh7vEvPb-TeCg"
+      },
+      "contentDetails": {
+        "videoId": "oRLkb6mqvVM",
+        "videoPublishedAt": "2017-10-12T09:38:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bUPTowbRjjhB7AfyTF6gt366zys",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:08:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Haskell for Imperative Programmers #36 - Category Theory (Functors, Applicatives, Monads)",
+        "description": "In this video we are going to get theoretical!\n\nProgramming with categories:\nhttps://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS\n\nCategory theory for programmers by Bartosz Milewski:\nhttps://github.com/hmemcpy/milewski-ctfp-pdf\n\nSeven Sketches in Compositionality by Brendan Fong & David I. Spivak:\nhttps://arxiv.org/pdf/1803.05316.pdf\n\nApplicative programming with effect by Conor McBride & Ross Paterson:\nhttp://www.staff.city.ac.uk/~ross/papers/Applicative.pdf\n\nTimestamps:\n00:00 - Intro\n00:24 - Categories\n05:13 - Monoids as Categories\n06:18 - Functors\n09:45 - Monoidal Categories\n13:00 - Monoidal Functors\n16:39 - Applicatives\n19:45 - Monoids\n21:04 - Monads\n26:23 - Recap\n27:42 - Laws\n28:01 - Conclusion\n28:39 - Recommendations for further study\n\n\nSupport me on Ko-fi: \nhttps://ko-fi.com/phagenlocher",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jsmt4uaL1O8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jsmt4uaL1O8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jsmt4uaL1O8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jsmt4uaL1O8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jsmt4uaL1O8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jsmt4uaL1O8"
+        },
+        "videoOwnerChannelTitle": "Philipp Hagenlocher",
+        "videoOwnerChannelId": "UC3xdLFFsqG701QAyGJIPT1g"
+      },
+      "contentDetails": {
+        "videoId": "Jsmt4uaL1O8",
+        "videoPublishedAt": "2020-08-03T15:26:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hv9iiTdY6o0nYSrOaUXHK2AzYSs",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:08:52Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "David Sankel: Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
+        "description": "Forget factories, singletons, and proxies; What are the real patterns in software development? This talk explores abstract mathematical structures that commonly recur in software development. Once a mind is trained to recognize these patterns, it becomes easy to identify the fundamental operations for domain specific classes and how to put the pieces together. This discussion is for those who enjoy math, abstract concepts, and expanding their minds.\n\nSlides here: https://github.com/boostcon/cppnow_presentations_2016/blob/master/00_tuesday/monoids_monads_and_applicative_functors_repeated_software_patterns.pdf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DiisKQAkGM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DiisKQAkGM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DiisKQAkGM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DiisKQAkGM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DiisKQAkGM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DiisKQAkGM4"
+        },
+        "videoOwnerChannelTitle": "CppNow",
+        "videoOwnerChannelId": "UC5e__RG9K3cHrPotPABnrwg"
+      },
+      "contentDetails": {
+        "videoId": "DiisKQAkGM4",
+        "videoPublishedAt": "2016-07-11T16:14:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nlq6QsEQ2kl5MmH5yJ2Q-9a3QwY",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:09:00Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Reusable Code \u2014 Relationship between Applicative and Monoid.",
+        "description": "Patreon: https://www.patreon.com/tsoding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RtYWKG_zZrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RtYWKG_zZrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RtYWKG_zZrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RtYWKG_zZrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RtYWKG_zZrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RtYWKG_zZrM"
+        },
+        "videoOwnerChannelTitle": "Tsoding",
+        "videoOwnerChannelId": "UCEbYhDd6c6vngsF5PQpFVWg"
+      },
+      "contentDetails": {
+        "videoId": "RtYWKG_zZrM",
+        "videoPublishedAt": "2018-09-27T19:06:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xLi85DAI3sRWy_BIsNYi0cGP-Jo",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:09:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Functors Applicatives and Monads in Haskell - Part 2 (Applicatives)",
+        "description": "Part 3 (Monads): https://www.youtube.com/watch?v=f1Y7vLakykk&feature=youtu.be\nPart 1 (Functors): https://www.youtube.com/watch?v=xCut-QT2cpI&feature=youtu.be\nApplicatives in Haskell",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CNOff5LPKQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CNOff5LPKQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CNOff5LPKQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CNOff5LPKQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CNOff5LPKQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CNOff5LPKQI"
+        },
+        "videoOwnerChannelTitle": "Krac X",
+        "videoOwnerChannelId": "UCnuqY7a57F_JRGQRY8naqQA"
+      },
+      "contentDetails": {
+        "videoId": "CNOff5LPKQI",
+        "videoPublishedAt": "2019-10-13T04:10:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V1QSEI8u-jr_1uPBlGLdu3l9BJs",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:09:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Lunch and Learn: Applicatives",
+        "description": "Today we'll explore the the Applicative typeclass. Otherwise known as Monoidal Functors. If that isn't fun to say 10 times in a row, you don't know life.\n\nWe'll start with a review of Functors before diving into the meat of it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qVW1veb-Ds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qVW1veb-Ds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qVW1veb-Ds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3qVW1veb-Ds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3qVW1veb-Ds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3qVW1veb-Ds"
+        },
+        "videoOwnerChannelTitle": "Frontside",
+        "videoOwnerChannelId": "UCk1tsztXAPn8whxMA9cYLLA"
+      },
+      "contentDetails": {
+        "videoId": "3qVW1veb-Ds",
+        "videoPublishedAt": "2017-11-03T18:31:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fSNA9RVPPFVpK6I7DOG_XsvsIQ8",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:09:33Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Data61 fp-course - Part #2: List, Functor, Applicative",
+        "description": "Quickly going through the Data61 fp-course to show how I teach it at Atlassian:\n\nhttps://github.com/data61/fp-course\n\nWatch live at https://www.twitch.tv/puffnfresh\n\n#Haskell #fpcourse",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qH0EjlM9Cm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qH0EjlM9Cm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qH0EjlM9Cm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qH0EjlM9Cm4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qH0EjlM9Cm4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qH0EjlM9Cm4"
+        },
+        "videoOwnerChannelTitle": "Brian McKenna",
+        "videoOwnerChannelId": "UCHqC8N7FMMRRNIo-hUNtiQA"
+      },
+      "contentDetails": {
+        "videoId": "qH0EjlM9Cm4",
+        "videoPublishedAt": "2018-02-13T18:55:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mLo61IFkX5W92fGWx16Kcowg-UI",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:09:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Functors Applicatives and Monads in Haskell - Part 3 (Monads)",
+        "description": "Part 1 (Functors): https://www.youtube.com/watch?v=xCut-QT2cpI&feature=youtu.be\r\nPart 2 (Applicatives): https://www.youtube.com/watch?v=CNOff5LPKQI&feature=youtu.be\r\n\r\nMonads in Haskell",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1Y7vLakykk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1Y7vLakykk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1Y7vLakykk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f1Y7vLakykk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f1Y7vLakykk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f1Y7vLakykk"
+        },
+        "videoOwnerChannelTitle": "Krac X",
+        "videoOwnerChannelId": "UCnuqY7a57F_JRGQRY8naqQA"
+      },
+      "contentDetails": {
+        "videoId": "f1Y7vLakykk",
+        "videoPublishedAt": "2019-12-20T16:29:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7gK55Dx6uSv11Rnv-0Cg_-PJ20k",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:10:05Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Introduction to Functional Programming in Haskell: Episode - Applicative and Monad",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6qoIUu6gNUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6qoIUu6gNUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6qoIUu6gNUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6qoIUu6gNUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6qoIUu6gNUI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6qoIUu6gNUI"
+        },
+        "videoOwnerChannelTitle": "MadGen Videos",
+        "videoOwnerChannelId": "UC8rifjKobiL8xYLkI5IOhLg"
+      },
+      "contentDetails": {
+        "videoId": "6qoIUu6gNUI",
+        "videoPublishedAt": "2017-05-02T02:35:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S5rYia7o15rZAR-M8MXFK2PgaCI",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:10:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Andr\u00e9 van Meulebrouck: Intro to containers: functor, applicative, monad",
+        "description": "Presented at BayHac 2018\nhttps://wiki.haskell.org/BayHac2018",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d2gs9ZTltXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d2gs9ZTltXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d2gs9ZTltXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d2gs9ZTltXQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d2gs9ZTltXQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d2gs9ZTltXQ"
+        },
+        "videoOwnerChannelTitle": "Bay Area Haskell",
+        "videoOwnerChannelId": "UCCL46pxWWtfhK3TxL55ybeQ"
+      },
+      "contentDetails": {
+        "videoId": "d2gs9ZTltXQ",
+        "videoPublishedAt": "2018-05-22T18:09:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OLb-wNrxPIdbVWfWdVktufhvI2I",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:10:31Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Alejandro Serrano Mena on Why Functors and Applicatives Compose but Monads Don't",
+        "description": "In this presentation, Alejandro is going to talk about one of the many kinds of composition available in Haskell, namely \"functor composition\": for any two functors we can create a new one. Some functors, such as applicatives and monads, have additional structure. Interestingly, applicatives can be composed to get a new applicative, but the same does not happen for monads. This has important implications: since monads do not compose, we need something else.\n\nJoin us for a stimulating evening discussion with a true scholar of functional programming. This talk will be especially appropriate for beginners to Haskell who would like a better understanding of one of its fundamental concepts: composition.\n\nAlejandro is a senior software engineer at 47 Degrees, devoting his time to training and open source around Haskell. Before that, he held several positions at Utrecht University, from which he obtained a Ph.D. on a topic related to compiling functional languages. He has wide experience, as a speaker and lecturer, in introducing functional concepts and is the author of the books, \"Practical Haskell\" and \"The Book of Monads\".\n\nSlides available here: https://www.dropbox.com/s/1j828vngpm0yhja/fp-berlin-2020.pdf?dl=0\n\nThis virtual talk was brought to you by the Berlin Functional Programming Group.\nJoin us on Meetup: https://www.meetup.com/Berlin-Functional-Programming-Group/\nFollow us on Twitter: https://twitter.com/BerlinFPGroup\nBuy a T-shirt: https://teespring.com/berlin-fp-group\nSupport us on Patreon: https://www.patreon.com/bfpg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eZ9FpG8May8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eZ9FpG8May8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZ9FpG8May8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eZ9FpG8May8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eZ9FpG8May8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eZ9FpG8May8"
+        },
+        "videoOwnerChannelTitle": "Berlin Functional Programming Group",
+        "videoOwnerChannelId": "UCNp-DVb8cQRIOo32sZhWgNg"
+      },
+      "contentDetails": {
+        "videoId": "eZ9FpG8May8",
+        "videoPublishedAt": "2020-05-20T08:52:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_OMBpkWZsWEsVqwa9uCcuf78wtc",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:10:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Applicative Functor - Selective Functor - Monad by Thomas Sutton",
+        "description": "on June 29th at ScalaMatsuri 2019\nhttp://2019.scalamatsuri.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gs7MNm6YMX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gs7MNm6YMX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gs7MNm6YMX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gs7MNm6YMX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gs7MNm6YMX4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gs7MNm6YMX4"
+        },
+        "videoOwnerChannelTitle": "ScalaMatsuri",
+        "videoOwnerChannelId": "UC6DFHglgVXQUVDbUmQHtxDQ"
+      },
+      "contentDetails": {
+        "videoId": "gs7MNm6YMX4",
+        "videoPublishedAt": "2019-08-23T05:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4dVe8c47oYeuc5FShlvTRiAMx7U",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:10:54Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "George Wilson - The Extended Functor Family",
+        "description": "George Wilson's talk at Compose :: Conference in Melbourne, 2016.\n\n--\nFunctors are ubiquitous in modern strongly-typed functional programming. Every Haskell beginner will come across them as one of the first typeclasses introduced. Stronger structures such as Applicative and Monad often steal the spotlight, but there are many structures related to the humble Functor that go unnoticed. The goal of this talk is to show off and give an intuition for some of these other structures: contravariant functors, bifunctors, and profunctors. With some of these making their way into Haskell\u2019s standard library recently, now is a perfect time to be introduced to or brush up on these concepts. Code examples will use Haskell, but these techniques extend to any language with typeclasses or a similar mechanism, such as Scala\u2019s implicits.\n--\n\nhttp://www.composeconference.org/2016-melbourne/day-one-program/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JZPXzJ5tp9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JZPXzJ5tp9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JZPXzJ5tp9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JZPXzJ5tp9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JZPXzJ5tp9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JZPXzJ5tp9w"
+        },
+        "videoOwnerChannelTitle": "Compose Conference",
+        "videoOwnerChannelId": "UC0pEknZxL7Q1j0Ok8qImWdQ"
+      },
+      "contentDetails": {
+        "videoId": "JZPXzJ5tp9w",
+        "videoPublishedAt": "2016-09-19T22:20:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GqJWghOGqPTb4AZTW60Rp5FdLxo",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:11:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "scala.bythebay.io: Vlad Patryshev, Functor, Monad, Applicative, in plain words",
+        "description": "Scale By the Bay 2019 is held on November 13-15 in sunny Oakland, California, on the shores of Lake Merritt: https://scale.bythebay.io.  Join us!\n-----\n\nThis talk is targeting regular programmers that have not seen anything like this before. I just explain these specific parameterized types, and what they are good for. Tested on our Engineers; they never had a question afterwards.\n\n\nVlad Patryshev\nengineer, H2O\nSoftware developer with an experience in categories and toposes. Teaching logic and formal methods at Santa Clara University.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eF4Viw_Qc6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eF4Viw_Qc6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eF4Viw_Qc6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eF4Viw_Qc6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eF4Viw_Qc6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eF4Viw_Qc6o"
+        },
+        "videoOwnerChannelTitle": "FunctionalTV",
+        "videoOwnerChannelId": "UCKvhw2CPR-0S4XZ1bNlihnw"
+      },
+      "contentDetails": {
+        "videoId": "eF4Viw_Qc6o",
+        "videoPublishedAt": "2016-12-05T05:36:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MJqOn0VALsLFuoARXXYL0i9kwbg",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:11:11Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Functors, Applicatives,Monads",
+        "description": "Knoldus had organized  a knolx session on \u201cFunctors, Applicatives,Monads\u201d, the session comprised of a brief introduction of the functors, applicatives and monads followed by small demonstration for each.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0iz728j4SK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0iz728j4SK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0iz728j4SK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0iz728j4SK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0iz728j4SK8"
+        },
+        "videoOwnerChannelTitle": "Knoldus Inc.",
+        "videoOwnerChannelId": "UCP4g5qGeUSY7OokXfim1QCQ"
+      },
+      "contentDetails": {
+        "videoId": "0iz728j4SK8",
+        "videoPublishedAt": "2016-09-01T05:50:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iZbxKN_61bXY8R093jQbbjhGAlk",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:11:23Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "SBTB 2014, Jake Donham: Stitch, an Applicative Functor for Composing RPC Services",
+        "description": "Scale By the Bay 2019 is held on November 13-15 in sunny Oakland, California, on the shores of Lake Merritt: https://scale.bythebay.io.  Join us!\n-----\n\nStitch is a Scala library used at Twitter which implements an applicative functor for composing RPC service calls (drawing inspiration from Facebook's Haxl), along with per-service adaptors which layer nice application interfaces over raw RPC interfaces. Stitch allows application code to be written in a clear, modular way, and also executed efficiently at the RPC level.\n\nJake Donham is a programmer at Twitter. He has a deep interest in applying ideas from functional programming to commercial software development.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bmIxIslimVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bmIxIslimVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bmIxIslimVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bmIxIslimVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bmIxIslimVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bmIxIslimVY"
+        },
+        "videoOwnerChannelTitle": "FunctionalTV",
+        "videoOwnerChannelId": "UCKvhw2CPR-0S4XZ1bNlihnw"
+      },
+      "contentDetails": {
+        "videoId": "bmIxIslimVY",
+        "videoPublishedAt": "2014-09-16T20:48:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ww5nQoj3RraLnkM0hq1Oz36aK5U",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:11:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Adelbert Chang: All About Applicative",
+        "description": "Presented at BayHac 2017\nhttps://wiki.haskell.org/BayHac2017\n\nSlides:\nhttps://github.com/adelbertc/bayhac17",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mn7BtPALFys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mn7BtPALFys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mn7BtPALFys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mn7BtPALFys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mn7BtPALFys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mn7BtPALFys"
+        },
+        "videoOwnerChannelTitle": "Bay Area Haskell",
+        "videoOwnerChannelId": "UCCL46pxWWtfhK3TxL55ybeQ"
+      },
+      "contentDetails": {
+        "videoId": "Mn7BtPALFys",
+        "videoPublishedAt": "2017-04-26T06:41:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m9CbEHY_3DqGk-XMVKpxp0wGj4w",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:11:39Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Functional programming, chapter 8. Applicative functors and profunctors. Part 1: Practical examples",
+        "description": "Functional programming in the mathematical spirit.\n\nLong and difficult, yet boring explanations given in excruciating detail.\n\nStart by reading the slides, go through the worked examples and exercises. Watch the video when you cannot fully understand something in the slides.\n\nChapter 8: Applicative functors and profunctors. Part 1: Practical examples\n\nWhy monads do not usually describe effects that are independent or commutative\nIntuitions behind the `map2` function, coming from monads\nGeneralize map, map2, to map3 and mapN\nHow to implement map2 and map3 for `Either` to collect multiple errors from computations\nWhy the Future and the Reader monads already have commutative and independent effects\nHow to transpose a matrix by using map2 with `List`\nProfunctors and their distinction from functors and contrafunctors\nHow to use profunctors to combine several `fold` passes into one\nThe distinction between applicative `fold` combinator and the monadic combinator: running average of running average\nThe distinction between applicative parser combinator and the monadic parser combinator: stopping at errors\nExercises\n\nSlides: https://github.com/winitzki/talks/blob/master/ftt-fp/08-applicatives-part1.pdf\n\nCode examples: https://github.com/winitzki/scala-examples/tree/master/chapter08/src",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NVlFZYxgXDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NVlFZYxgXDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NVlFZYxgXDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NVlFZYxgXDw"
+        },
+        "videoOwnerChannelTitle": "Sergei Winitzki",
+        "videoOwnerChannelId": "UCWpjX-z6_oNZhcHPzAAQy6g"
+      },
+      "contentDetails": {
+        "videoId": "NVlFZYxgXDw",
+        "videoPublishedAt": "2018-06-26T17:47:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K9IN8_DaXNk7CjuSIqe9F7Szpk0",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:11:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Monoids, Monads, and Applicative Functors: Repeated Software Patterns - David Sankel - CppCon 2020",
+        "description": "https://cppcon.org/\nhttps://github.com/CppCon/CppCon2020\n---\nForget factories, singletons, and proxies; What are the real patterns in software development? This talk explores abstract mathematical structures that commonly recur in software development. Once a mind is trained to recognize these patterns, it becomes easy to identify the fundamental operations for domain specific classes and how to put the pieces together. This discussion is for those who enjoy math, abstract concepts, and expanding their minds. \n\n---\nDavid Sankel is a Software Engineering Manager/TL at Bloomberg and an active member of the C++ Standardization Committee. His experience spans microservice architectures, CAD/CAM, computer graphics, visual programming languages, web applications, computer vision, and cryptography. He is a frequent speaker at C++ conferences and specializes in large-scale software engineering and advanced C++ topics. David\u2019s interests include dependently typed languages, semantic domains, EDSLs, and functional reactive programming. He is the project editor of the C++ Reflection TS, a member of the Boost steering committee, and an author of serveral C++ proposals including pattern matching and language variants. \n\n---\nStreamed & Edited by Digital Medium Ltd - events.digital-medium.co.uk\nevents@digital-medium.co.uk \n\n*-----*\nThe CppCon YouTube Channel Is Sponsored By:\nJetBrains : http://jb.gg/cpptools \nSonarSource:  https://www.sonarsource.com/\n*-----*",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/giWCdQ7fnQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/giWCdQ7fnQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/giWCdQ7fnQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/giWCdQ7fnQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/giWCdQ7fnQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "giWCdQ7fnQU"
+        },
+        "videoOwnerChannelTitle": "CppCon",
+        "videoOwnerChannelId": "UCMlGfpWw-RUdWX_JbLCukXg"
+      },
+      "contentDetails": {
+        "videoId": "giWCdQ7fnQU",
+        "videoPublishedAt": "2020-10-04T23:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tiB6P1z1ADajddHDAnfemBgqzfM",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:11:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "27 - Validation with Applicative Functors",
+        "description": "Online Repl:\nhttps://runkit.com/reidnevans/27",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/onwXawLXpBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/onwXawLXpBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/onwXawLXpBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "onwXawLXpBo"
+        },
+        "videoOwnerChannelTitle": "Reid Evans",
+        "videoOwnerChannelId": "UCMxR2KmDlDMEsvfKOjzRNbA"
+      },
+      "contentDetails": {
+        "videoId": "onwXawLXpBo",
+        "videoPublishedAt": "2017-08-04T16:33:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mT4469GVA0b7ob_hunJy3--iuA0",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:12:16Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "APLicative Programming with Naperian Functors - Jeremy Gibbons",
+        "description": "This presentation was the closing keynote at Lambda World 2017 by Jeremy Gibbons.\n\nFollow: \n-https://www.twitter.com/47deg\n-https://www.twitter.com/lambda_world \n-https://twitter.com/jer_gib\n\nVisit: \n-https://www.47deg.com/events for more details.\n\n___\n\nMuch of the expressive power of array-oriented languages such as Iverson\u2019s APL and J comes from their implicit lifting of scalar operations to act on higher-ranked data, for example to add a value to each element of a vector, or to add two compatible matrices pointwise. It is considered a shape error to attempt to combine arguments of incompatible shape, such as a 3-vector with a 4-vector. APL and J are dynamically typed, so such shape errors are caught only at run-time. Recent work by Slepak et al develops a custom type system for an array-oriented language, statically ruling out such errors. I will show that such a custom language design is unnecessary: the requisite compatibility checks can already be captured in modern expressive type systems, as found for example in Haskell; moreover, generative type-driven programming can exploit that static type information constructively to automatically induce the appropriate liftings. I will also show that the structure of multi-dimensional data is inherently a matter of traversable Naperian applicative functors (and I will explain what this means).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D1sT0xNrHIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D1sT0xNrHIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D1sT0xNrHIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D1sT0xNrHIQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D1sT0xNrHIQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D1sT0xNrHIQ"
+        },
+        "videoOwnerChannelTitle": "Lambda World",
+        "videoOwnerChannelId": "UCEBcDOjv-bhAmLavY71RMHA"
+      },
+      "contentDetails": {
+        "videoId": "D1sT0xNrHIQ",
+        "videoPublishedAt": "2017-11-07T08:41:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o9BG7CIlHpZoMeSzOL3Y8SqmIcs",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:12:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Arnaud Spiwack \u2013 Data vs Control: a tale of two functors",
+        "description": "Arnaud Spiwack\nArnaud Spiwack spent the first 10 years of his working life in Academia, between Chalmers university in Gothenburg, Sweden, and Ecole Polytechnique, Inria, and Mines ParisTech, in the Paris area. He spent this time researching dependent types, computer-verified proof, and sequent calculus. During his time in Academia, Arnaud got involved in the development of the Coq Proof Assistant, where he, in particular, re-engineered Coq\u2019s tactic engine and gave it an abstract interface. After leaving Academia, he remained a member of the core development team of the Coq Proof Assistant. He is now a senior architect at Tweag I/O, and is working at making the world a better typed place.\n\nData vs Control: a tale of two functors\nThe Haskell base library features the Data and Control module hierarchies. The distinction between data and control is rooted deeply, in computer science: it can already be seen in Turing machines. However, when it comes to Haskell the difference between data and control can be quite muddled. A case in point is functors: there are functor type classes in both hierarchies: Functor and Traversable are in the Data hierarchy, while Applicative and Monad are in the Control hierarchy. This is really confusing! Do functors magically cease to be data and become control structure when I declare a Applicative instance?\nIn this talk, I will show that there are indeed two kinds of functors, which I dub data functors, and control functors. Each fitting in the respective hierarchy. The catch is that you can\u2019t tell them apart in regular Haskell. However, with the new linear types extension, we can see them for what they really are. In fact, when programming with linear types, one typically needs both kinds. I\u2019ll be explaining a tiny bit of linear types, just enough to expose the two hierarchies for what they are.\n\nhttps://haskell.love\nhttps://twitter.com/_haskellove",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gm2pK01S8_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gm2pK01S8_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gm2pK01S8_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gm2pK01S8_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gm2pK01S8_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gm2pK01S8_g"
+        },
+        "videoOwnerChannelTitle": "Konfy",
+        "videoOwnerChannelId": "UCiCM4CjouAflq5FlyehNoBg"
+      },
+      "contentDetails": {
+        "videoId": "gm2pK01S8_g",
+        "videoPublishedAt": "2020-08-10T06:35:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p-qE4APS4tibstdLVQEPMmCN-rs",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:12:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Selective Applicative Functors by Andrey Mokhov",
+        "description": "Andrey is a Senior Lecturer at Newcastle University. He has done a lot of work on the Hadrian build system for GHC, and his work around algrebraic graphs is one of the greatest recent examples of the elegance and simplicity of functional programming.\n\nLink:\nhttps://zfoh.ch/zurihac2019/\n\nwww.hsr.ch",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7vruj4gj38Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7vruj4gj38Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7vruj4gj38Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7vruj4gj38Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7vruj4gj38Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7vruj4gj38Q"
+        },
+        "videoOwnerChannelTitle": "OST \u2013 Ostschweizer Fachhochschule",
+        "videoOwnerChannelId": "UC-3WSoPw7jjgF0SGToqkBtg"
+      },
+      "contentDetails": {
+        "videoId": "7vruj4gj38Q",
+        "videoPublishedAt": "2019-06-19T06:39:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H-p_Uji8RtZsjd5pRhzxtk57h-k",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:12:50Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Move Over Free Monads: Make Way for Free Applicatives! \u2014 John de Goes",
+        "description": "In the Scala FP community, free monads are one of the fastest growing and hottest ways to compose programs from small, modular, interpretable languages. Yet, the trees described by free monads are dynamic: their structure depends on runtime values, which limit the types of analysis one can do on these trees. Free applicatives address this limitation by only permitting trees whose structure can be described statically, independent from runtime values.\n\nIn this talk, John shows how this tradeoff enables extremely powerful introspection and transformation of the very structure of a program, in ways that are completely impossible with free monads.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H28QqxO7Ihc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H28QqxO7Ihc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H28QqxO7Ihc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H28QqxO7Ihc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H28QqxO7Ihc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H28QqxO7Ihc"
+        },
+        "videoOwnerChannelTitle": "Scala World",
+        "videoOwnerChannelId": "UCc0j7uOItUDh7vEvPb-TeCg"
+      },
+      "contentDetails": {
+        "videoId": "H28QqxO7Ihc",
+        "videoPublishedAt": "2016-01-11T10:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D29cXzEfQ0JrzHBKkmZrqrV9H_o",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:12:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "24 - Intro to Applicatives - Lift",
+        "description": "Repl Link:\nhttp://tinyurl.com/y8h48p2v",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e2IP3Qi_Ifc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e2IP3Qi_Ifc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e2IP3Qi_Ifc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e2IP3Qi_Ifc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e2IP3Qi_Ifc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e2IP3Qi_Ifc"
+        },
+        "videoOwnerChannelTitle": "Reid Evans",
+        "videoOwnerChannelId": "UCMxR2KmDlDMEsvfKOjzRNbA"
+      },
+      "contentDetails": {
+        "videoId": "e2IP3Qi_Ifc",
+        "videoPublishedAt": "2017-08-01T17:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jRtcKx0H9Jf3-qt2HAm6iWWkdlA",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:13:07Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Julie Moronuki: Applicative and Monadic Parsing - \u03bbC Winter Retreat 2017",
+        "description": "The Applicative and Monad typeclasses allow for function application in the presence of some structure. They are similar in some respects, but they have important differences, differences that are not always well understood. In practice, many people end up using Monad in places where Applicative might be more suitable.\n\nIt's a difference that is perhaps best learned by doing, by using them in real code and comparing what can be done in applicative contexts that cannot be done in monadic contexts, and vice versa. One fun way to do this is through parsing.\n\nWe will begin this workshop with a very brief overview of the two typeclasses and a short introduction to parsing in general. We will use two Haskell parsing libraries, optparse-applicative and (probably) trifecta, as we explore the practical differences between applicative and monadic contexts. Finally, we will build a small application using optparse-applicative.\n\nThe workshop will be aimed at people who can read some Haskell syntax and are familiar with the concepts of Applicative and Monad, but might not have much experience using them in practical applications. You do not need to already understand parsing to attend, and you do not need to have ever built a whole project in Haskell. By the end of this workshop, you will have!\n\n    What language? All code will be in Haskell.\n    Who is this for? People who want to understand Applicative and Monad. People who want to learn more about parser combinators. People who have never built an entire application in Haskell before and want to know how to get started doing that. The second hour or so will be focused on a project that uses the parsing libraries we've been exploring and may be of interest even to people who have written programs in Haskell before but have never used optparse-applicative.\n    Level: Somewhere on the border of Fire Lubline and Ice Skrig.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/htA9-QDCTA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/htA9-QDCTA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/htA9-QDCTA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/htA9-QDCTA0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/htA9-QDCTA0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "htA9-QDCTA0"
+        },
+        "videoOwnerChannelTitle": "LambdaConf",
+        "videoOwnerChannelId": "UCEtohQeDqMSebi2yvLMUItg"
+      },
+      "contentDetails": {
+        "videoId": "htA9-QDCTA0",
+        "videoPublishedAt": "2017-02-28T17:06:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1CqbMlbll17ee55Rco7wvFkfRoY",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:13:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "4 lecture - Functional programming | Data types; Monoid, Functor, Applicative",
+        "description": "00:00 \u041d\u0430\u0447\u0430\u043b\u043e (lecture 3)\n01:03 Custom types\n04:39 ADT's\n10:23 ADT's - enums\n14:54 ADT's - structures\n17:50 ADT's - parametric\n29:21 ADT's - sum\n38:12 ADT's - maybe\n45:28 ADT's - either\n50:51 ADT's - recursive\n54:09 Record syntax\n55:58 Record patterns and updates\n58:42 Records and sum types\n1:02:08 DuplicateRecordFields\n1:03:58 RecordWildCards\n1:07:29 newtype\n1:13:29 Type classes\n1:19:12 Eq\n1:23:19 Ord\n1:25:55 Num\n1:28:04 Show\n1:29:14 Read\n1:30:42 Polymorphic examples\n1:34:40 undefined\n1:40:36 deriving\n1:46:01 GeneralizedNewtypeDeriving\n1:46:39 Modules cheatsheet\n1:47:49 Links & questions\n1:49:45 Lecture 4\n1:50:30 Semigroups & Monoids\n1:52:20 Semigroup instances\n1:55:34 Monoid\n1:58:51 foldr & foldl\n2:06:11 Foldable\n2:12:28 fmap\n2:15:07 Functor\n2:18:39 Maybe Functor\n2:25:13 List Functor\n2:25:55 Arrow Functor\n2:28:56 Applicative Functors\n2:31:48 Maybe Applicative\n2:33:26 List Applicative\n2:34:20 Arrow Applicative\n2:35:22 Applicative laws\n2:35:38 Applicative vs. Functor\n2:37:05 Applicative style programming\n2:41:15 questions",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nsdRDzDbdhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nsdRDzDbdhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nsdRDzDbdhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nsdRDzDbdhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nsdRDzDbdhE"
+        },
+        "videoOwnerChannelTitle": "geny200 itmo",
+        "videoOwnerChannelId": "UCoS8jqfXxi5Gt7_ZDUlfTkQ"
+      },
+      "contentDetails": {
+        "videoId": "nsdRDzDbdhE",
+        "videoPublishedAt": "2020-09-18T16:49:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aNWqFDmUDz9TvaZ3J8tHb92clLE",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:13:28Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "\"Applicative Functors\" - \u0141ukasz Marchewka - Functional Tricity #15",
+        "description": "Everyone knows Monad but there is something also very useful and sometimes more powerful - Applicative Functors. I'm going to go from theory to real use cases where Applicative solved my issues.\n\nSpeaker:\n\u0141ukasz Marchewka\n\nI have 12 years experience as a full stack software developer/architect. From 5 years mainly related to Scala language. Recently fascinated with Haskell language. Big fan of FP, everything what is reactive and DDD.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7y4Vf0klsUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7y4Vf0klsUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7y4Vf0klsUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7y4Vf0klsUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7y4Vf0klsUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7y4Vf0klsUw"
+        },
+        "videoOwnerChannelTitle": "Scalac",
+        "videoOwnerChannelId": "UCzHyhy7noMcM0_3ttuw96yA"
+      },
+      "contentDetails": {
+        "videoId": "7y4Vf0klsUw",
+        "videoPublishedAt": "2019-02-13T19:11:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Hv5vkakc8XAhqBamzZ2KikENUw",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:13:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "25 - Intro to Applicatives - Apply",
+        "description": "Repl Link:\nhttp://tinyurl.com/ybcj5fq7",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SIKBvHU-h40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SIKBvHU-h40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SIKBvHU-h40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SIKBvHU-h40"
+        },
+        "videoOwnerChannelTitle": "Reid Evans",
+        "videoOwnerChannelId": "UCMxR2KmDlDMEsvfKOjzRNbA"
+      },
+      "contentDetails": {
+        "videoId": "SIKBvHU-h40",
+        "videoPublishedAt": "2017-08-02T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gzN71Dpr158JgOFuiZflid9YKKk",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:13:46Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Applicative: The Origin Story by Justin Heyes Jones at Scala Toronto",
+        "description": "https://www.meetup.com/scalator/events/271013295/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T_0IE8PF1sY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T_0IE8PF1sY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T_0IE8PF1sY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T_0IE8PF1sY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T_0IE8PF1sY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T_0IE8PF1sY"
+        },
+        "videoOwnerChannelTitle": "Scala Toronto",
+        "videoOwnerChannelId": "UC0pGBrp0HyLyEv_YWOhxmzw"
+      },
+      "contentDetails": {
+        "videoId": "T_0IE8PF1sY",
+        "videoPublishedAt": "2020-06-24T12:42:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qCSDbAIspTjwIbp01b0U9LyAI0o",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:13:54Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Parsing Alternatives Using Functor, Applicative & Alternative (JSON Parser from Scratch in Haskell)",
+        "description": "Let's implement Functor, Applicative and Alternative to get more parser combinators for free. The we can parse alternatives (e.g. true OR false OR null).\n\nThis series will focus on Haskell, parser combinators and property-based testing using QuickCheck.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vH3kWezqbHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vH3kWezqbHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vH3kWezqbHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vH3kWezqbHM"
+        },
+        "videoOwnerChannelTitle": "Michael Gilliland",
+        "videoOwnerChannelId": "UCnw33kRSHT8736gwEERDswA"
+      },
+      "contentDetails": {
+        "videoId": "vH3kWezqbHM",
+        "videoPublishedAt": "2019-11-24T03:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lsw9xTIKv4E8c-H_S_WB9FWpbRQ",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:14:03Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "YOW! Lambda Jam 2017 George Wilson - The Extended Functor Family #YOWLambdaJam",
+        "description": "Functors are ubiquitous in modern strongly-typed functional programming. Every Haskell beginner will come across them as one of the first typeclasses introduced. Stronger structures such as Applicative and Monad often steal the spotlight, but there are many structures related to the humble Functor that go unnoticed. The goal of this talk is to show off and give an intuition for some of these other structures: contravariant functors, bifunctors, and profunctors. With some of these making their way into Haskell\u2019s standard library recently, now is a perfect time to be introduced to or brush up on these concepts. Code examples will use Haskell, but these techniques extend to any language with typeclasses or a similar mechanism, such as Scala\u2019s implicits.\n\nGeorge Wilson is an enthusiastic functional programmer from Brisbane. George\nengineers web services in Scala at Ephox by day, and waxes poetic about lenses and all things Haskell at Brisbane Functional Programming Group by night.\n\nFor more on YOW! Lambda Jam, visit http://lamdajam.yowconference.com.au",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUVMiRRq6wU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUVMiRRq6wU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUVMiRRq6wU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JUVMiRRq6wU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JUVMiRRq6wU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JUVMiRRq6wU"
+        },
+        "videoOwnerChannelTitle": "Skills Matter (formerly YOW! Conferences)",
+        "videoOwnerChannelId": "UCAvGvvEemkeX8hurdPXr7hA"
+      },
+      "contentDetails": {
+        "videoId": "JUVMiRRq6wU",
+        "videoPublishedAt": "2017-07-01T13:49:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZguQZTtulE5Eyd9uFUAqCBuaoZ4",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:14:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Applicatives part 2",
+        "description": "Function.prototype.apply()\n\nIf you know it, you love it. Today, we'll see how we can generalize this mechanism so that we can \"apply\" it anywhere.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fw0JkUcs-9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fw0JkUcs-9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fw0JkUcs-9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fw0JkUcs-9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fw0JkUcs-9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fw0JkUcs-9c"
+        },
+        "videoOwnerChannelTitle": "Frontside",
+        "videoOwnerChannelId": "UCk1tsztXAPn8whxMA9cYLLA"
+      },
+      "contentDetails": {
+        "videoId": "Fw0JkUcs-9c",
+        "videoPublishedAt": "2018-01-12T18:55:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WuMayRL4xFc4w-NfBEdMel5BWLM",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:14:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "An Intuitive Introduction to Monads in Under 10 Minutes",
+        "description": "(Don't worry, I'll be back with smw stuff now. I just needed to make this tutorial because the computerphile video was bothering me)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nq-q2USYetQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nq-q2USYetQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nq-q2USYetQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nq-q2USYetQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nq-q2USYetQ"
+        },
+        "videoOwnerChannelTitle": "shelljump",
+        "videoOwnerChannelId": "UCzzH0uhOxtTN9Zm0Gj6y6vg"
+      },
+      "contentDetails": {
+        "videoId": "Nq-q2USYetQ",
+        "videoPublishedAt": "2017-12-15T02:22:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6LkvAWGBEMx8RUrRzzdcMOmxGxM",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:15:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Simplicity in Composition\u2014Adelbert Chang",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XV0o-hy1WUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XV0o-hy1WUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XV0o-hy1WUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XV0o-hy1WUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XV0o-hy1WUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XV0o-hy1WUM"
+        },
+        "videoOwnerChannelTitle": "Scala World",
+        "videoOwnerChannelId": "UCc0j7uOItUDh7vEvPb-TeCg"
+      },
+      "contentDetails": {
+        "videoId": "XV0o-hy1WUM",
+        "videoPublishedAt": "2017-10-31T15:19:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_SqX0swRlX5JIKj_juegBMZgHR0",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:15:29Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Adam McCullough - Monad Transformers for the Easily Confused - \u03bbC 2018",
+        "description": "Monads are not composable. This poses a problem, since composition is one of the foremost patterns in functional programming. However, many alternatives have been devised. One of the most common is the monad transformer.\n\nMonad transformers allow developers to compose the effects of different monads, even if the monads themselves are not the same. An example is writing a do-statement that can: abort computation (ExceptT), thread state (StateT), and connect to a database (via a Haskell library such as persistence or esqueleto).\n\nThe transformers package is used by over 2,500 packages on Stackage. But using monad transformers is a challenge for many, even if they are already writing useful, effectful, production Haskell.\n\nThis talk hopes to de-mystify monad transformers by giving both theoretical and practical code examples. We will start with small examples, to develop an intuition for how they work, and evolve that understanding until we are working with a functional web app that talks to a SQLite back end.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SMj-n2f7wYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SMj-n2f7wYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SMj-n2f7wYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SMj-n2f7wYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SMj-n2f7wYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SMj-n2f7wYY"
+        },
+        "videoOwnerChannelTitle": "LambdaConf",
+        "videoOwnerChannelId": "UCEtohQeDqMSebi2yvLMUItg"
+      },
+      "contentDetails": {
+        "videoId": "SMj-n2f7wYY",
+        "videoPublishedAt": "2018-12-20T21:45:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XbzumATfJBel6KI98mnie0lI-1k",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:15:38Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "FSiS Part 5 - Parametricity and the Traverse type class",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D0Fnzr15BAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D0Fnzr15BAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D0Fnzr15BAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D0Fnzr15BAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D0Fnzr15BAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D0Fnzr15BAU"
+        },
+        "videoOwnerChannelTitle": "Scala / mpilquist",
+        "videoOwnerChannelId": "UC61cqIh_Yt2LT_fhQ5j4uoQ"
+      },
+      "contentDetails": {
+        "videoId": "D0Fnzr15BAU",
+        "videoPublishedAt": "2015-04-23T03:24:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6ZzPBvOfMEA4CJuJ89SWmTed4os",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:15:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Constraints Liberate, Liberties Constrain \u2014 Runar Bjarnason",
+        "description": "As programmers, we tend to think of expressive power of a language or library as an unmitigated good. In this talk I want to show the contrary; that restraint and precision are usually better than power and flexibility. A constraint on component design leads to freedom and power when putting those components together into systems.\n\nWhat\u2019s more, this feature is built into the very nature of language and reasoning.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GqmsQeSzMdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GqmsQeSzMdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GqmsQeSzMdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GqmsQeSzMdw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GqmsQeSzMdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GqmsQeSzMdw"
+        },
+        "videoOwnerChannelTitle": "Scala World",
+        "videoOwnerChannelId": "UCc0j7uOItUDh7vEvPb-TeCg"
+      },
+      "contentDetails": {
+        "videoId": "GqmsQeSzMdw",
+        "videoPublishedAt": "2016-01-04T11:09:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O_cqlJVbVkIiPFPTkJEx9IZGg2c",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:16:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "61 - Imperative to Functional with Applicatives",
+        "description": "https://runkit.com/reidnevans/61-imperative-to-functional---applicative",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V--nhUpTIwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V--nhUpTIwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V--nhUpTIwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V--nhUpTIwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V--nhUpTIwM"
+        },
+        "videoOwnerChannelTitle": "Reid Evans",
+        "videoOwnerChannelId": "UCMxR2KmDlDMEsvfKOjzRNbA"
+      },
+      "contentDetails": {
+        "videoId": "V--nhUpTIwM",
+        "videoPublishedAt": "2017-10-06T12:58:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Jms7kAuJqWU7mnOZ2KRxVpgnGV8",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:16:23Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Selective Applicative Functors",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h3XEHRX4isk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h3XEHRX4isk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h3XEHRX4isk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h3XEHRX4isk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h3XEHRX4isk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h3XEHRX4isk"
+        },
+        "videoOwnerChannelTitle": "ACM SIGPLAN",
+        "videoOwnerChannelId": "UCwG9512Wm7jSS6Iqshz4Dpg"
+      },
+      "contentDetails": {
+        "videoId": "h3XEHRX4isk",
+        "videoPublishedAt": "2019-12-11T06:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eupnuZ83XJ_ft8xqTfMIb-xKXFw",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:16:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "FSiS Part 2 - Applicative type class",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tD_EyIKqqCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tD_EyIKqqCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tD_EyIKqqCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tD_EyIKqqCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tD_EyIKqqCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tD_EyIKqqCk"
+        },
+        "videoOwnerChannelTitle": "Scala / mpilquist",
+        "videoOwnerChannelId": "UC61cqIh_Yt2LT_fhQ5j4uoQ"
+      },
+      "contentDetails": {
+        "videoId": "tD_EyIKqqCk",
+        "videoPublishedAt": "2015-04-23T03:24:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EWkLaxH7qj_3BYtS5hrkA4sZFgs",
+      "id": "UExJamhmbHVoTmQ5OTRmb2NHWGdncERKUFhNYVVoY3ZQVy41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-10-11T16:17:00Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "YOW! Lambda Jam 2018 - George Wilson - Contravariant Functors: The Other Side of the Coin #YOWLJ",
+        "description": "Since their introduction, Applicative and its sidekick Alternative have become ubiquitous and beloved type classes in Haskell and similar languages such as Purescript. By contrast, their contravariant counterparts are relatively unknown. These contravariant structures are useful, and their time has come!\n\nIn this talk, we will learn about Contravariant, and its subclasses Divisible and Decidable. How do they work? How do they relate to the classes we know? Are they useful? For what? This talks aims to demystify these classes in an approachable way, by demonstrating their use with practical motivating examples.\n\nGeorge is an enthusiastic programmer working at the Queensland Functional Programming Lab within Data61/CSIRO. George loves working with and speaking about Functional Programming, usually in Haskell. George is also a co-organiser of the Brisbane Functional Programming Group, and a member of the Haskell.org committee.\n\nFor more on YOW! Conference, visit http://www.yowconference.com.au",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IJ_bVVsQhvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IJ_bVVsQhvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IJ_bVVsQhvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IJ_bVVsQhvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IJ_bVVsQhvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IJ_bVVsQhvc"
+        },
+        "videoOwnerChannelTitle": "Skills Matter (formerly YOW! Conferences)",
+        "videoOwnerChannelId": "UCAvGvvEemkeX8hurdPXr7hA"
+      },
+      "contentDetails": {
+        "videoId": "IJ_bVVsQhvc",
+        "videoPublishedAt": "2018-07-17T01:00:02Z"
+      }
+    }
+  ]
+}

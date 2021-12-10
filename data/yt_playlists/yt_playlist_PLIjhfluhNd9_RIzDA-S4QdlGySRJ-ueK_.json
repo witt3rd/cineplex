@@ -1,50 +1,50 @@
 {
-  "_id": "PLIjhfluhNd98r3U5HIlP2yRhlFSJL3v6x",
-  "as_of": "2021-12-10 00:22:07.784411",
+  "_id": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
+  "as_of": "2021-12-10 00:21:41.763715",
   "playlist": {
     "kind": "youtube#playlist",
-    "etag": "YUnLhLmrRQCLJ0orB6XqzYf6LV0",
-    "id": "PLIjhfluhNd98r3U5HIlP2yRhlFSJL3v6x",
+    "etag": "JWrNuyCBlJhr54fmlSYE8GiMwb0",
+    "id": "PLIjhfluhNd9_RIzDA-S4QdlGySRJ-ueK_",
     "snippet": {
-      "publishedAt": "2021-11-25T16:38:52Z",
+      "publishedAt": "2017-10-27T21:18:36Z",
       "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
-      "title": "\ud83d\udee1\ufe0f Sparta",
+      "title": "Physics",
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/default.jpg",
+          "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/0SYTrWNMVJw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p7bzE1E5PMY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "channelTitle": "Donald Thompson",
       "localized": {
-        "title": "\ud83d\udee1\ufe0f Sparta",
+        "title": "Physics",
         "description": ""
       }
     },
     "contentDetails": {
-      "itemCount": 8
+      "itemCount": 29
     }
   }
 }

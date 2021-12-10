@@ -1,0 +1,436 @@
+{
+  "_id": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+  "as_of": "2021-12-10 00:22:07.443863",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "asW1YlFjCKL-kAXA7TU8Opxh3ig",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-30T23:32:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Timemaster",
+        "description": "A CD-ROM video game trailer for the 1995 film, Timemaster (https://www.imdb.com/title/tt0114676/)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9mSPNF0dKOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9mSPNF0dKOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9mSPNF0dKOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9mSPNF0dKOQ"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "9mSPNF0dKOQ",
+        "videoPublishedAt": "2020-03-30T15:57:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cirNvQt6e32u-ioO0pcDtf9TTZo",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-30T23:32:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Confession",
+        "description": "A semi-autobiographical student film by Tim Kelly (Gene Kelly's son).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xx_Om-AyYf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xx_Om-AyYf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xx_Om-AyYf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xx_Om-AyYf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xx_Om-AyYf8"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "Xx_Om-AyYf8",
+        "videoPublishedAt": "2020-03-30T16:19:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cCF4ZI7GvgMJ6QtOqEHTq5BBOeA",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-04-05T17:15:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Our Time (1985; VHS; Julie Segment)",
+        "description": "This is my sister, Julie.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q3MAaT9eZMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q3MAaT9eZMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q3MAaT9eZMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q3MAaT9eZMc"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "q3MAaT9eZMc",
+        "videoPublishedAt": "2020-04-05T17:14:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3Kvu91ngTjo_3kleDFUOtLkpcTk",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-04-05T19:17:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "C&R Clothiers Commercial (1985)",
+        "description": "Trivia: the cinematographer on this shoot was the legendary Vilmos Zsigmond (https://en.wikipedia.org/wiki/Vilmos_Zsigmond).  Hey, everybody's gotta make a livin'.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qp1U2QlpZgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qp1U2QlpZgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qp1U2QlpZgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qp1U2QlpZgc"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "qp1U2QlpZgc",
+        "videoPublishedAt": "2020-04-05T19:07:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8GTqh_7VF8wqg-WIwb_0p38k4u8",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-04-05T19:18:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Murray Street Machine BMX Bike (1985)",
+        "description": "Early commercial work",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MGVWLxGkjeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MGVWLxGkjeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MGVWLxGkjeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MGVWLxGkjeQ"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "MGVWLxGkjeQ",
+        "videoPublishedAt": "2020-04-05T18:57:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_3Fa-aq3ot22yoEmPEpYeC0Oc1k",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-04-05T19:18:51Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Star Wars Y-Wing Fighter commercial (1984)",
+        "description": "If you were a kid in the 70s and 80s, you had Star Wars action figures.  It is pretty cool to be a (very small) part of history.  Trivia: in addition to my part and making the R2D2 noises, they had me wear the other kid's sweater and be the \"hand model\" for the flying sequence.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vz5OhZOe9yE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vz5OhZOe9yE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vz5OhZOe9yE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vz5OhZOe9yE"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "Vz5OhZOe9yE",
+        "videoPublishedAt": "2020-04-05T19:18:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uVj-wWHDyHsrpbiV6ioRjnaHdSg",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-04-05T19:18:57Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "McDonalds Ice Skating Christmas Commercial (1982)",
+        "description": "My first commercial!  Earned me entry into the Screen Actor's Guild (SAG), which was pretty rare.  You couldn't get a union job without being in the union, and you couldn't get into the union without a union job.  Also, this was filmed inside an L.A. soundstage over 3 days in the middle of summer.  The soundstage had previously been used for Dorothy Hammill special (https://en.wikipedia.org/wiki/Dorothy_Hamill).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KEdexShzc48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KEdexShzc48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KEdexShzc48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KEdexShzc48"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "KEdexShzc48",
+        "videoPublishedAt": "2020-04-05T19:18:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_MOSW6OzyqMjpGy6F0wBYeWbVtk",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-04-05T19:19:07Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "80's Ads: Murray Street Machine BMX Bike 1985",
+        "description": "80's Ads: Murray Street Machine BMX Bike 1985",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3JgiXY4TDKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3JgiXY4TDKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3JgiXY4TDKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3JgiXY4TDKo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3JgiXY4TDKo"
+        },
+        "videoOwnerChannelTitle": "PhakeNam",
+        "videoOwnerChannelId": "UCAgFi-vOt80uu4Et_i5GxxA"
+      },
+      "contentDetails": {
+        "videoId": "3JgiXY4TDKo",
+        "videoPublishedAt": "2014-12-24T19:44:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eyHUdVwt3aEFRdY1RPlHEP6Q6-c",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-04-06T15:07:49Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Elvis: The Early Years (1990; VHS; Scene)",
+        "description": "This is the last bit of professional acting I did before dedicating myself to the much sexier career choice of software engineering.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IwfdFAF3vmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IwfdFAF3vmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IwfdFAF3vmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IwfdFAF3vmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IwfdFAF3vmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IwfdFAF3vmc"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "IwfdFAF3vmc",
+        "videoPublishedAt": "2020-04-06T15:07:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "98wyc0ucW5YRsyTE5xV1LxojvJ8",
+      "id": "UExJamhmbHVoTmQ5X3dVTDVLcFVwaGNPUHVGaFNMTWg2ci5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-04-06T16:25:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Convicted: A Mother's Story (1987; VHS; Scene)",
+        "description": "Please don't #metoo me - it was only acting!  My first (and only) on-screen \"kiss.\"  Also, Fred Savage before the Wonder Years.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qgTucw-DJiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qgTucw-DJiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qgTucw-DJiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9_wUL5KpUphcOPuFhSLMh6r",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qgTucw-DJiA"
+        },
+        "videoOwnerChannelTitle": "Donald Thompson",
+        "videoOwnerChannelId": "UCqsUJL5xIWuidR7sIrPLhAw"
+      },
+      "contentDetails": {
+        "videoId": "qgTucw-DJiA",
+        "videoPublishedAt": "2020-04-06T16:25:23Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "PLIjhfluhNd99ldXA4Ca0gpzTtivEUuAhd",
+  "as_of": "2021-12-10 00:21:41.763732",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "TPXeNT4jnJll-orOuK0WrrDGkCc",
+    "id": "PLIjhfluhNd99ldXA4Ca0gpzTtivEUuAhd",
+    "snippet": {
+      "publishedAt": "2021-08-22T02:14:30Z",
+      "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+      "title": "\ud83c\udfae Unity: Scriptable Objects",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Gkb_tcVXHJo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Gkb_tcVXHJo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Gkb_tcVXHJo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Gkb_tcVXHJo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Gkb_tcVXHJo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Donald Thompson",
+      "localized": {
+        "title": "\ud83c\udfae Unity: Scriptable Objects",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 25
+    }
+  }
+}

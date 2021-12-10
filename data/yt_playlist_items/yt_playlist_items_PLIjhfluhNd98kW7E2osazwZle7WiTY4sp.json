@@ -1,0 +1,1277 @@
+{
+  "_id": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+  "as_of": "2021-12-10 00:22:03.277599",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m9NDDEaBfXWLO9QCBpTFE4Rgi2Q",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-08-09T14:14:53Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Everything you need to know when buying/using an Oscilloscope! EB#49",
+        "description": "Visit Brilliant.org and get a 20% discount: https://Brilliant.org/GreatScott/\nPrevious video: https://youtu.be/_lDm0RV9IV8\nCurrent Clamp video: https://youtu.be/ohQF79cMODw\nPower form video: https://youtu.be/cxXmWZDwNEs\n\nFacebook: https://www.facebook.com/greatscottlab\nTwitter: https://twitter.com/GreatScottLab\nSupport me for more videos: https://www.patreon.com/GreatScott?ty=h\nAltium Designer: https://altium.com/yt/greatscott!\n\nYou can get a decent (4 channel, low cost) scope here (affiliate links):\nhttps://amzn.to/3k0yOAn\nhttps://s.click.aliexpress.com/e/_Aqd2VG\nYou can get a differential probe here (affiliate links):\nhttps://amzn.to/3AQdFzq\nhttps://s.click.aliexpress.com/e/_9IoEt4\n\nWebsites which were shown in the video:\nhttps://www.batronix.com/shop/oscilloscopes/DSO.html\nhttps://www.batronix.com/shop/oscilloscopes/Keysight-MSOX3054T.html\nhttps://www.batronix.com/shop/oscilloscopes/Keysight-DSOX1204G.html\nhttps://www.batronix.com/shop/oscilloscopes/Rigol-DS1052E.html\n\nIn this electronics basics episode we will be having a look at the biggest mistake you can do when working with an oscilloscope. But I will not only show you how to do safe mains voltage measurements but also show you all the basics when it comes to oscilloscopes. That means I will show you how to choose one, how to do simple voltage and current measurements and finally how FFT works. I will explain passive probes, triggering, voltage & time division, measuring functions, the cursor function, AC & DC coupling and single mode capturing. Let's get started!\n\nThanks to Brilliant.org for sponsoring this video.\n\nMusic:\n2011 Lookalike by Bartlebeats\n\n0:00 The big mistake when using an oscilloscope\n1:08 Intro\n2:02 How to choose a scope?\n4:44 Passive probes & scaling factor\n5:55 Trigger\n6:41 Voltage division\n7:11 Time division\n7:37 Measure function\n7:47 Cursor function\n8:19 AC & DC coupling\n9:08 Single mode capturing\n9:36 Current measurement\n10:16 Safe mains voltage measurement\n11:37 Differential probe\n11:52 Math & FFT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d58GzhXKKG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d58GzhXKKG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d58GzhXKKG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d58GzhXKKG8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d58GzhXKKG8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d58GzhXKKG8"
+        },
+        "videoOwnerChannelTitle": "GreatScott!",
+        "videoOwnerChannelId": "UC6mIxFTvXkWQVEHPsEdflzQ"
+      },
+      "contentDetails": {
+        "videoId": "d58GzhXKKG8",
+        "videoPublishedAt": "2021-08-08T14:58:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5kPDH617OjU5alOQIm6UlGVa-No",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-08-09T14:36:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "LED Complete Basics for Beginners",
+        "description": "LED Complete Basics for Beginners\nGet 5 PCB's for $5 (plus shipping) - https://www.pcbway.com/\nIn this video we cover the basic principles of LEDs work and how to use them. We look at the 3 key things you MUST know to work with LED's: Polarity, Forward Voltage, and Current. Knowing the forward voltage and current will allow you to choose the right resistor to keep your LED from blowing up.\n\n\nAll of my PCB designs are available from PCBWAY: https://www.pcbway.com/project/member/?bmbno=8F7F0A32-4F5F-4C\nMy Amazon link: Anything you buy through this link helps support the channel, it doesn't cost you extra, and I make a few%. https://amzn.to/3706t6c\nYes!! I now have merch: https://teespring.com/stores/learnelectronics-store?page=1 Electronics themed T-ShirtsIf you are shopping for electronic components, test gear or consumables please consider visiting my Amazon shop @ https://www.amazon.com/shop/learnelectronics\nPlease check out https://www.patreon.com/learnelectronics and pledge a dollar if you can. It will go a long way to keeping the channel alive. It costs a bit of money to buy all the items and produce these videos. You help is appreciated.\n---------------------------------------------------------------------------------------------------------------------\nOr....if you'd like to send a one-time donation you can use this link: paypal.me/learnelectronics\n----------------------------------------------------------------------------------------------------------------------\n\nHere is all the gear I currently use:\nOscilloscope 1:  Rigol 1054Z   https://amzn.to/2PRybtN\nOscilloscope 2:  Siglent SDS1202X-E  https://amzn.to/31Kk1yH\nPower Supply 1:  TekPower TP3005N  https://amzn.to/2TeQnxI\nPower Supply 2:  RUIDENG DP50V5A  https://amzn.to/2sNicSe\nSignal Generator: JS2800    https://ban.ggood.vip/d9vk\nDMM1:   Owon18B   https://amzn.to/2SbIGLs\nDMM2:   Aneng 8008   https://amzn.to/2sNQncI\nDMM3:   Aneng 8009   https://amzn.to/2S5qeEp\nDMM4:   Uni-T UT801   https://amzn.to/2S89SuL\nSoldering Station1: Zeny (Yihua)862D+  https://amzn.to/2S49z4e\nSoldering Station2: KSGR T12   https://amzn.to/2Wk7Dn9\nLight Meter  Smart Sensor AS803  https://amzn.to/2B2gyRg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e4sxTnb_JPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e4sxTnb_JPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e4sxTnb_JPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e4sxTnb_JPY"
+        },
+        "videoOwnerChannelTitle": "learnelectronics",
+        "videoOwnerChannelId": "UCSRTiJhBE5GsP-1fCbpFRWg"
+      },
+      "contentDetails": {
+        "videoId": "e4sxTnb_JPY",
+        "videoPublishedAt": "2021-01-25T05:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GEe_eZo1MsRNz3bAdyjpDb-FHs4",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-08-10T22:40:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "EEVblog 1409 - The DANGERS of Inductor Back EMF",
+        "description": "A practical demonstration of Lenz's law and back EMF in an inductive relay coil and how to solve it using a Freewheeling/Flywheel/Flyback/Snubber/Clamp diode. Also the downsides of clamping diodes, and switch arcing supression.\nAlso a look at an AMAZING potential phenomenon you probably haven't seen before!\nActually, two rather cool things you probably haven't seen before.\nAlong with transistor ratings, transistor storage current, and Collector-Emitter breakdown voltage, there is a lot to unpack in this video.\n\nThis is a follow-on from the DC Transients Fundamentals video:\nhttps://www.youtube.com/watch?v=8nyNamrWcyE\n\n00:00 - Recap of Relays, Inductors, Faraday & Lenz's Laws\n02:30 - Relay Back EMF Explained\n07:09 - The Flywheel analogy of Inductors\n08:30 - Relay circuit demonstration\n12:35 - 700V Back EMF!\n14:43 - BJT Transistor Storage Time\n17:03 - Back EMF Diode clamp demonstrated\n19:06 - An AMAZING demonstration!\n24:43 - Trap for young players\n25:23 - DOWNSIDES of Back EMF Diodes\n28:38 - BONUS cool effect of Back EMF diode DEMONSTRATED\n\nForum: https://www.eevblog.com/forum/blog/eevblog-1409-the-huge-trap-of-inductor-back-emf/\n\nSubscribe on Odysee: https://odysee.com/@eevblog:7\nEEVblog Web Site: http://www.eevblog.com\nThe 2nd EEVblog Channel: http://www.youtube.com/EEVblog2\nEEVdiscover: https://www.youtube.com/eevdiscover\nSupport the EEVblog through Patreon! http://www.patreon.com/eevblog\n\nAliExpress Affiliate: http://s.click.aliexpress.com/e/c2LRpe8g\nBuy anything through that link and Dave gets a commission at no cost to you.\n\nDonate With Bitcoin & Other Crypto Currencies!\nhttps://www.eevblog.com/crypto-currency/\n\nT-Shirts: http://teespring.com/stores/eevblog\n#ElectronicsCreators #Tutorial #Inductors",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hReCPMIcLHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hReCPMIcLHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hReCPMIcLHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hReCPMIcLHg"
+        },
+        "videoOwnerChannelTitle": "EEVblog",
+        "videoOwnerChannelId": "UC2DjFE7Xf11URZqWBigcVOQ"
+      },
+      "contentDetails": {
+        "videoId": "hReCPMIcLHg",
+        "videoPublishedAt": "2021-07-25T13:55:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NLTDsgQCf6HhYoE3l8_q0aneQYQ",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-08-11T11:18:51Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Capacitor calculations - Basic calculations for capacitors in series and parallel",
+        "description": "Capacitor calculations - In this video we learn how the basics calculations for capacitors, capacitor charge, capacity, capacitor discharge time, capacitor charge time , capacitor time constant, series capacitors, parallel capacitors, how capacitors work in DC electronics circuits, basic electronics capacitor circuits.\nCorrection: 5:53 audio error: said \"23\u03bcF\" meant \"230\u03bcF\". Graphics on screen are correct.\n\nGood multimeter:\u27a1\ufe0f http://electricl.info/good-multimeter\u200b\u200b\u200b \nPro multimeter:\u27a1\ufe0f http://electricl.info/best-multimeter\u200b\u200b\u200b \nPower monitor plug:\u27a1\ufe0f http://engineerz.club/energy-plug\u200b\u200b\u200b \n\nWatch these:\nTransistor:\u27a1\ufe0f https://youtu.be/J4oO7PT_nzQ\u200b\nDiodes:\u27a1\ufe0f https://youtu.be/Fwj_d3uO5g8\u200b\u200b\nCapacitor:\u27a1\ufe0f https://youtu.be/X4EUwTwZ110\u200b\u200b\nBattery:\u27a1\ufe0f https://youtu.be/PXNKkcB0pI4\u200b\u200b\nVoltage regulator:\u27a1\ufe0f https://youtu.be/d-j0onzzuNQ\n\n\n\ud83d\udc4b SOCIALISE WITH US \ud83d\udc4b\n*******************************\n\ud83d\udc49FACEBOOK: https://facebook.com/theengineeringmindset/\n\ud83d\udc49TWITTER: https://twitter.com/TheEngMindset\n\ud83d\udc49INSTAGRAM: https://instagram.com/engineeringmindset/\n\ud83d\udc49WEBSITE: http://TheEngineeringMindset.com\n\n\ud83d\udc40 Links - MUST WATCH!! \ud83d\udc40\n*******************************\n\u26a1ELECTRICAL ENGINEERING\u26a1\n\ud83d\udc49How electricity works: https://youtu.be/mc979OhitAg\n\ud83d\udc49Three Phase Electricity: https://youtu.be/4oRT7PoXSS0\n\ud83d\udc49How Inverters work: https://youtu.be/ln9VZIL8rVs\n\ud83d\udc49How TRANSFORMER works: https://youtu.be/UchitHGF4n8\n\ud83d\udc49How 3 Phase electricity works: https://youtu.be/4oRT7PoXSS0\n\ud83d\udc49How Induction motor works: https://youtu.be/N7TZ4gm3aUg\n\ud83d\udc49What is a KWH: https://youtu.be/SMPhh8gT_1E\n\ud83d\udc49How induction motor works: https://youtu.be/N7TZ4gm3aUg\n\n\u2744\ufe0f CHILLER ENGINEERING \u2744\ufe0f\n\ud83d\udc49Chiller Efficiency improvements: https://youtu.be/8x3MiO5XjhY\n\ud83d\udc49Chilled water schematics: https://youtu.be/ak51DHAiuWo\n\ud83d\udc49Chiller crash course: https://youtu.be/K0xAKzdROEg\n\ud83d\udc49Chiller types: https://youtu.be/gYcNDT1d30k\n\ud83d\udc49Chillers/AHU/RTU: https://youtu.be/UmWWZdJR1hQ\n\ud83d\udc49Water cooled chiller Part1: https://youtu.be/0rzQhSXVq60\n\ud83d\udc49Water cooled chiller Part2: https://youtu.be/3ZpE3vCjNqM\n\ud83d\udc49Water cooled chiller advanced: https://youtu.be/QlKSGDgqGF0\n\ud83d\udc49Air cooled chiller: https://youtu.be/0R84hLprO5s\n\ud83d\udc49Absorption Chiller : https://youtu.be/Ic5a9E2ykjo\n\ud83d\udc49Chiller/Cooling tower/AHU: https://youtu.be/1cvFlBLo4u0\n\ud83d\udc49Chiller flow rate: https://youtu.be/tA1_V6-dThM\n\ud83d\udc49Chiller fault troubleshooting: https://youtu.be/Zu0LVVNNVSw\n\ud83d\udc49Chiller COP calculation: https://youtu.be/h5ILlZ8nyHE\n\ud83d\udc49Chiller cooling capacity calcs: https://youtu.be/BZxXIdxVKeY\n\ud83d\udc49Chiller compressors: https://youtu.be/7Bah__spkTY\n\ud83d\udc49Chiller expansion valve: https://youtu.be/dXiV5YzTZQ4\n\ud83d\udc49Chiller surge: https://youtu.be/DQK_-vxObiw\n\ud83d\udc49Chiller condenser: https://youtu.be/p5uuPsyqnwU\n\ud83d\udc49Chiller evaporator: https://youtu.be/W3w7FpX9j9k\n\ud83d\udc49Chiller compressor centrifugal: https://youtu.be/PT0UIqAGacg\n\ud83d\udc49Chiller cooling capacity: https://youtu.be/f-N4isgQRGQ\n\n\ud83c\udf21\ufe0f HVAC ENGINEERING \ud83c\udf21\ufe0f\n\ud83d\udc49HVAC Basics: https://youtu.be/klggop60vlM\n\ud83d\udc49Boilers/AHU/FCU: https://youtu.be/lDeuIQ4VeWk\n\ud83d\udc49How Heat Pump works: https://youtu.be/G53tTKoakcY\n\ud83d\udc49Heat pumps advanced: https://youtu.be/G53tTKoakcY\n\ud83d\udc49Fan Coil Units: https://youtu.be/MqM-U8bftCI\n\ud83d\udc49VAV Systems: https://youtu.be/HBmOyeWtpHg\n\ud83d\udc49CAV Systems: https://youtu.be/XgQ3v6lvoZQ\n\ud83d\udc49VRF Units: https://youtu.be/hzFOCuAho_4\n\ud83d\udc49Cooling load calculations: https://youtu.be/0gv2tJf7nwo\n\ud83d\udc49Pulley belt calculations: https://youtu.be/yxCBhD9nguw\n\ud83d\udc49Pump calculations: https://youtu.be/99vikjRrlgo\n\ud83d\udc49Fan and motor calculations: https://youtu.be/rl-HQRzL-kg\n\ud83d\udc49HVAC Cooling coils: https://youtu.be/oSs-4Ptcfhk\n\ud83d\udc49Cooling towers: https://youtu.be/UzHJWNL2OtM\n\n\u2697\ufe0f REFRIGERATION SYSTEMS \ud83c\udf21\ufe0f\n\ud83d\udc49How refrigerants work: https://youtu.be/lMqoKLli0Y4\n\ud83d\udc49Thermal expansion valves: https://youtu.be/oSLOHCOw3yg\n\ud83d\udc49Refrigeration design software: https://youtu.be/QqP5aY6liAg\n\ud83d\udc49Design refrigeration system: https://youtu.be/TPabv9iDENc\n\ud83d\udc49Reversing valve: https://youtu.be/r8n1_6qmsKQ\n\ud83d\udc49How A/C units work: https://youtu.be/Uv3GfEQhtPE\n\n\u2697\ufe0f REFRIGERANTS \u2697\ufe0f\n\ud83d\udc49Refrierant retrofit guide: https://youtu.be/1OqgLcU2buQ\n\ud83d\udc49Refrigerant types, future: https://youtu.be/J77a0keM2Yk\n\ud83d\udc49How refrigerants work: https://youtu.be/lMqoKLli0Y4\n\n\ud83c\udf0a HYDRONICS \ud83c\udf0a\n\ud83d\udc49Primary & Secondary system: https://youtu.be/KU_AypZ-BnU\n\ud83d\udc49Pumps: https://youtu.be/TxqPAPg4nb4\n\ud83d\udc49Pump calculations: https://youtu.be/99vikjRrlgo\n\n\ud83d\udd25\u27a1\ufe0f\u2744\ufe0f HEAT EXCHANGERS \ud83d\udd25\u27a1\ufe0f\u2744\ufe0f\n\ud83d\udc49Plate Heat Exchangers: https://youtu.be/br3gkrXTmdY\n\ud83d\udc49Micro plate heat exchanger: https://youtu.be/xrsbujk4u6k\n\n\ud83d\udcbb DATA CENTERS \ud83d\udcbb\n\ud83d\udc49Data Center cooling: https://youtu.be/xBxyhxmhigc\n\n\ud83d\udd2c PHYSICS \ud83d\udd2c\n\ud83d\udc49What is Density: https://youtu.be/r0Ej0xB-0C8\n\n\ud83c\udfac DOCUMENTARY \ud83c\udfac\n\ud83d\udc49WW2 Bunker HVAC engineering: https://youtu.be/xEzz-JkPeLQ\n\n#electrionics #engineering #electrical capacitors in series and parallel capacitance dielectric parallel plate capacitor voltage source energy stored in a capacitor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ucEiEic-kZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ucEiEic-kZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ucEiEic-kZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ucEiEic-kZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ucEiEic-kZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ucEiEic-kZ4"
+        },
+        "videoOwnerChannelTitle": "The Engineering Mindset",
+        "videoOwnerChannelId": "UCk0fGHsCEzGig-rSzkfCjMw"
+      },
+      "contentDetails": {
+        "videoId": "ucEiEic-kZ4",
+        "videoPublishedAt": "2021-04-04T15:13:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m7ve7v44WcQdLlfAznWBCXAQaZA",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-08-11T12:35:23Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Measurements with an SMU - Workbench Wednesdays",
+        "description": "Source Measurement Units, or SMUs, combine an accurate power supply, high-power electronic load, and precise digital voltmeter into a signal unit. They are a four-quadrant source. That means they can provide power to a circuit or consume it. With an SMU you can characterize semiconductor devices (like Diodes), monitor the power consumption of a circuit, or simulate a battery. In this video, see the difference between an SMU and a Power Supply: https://bit.ly/3qLwnol\n\nEngage with the element14 presents team on the element14 Community - suggest builds, find project files and behind the scenes video: http://bit.ly/2MFMG0v\n\nVisit the element14 Community for more great activities and free hardware:\n\nTech spotlights: http://bit.ly/2KLz0TS\nRoadtest and Reviews: http://bit.ly/2KH4fj3\nProject14: http://bit.ly/2wPnajx\n\n#SourceMeasureUnit #SMU #WorkbenchWednesdays",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T9m6rcv5Upk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T9m6rcv5Upk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T9m6rcv5Upk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T9m6rcv5Upk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T9m6rcv5Upk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T9m6rcv5Upk"
+        },
+        "videoOwnerChannelTitle": "element14 presents",
+        "videoOwnerChannelId": "UChturLXwYxwTOf_5krs0qvA"
+      },
+      "contentDetails": {
+        "videoId": "T9m6rcv5Upk",
+        "videoPublishedAt": "2021-06-30T13:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ELjtqGwA4ZTexNVhkvim3ctg5tE",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-08-11T23:43:52Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Transistors Explained - How transistors work",
+        "description": "Transistors how do transistors work. In this video we learn how transistors work, the different types of transistors, electronic circuit basics, how to build a transistor circuit, transistor amplifier, current gain beta, npn, pnp, heat sink, electronics and electrical engineering. Plus more!\n\nLEARN MORE HERE: https://theengineeringmindset.com/transistors-explained/\n\nGood multimeter:\u27a1\ufe0f http://electricl.info/good-multimeter\u200b \nPro multimeter:\u27a1\ufe0f http://electricl.info/best-multimeter\u200b \nPower monitor plug:\u27a1\ufe0f http://engineerz.club/energy-plug\u200b \n\nWatch these:\nDiodes:\u27a1\ufe0f https://youtu.be/Fwj_d3uO5g8\nCapacitor:\u27a1\ufe0f https://youtu.be/X4EUwTwZ110\nBattery:\u27a1\ufe0f https://youtu.be/PXNKkcB0pI4\nVoltage regulator:\u27a1\ufe0f https://youtu.be/d-j0onzzuNQ\n\n\n\ud83d\udc4b SOCIALISE WITH US \ud83d\udc4b\n*******************************\n\ud83d\udc49FACEBOOK: https://facebook.com/theengineeringmindset/\n\ud83d\udc49TWITTER: https://twitter.com/TheEngMindset\n\ud83d\udc49INSTAGRAM: https://instagram.com/engineeringmindset/\n\ud83d\udc49WEBSITE: http://TheEngineeringMindset.com\n\n\ud83d\udc40 Links - MUST WATCH!! \ud83d\udc40\n*******************************\n\u26a1ELECTRICAL ENGINEERING\u26a1\n\ud83d\udc49How electricity works: https://youtu.be/mc979OhitAg\n\ud83d\udc49Three Phase Electricity: https://youtu.be/4oRT7PoXSS0\n\ud83d\udc49How Inverters work: https://youtu.be/ln9VZIL8rVs\n\ud83d\udc49How TRANSFORMER works: https://youtu.be/UchitHGF4n8\n\ud83d\udc49How 3 Phase electricity works: https://youtu.be/4oRT7PoXSS0\n\ud83d\udc49How Induction motor works: https://youtu.be/N7TZ4gm3aUg\n\ud83d\udc49What is a KWH: https://youtu.be/SMPhh8gT_1E\n\ud83d\udc49How induction motor works: https://youtu.be/N7TZ4gm3aUg\n\n\u2744\ufe0f CHILLER ENGINEERING \u2744\ufe0f\n\ud83d\udc49Chiller Efficiency improvements: https://youtu.be/8x3MiO5XjhY\n\ud83d\udc49Chilled water schematics: https://youtu.be/ak51DHAiuWo\n\ud83d\udc49Chiller crash course: https://youtu.be/K0xAKzdROEg\n\ud83d\udc49Chiller types: https://youtu.be/gYcNDT1d30k\n\ud83d\udc49Chillers/AHU/RTU: https://youtu.be/UmWWZdJR1hQ\n\ud83d\udc49Water cooled chiller Part1: https://youtu.be/0rzQhSXVq60\n\ud83d\udc49Water cooled chiller Part2: https://youtu.be/3ZpE3vCjNqM\n\ud83d\udc49Water cooled chiller advanced: https://youtu.be/QlKSGDgqGF0\n\ud83d\udc49Air cooled chiller: https://youtu.be/0R84hLprO5s\n\ud83d\udc49Absorption Chiller : https://youtu.be/Ic5a9E2ykjo\n\ud83d\udc49Chiller/Cooling tower/AHU: https://youtu.be/1cvFlBLo4u0\n\ud83d\udc49Chiller flow rate: https://youtu.be/tA1_V6-dThM\n\ud83d\udc49Chiller fault troubleshooting: https://youtu.be/Zu0LVVNNVSw\n\ud83d\udc49Chiller COP calculation: https://youtu.be/h5ILlZ8nyHE\n\ud83d\udc49Chiller cooling capacity calcs: https://youtu.be/BZxXIdxVKeY\n\ud83d\udc49Chiller compressors: https://youtu.be/7Bah__spkTY\n\ud83d\udc49Chiller expansion valve: https://youtu.be/dXiV5YzTZQ4\n\ud83d\udc49Chiller surge: https://youtu.be/DQK_-vxObiw\n\ud83d\udc49Chiller condenser: https://youtu.be/p5uuPsyqnwU\n\ud83d\udc49Chiller evaporator: https://youtu.be/W3w7FpX9j9k\n\ud83d\udc49Chiller compressor centrifugal: https://youtu.be/PT0UIqAGacg\n\ud83d\udc49Chiller cooling capacity: https://youtu.be/f-N4isgQRGQ\n\n\ud83c\udf21\ufe0f HVAC ENGINEERING \ud83c\udf21\ufe0f\n\ud83d\udc49HVAC Basics: https://youtu.be/klggop60vlM\n\ud83d\udc49Boilers/AHU/FCU: https://youtu.be/lDeuIQ4VeWk\n\ud83d\udc49How Heat Pump works: https://youtu.be/G53tTKoakcY\n\ud83d\udc49Heat pumps advanced: https://youtu.be/G53tTKoakcY\n\ud83d\udc49Fan Coil Units: https://youtu.be/MqM-U8bftCI\n\ud83d\udc49VAV Systems: https://youtu.be/HBmOyeWtpHg\n\ud83d\udc49CAV Systems: https://youtu.be/XgQ3v6lvoZQ\n\ud83d\udc49VRF Units: https://youtu.be/hzFOCuAho_4\n\ud83d\udc49Cooling load calculations: https://youtu.be/0gv2tJf7nwo\n\ud83d\udc49Pulley belt calculations: https://youtu.be/yxCBhD9nguw\n\ud83d\udc49Pump calculations: https://youtu.be/99vikjRrlgo\n\ud83d\udc49Fan and motor calculations: https://youtu.be/rl-HQRzL-kg\n\ud83d\udc49HVAC Cooling coils: https://youtu.be/oSs-4Ptcfhk\n\ud83d\udc49Cooling towers: https://youtu.be/UzHJWNL2OtM\n\n\u2697\ufe0f REFRIGERATION SYSTEMS \ud83c\udf21\ufe0f\n\ud83d\udc49How refrigerants work: https://youtu.be/lMqoKLli0Y4\n\ud83d\udc49Thermal expansion valves: https://youtu.be/oSLOHCOw3yg\n\ud83d\udc49Refrigeration design software: https://youtu.be/QqP5aY6liAg\n\ud83d\udc49Design refrigeration system: https://youtu.be/TPabv9iDENc\n\ud83d\udc49Reversing valve: https://youtu.be/r8n1_6qmsKQ\n\ud83d\udc49How A/C units work: https://youtu.be/Uv3GfEQhtPE\n\n\u2697\ufe0f REFRIGERANTS \u2697\ufe0f\n\ud83d\udc49Refrierant retrofit guide: https://youtu.be/1OqgLcU2buQ\n\ud83d\udc49Refrigerant types, future: https://youtu.be/J77a0keM2Yk\n\ud83d\udc49How refrigerants work: https://youtu.be/lMqoKLli0Y4\n\n\ud83c\udf0a HYDRONICS \ud83c\udf0a\n\ud83d\udc49Primary & Secondary system: https://youtu.be/KU_AypZ-BnU\n\ud83d\udc49Pumps: https://youtu.be/TxqPAPg4nb4\n\ud83d\udc49Pump calculations: https://youtu.be/99vikjRrlgo\n\n\ud83d\udd25\u27a1\ufe0f\u2744\ufe0f HEAT EXCHANGERS \ud83d\udd25\u27a1\ufe0f\u2744\ufe0f\n\ud83d\udc49Plate Heat Exchangers: https://youtu.be/br3gkrXTmdY\n\ud83d\udc49Micro plate heat exchanger: https://youtu.be/xrsbujk4u6k\n\n\ud83d\udcbb DATA CENTERS \ud83d\udcbb\n\ud83d\udc49Data Center cooling: https://youtu.be/xBxyhxmhigc\n\n\ud83d\udd2c PHYSICS \ud83d\udd2c\n\ud83d\udc49What is Density: https://youtu.be/r0Ej0xB-0C8\n\n\ud83c\udfac DOCUMENTARY \ud83c\udfac\n\ud83d\udc49WW2 Bunker HVAC engineering: https://youtu.be/xEzz-JkPeLQ analog electronics 2n3904 layman's terms micro electronics jfet electronics engineering semiconductor\n#engineering #electronics #engineer \n\n-- Subtitle contributors --  With special thanks \n\u2b50 Arabic - Abdullah El Shamashergy - https://tinyurl.com/f7234fy9\n\u2b50 Greek - Christos Symeonidis - https://tinyurl.com/hbm6a99j\n\u2b50 French - Maxime Linka\n\u2b50 Russian - Denis Romanko\n\u2b50 Vietnamese - L\u00ea Th\u00e0nh Vinh\n\u2b50 Chinese - Ethan Wei\n\u2b50 Slovakian - Andrej Piecka\n\u2b50 Italian - Alessio Carta - https://tinyurl.com/5cuabbw7",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J4oO7PT_nzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J4oO7PT_nzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J4oO7PT_nzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J4oO7PT_nzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J4oO7PT_nzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J4oO7PT_nzQ"
+        },
+        "videoOwnerChannelTitle": "The Engineering Mindset",
+        "videoOwnerChannelId": "UCk0fGHsCEzGig-rSzkfCjMw"
+      },
+      "contentDetails": {
+        "videoId": "J4oO7PT_nzQ",
+        "videoPublishedAt": "2021-03-06T12:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FRdIfhcVvpu_B9pLmL-84maOZ4w",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-08-12T00:06:28Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Astable 555 timer - 8-bit computer clock - part 1",
+        "description": "Our computer's clock is built using several 555 timers. The first is configured as an astable oscillator. See https://eater.net/bbcpu8-clock-module for more.\n\nPart 2: https://youtu.be/81BgFhm2vz8\nPart 3: https://youtu.be/WCwJNnx36Rk\nPart 4: https://youtu.be/SmQ5K7UQPMM\n\nSupport me on Patreon: https://www.patreon.com/beneater\n\nYou can get all the components used in this video from any online electronic components distributor for a few dollars.\n\nComplete parts list (everything in this video):\n1x 555 timer IC\n1x 1M\u03a9 potentiometer\n2x 1k\u03a9 resistors\n1x 100k\u03a9 resistor\n1x 330\u03a9 resistor\n1x 2\u00b5F capacitor\n1x 0.1\u00b5F capacitor\n1x 0.01\u00b5F capacitor\n1x LED\nSolderless breadboard\n22 gauge wire\nUSB charger and cable or some other 5v power source",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRlSFm519Bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRlSFm519Bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRlSFm519Bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kRlSFm519Bo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kRlSFm519Bo"
+        },
+        "videoOwnerChannelTitle": "Ben Eater",
+        "videoOwnerChannelId": "UCS0N5baNlQWJCUrhCEo8WlA"
+      },
+      "contentDetails": {
+        "videoId": "kRlSFm519Bo",
+        "videoPublishedAt": "2016-03-17T23:35:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "45mTotSf30pOP27axxz4nPUhGrE",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-08-12T02:22:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to choose the right capacitor type for a circuit?! || Film vs. Ceramic vs. Electrolytic",
+        "description": "You want to know more about the W\u00fcrth Elektronik capacitors? Then click here: http://bit.ly/caps_Catalogue_EN and order your free samples.\nW\u00fcrth Elektronik Webinar \u201cHow to select the proper capacitor for your design\u201d: http://bit.ly/caps_Webinar_EN\nUseful application notes: http://bit.ly/caps_Appnote_EN\nSpecialist book \u201cABC of capacitors\u201d: http://bit.ly/caps_Specialistbook_EN\n\nPrevious video: https://youtu.be/VrcmvmM7h3Y\nFacebook: https://www.facebook.com/greatscottlab\nTwitter: https://twitter.com/GreatScottLab\nSupport me for more videos: https://www.patreon.com/GreatScott?ty=h\n\nIn this video we will have a closer look at a decoupling problem of one of my recent LED circuits. That means I will explain how a decoupling capacitor can save my circuit from harmful oscillations. Along the way I will talk about three popular capacitor types, the film capacitor, the ceramic capacitor and the electrolytic capacitor and explain which one is best suited for which application and why. Let's get started!\n\nThanks to the W\u00fcrth Elektronik eiSos Gruppe for sponsoring this video.\n\nMusic:\n2011 Lookalike by Bartlebeats\nKilling Time, Kevin MacLeod \n(incompetech.com)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2v8zBj7_sxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2v8zBj7_sxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2v8zBj7_sxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2v8zBj7_sxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2v8zBj7_sxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2v8zBj7_sxg"
+        },
+        "videoOwnerChannelTitle": "GreatScott!",
+        "videoOwnerChannelId": "UC6mIxFTvXkWQVEHPsEdflzQ"
+      },
+      "contentDetails": {
+        "videoId": "2v8zBj7_sxg",
+        "videoPublishedAt": "2019-04-21T14:56:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I4IrmFbk9_gGeWb6-NP30MsmmvI",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-08-12T04:57:32Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "MOSFETs and Transistors with Arduino",
+        "description": "Today we will learn how to use Transistors and MOSFETs to enable our Arduino to switch high-current DC loads, including a 12-volt RGB LED Strip Light.\n\nArticle at https://dronebotworkshop.com/transistors-mosfets/\nMore tutorials and projects at https://dronebotworkshop.com\nChat on the Forum at https://forum.dronebotworkshop.com\nJoin the newsletter - https://dronebotworkshop.com/subscribe/\n\nTransistors are the basic building block of modern electronics. Just about everything uses transistors, including the Arduino itself. \n\nUsing a power transistor or MOSFET we can drive high-current devices using the logic-level outputs from our Arduino. Today we\u2019ll learn to use both devices.\n\nWe will start with a simple transistor switch, you\u2019ll see how easy it is to switch a high-current DC lamp using a popular power transistor.\n\nInductive loads like motors and relays present an additional challenge, as these devices generate a \u201cback-EMF\u201d that we need to deal with. We\u2019ll use a diode to take care of the back-EMF and build a simple motor speed controller.\n\nWe will then turn our focus to MOSFETs. MOSFETs have a number of advantages over standard transistors. We will learn how to use popular MOSFET modules to control an RGB LED Strip in a simple but colorful experiment.\n\nHere is what is in today's video:\n\n00:00 - Introduction\n02:49 - Transistors and MOSFETs\n16:23 - Transistor Switching Demo\n22:54 - Transistor Motor Control\n29:52 - MOSFET RGB LED Strip Light Control\n\nPlease note that transistors and MOSFETs are great for controlling DC loads, but not AC. I\u2019ll be showing you how to control AC loads in a future video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IG5vw6P9iY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IG5vw6P9iY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IG5vw6P9iY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IG5vw6P9iY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IG5vw6P9iY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IG5vw6P9iY4"
+        },
+        "videoOwnerChannelTitle": "DroneBot Workshop",
+        "videoOwnerChannelId": "UCzml9bXoEM0itbcE96CB03w"
+      },
+      "contentDetails": {
+        "videoId": "IG5vw6P9iY4",
+        "videoPublishedAt": "2019-11-10T22:35:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F5PsV6GF7Eehj9oZNHFOCOagPNg",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-08-12T09:29:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Breadboarding & Prototyping for Electronics, Arduino & Raspberry Pi",
+        "description": "If you\u2019re new to experimenting with electronics, Arduino or Raspberry Pi then this is the video for you. Today I will show you the basics of prototyping using breadboards.\n\nArticle at https://dronebotworkshop.com/prototyping/\nMore articles and tutorials: https://dronebotworkshop.com\nJoin the conversation on the forum: https://forum.dronebotworkshop.com\nSubscribe to the newsletter and stay in touch: https://dronebotworkshop.com/subscribe/\n\nToday we will look at the design and prototyping process that you need to go through to successfully prototype an experiment or project.  \n\nIf solderless breadboards and Arduino prototyping shields are new to you then this video and its accompanying article are what you need to get started.  \n\nEven if you\u2019ve done a lot of breadboarding I\u2019ll also be showing off a few breadboard accessories, some of them homemade, so you may pick up an idea for what to stock your own workbench with.\n\nStarting with the design process I'll then go into the basics of solderless breadboards. They come in a number of different sizes and configurations, I\u2019ll be showing off some of the ones I use.\n\nNext, we will look at Arduino-specific prototyping accessories. Things like Interface Shields, Screw Shields, and prototyping boards. While most are intended for the Uno I will also show you items for the Mega 2560, the Nano, and a homemade jig I created for working with the Arduino Pro Mini.\n\nWe follow that with Raspberry-Pi accessories. Keep in mind that several SBCs use the Raspberry Pi GPIO, so these are useful beyond the Pi.  Again I'll show you a combination of store-bought and homemade accessories.\n\nThen we take a look at cables and simple test equipment that can be useful, if not essential, to troubleshooting and experimenting.\n\nFinally, we end with a quick look at perfboard, the next step after you have everything working on the breadboard.\n\nHere is the Table of Contents if you want to skip ahead:\n\n00:00 - Introduction\n02:05 - Design Process\n04:37 - Solderless Breadboards\n15:29 - Arduino Prototyping Tools\n22:20 - Raspberry Pi Prototyping Tools\n26:37 - Wires & Test Equipment\n33:00 - Perfboard\n\nHope you enjoy the video, if you haven\u2019t subscribed to the channel be sure to do that.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y3Kx2RlLXsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y3Kx2RlLXsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y3Kx2RlLXsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y3Kx2RlLXsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y3Kx2RlLXsY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y3Kx2RlLXsY"
+        },
+        "videoOwnerChannelTitle": "DroneBot Workshop",
+        "videoOwnerChannelId": "UCzml9bXoEM0itbcE96CB03w"
+      },
+      "contentDetails": {
+        "videoId": "Y3Kx2RlLXsY",
+        "videoPublishedAt": "2019-05-18T21:49:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cBFfKxPhFwh3PsWD3eAH7b2cgRg",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-08-12T09:34:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "DroneBot Workshop Tour - Welcome to the Workshop!",
+        "description": "Many people have requested a \u201ctour\u201d of my workshop. Today I will do exactly that. Welcome to the Workshop!\n\nProjects and tutorials at https://dronebotworkshop.com\nJoin the newsletter - https://dronebotworkshop.com/subscribe/\n\nThe DroneBot Workshop is not very big but there\u2019s a lot packed into this small space.  Today I will show you around the workshop and explain what all of that strange stuff on my workbench is. \n\nI\u2019ll also show you some pictures I took while I was constructing the workshop. You might be surprised to see how it looked before construction - I think it\u2019s fair to say that the transformation is nothing short of incredible!\n\nWhile I\u2019m pretty proud of the workshop, especially as I built it all myself, the real purpose of this video is to give you some ideas for building or enhancing your own workshop or workspace. I\u2019ll show you my two workbenches and also the pegboard that you see behind me in every video.\n\nI also found a very short video that I took right after I finished construction, it\u2019s pretty rough but rather amusing.\n\nThere is no corresponding article on the DroneBot Workshop website for this video, as the video pretty well says it all. But I do invite you to visit https://dronebotworkshop.com and check out all of the articles and tutorials.\n\nI also would like to make an announcement!\n\nI get a LOT of suggestions and requests for subjects that you\u2019d like me to do videos for, in fact, this video was made because it is one of the most common requests I\u2019ve received.  The suggestions come in many ways - emails sent directly to me, comments buried in the videos and also comments on the website.\n\nIn order to gather them all together I am putting together a webpage that you can use to make suggestions and to vote on the subjects I\u2019m planning to teach.  This way I can keep all of the requests and suggestions in one place, allowing me to make the content that you will enjoy and benefit from the most.\n\nI will be sending out all of the details in my next newsletter, so if you\u2019re not a subscriber yet please sign up at https://dbot.ws/dbnews. I\u2019m not trying to sell you anything I promise, I just want to keep in touch and finds out what subjects you'd like me to make articles and videos about.\nI hope you enjoy the video and that it gives you some ideas for creating the workshop of your dreams.\n\nWelcome to the workshop!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n838ifEFGTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n838ifEFGTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n838ifEFGTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n838ifEFGTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n838ifEFGTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n838ifEFGTk"
+        },
+        "videoOwnerChannelTitle": "DroneBot Workshop",
+        "videoOwnerChannelId": "UCzml9bXoEM0itbcE96CB03w"
+      },
+      "contentDetails": {
+        "videoId": "n838ifEFGTk",
+        "videoPublishedAt": "2019-04-06T16:53:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-cgo_7RTUV3oqtrH7Jf_fi5Zkl8",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-08-12T09:41:49Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Top 15 Arduino projects of 2021 | [All NEW Projects]",
+        "description": "If you love game-based projects, check out our Top 10 gaming projects based on Arduino and Raspberry pi:\nhttps://bit.ly/3j5vkgq\n\nIndividual Project Links:\n\n00:00 15. Continuum Robot Tentacle | Source: element14presents\nhttp://bit.ly/2MFMG0v\n\n00:50 14. DIY Safe Box | Source: Michael Klements\nhttps://www.youtube.com/watch?v=33jPNMU3N5Q\n\n01:35 13. Sand Coffee Table | Source: DIY Machines\nhttps://www.youtube.com/watch?v=Lng_AsmfBfU\n\n02:26 12. AC motor PID speed controller | Source: Saulius Bandzevi\u010dius\nhttps://www.youtube.com/watch?v=akyqGWIPrg0\n\n03:16 11. MIDI Mouse Controller | Source: Kzra\nhttps://www.youtube.com/watch?v=vHMShHjJebs\n\n03:58 10. Electronic component tester | Source: Mirko Pavleski\nhttps://www.youtube.com/watch?v=h38_4IwTVgI\n\n04:37 9. Coin MAGIC trick performing robot | Source: Mario the Maker Magician\nhttps://www.youtube.com/watch?v=JL_eYNQMAQU\n\n05:29 8. Tic Tac Toe Game | Source: Michael Klements\nhttps://www.youtube.com/watch?v=jzYa94ZsFe4\n\n06:27 7. stereo VU meter | Source: ericBcreator\nhttps://www.youtube.com/watch?v=QUnB4OGLlog\n\n07:06 6. Stepper Motor control | Source: The Motor Channel\nhttps://www.youtube.com/watch?v=sFFNaNCpwhI\n\n07:45 5. LED Bike Vest | Source: Eben Kouao\nhttps://www.youtube.com/watch?v=EcQnGt743YQ\n\n08:29 4. Arduino Robot with PS2 controller | Source: Igor Fonseca Albuquerque\nhttps://www.youtube.com/watch?v=1oH0zqkGxNc\n\n09:09 3. Arduino Audiometric Device | Source: Carlo Stramaglia\nhttps://www.youtube.com/watch?v=rA2Q1GM8yGo\n\n09:51 2. Smart Coffee Maker | Source: Yoshi Enterprises\nhttps://www.youtube.com/watch?v=f6TditsupEo\n\n10:46 1. Arduino Robot Arm | Source: Eben Kouao\nhttps://www.youtube.com/watch?v=F0ZvF-FbCr0\n\n--------------------------------------------------------------------------------------------------------------------\n\nFollow us on Instagram-\nhttps://www.instagram.com/tpc_insta/\n\nFollow us on Facebook-\nhttps://www.facebook.com/tpcFb/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QqIRedkgGAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QqIRedkgGAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QqIRedkgGAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QqIRedkgGAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QqIRedkgGAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QqIRedkgGAA"
+        },
+        "videoOwnerChannelTitle": "ToP Projects Compilation",
+        "videoOwnerChannelId": "UCakdd02jzfgmsXVsKbsKXfw"
+      },
+      "contentDetails": {
+        "videoId": "QqIRedkgGAA",
+        "videoPublishedAt": "2021-07-09T15:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Im9-wk4JrkRSHxXYrEDeDYwmfQ",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-08-13T07:57:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How To Turn Any Motor Into A Servo Motor (#075)",
+        "description": "I turn a treadmill motor into a high powered servo motor, to add lathe functionality to my CNC machine. This video shows you how to do it. \n\n\nIf you want to chip in a few bucks to support these projects, please visit my Patreon page. \n\nhttps://www.patreon.com/jeremyfieldingsr\n\nMy website www.jeremyfielding.com\n\nInstagram https://www.instagram.com/jeremy_fielding/?hl=en\n\nhttps://twitter.com/jeremy_fielding\n\n\n\n************************************\nNotes:\n\nUltimate CNC project Playlist \nhttps://www.youtube.com/playlist?list=PL4njCTv7IRbwDZ-iLPD2GSWrX_a8KFtU4\n\nWooden Lathe Series \nhttps://www.youtube.com/playlist?list=PL4njCTv7IRbzJJOFyQP5qsd_uuR6zTfS7\n\nDC speed controller/ DC power supply\nhttps://youtu.be/CeF1I18DhNc\n\n\n\n\nTechnical corrections\n\nNothing yet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7aU2ESpwp5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7aU2ESpwp5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7aU2ESpwp5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7aU2ESpwp5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7aU2ESpwp5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7aU2ESpwp5A"
+        },
+        "videoOwnerChannelTitle": "Jeremy Fielding",
+        "videoOwnerChannelId": "UC_SLthyNX_ivd-dmsFgmJVg"
+      },
+      "contentDetails": {
+        "videoId": "7aU2ESpwp5A",
+        "videoPublishedAt": "2019-09-30T23:50:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gsUHSDNgaPxyxoBHvSEvmDrMiZU",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-08-13T08:08:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Stepper Motors with Arduino - Controlling Bipolar & Unipolar stepper motors",
+        "description": "Learn how to use stepper motors with the Arduino.\n\nFull Article with Code at https://dronebotworkshop.com/stepper-motors-with-arduino/\nMore articles and tutorials: https://dronebotworkshop.com\nJoin the conversation on the forum: https://forum.dronebotworkshop.com\nSubscribe to the newsletter and stay in touch: https://dronebotworkshop.com/subscribe/\n\nToday we will be working with stepper motors, a versatile yet often misunderstood electromechanical component used in a variety of devices. \n\nAfter examining how stepper motors work and what the difference is between a \u201cBipolar\u201d and \u201cUnipolar\u201d stepper is I will show you how three methods of controlling a stepper motor with an Arduino:\n \n1 - A common 28YBJ-48 Unipolar Stepper with a ULN2003 driver board. These inexpensive stepper and driver combinations are very common and are available on eBay, Amazon, and probably in your local electronics store.  I\u2019ll show you two different ways to use these with two different Arduino libraries.\n\n2 - A NEMA 17 Bipolar stepper motor with an L298N dual H-Bridge driver board. We\u2019ve used the L298N driver board in another video to control a pair of brushed DC motors but it also makes a good driver for a bipolar stepper motor.\n\n3 - The same NEMA 17 Bipolar stepper motor controlled by an A4988 stepper driver. This common driver board is used in many 3D printers and CNC machines and simplifies the control of one or several stepper motors with an Arduino.\n\nI\u2019ll also discuss concepts like microstepping and I will show you how to understand some of the many parameters that are included on stepper motor specification sheets.\n\nIf you\u2019d like to jump ahead to a particular section in the video here is the table of contents:\n\n00:00 - Introduction\n01:34 - Stepper Motor Theory\n04:21 - Bipolar vs Unipolar Steppers\n08:18 - Common Stepper Specifications\n11:32 - NEMA motor sizes\n13:41 - 28YBJ-48 Unipolar Stepper with ULN2003\n28:16 - NEMA 17 Bipolar with L298N\n36:41 - NEMA 17 Bipolar with A4988\n\nAs always you can get all of the code I use in this video by visiting the DroneBot Workshop website and looking at the article at https://dbot.ws/stepper. You\u2019ll find code listings and hookup diagrams and well as a convenient ZIP file containing all of the Arduino sketches.\n\nHopefully, this video will inspire you to start using stepper motors in your own designs. \n\nNow let's get stepping!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0qwrnUeSpYQ"
+        },
+        "videoOwnerChannelTitle": "DroneBot Workshop",
+        "videoOwnerChannelId": "UCzml9bXoEM0itbcE96CB03w"
+      },
+      "contentDetails": {
+        "videoId": "0qwrnUeSpYQ",
+        "videoPublishedAt": "2018-02-10T14:12:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7qXHGVWOj5c8jVmIPP7GA-aIC0M",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-08-13T08:08:12Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Is This $100 Motor a Clearpath-Killer? | Lathe Electronic Leadscrew - Part 26",
+        "description": "We've got one last motor to test, and this one's interesting.  At $100, is it a match for the mighty Clearpath?  Let's find out!\n\n00:16 Intro\n00:47 The Motor\n03:43 First Power-Up\n05:13 Tech Support Experience\n11:25 Attempted Tuning\n14:56 Bench Testing\n20:12 Analysis\n25:12 Testing on the Lathe\n32:53 Recommendation\n\nThe motor tested in this video:\n\nNEMA23 180W 3000RPM Easy Servo (StepperOnline*): https://bit.ly/3gEjIi9\n\nOther recommended motors for 10x20 lathes:\n\nNEMA24 3N.M Closed Loop Stepper with HSS60 (Amazon*): https://amzn.to/3ozvpKN\n\nTools used in this video:\n\n500N Push Pull Force Gauge (Amazon*): https://amzn.to/3hwzXjn\nNeiko Digital Non-Contact Tachometer (Amazon*): https://amzn.to/3foeKpc\nShars Ultra Precision 1-2-3 Blocks (pair) (eBay*): https://ebay.to/2RxwqWc\nWilton 6-1/2\" Tradesman Vise (Amazon*): https://amzn.to/33fqPXz\nRigol DS1054Z Oscilloscope (Amazon*): https://amzn.to/2JlhlhR\nBondhus Metric Hex Key Set (Amazon*): https://amzn.to/3eqZzwb\nBondhus SAE Hex Key Set (Amazon*): https://amzn.to/3h9bJLZ\nExternal carbide threading tool: (eBay*): https://ebay.to/2Fx2zXA\nShars CCMT0602 RH turning tool holder (eBay*): https://ebay.to/2SUS4jL\nKyocera CCMT060204-HQ Cermet Inserts (eBay*): https://ebay.to/2QPV53h\nShars AXA Quick Change Tool Post Set (eBay*): https://ebay.to/2SWkUQZ\nAventor 8\" DPS IP54 Caliper (eBay*): https://ebay.to/37y1Tg3\nCratex Abrasive Block (Amazon*): https://amzn.to/3xx092f\n\n*These are affiliate links.  When you click one of these links and make a purchase, it helps to support projects like this one.\n\nRaw Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/clgpZJFoqIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/clgpZJFoqIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/clgpZJFoqIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "clgpZJFoqIQ"
+        },
+        "videoOwnerChannelTitle": "Clough42",
+        "videoOwnerChannelId": "UCeKpbMimEGgLM_0tnghfoVw"
+      },
+      "contentDetails": {
+        "videoId": "clgpZJFoqIQ",
+        "videoPublishedAt": "2021-06-19T16:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YpYIiL45dAgCT9eftZ2oTOFHPgI",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-08-13T22:24:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How Inverters Work - Working principle rectifier",
+        "description": "How inverters work. In this video we take a look at how an inverter works to convert direct current (DC) into Alternating current (AC).  Inverters are used increasingly throughout industry as well as building services HVAC systems to achieve precise control of AC induction motors connected to AHU fans, compressors pumps etc. Inverters are also used within photovoltaic arrays to provide AC power for use in homes and buildings. In this video we start at the basics to understand the difference between AC and DC power and then look at a simplified example before moving onto an advanced pulse width modulation (PWM) example to see how the load experiences and AC supply from a DC source by converting the direct current into a sine wave.\n\nLEARN MORE HERE: https://theengineeringmindset.com/how-inverters-work/\n\nSign up for our FREE engineers newsletter for updates, competitions, news and offers\n\ud83c\udf81 Link: http://engmind.info/Engineers-Report\n\nFind out more about the Optyma\u2122 Plus INVERTER - \u27a1\ufe0f http://bit.ly/OptymaPlusINVERTER\n\nThe Optyma\u2122 Plus INVERTER combines market leading expertise in condensing unit design with the unique benefits of stepless inverter scroll technology. The result is 25% higher energy efficiency in an adaptive package, for medium and high temperature refrigeration applications in the range of 2kW to 9kW with R407A, R407F, and R404A.\n\nInverter information \u27a1\ufe0f http://bit.ly/OptymaPlusINVERTER\n\n\u26a1\ud83d\udee0\ufe0f TOOLS YOU NEED \ud83d\udee0\ufe0f\u26a1\n*******************************\nMultimeter \u27a1\ufe0f http://electricl.info/Good-Multimeter\nPro Multimeter \u27a1\ufe0f http://electricl.info/Best-Multimeter\nEnergy Plug \u27a1\ufe0f http://engineerz.club/Energy-Plug\nGet this book \u27a1\ufe0f http://electricl.info/Best-Electricity-Guide\nGet this tool kit \u27a1\ufe0f http://electricl.info/Electronics-Kit\n\n\uf60e Get your Engineers T-shirts, Hoodies, Cups & stickers here:\n*******************************\nhttps://goo.gl/M1PGrx\n\n\u2615 Buy Paul a coffee to say thanks\n*******************************\n\u26a0\ufe0f *Found this video super useful?* Buy Paul a coffee to say thanks: \u2615\nPayPal: https://www.paypal.me/TheEngineerinMindset\n\n\uf64f Support us on Patreon\n*******************************\nhttps://www.patreon.com/theengineeringmindset\n\n\uf575\ufe0f Check out our website!\n*******************************\nhttp://TheEngineeringMindset.com\n\n\uf465 Socialise with us\n*******************************\nFACEBOOK: https://www.facebook.com/theengineeringmindset\nTWITTER: https://twitter.com/TheEngMindset\nInstagram: https://www.instagram.com/engineeringmindset/\nGoogle+: http://www.google.com/+Theengineeringmindset\nYouTube: http://www.youtube.com/theengineeringmindset\n\n\uf440 Links - MUST WATCH!! \uf440\n*******************************\n\u26a1\u26a1\u26a1ELECTRICAL ENGINEERING\u26a1\u26a1\u26a1\n\uf449How electricity works: https://youtu.be/mc979OhitAg\n\uf449Three Phase Electricity: https://youtu.be/4oRT7PoXSS0\n\uf449How Inverters work: https://youtu.be/ln9VZIL8rVs\n\uf449How TRANSFORMER works: https://youtu.be/UchitHGF4n8\n\uf449How 3 Phase electricity works: https://youtu.be/4oRT7PoXSS0\n\uf449How Induction motor works: https://youtu.be/N7TZ4gm3aUg\n\nHow water cooled chiller works Prt1 - https://youtu.be/0rzQhSXVq60\nHow water cooled chiller works Prt2 - https://youtu.be/3ZpE3vCjNqM\nHow Air cooled chiller works - https://youtu.be/0R84hLprO5s\nHow Absorption Chiller works - https://youtu.be/Ic5a9E2ykjo\nHow Heat Pump works: https://youtu.be/G53tTKoakcY\nPrimary & Secondary system: https://youtu.be/KU_AypZ-BnU\nFan Coil Units: https://youtu.be/MqM-U8bftCI\nVAV Systems: https://youtu.be/HBmOyeWtpHg\nCAV Systems: https://youtu.be/XgQ3v6lvoZQ\nVRF Units: https://youtu.be/hzFOCuAho_4\nHVAC Basics: https://youtu.be/klggop60vlM\nHeat Exchangers: https://youtu.be/br3gkrXTmdY\nPumps: https://youtu.be/TxqPAPg4nb4\nHow a Chiller, Cooling Tower and Air Handling Unit work together - https://youtu.be/1cvFlBLo4u0\n\n\uf527\uf528 Tools you need \uf527\uf528\n*******************************\nVDE Screwdriver set: http://amzn.to/2jd4lQc\nRatchet Screwdriver set: http://amzn.to/2iDLRsC\nTape Measure: http://amzn.to/2zbqq8z\nDrill: http://amzn.to/2iFj3Qy\nDrill bits: http://amzn.to/2hK4BG1\nAngle finder: http://amzn.to/2za6N0s\nMulti set square: http://amzn.to/2hIpWiY\nLevel: http://amzn.to/2BaHSLJ\nT handle hex allen key: http://amzn.to/2z9OEjs\nDigital vernier: http://amzn.to/2hI5K0D\nHammer: http://amzn.to/2hJj0lw\nCalculator: http://amzn.to/2z99yPx\nMultimeter: http://amzn.to/2Bbq5no\nHead torch: http://amzn.to/2z84sD7\nPocket torch: http://amzn.to/2zWfCyB\nMagnetic wristband: http://amzn.to/2iEnA5z\nLaser distance finder: http://amzn.to/2hL4KsM\nGorilla tape: http://amzn.to/2zqxiTm\n\n\ufe0f\uf3b5 Music attribute \ufe0f\uf3b5\n*******************************\nMusic provided by Spike's Vibes https://www.youtube.com/channel/UCLY3kskbNAeDl3utrSfccJA vfd rectifier industrial engineering danfoss\n#electrical #electricity #engineering",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ln9VZIL8rVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ln9VZIL8rVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ln9VZIL8rVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ln9VZIL8rVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ln9VZIL8rVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ln9VZIL8rVs"
+        },
+        "videoOwnerChannelTitle": "The Engineering Mindset",
+        "videoOwnerChannelId": "UCk0fGHsCEzGig-rSzkfCjMw"
+      },
+      "contentDetails": {
+        "videoId": "ln9VZIL8rVs",
+        "videoPublishedAt": "2017-12-12T21:44:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qDJMrkBl4rF7WpSK3BufNWEm-kI",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-08-14T03:45:28Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Using Servo Motors with Arduino",
+        "description": "Learn to use Servo Motors with an Arduino. Directly, and with a PCA9685 I2C Servo Driver.\n\nAccompanying article with code: https://dronebotworkshop.com/servo-motors-with-arduino/\nMore articles and tutorials: https://dronebotworkshop.com\nJoin the conversation on the forum: https://forum.dronebotworkshop.com\nSubscribe to the newsletter and stay in touch: https://dronebotworkshop.com/subscribe/\n\nToday we\u2019ll be making things move with Servo Motors!\n\nAnalog servo motors are inexpensive little powerhouses that can be perfect when you're designing something that needs to move. They pack a lot of torque for their size and their shaft position can be pretty accurately controlled.\n\nWe will start out by taking a look at how analog servo motors work and what kind of signal we\u2019ll need to control them. We will also learn how to read the specs so that we can choose the best servo motor for our application. \n\nThere are two types of servo motors we will look at - conventional servos that rotate 180 or 270 degrees and continuous rotation servo motors. \n\nThen it's time for the experiments. We will use a couple of the example sketches written for the Arduino Servo library to show just how easy it is to control a servo motor with an Arduino.\n\nWe will also examine a method of controlling LOTS of servo motors, the PCA9685 16-channel PWM controller board. As its name would imply this board lets you control 16 devices like servo motors and it interfaces to your Arduino or Raspberry Pi using the versatile I2C bus. \n\nAnd if 16 servos still isn\u2019t enough you can cascade up to 62 of these boards to drive an unimaginable 992 servo motors with just one Arduino!\n\nI\u2019ll settle for a more reasonable 4 servo motors, the 4 servo motors in the MeArm that I built in an earlier video. I\u2019ll show you how to build a controller for the MeArm using an Arduino Uno and a PCA9685 board.\n\nHere is the Table of Contents for this video:\n\n00:00 - Introduction\n02:14 - Servo Motor Basics\n07:26 - Understanding Servo Specifications\n09:25 - Servo Tester Demo\n14:09 - Arduino Sweep Sketch\n18:56 - Arduino Knob Sketch\n25:12 - The PCA9685\n30:05 - MeArm Controller\n\nAs always you'll find a detailed article on the DroneBot Workshop Website at https://dbot.ws/servo. It includes the sketches we cover in the video in an easy to download ZIP file as well as detailed explanations and links to other useful resources.\n\nAnd speaking of useful resources please sign up for the DroneBot Workshop newsletter at https://dbot.ws/dbnews . \n\nI hope you enjoy the video, and if you haven\u2019t already please subscribe to the YouTube channel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUHmYKWwuWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUHmYKWwuWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUHmYKWwuWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kUHmYKWwuWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kUHmYKWwuWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kUHmYKWwuWs"
+        },
+        "videoOwnerChannelTitle": "DroneBot Workshop",
+        "videoOwnerChannelId": "UCzml9bXoEM0itbcE96CB03w"
+      },
+      "contentDetails": {
+        "videoId": "kUHmYKWwuWs",
+        "videoPublishedAt": "2018-05-20T20:28:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0L14FPyOkYbjcD6AGpQfCkEXsiw",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-08-14T03:45:37Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Use Arduino to Control a Large Stepper Motor! Part 1",
+        "description": "Video Tutorial on how to control large, Nema 34 Stepper motors with an Arduino, a 24V power supply and an ST-M5045 microstepping driver. \n\nI'm no expert on this subject matter and am anticipating (hoping!) others may have comments with even better hardware or software tips and tricks - but in the meantime there doesn't seem to be much content on YouTube on driving large Steppers with Arduino's, and I've had quite a few email inquiries about it, so here it is!\n\nIn this video, we machine a 0.75\" hole in a ~7LB, 15\" 1/4 inch steel plate, then turn a bushing which will let us secured the plate to the stepper D-shaft.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nLinks for this video:\n\nArduino: http://amzn.to/1DCzygh\nNema 34 Stepper: http://amzn.to/1wZVrbf\nExample of similar driver: http://amzn.to/1wZVwvv\nBreadboard: http://amzn.to/1aThZRX\n\nArduino CNC Supplies: \nLinear Bearings: http://ebay.to/1BugvYh\nSteppers: http://ebay.to/1xNEJ02\nTiming Belt: http://ebay.to/1xNxthz\nPulley: http://ebay.to/1s0VPFj\n8mm Linear Rail: http://ebay.to/14rPWXB\nOne of my favorite Servos: http://amzn.to/1x6ObqQ\neBay Servo: http://ebay.to/1DPAdhI\n\nDIY Cheap Arduino CNC Machine: https://www.youtube.com/watch?v=WKmzlMvxC7I\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nReach us / CNC Info:\n\nManufacturing Entrepreneurship Resources:\nhttp://www.nyccnc.com\n\nBetter Speeds & Feeds?  https://provencut.com\n\nOnline Fusion 360 Training: http://bit.ly/LearnFusion\n\nHands-On CNC Classes:  http://www.nyccnc.com/events\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nI discovered machining as an adult and am grateful to have found something I love and am able to share with others. We hope NYC CNC not only makes you a better machinist but helps you understand and learn more about how to succeed as a manufacturing entrepreneur! 5 Reasons to Use a Fixture Plate on Your CNC Machine: https://bit.ly/3sNA4uH",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RakXequOrSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RakXequOrSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RakXequOrSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RakXequOrSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RakXequOrSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RakXequOrSY"
+        },
+        "videoOwnerChannelTitle": "NYC CNC",
+        "videoOwnerChannelId": "UCe0IyK4ntgdPTTjsxjvyHPg"
+      },
+      "contentDetails": {
+        "videoId": "RakXequOrSY",
+        "videoPublishedAt": "2013-10-23T11:35:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1oNHessvClHMw6HMT_3I1ihc_H4",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-08-14T03:45:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Use Arduino to Control a Large Stepper Motor! Part 2",
+        "description": "Testing code from three different Arduino programs to drive the large NEMA 34 Stepper, then increasing the load on the shaft to see how the Stepper handles the additional weight!\n\nVideo Tutorial on how to control large, Nema 34 Stepper motors with an Arduino, a 24V power supply and an ST-M5045 microstepping driver. \n\nI'm no expert on this subject matter and am anticipating (hoping!) others may have comments with even better hardware or software tips and tricks - but in the meantime there doesn't seem to be much content on YouTube on driving large Steppers with Arduino's, and I've had quite a few email inquiries about it, so here it is!\n\nIn this video, we machine a 0.75\" hole in a ~7LB, 15\" 1/4 inch steel plate, then turn a bushing which will let us secured the plate to the stepper D-shaft.\n\nArduino: http://amzn.to/1FWWc7F \nNema 34 Stepper: http://amzn.to/1wZVrbf\nExample of similar driver: http://amzn.to/1wZVwvv\n\nIf you enjoy this NYC CNC video please hit the like button and share with a friend, it really goes a long way!\n\nRecent Videos:\nHow I Quote CNC Machine Work: https://www.youtube.com/watch?v=AtFi9OQrBjk\nControl Large DC Motors with Arduino: https://www.youtube.com/watch?v=OW-Bf3yjUyE\n\nSubscribe For More - http://www.youtube.com/subscription_center?add_user=saunixcomp\nFollow Me on Twitter - http://twitter.com/nyccnc\nFacebook - https://www.facebook.com/nyccnc\nInstagram http://instagram.com/saundersmachineworks 5 Reasons to Use a Fixture Plate on Your CNC Machine: https://bit.ly/3sNA4uH",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WKdyBZvlFXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WKdyBZvlFXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WKdyBZvlFXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WKdyBZvlFXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WKdyBZvlFXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WKdyBZvlFXk"
+        },
+        "videoOwnerChannelTitle": "NYC CNC",
+        "videoOwnerChannelId": "UCe0IyK4ntgdPTTjsxjvyHPg"
+      },
+      "contentDetails": {
+        "videoId": "WKdyBZvlFXk",
+        "videoPublishedAt": "2013-10-25T10:28:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BY6lHWJ9g9Ds9lbF8IM1TI4okB8",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-08-14T03:46:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Setup Arduino UNO, CNC Shield v3, GRBL, and related CNC motion components and electronics.",
+        "description": "Install GRBL to Arduino UNO for use in CNC related applications.  Connecting CNC Shield v3 to Arduino UNO.  Installation of stepper motor drivers, DRV8825.  Sending GCode to GRBL controller.\n\nResources:\n\nSoftware:\nArduino IDE - https://www.arduino.cc/en/main/software\nGRBL - https://github.com/gnea/grbl/releases/tag/v1.1f.20170801\nUniversal GCode Sender - https://winder.github.io/ugs_website/\n\nVisit us at\nWeb - http://www.jtechcustoms.com\nFacebook - https://www.facebook.com/JTechCustomShop\nInstagram - https://www.instagram.com/JTechCustoms\nPinterest - https://www.pinterest.com/jtechcustoms/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hL2NtjQiJ5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hL2NtjQiJ5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hL2NtjQiJ5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hL2NtjQiJ5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hL2NtjQiJ5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hL2NtjQiJ5w"
+        },
+        "videoOwnerChannelTitle": "jtechcustoms",
+        "videoOwnerChannelId": "UCMboSLLQwzyjhPHj5Rec9Rg"
+      },
+      "contentDetails": {
+        "videoId": "hL2NtjQiJ5w",
+        "videoPublishedAt": "2020-01-24T06:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fIpiL7aAUbo3ccmstHLOidfGSV4",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-08-14T03:46:25Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "DIY Wire cutting and stripper Machine | Arduino project",
+        "description": "$2/5pcs 2Layer & $5/5pcs 4Layer PCBs:  https://jlcpcb.com\n\nHi guys in this video I have made a automatic wire cutter and stripper machine,\nI have used a nextion 2.8\" HMI for user interface from it you can enter the desire length of cuts for wire.\n\nArtillery Genius 3D Printer used to print parts \nstore link:https://www.aliexpress.com/item/4000245221544.html \nArtillery 3d offical website link:  www.artillery3d.com \n\nPLA filaments\nhttps://www.3idea.in/filaments/\n\nNema 17 stepper motor x 2\nA4988 stepper driver x 2\nArduino nano\nMicro servo motor \nNextion HMI\nWire cutter\n\n3D files\nhttps://pinshape.com/items/103601-3d-printed-arduino-wire-cutting-machine\n\nArduino code & HMI file loading.......\n\n#Arduino_project\n\ud83d\udcbbvisit for more projects :-\n\ud83d\udc49http://electricdiylab.com/\n\ud83d\udc49FB page :- https://www.facebook.com/InnovativeMr/\n\n\nMy Gears :- \n\n7 X 14 Mini lathe :- http://s.click.aliexpress.com/e/_dYSWSoq\n\nBench drill machine :- http://s.click.aliexpress.com/e/_d9mIaHg\n\nMini table saw :- http://s.click.aliexpress.com/e/_dXxGWue\n\nScroll saw :- http://s.click.aliexpress.com/e/_dVq9O62\n\n3D Printer : - http://s.click.aliexpress.com/e/_dVQlrZ8\n\nCamera :- http://amzn.to/2FO4W5E\n\nVideo Light :- http://amzn.to/2FNKzFL\n\nRotary tool :- http://amzn.to/2FM3Lnh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jl6ZATZypAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jl6ZATZypAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jl6ZATZypAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jl6ZATZypAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jl6ZATZypAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jl6ZATZypAQ"
+        },
+        "videoOwnerChannelTitle": "Mr Innovative",
+        "videoOwnerChannelId": "UCsOFElmDD3e8l-RGCabCZ9g"
+      },
+      "contentDetails": {
+        "videoId": "Jl6ZATZypAQ",
+        "videoPublishedAt": "2020-12-05T14:20:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zwp2vtZV9p1HKmgjDqTuuSNAW1A",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-08-14T03:46:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How Do DACs Work? - The Learning Circuit",
+        "description": "In this lesson of The Learning Circuit, Karen discusses digital to analog converters, or DACs. The world around us is analog, but the technology we use is often digital. So we need a way to make our technology communicate with the real world. Sensing the world around us generates analog signals. These can be converted to digital signals that our technology can understand by using ADCs. To get signals back out of our technology, sometimes we need to convert those digital signals back to analog. For this we use DACs. In this video, Karen explains how they work and why we need them: https://bit.ly/3rP6rsm\n\n\nEngage with the element14 presents team on the element14 Community - suggest builds, find project files and behind the scenes video: http://bit.ly/2MFMG0v\n\nVisit the element14 Community for more great activities and free hardware:\n\nTech spotlights: http://bit.ly/2KLz0TS\nRoadtest and Reviews: http://bit.ly/2KH4fj3\nProject14: http://bit.ly/2wPnajx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YAxrmoVtEtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YAxrmoVtEtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YAxrmoVtEtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YAxrmoVtEtE"
+        },
+        "videoOwnerChannelTitle": "element14 presents",
+        "videoOwnerChannelId": "UChturLXwYxwTOf_5krs0qvA"
+      },
+      "contentDetails": {
+        "videoId": "YAxrmoVtEtE",
+        "videoPublishedAt": "2021-08-04T13:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7DNJ2Lm_WSvzH6wDg6Pdhye_J_I",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-08-15T07:31:00Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Inductors Explained - The basics how inductors work working principle",
+        "description": "Inductors Explained, in this tutorial we look at how inductors work, where inductors are used, why inductors are used, the different types. We take an in depth look at how the circuits perform with a parallel resistive and inductive load as well as their profile with an oscilloscope.\n\nLEARN MORE HERE: https://theengineeringmindset.com/inductors-explained/\n\nSign up for our FREE engineers newsletter for updates, competitions, news and offers\n\ud83c\udf81 Link: http://engmind.info/Engineers-Report\n\nGet this meter: \u27a1\ufe0f http://electricl.info/Best-Multimeter\nLCR Multimeter \u27a1\ufe0f http://electricl.info/LCR-Multimeter\nLCR Meter \u27a1\ufe0f http://electricl.info/LCR-Meter\n\nVoltage Explained \ud83d\udc49 https://youtu.be/w82aSjLuD_8\nCurrent Explained \ud83d\udc49 https://youtu.be/8Posj4WMo0o\n\n\n\ud83d\udc4b SOCIALISE WITH US \ud83d\udc4b\n*******************************\n\ud83d\udc49FACEBOOK: https://facebook.com/theengineeringmindset/\n\ud83d\udc49TWITTER: https://twitter.com/TheEngMindset\n\ud83d\udc49INSTAGRAM: https://instagram.com/engineeringmindset/\n\ud83d\udc49WEBSITE: Http://TheEngineeringMindset.com\n\n\ud83d\udc40 Links - MUST WATCH!! \ud83d\udc40\n*******************************\n\u26a1ELECTRICAL ENGINEERING\u26a1\n\ud83d\udc49How electricity works: https://youtu.be/mc979OhitAg\n\ud83d\udc49Three Phase Electricity: https://youtu.be/4oRT7PoXSS0\n\ud83d\udc49How Inverters work: https://youtu.be/ln9VZIL8rVs\n\ud83d\udc49How TRANSFORMER works: https://youtu.be/UchitHGF4n8\n\ud83d\udc49How 3 Phase electricity works: https://youtu.be/4oRT7PoXSS0\n\ud83d\udc49How Induction motor works: https://youtu.be/N7TZ4gm3aUg\n\ud83d\udc49What is a KWH: https://youtu.be/SMPhh8gT_1E\n\ud83d\udc49How induction motor works: https://youtu.be/N7TZ4gm3aUg\n\n\u2744\ufe0f CHILLER ENGINEERING \u2744\ufe0f\n\ud83d\udc49Chiller Efficiency improvements: https://youtu.be/8x3MiO5XjhY\n\ud83d\udc49Chilled water schematics: https://youtu.be/ak51DHAiuWo\n\ud83d\udc49Chiller crash course: https://youtu.be/K0xAKzdROEg\n\ud83d\udc49Chiller types: https://youtu.be/gYcNDT1d30k\n\ud83d\udc49Chillers/AHU/RTU: https://youtu.be/UmWWZdJR1hQ\n\ud83d\udc49Water cooled chiller Part1: https://youtu.be/0rzQhSXVq60\n\ud83d\udc49Water cooled chiller Part2: https://youtu.be/3ZpE3vCjNqM\n\ud83d\udc49Water cooled chiller advanced: https://youtu.be/QlKSGDgqGF0\n\ud83d\udc49Air cooled chiller: https://youtu.be/0R84hLprO5s\n\ud83d\udc49Absorption Chiller : https://youtu.be/Ic5a9E2ykjo\n\ud83d\udc49Chiller/Cooling tower/AHU: https://youtu.be/1cvFlBLo4u0\n\ud83d\udc49Chiller flow rate: https://youtu.be/tA1_V6-dThM\n\ud83d\udc49Chiller fault troubleshooting: https://youtu.be/Zu0LVVNNVSw\n\ud83d\udc49Chiller COP calculation: https://youtu.be/h5ILlZ8nyHE\n\ud83d\udc49Chiller cooling capacity calcs: https://youtu.be/BZxXIdxVKeY\n\ud83d\udc49Chiller compressors: https://youtu.be/7Bah__spkTY\n\ud83d\udc49Chiller expansion valve: https://youtu.be/dXiV5YzTZQ4\n\ud83d\udc49Chiller surge: https://youtu.be/DQK_-vxObiw\n\ud83d\udc49Chiller condenser: https://youtu.be/p5uuPsyqnwU\n\ud83d\udc49Chiller evaporator: https://youtu.be/W3w7FpX9j9k\n\ud83d\udc49Chiller compressor centrifugal: https://youtu.be/PT0UIqAGacg\n\ud83d\udc49Chiller cooling capacity: https://youtu.be/f-N4isgQRGQ\n\n\ud83c\udf21\ufe0f HVAC ENGINEERING \ud83c\udf21\ufe0f\n\ud83d\udc49HVAC Basics: https://youtu.be/klggop60vlM\n\ud83d\udc49Boilers/AHU/FCU: https://youtu.be/lDeuIQ4VeWk\n\ud83d\udc49How Heat Pump works: https://youtu.be/G53tTKoakcY\n\ud83d\udc49Heat pumps advanced: https://youtu.be/G53tTKoakcY\n\ud83d\udc49Fan Coil Units: https://youtu.be/MqM-U8bftCI\n\ud83d\udc49VAV Systems: https://youtu.be/HBmOyeWtpHg\n\ud83d\udc49CAV Systems: https://youtu.be/XgQ3v6lvoZQ\n\ud83d\udc49VRF Units: https://youtu.be/hzFOCuAho_4\n\ud83d\udc49Cooling load calculations: https://youtu.be/0gv2tJf7nwo\n\ud83d\udc49Pulley belt calculations: https://youtu.be/yxCBhD9nguw\n\ud83d\udc49Pump calculations: https://youtu.be/99vikjRrlgo\n\ud83d\udc49Fan and motor calculations: https://youtu.be/rl-HQRzL-kg\n\ud83d\udc49HVAC Cooling coils: https://youtu.be/oSs-4Ptcfhk\n\ud83d\udc49Cooling towers: https://youtu.be/UzHJWNL2OtM\n\n\u2697\ufe0f REFRIGERATION SYSTEMS \ud83c\udf21\ufe0f\n\ud83d\udc49How refrigerants work: https://youtu.be/lMqoKLli0Y4\n\ud83d\udc49Thermal expansion valves: https://youtu.be/oSLOHCOw3yg\n\ud83d\udc49Refrigeration design software: https://youtu.be/QqP5aY6liAg\n\ud83d\udc49Design refrigeration system: https://youtu.be/TPabv9iDENc\n\ud83d\udc49Reversing valve: https://youtu.be/r8n1_6qmsKQ\n\ud83d\udc49How A/C units work: https://youtu.be/Uv3GfEQhtPE\n\n\u2697\ufe0f REFRIGERANTS \u2697\ufe0f\n\ud83d\udc49Refrierant retrofit guide: https://youtu.be/1OqgLcU2buQ\n\ud83d\udc49Refrigerant types, future: https://youtu.be/J77a0keM2Yk\n\ud83d\udc49How refrigerants work: https://youtu.be/lMqoKLli0Y4\n\n\ud83c\udf0a HYDRONICS \ud83c\udf0a\n\ud83d\udc49Primary & Secondary system: https://youtu.be/KU_AypZ-BnU\n\ud83d\udc49Pumps: https://youtu.be/TxqPAPg4nb4\n\ud83d\udc49Pump calculations: https://youtu.be/99vikjRrlgo\n\n\ud83d\udd25\u27a1\ufe0f\u2744\ufe0f HEAT EXCHANGERS \ud83d\udd25\u27a1\ufe0f\u2744\ufe0f\n\ud83d\udc49Plate Heat Exchangers: https://youtu.be/br3gkrXTmdY\n\ud83d\udc49Micro plate heat exchanger: https://youtu.be/xrsbujk4u6k\n\n\ud83d\udcbb DATA CENTERS \ud83d\udcbb\n\ud83d\udc49Data Center cooling: https://youtu.be/xBxyhxmhigc\n\n\ud83d\udd2c PHYSICS \ud83d\udd2c\n\ud83d\udc49What is Density: https://youtu.be/r0Ej0xB-0C8\n\n\ud83c\udfac DOCUMENTARY \ud83c\udfac\n\ud83d\udc49WW2 Bunker HVAC engineering: https://youtu.be/xEzz-JkPeLQ\n\nboost converter, circuit theory, circuit analysis lectures, electrical engineering, capacitance\n#electrical\n#electricity\n#engineering",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KSylo01n5FY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KSylo01n5FY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KSylo01n5FY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KSylo01n5FY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KSylo01n5FY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KSylo01n5FY"
+        },
+        "videoOwnerChannelTitle": "The Engineering Mindset",
+        "videoOwnerChannelId": "UCk0fGHsCEzGig-rSzkfCjMw"
+      },
+      "contentDetails": {
+        "videoId": "KSylo01n5FY",
+        "videoPublishedAt": "2019-09-10T21:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P30N6zzM-tgWdgfNkU8r3UWT8cg",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-08-27T09:48:29Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How To Write A Driver (STM32, I2C, Datasheet)",
+        "description": "How to write an I2C driver from scratch in C for an STM32F4 microcontroller interfacing with an accelerometer (Analog Devices ADXL355) using the datasheet and ST's HAL (hardware abstraction layer).\nGoing through schematic, STM32CubeIDE setup, low-level functions, initialisation, setting registers, reading registers, configuring the sensor, reading data, and finally testing the driver.\n\nFree trial of Altium Designer: https://www.altium.com/yt/philslab\n\nVisit https://jlcpcb.com/RHS for $2 for five 2-layer PCBs and $5 for five 4-layer PCBs.\n\nPatreon: https://www.patreon.com/phils94\n\nGit: https://github.com/pms67\n\n[TIMESTAMPS]\n00:00 Introduction\n00:28 Sensor (ADXL355, JLCPCB)\n01:22 Altium Designer\n01:42 Sensor Board Schematic and PCB (KiCad)\n03:38 STM32F4 Schematic (LittleBrain)\n04:16 STM32CubeIDE Setup\n06:40 Basic Project Structure\n07:55 Driver Header File\n16:11 Driver Source File (Low-Level Functions)\n18:41 Driver Source File (Sensor Initialisation and Setup)\n26:18 Driver Source File (Temperature Measurement)\n30:21 Driver Source File (Acceleration Measurements)\n34:10 Testing the Driver",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JQAve05o_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JQAve05o_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JQAve05o_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_JQAve05o_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_JQAve05o_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_JQAve05o_0"
+        },
+        "videoOwnerChannelTitle": "Phil\u2019s Lab",
+        "videoOwnerChannelId": "UCVryWqJ4cSlbTSETBHpBUWw"
+      },
+      "contentDetails": {
+        "videoId": "_JQAve05o_0",
+        "videoPublishedAt": "2021-08-20T22:24:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o7PGkZGT3VPdvHmrdEvrBrFfi9k",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:58:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "I built my own graphics card",
+        "description": "hope this baby can mine me some bitcoin\n\nCODE: https://github.com/jdah/jdh-8\nEDITOR: NeoVim\nVIMRC: https://gist.github.com/jdah/4b4d98c2ced36eb07b017c4ae2c94bab\nTHEME: palenight\nCIRCUIT DESIGNER: Logisim-Evolution (https://github.com/logisim-evolution/logisim-evolution)\nRESOURCES:\n  The Elements of Computing Systems by Noam Nisan and Shimon Schocken\n  @Ben Eater  's Channel: https://www.youtube.com/user/eaterbc\n  @Esperantanaso 's DUO Adept: https://www.youtube.com/playlist?list=PL75A1967B78B0D5A4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OW1EmG7b4DU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OW1EmG7b4DU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OW1EmG7b4DU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OW1EmG7b4DU"
+        },
+        "videoOwnerChannelTitle": "jdh",
+        "videoOwnerChannelId": "UCUzQJ3JBuQ9w-po4TXRJHiA"
+      },
+      "contentDetails": {
+        "videoId": "OW1EmG7b4DU",
+        "videoPublishedAt": "2021-08-29T15:18:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nsvUB5PzzTVOu72uWvNSN6T0BAc",
+      "id": "UExJamhmbHVoTmQ5OGtXN0Uyb3NhendabGU3V2lUWTRzcC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-10-18T07:19:50Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Midwest Gaming Classic 2021 Workshop Project \"gameBadge \"",
+        "description": "The Midwest Gaming Classic organizer asked if I could do a workshop this year since last year's was... you know. I said sure, but I had to come up with something we could actually find parts for... hence super-simple \"gameBadge\"\n\nThis video covers project design, schematic, how to stuff the surface mount parts on the PCB then finally a LOT of boring screen captures about how the graphics work.\n\nWorkshop: https://www.midwestgamingclassic.com/workshops/\n\nGithub: https://github.com/benheck/gameBadge",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AWaUt-2McSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AWaUt-2McSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AWaUt-2McSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AWaUt-2McSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AWaUt-2McSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98kW7E2osazwZle7WiTY4sp",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AWaUt-2McSY"
+        },
+        "videoOwnerChannelTitle": "Ben Heck Hacks",
+        "videoOwnerChannelId": "UCgeStlUnitobx8QcSxTw2aQ"
+      },
+      "contentDetails": {
+        "videoId": "AWaUt-2McSY",
+        "videoPublishedAt": "2021-10-05T19:24:34Z"
+      }
+    }
+  ]
+}

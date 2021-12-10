@@ -1,0 +1,782 @@
+{
+  "_id": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+  "as_of": "2021-12-10 00:22:05.709395",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H_qoGC-CTWjgI_GN79sJ6XOndxQ",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:20:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Category Theory For Beginners: Yoneda Lemma",
+        "description": "In this video we state and prove the Yoneda Lemma, and give examples of it in action within the category of graphs and the category of dynamical systems. There is also speculation about possible relations between the Yoneda Lemma and notions from particle physics and philosophical ideas about the (potentially) fractal nature of reality, like Indra's Necklace.\n\nI have been working through Colin McLarty's book `Elementary Categories, Elementary Toposes'. I have been making rough videos on the different chapters and exercises. These provide an informative and laconic course on category theory (although the videos are unedited and rough). I provide links to these unlisted videos below (and will update the list as I work through more of the book). The videos are in the proper order.\n\nMcLarty Basics 1\nhttps://youtu.be/kzk4aLZ52pU\n\nBasics Ex 1\nhttps://youtu.be/LogtUqT2FDc\n\nProducts 1\nhttps://youtu.be/0IAFXI-LDKY\n\nProducts 2\nhttps://youtu.be/KAF-xIPeidU\n\nProducts Ex\nhttps://youtu.be/Esbmufhqz5Q\n\nSubobjects and pullbacks 1\nhttps://youtu.be/bfG0qOMaCMI\n\nSubobjects and pullbacks 2\nhttps://youtu.be/Oc-fyNZXJQ4\n\nPullback Lemma 1\nhttps://youtu.be/-ucy7ruREH0\n\nPullback Lemma 2\nhttps://youtu.be/Mj410ClDO-M\n\nPullback Lemma 3\nhttps://youtu.be/qGEHSoye0t8\n\nPullback Lemma 4\nhttps://youtu.be/e5-ZGIly9Nc\n\nPullback Lemma 5\nhttps://youtu.be/CgTLml5-hqk\n\nPullback Lemma 6\nhttps://youtu.be/vDAJfu_6p2E\n\nLimits via equalizers 1\nhttps://youtu.be/nvmlQzGZ2Dw\n\nLimits via equalizers 2\nhttps://youtu.be/jf3JWSfbYoU\n\nPullback exercises 1\nhttps://youtu.be/7mmnzEF9CXI\n\nPullback exercises 2\nhttps://youtu.be/wPFfMayyMkw\n\nRelations 1\nhttps://youtu.be/XZ7Wugj8kNo\n\nRelations 2\nhttps://youtu.be/haHhUeR3P7A\n\nExponential objects 1\nhttps://youtu.be/t-KXNXkVOKk\n\nExponential objects 2\nhttps://youtu.be/vgwhPy6GC0s\n\nExponential objects 3\nhttps://youtu.be/9zDvl1jL8dM\n\nExponential objects 4\nhttps://youtu.be/31ilJHe6fgQ\n\nExponential objects 5\nhttps://youtu.be/gtwPMsW0iOQ\n\nExponential objects 6\nhttps://youtu.be/_CDmOUTXewo\n\nExponential objects 7\nhttps://youtu.be/DnBn48OiKX0\n\nExponential objects 8\nhttps://youtu.be/1k_t-f0ddyE\n\nExponential objects 9\nhttps://youtu.be/UTI28bkl__U\n\nExponential objects 10\u00a0\nhttps://youtu.be/qnskHN22I6k\n\nMclarty Topos Basics 1\nhttps://youtu.be/0oe3Aor4U7k\n\nMclarty Topos Basics 2\r\nhttps://youtu.be/aC_5PQDQlSg\n\nMclarty Topos Basics 3\nhttps://youtu.be/TzNDdrlDSrA\n\nMclarty Topos Basics 4\nhttps://youtu.be/I3qREzStZ3c\n\nMitchell-Benabou Language 1\nhttps://youtu.be/JVvoUF9uZns\n\nMitchell-Benabou Language 2\r\nhttps://youtu.be/KN-5UHnMxhM\n\nMitchell-Benabou Language 3\nhttps://youtu.be/hlFOBbyyoDo\n\nMitchell-Benabou Language 4\nhttps://youtu.be/cOiazGhjHxA\n\nMitchell-Benabou Language 5\nhttps://youtu.be/WKPydvTXyyI\n\nMitchell-Benabou Language Redone 1\nhttps://youtu.be/SmYMPnyZf9U\n\nMitchell-Benabou Language Redone 2\nhttps://youtu.be/ZPerKA2J7DE\n\nMitchell-Benabou Language Redone 3\r\nhttps://youtu.be/eOZhEwA1slA\n\nMitchell-Benabou Language Redone 4\nhttps://youtu.be/E4FuwWjXFwM\n\nMitchell-Benabou Language Redone 5\r\nhttps://youtu.be/MCRQJzMGrdM\n\nMitchell-Benabou Language Redone 6\r\nhttps://youtu.be/DbJVQxBD2JE\n\nMitchell-Benabou Language Redone 7\r\nhttps://youtu.be/Z2ToNYMuY0w\n\nMitchell-Benabou Language Redone 8\nhttps://youtu.be/FcBeG9PFD1c\n\nSubobjects of exponential objects\nhttps://youtu.be/ozM9jg445AI\n\nUnderstanding exponential objects\nhttps://youtu.be/kFRYAyiOhk4\n\nUnderstanding exponential objects 2\nhttps://youtu.be/2-_OM8XQlqI\n\nEpimorphisms in MBL\nhttps://youtu.be/fh15ibOzJVs\n\nExistential quantifier interpretation\nhttps://youtu.be/DJNcZf20p9M\n\nUniversal quantifier in MBL 1\nhttps://youtu.be/DQD_TncRS-U\n\nUniversal quantifier in MBL 2\nhttps://youtu.be/son4ykDx7Go\n\nUniversal quantifier in MBL 3\nhttps://youtu.be/NfpXKqcnwo8\n\nUniversal quantifier in MBL 4\nhttps://youtu.be/us-T-DCnhZQ\n\nMBL implies rule\nhttps://youtu.be/t3zlUXhtF3s\n\nMBL thinning, cut etc.\nhttps://youtu.be/t7kRgVtsuAM\n\nMBL rules, singleton, equality etc.\nhttps://youtu.be/UfNorcpPH0o\n\nMBL extensionality 1\nhttps://youtu.be/Nld6c8Z7lwA\n\nMBL extensionality 2\nhttps://youtu.be/vqQxTLvsPAA\n\nMBL comprehension\nhttps://youtu.be/YNPWuynEAbo\n\nMBL substitution lemma\nhttps://youtu.be/CiP0Dm3qhHg\n\nMBL false not or\nhttps://youtu.be/LLy_OiuPjI8\n\nMBL false not or 2\nhttps://youtu.be/aK57B701EP8\n\nMBL exists derivation\nhttps://youtu.be/9NUGvX0iTCw\n\nKripke-Joyal Semantics Intro\nhttps://youtu.be/rKd22WBK1-c\n\nSingleton arrows\nhttps://youtu.be/qY6OBRYYM5I\n\nKirpke-Joyal implies rule\nhttps://youtu.be/fmipkZYK_Nw\n\nFunctional relations 1\nhttps://youtu.be/nmrarED2w4Y\n\nFunctional relations 2\nhttps://youtu.be/qyOxNXnGJm0\n\nForall and exists in Set\nhttps://youtu.be/CD7jlj_4aH0\n\nFunctional relations 3\nhttps://youtu.be/qofZLTaqyIU\n\nThe rest of the videos in this series are linked to within the description of my video: Category Theory For Beginners: Adjoint Functors\n\nMy own accompanying notes can be found here:\n\nhttps://drive.google.com/drive/folders/1JfU7Ex6ZEQiU7evJdVbaKjWYQPf8jCT5?usp=sharing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h64yZs8ThtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h64yZs8ThtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h64yZs8ThtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h64yZs8ThtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h64yZs8ThtQ"
+        },
+        "videoOwnerChannelTitle": "Richard Southwell",
+        "videoOwnerChannelId": "UCHAtzWEoegu7Z5zEVzjOM_Q"
+      },
+      "contentDetails": {
+        "videoId": "h64yZs8ThtQ",
+        "videoPublishedAt": "2019-10-07T05:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "98jym7sZurxINgpRgaJPMht41EU",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:20:19Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Category Theory II 4.2: The Yoneda Lemma",
+        "description": "The Yoneda Lemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BiWqNdtptDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BiWqNdtptDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BiWqNdtptDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BiWqNdtptDI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BiWqNdtptDI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BiWqNdtptDI"
+        },
+        "videoOwnerChannelTitle": "Bartosz Milewski",
+        "videoOwnerChannelId": "UC8BtBl8PNgd3vWKtm2yJ7aA"
+      },
+      "contentDetails": {
+        "videoId": "BiWqNdtptDI",
+        "videoPublishedAt": "2017-03-13T17:51:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WBeqLyqehAc1Hxe5dfoqrpzFSis",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:20:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Yoneda Lemma",
+        "description": "Proof of Yoneda Lemma from Handbook of Categorical Algebra Borceaux",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/miFcB_QM-cQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/miFcB_QM-cQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/miFcB_QM-cQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/miFcB_QM-cQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/miFcB_QM-cQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "miFcB_QM-cQ"
+        },
+        "videoOwnerChannelTitle": "Harpreet Bedi",
+        "videoOwnerChannelId": "UCErLELnXehsJ7ycW4OJgfQQ"
+      },
+      "contentDetails": {
+        "videoId": "miFcB_QM-cQ",
+        "videoPublishedAt": "2015-11-21T20:14:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s5YBDUjhI7IQniiVJG07o53-jDo",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:20:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "YOW! Lambda Jam 2019 - Attila Egri Nagy - Approaching the Yoneda Lemma",
+        "description": "The Yoneda lemma is not the first thing to learn in category theory, but sooner or later it appears in studying the field. Unfortunately, there is quite a gap between the intuitive idea, \"tell me your friends, and I will know who you are\" , and its precise formulation. This talk aims to bridge this gap by introducing algebraic results in the middle, namely Cayley's theorem for groups and its generalization to semigroups. These are elementary enough, but at the same time they exhibit the conceptual step of representability, and the idea of studying all different things in a familiar form.\n\nAttila is a Software engineer disguised as Maths professor, circumstantial Go teacher.\n\nFor more on YOW! Conference, visit http://www.yowconference.com.au",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TWFI4aN4h0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TWFI4aN4h0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TWFI4aN4h0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TWFI4aN4h0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TWFI4aN4h0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TWFI4aN4h0Q"
+        },
+        "videoOwnerChannelTitle": "Skills Matter (formerly YOW! Conferences)",
+        "videoOwnerChannelId": "UCAvGvvEemkeX8hurdPXr7hA"
+      },
+      "contentDetails": {
+        "videoId": "TWFI4aN4h0Q",
+        "videoPublishedAt": "2019-07-09T21:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d55pX4eku3TD_wnbJTH2uoSO8Gs",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:20:38Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Representables and Yoneda 1",
+        "description": "Definition of representable functors and the Yoneda embedding (though without calling it the Yoneda embedding yet)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4QgjKUzyrhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4QgjKUzyrhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4QgjKUzyrhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4QgjKUzyrhM"
+        },
+        "videoOwnerChannelTitle": "TheCatsters",
+        "videoOwnerChannelId": "UC5Y9H2KDRHZZTWZJtlH4VbA"
+      },
+      "contentDetails": {
+        "videoId": "4QgjKUzyrhM",
+        "videoPublishedAt": "2009-02-26T11:09:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "voxAV9RNqC3whU8Hk4Yx9ftbaow",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:20:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Category Theory: The Yoneda Lemma and Cayley's Theorem",
+        "description": "This video introduces the Yoneda lemma and we show how it generalizes Cayley's theorem. \n\nThese may help:\nHow is a group a one-object-category? https://youtu.be/ONIAAwMmO4U\n\nWhy is a functor from a group to Set a G-set?\nhttps://youtu.be/6s9GRMhMU5s\n\n\nFor more mathematics, visit Travis Dirle at https://www.abstract-nonsense.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-OB1t1iZZpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-OB1t1iZZpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-OB1t1iZZpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-OB1t1iZZpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-OB1t1iZZpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-OB1t1iZZpo"
+        },
+        "videoOwnerChannelTitle": "AbstractNonsense",
+        "videoOwnerChannelId": "UCKbx9dHvdbz4S5XyODye5pA"
+      },
+      "contentDetails": {
+        "videoId": "-OB1t1iZZpo",
+        "videoPublishedAt": "2017-06-13T01:34:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iPMhRgmJsg8nmsepm-L9-vHx0uQ",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:20:48Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Lecture 5 - Yoneda Lemma",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2oX3EuY5_90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2oX3EuY5_90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2oX3EuY5_90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2oX3EuY5_90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2oX3EuY5_90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2oX3EuY5_90"
+        },
+        "videoOwnerChannelTitle": "Kristoffe Zehr",
+        "videoOwnerChannelId": "UCu83lYVqO-mZDcfcmRMKn3Q"
+      },
+      "contentDetails": {
+        "videoId": "2oX3EuY5_90",
+        "videoPublishedAt": "2018-07-12T03:15:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kYrUm3CUUGkpfc-_TqWSr8nbUeA",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:20:56Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Representables and Yoneda 3",
+        "description": "Statement of Yoneda lemma and explanation of \"why\" it is true",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLMxHB19khE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLMxHB19khE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLMxHB19khE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TLMxHB19khE"
+        },
+        "videoOwnerChannelTitle": "TheCatsters",
+        "videoOwnerChannelId": "UC5Y9H2KDRHZZTWZJtlH4VbA"
+      },
+      "contentDetails": {
+        "videoId": "TLMxHB19khE",
+        "videoPublishedAt": "2009-03-03T20:10:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AnpbQPpEJ487n2Have17nwERtAI",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:21:03Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Jeremy Gibbons - What You Needa Know About Yoneda | Code Mesh LDN 19",
+        "description": "This video was recorded at Code Mesh LDN 19 - http://bit.ly/37xc3Nr\n\nGet involved in Code Sync's next conference - http://bit.ly/2Mcm4aS\n\n---\n\nWHAT YOU NEEDA KNOW ABOUT YONEDA\nby Jeremy Gibbons\n\nTHIS TALK IN THREE WORDS:\nCategories \nFunctional programming\nLenses\n\nTALK LEVEL: Advanced\n\nABSTRACT\nProfunctor optics are a neat and composable representation of bidirectional data accessors, such as lenses (a \"getter\" and a \"setter\", for example onto a field of a record), and their dual, prisms. The profunctor representation exploits higher-order functions and higher-kinded type constructor classes. The relationship with the \"\"getter\"\" and \"\"setter\"\" functions is not at all obvious; it turns out to be a fairly direct application of the Yoneda Lemma, arguably the most important result in category theory. This talk will explain the Yoneda Lemma, with many concrete examples, including profunctor optics.\n\nSlides & full abstract: https://codesync.global/speaker/jeremy-gibbons/\n\n---\n\nTHE SPEAKER - JEREMY GIBBONS\n\n\nJeremy Gibbons is Professor of Computing at the University of Oxford, where he teaches on the part-time professional master's programme in software engineering. He has been devoted to functional programming since the late eighties; he is Editor-in-Chief of the Journal of Functional Programming, and his particular interests are in patterns in functional programming and in reasoning about programs.\n\nMore on Jeremy Gibbons: https://codesync.global/speaker/jeremy-gibbons/\n\n---\n\nCODE SYNC & CODE MESH LDN 19\nCode Mesh LDN is powered by Code Sync. Code Mesh LDN 19 was sponsored by WhatsApp, Microsoft, Erlang Solutions, Juxt, aeternity, Duffel, and IOHK. \n\nCODE SYNC \nWebsite: www.codesync.global\nTwitter: www.twitter.com/CodeMeshIO\nFacebook: https://www.facebook.com/CodeSyncGlobal\nLinkedIn: https://www.linkedin.com/company/code-sync/\nMail: info at codesync.global\n\n#FunctionalProgramming #Yoneda",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TBtDZrPJnv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TBtDZrPJnv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TBtDZrPJnv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TBtDZrPJnv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TBtDZrPJnv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TBtDZrPJnv8"
+        },
+        "videoOwnerChannelTitle": "Code Sync",
+        "videoOwnerChannelId": "UC47eUBNO8KBH_V8AfowOWOw"
+      },
+      "contentDetails": {
+        "videoId": "TBtDZrPJnv8",
+        "videoPublishedAt": "2020-01-15T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZJV7id3ROxkkecuCDuLt2DVEIe8",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:21:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Yoneda Embedding Examples",
+        "description": "We construct representable presheaves as generic containers via the Yoneda lemma.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UeVGOXvQyMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UeVGOXvQyMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UeVGOXvQyMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UeVGOXvQyMo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UeVGOXvQyMo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UeVGOXvQyMo"
+        },
+        "videoOwnerChannelTitle": "MathProofsable",
+        "videoOwnerChannelId": "UCaitDvTHajRG-RzCLcHnmeQ"
+      },
+      "contentDetails": {
+        "videoId": "UeVGOXvQyMo",
+        "videoPublishedAt": "2018-01-02T00:51:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7_CGcpEQFjE3uTmrA_9BCi3_uSs",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:21:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Thin Yoneda Embedding",
+        "description": "We introduce the thin version of the Yoneda embedding.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DmsZD9myctU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DmsZD9myctU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DmsZD9myctU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DmsZD9myctU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DmsZD9myctU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DmsZD9myctU"
+        },
+        "videoOwnerChannelTitle": "MathProofsable",
+        "videoOwnerChannelId": "UCaitDvTHajRG-RzCLcHnmeQ"
+      },
+      "contentDetails": {
+        "videoId": "DmsZD9myctU",
+        "videoPublishedAt": "2017-12-28T21:50:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fpBnIXtaHJ5cRtU73DI4AUbh2Pk",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:21:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Composable References and the Yoneda Lemma",
+        "description": "Presented at SPLASH-I 2018\nPaper: http://www.cs.ox.ac.uk/publications/publication10940-abstract.html\n\nComposite data structures have components, and those components should be referenceable. Examples include the fields of a record, the variants of a union, and the elements of a container; one should be able to refer to \u201cthe root of the left child (if present)\u201d of a binary tree node.\n\nIndividual data accessors for simple data structures are easy to write, for example as pairs of \u201cgetter\u201d and \u201csetter\u201d methods. However, it is not obvious how to combine component references, in such a way that the reference for a component within a compound data structure is composed out of smaller references within the parts of that structure. Generally, one has to write a sequence of statements or declarations that navigate step by step through the data structure, accessing one level at a time\u2014which is to say, component references are traditionally not first-class citizens, combinable in their own right.\n\nI will describe profunctor optics, a neat representation of component references that naturally supports composition. The profunctor representation exploits higher-order functions (\u201clambdas\u201d) and higher-kinded types (\u201cgenerics\u201d), so serves as a compelling argument for the value of these language features. It turns out to be a fairly direct application of the Yoneda Lemma, arguably the most important result in category theory, for which we hope to provide some insight.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YLtrw706mEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YLtrw706mEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YLtrw706mEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YLtrw706mEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YLtrw706mEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YLtrw706mEY"
+        },
+        "videoOwnerChannelTitle": "ACM SIGPLAN",
+        "videoOwnerChannelId": "UCwG9512Wm7jSS6Iqshz4Dpg"
+      },
+      "contentDetails": {
+        "videoId": "YLtrw706mEY",
+        "videoPublishedAt": "2018-11-21T21:10:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xxSjaKCePjwfzsANaazbzSGc4EY",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:21:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "5  Representables and yoneda",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/71OiJrGLGkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/71OiJrGLGkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/71OiJrGLGkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/71OiJrGLGkM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "71OiJrGLGkM"
+        },
+        "videoOwnerChannelTitle": "Stuart Gale",
+        "videoOwnerChannelId": "UClMGZ_0984k-Zdd_z2jtJLw"
+      },
+      "contentDetails": {
+        "videoId": "71OiJrGLGkM",
+        "videoPublishedAt": "2016-12-09T15:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "590tihNQwMFUhBRCWddjrHIXgxg",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:22:05Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Representables and Yoneda 2",
+        "description": "Further explanation of the Yoneda embedding (including calling it that, but not yet proving it's an embedding), checking naturality for H_f.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eaJmUUogb6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eaJmUUogb6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eaJmUUogb6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eaJmUUogb6g"
+        },
+        "videoOwnerChannelTitle": "TheCatsters",
+        "videoOwnerChannelId": "UC5Y9H2KDRHZZTWZJtlH4VbA"
+      },
+      "contentDetails": {
+        "videoId": "eaJmUUogb6g",
+        "videoPublishedAt": "2009-02-26T15:10:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "skrhLRL4Zak5Bqhd3zxChi5br0k",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:22:10Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Category Theory II 5.1: Yoneda Embedding",
+        "description": "Yoneda embedding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p_ydgYm9-yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p_ydgYm9-yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p_ydgYm9-yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p_ydgYm9-yg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p_ydgYm9-yg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p_ydgYm9-yg"
+        },
+        "videoOwnerChannelTitle": "Bartosz Milewski",
+        "videoOwnerChannelId": "UC8BtBl8PNgd3vWKtm2yJ7aA"
+      },
+      "contentDetails": {
+        "videoId": "p_ydgYm9-yg",
+        "videoPublishedAt": "2017-03-17T19:02:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4it8aNl8hh2su9yliogrgKs1pPE",
+      "id": "UExJamhmbHVoTmQ5LWU5RFV1MUdiVUpvWGpTME14X1ZLWS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-04-02T11:22:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Random Theorem, Episode 5: Yoneda lemma",
+        "description": "In this episode: Suddenly, categories.\n\nDisclaimer: proofs of random theorems might assume arbitrary true assumptions.\n\nMusic:  Impact Prelude by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100617\nArtist: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kT6fSY9NKAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kT6fSY9NKAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kT6fSY9NKAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kT6fSY9NKAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kT6fSY9NKAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-e9DUu1GbUJoXjS0Mx_VKY",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kT6fSY9NKAo"
+        },
+        "videoOwnerChannelTitle": "NecroSovereign",
+        "videoOwnerChannelId": "UCYNSvISNAl0brMZqE9fKeWw"
+      },
+      "contentDetails": {
+        "videoId": "kT6fSY9NKAo",
+        "videoPublishedAt": "2017-11-25T15:22:15Z"
+      }
+    }
+  ]
+}

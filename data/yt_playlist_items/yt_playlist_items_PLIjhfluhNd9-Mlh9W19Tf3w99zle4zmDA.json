@@ -1,0 +1,817 @@
+{
+  "_id": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+  "as_of": "2021-12-10 00:22:05.363534",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x-bjD3aVb8P3Hp9EpBxpPjQrgPE",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-07-24T09:42:29Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Basic ROS Learning Week - Day 1: Linux for Robotics",
+        "description": "Join us for a whole week to learn online how to program robots with ROS.\nIn order to help students locked in their homes all around the world because of the COVID-19, we have prepared this 1-week free course so you can learn ROS during that time.\n \nStarting from zero, no ROS knowledge required, no Linux knowledge required, no Python knowledge required. You will learn all that throughout the week.\n\nSchedule:\n* DAY 1 Monday: Linux for Robotics. \n* DAY 2 Tuesday: Python for Robotics\n* DAY 3 Wednesday: ROS Basic concepts (packages, nodes, launches...)\n* DAY 4 Thursday: ROS topics (subscribers and publishers)\n* DAY 5 Friday: Program a robot to escape a maze\n\nJoin us in those live classes where you will be practicing with the teacher and ask him questions live.\n\nTeacher: Alberto Ezquerro, Head of Education at The Construct\n\nThis course is brought to you for free by The Construct (www.theconstruct.ai)\n\nThe whole code will be provided to all the attendants of the class. \n\n============================ \n* IMPORTANT: Remember to be on time for the class because at the beginning of the class, we will share the code with the attendants for free. \n* IMPORTANT 2: In order to start practicing quickly, we are using the ROS Development Studio. You will need a free account to attend the class. Go to http://rosds.online and create an account prior to the class. \n\n// RELATED LINKS \n\u25b8 ROS Development Studio: ( http://rosds.online ) \n\u25b8 Robot Ignite Academy: ( https://robotigniteacademy.com)\n\n#ROS #Robot #ROStutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_YHvSl_yQDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_YHvSl_yQDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_YHvSl_yQDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_YHvSl_yQDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_YHvSl_yQDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_YHvSl_yQDk"
+        },
+        "videoOwnerChannelTitle": "The Construct",
+        "videoOwnerChannelId": "UCt6Lag-vv25fTX3e11mVY1Q"
+      },
+      "contentDetails": {
+        "videoId": "_YHvSl_yQDk",
+        "videoPublishedAt": "2020-03-23T20:48:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J-9_1ymJCPVU12SRhIa3vLoKLt4",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-07-24T09:42:39Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Programming for Robotics, Lecture 1: Introduction to ROS",
+        "description": "In the first of five lectures, we will introduce the ROS architecture & philosophy; ROS master, nodes, and topics; Console commands; Catkin workspace and build system; Launch-files and the Gazebo simulator.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aL7zLnaEdAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aL7zLnaEdAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aL7zLnaEdAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aL7zLnaEdAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aL7zLnaEdAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aL7zLnaEdAg"
+        },
+        "videoOwnerChannelTitle": "Robotic Systems Lab: Legged Robotics at ETH Z\u00fcrich",
+        "videoOwnerChannelId": "UCHjP785620I8LFjSxf_CJCw"
+      },
+      "contentDetails": {
+        "videoId": "aL7zLnaEdAg",
+        "videoPublishedAt": "2021-02-22T10:53:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RScCszH037Ynsf1FxtK_KKko430",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-07-24T09:42:58Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Building a ROS Robot for Mapping and Navigation #1",
+        "description": "Get your first 10 PCBs for free at https://www.pcbway.com/\n\nI previously showed a demo of Turtlebot 3 doing mapping and navigation with ROS. Now it's time to attempt to built a robot from scratch and understand how ROS hangs together and which components we need to implement it all from scratch.  I'm using my NERF Blaster Robot chassis to try this because it has wheel encoders and already has an Arduino on board. \n\nIn this video I've added a Raspberry Pi 4, and an RPLidar A1 which we'll look at more closely next time.\n\nLinks for this video:\nFree ROS book: https://emanual.robotis.com/docs/en/platform/turtlebot3/learn/#books\nRobot Ignite Academy: https://www.theconstructsim.com/\nUbuntu Mate on Rasp Pi 4: https://www.youtube.com/watch?v=fZbJIe2oj8k\nhttp://wiki.ros.org/ROS/Installation\nhttp://wiki.ros.org/catkin/Tutorials/create_a_workspace\n\nYou can support me on Patreon or buy my Merchandise:\n***************************\nPatreon: https://www.patreon.com/xrobots\nMerchandise: https://teespring.com/stores/james-bruton\n***************************\n\nAffiliate links - I will get some money of you use them to sign up or buy something:\n***************************\nMatterhackers 3D printing supplies: http://www.matterhackers.com?aff=7500\nMusic for your YouTube videos: http://share.epidemicsound.com/xrobots\nAmazon US: https://www.amazon.com/?tag=xrobotsuk-20\nAmazon UK: https://www.amazon.co.uk/?tag=xrobotsuk-21\nAmazon FR France: https://www.amazon.fr/?tag=xrobotsuk0c-21\nAmazon DE Germany: https://www.amazon.de/?tag=xrobotsuk02-21\nAmazon ES Spain: https://www.amazon.es/?tag=xrobotsuk07-21\nAmazon IT Italy: https://www.amazon.it/?tag=xrobotsuk08-21\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nFacebook: https://www.facebook.com/xrobotsuk/\nTwitter: https://twitter.com/xrobotsuk \n***************************\n\nCAD and Code for my projects: https://github.com/XRobots\n\nHuge thanks to my Patrons, without whom my standard of living would drastically decline. Like, inside out-Farm Foods bag decline. Plus a very special shoutout to Lulzbot, Inc who keep me in LulzBot 3D printers and support me via Patreon.\n\nHARDWARE/SOFTWARE\n\nBelow you can also find a lot of the typical tools, equipment and supplies used in my projects:\n\nLulzbot 3D Printers: http://bit.ly/2Sj6nil\nLincoln Electric Welder: https://bit.ly/2Rqhqos\nCNC Router: https://bit.ly/2QdsNjt\nRyobi Tools: http://bit.ly/2RhArcD\nAxminster Micro Lathe: http://bit.ly/2Sj6eeN\n3D Printer Filament: http://bit.ly/2PdcdUu\nSoldering Iron: http://bit.ly/2DrNWDR\nVectric CNC Software: http://bit.ly/2zxpZqv\n\nWhy not join my community, who are mostly made up of actual geniuses. There\u2019s a Facebook group and everything: https://www.facebook.com/groups/287089964833488/\n\nXROBOTS\n\nFormer toy designer, current YouTube maker and general robotics, electrical and mechanical engineer, I\u2019m a fan of doing it yourself and innovation by trial and error. My channel is where I share some of my useful and not-so-useful inventions, designs and maker advice. Iron Man is my go-to cosplay, and 3D printing can solve most issues - broken bolts, missing parts, world hunger, you name it.\n\nXRobots is the community around my content where you can get in touch, share tips and advice, and more build FAQs, schematics and designs are also available.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q1u_cC-5Sac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q1u_cC-5Sac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q1u_cC-5Sac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q1u_cC-5Sac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q1u_cC-5Sac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q1u_cC-5Sac"
+        },
+        "videoOwnerChannelTitle": "James Bruton",
+        "videoOwnerChannelId": "UCUbDcUPed50Y_7KmfCXKohA"
+      },
+      "contentDetails": {
+        "videoId": "q1u_cC-5Sac",
+        "videoPublishedAt": "2020-08-04T05:52:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QIqrnebSsnJOsHVKxOMrmg1AXeM",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-07-24T09:43:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "WHAT IS ROS? HOW TO LEARN ROS? Important for every ROBOTICS ENGINEER? | Start of ROS Tutorial Series",
+        "description": "What is ROS? How does it work? How can I learn ROS? Why is it a must-learn for a Robotics Engineer?\n\nThese are some very common questions that many people ask me almost every day. This made me realize that making a video answering these questions would be very useful to many people. So I decided to put up this video before I could start with the actual tutorial on ROS so that you guys have a clear picture of what we are getting into and how it is useful for you.\n\nIn this video, I have tried to explain all the basics that anyone would like to know about ROS in a semi-dramatic way which would make it easier to understand and help you to relate the concepts of ROS to everyday things so that you remember it forever.\n\n\ud83d\udc4d\ud83c\udffb Like and Share the video with your friends if you found it useful.  \n\ud83d\udcac Also, comment down below if you feel I have missed out on some important topic which you would like to see a video on. \n\ud83d\udd14 Don't forget to subscribe to my channel for more such informative videos and tutorials over Robotics & ROS.\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n\ud83d\udcda Important Links: \nUnderstand more about ROS: http://wiki.ros.org/ROS/Introduction\nSee where ROS is used: https://www.youtube.com/watch?v=mDwZ21Zia8s\nStory of ROS: https://www.youtube.com/watch?v=LyC9RAYE96M\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n\u2764\ufe0f Subscribe to Support:\nhttps://youtube.com/pranshu-tople?sub_confirmation=1\nNew ROS tutorials coming every week\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n\ud83c\udfb5 Music:\n\nTitle: Technology Music / Corporate Background Music Copyright Free by MUSIC4VIDEO\nChannel: Music for Audio Library - https://youtu.be/fgXLNeSV42g\n\nTitle: Herbal tea by Artificial.Music\nGenre and Mood: Dance & Electronic + Calm\nherbal tea by Artificial.Music https://soundcloud.com/artificial-music\nCreative Commons \u2014 Attribution 3.0 Unported\u2014 CC BY 3.0 \nMusic promoted by Audio Library https://youtu.be/ChhcjSCEaBc\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n\ud83d\udde3\ufe0f Get in touch at:\npranshutople@gmail.com\nhttps://www.instagram.com/pranshutople/\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n#ROS #RobotOperatingSystem #WhatIsROS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0UMJRaip7UU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0UMJRaip7UU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0UMJRaip7UU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0UMJRaip7UU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0UMJRaip7UU"
+        },
+        "videoOwnerChannelTitle": "Pranshu Tople",
+        "videoOwnerChannelId": "UCNCO85L4JKYFzXv0Hn6w_Vw"
+      },
+      "contentDetails": {
+        "videoId": "0UMJRaip7UU",
+        "videoPublishedAt": "2020-06-04T14:45:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_GH8vME-EWNGQKaJ3SbsVci10pE",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-07-24T15:13:40Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Programming for Robotics (ROS) Course 1",
+        "description": "The slides are available here:\nhttps://www.ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/ROS2017/lecture1.pdf\n\nThe recording of this course is part of the Programming for Robotics (ROS) Lecture at ETH Zurich:\nhttp://www.rsl.ethz.ch/education-students/lectures/ros.html\n\nLecturers:\nP\u00e9ter Fankhauser, Dominic Jud, Martin Wermelinger\n\nCourse 1 covers following topics:\n\u2013 ROS architecture & philosophy\n\u2013 ROS master, nodes, and topics\n\u2013 Console commands\n\u2013 Catkin workspace and build system\n\u2013 Launch-files\n\u2013 Gazebo simulator\n\nAbout the course:\nThis course gives an introduction to the Robot Operating System (ROS) including many of the available tools that are commonly used in robotics. With the help of different examples, the course should provide a good starting point for students to work with robots. They learn how to create software including simulation, to interface sensors and actuators, and to integrate control algorithms.\n\nObjective: \n\u2013 ROS architecture: Master, nodes, topics, messages, services, parameters and actions\n\u2013 Console commands: Navigating and analyzing the ROS system and the catkin workspace\n\u2013 Creating ROS packages: Structure, launch-files, and best practices\n\u2013 ROS C++ client library (roscpp): Creating your own ROS C++ programs\n\u2013 Simulating with ROS: Gazebo simulator, robot models (URDF) and simulation environments (SDF)\n\u2013 Working with visualizations (RViz) and user interface tools (rqt)\n\u2013 Inside ROS: TF transformation system, time, bags",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0BxVPCInS3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0BxVPCInS3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0BxVPCInS3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0BxVPCInS3M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0BxVPCInS3M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0BxVPCInS3M"
+        },
+        "videoOwnerChannelTitle": "Robotic Systems Lab: Legged Robotics at ETH Z\u00fcrich",
+        "videoOwnerChannelId": "UCHjP785620I8LFjSxf_CJCw"
+      },
+      "contentDetails": {
+        "videoId": "0BxVPCInS3M",
+        "videoPublishedAt": "2017-02-20T18:14:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jKT5-1Twnj4GE1m9Ksp7xw4Inr4",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-07-25T12:01:08Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Building a ROS Robot for Mapping and Navigation #2",
+        "description": "Sign up for free, or upgrade to Busuu Premium to unlock all features! https://bit.ly/Busuu_James\nThanks Busuu for sponsoring this video!\n\nI previously showed a demo of Turtlebot 3 doing mapping and navigation with ROS. Now it's time to attempt to built a robot from scratch and understand how ROS hangs together and which components we need to implement it all from scratch.  I'm using my NERF Blaster Robot chassis to try this because it has wheel encoders and already has an Arduino on board. \n\nDon't forget to check out part 1, links for this video are below:\n\nFree ROS book: https://emanual.robotis.com/docs/en/platform/turtlebot3/learn/#books\nRobot Ignite Academy: https://www.theconstructsim.com/\nUbuntu Mate on Rasp Pi 4: https://www.youtube.com/watch?v=fZbJIe2oj8k\nNOX robot project: https://github.com/RBinsonB/Nox_robot\n\nYou can support me on Patreon or buy my Merchandise:\n***************************\nPatreon: https://www.patreon.com/xrobots\nMerchandise: https://teespring.com/stores/james-bruton\n***************************\n\nAffiliate links - I will get some money of you use them to sign up or buy something:\n***************************\nMatterhackers 3D printing supplies: http://www.matterhackers.com?aff=7500\nMusic for your YouTube videos: http://share.epidemicsound.com/xrobots\nAmazon US: https://www.amazon.com/?tag=xrobotsuk-20\nAmazon UK: https://www.amazon.co.uk/?tag=xrobotsuk-21\nAmazon FR France: https://www.amazon.fr/?tag=xrobotsuk0c-21\nAmazon DE Germany: https://www.amazon.de/?tag=xrobotsuk02-21\nAmazon ES Spain: https://www.amazon.es/?tag=xrobotsuk07-21\nAmazon IT Italy: https://www.amazon.it/?tag=xrobotsuk08-21\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nFacebook: https://www.facebook.com/xrobotsuk/\nTwitter: https://twitter.com/xrobotsuk \n***************************\n\nCAD and Code for my projects: https://github.com/XRobots\n\nHuge thanks to my Patrons, without whom my standard of living would drastically decline. Like, inside out-Farm Foods bag decline. Plus a very special shoutout to Lulzbot, Inc who keep me in LulzBot 3D printers and support me via Patreon.\n\nHARDWARE/SOFTWARE\n\nBelow you can also find a lot of the typical tools, equipment and supplies used in my projects:\n\nLulzbot 3D Printers: http://bit.ly/2Sj6nil\nLincoln Electric Welder: https://bit.ly/2Rqhqos\nCNC Router: https://bit.ly/2QdsNjt\nRyobi Tools: http://bit.ly/2RhArcD\nAxminster Micro Lathe: http://bit.ly/2Sj6eeN\n3D Printer Filament: http://bit.ly/2PdcdUu\nSoldering Iron: http://bit.ly/2DrNWDR\nVectric CNC Software: http://bit.ly/2zxpZqv\n\nWhy not join my community, who are mostly made up of actual geniuses. There\u2019s a Facebook group and everything: https://www.facebook.com/groups/287089964833488/\n\nXROBOTS\n\nFormer toy designer, current YouTube maker and general robotics, electrical and mechanical engineer, I\u2019m a fan of doing it yourself and innovation by trial and error. My channel is where I share some of my useful and not-so-useful inventions, designs and maker advice. Iron Man is my go-to cosplay, and 3D printing can solve most issues - broken bolts, missing parts, world hunger, you name it.\n\nXRobots is the community around my content where you can get in touch, share tips and advice, and more build FAQs, schematics and designs are also available.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HLLmV9LQoac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HLLmV9LQoac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HLLmV9LQoac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HLLmV9LQoac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HLLmV9LQoac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HLLmV9LQoac"
+        },
+        "videoOwnerChannelTitle": "James Bruton",
+        "videoOwnerChannelId": "UCUbDcUPed50Y_7KmfCXKohA"
+      },
+      "contentDetails": {
+        "videoId": "HLLmV9LQoac",
+        "videoPublishedAt": "2020-08-18T05:55:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zklz1C3lA70VjpQL2gGaMN2rqvk",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-07-25T12:01:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Easy to build Robot Arm for the Raspberry Pi Rover",
+        "description": "You saw Clems Raspberry Pi FPV Robot in a previous episode and we asked you for ideas to upgrade it! In this Episode, Clem takes our element14 community member's number one suggestion and builds a robot arm for the FPV rover! https://bit.ly/3hXPg4x\n\nEngage with the element14 presents team on the element14 Community - suggest builds, find project files and behind the scenes video: http://bit.ly/2MFMG0v\n\nVisit the element14 Community for more great activities and free hardware:\n\nTech spotlights: http://bit.ly/2KLz0TS\nRoadtest and Reviews: http://bit.ly/2KH4fj3\nProject14: http://bit.ly/2wPnajx\n\n#RaspberryPi #Robotics #Robot #Servo #LaserCutting #FPV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ojk0w2tIcA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ojk0w2tIcA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ojk0w2tIcA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ojk0w2tIcA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ojk0w2tIcA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ojk0w2tIcA8"
+        },
+        "videoOwnerChannelTitle": "element14 presents",
+        "videoOwnerChannelId": "UChturLXwYxwTOf_5krs0qvA"
+      },
+      "contentDetails": {
+        "videoId": "Ojk0w2tIcA8",
+        "videoPublishedAt": "2021-07-23T13:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-Nnu_YwBUHEziQU8lG6qu3mbhUc",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-08-01T23:43:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Self-supervised Learning of LiDAR Odometry for Robotic Applications (ICRA 2021 Presentation)",
+        "description": "Presentation for the IEEE International Conference on Robotics and Automation (ICRA) 2021\n\nJulian Nubert, Shehryar Khattak and Marco Hutter\n\nPaper: https://arxiv.org/pdf/2011.05418.pdf\nCode: https://github.com/leggedrobotics/DeLORA\n\nAbstract:\nReliable robot pose estimation is a key building block of many robot autonomy pipelines, with LiDAR localization being an active research domain. In this work, a versatile self-supervised LiDAR odometry estimation method is presented, in order to enable the efficient utilization of all available LiDAR data while maintaining real-time performance. The proposed approach selectively applies geometric losses during training, being cognizant of the amount of information that can be extracted from scan points. In addition, no labeled or ground-truth data is required, hence making the presented approach suitable for pose estimation in applications where accurate ground-truth is difficult to obtain. Furthermore, the presented network architecture is applicable to a wide range of environments and sensor modalities without requiring any network or loss function adjustments. The proposed approach is thoroughly tested for both indoor and outdoor real-world applications through a variety of experiments using legged, tracked and wheeled robots, demonstrating the suitability of learning-based LiDAR odometry for complex robotic applications.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/83Bn2zKi-bQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/83Bn2zKi-bQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/83Bn2zKi-bQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/83Bn2zKi-bQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/83Bn2zKi-bQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "83Bn2zKi-bQ"
+        },
+        "videoOwnerChannelTitle": "Robotic Systems Lab: Legged Robotics at ETH Z\u00fcrich",
+        "videoOwnerChannelId": "UCHjP785620I8LFjSxf_CJCw"
+      },
+      "contentDetails": {
+        "videoId": "83Bn2zKi-bQ",
+        "videoPublishedAt": "2021-05-30T11:06:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8am4I0rN81yEN7kSz1pJt2IA7S8",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-08-03T12:53:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Autonomous NERF Robot controlled by LIDAR",
+        "description": "I wanted to experiment with a LIDAR unit so I thought I'd make a robot that can look for objects and shoot them with NERF Blasters. I'm using an RPLidar A1 and just processing the data on an Arduino MEGA. It's a lot like having a 360' array of range finders but being able to pick out any angle to get the data. \n\nThe robot looks at the average distance in 360 10' segments, bookmarks the value, and then looks for any change - objects coming closer in any segment. If any objects are detected it turns to that segment using wheel encoders for positing and shoots the target.  I'd like to give it the ability to roam around looking for specific objects using the Jetson Nano for object recognition.\n\nVideos from the start:\n\nhttps://www.youtube.com/watch?v=Qrtz0a7HaQ4\nhttps://www.youtube.com/watch?v=-WkocdmABTI\n\nCAD and Code is at: https://github.com/XRobots/LidarNerf\n\nYou can support me on Patreon or buy my Merchandise:\n***************************\nPatreon: https://www.patreon.com/xrobots\nMerchandise: https://teespring.com/stores/james-bruton\n***************************\n\nAffiliate links - I will get some money of you use them to sign up or buy something:\n***************************\nMatterhackers 3D printing supplies: http://www.matterhackers.com?aff=7500\nMusic for your YouTube videos: http://share.epidemicsound.com/xrobots\nAmazon US: https://www.amazon.com/?tag=xrobotsuk-20\nAmazon UK: https://www.amazon.co.uk/?tag=xrobotsuk-21\nAmazon FR France: https://www.amazon.fr/?tag=xrobotsuk0c-21\nAmazon DE Germany: https://www.amazon.de/?tag=xrobotsuk02-21\nAmazon ES Spain: https://www.amazon.es/?tag=xrobotsuk07-21\nAmazon IT Italy: https://www.amazon.it/?tag=xrobotsuk08-21\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nFacebook: https://www.facebook.com/xrobotsuk/\nTwitter: https://twitter.com/xrobotsuk \n***************************\n\nCAD and Code for my projects: https://github.com/XRobots\n\nHuge thanks to my Patrons, without whom my standard of living would drastically decline. Like, inside out-Farm Foods bag decline. Plus a very special shoutout to Lulzbot, Inc who keep me in LulzBot 3D printers and support me via Patreon.\n\nHARDWARE/SOFTWARE\n\nBelow you can also find a lot of the typical tools, equipment and supplies used in my projects:\n\nLulzbot 3D Printers: http://bit.ly/2Sj6nil\nLincoln Electric Welder: https://bit.ly/2Rqhqos\nCNC Router: https://bit.ly/2QdsNjt\nRyobi Tools: http://bit.ly/2RhArcD\nAxminster Micro Lathe: http://bit.ly/2Sj6eeN\n3D Printer Filament: http://bit.ly/2PdcdUu\nSoldering Iron: http://bit.ly/2DrNWDR\nVectric CNC Software: http://bit.ly/2zxpZqv\n\nWhy not join my community, who are mostly made up of actual geniuses. There\u2019s a Facebook group and everything: https://www.facebook.com/groups/287089964833488/\n\nXROBOTS\n\nFormer toy designer, current YouTube maker and general robotics, electrical and mechanical engineer, I\u2019m a fan of doing it yourself and innovation by trial and error. My channel is where I share some of my useful and not-so-useful inventions, designs and maker advice. Iron Man is my go-to cosplay, and 3D printing can solve most issues - broken bolts, missing parts, world hunger, you name it.\n\nXRobots is the community around my content where you can get in touch, share tips and advice, and more build FAQs, schematics and designs are also available.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3hmUBtxNZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3hmUBtxNZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3hmUBtxNZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r3hmUBtxNZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r3hmUBtxNZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r3hmUBtxNZ4"
+        },
+        "videoOwnerChannelTitle": "James Bruton",
+        "videoOwnerChannelId": "UCUbDcUPed50Y_7KmfCXKohA"
+      },
+      "contentDetails": {
+        "videoId": "r3hmUBtxNZ4",
+        "videoPublishedAt": "2020-06-02T05:28:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JHSzaNNVQIx0TBRuESouUyW_VC8",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-08-03T12:57:05Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Testing: Cycloidal vs Harmonic Drive 3D Printed Reducers",
+        "description": "Over the last few weeks I've built two versions of Cycloidal Drive Reducers, and one Harmonic Drive / Strain Wave Reducer. This video is about testing both using an ODrive and an encoder on the motor so we can energise the motor coils correctly and apply motor holding power. I also want to make sure that the Cycloidal Reducer is tough so that is subject to some extra resilience testing. My Cycloidal Reducer will get developed further, probably removing the bearings, so we can use it in the next version of openDog.\n\nYou can support me on Patreon or buy my Merchandise:\n***************************\nPatreon: https://www.patreon.com/xrobots\nMerchandise: https://teespring.com/stores/james-bruton\n***************************\n\nAffiliate links - I will get some money of you use them to sign up or buy something:\n***************************\nMatterhackers 3D printing supplies: http://www.matterhackers.com?aff=7500\nMusic for your YouTube videos: http://share.epidemicsound.com/xrobots\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nFacebook: https://www.facebook.com/xrobotsuk/\nTwitter: https://twitter.com/xrobotsuk \n***************************\n\nCAD and Code for my projects: https://github.com/XRobots\n\nHuge thanks to my Patrons, without whom my standard of living would drastically decline. Like, inside out-Farm Foods bag decline. Plus a very special shoutout to Lulzbot, Inc who keep me in LulzBot 3D printers and support me via Patreon.\n\nHARDWARE/SOFTWARE\n\nBelow you can also find a lot of the typical tools, equipment and supplies used in my projects:\n\nFilament from: https://www.3dfuel.com/\nLulzbot 3D Printers: http://bit.ly/2Sj6nil\nLincoln Electric Welder: https://bit.ly/2Rqhqos\nCNC Router: https://bit.ly/2QdsNjt\nRyobi Tools: http://bit.ly/2RhArcD\nAxminster Micro Lathe: http://bit.ly/2Sj6eeN\n3D Printer Filament: http://bit.ly/2PdcdUu\nSoldering Iron: http://bit.ly/2DrNWDR\nVectric CNC Software: http://bit.ly/2zxpZqv\n\nWhy not join my community, who are mostly made up of actual geniuses. There\u2019s a Facebook group and everything: https://www.facebook.com/groups/287089964833488/\n\nXROBOTS\n\nFormer toy designer, current YouTube maker and general robotics, electrical and mechanical engineer, I\u2019m a fan of doing it yourself and innovation by trial and error. My channel is where I share some of my useful and not-so-useful inventions, designs and maker advice. Iron Man is my go-to cosplay, and 3D printing can solve most issues - broken bolts, missing parts, world hunger, you name it.\n\nXRobots is the community around my content where you can get in touch, share tips and advice, and more build FAQs, schematics and designs are also available.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KodT7lQyYkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KodT7lQyYkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KodT7lQyYkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KodT7lQyYkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KodT7lQyYkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KodT7lQyYkk"
+        },
+        "videoOwnerChannelTitle": "James Bruton",
+        "videoOwnerChannelId": "UCUbDcUPed50Y_7KmfCXKohA"
+      },
+      "contentDetails": {
+        "videoId": "KodT7lQyYkk",
+        "videoPublishedAt": "2021-04-13T05:45:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6VPFHrsFeSDGqHoSdSwIQGlHYgk",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-08-07T10:52:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Stepper Motors with Arduino - Controlling Bipolar & Unipolar stepper motors",
+        "description": "Learn how to use stepper motors with the Arduino.\n\nFull Article with Code at https://dronebotworkshop.com/stepper-motors-with-arduino/\nMore articles and tutorials: https://dronebotworkshop.com\nJoin the conversation on the forum: https://forum.dronebotworkshop.com\nSubscribe to the newsletter and stay in touch: https://dronebotworkshop.com/subscribe/\n\nToday we will be working with stepper motors, a versatile yet often misunderstood electromechanical component used in a variety of devices. \n\nAfter examining how stepper motors work and what the difference is between a \u201cBipolar\u201d and \u201cUnipolar\u201d stepper is I will show you how three methods of controlling a stepper motor with an Arduino:\n \n1 - A common 28YBJ-48 Unipolar Stepper with a ULN2003 driver board. These inexpensive stepper and driver combinations are very common and are available on eBay, Amazon, and probably in your local electronics store.  I\u2019ll show you two different ways to use these with two different Arduino libraries.\n\n2 - A NEMA 17 Bipolar stepper motor with an L298N dual H-Bridge driver board. We\u2019ve used the L298N driver board in another video to control a pair of brushed DC motors but it also makes a good driver for a bipolar stepper motor.\n\n3 - The same NEMA 17 Bipolar stepper motor controlled by an A4988 stepper driver. This common driver board is used in many 3D printers and CNC machines and simplifies the control of one or several stepper motors with an Arduino.\n\nI\u2019ll also discuss concepts like microstepping and I will show you how to understand some of the many parameters that are included on stepper motor specification sheets.\n\nIf you\u2019d like to jump ahead to a particular section in the video here is the table of contents:\n\n00:00 - Introduction\n01:34 - Stepper Motor Theory\n04:21 - Bipolar vs Unipolar Steppers\n08:18 - Common Stepper Specifications\n11:32 - NEMA motor sizes\n13:41 - 28YBJ-48 Unipolar Stepper with ULN2003\n28:16 - NEMA 17 Bipolar with L298N\n36:41 - NEMA 17 Bipolar with A4988\n\nAs always you can get all of the code I use in this video by visiting the DroneBot Workshop website and looking at the article at https://dbot.ws/stepper. You\u2019ll find code listings and hookup diagrams and well as a convenient ZIP file containing all of the Arduino sketches.\n\nHopefully, this video will inspire you to start using stepper motors in your own designs. \n\nNow let's get stepping!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0qwrnUeSpYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0qwrnUeSpYQ"
+        },
+        "videoOwnerChannelTitle": "DroneBot Workshop",
+        "videoOwnerChannelId": "UCzml9bXoEM0itbcE96CB03w"
+      },
+      "contentDetails": {
+        "videoId": "0qwrnUeSpYQ",
+        "videoPublishedAt": "2018-02-10T14:12:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PJxaPH66bOWaEG3RJiDKt5MjdjM",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-08-07T11:10:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Beginners Guide To Using Large Stepper Motors: #087",
+        "description": "Part of a beginner series in robotics and automation projects.\nIf you want to chip in a few bucks to support these projects, please visit my Patreon page. \n\nhttps://www.patreon.com/jeremyfieldingsr\n\nMy website www.jeremyfielding.com\n\nInstagram https://www.instagram.com/jeremy_fielding/?hl=en\n\nhttps://twitter.com/jeremy_fielding\n\nAmazon affiliate link. I get a small commission at not additional cost to you if you use these links. \n\nThe parts I used in the video today\nhttps://www.amazon.com/shop/jeremy_fielding?listId=26KTIU3Q3RRZ4&ref=idea_share_inf\n\n************************************\nNotes:\nDownload Arduino Software\nhttps://www.arduino.cc/en/software\n\nDownload my code and wiring sketches\nhttps://github.com/jengineer1/Stepper_Motor_Controller\n\nMore on small Stepper motors\n\nhttps://youtu.be/0qwrnUeSpYQ  - Drone bot workshop \n\nTechnical corrections\n\nNothing yet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QMgckRoRy38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QMgckRoRy38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QMgckRoRy38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QMgckRoRy38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QMgckRoRy38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QMgckRoRy38"
+        },
+        "videoOwnerChannelTitle": "Jeremy Fielding",
+        "videoOwnerChannelId": "UC_SLthyNX_ivd-dmsFgmJVg"
+      },
+      "contentDetails": {
+        "videoId": "QMgckRoRy38",
+        "videoPublishedAt": "2020-12-20T13:13:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WyeeWId3AllnO1bGW8eqm6EVnwg",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-08-07T16:39:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "What's the best NEMA23 Stepper/Servo? | Electronic Leadscrew Part 24",
+        "description": "What is the best stepper or servo motor for the Electronic Leadscrew?  I've collected some suitable candidates and today we're going to test open-loop steppers, closed-loop steppers, and a true servo from ClearPath to see how they stack up.\n\nVisit Billy at Knox Machining: https://www.youtube.com/channel/UCkkS3mS6396xbrUITYvFwyg\n\n00:41 Test Setup    \n07:18 Overview of Motors    \n13:12 StepperOnline 566oz.in Stepper with M542T    \n16:47 StepperOnline 566oz.in Stepper with KL-5056D    \n19:43 Automation Technology 2N.m Closed Loop Set    \n22:00 Automation Technology 3.1N.m Closed Loop Set    \n23:22 Rattm Motor 3N.m Closed Loop Set    \n24:52 ClearPath NEMA23 Servo    \n26:26 Automation Technologies 570oz.in Stepper with KL-5056    \n28:38 Automation Technologies 570oz.in Stepper with KL-5056D    \n29:39 Results and Analysis    \n\nMotors and Drivers Tested:\n\nNEMA 24 3.4Nm Stepper Motor (StepperOnline*): https://bit.ly/2S45lLe\nNEMA 24 570oz.in Stepper Motr (Automation Technology): https://bit.ly/3bxcjQ4\nKL-5056E Digital Stepper Driver (Automation Technology): https://bit.ly/3bxEWfV\nNEMA23 2Nm Closed Loop Stepper System (Automation Technology): https://bit.ly/3hwT7pb\nNEMA23 3.1Nm Closed Loop Stepper System (Automation Technology): https://bit.ly/3tOIQrb\nNEMA24 3N.M Closed Loop Stepper with HSS60 (Amazon*): https://amzn.to/3ozvpKN\nMean Well 48VDC 350W Power Supply (Amazon*): https://amzn.to/3tUZpS4\nTeknic ClearPath Integrated Servo Motor: https://www.teknic.com/model-info/CPM-SDSK-2341S-RLN/\n\nOther Tools in this video:\n\n500N Push Pull Force Gauge (Amazon*): https://amzn.to/3hwzXjn\n95 Paracord Type 1 (Amazon*): https://amzn.to/3eRJAat\nWilton 6-1/2\" Tradesman Vise (Amazon*): https://amzn.to/33fqPXz\nRigol DS1054Z Oscilloscope (Amazon*): https://amzn.to/2JlhlhR\nRigol DP832 Triple-Output Power Supply (Amazon*): https://amzn.to/2FHtSfz\nNeiko Digital Non-Contact Tachometer (Amazon*): https://amzn.to/3foeKpc\nShars Ultra Precision 1-2-3 Blocks (pair) (eBay*): https://ebay.to/2RxwqWc\n\n*These are affiliate links.  When you click one of these links and make a purchase, it helps to support projects like this one.\n\nRaw Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/et3oXoA2Hqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/et3oXoA2Hqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/et3oXoA2Hqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/et3oXoA2Hqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/et3oXoA2Hqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "et3oXoA2Hqo"
+        },
+        "videoOwnerChannelTitle": "Clough42",
+        "videoOwnerChannelId": "UCeKpbMimEGgLM_0tnghfoVw"
+      },
+      "contentDetails": {
+        "videoId": "et3oXoA2Hqo",
+        "videoPublishedAt": "2021-05-22T16:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xfU0GRlm3cPaDLRWc2vzS6Up8lM",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-08-22T03:11:13Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "I have made Powerful and Cheap, 3D printed robot actuator",
+        "description": "Check out Fantom Wallet at: https://store.fantomwallet.com/ and use coupon code 'SKYENTIFIC' for 10% off.\n\nHigh reduction ratio robotics joint for only 32$! This is the stepper version of my compound planetary gearbox. It has high reduction ratio (1:84). I plan to improve this version with the 3D printed slew bearing. And after I will design a complete robot arm with such actuators.\n\nAll 3D printable files are available for my 10 USD/month (and higher) Patrons (https://www.patreon.com/Skyentific\r).\n\nSpecial thanks to my special Patrons: RobotDigg Shanghai, Shounak Bhattacharya, M. Aali, Matthew Harrison and Vikas Marwaha!\n\nPlease subscribe. This will help me to develop other projects like this, to bring the bright future closer! \r\n\r\nOne time donation:\r\nhttps://www.paypal.me/Skyentific\r\n\r\nIf you want to help this channel, please support me on Patreon: \r\nhttps://www.patreon.com/Skyentific\r\n\r\nInstagram: https://www.instagram.com/skyentificinsta/\r\nFacebook: https://www.facebook.com/SkyentificFace\r\nTwitter: https://twitter.com/SkyentificTweet\r\n\r\n#DIY #Actuator #Robotics",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a1sZSIDxpfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a1sZSIDxpfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a1sZSIDxpfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a1sZSIDxpfg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a1sZSIDxpfg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a1sZSIDxpfg"
+        },
+        "videoOwnerChannelTitle": "Skyentific",
+        "videoOwnerChannelId": "UCcgqJ1blFKqbC2bWGY4Opmg"
+      },
+      "contentDetails": {
+        "videoId": "a1sZSIDxpfg",
+        "videoPublishedAt": "2021-08-16T13:02:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xvIsjttRpKXP70NJ6pDjrXxKrYg",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-08-29T03:40:04Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Drone Programming With Python Course | 3 Hours | Including x4 Projects | Computer Vision",
+        "description": "This is the Drone programming with python course. Here we are going to learn the basics of a drone including the components and how the drone flies. Then we will look the installations and the basic movements along with image capture. From their we will create exciting projects including Surveillance drone , Face tracking and line following drone. \nIf you are a beginner don't worry this course is for you we will focus on the implementation part so that you can get most practical experience out of this. And even though we will be using a specific drone for this course 80% of the material covered in this course can be used with any drone. \n\nPremium Courses: \n\u2714\ufe0fAdvanced Drone Programming Course:\nhttps://www.computervision.zone/adv-drone-pro-lp/ \n\u2714\ufe0f Learn to Build Computer Vision Mobile Apps:\nhttps://www.computervision.zone/cv-mobile-app-lp/\n\u2714\ufe0f Jetson Nano Premium Course:\nhttps://www.computervision.zone/cv-jetson-nano-lp/\n\nBuy the Tello Drone:\nhttps://amzn.to/2t4l2pW \n\nDownload Code:\nhttps://www.computervision.zone/courses/drone-programming/\n\nShirts for Coders:\nhttps://bit.ly/3CEipcD\n\nFollow Me:\nDiscord: https://discord.gg/bFVMkzf  \nFacebook: https://www.facebook.com/murtazasworkshop\nInstagram : https://www.instagram.com/murtazasworkshop/\nWebsite: https://www.computervision.zone/\nGithub: https://github.com/murtazahassan\nThingiverse: https://www.thingiverse.com/Murtaza_Hassan/\n\nProduct Links:\nJetson Nano: https://amzn.to/3eY3AWN \nCheap Drone for OpenCV: https://amzn.to/2TZpsJy\nDC Motors + Wheels + Chassis: https://amzn.to/2SCZon3\nDC Motors + Wheels: https://amzn.to/2QeEusw\nArduino UNO: https://amzn.to/2QdKthB\nMotor Driver: https://amzn.to/35grl6x\nBattery: https://amzn.to/2Fadc0c\nRecommend Webcam for Computer Vision: https://amzn.to/2MNtVKZ\nBudget Webcam: https://amzn.to/2ZP47Ug\nRaspberry Pi 4 Best Starter Kit:  https://amzn.to/2YVCEkL\nRaspberry Pi Recommended Battery: https://amzn.to/2C0I9pl\n\n#ComputerVision\n#OpenCV\n#Python\n\nTime Stamps:\n00:00 Intro\n1:00 What is a drone?\n2:14  Components of a drone\n05:56 How does a drone fly?\n08:42 Tello Drone\n11:25 App Setup and Test Run \n15:07 Installations\n19:21 Basic Movements\n31:16 Image Capture\n36:27 Keyboard Control\n59:13 Project 1 - Surveillance\n1:10:34 Project 2 - Mapping\n1:52:15 Project 3 - Face Tracking\n2:32:18 Project 4 - Line Follower",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LmEcyQnfpDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LmEcyQnfpDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LmEcyQnfpDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LmEcyQnfpDA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LmEcyQnfpDA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LmEcyQnfpDA"
+        },
+        "videoOwnerChannelTitle": "Murtaza's Workshop - Robotics and AI",
+        "videoOwnerChannelId": "UCYUjYU5FveRAscQ8V21w81A"
+      },
+      "contentDetails": {
+        "videoId": "LmEcyQnfpDA",
+        "videoPublishedAt": "2021-01-01T17:34:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-2onkGBxgAQguV8BZf3bWv-uYak",
+      "id": "UExJamhmbHVoTmQ5LU1saDlXMTlUZjN3OTl6bGU0em1EQS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-08-31T06:03:34Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "AD How To Make Robots Move Smoothly | Arduino Tutorial",
+        "description": "$2 for 5 PCBs, SMT Assembly fee $0. Order from https://jlcpcb.com/RHS\n\nThere are lots of great animatronic and robotics props and projects out there, and it's easy to make r/c servos and other actuators move using the Arduino servo library. This means that the servos stops and start very suddenly, moving as fast as they can between positions. In this video I'm going to show you two lines of very simple code to make things smoother.\n\nCAD and Code: https://github.com/XRobots/ServoSmoothing\n\nYou can support me on Patreon or buy my Merchandise:\n***************************\nPatreon: https://www.patreon.com/xrobots\nMerchandise: https://teespring.com/stores/james-bruton\n***************************\n\nAffiliate links - I will get some money of you use them to sign up or buy something:\n***************************\nMatterhackers 3D printing supplies: http://www.matterhackers.com?aff=7500\nMusic for your YouTube videos: http://share.epidemicsound.com/xrobots\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nFacebook: https://www.facebook.com/xrobotsuk/\nTwitter: https://twitter.com/xrobotsuk \n***************************\n\nCAD and Code for my projects: https://github.com/XRobots\n\nHuge thanks to my Patrons, without whom my standard of living would drastically decline. Like, inside out-Farm Foods bag decline. Plus a very special shoutout to Lulzbot, Inc who keep me in LulzBot 3D printers and support me via Patreon.\n\nHARDWARE/SOFTWARE\n\nBelow you can also find a lot of the typical tools, equipment and supplies used in my projects:\n\nFilament from: https://www.3dfuel.com/\nLulzbot 3D Printers: http://bit.ly/2Sj6nil\nLincoln Electric Welder: https://bit.ly/2Rqhqos\nCNC Router: https://bit.ly/2QdsNjt\nRyobi Tools: http://bit.ly/2RhArcD\nAxminster Micro Lathe: http://bit.ly/2Sj6eeN\n3D Printer Filament: http://bit.ly/2PdcdUu\nSoldering Iron: http://bit.ly/2DrNWDR\nVectric CNC Software: http://bit.ly/2zxpZqv\n\nWhy not join my community, who are mostly made up of actual geniuses. There\u2019s a Facebook group and everything: https://www.facebook.com/groups/287089964833488/\n\nXROBOTS\n\nFormer toy designer, current YouTube maker and general robotics, electrical and mechanical engineer, I\u2019m a fan of doing it yourself and innovation by trial and error. My channel is where I share some of my useful and not-so-useful inventions, designs and maker advice. Iron Man is my go-to cosplay, and 3D printing can solve most issues - broken bolts, missing parts, world hunger, you name it.\n\nXRobots is the community around my content where you can get in touch, share tips and advice, and more build FAQs, schematics and designs are also available.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jsXolwJskKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jsXolwJskKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jsXolwJskKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jsXolwJskKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jsXolwJskKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd9-Mlh9W19Tf3w99zle4zmDA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jsXolwJskKM"
+        },
+        "videoOwnerChannelTitle": "James Bruton",
+        "videoOwnerChannelId": "UCUbDcUPed50Y_7KmfCXKohA"
+      },
+      "contentDetails": {
+        "videoId": "jsXolwJskKM",
+        "videoPublishedAt": "2021-08-31T05:45:02Z"
+      }
+    }
+  ]
+}

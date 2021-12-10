@@ -1,0 +1,50 @@
+{
+  "_id": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+  "as_of": "2021-12-10 00:21:41.763685",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "JLZHxGBoGwuL7y-hyI3k_caClKE",
+    "id": "PLIjhfluhNd994focGXggpDJPXMaUhcvPW",
+    "snippet": {
+      "publishedAt": "2020-10-11T16:08:00Z",
+      "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+      "title": "\ud83d\udcbb Code: Functional Programming",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xCut-QT2cpI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xCut-QT2cpI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xCut-QT2cpI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xCut-QT2cpI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xCut-QT2cpI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Donald Thompson",
+      "localized": {
+        "title": "\ud83d\udcbb Code: Functional Programming",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 45
+    }
+  }
+}

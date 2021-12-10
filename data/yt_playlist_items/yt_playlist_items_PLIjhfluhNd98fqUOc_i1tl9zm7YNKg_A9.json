@@ -1,0 +1,996 @@
+{
+  "_id": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+  "as_of": "2021-12-10 00:22:04.613697",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F4CcDSOQNX1JO8vRcUHrH2O0jy0",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-11-26T13:10:03Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "A friendly introduction to Deep Learning and Neural Networks",
+        "description": "Announcement: New Book by Luis Serrano! Grokking Machine Learning. bit.ly/grokkingML\n40% discount code: serranoyt\n\nA friendly introduction to neural networks and deep learning.\n\nThis is a follow up to the Introduction to Machine Learning video.\nhttps://www.youtube.com/watch?v=IpGxLWOIZy4\n\nNote: In this tutorial I use natural logarithms. If you used logarithms base 10, you may get different answers that I got, although at the end it doesn't matter, since using a different base for the logarithm just scales all the logarithms by a constant.\n\n\u2b50 Kite is a free AI-powered coding assistant that will help you code faster and smarter. The Kite plugin integrates with all the top editors and IDEs to give you smart completions and documentation while you\u2019re typing. I've been using Kite for 6 months and I love it! https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=luisserrano&utm_content=description-only\n\n00:00 What is machine learning?\n2:22 Gradient descent \n5:07 Neural network \n10:11 logistic regression \n12:28 Probability \n14:57 Activation Function \n19:56 Error function \n22:34 Node(Neuron)\n24:07 Non-linear regions \n31:22 Deep neural network",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BR9h47Jtqyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BR9h47Jtqyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BR9h47Jtqyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BR9h47Jtqyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BR9h47Jtqyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BR9h47Jtqyw"
+        },
+        "videoOwnerChannelTitle": "Serrano.Academy",
+        "videoOwnerChannelId": "UCgBncpylJ1kiVaPyP-PZauQ"
+      },
+      "contentDetails": {
+        "videoId": "BR9h47Jtqyw",
+        "videoPublishedAt": "2016-12-27T07:21:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C9MptoW_yC4mC_GTGnUcAWJjKpU",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-11-24T08:03:01Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How Deep Neural Networks Work",
+        "description": "Part of the End-to-End Machine Learning School Course 193, How Neural Networks Work at https://e2eml.school/193\n\nVisit the blog:\nhttps://brohrer.github.io/how_neural_networks_work.html\n\nGet the slides:\nhttps://docs.google.com/presentation/d/1AAEFCgC0Ja7QEl3-wmuvIizbvaE-aQRksc7-W8LR2GY/edit?usp=sharing\n\nErrata\n3:40 - I presented a hyperbolic tangent function and labeled it a sigmoid. While it is S-shaped (the literal meaning of \"sigmoid\") the term is generally used as a synonym for the logistic function. The label is misleading. It should read \"hyperbolic tangent\".\n\n\n7:10 - The two connections leading to the bottom most node in the most recently added layer are shown as black when they should be white. This is corrected in 10:10.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ILsA4nyG7I0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ILsA4nyG7I0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ILsA4nyG7I0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ILsA4nyG7I0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ILsA4nyG7I0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ILsA4nyG7I0"
+        },
+        "videoOwnerChannelTitle": "Brandon Rohrer",
+        "videoOwnerChannelId": "UCsBKTrp45lTfHa_p49I2AEQ"
+      },
+      "contentDetails": {
+        "videoId": "ILsA4nyG7I0",
+        "videoPublishedAt": "2017-03-02T12:11:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GuYz6O5yP1rNYfw0zWCmqHe9ub8",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-11-24T07:59:06Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)",
+        "description": "Part of the End-to-End Machine Learning School Course 193, How Neural Networks Work at https://e2eml.school/193",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WCUNPb-5EYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WCUNPb-5EYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WCUNPb-5EYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WCUNPb-5EYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WCUNPb-5EYI"
+        },
+        "videoOwnerChannelTitle": "Brandon Rohrer",
+        "videoOwnerChannelId": "UCsBKTrp45lTfHa_p49I2AEQ"
+      },
+      "contentDetails": {
+        "videoId": "WCUNPb-5EYI",
+        "videoPublishedAt": "2017-06-27T22:35:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fnMU9YAk8wuJDMpUcsm2RsR25v4",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-11-26T11:36:43Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Deep Learning: A Crash Course",
+        "description": "Deep learning is a revolutionary technique for discovering patterns from data. We'll see how this technology works and what it offers us for computer graphics. Attendees learn how to use these tools to power their own creative and practical investigations and applications.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r0Ogt-q956I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r0Ogt-q956I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r0Ogt-q956I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r0Ogt-q956I"
+        },
+        "videoOwnerChannelTitle": "ACMSIGGRAPH",
+        "videoOwnerChannelId": "UCbaxUExGKrH2zxY4AkY9wCg"
+      },
+      "contentDetails": {
+        "videoId": "r0Ogt-q956I",
+        "videoPublishedAt": "2018-08-13T01:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0rSAAeI6qhtI6KOhjQ28stFeX7k",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-11-22T08:59:54Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How Deep Neural Networks Work - Full Course for Beginners",
+        "description": "Even if you are completely new to neural networks, this course will get you comfortable with the concepts and math behind them.\n\nNeural networks are at the core of what we are calling Artificial Intelligence today. They can seem impenetrable, even mystical, if you are trying to understand them for the first time, but they don't have to.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n \u2328\ufe0f (0:00:00) How neural networks work\n \u2328\ufe0f (0:24:13) What neural networks can learn and how they learn it\n \u2328\ufe0f (0:51:37) How convolutional neural networks (CNNs) work\n \u2328\ufe0f (1:16:55) How recurrent neural networks (RNNs) and long-short-term memory (LSTM) work\n \u2328\ufe0f (1:42:49) Deep learning demystified\n \u2328\ufe0f (2:03:33) Getting closer to human intelligence through robotics\n \u2328\ufe0f (2:49:18) How CNNs work, in depth\n\n\ud83c\udfa5 Lectures by Brandon Rohrer. Check out his YouTube channel: https://www.youtube.com/user/BrandonRohrer\n\n\ud83d\udd17 Find more courses from Brandon at https://end-to-end-machine-learning.teachable.com/\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://medium.freecodecamp.org\n\nAnd subscribe for new videos on technology: https://youtube.com/subscription_center?add_user=freecodecamp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dPWYUELwIdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dPWYUELwIdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dPWYUELwIdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dPWYUELwIdM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dPWYUELwIdM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dPWYUELwIdM"
+        },
+        "videoOwnerChannelTitle": "freeCodeCamp.org",
+        "videoOwnerChannelId": "UC8butISFwT-Wl7EV0hUK0BQ"
+      },
+      "contentDetails": {
+        "videoId": "dPWYUELwIdM",
+        "videoPublishedAt": "2019-04-16T15:58:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S6eksq4HoKe6VLo7Dl8aftoHA94",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-11-26T13:10:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Lecture 7 Self-Supervised Learning -- UC Berkeley Spring 2020 - CS294-158 Deep Unsupervised Learning",
+        "description": "Course homepage:\nhttps://sites.google.com/view/berkeley-cs294-158-sp20/home\nLecture Instructor: Aravind Srinivas\nCourse Instructors: Pieter Abbeel, Aravind Srinivas, Peter Chen, Jonathan Ho, Alex Li, Wilson Yan\nCS294-158-SP20: Deep Unsupervised Learning\nUC Berkeley, Spring 2020",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dMUes74-nYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dMUes74-nYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dMUes74-nYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dMUes74-nYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dMUes74-nYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dMUes74-nYY"
+        },
+        "videoOwnerChannelTitle": "Pieter Abbeel",
+        "videoOwnerChannelId": "UC88M-XNc4BlzJVJvOyiHZDQ"
+      },
+      "contentDetails": {
+        "videoId": "dMUes74-nYY",
+        "videoPublishedAt": "2020-03-12T16:25:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5ChPKl2nzKI2EUec_ePh6X06e9c",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-11-26T13:10:24Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Supervised Contrastive Learning",
+        "description": "The cross-entropy loss has been the default in deep learning for the last few years for supervised learning. This paper proposes a new loss, the supervised contrastive loss, and uses it to pre-train the network in a supervised fashion. The resulting model, when fine-tuned to ImageNet, achieves new state-of-the-art.\n\nhttps://arxiv.org/abs/2004.11362\n\nAbstract:\nCross entropy is the most widely used loss function for supervised training of image classification models. In this paper, we propose a novel training methodology that consistently outperforms cross entropy on supervised learning tasks across different architectures and data augmentations. We modify the batch contrastive loss, which has recently been shown to be very effective at learning powerful representations in the self-supervised setting. We are thus able to leverage label information more effectively than cross entropy. Clusters of points belonging to the same class are pulled together in embedding space, while simultaneously pushing apart clusters of samples from different classes. In addition to this, we leverage key ingredients such as large batch sizes and normalized embeddings, which have been shown to benefit self-supervised learning. On both ResNet-50 and ResNet-200, we outperform cross entropy by over 1%, setting a new state of the art number of 78.8% among methods that use AutoAugment data augmentation. The loss also shows clear benefits for robustness to natural corruptions on standard benchmarks on both calibration and accuracy. Compared to cross entropy, our supervised contrastive loss is more stable to hyperparameter settings such as optimizers or data augmentations.\n\nAuthors: Prannay Khosla, Piotr Teterwak, Chen Wang, Aaron Sarna, Yonglong Tian, Phillip Isola, Aaron Maschinot, Ce Liu, Dilip Krishnan\n\nLinks:\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nMinds: https://www.minds.com/ykilcher",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MpdbFLXOOIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MpdbFLXOOIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MpdbFLXOOIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MpdbFLXOOIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MpdbFLXOOIw"
+        },
+        "videoOwnerChannelTitle": "Yannic Kilcher",
+        "videoOwnerChannelId": "UCZHmQk67mSJgfCCTn7xBfew"
+      },
+      "contentDetails": {
+        "videoId": "MpdbFLXOOIw",
+        "videoPublishedAt": "2020-04-24T11:59:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Uwn6GvlbO471dqp1ASrpiCS1p_0",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-11-21T23:45:15Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Graph Convolutional Networks (GCNs) made simple",
+        "description": "This video introduces Graph Convolutional Networks and works through a Content Abuse example.  For a hands on example with code, check out this blog:  https://blog.zakjost.com/post/gcn_citeseer/\n\nMailing List:  https://blog.zakjost.com/subscribe \nDiscord Server:  https://discord.gg/xh2chKX \nOriginal Paper:  https://openreview.net/pdf?id=SJU4ayYgl\nPatreon: https://www.patreon.com/welcomeaioverlords",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2KRAOZIULzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2KRAOZIULzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2KRAOZIULzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2KRAOZIULzw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2KRAOZIULzw"
+        },
+        "videoOwnerChannelTitle": "WelcomeAIOverlords",
+        "videoOwnerChannelId": "UCxw9_WYmLqlj5PyXu2AWU_g"
+      },
+      "contentDetails": {
+        "videoId": "2KRAOZIULzw",
+        "videoPublishedAt": "2020-05-18T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yMwHZuHmM-vl-k92E_VAFLOHYlM",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-11-26T13:10:56Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "BYOL: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning (Paper Explained)",
+        "description": "Self-supervised representation learning relies on negative samples to keep the encoder from collapsing to trivial solutions. However, this paper shows that negative samples, which are a nuisance to implement, are not necessary for learning good representation, and their algorithm BYOL is able to outperform other baselines using just positive samples.\n\nOUTLINE:\n0:00 - Intro & Overview\n1:10 - Image Representation Learning\n3:55 - Self-Supervised Learning\n5:35 - Negative Samples\n10:50 - BYOL\n23:20 - Experiments\n30:10 - Conclusion & Broader Impact\n\nPaper: https://arxiv.org/abs/2006.07733\n\nAbstract:\nWe introduce Bootstrap Your Own Latent (BYOL), a new approach to self-supervised image representation learning. BYOL relies on two neural networks, referred to as online and target networks, that interact and learn from each other. From an augmented view of an image, we train the online network to predict the target network representation of the same image under a different augmented view. At the same time, we update the target network with a slow-moving average of the online network. While state-of-the art methods intrinsically rely on negative pairs, BYOL achieves a new state of the art without them. BYOL reaches 74.3% top-1 classification accuracy on ImageNet using the standard linear evaluation protocol with a ResNet-50 architecture and 79.6% with a larger ResNet. We show that BYOL performs on par or better than the current state of the art on both transfer and semi-supervised benchmarks.\n\nAuthors: Jean-Bastien Grill, Florian Strub, Florent Altch\u00e9, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, R\u00e9mi Munos, Michal Valko\n\nLinks:\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://discord.gg/4H8xxDF\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nMinds: https://www.minds.com/ykilcher",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YPfUiOMYOEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YPfUiOMYOEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YPfUiOMYOEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YPfUiOMYOEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YPfUiOMYOEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YPfUiOMYOEE"
+        },
+        "videoOwnerChannelTitle": "Yannic Kilcher",
+        "videoOwnerChannelId": "UCZHmQk67mSJgfCCTn7xBfew"
+      },
+      "contentDetails": {
+        "videoId": "YPfUiOMYOEE",
+        "videoPublishedAt": "2020-06-17T13:48:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uyvTDNlSpJnjOO7BL5deOXuUCWY",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-11-22T05:19:31Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The ultimate intro to Graph Neural Networks. Maybe.",
+        "description": "Ms. Coffee Bean appears with the definitive introduction to Graph Neural Networks! Or short: GNNs. Because graphs are everywhere (almost).\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\ud83d\udd25 Optionally, pay us a coffee to boost our Coffee Bean production!  \u2615\nPatreon: https://www.patreon.com/AICoffeeBreak\nKo-fi: https://ko-fi.com/aicoffeebreak\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\nOutline:\n* 00:00 Graphs are everywhere!\n* 02:32 GNNs explained\n* 07:25 GNNs applications\n\n\ud83d\udd17 Links:\nYouTube: https://www.youtube.com/AICoffeeBreak\nTwitter: https://twitter.com/AICoffeeBreak\nReddit: https://www.reddit.com/r/AICoffeeBreak/\n\n#AICoffeeBreak #MsCoffeeBean #GCN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/me3UsMm9QEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/me3UsMm9QEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/me3UsMm9QEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/me3UsMm9QEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "me3UsMm9QEs"
+        },
+        "videoOwnerChannelTitle": "AI Coffee Break with Letitia",
+        "videoOwnerChannelId": "UCobqgqE4i5Kf7wrxRxhToQA"
+      },
+      "contentDetails": {
+        "videoId": "me3UsMm9QEs",
+        "videoPublishedAt": "2020-08-13T12:11:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h_9l9etWDqZ_hYHff0QkewvIQxc",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-11-24T08:05:35Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Understanding Graph Neural Networks | Part 1/3 - Introduction",
+        "description": "\u25ac\u25ac Code \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nColab Notebook: https://colab.research.google.com/drive/16GBgwYR2ECiXVxA1BoLxYshKczNMeEAQ?usp=sharing\n\n\u25ac\u25ac Used Music \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nhttps://www.purple-planet.com\n\n\u25ac\u25ac Timestamps \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n00:00 Introduction to Graphs\n01:30 Graphs are everywhere\n02:29 Machine learning applications \n03:25 Motivation for GNNs\n05:36 Graph Neural Networks\n\n\u25ac\u25ac Support me if you like \ud83c\udf1f\n\u25baLink to this channel: https://bit.ly/3zEqL1W\n\u25baSupport me on Patreon: https://bit.ly/2Wed242\n\u25baBuy me a coffee on Ko-Fi: https://bit.ly/3kJYEdl\n\n\n\u25ac\u25ac My equipment \ud83d\udcbb\n- Microphone: https://amzn.to/3DVqB8H\n- Microphone mount: https://amzn.to/3BWUcOJ\n- Monitors: https://amzn.to/3G2Jjgr\n- Monitor mount: https://amzn.to/3AWGIAY\n- Height-adjustable table: https://amzn.to/3aUysXC\n- Ergonomic chair: https://amzn.to/3phQg7r\n- PC case: https://amzn.to/3jdlI2Y\n- GPU: https://amzn.to/3AWyzwy\n- Keyboard: https://amzn.to/2XskWHP\n- Bluelight filter glasses: https://amzn.to/3pj0fK2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOctJB4kVlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOctJB4kVlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOctJB4kVlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fOctJB4kVlM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fOctJB4kVlM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fOctJB4kVlM"
+        },
+        "videoOwnerChannelTitle": "DeepFindr",
+        "videoOwnerChannelId": "UCScjF2g0_ZNy0Yv3KbsbR7Q"
+      },
+      "contentDetails": {
+        "videoId": "fOctJB4kVlM",
+        "videoPublishedAt": "2020-09-20T15:58:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BPHZ0elW-amLQIIYte7w0n1uN6A",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-12-01T12:21:18Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The NEAT Algorithm is Neat",
+        "description": "Code samples: https://github.com/Sentdex/NEAT-samples\nNeat-Python: https://neat-python.readthedocs.io/en/latest/\n\nChannel membership: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ/join\nDiscord: https://discord.gg/sentdex\nSupport the content: https://pythonprogramming.net/support-donate/\nTwitter: https://twitter.com/sentdex\nInstagram: https://instagram.com/sentdex\nFacebook: https://www.facebook.com/pythonprogramming.net/\nTwitch: https://www.twitch.tv/sentdex",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZC0gMhYhwW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZC0gMhYhwW0"
+        },
+        "videoOwnerChannelTitle": "sentdex",
+        "videoOwnerChannelId": "UCfzlCWGWYyIQ0aLC5w48gBQ"
+      },
+      "contentDetails": {
+        "videoId": "ZC0gMhYhwW0",
+        "videoPublishedAt": "2021-01-07T18:06:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ef17mw1PyBOrMJ6Zb6Gf7TGEALQ",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-11-22T01:51:36Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Introduction to graph neural networks (made easy!)",
+        "description": "Graph machine learning has become very popular in recent years in the machine learning and engineering communities. In this video, we explore the math behind some of the most popular graph neural network algorithms!\n\nSupport the channel by liking, commenting,  subscribing, and recommend this video to your friends, coworkers, or colleagues if you think they'll find this video valuable!\n\nOther Videos in this Series\nWhy use graphs for machine learning? https://youtu.be/mu1Inz3ltlo\nIntro to graph neural networks https://youtu.be/cka4Fa4TTI4\nSpatio-Temporal Graph Neural Networks https://youtu.be/RRMU8kJH60Q\n\nMy Links:\nYoutube: https://www.youtube.com/channel/UCpXbaIslF2ZKeJ6rW2sjD6g\nTwitter: https://twitter.com/jhanytime\nReddit: https://old.reddit.com/user/jhanytime/\n\nOther Links:\nSlides: https://drive.google.com/file/d/1hWYTJz8CWlHStqMYpZ4psYWssmtS7oVn/view?usp=sharing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cka4Fa4TTI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cka4Fa4TTI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cka4Fa4TTI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cka4Fa4TTI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cka4Fa4TTI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cka4Fa4TTI4"
+        },
+        "videoOwnerChannelTitle": "Jacob Heglund",
+        "videoOwnerChannelId": "UCpXbaIslF2ZKeJ6rW2sjD6g"
+      },
+      "contentDetails": {
+        "videoId": "cka4Fa4TTI4",
+        "videoPublishedAt": "2021-04-11T14:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "es8quE0qImETQYj7UhYHZTg803I",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-11-25T23:52:16Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Transformer Neural Network Simply Explained",
+        "description": "#transformer #neuralnetwork #nlp #machinelearning \nHello, in this video I share a simple step by step explanation on how Transformer Neural Network work.\n\nTimestamps\n0:00 - Intro\n0:45 - Understanding attention technique\n1:40 - Problem with sequence networks \n1:57 - Motivation for Transformer networks\n3:22 - Positional Encoding\n4:32 - Vanilla Attention\n5:22 - Self Attention\n6:52 - Multi-Head Attention\n7:50 - Residual Connection & Normalization\n9:53 - Masked Multi-Head Attention",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8_KVSMupRAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8_KVSMupRAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_KVSMupRAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8_KVSMupRAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8_KVSMupRAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8_KVSMupRAw"
+        },
+        "videoOwnerChannelTitle": "eniolaa",
+        "videoOwnerChannelId": "UCQSluMz4jBNCDFXSYza5wOQ"
+      },
+      "contentDetails": {
+        "videoId": "8_KVSMupRAw",
+        "videoPublishedAt": "2021-04-12T23:38:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "le8thW6IWFytGygo_azc5ddr7IY",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-11-21T21:07:12Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "\u221e-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained)",
+        "description": "#inftyformer #infinityformer #transformer\n\nVanilla Transformers are excellent sequence models, but suffer from very harsch constraints on the length of the sequences they can process. Several attempts have been made to extend the Transformer's sequence length, but few have successfully gone beyond a constant factor improvement. This paper presents a method, based on continuous attention mechanisms, to attend to an unbounded past sequence by representing the past as a continuous signal, rather than a sequence. This enables the Infty-Former to effectively enrich the current context with global information, which increases performance on long-range dependencies in sequence tasks. Further, the paper presents the concept of sticky memories, which highlight past events that are of particular importance and elevates their representation in the long-term memory.\n\nOUTLINE:\n0:00 - Intro & Overview\n1:10 - Sponsor Spot: Weights & Biases\n3:35 - Problem Statement\n8:00 - Continuous Attention Mechanism\n16:25 - Unbounded Memory via concatenation & contraction\n18:05 - Does this make sense?\n20:25 - How the Long-Term Memory is used in an attention layer\n27:40 - Entire Architecture Recap\n29:30 - Sticky Memories by Importance Sampling\n31:25 - Commentary: Pros and cons of using heuristics\n32:30 - Experiments & Results\n\nPaper: https://arxiv.org/abs/2109.00301\n\nSponsor: Weights & Biases\nhttps://wandb.me/start\n\nAbstract:\nTransformers struggle when attending to long contexts, since the amount of computation grows with the context length, and therefore they cannot model long-term memories effectively. Several variations have been proposed to alleviate this problem, but they all have a finite memory capacity, being forced to drop old information. In this paper, we propose the \u221e-former, which extends the vanilla transformer with an unbounded long-term memory. By making use of a continuous-space attention mechanism to attend over the long-term memory, the \u221e-former's attention complexity becomes independent of the context length. Thus, it is able to model arbitrarily long contexts and maintain \"sticky memories\" while keeping a fixed computation budget. Experiments on a synthetic sorting task demonstrate the ability of the \u221e-former to retain information from long sequences. We also perform experiments on language modeling, by training a model from scratch and by fine-tuning a pre-trained language model, which show benefits of unbounded long-term memories.\n\nAuthors: Pedro Henrique Martins, Zita Marinho, Andr\u00e9 F. T. Martins\n\nLinks:\nTabNine Code Completion (Referral): http://bit.ly/tabnine-yannick\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://discord.gg/4H8xxDF\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nMinds: https://www.minds.com/ykilcher\nParler: https://parler.com/profile/YannicKilcher\nLinkedIn: https://www.linkedin.com/in/yannic-kilcher-488534136/\nBiliBili: https://space.bilibili.com/1824646584\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0JlB9gufTw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0JlB9gufTw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0JlB9gufTw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0JlB9gufTw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0JlB9gufTw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0JlB9gufTw8"
+        },
+        "videoOwnerChannelTitle": "Yannic Kilcher",
+        "videoOwnerChannelId": "UCZHmQk67mSJgfCCTn7xBfew"
+      },
+      "contentDetails": {
+        "videoId": "0JlB9gufTw8",
+        "videoPublishedAt": "2021-09-06T12:07:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SrmvrkC-LJ_P3Uw4uL1q1Zdp1P8",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-11-26T14:45:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to explain Graph Neural Networks (with XAI)",
+        "description": "\u25ac\u25ac Papers \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nGNNExplainer: https://arxiv.org/abs/1903.03894\nSurvey: https://arxiv.org/abs/2012.15445\n\n\u25ac\u25ac Used Music \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nMusic from Uppbeat (free for Creators!):\nhttps://uppbeat.io/t/prigida/moonshine\nLicense code: ZKXJTIWE0MVWWKFJ\n\n\u25ac\u25ac Timestamps \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n00:00 Introduction\n00:28 XAI for other data\n01:20 XAI + GNNs\n02:30 Overview of methods\n06:21 GNNExplainer\n09:15 Mathematical details\n13:28 Example\n13:54 GNNExplainer extensions\n14:37 Python library\n\n\u25ac\u25ac Support me if you like \ud83c\udf1f\n\u25baLink to this channel: https://bit.ly/3zEqL1W\n\u25baSupport me on Patreon: https://bit.ly/2Wed242\n\u25baBuy me a coffee on Ko-Fi: https://bit.ly/3kJYEdl\n\n\u25ac\u25ac My equipment \ud83d\udcbb\n- Microphone: https://amzn.to/3DVqB8H\n- Microphone mount: https://amzn.to/3BWUcOJ\n- Monitors: https://amzn.to/3G2Jjgr\n- Monitor mount: https://amzn.to/3AWGIAY\n- Height-adjustable table: https://amzn.to/3aUysXC\n- Ergonomic chair: https://amzn.to/3phQg7r\n- PC case: https://amzn.to/3jdlI2Y\n- GPU: https://amzn.to/3AWyzwy\n- Keyboard: https://amzn.to/2XskWHP\n- Bluelight filter glasses: https://amzn.to/3pj0fK2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NvDM2j8Jgvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NvDM2j8Jgvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvDM2j8Jgvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NvDM2j8Jgvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NvDM2j8Jgvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NvDM2j8Jgvk"
+        },
+        "videoOwnerChannelTitle": "DeepFindr",
+        "videoOwnerChannelId": "UCScjF2g0_ZNy0Yv3KbsbR7Q"
+      },
+      "contentDetails": {
+        "videoId": "NvDM2j8Jgvk",
+        "videoPublishedAt": "2021-10-21T17:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eTwZ4p43zn73RNFHlD4v0tB3nkY",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-11-22T08:03:45Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Coding Train Live: Autoencoders!",
+        "description": "Coding an Autoencoder with Tensorflow.js!\n\ud83d\udca1To learn more about Brilliant, go to https://brilliant.org/CodingTrain and sign up for free. The first 200 people that go to that link will get 20% off the annual Premium subscription.\n\n\ud83d\ude82 Website: http://thecodingtrain.com/ \n\ud83d\udcacDiscord: https://discord.gg/hPuGy2g\n\ud83d\udc96 Membership: http://youtube.com/thecodingtrain/join\n\ud83d\uded2 Store: https://standard.tv/codingtrain\n\ud83d\udcda Books: https://www.amazon.com/shop/thecodingtrain\n\n\ud83c\udfa5 Coding Challenges: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH\n\ud83c\udfa5 Intro to Programming: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\n\n\ud83d\udd17 p5.js: https://p5js.org\n\ud83d\udd17 Processing: https://processing.org",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y9w2PYfIf34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y9w2PYfIf34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y9w2PYfIf34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y9w2PYfIf34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y9w2PYfIf34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y9w2PYfIf34"
+        },
+        "videoOwnerChannelTitle": "The Coding Train",
+        "videoOwnerChannelId": "UCvjgXvBlbQiydffZU7m1_aw"
+      },
+      "contentDetails": {
+        "videoId": "Y9w2PYfIf34",
+        "videoPublishedAt": "2021-11-15T23:16:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BQABCbsH6Rp4-iDzlSXJyngYYO0",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-11-22T09:01:27Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Coding Train Live: Autoencoders Part 2",
+        "description": "Continuing Autoencoders with Tensorflow.js (part 1: https://youtu.be/Y9w2PYfIf34)\n\ud83d\udca1Sign up for the CuriosityStream + Nebula bundle with a 26% exclusive discount ($14.79 for a full year!) at https://curiositystream.com/codingtrain\n\n\n\ud83d\ude82 Website: http://thecodingtrain.com/ \n\ud83d\udcacDiscord: https://discord.gg/hPuGy2g\n\ud83d\udc96 Membership: http://youtube.com/thecodingtrain/join\n\ud83d\uded2 Store: https://standard.tv/codingtrain\n\ud83d\udcda Books: https://www.amazon.com/shop/thecodingtrain\n\n\ud83c\udfa5 Coding Challenges: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH\n\ud83c\udfa5 Intro to Programming: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\n\n\ud83d\udd17 p5.js: https://p5js.org\n\ud83d\udd17 Processing: https://processing.org",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SA7W7rlyc3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SA7W7rlyc3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SA7W7rlyc3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SA7W7rlyc3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SA7W7rlyc3c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SA7W7rlyc3c"
+        },
+        "videoOwnerChannelTitle": "The Coding Train",
+        "videoOwnerChannelId": "UCvjgXvBlbQiydffZU7m1_aw"
+      },
+      "contentDetails": {
+        "videoId": "SA7W7rlyc3c",
+        "videoPublishedAt": "2021-11-20T21:33:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MT1PQegCZ-1BvftWkbBHVvKq1BA",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-11-25T22:51:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Parameter Prediction for Unseen Deep Architectures (w/ First Author Boris Knyazev)",
+        "description": "#deeplearning #neuralarchitecturesearch #metalearning\n\nDeep Neural Networks are usually trained from a given parameter initialization using SGD until convergence at a local optimum. This paper goes a different route: Given a novel network architecture for a known dataset, can we predict the final network parameters without ever training them? The authors build a Graph-Hypernetwork and train on a novel dataset of various DNN-architectures to predict high-performing weights. The results show that not only can the GHN predict weights with non-trivial performance, but it can also generalize beyond the distribution of training architectures to predict weights for networks that are much larger, deeper, or wider than ever seen in training.\n\nOUTLINE:\n0:00 - Intro & Overview\n6:20 - DeepNets-1M Dataset\n13:25 - How to train the Hypernetwork\n17:30 - Recap on Graph Neural Networks\n23:40 - Message Passing mirrors forward and backward propagation\n25:20 - How to deal with different output shapes\n28:45 - Differentiable Normalization\n30:20 - Virtual Residual Edges\n34:40 - Meta-Batching\n37:00 - Experimental Results\n42:00 - Fine-Tuning experiments\n45:25 - Public reception of the paper\n\nERRATA:\n- Boris' name is obviously Boris, not Bori\n- At 36:05, Boris mentions that they train the first variant, yet on closer examination, we decided it's more like the second\n\nPaper: https://arxiv.org/abs/2110.13100\nCode: https://github.com/facebookresearch/ppuda\n\nAbstract:\nDeep learning has been successful in automating the design of features in machine learning pipelines. However, the algorithms optimizing neural network parameters remain largely hand-designed and computationally inefficient. We study if we can use deep learning to directly predict these parameters by exploiting the past knowledge of training other networks. We introduce a large-scale dataset of diverse computational graphs of neural architectures - DeepNets-1M - and use it to explore parameter prediction on CIFAR-10 and ImageNet. By leveraging advances in graph neural networks, we propose a hypernetwork that can predict performant parameters in a single forward pass taking a fraction of a second, even on a CPU. The proposed model achieves surprisingly good performance on unseen and diverse networks. For example, it is able to predict all 24 million parameters of a ResNet-50 achieving a 60% accuracy on CIFAR-10. On ImageNet, top-5 accuracy of some of our networks approaches 50%. Our task along with the model and results can potentially lead to a new, more computationally efficient paradigm of training networks. Our model also learns a strong representation of neural architectures enabling their analysis.\n\nAuthors: Boris Knyazev, Michal Drozdzal, Graham W. Taylor, Adriana Romero-Soriano\n\nLinks:\nTabNine Code Completion (Referral): http://bit.ly/tabnine-yannick\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://discord.gg/4H8xxDF\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3HUK2UWzlFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3HUK2UWzlFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3HUK2UWzlFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3HUK2UWzlFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3HUK2UWzlFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3HUK2UWzlFA"
+        },
+        "videoOwnerChannelTitle": "Yannic Kilcher",
+        "videoOwnerChannelId": "UCZHmQk67mSJgfCCTn7xBfew"
+      },
+      "contentDetails": {
+        "videoId": "3HUK2UWzlFA",
+        "videoPublishedAt": "2021-11-24T18:26:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6YY84w3U2P68ftZN6fMnpLlYnSk",
+      "id": "UExJamhmbHVoTmQ5OGZxVU9jX2kxdGw5em03WU5LZ19BOS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-12-05T21:04:44Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "A law of robustness and the importance of overparametrization in deep learning",
+        "description": "Microsoft Research Senior Principal Researcher Sebastien Bubeck answers several questions about the NeurIPS 2021 paper, \u201cA Universal Law of Robustness via Isoperimetry.\u201d He discusses what overparametrization is, the law of robustness, and how these two concepts can impact the future of large deep neural network research. \n\nRead the paper in full here: https://www.microsoft.com/en-us/research/publication/a-universal-law-of-robustness-via-isoperimetry/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ujMvnQpP528/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ujMvnQpP528/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ujMvnQpP528/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ujMvnQpP528/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ujMvnQpP528/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd98fqUOc_i1tl9zm7YNKg_A9",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ujMvnQpP528"
+        },
+        "videoOwnerChannelTitle": "Microsoft Research",
+        "videoOwnerChannelId": "UCCb9_Kn8F_Opb3UCGm-lILQ"
+      },
+      "contentDetails": {
+        "videoId": "ujMvnQpP528",
+        "videoPublishedAt": "2021-12-01T15:56:13Z"
+      }
+    }
+  ]
+}

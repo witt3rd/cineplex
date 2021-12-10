@@ -1,0 +1,50 @@
+{
+  "_id": "PLIjhfluhNd9-_wp08TyMG6bikIU-fQyHx",
+  "as_of": "2021-12-10 00:21:41.763639",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "1IDkCTTOcoDS6UkaL_Zi1m6fl2o",
+    "id": "PLIjhfluhNd9-_wp08TyMG6bikIU-fQyHx",
+    "snippet": {
+      "publishedAt": "2019-10-31T20:30:02Z",
+      "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+      "title": "\u2764\ufe0f Poos",
+      "description": "poo is #1!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Donald Thompson",
+      "localized": {
+        "title": "\u2764\ufe0f Poos",
+        "description": "poo is #1!"
+      }
+    },
+    "contentDetails": {
+      "itemCount": 558
+    }
+  }
+}

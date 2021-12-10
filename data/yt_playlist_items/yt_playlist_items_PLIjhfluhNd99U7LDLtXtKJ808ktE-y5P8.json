@@ -1,0 +1,2032 @@
+{
+  "_id": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+  "as_of": "2021-12-10 00:22:00.457373",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w_GMmWDJhCZf3CSX7Liy0Y9kTj4",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-09-21T11:02:27Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Org-Roam Upgrade - Doom Emacs Guide (V1 to V2)",
+        "description": "00:00 Introduction\n00:28 The Major Change to Org-Roam\n00:44 Changing Org-Roam V1 to V2 in Doom Emacs\n02:48 Backing Up my Zettelkasten Files\n04:30 Migrating my Files\n05:13 My First Look at Org-Roam V2\n08:00 Problems Migrating My Notes\n10:00 A Better Backlinks Buffer\n\n\nREFERNCES\nhttps://github.com/org-roam/org-roam/wiki/Hitchhiker's-Rough-Guide-to-Org-roam-V2#hiding-properties\nhttps://org-roam.discourse.group/t/the-org-roam-v2-great-migration/1505\nhttps://orgroam.com\n\n\ud83d\udda5\ufe0f https://abepeters.com\n\ud83d\udcfd\ufe0f https://lbry.tv/@biblecraft:f\n\ud83e\uddf0 https://github.com/bc-abe/doom-emacs\n\ud83c\udf99 https://anchor.fm/poetsphilosophers\n\nMUSIC\nDay Like These\nhttps://www.youtube.com/watch?v=RTGEoh-vPIc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H9QVW1WJVSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H9QVW1WJVSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H9QVW1WJVSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H9QVW1WJVSM"
+        },
+        "videoOwnerChannelTitle": "Abe Peters",
+        "videoOwnerChannelId": "UCwrCgfC5Z5biFxMZCSqnEcA"
+      },
+      "contentDetails": {
+        "videoId": "H9QVW1WJVSM",
+        "videoPublishedAt": "2021-08-06T05:25:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3WStTE-bDpJVFPl9-h6A9bq8ajs",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "10+ tips using org-mode in Doom Emacs | Why I Think Doom Emacs is the Best Writing Software",
+        "description": "00:00 start\n00:50 moving around is easy and fast (Normal Mode)\n02:28    two modes for mouseless editing (Normal + Insert Mode)\n06:15 Fast Heading ordering (Alt + j,h,k,l)\n08:50 One more Edit + Insert move (shift + a, shift + i)\n9:33 highling text (Visual Mode -- v, V, cntl + v)\n11:40 advance vidual mode\n12:45 Folding Headings (tab)\n13:30 narrow to heading\n14:10 Visual Customization (olivetti-mode)\n14:30 /add ribbon on top of org-mode/\n15:50 --org-alist-link--\n16:40 multiple windows (SPC w s, SPC w v)\n18:30 indirect buffer narrow buffer (SPC b c, SPC m s n & SPC m s N)\n20:40 file movement (SPC n r f)\n21:40 converting files Org-export\n24:10 fancy PDF creation (LaTeX export SPC m e l o)\n26:50 conclusion\n\nOrg-mode will get writing and editing faster. Here are 10+ tips that will make you faster at editing.\n\n\ud83d\udda5\ufe0f https://abepeters.com\n\ud83d\udcfd\ufe0f https://lbry.tv/@biblecraft:f\n\ud83e\uddf0 https://github.com/bc-abe/doom-emacs\n\ud83c\udf99 https://anchor.fm/poetsphilosophers\n\nMUSIC\nDay Like These\nhttps://www.youtube.com/watch?v=RTGEoh-vPIc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WyQ4zEo8_Ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WyQ4zEo8_Ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WyQ4zEo8_Ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WyQ4zEo8_Ig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WyQ4zEo8_Ig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WyQ4zEo8_Ig"
+        },
+        "videoOwnerChannelTitle": "Abe Peters",
+        "videoOwnerChannelId": "UCwrCgfC5Z5biFxMZCSqnEcA"
+      },
+      "contentDetails": {
+        "videoId": "WyQ4zEo8_Ig",
+        "videoPublishedAt": "2021-07-07T22:44:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yoTjD94di3HlTL16v09VX2j-Z2g",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Explaining Doom Emacs Basics for Beginners | Config Files | Creating Files and Folders",
+        "description": "0:00 beginning\n0:50 moving around doom files\n1:40 adding and moving text\n2:10 adding text to another folder\n4:50 extra moving\n7:25 editing your config files\n9:00 init.el file explanation, editing, and reloading\n12:00 going over modules and flags\n12:40 config.el file explanation\n13:45 literate programming with config.org\n16:30 custom.el editing and warning\n17:20 packages.el editing and explanation\n18:40 wrap up\n\n\n\ud83d\udda5\ufe0f https://abepeters.com\n\ud83d\udcfd\ufe0f https://lbry.tv/@biblecraft:f\n\ud83e\uddf0 https://github.com/bc-abe/doom-emacs\n\ud83c\udf99 https://anchor.fm/poetsphilosophers\n\nMUSIC\nDay Like These\nhttps://www.youtube.com/watch?v=RTGEoh-vPIc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bDlKJv0er_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bDlKJv0er_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bDlKJv0er_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bDlKJv0er_I"
+        },
+        "videoOwnerChannelTitle": "Abe Peters",
+        "videoOwnerChannelId": "UCwrCgfC5Z5biFxMZCSqnEcA"
+      },
+      "contentDetails": {
+        "videoId": "bDlKJv0er_I",
+        "videoPublishedAt": "2021-07-06T05:31:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R_CXhCeOvq0CdRReuQ8WrD557xY",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Looking at Doom Emacs for the First Time",
+        "description": "I'm going to go through look at Doom Emacs for the first time. It's going to be a disaster.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K3SRiTVHkpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K3SRiTVHkpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K3SRiTVHkpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K3SRiTVHkpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K3SRiTVHkpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K3SRiTVHkpU"
+        },
+        "videoOwnerChannelTitle": "The Linux Cast",
+        "videoOwnerChannelId": "UCylGUf9BvQooEFjgdNudoQg"
+      },
+      "contentDetails": {
+        "videoId": "K3SRiTVHkpU",
+        "videoPublishedAt": "2021-06-07T13:07:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VNnEQ_TrLM4nSjjZ7hRpLkFYVEM",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Doom Emacs or Spacemacs?  Use both with Chemacs2!",
+        "description": "In this video, we'll learn how to use a tool called Chemacs2 to make it possible to switch between multiple Emacs configurations and even use them at the same time!  To prove it, I'll show you how you can use Doom Emacs, Spacemacs, the Emacs From Scratch configuration, and a custom configuration all in their own Emacs windows.\n\nCheck out the show notes here: https://systemcrafters.cc/emacs-tips/multiple-configurations-with-chemacs2\n\nYou can find Chemacs2 here: https://github.com/plexus/chemacs2\n\nWe cover the following topics:\n\n- 0:00 Intro\n- 0:33 The challenge of multiple Emacs configurations\n- 1:38 Enter Chemacs2\n- 4:18 Setting it up\n- 6:28 Managing your Emacs profiles\n- 10:05 Adding a profile\n- 12:24 Setting the default profile\n- 13:45 A real example!\n- 18:07 Doom Emacs Tip\n- 19:21 Using Chemacs2 in your dotfiles repository\n- 21:24 Setting the eln-cache path correctly\n- 23:25 What will you use Chemacs2 for?\n\nMy Emacs configuration: https://config.daviwil.com/emacs\nMy system configurations: https://config.daviwil.com/systems\n\nIf you enjoy this series, please consider becoming a sponsor on GitHub or Patreon:\n\n- https://github.com/sponsors/daviwil\n- https://patreon.com/SystemCrafters\n\nYou can also leave a tip via PayPal: https://paypal.me/daviwil\n\nFollow me on Twitter for more GNU Emacs and GNU Guix content!\nhttps://twitter.com/SystemCrafters\n\nChat with the System Crafters community on Discord: https://discord.gg/yVD8Gx6\n\nCheck out my other video series!\n\n- Emacs Essentials: https://www.youtube.com/watch?v=48JlgiBpw_I&list=PLEoMzSkcN8oPZvSdewHG8uApD7THlLLCV\n- Emacs From Scratch: https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ\n- Emacs Tips: https://www.youtube.com/watch?v=wKTKmE1wLyw&list=PLEoMzSkcN8oMHJ6Xil1YdnYtlWd5hHZql\n- Emacs Desktop Environment: https://www.youtube.com/watch?v=f7xB2fFk1tQ&list=PLEoMzSkcN8oNPbEMYEtswOVTvq7CVddCS\n- Emacs IDE: https://www.youtube.com/watch?v=E-NAM9U5JYE&list=PLEoMzSkcN8oNvsrtk_iZSb94krGRofFjN\n- Emacs Mail: https://www.youtube.com/watch?v=yZRyEhi4y44&list=PLEoMzSkcN8oM-kA19xOQc8s0gr0PpFGJQ\n- Learning Emacs Lisp: https://www.youtube.com/watch?v=RQK_DaaX34Q&list=PLEoMzSkcN8oPQtn7FQEF3D7sroZbXuPZ7\n- Craft Your System with GNU Guix: https://www.youtube.com/watch?v=iBaqOK75cho&list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU\n\nMusic credits:\n\nCoriolis Effect by logos feat. stefsax, licensed Creative Commons 3.0 CC-BY http://ccmixter.org/files/mseq/26296\nreNovation by airtone, licensed Creative Commons 3.0 CC-BY http://ccmixter.org/files/airtone/60674\nukeSounds by airtone, licensed Creative Commons 3.0 CC-BY http://ccmixter.org/files/airtone/32655\nBetween Worlds (Instrumental) by Aussens@iter, licensed Creative Commons 3.0 CC-BY http://ccmixter.org/files/tobias_weber/56664",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hHdM2wVM1PI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hHdM2wVM1PI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hHdM2wVM1PI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hHdM2wVM1PI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hHdM2wVM1PI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hHdM2wVM1PI"
+        },
+        "videoOwnerChannelTitle": "System Crafters",
+        "videoOwnerChannelId": "UCAiiOTio8Yu69c3XnR7nQBQ"
+      },
+      "contentDetails": {
+        "videoId": "hHdM2wVM1PI",
+        "videoPublishedAt": "2021-05-24T14:23:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vebLSp9u0P1OuHJvg-0Myb3QDc0",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2021-09-21T11:02:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Moving in Doom Emacs for Beginners (vim, evil-mode)",
+        "description": "00:00 Beginning\n00:15 Doom Emacs uses evil-mode which mimics the Vim text editor\n01:11 Installing evil-tutor in Doom Emacs\n02:20 Demo of evil-tutor\n05:08 Demo of vim-adventures\n06:47 Wrap up\n\n\n\ud83d\udda5\ufe0f https://abepeters.com\n\ud83d\udcfd\ufe0f https://lbry.tv/@biblecraft:f\n\ud83e\uddf0 https://github.com/bc-abe/doom-emacs\n\ud83c\udf99 https://anchor.fm/poetsphilosophers\n\nMUSIC\nDay Like These\nhttps://www.youtube.com/watch?v=RTGEoh-vPIc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e9OR0Cw-mJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e9OR0Cw-mJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9OR0Cw-mJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e9OR0Cw-mJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e9OR0Cw-mJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e9OR0Cw-mJ0"
+        },
+        "videoOwnerChannelTitle": "Abe Peters",
+        "videoOwnerChannelId": "UCwrCgfC5Z5biFxMZCSqnEcA"
+      },
+      "contentDetails": {
+        "videoId": "e9OR0Cw-mJ0",
+        "videoPublishedAt": "2021-04-22T13:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3bdL6OcWVepghyk8CQQTZARcy-w",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Leaving Doom Emacs For GNU Emacs?  - DT Live!",
+        "description": "New to Emacs and want to learn how to config it?  Install Emacs and follow along with me on the stream.  Though I have been using a preconfigured Emacs distribution (Doom Emacs), in this livestream I will start with a fresh installation of GNU Emacs and write a config to suit my needs. \n\nTHE CONFIGS FROM LIVE STREAM (with some additions to make life even easier)\n\u25ba https://gitlab.com/dwt1/dotfiles/-/blob/master/.emacs.d.gnu/config.org - DT's config.org\n\u25ba https://gitlab.com/dwt1/dotfiles/-/blob/master/.emacs.d.gnu/init.el - DT's init.el\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://distrotoot.com/@derek\n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY/Odysee: https://odysee.com/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gemini Capsule: gemini://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\ud83d\udd0a Audio Podcasts: https://www.buzzsprout.com/1263722\n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83c\udfb5  Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\ud83d\uddd2\ufe0f Doom Emacs: https://github.com/hlissner/doom-emacs\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hoP4I9ounyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hoP4I9ounyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hoP4I9ounyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hoP4I9ounyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hoP4I9ounyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hoP4I9ounyQ"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "hoP4I9ounyQ",
+        "videoPublishedAt": "2021-04-16T01:14:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pz5Vbqs_IoHcn0UwhJSwDUCSBdA",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2021-09-21T11:02:59Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Installing Doom Emacs for the non-programmers (Windows & Linux)",
+        "description": "00:00 intro\n00:27 Demo of Doom Emacs (My Setup)\n00:50 Windows installation\n13:44 Linux installation\n\nI use this setup everyday, for task management, creating pptx files, docx files, book notes, writing my own books, blogging, and just about anything I can get away with doing it in Doom Emacs.\n\nThis is for writers (i.e. non-programmers). If that's you, I'm sure you'll have questions. I'll try to answer then if you ask them.\n\nI included most of the problems I ran into while installing Emacs and Doom Emacs because I wanted you to see how I got around them.\n\nSubscribe for more Emacs\n\nREFERENCES\nhttps://earvingad.github.io/posts/doom_emacs_windows/\n\nDOOM EMACS install (linux)\ngit clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d\n~/.emacs.d/bin/doom install\n\nif you run into problems after install, run this:\n~/.emacs.d/bin/doom sync\n\n\n\ud83d\udda5\ufe0f https://abepeters.com\n\ud83d\udcfd\ufe0f https://lbry.tv/@biblecraft:f\n\ud83e\uddf0 https://github.com/bc-abe/doom-emacs\n\ud83c\udf99 https://anchor.fm/poetsphilosophers\n\nMUSIC\nDay Like These\nhttps://www.youtube.com/watch?v=RTGEoh-vPIc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1VPHA2Lc2zQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1VPHA2Lc2zQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1VPHA2Lc2zQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1VPHA2Lc2zQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1VPHA2Lc2zQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1VPHA2Lc2zQ"
+        },
+        "videoOwnerChannelTitle": "Abe Peters",
+        "videoOwnerChannelId": "UCwrCgfC5Z5biFxMZCSqnEcA"
+      },
+      "contentDetails": {
+        "videoId": "1VPHA2Lc2zQ",
+        "videoPublishedAt": "2021-04-14T21:59:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_0u_fedg9nUIHNfK6OQxWzxqQOU",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2021-09-21T11:03:06Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Tips on Organizing a Reading List With Emacs",
+        "description": "LINKS\n\ud83d\udda5\ufe0f https://abepeters.com\n\ud83d\udcfd\ufe0f https://lbry.tv/@biblecraft:f\n\ud83e\uddf0 https://github.com/bc-abe/doom-emacs\n\ud83c\udf99 https://anchor.fm/poetsphilosophers\n\nhttps://anchor.fm/poetsphilosophers/episodes/Silence-For-the-Modern-Ills-What-Kierkegaard-Can-Teach-Us-About-Living-Well--09-erjkce\n\nMUSIC\nDay Like These\nhttps://www.youtube.com/watch?v=RTGEoh-vPIc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DiZ9eGTVfjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DiZ9eGTVfjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DiZ9eGTVfjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DiZ9eGTVfjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DiZ9eGTVfjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DiZ9eGTVfjg"
+        },
+        "videoOwnerChannelTitle": "Abe Peters",
+        "videoOwnerChannelId": "UCwrCgfC5Z5biFxMZCSqnEcA"
+      },
+      "contentDetails": {
+        "videoId": "DiZ9eGTVfjg",
+        "videoPublishedAt": "2021-03-19T19:58:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "av_uwHSDdxEl2zRfSn1Pa1K6orY",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Absolute Beginner's Guide to Emacs",
+        "description": "This video is intended for people who have used other code editors or IDEs before and are curious to try out Emacs!  The goal is to teach you everything you need to know to get started with Emacs and use it for basic editing tasks.  Once you get comfortable with the basics, check out the other Emacs video series that I've created to learn a whole lot more!\n\nCheck out the show notes here: https://systemcrafters.net/emacs-essentials/absolute-beginners-guide-to-emacs/\n\nAlso, if you want to know a little more about what Emacs is capable of, check out my video \"5 Reasons to Learn Emacs in 2021\": https://youtu.be/bEfYm8sAaQg\n\nCheck out my other video series on Emacs!\n\n- Emacs From Scratch: https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ\n- Emacs Tips: https://www.youtube.com/watch?v=wKTKmE1wLyw&list=PLEoMzSkcN8oMHJ6Xil1YdnYtlWd5hHZql\n- Emacs Desktop Environment: https://www.youtube.com/watch?v=f7xB2fFk1tQ&list=PLEoMzSkcN8oNPbEMYEtswOVTvq7CVddCS\n- Emacs IDE: https://www.youtube.com/watch?v=E-NAM9U5JYE&list=PLEoMzSkcN8oNvsrtk_iZSb94krGRofFjN\n- Emacs Mail: https://www.youtube.com/watch?v=yZRyEhi4y44&list=PLEoMzSkcN8oM-kA19xOQc8s0gr0PpFGJQ\n- Learning Emacs Lisp: https://www.youtube.com/watch?v=RQK_DaaX34Q&list=PLEoMzSkcN8oPQtn7FQEF3D7sroZbXuPZ7\n\nWe cover the following topics:\n\n- 0:00 Intro\n- 1:33 Installation\n- 2:17 GNU/Linux\n- 3:03 GUI or Terminal?\n- 4:06 macOS\n- 4:46 Windows\n- 5:13 Basic Concepts\n- 5:29 The User Interface (Menu Bar, Tool Bar)\n- 9:11 Menu Bar in the Terminal\n- 10:02 Where's the file browser?\n- 11:14 Windows and Frames\n- 15:12 Buffers\n- 19:01 The *scratch* buffer\n- 19:49 The *Messages* buffer\n- 20:37 The *Warnings* buffer\n- 21:08 The Mode Line\n- 25:22 The Echo Area and Minibuffer\n- 27:06 Commands\n- 29:27 Dired\n- 30:49 Calendar\n- 31:12 eshell\n- 31:57 Tetris?\n- 32:40 Major Modes\n- 36:20 Minor Modes\n- 37:01 Minor mode: highlight current line\n- 38:46 Basic Key Bindings\n- 39:40 Understanding Emacs Key Bindings\n- 44:53 The Key Prefixes C-x and C-c\n- 47:25 Opening and Saving Files\n- 50:00 Switching Buffers\n- 52:41 Cutting and Copying Text\n- 55:31 Pasting Text\n- 56:15 CUA Mode (C-c, C-x, and C-v)\n- 57:53 Undo and Redo\n- 59:41 Cancelling Operations\n- 1:01:04 Learning More Key Bindings\n- 1:03:20 The Help System\n- 1:04:28 Configuring Emacs\n- 1:04:42 The Customization UI\n- 1:05:53 The init.el File\n- 1:07:40 What's next?\n\nMy Emacs configuration: https://github.com/daviwil/dotfiles/blob/master/Emacs.org\n\nIf you enjoy the videos on this channel, please consider supporting my work: https://systemcrafters.net/support-the-channel/\n\nFollow me on Twitter for more Emacs content!\nhttps://twitter.com/SystemCrafters\n\nChat with the System Crafters community on Discord: https://discord.gg/yVD8Gx6\n\nIntro music: Coriolis Effect by logos feat. stefsax, licensed CC-BY\nhttp://ccmixter.org/files/mseq/26296",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/48JlgiBpw_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/48JlgiBpw_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/48JlgiBpw_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/48JlgiBpw_I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/48JlgiBpw_I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "48JlgiBpw_I"
+        },
+        "videoOwnerChannelTitle": "System Crafters",
+        "videoOwnerChannelId": "UCAiiOTio8Yu69c3XnR7nQBQ"
+      },
+      "contentDetails": {
+        "videoId": "48JlgiBpw_I",
+        "videoPublishedAt": "2021-03-08T14:53:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-WBofc-WtEVrQBwFnAkUatQz6Ts",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2021-09-21T11:03:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How I Use Org-Roam To Study the Bible | Digital Bible Study Routine | #zettelkasten #emacs",
+        "description": "This is how I start a book of the Bible. This is a condensed version of my livestream video. It's based off the Zettelkasten system.\n\nSo far it's helped my take notes in a way that I can sufficient handle the rabbit holes in my thinking while letting creating a good structure.\n\nWhat has helped you with your digital Bible Study?\n\nLINKS\nhttps://lbry.tv/@biblecraft:f\nhttps://abepeters.com\n\nMUSIC\nChopin - Nocture (LoFi)\nhttps://www.youtube.com/watch?v=AQrxRKKR0u4\nDay Like These\nhttps://www.youtube.com/watch?v=RTGEoh-vPIc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9t8eOkHQB2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9t8eOkHQB2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9t8eOkHQB2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9t8eOkHQB2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9t8eOkHQB2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9t8eOkHQB2s"
+        },
+        "videoOwnerChannelTitle": "Abe Peters",
+        "videoOwnerChannelId": "UCwrCgfC5Z5biFxMZCSqnEcA"
+      },
+      "contentDetails": {
+        "videoId": "9t8eOkHQB2s",
+        "videoPublishedAt": "2021-03-08T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BZp9U_x0iBgF77COjf30klmJLrw",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2021-09-21T11:04:02Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "LIVESTREAM - BIBLE STUDY, EMACS, ORG-ROAM, ZETTELKASTEN (Q&A)",
+        "description": "LINKS\n\nhttps://lbry.tv/@biblecraft:f\nhttps://abepeters.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cS3CBqY79jI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cS3CBqY79jI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cS3CBqY79jI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cS3CBqY79jI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cS3CBqY79jI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cS3CBqY79jI"
+        },
+        "videoOwnerChannelTitle": "Abe Peters",
+        "videoOwnerChannelId": "UCwrCgfC5Z5biFxMZCSqnEcA"
+      },
+      "contentDetails": {
+        "videoId": "cS3CBqY79jI",
+        "videoPublishedAt": "2021-03-05T16:25:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L-Gv7W2OZoB7zmoXicqKAQjDAT0",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2021-09-21T11:23:20Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "System Crafters Live! - Emacs Future in Danger?, Config Hacking, Q&A",
+        "description": "In this stream, we'll hang out and discuss the following topics:\n\n- Is Emacs' future in danger?\n- Comparing workspace management strategies\n- Hacking on the dotfiles management package\n- Bring your Emacs questions, I'll try to answer them!\n\nMy Emacs configuration: https://github.com/daviwil/dotfiles/blob/master/Emacs.org\n\nIf you enjoy this series, please consider becoming a sponsor on GitHub or Patreon:\n\n- https://github.com/sponsors/daviwil\n- https://patreon.com/SystemCrafters\n\nYou can also leave a tip via PayPal: https://paypal.me/daviwil\n\nFollow me on Twitter for more Emacs content!\nhttps://twitter.com/SystemCrafters\n\nChat with the System Crafters community on Discord: https://discord.gg/yVD8Gx6\n\nIntro music: Coriolis Effect by logos feat. stefsax, licensed CC-BY\nhttp://ccmixter.org/files/mseq/26296",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKv5ohsILf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKv5ohsILf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKv5ohsILf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xKv5ohsILf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xKv5ohsILf8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xKv5ohsILf8"
+        },
+        "videoOwnerChannelTitle": "System Crafters",
+        "videoOwnerChannelId": "UCAiiOTio8Yu69c3XnR7nQBQ"
+      },
+      "contentDetails": {
+        "videoId": "xKv5ohsILf8",
+        "videoPublishedAt": "2021-02-12T19:29:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rx4q8KiDoj0yUUxk570IeTHzmFU",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "GNU Emacs, Spacemacs, Doom Emacs on the same computer",
+        "description": "Doom is a configuration framework for GNU Emacs tailored for Emacs bankruptcy veterans who want less framework in their frameworks, a modicum of stability (and reproducibility) from their package manager, and the performance of a hand rolled config (or better). It can be a foundation for your own config or a resource for Emacs enthusiasts to learn more about our favorite operating system.\n\nIts design is guided by these mantras:\n\n    Gotta go fast. Startup and run-time performance are priorities. Doom goes beyond by modifying packages to be snappier and load lazier.\n    Close to metal. There's less between you and vanilla Emacs by design. That's less to grok and less to work around when you tinker. Internals ought to be written as if reading them were part of Doom's UX, and it is!\n    Opinionated, but not stubborn. Doom is about reasonable defaults and curated opinions, but use as little or as much of it as you like.\n    Your system, your rules. You know better. At least, Doom hopes so! It won't automatically install system dependencies (and will force plugins not to either). Rely on doom doctor to tell you what's missing.\n    Nix/Guix is a great idea! The Emacs ecosystem is temperamental. Things break and they break often. Disaster recovery should be a priority! Doom's package management should be declarative and your private config reproducible, and comes with a means to roll back releases and updates (still a WIP).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b0RSU8gaso8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b0RSU8gaso8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b0RSU8gaso8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b0RSU8gaso8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b0RSU8gaso8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b0RSU8gaso8"
+        },
+        "videoOwnerChannelTitle": "Xavier Baez",
+        "videoOwnerChannelId": "UCv5Co-jEgIZ_Sdj7O8SGA7A"
+      },
+      "contentDetails": {
+        "videoId": "b0RSU8gaso8",
+        "videoPublishedAt": "2021-01-17T01:25:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vegj4C3m6lMvHQGbuTdG07OqRcA",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "5 Reasons to Learn Emacs in 2021",
+        "description": "In this video, I intend to make a case for why YOU should learn Emacs this year.  Maybe you've been interested in Emacs for a while or maybe you're skeptical of what you hear from others.  Either way, I'll give you 5 reasons why you should give Emacs a shot and see if it works for you!\n\nChapters:\n0:00 5 Reasons to Learn Emacs in 2021\n0:56 1. It's not a text editor\n7:00 2. The keyboard-driven interface\n11:51 3. It enables you to craft your environment\n19:39 4. The power of Org Mode\n23:11 5. We'll cover Emacs a lot in 2021\n\nLinks to videos about the topics mentioned above:\n- Getting Started with a Basic Usable Emacs Configuration: https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=1\n- Adding Helpful UI Improvements: https://www.youtube.com/watch?v=IspAZtNTslY\n- Key Bindings and Evil: https://www.youtube.com/watch?v=xaZMwNELaJY\n- Magit: https://youtu.be/INTu30BHZGk\n- Organize Your Life with Org Mode: https://youtu.be/PNE-mgkZ6HM\n- Configure Everything with Org Babel: https://youtu.be/kkqVTDbfYp4\n- Build your own IDE with lsp-mode: https://www.youtube.com/watch?v=E-NAM9U5JYE\n- Streamline your Email Management with mu4e: https://www.youtube.com/watch?v=yZRyEhi4y44&list=PLEoMzSkcN8oM-kA19xOQc8s0gr0PpFGJQ\n\nCheck out more videos in these playlists:\n- Emacs From Scratch: https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ\n- Emacs IDE: https://www.youtube.com/watch?v=E-NAM9U5JYE&list=PLEoMzSkcN8oNvsrtk_iZSb94krGRofFjN\n- Emacs Desktop Environment (EXWM): https://www.youtube.com/watch?v=f7xB2fFk1tQ&list=PLEoMzSkcN8oNPbEMYEtswOVTvq7CVddCS\n- Emacs Mail: https://www.youtube.com/watch?v=yZRyEhi4y44&list=PLEoMzSkcN8oM-kA19xOQc8s0gr0PpFGJQ\n- Emacs Tips: https://www.youtube.com/watch?v=wKTKmE1wLyw&list=PLEoMzSkcN8oMHJ6Xil1YdnYtlWd5hHZql\n\nMy Emacs configuration: https://github.com/daviwil/dotfiles/blob/master/Emacs.org\n\nIf you enjoy this series, please consider becoming a sponsor on GitHub or Patreon:\n\n- https://github.com/sponsors/daviwil\n- https://patreon.com/SystemCrafters\n\nYou can also leave a tip via PayPal: https://paypal.me/daviwil\n\nFollow me on Twitter for more Emacs content!\nhttps://twitter.com/SystemCrafters\n\nChat with the System Crafters community on Discord: https://discord.gg/yVD8Gx6\n\nIntro music: Coriolis Effect by logos feat. stefsax, licensed CC-BY\nhttp://ccmixter.org/files/mseq/26296",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bEfYm8sAaQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bEfYm8sAaQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bEfYm8sAaQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bEfYm8sAaQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bEfYm8sAaQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bEfYm8sAaQg"
+        },
+        "videoOwnerChannelTitle": "System Crafters",
+        "videoOwnerChannelId": "UCAiiOTio8Yu69c3XnR7nQBQ"
+      },
+      "contentDetails": {
+        "videoId": "bEfYm8sAaQg",
+        "videoPublishedAt": "2021-01-04T14:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mS4M3DsR2NRsdVIVoJcMiaAXcDo",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Setting Up The Mu4e Email Client In Doom Emacs",
+        "description": "Do you use Emacs?  Do you also use a desktop email client like Thunderbird or Geary?  There is no need to run those desktop email clients when Emacs has a great email client available.  That email client is called mu4e.\n\nNOTE: \nWhen I did the git clone of my dotfiles repo and copied over my .doom.d configs, my Doom configs didn't want to work properly initially, because my Doom configs expect the following packages to be installed.  So if you choose to use my Doom configs, make sure to install these!\n\u25ba ttf-ubuntu-font-family\n\u25ba nerd-fonts-mononoki (AUR)\n\u25ba fish\n\nREFERENCED:\n\u25ba https://github.com/hlissner/doom-emacs - Doom Emacs\n\u25ba https://www.djcbsoftware.nl/code/mu/mu4e.html - Mu4e\n\u25ba https://gitlab.com/dwt1/dotfiles - DT's dotfiles repo\n\u25ba https://www.reddit.com/r/emacs/comments/bfsck6/mu4e_for_dummies/\n\u25ba https://www.reddit.com/r/emacs/comments/8q84dl/tip_how_to_easily_manage_your_emails_with_mu4e/\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY: https://lbry.tv/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\ud83d\udd0a Audio Podcasts: https://www.buzzsprout.com/1263722\n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83c\udfb5  Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\ud83d\uddd2\ufe0f Doom Emacs: https://github.com/hlissner/doom-emacs\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LKp3hQP2VxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LKp3hQP2VxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LKp3hQP2VxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LKp3hQP2VxQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LKp3hQP2VxQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LKp3hQP2VxQ"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "LKp3hQP2VxQ",
+        "videoPublishedAt": "2020-12-18T20:43:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "44tlbpBuCLjA3jpkmHAr9YGmF5k",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2021-09-21T11:08:12Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Looking At My Doom Emacs Config - DT LIVE",
+        "description": "I've been playing a bit with my Doom Emacs configuration, so I thought I would go through my config files and explain what I'm doing.  This could prove to be quite educational to those of you that are new to Emacs in general and especially Doom Emacs.   \n\nREFERENCED:\n\u25ba https://github.com/hlissner/doom-emacs - Doom Emacs\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY: https://lbry.tv/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\ud83d\udd0a Audio Podcasts: https://www.buzzsprout.com/1263722\n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83c\udfb5  Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\ud83d\uddd2\ufe0f Doom Emacs: https://github.com/hlissner/doom-emacs\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hG4Zuqrx7J0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hG4Zuqrx7J0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hG4Zuqrx7J0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hG4Zuqrx7J0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hG4Zuqrx7J0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hG4Zuqrx7J0"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "hG4Zuqrx7J0",
+        "videoPublishedAt": "2020-12-14T22:39:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7Ej8IVrPMXrA2sAKjEXRd6w7NKE",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Emacs IDE - Python Development Configuration",
+        "description": "In this video, we'll learn how to use the python-mode, Projectile, lsp-mode and dap-mode packages to create a Python development configuration in Emacs.  I'll give an overview of how to get language features in Python files, use the Python REPL, run unit tests, and even debug your Python code!  I'll also cover how to use virtualenv via pyvenv in Emacs to isolate your Python setup and dependencies for your code projects.\n\nThe configuration for this stream can be found here: https://github.com/daviwil/emacs-from-scratch/blob/dd9320769f3041ac1edca139496f14abe147d010/Emacs.org#python\n\nThese videos will also be helpful for more context:\n\n- Build Your Own IDE with lsp-mode: https://www.youtube.com/watch?v=E-NAM9U5JYE\n- How to Debug Your Code with dap-mode: https://www.youtube.com/watch?v=0bilcQVSlbM\n- Projectile and Magit: https://www.youtube.com/watch?v=INTu30BHZGk\n\nMy Emacs configuration: https://github.com/daviwil/dotfiles/blob/master/Emacs.org\n\nIf you enjoy this series, please consider becoming a GitHub Sponsor: https://github.com/sponsors/daviwil\n\nFollow me on Twitter for more Emacs content!\nhttps://twitter.com/SystemCrafters\n\nJoin the System Crafters community on Discord: https://discord.gg/yVD8Gx6\n\nIntro music: Coriolis Effect by logos feat. stefsax, licensed CC-BY\nhttp://ccmixter.org/files/mseq/26296",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jPXIP46BnNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jPXIP46BnNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jPXIP46BnNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jPXIP46BnNA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jPXIP46BnNA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jPXIP46BnNA"
+        },
+        "videoOwnerChannelTitle": "System Crafters",
+        "videoOwnerChannelId": "UCAiiOTio8Yu69c3XnR7nQBQ"
+      },
+      "contentDetails": {
+        "videoId": "jPXIP46BnNA",
+        "videoPublishedAt": "2020-12-03T06:25:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KV_-61FcwhJK4FSa7ucMPhZI1hk",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Org Roam Setup \u00b7 Emacs Doomcasts 25",
+        "description": "Org Roam is a tool for organizing notes in Emacs built on top of Org Mode. It\u2019s a replica of Roam Research, a web based tool that popularized this approach of organizing notes not in a hierarchical way, but as set of documents connected with links. Somehow similar to how the Web is organized. You write a note, then another and maybe you connected them with links if they are related. The key idea in Roam and in Org Roam is that for each note you can see on the side other notes that mention or reference the note you are currently viewing. By seeing the relations between your notes, you have more context about the information you are storing in them. It\u2019s very simple, yet powerful. Finally, contrary to Roam Research, by using Emacs, you write notes as plain text. You can store them anywhere. And you are not locked-in to a particular vendor.\n\n* Capture a new note: `SPC n r c`\n* Add a link to a note: `SPC n r I`\n* See the backlinks: `SPC n r r`\n\nIn this series I will go over most of the packages included in Emacs Doom by default. As this Emacs distribution is oriented towards Vim people, most of the keybindings differ significantly from the vanilla Emacs. Also, the packages discussed are not unique to Emacs Doom, they can be installed separately; Emacs Doom provides only some sane defaults.\n\nIf you liked this video (or any of the previous ones), please, consider supporting my efforts via GitHub Sponsors\nhttps://github.com/sponsors/zaiste\n \nYour sponsorship will help me make even better videos & release them more often. ;)\n\nJoin the Discord channel for discussions: https://discord.gg/eK6HjjG \n\n#emacs #orgroam #emacsdoom",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rH3ZH95zjKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rH3ZH95zjKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rH3ZH95zjKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rH3ZH95zjKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rH3ZH95zjKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rH3ZH95zjKM"
+        },
+        "videoOwnerChannelTitle": "Zaiste Programming",
+        "videoOwnerChannelId": "UCzgkOWKcwy0uhYilE6bd1Lg"
+      },
+      "contentDetails": {
+        "videoId": "rH3ZH95zjKM",
+        "videoPublishedAt": "2020-10-28T19:58:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XYQSd-a4ykJtl4YPGVoCHkVYCq4",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Different Shells Available In Emacs",
+        "description": "Emacs can be overwhelming to the new user.  There is so much stuff inside Emacs.  Take the various shells and terminal emulators inside Emacs.  Why are there so many?  What's the differences between them?\n\nREFERENCED:\n\u25ba https://www.masteringemacs.org/article/running-shells-in-emacs-overview - An Overview of Emacs' Shells\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY: https://lbry.tv/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\ud83d\udd0a Audio Podcasts: https://www.buzzsprout.com/1263722\n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83c\udfb5  Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\ud83d\uddd2\ufe0f Doom Emacs: https://github.com/hlissner/doom-emacs\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2LzDgaen1cQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2LzDgaen1cQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2LzDgaen1cQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2LzDgaen1cQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2LzDgaen1cQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2LzDgaen1cQ"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "2LzDgaen1cQ",
+        "videoPublishedAt": "2020-10-15T21:53:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Cu0oQ9_19qDd_Vsw5xxTxj6VlFE",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Doom Emacs For Noobs",
+        "description": "Doom Emacs is my preferred text editor, and I have made several videos about it.  But some of those videos assumed that the viewer had some knowledge of Vim and/or Emacs.  So I decided to make this Doom Emacs introductory video for the complete noob!  This video covers how to install Doom Emacs, how to configure it, and some of the basic keybindings and commands.  \n \nREFERENCED:\n\u25ba https://github.com/hlissner/doom-emacs - Doom Emacs\n\u25ba https://pastebin.com/Ku0bPz1U -  My show notes as an org file (needs to be viewed in Emacs :D )\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY: https://lbry.tv/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\ud83d\udd0a Audio Podcasts: https://www.buzzsprout.com/1263722\n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83c\udfb5  Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\ud83d\uddd2\ufe0f Doom Emacs: https://github.com/hlissner/doom-emacs\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iab2z21cRqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iab2z21cRqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iab2z21cRqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iab2z21cRqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iab2z21cRqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iab2z21cRqA"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "iab2z21cRqA",
+        "videoPublishedAt": "2020-09-19T22:41:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gg1ZtCUY07FhdpBBSW68i6lZCsE",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Supercharge your Emacs / Spacemacs / Doom with Yasnippets!",
+        "description": "There are some packages that forever changed my emacs (nay, coding) workflow forever. Magit was a big one and now yasnippets joins the ranks too. If you use emacs, spacemacs, or doom emacs you owe it to yourself to learn how to use snippets and how to make your own and I show exactly that in this video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xmBovJvQ3KU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xmBovJvQ3KU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xmBovJvQ3KU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xmBovJvQ3KU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xmBovJvQ3KU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xmBovJvQ3KU"
+        },
+        "videoOwnerChannelTitle": "Jack of Some",
+        "videoOwnerChannelId": "UCe6ABcJkH_Gso9HJOt4x9fg"
+      },
+      "contentDetails": {
+        "videoId": "xmBovJvQ3KU",
+        "videoPublishedAt": "2020-08-23T19:25:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2ctVxwJgBTutghl6ixJTnrj52RI",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "The Magit Git Client Is The \"Killer Feature\" In Emacs",
+        "description": "Users of other text editors often ask \"why should I switch to Emacs?\" or, more specifically, \"what is the killer feature that Emacs offers?\"  Depending on your workflow, the killer feature for Emacs could be a number of things, one them being Magit!\n\nREFERENCED:\n\u25ba https://www.gnu.org/software/emacs/ - GNU Emacs\n\u25ba https://github.com/hlissner/doom-emacs - Doom Emacs\n\u25ba https://magit.vc/ - Magit\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY: https://lbry.tv/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83d\udd0a Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X_iX5US1_xE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X_iX5US1_xE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X_iX5US1_xE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X_iX5US1_xE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X_iX5US1_xE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X_iX5US1_xE"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "X_iX5US1_xE",
+        "videoPublishedAt": "2020-07-10T22:08:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PTyg-4NVh5yKCRKA9X_zOPjBbH4",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "I'm Replacing All Of My Programs...With Emacs",
+        "description": "I've been using Emacs again and I have to admit, it is a rather charming piece of software.  And the more I use it, and the more plugins that I discover, the more I just want to replace all of my programs with Emacs alternatives.\n\nREFERENCED:\n\u25ba https://github.com/hlissner/doom-emacs - Doom Emacs\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY: https://lbry.tv/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83d\udd0a Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HzFqZ0Gl0aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HzFqZ0Gl0aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HzFqZ0Gl0aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HzFqZ0Gl0aw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HzFqZ0Gl0aw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HzFqZ0Gl0aw"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "HzFqZ0Gl0aw",
+        "videoPublishedAt": "2020-06-19T21:52:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y28e443vX0i4JrcdypLoU_09CI0",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2021-09-25T10:41:22Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "How to configure Doom Emacs | \ub460 \uc774\ub9e5\uc2a4 \uc124\uc815 \uae30\ucd08",
+        "description": "If you don't want to read the documentation about configure Doom Emacs, this video might help. \ud83d\ude05 \ub460 \uc774\ub9e5\uc2a4 \uc124\uc815\uc5d0 \uad00\ud55c \uc815\ub9d0 \uae30\ucd08\uc801\uc778 \ub0b4\uc6a9\ub9cc \ub2e4\ub8e8\ub294 \uc601\uc0c1\uc785\ub2c8\ub2e4.\n\nSeorenn\nhttps://www.youtube.com/c/seorenn\nhttps://seorenn.github.io\nhttps://twitter.com/seorenn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cOfTH1L7Fwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cOfTH1L7Fwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cOfTH1L7Fwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cOfTH1L7Fwo"
+        },
+        "videoOwnerChannelTitle": "Seorenn",
+        "videoOwnerChannelId": "UCsJXkw_Ssp-1myJFm4_SMJA"
+      },
+      "contentDetails": {
+        "videoId": "cOfTH1L7Fwo",
+        "videoPublishedAt": "2020-04-27T14:04:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hJtIlielXhpYzKwfFUjNJJQiu4A",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Friendship With Emacs Is Over, Vim Is My Best Friend",
+        "description": "So I started using Emacs about six months ago because viewers of the channel were interested in how I (a Vim user) would get along with Emacs.  Well, I got along with it nicely.  But, I missed Vim.\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY: https://lbry.tv/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83d\udd0a Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NNo2HWM3iPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NNo2HWM3iPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NNo2HWM3iPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NNo2HWM3iPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NNo2HWM3iPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NNo2HWM3iPA"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "NNo2HWM3iPA",
+        "videoPublishedAt": "2020-03-26T21:52:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kkqDkp2r0VK3zyZs_lnIFCBYlYc",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Org Mode Basics In Doom Emacs",
+        "description": "Org Mode is a document editing, formatting, and organizing mode, designed for notes, planning, and outlining within Doom Emacs.  This video demonstrates some of the basic functions of Org Mode.\n\nREFERENCED:\n\u25ba https://github.com/hlissner/doom-emacs - Doom Emacs\n\u25ba https://gitlab.com/dwt1/dotfiles/-/blob/master/org-mode-basics-in-doom-emacs.org - The Org File I Created\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f LBRY: https://lbry.tv/$/invite/@DistroTube:2\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83d\udc3f\ufe0f Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - https://brave.com/dis872 \n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83d\udd0a Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/34zODp_lhqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/34zODp_lhqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/34zODp_lhqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/34zODp_lhqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/34zODp_lhqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "34zODp_lhqg"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "34zODp_lhqg",
+        "videoPublishedAt": "2020-02-24T14:03:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XkhXmc7Qe-rPFhIm8Yni3m9A-_4",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Getting Started With Doom Emacs",
+        "description": "So I'm glad I stuck with playing with standard GNU Emacs for a few weeks.  I think it was beneficial to learn the default keybindings and see how Emacs can be built from the ground up.  But I need to move back to using the Vim keybindings to save my sanity.  So I'm checking out a distribution of Emacs called Doom Emacs.  It uses the Vim bindings and includes a nice, sensible configuration that is easy to modify.\n\nREFERENCED:\n\u25ba https://github.com/hlissner/doom-emacs\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=derek%40distrotube%2ecom&lc=US&item_name=DistroTube&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nSOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: https://mastodon.technology/@distrotube \n\ud83d\udcac IRC: irc://freenode #distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distrotube.com/\n\ud83c\udf10 Gopherhole: gopher://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\nFREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83d\udd0a Audacity: https://www.audacityteam.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\nYour support is very much appreciated. Thanks, guys!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dr_iBj91eeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dr_iBj91eeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dr_iBj91eeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dr_iBj91eeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dr_iBj91eeI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dr_iBj91eeI"
+        },
+        "videoOwnerChannelTitle": "DistroTube",
+        "videoOwnerChannelId": "UCVls1GmFKf6WlTraIb_IaJg"
+      },
+      "contentDetails": {
+        "videoId": "dr_iBj91eeI",
+        "videoPublishedAt": "2019-12-18T21:24:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dS5ODtIDtDF7lnxVFB67CEU2gVU",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "EmacsConf 2019 - 32 - VSCode is Better than Emacs - Making Emacs More Approachable - Zaiste",
+        "description": "You can watch this video with free software at: https://media.emacsconf.org/2019/32.html\nDownload (1080p): https://mirror.csclub.uwaterloo.ca/emacsconf/2019/emacsconf-2019-32-vscode-is-better-than-emacs-making-emacs-more-approachable--zaiste.webm\n\nNotes from pad:\n  \u2022 Started by using Emacs Doom: \"A starter pack\"\n    \u2022 liked currated packages, and opinions.\n    \u2022 allowed for a lesser learning curve. maintained productivity\n  \u2022 VSCode \"works out of the box\"\n  \u2022 Community has Visual Documentation\n    \u2022 Videos, GIFs, walkthrough articles\n  \u2022 Emacs has no common practices\n    \u2022 hard to find an answer for common tasks, like search-and-replace\n\n  related:\n  \u2022 https://github.com/zaiste\n  \u2022 https://github.com/hlissner/doom-emacs\n  \u2022 his YouTube channel: https://www.youtube.com/user/ohzaiste\n  \u2022 his Emacs Doom Screencasts https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj, https://invidio.us/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj&hl=en-US",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pzIaGD6GjjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pzIaGD6GjjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pzIaGD6GjjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pzIaGD6GjjE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pzIaGD6GjjE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pzIaGD6GjjE"
+        },
+        "videoOwnerChannelTitle": "EmacsConf and Emacs hangouts",
+        "videoOwnerChannelId": "UCwuyodzTl_KdEKNuJmeo99A"
+      },
+      "contentDetails": {
+        "videoId": "pzIaGD6GjjE",
+        "videoPublishedAt": "2019-11-25T03:21:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o1EGM6NzKoBiG4BxnadSCY8Fv9s",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-09-17T21:51:42Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Spacemacs Jumps: jumping around your code (tutorial)",
+        "description": "Here are some of the features I like and use the most in Spacemacs to navigate code fast.\nGet our game creation courses: https://gdquest.mavenseed.com/courses\nOur Spacemacs tutorials: http://bit.ly/spacemacs-tutorials\n\n\"Cheatsheet\": https://www.gdquest.com/open-source/cheatsheets/spacemacs/\nGet Spacemacs: http://spacemacs.org/\n\nDiscord \u25ba https://discord.gg/87NNb3Z\nTwitter \u25ba https://twitter.com/nathangdquest\n\nThis video is licensed under the CC-By 4.0 license: https://creativecommons.org/licenses/by/4.0/\n\nYou can attribute it to \"GDQuest and contributors - https://www.gdquest.com/\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FSKbNQ1EBxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FSKbNQ1EBxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FSKbNQ1EBxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FSKbNQ1EBxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FSKbNQ1EBxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FSKbNQ1EBxo"
+        },
+        "videoOwnerChannelTitle": "GDQuest",
+        "videoOwnerChannelId": "UCxboW7x0jZqFdvMdCFKTMsQ"
+      },
+      "contentDetails": {
+        "videoId": "FSKbNQ1EBxo",
+        "videoPublishedAt": "2019-08-26T16:59:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pdegW9dLRrGqEiAAo43JiQ4PpCM",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-09-17T21:51:09Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Spacemacs: Installation, Configuration, and Navigation Tutorial",
+        "description": "In this video I describe the installation, configuration, and usage of my primary text editor: Spacemacs (http://spacemacs.org/). This editor is a kit for the venerable Emacs text editor and is very suitable for programming, especially when dealing with large complex code bases.\n\nDisclaimer: This tutorial assumes you know the basics of navigating code in Vim. If you do not, consider watching a video on the subject (this video https://www.youtube.com/watch?v=lxET5r3Xc3g is pretty good).\n\nNote: it was pointed out to me that I forgot to go over how to create a new file. You can do it vim style ( :e filepath ) or if you try to visit a non existing file in the SPC f f menu it'll create a new file for you.\n\nEmacs installation in ...\nUbuntu: https://bit.ly/2UXsAr4\nMac OS: https://bit.ly/2GOcNCi\nWindows: https://bit.ly/2PAlqmF\n\nTwitter: https://twitter.com/safijari\n\nLaser Groove Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\n\nThumbnail from: https://spin.atomicobject.com/2016/08/30/introduction-to-spacemacs/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fdLCuJcS2Aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fdLCuJcS2Aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdLCuJcS2Aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fdLCuJcS2Aw"
+        },
+        "videoOwnerChannelTitle": "Jack of Some",
+        "videoOwnerChannelId": "UCe6ABcJkH_Gso9HJOt4x9fg"
+      },
+      "contentDetails": {
+        "videoId": "fdLCuJcS2Aw",
+        "videoPublishedAt": "2019-04-28T04:18:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RcJqNnZ2E3iHMJRRuCtiqOrgEj4",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-09-21T09:42:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Org-mode, literate programming in Emacs",
+        "description": "This is a re-recording of a talk I held about Org-mode, literate programming and Emacs at Zenuity (https://www.zenuity.com/). The aim was to provide a live presentation which showcases some of the many possibilities that Org-mode offers. Giving the viewer more an overall picture but also offer some deeper dives of Emacs and elisp features.\n\nI would also like to give a lot of credit to Henrik Lissner's Doom https://github.com/hlissner/doom-emacs. The configuration is nothing but awesome and I have learned a lot from him during my time as an Emacs user.\n\nMy additional private customizations can be found at https://github.com/niklascarlsson/doom-private. And if you are interested in the content of the video it's available at https://github.com/niklascarlsson/presentations/tree/master/literate_programming.\n\nI also mention some inspirational sources in the talk and those that I spoke about where:\nhttps://www.youtube.com/user/howardabrams\nhttps://www.youtube.com/watch?v=SzA2YODtgK4&t=1s \nhttps://www.youtube.com/user/mzamansky/\nhttps://www.youtube.com/user/emacsrocks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GK3fij-D1G8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GK3fij-D1G8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GK3fij-D1G8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GK3fij-D1G8"
+        },
+        "videoOwnerChannelTitle": "Niklas Eklund",
+        "videoOwnerChannelId": "UCYnrHo7CDgKobmoJ3Borrnw"
+      },
+      "contentDetails": {
+        "videoId": "GK3fij-D1G8",
+        "videoPublishedAt": "2018-11-30T07:55:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gQLUstEx4RMt4IVSZC3ircAT8e8",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-09-21T09:42:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Emacs Doom Episode 1 - Getting Started",
+        "description": "Getting started with Doom, an Emacs configuration for the Stubborn Martian Vimmer.\n\nDoom is an Emacs configuration for the Stubborn Martian Vimmer. It can be used as a base for your own configuration, or as a battery-included Emacs distribution. Emacs Doom is also smaller and faster than similar Emacs distributions (such as Spacemacs). Doom is known for its polished UI and focus on usability.\n\nDoomcasts\nhttps://zaiste.net/doomcasts/\n\nEmacs Doom\nhttps://github.com/hlissner/doom-emacs\n\nMy Private Doom Emacs Configuration\nhttps://github.com/zaiste/.doom.d\n\nDoom Emacs Discord Channel\nhttps://discord.gg/bcZ6P3y\n\n#emacs #programming #editor #vim #tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rCMh7srOqvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rCMh7srOqvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rCMh7srOqvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rCMh7srOqvw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rCMh7srOqvw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rCMh7srOqvw"
+        },
+        "videoOwnerChannelTitle": "Zaiste Programming",
+        "videoOwnerChannelId": "UCzgkOWKcwy0uhYilE6bd1Lg"
+      },
+      "contentDetails": {
+        "videoId": "rCMh7srOqvw",
+        "videoPublishedAt": "2018-09-26T13:29:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KgtiW1Z6vi9eWyiROkBwgSElgEQ",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-09-21T09:42:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "EmacsCast 4 - Spacemacs vs Doom vs Emacs",
+        "description": "Few updates and an overview of two popular Emacs distributions, focused on Evil mode.\n\nWeb player, mp3 file and shownotes \u2192 https://emacscast.org/episode_4/\n\nRSS \u2192 https://pinecast.com/feed/emacscast",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6xKzrcrv_fU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6xKzrcrv_fU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6xKzrcrv_fU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6xKzrcrv_fU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6xKzrcrv_fU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6xKzrcrv_fU"
+        },
+        "videoOwnerChannelTitle": "EmacsCast",
+        "videoOwnerChannelId": "UCEfFUaIkjbI06PhALdcXNVA"
+      },
+      "contentDetails": {
+        "videoId": "6xKzrcrv_fU",
+        "videoPublishedAt": "2018-09-05T14:01:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "669SOA72W7OUS9OyNWFibdTmBGA",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-09-21T09:42:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "To Luke Smith: Why bother with Emacs? Part 1",
+        "description": "A Video response that ended up a little longer than anticipated.\n\nLuke Smith asked the people to provide him with reasoning for switching to emacs, I heard of it and had to jump in and add my 2 cents.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EsAkPl3On3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EsAkPl3On3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EsAkPl3On3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EsAkPl3On3E"
+        },
+        "videoOwnerChannelTitle": "Uncle Dave",
+        "videoOwnerChannelId": "UCDEtZ7AKmwS0_GNJog01D2g"
+      },
+      "contentDetails": {
+        "videoId": "EsAkPl3On3E",
+        "videoPublishedAt": "2018-02-13T11:14:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iNgz1YcxtndsethuOk_CT48CKCw",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-09-08T13:44:30Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Emacs Tutorial",
+        "description": "Get Cheat Sheet : https://goo.gl/BkrEja\nBest Emacs Book : http://amzn.to/2ze00H3\nhttps://www.patreon.com/derekbanas\n\nIn my Emacs video tutorial I'll cover installation on Windows and MacOS. Then we'll cover what you'd learn in a standard 300 page book. We'll cover how to move around, editing, repeating commands, regions, searching, buffers, frames, shells, macros and then I'll cover how to setup a programming environment using Clojure as an example.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iagbv974GlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iagbv974GlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iagbv974GlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iagbv974GlQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iagbv974GlQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Iagbv974GlQ"
+        },
+        "videoOwnerChannelTitle": "Derek Banas",
+        "videoOwnerChannelId": "UCwRXb5dUK4cvsHbx-rGzSgw"
+      },
+      "contentDetails": {
+        "videoId": "Iagbv974GlQ",
+        "videoPublishedAt": "2017-11-18T12:42:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NmGHlBEqo3PuY4rQQBoIRWgzIDE",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-09-21T09:42:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "OrgMode E02S02: Agenda view (advanced)",
+        "description": "Getting yourself organized with OrgMode\nEpisode 02 - Snippet 02\n\nFunction: Agenda view (advanced)\n\nRead more about orgmode and some \"show notes\" in the OrgMode section of my blog at http://koenig-haunstetten.de/tag/orgmode/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u00pglDfgX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u00pglDfgX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u00pglDfgX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u00pglDfgX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u00pglDfgX4"
+        },
+        "videoOwnerChannelTitle": "Rainer K\u00f6nig",
+        "videoOwnerChannelId": "UCfbGTpcJyEOMwKP-eYz3_fg"
+      },
+      "contentDetails": {
+        "videoId": "u00pglDfgX4",
+        "videoPublishedAt": "2016-06-14T17:49:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D9VnZq2tFaIvdS7fBTn1HtUNiDk",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-09-21T09:42:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Getting Started With Org Mode",
+        "description": "Harry Schwartz demonstrates some of the nifty features of Org mode:\n\n\"Org mode is an outliner, markup language, task manager, calendar, contact manager, and who-knows-what-else. I use it to write documents and presentations, manage my todo list, and I even write my Emacs configuration in it.\n\nIn other words, Org is taking over my life.\n\nI\u2019ll be introducing some of the functionality of Org, demonstrating what it can do, and showing how you, too, can become pleasantly obsessed with a wacky, overgrown outlining tool.\"\n\nLearn more from the developers at thoughtbot \u2328\ufe0f \nHead over to http://tbot.io/dev-blog to read more great articles on our blog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SzA2YODtgK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SzA2YODtgK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SzA2YODtgK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SzA2YODtgK4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SzA2YODtgK4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SzA2YODtgK4"
+        },
+        "videoOwnerChannelTitle": "thoughtbot",
+        "videoOwnerChannelId": "UCUR1pFG_3XoZn3JNKjulqZg"
+      },
+      "contentDetails": {
+        "videoId": "SzA2YODtgK4",
+        "videoPublishedAt": "2016-04-27T20:40:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y7PM3ouNcyJF7es-FyjswjiGIVc",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-09-21T09:42:26Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Conquering Your Finances with Emacs and Ledger",
+        "description": "Ledger is a command line accounting tool for Linux, Mac, and Windows. Transactions are stored in a simple text format, so your data is available wherever you can use a text editor. Using Emacs in ledger-mode, which offers autocompletion for account names and other useful functions, Austin shows how he manages the last half-decade of his personal financial data!\n\nLearn more from the developers at thoughtbot \u2328\ufe0f \nHead over to http://tbot.io/dev-blog to read more great articles on our blog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjoCNRpLanY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjoCNRpLanY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjoCNRpLanY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cjoCNRpLanY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cjoCNRpLanY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cjoCNRpLanY"
+        },
+        "videoOwnerChannelTitle": "thoughtbot",
+        "videoOwnerChannelId": "UCUR1pFG_3XoZn3JNKjulqZg"
+      },
+      "contentDetails": {
+        "videoId": "cjoCNRpLanY",
+        "videoPublishedAt": "2016-02-18T19:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2bg76id0Zc8SYAXUX99mqvb31oY",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "CppCon 2015: Atila Neves \"Emacs as a C++ IDE\"",
+        "description": "http://www.Cppcon.org\n\u2014\nPresentation Slides, PDFs, Source Code and other presenter materials are available at: https://github.com/cppcon/cppcon2015\n\u2014\nLightning Talk\n\u2014 \nVideos Filmed & Edited by Bash Films: http://www.BashFilms.com \n\n*-----*\nThe CppCon YouTube Channel Is Sponsored By:\nJetBrains : http://jb.gg/cpptools \nSonarSource:  https://www.sonarsource.com/\n*-----*",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5FQwQ0QWBTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5FQwQ0QWBTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5FQwQ0QWBTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5FQwQ0QWBTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5FQwQ0QWBTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5FQwQ0QWBTU"
+        },
+        "videoOwnerChannelTitle": "CppCon",
+        "videoOwnerChannelId": "UCMlGfpWw-RUdWX_JbLCukXg"
+      },
+      "contentDetails": {
+        "videoId": "5FQwQ0QWBTU",
+        "videoPublishedAt": "2015-10-21T07:26:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MOhSVFx94GK65iuaNADquVYmFf4",
+      "id": "UExJamhmbHVoTmQ5OVU3TERMdFh0S0o4MDhrdEUteTVQOC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-09-21T00:03:47Z",
+        "channelId": "UCqsUJL5xIWuidR7sIrPLhAw",
+        "title": "Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs",
+        "description": "Aaron Bieber from Wayfair is back to talk to us about his recent experience using Emacs (what?!?!). That's right, Emacs. Aaron decided it was time to see how things looked on the other side and will share what he found, what he missed from Vim, and maybe even a few things we can bring back to Vim from Emacs.\n\nLearn more from the developers at thoughtbot \u2328\ufe0f \nHead over to http://tbot.io/dev-blog to read more great articles on our blog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JWD1Fpdd4Pc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JWD1Fpdd4Pc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JWD1Fpdd4Pc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JWD1Fpdd4Pc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JWD1Fpdd4Pc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Donald Thompson",
+        "playlistId": "PLIjhfluhNd99U7LDLtXtKJ808ktE-y5P8",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JWD1Fpdd4Pc"
+        },
+        "videoOwnerChannelTitle": "thoughtbot",
+        "videoOwnerChannelId": "UCUR1pFG_3XoZn3JNKjulqZg"
+      },
+      "contentDetails": {
+        "videoId": "JWD1Fpdd4Pc",
+        "videoPublishedAt": "2015-06-03T18:24:39Z"
+      }
+    }
+  ]
+}
