@@ -133,15 +133,48 @@ def print_yt_playlist_items(playlist_items_with_meta):
             f"{pos}) {video_id}: {channel_title}: {title} @ {published_at}")
 
 
+def print_yt_video_batch(video_with_meta_batch):
+    for video_with_meta in video_with_meta_batch:
+        print_yt_video(video_with_meta)
+
+
 def print_yt_video(video_with_meta):
 
-    print(video_with_meta.keys())
-    return
-    typer.echo(
-        f"Video {video_with_meta['_id']=} as of {video_with_meta['as_of']}:")
+    id = green(video_with_meta['_id'])
     video = video_with_meta['video']
+    files = video['files']
+    title = green(video['title'])
+    description = green(video['description'])
+    tags = green(video['tags'])
+    categories = green(video['categories'])
+    channel_id = green(video['channel_id'])
+    channel_title = green(video['channel_title'])
+    uploader = green(video['uploader'])
+    uploader_id = green(video['uploader_id'])
+    upload_date = blue(video['upload_date'])
+    duration_seconds = green(video['duration_seconds'])
+    view_count = green(video['view_count'])
+    like_count = green(video['like_count'])
+    dislike_count = green(video['dislike_count'])
+    average_rating = green(video['average_rating'])
+    video_filename = green(files['video_filename'])
+    info_filename = green(files['info_filename'])
+    thumbnail_filename = green(files['thumbnail_filename'])
 
-    typer.echo(video_with_meta)
+    typer.echo(
+        f"📼 {id}: {title} @ {upload_date}")
+    typer.echo(f"- Description  : {description}")
+    typer.echo(f"- Tags         : {tags}")
+    typer.echo(f"- Categories   : {categories}")
+    typer.echo(f"- Channel      : {channel_id} ({channel_title})")
+    typer.echo(f"- Uploader     : {uploader} ({uploader_id})")
+    typer.echo(f"- Duration     : {duration_seconds}s")
+    typer.echo(f"- Views        : {view_count}")
+    typer.echo(f"- Likes        : 👍🏻 {like_count} / 👎🏻 {dislike_count}")
+    typer.echo(f"- Rating       : {average_rating}")
+    typer.echo(f"- Video file   : {video_filename}")
+    typer.echo(f"- Info file    : {info_filename}")
+    typer.echo(f"- Thumbnail    : {thumbnail_filename}")
 
 #
 # Helpers
@@ -378,9 +411,9 @@ def sync_youtube_playlist_items(playlist_id: List[str]):
 
 
 @app.command()
-def show_youtube_playlist_items(playlist_id: List[str]):
+def show_youtube_playlist_items(playlist_id_batch: List[str]):
     """List playlist items for a playlist"""
-    playlist_id_batch = list(playlist_id)
+    playlist_id_batch = list(playlist_id_batch)
     for playlist_id in playlist_id_batch:
         playlist_items_with_meta = ytpl.get_playlist_items_from_db(playlist_id)
         if playlist_items_with_meta is None:
@@ -396,30 +429,17 @@ def show_youtube_playlist_items(playlist_id: List[str]):
 
 
 @app.command()
-def show_youtube_video(video_id: str):
+def show_youtube_video(video_id_batch: List[str]):
     """Show a video from the database."""
-    video_with_meta = ytv.get_video_from_db(video_id)
-    if not video_with_meta:
+    video_id_batch = list(video_id_batch)
+    video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
+    if not video_with_meta_batch:
+        plural = 's' if len(video_id_batch) > 1 else ''
         typer.echo(
-            f"That video is not in the database; try 'update-video'")
+            f"💡 {yellow('Video' + plural + ' not in db; try')} {blue('update-youtube-playlist')} {green(video_id_batch)}")
         return
 
-    pprint(video_with_meta, indent=2)
-    return
-
-    channel_id = video_with_meta['channel_id']
-    channel_with_meta = get_channel_from_db(channel_id)
-    channel_title = channel_with_meta['channel']['snippet']['title']
-    video_dir = os.path.join(settings.youtube_channels_dir, channel_title)
-    video_path = os.path.join(video_dir, video_with_meta['video_file'])
-
-    if not os.path.exists(video_path):
-        typer.echo(
-            f'Video file {video_path} does not exist; try "update-video"')
-        return
-    print(f"Video file {video_path} exists")
-
-    # print_video(video_with_meta)
+    print_yt_video_batch(video_with_meta_batch)
 
 
 @app.command()
@@ -443,14 +463,34 @@ def offline_youtube_channel(channel_id: str):
 
 
 @app.command()
-def offline_youtube_vidoo(video_id: str):
+def offline_youtube_video(video_id_batch: List[str]):
     """Download a video from YouTube and place it in its channel's folder."""
+    video_id_batch = list(video_id_batch)
+    video_with_meta_batch = []
+    for video_id in video_id_batch:
+        video_url = f'https://www.youtube.com/watch?v={video_id_batch[0]}'
+        video_with_meta = ytv.get_video_from_youtube(video_url)
+        if not video_with_meta:
+            typer.echo(
+                f"❗ {red('Unable to download video')}: {green(video_url)}")
+            return
+        video_with_meta_batch.append(video_with_meta)
 
-    # get the video's metadata
-    video_with_meta = get_video_from_db(video_id)
-    video_with_meta = get_video_from_youtube(video_id)
+    ytv.save_video_to_db_batch(video_with_meta_batch)
+    print_yt_video_batch(video_with_meta_batch)
+    # channel_id = video_with_meta['channel_id']
+    # channel_with_meta = get_channel_from_db(channel_id)
+    # channel_title = channel_with_meta['channel']['snippet']['title']
+    # video_dir = os.path.join(settings.youtube_channels_dir, channel_title)
+    # video_path = os.path.join(video_dir, video_with_meta['video_file'])
 
-    pass
+    # if not os.path.exists(video_path):
+    #     typer.echo(
+    #         f'Video file {video_path} does not exist; try "update-video"')
+    #     return
+    # print(f"Video file {video_path} exists")
+
+    # # print_video(video_with_meta)
 
 
 if __name__ == "__main__":

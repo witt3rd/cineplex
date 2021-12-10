@@ -16,7 +16,7 @@ class Logger:
             cls._logger = logging.getLogger(settings.log_name)
             cls._logger.setLevel(settings.log_level)
             formatter = logging.Formatter(
-                '%(asctime)-23s | %(levelname)-8s| %(filename)-25s:%(lineno)-04s | %(message)s')
+                '%(asctime)-23s | %(levelname)-8s| %(filename)s:%(lineno)s | %(message)s')
 
             now = datetime.datetime.now()
 
