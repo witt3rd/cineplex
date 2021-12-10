@@ -96,7 +96,6 @@ def print_yt_playlist(playlist_with_meta):
     playlist = playlist_with_meta['playlist']
     snippet = playlist['snippet']
     contentDetails = playlist['contentDetails']
-    print(snippet.keys())
 
     typer.echo(
         f"📝 YouTube playlist {green(playlist_id)} as of {green(as_of)}:")

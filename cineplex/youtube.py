@@ -19,23 +19,19 @@ def youtube_api():
     credentials = None
 
     if os.path.exists(token_file):
-        print("Loading credentials from file")
         with open(token_file, "rb") as token:
             credentials = pickle.load(token)
 
     if not credentials or not credentials.valid:
         if credentials and credentials.expired and credentials.refresh_token:
-            print("Refreshing access token")
             credentials.refresh(Request())
         else:
-            print("Fetching new tokens")
             flow = InstalledAppFlow.from_client_secrets_file(
                 client_secrets_file, scopes)
             credentials = flow.run_local_server(
                 port=8080, prompty="consent", authorization_prompt_message="")
 
         with open(token_file, "wb") as token:
-            print("Saving credentials")
             pickle.dump(credentials, token)
 
     youtube = build(

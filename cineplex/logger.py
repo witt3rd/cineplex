@@ -16,7 +16,7 @@ class Logger:
             cls._logger = logging.getLogger(settings.log_name)
             cls._logger.setLevel(settings.log_level)
             formatter = logging.Formatter(
-                '%(asctime)-23s | %(levelname)-8s| %(filename)s:%(lineno)s | %(message)s')
+                '%(asctime)-23s | %(levelname)-8s| %(filename)-25s:%(lineno)-04s | %(message)s')
 
             now = datetime.datetime.now()
 
@@ -33,97 +33,6 @@ class Logger:
                 cls._logger.addHandler(consoleHandler)
 
         return cls._logger
-
-    # Helpers to allow static calls
-    @staticmethod
-    def debug(msg):
-        Logger().debug(msg)
-
-    @staticmethod
-    def info(msg):
-        Logger().info(msg)
-
-    @staticmethod
-    def warning(msg):
-        Logger().warning(msg)
-
-    @staticmethod
-    def error(msg):
-        Logger().error(msg)
-
-    @staticmethod
-    def critical(msg):
-        Logger().critical(msg)
-
-    @staticmethod
-    def exception(e):
-        Logger().exception(e)
-
-    # Helpers for uniform reporting
-
-    @staticmethod
-    def log_get(what, where, id, detail=None):
-        if detail is None:
-            Logger().debug(f"getting {what} {id=} from {where}")
-        else:
-            Logger().debug(f"getting {what} {id=} ({detail}) from {where}")
-
-    @staticmethod
-    def log_got(what, where, id, detail=None):
-        if detail is None:
-            Logger().debug(f"got {what} {id=} from {where}")
-        else:
-            Logger().debug(f"got {what} {id=} ({detail}) from {where}")
-
-    @staticmethod
-    def log_get_batch(what, where, ids, detail=None):
-        if detail is None:
-            Logger().debug(
-                f"getting batch of {len(ids)} {what} from {where}: {ids=}")
-        else:
-            Logger().debug(
-                f"getting batch of {len(ids)} {what} from {where}: {ids=} ({detail})")
-
-    @staticmethod
-    def log_got_batch(what, where, batch, detail=None):
-        if detail is None:
-            Logger().debug(
-                f"got batch of {len(batch)} {what} from {where}")
-        else:
-            Logger().debug(
-                f"got batch of {len(batch)} {what} from {where} ({detail})")
-
-    @staticmethod
-    def log_save(what, where, id, detail=None):
-        if detail is None:
-            Logger().debug(f"saving {what} {id=} to {where}")
-        else:
-            Logger().debug(f"saving {what} {id=} to {where} ({detail})")
-
-    @staticmethod
-    def log_saved(what, where, id,  detail=None):
-        if detail is None:
-            Logger().debug(f"saved {what} {id=} to {where}")
-        else:
-            Logger().debug(f"saved {what} {id=} to {where} ({detail})")
-
-    @staticmethod
-    def log_save_batch(what, where, batch, detail=None):
-        if detail is None:
-            Logger().debug(
-                f"saving batch of {len(batch)} {what} to {where}")
-        else:
-            Logger().debug(
-                f"saving batch of {len(batch)} {what} to {where} ({detail})")
-
-    @staticmethod
-    def log_saved_batch(what, where, batch, detail=None):
-        if detail is None:
-            Logger().debug(
-                f"saved batch of {len(batch)} {what} to {where}")
-        else:
-            Logger().debug(
-                f"saved batch of {len(batch)} {what} to {where} ({detail})")
 
 
 # a simple usecase
