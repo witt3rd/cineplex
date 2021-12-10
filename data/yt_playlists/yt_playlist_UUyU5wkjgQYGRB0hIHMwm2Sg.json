@@ -1,0 +1,51 @@
+{
+  "_id": "UUyU5wkjgQYGRB0hIHMwm2Sg",
+  "as_of": "2021-12-10 02:49:03.894356",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "gQRdd5avqeqar0TEJrOjtaDxbk8",
+    "id": "UUyU5wkjgQYGRB0hIHMwm2Sg",
+    "snippet": {
+      "publishedAt": "2020-02-23T08:00:00Z",
+      "channelId": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "title": "Uploads from LevelUpTuts",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_TymiadmPrc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_TymiadmPrc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_TymiadmPrc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_TymiadmPrc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_TymiadmPrc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LevelUpTuts",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Uploads from LevelUpTuts",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 1186
+    }
+  }
+}

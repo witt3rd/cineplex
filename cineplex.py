@@ -144,14 +144,38 @@ def print_yt_video(video_with_meta):
     typer.echo(video_with_meta)
 
 #
+# Helpers
+#
+
+
+def _missing_found(id_batch, meta_batch):
+    found_id_batch = [x['_id'] for x in meta_batch]
+    missing_id_batch = [x for x in id_batch if x not in found_id_batch]
+    return missing_id_batch, found_id_batch
+
+#
 # Channels
 #
+
+
+def _ensure_youtube_channel_batch(channel_id_batch):
+    """ Get channel metadata for a batch of channel IDs from the database or
+        from YouTube. """
+    channel_with_meta_batch = ytch.get_channel_from_db_batch(channel_id_batch)
+    missing_channel_ids, _ = _missing_found(
+        channel_id_batch, channel_with_meta_batch)
+    if missing_channel_ids:
+        missing_channels_with_meta = sync_youtube_channel(missing_channel_ids)
+        if not missing_channels_with_meta:
+            return
+        channel_with_meta_batch.extend(missing_channels_with_meta)
+    return channel_with_meta_batch
 
 
 @app.command()
 def sync_my_youtube_channel():
     """Get my channel from YouTube and save it to the database."""
-    sync_youtube_channel([settings.my_youtube_channel_id])
+    return sync_youtube_channel([settings.my_youtube_channel_id])
 
 
 @app.command()
@@ -175,18 +199,14 @@ def sync_youtube_channel(channel_id_batch: List[str]):
     ytch.save_channel_to_db_batch(channel_with_meta_batch)
     print_yt_channel_batch(channel_with_meta_batch)
 
+    return channel_with_meta_batch
+
 
 @app.command()
 def show_youtube_channel(channel_id_batch: List[str]):
     """Show a channel from the database."""
     channel_id_batch = list(channel_id_batch)
-    channel_with_meta_batch = ytch.get_channel_from_db_batch(channel_id_batch)
-    if not channel_with_meta_batch:
-        plural = 's' if len(channel_id_batch) > 1 else ''
-        typer.echo(
-            f"💡 {yellow('Channel'+plural+' not in db; try')} {blue('update-channel')} {green(channel_id_batch)}")
-        return
-
+    channel_with_meta_batch = _ensure_youtube_channel_batch(channel_id_batch)
     print_yt_channel_batch(channel_with_meta_batch)
 
 #
@@ -197,7 +217,7 @@ def show_youtube_channel(channel_id_batch: List[str]):
 @app.command()
 def sync_my_youtube_playlists():
     """Get my playlists from YouTube and save them to the database."""
-    sync_youtube_channel_playlists([settings.my_youtube_channel_id])
+    return sync_youtube_channel_playlists([settings.my_youtube_channel_id])
 
 
 @app.command()
@@ -210,6 +230,7 @@ def show_my_youtube_playlists():
 def sync_youtube_channel_playlists(channel_id_batch: List[str], with_items: bool = False):
     """Get playlists for a channel from YouTube and save them to the database."""
     channel_id_batch = list(channel_id_batch)
+    channel_playlists_with_meta_batch = []
     for channel_id in channel_id_batch:
         playlists_with_meta = ytch.get_channel_playlists_from_youtube(
             channel_id)
@@ -230,6 +251,10 @@ def sync_youtube_channel_playlists(channel_id_batch: List[str], with_items: bool
         for i in range(0, len(playlist_id_batch), N):
             sync_youtube_playlist(playlist_id_batch[i:i+N], with_items)
 
+        channel_playlists_with_meta_batch.append(playlists_with_meta)
+
+    return channel_playlists_with_meta_batch
+
 
 @app.command()
 def show_youtube_channel_playlists(channel_id_batch: List[str]):
@@ -240,7 +265,7 @@ def show_youtube_channel_playlists(channel_id_batch: List[str]):
             channel_id_batch)
         if playlists_with_meta is None:
             typer.echo(
-                f"💡 {yellow('Channel playlists not in db; try')} {blue('update-channel-playlists')} {green(channel_id_batch)}")
+                f"💡 {yellow('Channel playlists not in db; try')} {blue('update-youtube-channel-playlists')} {green(channel_id_batch)}")
             return
 
         print_yt_channel_playlists(playlists_with_meta)
@@ -253,6 +278,37 @@ def show_youtube_channel_playlists(channel_id_batch: List[str]):
         else:
             typer.echo(
                 f"💡 {red(len(in_db))} of {red(len(playlist_id_batch))} {yellow('playlists in the db')}")
+
+
+@app.command()
+def sync_my_youtube_channel_uploads():
+    """Get my uploads from YouTube and save them to the database."""
+    return sync_youtube_channel_uploads([settings.my_youtube_channel_id])
+
+
+@app.command()
+def show_my_youtube_channel_uploads():
+    """Get my uploads from YouTube and save them to the database."""
+    return show_youtube_channel_uploads([settings.my_youtube_channel_id])
+
+
+@app.command()
+def sync_youtube_channel_uploads(channel_id_batch: List[str]):
+    channel_id_batch = list(channel_id_batch)
+    channel_with_meta_batch = _ensure_youtube_channel_batch(channel_id_batch)
+    upload_playlist_id_batch = [
+        x['channel']['contentDetails']['relatedPlaylists']['uploads'] for x in channel_with_meta_batch]
+    return sync_youtube_playlist(upload_playlist_id_batch, with_items=True)
+
+
+@app.command()
+def show_youtube_channel_uploads(channel_id_batch: List[str]):
+    channel_id_batch = list(channel_id_batch)
+    channel_with_meta_batch = _ensure_youtube_channel_batch(channel_id_batch)
+    upload_playlist_id_batch = [
+        x['channel']['contentDetails']['relatedPlaylists']['uploads'] for x in channel_with_meta_batch]
+    return show_youtube_playlist_items(upload_playlist_id_batch)
+
 
 #
 # Playlists
@@ -277,6 +333,8 @@ def sync_youtube_playlist(playlist_id_batch: List[str], with_items: bool = False
     if with_items:
         sync_youtube_playlist_items(playlist_id_batch)
 
+    return playlist_with_meta_batch
+
 
 @app.command()
 def show_youtube_playlist(playlist_id_batch: List[str]):
@@ -287,7 +345,7 @@ def show_youtube_playlist(playlist_id_batch: List[str]):
     if playlist_with_meta_batch is None:
         plural = 's' if len(playlist_id_batch) > 1 else ''
         typer.echo(
-            f"💡 {yellow('Playlist' + plural + ' not in db; try')} {blue('update-playlist')} {green(playlist_id_batch)}")
+            f"💡 {yellow('Playlist' + plural + ' not in db; try')} {blue('update-youtube-playlist')} {green(playlist_id_batch)}")
         return
 
     print_yt_playlist_batch(playlist_with_meta_batch)
@@ -301,6 +359,8 @@ def show_youtube_playlist(playlist_id_batch: List[str]):
 def sync_youtube_playlist_items(playlist_id: List[str]):
     """Get playlist items for a playlist"""
     playlist_id_batch = list(playlist_id)
+    playlist_items_with_meta_batch = []
+
     for playlist_id in playlist_id_batch:
         playlist_items_with_meta = ytpl.get_playlist_items_from_youtube(
             playlist_id)
@@ -312,6 +372,10 @@ def sync_youtube_playlist_items(playlist_id: List[str]):
         ytpl.save_playlist_items_to_db(playlist_items_with_meta)
         print_yt_playlist_items(playlist_items_with_meta)
 
+        playlist_items_with_meta_batch.append(playlist_items_with_meta)
+
+    return playlist_items_with_meta_batch
+
 
 @app.command()
 def show_youtube_playlist_items(playlist_id: List[str]):
@@ -321,7 +385,7 @@ def show_youtube_playlist_items(playlist_id: List[str]):
         playlist_items_with_meta = ytpl.get_playlist_items_from_db(playlist_id)
         if playlist_items_with_meta is None:
             typer.echo(
-                f"💡 {yellow('Playlist has no items in db; try')} {blue('update-playlist-items')} {green(playlist_id)}")
+                f"💡 {yellow('Playlist has no items in db; try')} {blue('update-youtube-playlist-items')} {green(playlist_id)}")
             return
 
         print_yt_playlist_items(playlist_items_with_meta)

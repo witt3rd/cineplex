@@ -1,0 +1,53 @@
+{
+  "_id": "UC0y5ooqIbKypINssdjwmG_g",
+  "as_of": "2021-12-10 02:41:45.156071",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "FVrtEYuB_Z-a509PTtgGoRHCVds",
+    "id": "UC0y5ooqIbKypINssdjwmG_g",
+    "snippet": {
+      "title": "Synthetic Dreams",
+      "description": "Synthetic Dreams is all about making the world a better place through unique software and hardware creations.  Check out our videos, website, and blog below for some examples of what we've done!",
+      "publishedAt": "2008-03-09T22:15:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4EZ9IfOea78z1NO7EH4UhNtBgUn6ND53Szw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4EZ9IfOea78z1NO7EH4UhNtBgUn6ND53Szw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AKedOLR4EZ9IfOea78z1NO7EH4UhNtBgUn6ND53Szw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Synthetic Dreams",
+        "description": "Synthetic Dreams is all about making the world a better place through unique software and hardware creations.  Check out our videos, website, and blog below for some examples of what we've done!"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU0y5ooqIbKypINssdjwmG_g"
+      }
+    },
+    "statistics": {
+      "viewCount": "575536",
+      "subscriberCount": "211",
+      "hiddenSubscriberCount": false,
+      "videoCount": "13"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Synthetic Dreams",
+        "description": "Synthetic Dreams is all about making the world a better place through unique software and hardware creations.  Check out our videos, website, and blog below for some examples of what we've done!"
+      }
+    }
+  }
+}
