@@ -1,0 +1,51 @@
+{
+  "_id": "UUmX2hKLDhq3lCkHfpJywxzQ",
+  "as_of": "2021-12-10 01:16:24.597138",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "z60k7QnuDClbje4HiGp2dZVUlBg",
+    "id": "UUmX2hKLDhq3lCkHfpJywxzQ",
+    "snippet": {
+      "publishedAt": "2020-10-15T14:55:10Z",
+      "channelId": "UCmX2hKLDhq3lCkHfpJywxzQ",
+      "title": "Uploads from FumetsuHito",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WXB_PY9RwJY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WXB_PY9RwJY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WXB_PY9RwJY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WXB_PY9RwJY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WXB_PY9RwJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "FumetsuHito",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Uploads from FumetsuHito",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  }
+}

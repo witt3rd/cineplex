@@ -9,7 +9,7 @@ class Settings(BaseSettings):
             cls._instance = super(Settings, cls).__new__(cls, *args, **kwargs)
         return cls._instance
 
-    youtube_my_channel_id: str = "UC-lHJZR3Gqxm24_Vd_AJ5Yw"
+    my_youtube_channel_id: str = "UC-lHJZR3Gqxm24_Vd_AJ5Yw"
 
     db: str
     db_host: str
