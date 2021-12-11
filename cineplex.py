@@ -265,9 +265,12 @@ def ensure_youtube_channel_playlists_batch(id_batch):
 
 
 @app.command()
-def sync_my_youtube_playlists():
+def sync_my_youtube_playlists(with_items: bool = False):
     """Get my playlists from YouTube and save them to the database."""
-    return sync_youtube_channel_playlists([settings.my_youtube_channel_id])
+    channel_playlists_with_meta_batch = sync_youtube_channel_playlists(
+        [settings.my_youtube_channel_id])
+    if channel_playlists_with_meta_batch:
+        return channel_playlists_with_meta_batch[0]
 
 
 @app.command()
@@ -449,25 +452,40 @@ def show_youtube_video(video_id_batch: List[str]):
 
 
 @app.command()
-def offline_my_youtube_playlists():
+def offline_my_youtube_playlists(sync: bool = False):
     """Get my playlists"""
-    pass
+    if sync:
+        playlist_with_meta_batch = sync_my_youtube_playlists()
+    else:
+        playlist_with_meta_batch = ensure_youtube_channel_playlists_batch(
+            [settings.my_youtube_channel_id])
+        if not playlist_with_meta_batch:
+            return
+        playlist_with_meta_batch = playlist_with_meta_batch[0]
+
+    if not playlist_with_meta_batch:
+        return
+
+    return offline_youtube_playlist([x['id'] for x in playlist_with_meta_batch['playlists']], sync)
 
 
 @app.command()
-def offline_youtube_playlist(playlist_id_batch: List[str]):
+def offline_youtube_playlist(playlist_id_batch: List[str], sync: bool = False):
     """Get offline playlist"""
     playlist_id_batch = list(playlist_id_batch)
-    playlist_items_with_meta_batch = ensure_youtube_playlist_items_batch(
+    playlist_items_with_meta_batch = sync_youtube_playlist(playlist_id_batch, with_items=True) if sync else ensure_youtube_playlist_items_batch(
         playlist_id_batch)
+
     video_id_batch = []
     for playlist_items_with_meta in playlist_items_with_meta_batch:
         for item in playlist_items_with_meta['items']:
             video_id_batch.append(item['snippet']['resourceId']['videoId'])
+
     if not video_id_batch:
         msg = "No videos found"
         typer.echo(f"❗ {red(msg)}: {green(playlist_id_batch)}")
         return
+
     offline_youtube_video(video_id_batch)
 
 
@@ -482,6 +500,7 @@ def offline_youtube_video(video_id_batch: List[str]):
     """Download a video from YouTube and place it in its channel's folder."""
     video_id_batch = list(video_id_batch)
 
+    # verify any videos that are already in the database
     video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
     missing, found = _missing_found(video_id_batch, video_with_meta_batch)
     for video_id in found:
@@ -501,32 +520,36 @@ def offline_youtube_video(video_id_batch: List[str]):
     if not missing:
         return verified_with_meta_batch
 
-    download_with_meta_batch = []
-
+    # download any videos that are not in the database or had missing files
     for video_id in missing:
         video_url = f'https://www.youtube.com/watch?v={video_id}'
         video_with_meta = ytv.get_video_from_youtube(video_url)
         if not video_with_meta:
             typer.echo(
-                f"❗ {red('Unable to download video')}: {green(video_url)}")
+                f"❗ {red('Unable to download video')}: {blue(video_id)} {green(video_url)}")
             return
-        download_with_meta_batch.append(video_with_meta)
 
-    ytv.save_video_to_db_batch(download_with_meta_batch)
+        ytv.save_video_to_db(video_with_meta)
 
-    for download_with_meta in download_with_meta_batch:
-        id = download_with_meta['_id']
-        video = download_with_meta['video']
+        id = video_with_meta['_id']
+        video = video_with_meta['video']
         title = video['title']
         typer.echo(f"⬇️ {blue(id)} {green(title)}")
 
-    return verified_with_meta_batch + download_with_meta_batch
+        verified_with_meta_batch.append(video_with_meta)
+
+    return verified_with_meta_batch
 
 
 def _files_exists(video_with_meta):
     video = video_with_meta['video']
     files = video['files']
-    channel_title = video['channel_title']
+    channel_title = video['channel_title'] if video['channel_title'] else video['uploader']
+
+    if not channel_title:
+        typer.echo(
+            f"❗ {red('No channel title')}: {blue(video_with_meta['_id'])} {green(video['title'])}")
+        return False
 
     video_filename = os.path.join(settings.youtube_channels_dir,
                                   channel_title,
