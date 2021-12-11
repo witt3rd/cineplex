@@ -1,6 +1,7 @@
 import os
 import json
 import pprint
+from re import M
 import typer
 from typing import List
 import cineplex.youtube_playlists as ytpl
@@ -90,6 +91,11 @@ def print_yt_channel_playlists(channel_playlists_with_meta):
             f'{id}: {green(snippet["title"])} ({blue(contentDetails["itemCount"])})')
 
 
+def print_yt_channel_playlists_batch(channel_playlists_with_meta_batch):
+    for channel_playlists_with_meta in channel_playlists_with_meta_batch:
+        print_yt_channel_playlists(channel_playlists_with_meta)
+
+
 def print_yt_playlist(playlist_with_meta):
     playlist_id = playlist_with_meta['_id']
     as_of = playlist_with_meta['as_of']
@@ -133,9 +139,9 @@ def print_yt_playlist_items(playlist_items_with_meta):
             f"{pos}) {video_id}: {channel_title}: {title} @ {published_at}")
 
 
-def print_yt_video_batch(video_with_meta_batch):
-    for video_with_meta in video_with_meta_batch:
-        print_yt_video(video_with_meta)
+def print_yt_playlist_items_batch(playlist_items_with_meta_batch):
+    for playlist_items_with_meta in playlist_items_with_meta_batch:
+        print_yt_playlist_items(playlist_items_with_meta)
 
 
 def print_yt_video(video_with_meta):
@@ -176,6 +182,10 @@ def print_yt_video(video_with_meta):
     typer.echo(f"- Info file    : {info_filename}")
     typer.echo(f"- Thumbnail    : {thumbnail_filename}")
 
+
+def print_yt_video_batch(video_with_meta_batch):
+    for video_with_meta in video_with_meta_batch:
+        print_yt_video(video_with_meta)
 #
 # Helpers
 #
@@ -186,23 +196,25 @@ def _missing_found(id_batch, meta_batch):
     missing_id_batch = [x for x in id_batch if x not in found_id_batch]
     return missing_id_batch, found_id_batch
 
+
+def ensure_batch(id_batch, db_fn, sync_fn):
+    """ Get metadata for a batch of IDs from the database or from YouTube. """
+    meta_batch = db_fn(id_batch)
+    missing_ids, _ = _missing_found(id_batch, meta_batch)
+    if missing_ids:
+        missing_meta = sync_fn(missing_ids)
+        if not missing_meta:
+            return
+        meta_batch.extend(missing_meta)
+    return meta_batch
+
 #
 # Channels
 #
 
 
-def _ensure_youtube_channel_batch(channel_id_batch):
-    """ Get channel metadata for a batch of channel IDs from the database or
-        from YouTube. """
-    channel_with_meta_batch = ytch.get_channel_from_db_batch(channel_id_batch)
-    missing_channel_ids, _ = _missing_found(
-        channel_id_batch, channel_with_meta_batch)
-    if missing_channel_ids:
-        missing_channels_with_meta = sync_youtube_channel(missing_channel_ids)
-        if not missing_channels_with_meta:
-            return
-        channel_with_meta_batch.extend(missing_channels_with_meta)
-    return channel_with_meta_batch
+def ensure_youtube_channel_batch(id_batch):
+    return ensure_batch(id_batch, ytch.get_channel_from_db_batch, sync_youtube_channel)
 
 
 @app.command()
@@ -239,12 +251,17 @@ def sync_youtube_channel(channel_id_batch: List[str]):
 def show_youtube_channel(channel_id_batch: List[str]):
     """Show a channel from the database."""
     channel_id_batch = list(channel_id_batch)
-    channel_with_meta_batch = _ensure_youtube_channel_batch(channel_id_batch)
-    print_yt_channel_batch(channel_with_meta_batch)
+    channel_with_meta_batch = ensure_youtube_channel_batch(channel_id_batch)
+    if channel_with_meta_batch:
+        print_yt_channel_batch(channel_with_meta_batch)
 
 #
 # Channel playlists
 #
+
+
+def ensure_youtube_channel_playlists_batch(id_batch):
+    return ensure_batch(id_batch, ytch.get_channel_playlists_from_db_batch, sync_youtube_channel_playlists)
 
 
 @app.command()
@@ -268,7 +285,7 @@ def sync_youtube_channel_playlists(channel_id_batch: List[str], with_items: bool
         playlists_with_meta = ytch.get_channel_playlists_from_youtube(
             channel_id)
         if not playlists_with_meta:
-            msg = "That channel doesn't have any playlists"
+            msg = "Channel doesn't have any playlists"
             typer.echo(f"❗ {red(msg)}: {green(channel_id)}")
             return
 
@@ -293,24 +310,10 @@ def sync_youtube_channel_playlists(channel_id_batch: List[str], with_items: bool
 def show_youtube_channel_playlists(channel_id_batch: List[str]):
     """List playlists for a channel from the database."""
     channel_id_batch = list(channel_id_batch)
-    for channel_id_batch in channel_id_batch:
-        playlists_with_meta = ytch.get_channel_playlists_from_db(
-            channel_id_batch)
-        if playlists_with_meta is None:
-            typer.echo(
-                f"💡 {yellow('Channel playlists not in db; try')} {blue('update-youtube-channel-playlists')} {green(channel_id_batch)}")
-            return
-
-        print_yt_channel_playlists(playlists_with_meta)
-
-        playlist_id_batch = [x['id'] for x in playlists_with_meta['playlists']]
-
-        in_db = ytpl.get_playlist_from_db_batch(playlist_id_batch)
-        if len(in_db) == len(playlist_id_batch):
-            typer.echo(f"✅ {green('All playlists are in the db')}")
-        else:
-            typer.echo(
-                f"💡 {red(len(in_db))} of {red(len(playlist_id_batch))} {yellow('playlists in the db')}")
+    channel_playlists_with_meta_batch = ensure_youtube_channel_playlists_batch(
+        channel_id_batch)
+    if channel_playlists_with_meta_batch:
+        print_yt_channel_playlists_batch(channel_playlists_with_meta_batch)
 
 
 @app.command()
@@ -328,7 +331,7 @@ def show_my_youtube_channel_uploads():
 @app.command()
 def sync_youtube_channel_uploads(channel_id_batch: List[str]):
     channel_id_batch = list(channel_id_batch)
-    channel_with_meta_batch = _ensure_youtube_channel_batch(channel_id_batch)
+    channel_with_meta_batch = ensure_youtube_channel_batch(channel_id_batch)
     upload_playlist_id_batch = [
         x['channel']['contentDetails']['relatedPlaylists']['uploads'] for x in channel_with_meta_batch]
     return sync_youtube_playlist(upload_playlist_id_batch, with_items=True)
@@ -337,7 +340,7 @@ def sync_youtube_channel_uploads(channel_id_batch: List[str]):
 @app.command()
 def show_youtube_channel_uploads(channel_id_batch: List[str]):
     channel_id_batch = list(channel_id_batch)
-    channel_with_meta_batch = _ensure_youtube_channel_batch(channel_id_batch)
+    channel_with_meta_batch = ensure_youtube_channel_batch(channel_id_batch)
     upload_playlist_id_batch = [
         x['channel']['contentDetails']['relatedPlaylists']['uploads'] for x in channel_with_meta_batch]
     return show_youtube_playlist_items(upload_playlist_id_batch)
@@ -346,6 +349,9 @@ def show_youtube_channel_uploads(channel_id_batch: List[str]):
 #
 # Playlists
 #
+
+def ensure_youtube_playlist_batch(id_batch):
+    return ensure_batch(id_batch, ytpl.get_playlist_from_db_batch, sync_youtube_playlist)
 
 
 @app.command()
@@ -361,7 +367,7 @@ def sync_youtube_playlist(playlist_id_batch: List[str], with_items: bool = False
         return
 
     ytpl.save_playlist_to_db_batch(playlist_with_meta_batch)
-    print_yt_playlist_batch(playlist_with_meta_batch)
+    typer.echo(f"✅ Playlist {green(playlist_id_batch)} synced")
 
     if with_items:
         sync_youtube_playlist_items(playlist_id_batch)
@@ -373,19 +379,22 @@ def sync_youtube_playlist(playlist_id_batch: List[str], with_items: bool = False
 def show_youtube_playlist(playlist_id_batch: List[str]):
     """List playlist info from the database."""
     playlist_id_batch = list(playlist_id_batch)
-    playlist_with_meta_batch = ytpl.get_playlist_from_db_batch(
+    playlist_with_meta_batch = ensure_youtube_playlist_batch(
         playlist_id_batch)
-    if playlist_with_meta_batch is None:
-        plural = 's' if len(playlist_id_batch) > 1 else ''
-        typer.echo(
-            f"💡 {yellow('Playlist' + plural + ' not in db; try')} {blue('update-youtube-playlist')} {green(playlist_id_batch)}")
-        return
-
-    print_yt_playlist_batch(playlist_with_meta_batch)
+    if playlist_with_meta_batch:
+        print_yt_playlist_batch(playlist_with_meta_batch)
 
 #
 # Playlist items
 #
+
+
+def ensure_youtube_playlist_items_batch(id_batch):
+    # ensure that playlist items also has a valid playlist
+    playlist_with_meta_batch = ensure_youtube_playlist_batch(id_batch)
+    if playlist_with_meta_batch:
+        valid_playlist_id_batch = [x['_id'] for x in playlist_with_meta_batch]
+        return ensure_batch(valid_playlist_id_batch, ytpl.get_playlist_items_from_db_batch, sync_youtube_playlist_items)
 
 
 @app.command()
@@ -403,7 +412,7 @@ def sync_youtube_playlist_items(playlist_id: List[str]):
             return
 
         ytpl.save_playlist_items_to_db(playlist_items_with_meta)
-        print_yt_playlist_items(playlist_items_with_meta)
+        typer.echo(f"✅ Playlist items {green(playlist_id_batch)} synced")
 
         playlist_items_with_meta_batch.append(playlist_items_with_meta)
 
@@ -414,14 +423,10 @@ def sync_youtube_playlist_items(playlist_id: List[str]):
 def show_youtube_playlist_items(playlist_id_batch: List[str]):
     """List playlist items for a playlist"""
     playlist_id_batch = list(playlist_id_batch)
-    for playlist_id in playlist_id_batch:
-        playlist_items_with_meta = ytpl.get_playlist_items_from_db(playlist_id)
-        if playlist_items_with_meta is None:
-            typer.echo(
-                f"💡 {yellow('Playlist has no items in db; try')} {blue('update-youtube-playlist-items')} {green(playlist_id)}")
-            return
-
-        print_yt_playlist_items(playlist_items_with_meta)
+    playlist_items_with_meta_batch = ensure_youtube_playlist_items_batch(
+        playlist_id_batch)
+    if playlist_items_with_meta_batch:
+        print_yt_playlist_items_batch(playlist_items_with_meta_batch)
 
 #
 # Videos
@@ -433,27 +438,37 @@ def show_youtube_video(video_id_batch: List[str]):
     """Show a video from the database."""
     video_id_batch = list(video_id_batch)
     video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
-    if not video_with_meta_batch:
+    missing, found = _missing_found(video_id_batch, video_with_meta_batch)
+    if found:
+        print_yt_video_batch(
+            [x for x in video_with_meta_batch if x['_id'] in found])
+    if missing:
         plural = 's' if len(video_id_batch) > 1 else ''
         typer.echo(
-            f"💡 {yellow('Video' + plural + ' not in db; try')} {blue('update-youtube-playlist')} {green(video_id_batch)}")
-        return
-
-    print_yt_video_batch(video_with_meta_batch)
+            f"💡 {yellow('Video' + plural + ' not in db')} {green(missing)}")
 
 
 @app.command()
 def offline_my_youtube_playlists():
     """Get my playlists"""
-    playlists_with_meta = get_channel_playlists_from_db(
-        settings.my_youtube_channel_id)
-    print_yt_channel_playlists(playlists_with_meta)
+    pass
 
 
 @app.command()
-def offline_youtube_playlist(playlist_id: str):
+def offline_youtube_playlist(playlist_id_batch: List[str]):
     """Get offline playlist"""
-    pass
+    playlist_id_batch = list(playlist_id_batch)
+    playlist_items_with_meta_batch = ensure_youtube_playlist_items_batch(
+        playlist_id_batch)
+    video_id_batch = []
+    for playlist_items_with_meta in playlist_items_with_meta_batch:
+        for item in playlist_items_with_meta['items']:
+            video_id_batch.append(item['snippet']['resourceId']['videoId'])
+    if not video_id_batch:
+        msg = "No videos found"
+        typer.echo(f"❗ {red(msg)}: {green(playlist_id_batch)}")
+        return
+    offline_youtube_video(video_id_batch)
 
 
 @app.command()
@@ -466,31 +481,78 @@ def offline_youtube_channel(channel_id: str):
 def offline_youtube_video(video_id_batch: List[str]):
     """Download a video from YouTube and place it in its channel's folder."""
     video_id_batch = list(video_id_batch)
-    video_with_meta_batch = []
-    for video_id in video_id_batch:
-        video_url = f'https://www.youtube.com/watch?v={video_id_batch[0]}'
+
+    video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
+    missing, found = _missing_found(video_id_batch, video_with_meta_batch)
+    for video_id in found:
+        video_with_meta = [
+            x for x in video_with_meta_batch if x['_id'] == video_id][0]
+        if not _files_exists(video_with_meta):
+            missing.append(video_id)
+
+    verified_with_meta_batch = [
+        x for x in video_with_meta_batch if x['_id'] not in missing]
+    for verified_with_meta in verified_with_meta_batch:
+        id = verified_with_meta['_id']
+        video = verified_with_meta['video']
+        title = video['title']
+        typer.echo(f"✅ {blue(id)} {green(title)}")
+
+    if not missing:
+        return verified_with_meta_batch
+
+    download_with_meta_batch = []
+
+    for video_id in missing:
+        video_url = f'https://www.youtube.com/watch?v={video_id}'
         video_with_meta = ytv.get_video_from_youtube(video_url)
         if not video_with_meta:
             typer.echo(
                 f"❗ {red('Unable to download video')}: {green(video_url)}")
             return
-        video_with_meta_batch.append(video_with_meta)
+        download_with_meta_batch.append(video_with_meta)
 
-    ytv.save_video_to_db_batch(video_with_meta_batch)
-    print_yt_video_batch(video_with_meta_batch)
-    # channel_id = video_with_meta['channel_id']
-    # channel_with_meta = get_channel_from_db(channel_id)
-    # channel_title = channel_with_meta['channel']['snippet']['title']
-    # video_dir = os.path.join(settings.youtube_channels_dir, channel_title)
-    # video_path = os.path.join(video_dir, video_with_meta['video_file'])
+    ytv.save_video_to_db_batch(download_with_meta_batch)
 
-    # if not os.path.exists(video_path):
-    #     typer.echo(
-    #         f'Video file {video_path} does not exist; try "update-video"')
-    #     return
-    # print(f"Video file {video_path} exists")
+    for download_with_meta in download_with_meta_batch:
+        id = download_with_meta['_id']
+        video = download_with_meta['video']
+        title = video['title']
+        typer.echo(f"⬇️ {blue(id)} {green(title)}")
 
-    # # print_video(video_with_meta)
+    return verified_with_meta_batch + download_with_meta_batch
+
+
+def _files_exists(video_with_meta):
+    video = video_with_meta['video']
+    files = video['files']
+    channel_title = video['channel_title']
+
+    video_filename = os.path.join(settings.youtube_channels_dir,
+                                  channel_title,
+                                  files['video_filename'])
+    if not os.path.exists(video_filename):
+        typer.echo(
+            f"❗ {red('Missing video file')}: {green(video_filename)}")
+        return False
+
+    info_filename = os.path.join(settings.youtube_channels_dir,
+                                 channel_title,
+                                 files['info_filename'])
+    if not os.path.exists(info_filename):
+        typer.echo(
+            f"❗ {red('Missing info file')}: {green(info_filename)}")
+        return False
+
+    thumbnail_filename = os.path.join(settings.youtube_channels_dir,
+                                      channel_title,
+                                      files['thumbnail_filename'])
+    if not os.path.exists(thumbnail_filename):
+        typer.echo(
+            f"❗ {red('Missing thumbnail file')}: {green(thumbnail_filename)}")
+        return False
+
+    return True
 
 
 if __name__ == "__main__":

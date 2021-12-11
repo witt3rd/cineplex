@@ -1,0 +1,1026 @@
+{
+  "_id": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+  "as_of": "2021-12-10 12:36:37.603108",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dCMmTNYrxQb8RwcBaYLLUn_goP0",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-10-23T01:54:59Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Don\u2019t Starve Was Made and Why The Devs Had Many Heated Discussions",
+        "description": "Get 20% OFF + Free Shipping with code \u201cGLEN\u201d at \u201chttps://mnscpd.com/thatguyglen\u201d.\n\nThis Don\u2019t Starve documentary details the development of the indie survival game Don\u2019t Starve and goes behind the scenes of its creation. Discover more about developer Klei Entertainment and how a prototype from one of their yearly company game jams was the starting point for Don\u2019t Starve. The documentary also explores all the design decisions that the small four-person team made and why their first concepts and prototypes were designed as a free-to-play game.\n\nIt also takes a close look at all the hurdles Klei Entertainment had to go through. The concept art at the beginning of development looked drastically different from how Don\u2019t Starve looks today. Additionally, the team had many heated discussions about how to monetize their survival game. Furthermore, it delves into why the indie studio chose to launch a free beta version of Don\u2019t Starve on the Chrome Web Story and opted for a transparent development process that relied heavily on direct feedback from players. Lastly, it sums up all the lessons they learned throughout Don\u2019t Starve\u2019s entire development.\n\nSources:\nhttps://1drv.ms/b/s!AtL-iav41hYanTO8HLUjssS1bRhR\nhttps://www.youtube.com/watch?v=D5xnzCC-V2w&ab_channel=Noclip-VideoGameDocumentaries\n\nBeta gameplay:\nhttps://www.youtube.com/watch?v=dRFwuo88bDo&ab_channel=TotalBiscuit\n\nBehind the scenes footage:\nhttps://www.youtube.com/watch?v=s-46yR1dDXE&ab_channel=ElectricPlaygroundNetwork-EPN\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progress of future videos: https://twitter.com/GlenCallaert\n\n#DontStarve #KleiEntertainment #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ClEeO8WhxmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ClEeO8WhxmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ClEeO8WhxmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ClEeO8WhxmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ClEeO8WhxmQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ClEeO8WhxmQ"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "ClEeO8WhxmQ",
+        "videoPublishedAt": "2021-10-23T01:54:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kQdZyeyZcxW5lU5TO1fBkV0qlK8",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-09-13T14:25:03Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Hades Was Made and Why its Early Concept Didn\u2019t Work",
+        "description": "This Hades documentary details the development of the indie game Hades and goes behind the scenes of its creation. Discover how Supergiant Games, the creators of Bastion, Transistor and Pyre, prioritized a transparent and inclusive development process before they even had the idea for their first roguelike dungeon-crawler. The documentary also explores all the design decisions that Supergiant Games made and why Theseus was originally going to be the protagonist instead of Zagreus.\n\nIt also takes a close look at the inspirations for the ink art style and why the team choose to introduce more diversity among the Olympian characters. Implementing a cohesive narrative within the roguelike genre also presented lots of challenges that the studio found clever solutions for. Furthermore, it explores how the developers used Early Access to create the best possible version of Hades.\n\nSources:\nhttps://1drv.ms/b/s!AtL-iav41hYanTKjrpg6io_efipx\nhttps://www.youtube.com/watch?v=rNaTxFf7McU\nhttps://www.youtube.com/watch?v=oQPk9J7spw0\nhttps://www.youtube.com/watch?v=cYJ6d1ifSqA\n\nGameplay:\nhttps://www.youtube.com/watch?v=TultG_ojLqI\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progress of future videos: https://twitter.com/GlenCallaert\n\n#Hades #SupergiantGames #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CIk8Y9qkYx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CIk8Y9qkYx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CIk8Y9qkYx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CIk8Y9qkYx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CIk8Y9qkYx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CIk8Y9qkYx0"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "CIk8Y9qkYx0",
+        "videoPublishedAt": "2021-09-13T14:25:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bov_g6p1rT75gIuA_2bxn-jei-s",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-08-01T15:09:13Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Amnesia: The Dark Descent Was Made and Inspired by Super Mario",
+        "description": "This Amnesia: The Dark Descent documentary details the development of the indie horror game Amnesia: The Dark Descent and goes behind the scenes of its creation. Discover more about the indie horror game made by Frictional Games and how early iterations were inspired by Super Mario. The documentary also explores all the design decisions that Frictional Games made.\n\nIt also takes a close look at all the struggles Frictional Games had to go through during Amnesia\u2019s development. There were multiple moments during its development that could have caused a premature end to both the game and the entire studio. Furthermore, it delves into how the game uses people\u2019s own imagination against them by lying about the inner workings of the game\u2019s sanity system. Lastly, the documentary shows a lot of concept art and early alpha footage that was hidden in the game\u2019s files.\n\nSources:\nhttps://1drv.ms/b/s!AtL-iav41hYanTHz2-ertXdGguzc\n\nGameplay:\nhttps://www.youtube.com/watch?v=9rFp3AFUcWE&ab_channel=theRadBrad\n\nInterview:\nhttps://www.youtube.com/watch?v=IgB2T_hfDOM&ab_channel=ArsTechnica\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progress of future videos: https://twitter.com/GlenCallaert\n\n#AmnesiaTheDarkDescent #FrictionalGames #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iKfdZWJkLEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iKfdZWJkLEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iKfdZWJkLEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iKfdZWJkLEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iKfdZWJkLEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iKfdZWJkLEg"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "iKfdZWJkLEg",
+        "videoPublishedAt": "2021-08-01T15:09:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WyqLFzDseEYOgn6H5SebhtuLHOE",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-06-21T13:54:56Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Cave Story Was Made by Only One Person and Changed Indie Games Forever",
+        "description": "This Cave Story documentary details the development of the indie game Cave Story and goes behind the scenes of its creation. Discover how solo developer Daisuke \u201cPixel\u201d Amaya learned how to make video games and what chain of events led to the idea for his legendary action platformer game that was released in 2004. The documentary also explores all the design decisions that Daisuke made and how Cave Story was inspired by some of Daisuke\u2019s favorite games.\n\nIt also takes a close look at all the hurdles Daisuke had to go through during development. As a solo developer, he was responsible for all the art, music, writing and programming. He did all this while also working full-time for a printer company, one of the reasons it took five years to develop Cave Story. Furthermore, it explores why Daisuke released the indie game completely free of charge. Lastly, the documentary explains how the PC port Cave Story+ and 3DS port Cave Story 3D came to be, as well as what Daisuke Amaya is up to now.\n\nSources:\nhttps://1drv.ms/b/s!AtL-iav41hYanS7wIFGP4FI46RU7\n\nGameplay:\nhttps://www.youtube.com/watch?v=8NYJA-JGJx0&ab_channel=dada78641\nhttps://www.youtube.com/watch?v=InfFJTVAMkw\nhttps://www.youtube.com/watch?v=eOT4ocCFs6w&ab_channel=filmnstuff\nhttps://www.youtube.com/watch?v=8ep6dNobbuU&ab_channel=Espyo\n\nInterview:\nhttps://www.youtube.com/watch?v=w8XINfralSE&ab_channel=NintenDaanNC\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progress of future videos: https://twitter.com/GlenCallaert\n\n#CaveStory #DaisukeAmaya #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d0Lqt-BHbJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d0Lqt-BHbJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d0Lqt-BHbJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d0Lqt-BHbJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d0Lqt-BHbJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d0Lqt-BHbJ0"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "d0Lqt-BHbJ0",
+        "videoPublishedAt": "2021-06-21T13:54:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mf7pd9UXVEwWcKMamrbWjanqBLQ",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-05-10T15:08:44Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How The Binding of Isaac Was Made and Designed to Fail",
+        "description": "This The Binding of Isaac documentary details the development of the indie game The Binding of Isaac and goes behind the scenes of its creation. Discover more about indie developer Edmund McMillen and what inspired him to make his first roguelike after the success of his previous game Super Meat Boy. The documentary covers the entire development, from the original The Binding of Isaac all the way to the final DLC titled Repentance. It explores all the design decisions that Edmund made and why he designed Isaac to fail.\n\nFurthermore, it also takes a close look at all the problems Edmund and his co-developer Florian Himsl faced during Isaac\u2019s development that started during a relaxing game jam. For example, the original Isaac was entirely made in Flash and this caused quite a lot of technical problems to get it to run properly on PC. Lastly, the documentary looks to the future to see what\u2019s still in store for The Binding of Isaac and when we can expect a sequel to the successful roguelike.\n\nSources:\nhttps://1drv.ms/b/s!AtL-iav41hYanSeVYlzC9zeaNaC2\n\nGameplay:\nhttps://www.youtube.com/watch?v=j0JhD7Zehvc&ab_channel=arronmunroe\n\nInterviews:\nhttps://www.youtube.com/watch?v=H2HgDpHGDLs&ab_channel=BraceYourselfGames\nhttps://www.youtube.com/watch?v=KJFsLJaZZ_4&ab_channel=NVIDIA\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progress of future videos: https://twitter.com/GlenCallaert\n\n#TheBindingOfIsaac #EdmundMcMillen #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FT3m8fGLrKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FT3m8fGLrKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FT3m8fGLrKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FT3m8fGLrKQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FT3m8fGLrKQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FT3m8fGLrKQ"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "FT3m8fGLrKQ",
+        "videoPublishedAt": "2021-05-10T15:08:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W81dtIRK9ZtPI_c5VTEwoWwV4Dg",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-03-27T18:03:45Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Terraria Was Made and Why Development Suddenly Stopped",
+        "description": "This Terraria documentary details the development of the indie game Terraria and goes behind the scenes of its creation. Discover more about how Andrew \u201cRedigit\u201d Spinks got the idea for the popular sandbox game and started his own indie studio Re-Logic, to begin development on Terraria. The documentary also explores all the design decisions that Andrew and his team made and how Terraria was inspired by some of Andrew\u2019s favorite games. \n\nIt also takes a close look at all the hurdles Re-Logic had to go through during Terraria\u2019s 9-year long development cycle. There were actually multiple moments during its development that could have caused a premature end to Terraria\u2019s decade long journey. Furthermore, it delves into other Re-Logic projects like Terraria 2 and Terraria: Otherworld and what exactly happened to them over the years. Lastly, the documentary explores Terraria\u2019s legacy and how Re-Logic handed the keys to the community after they released the last major update titled \u201cJourney\u2019s End\u201d.\n\nSources:\nhttps://1drv.ms/b/s!AtL-iav41hYanSUc6OUqv-2SMKl8\n\nLeaked beta gameplay:\nhttps://www.youtube.com/watch?v=EvLtymv0Ouo&ab_channel=ChippyGaming\n\nInterview:\nhttps://www.youtube.com/watch?v=2rv4xkg1NR0&ab_channel=GeekExchange\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progress of future videos: https://twitter.com/GlenCallaert\n\n#Terraria #Relogic #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENT2_yeBf0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENT2_yeBf0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENT2_yeBf0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ENT2_yeBf0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ENT2_yeBf0w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ENT2_yeBf0w"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "ENT2_yeBf0w",
+        "videoPublishedAt": "2021-03-27T18:03:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WN4NrTRbCE2CmV7CbH0QeZmJC3I",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-02-19T15:03:02Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Shovel Knight Was Made and Broke The NES",
+        "description": "This Shovel Knight documentary details the development of the indie video game Shovel Knight and goes behind the scenes of its creation. Discover how a handful of ex-WayForward developers started Yacht Club Games and wanted to make a game that adopted a simpler style of gameplay, much like the classic NES games from the eighties. The documentary also explores how the Kickstarter initially almost barely got funded but eventually blew up almost overnight and unlocked every single stretch goal.\n\nIt also details all the design decisions that the studio made throughout development and how the team had to break the limitations of the NES to make Shovel Knight work. Furthermore, it delves into how Yacht Club Games ran out of money a couple of months before development and how it affected the team. Lastly, the documentary takes a look at why the developers burned out after developing the first additional campaign and what they did to recover from it.\n\nSources:\nhttps://www.gameinformer.com/b/features/archive/2014/07/29/shovel-knight-devs-discuss-co-op-pogo-jumping-and-beyond.aspx\nhttps://www.ign.com/articles/2013/03/15/shovel-knight-when-castlevania-meets-mega-man\nhttps://www.usgamer.net/articles/game-dev-recipes-shovel-knight\nhttps://www.nintendolife.com/news/2021/01/feature_playing_the_name_game_-_the_art_of_finding_the_perfect_title\nhttps://www.gamasutra.com/blogs/DavidDAngelo/20140625/219383/Breaking_the_NES_for_Shovel_Knight.php\nhttps://shovelknight.fandom.com/wiki/Shield_Knight\nhttps://www.usgamer.net/articles/2014-recap-shovel-knights-surprisingly-affecting-storytelling\nhttps://www.usgamer.net/articles/the-making-of-specter-of-torment-part-1\nhttps://www.polygon.com/features/2018/10/19/17992216/shovel-knight-book-boss-fight-yacht-club-games\nhttps://yachtclubgames.com/category/design\nhttps://venturebeat.com/2019/12/06/shovel-knight-director-sean-velasco-digs-into-yacht-club-games-past-and-future/\nhttps://www.gamasutra.com/view/news/237629/Road_to_the_IGF_Yacht_Club_Games_Shovel_Knight.php\nhttps://www.gamasutra.com/view/news/237629/Road_to_the_IGF_Yacht_Club_Games_Shovel_Knight.php\nhttps://kotaku.com/the-seven-year-saga-of-shovel-knight-is-finally-over-1840419716\nhttps://www.gamesindustry.biz/articles/2014-08-06-shovel-knight-devs-break-down-costs-sales\nhttps://www.redbull.com/int-en/shovel-knight-digs-its-way-onto-wii-u\nhttps://www.redbull.com/int-en/shovel-knight-digs-its-way-onto-wii-u\n\nGameplay:\nhttps://www.youtube.com/watch?v=vnP_fcGgdAQ&t&ab_channel=FCPlaythroughs\nhttps://www.youtube.com/watch?v=l5tAbyd_nCs&t&ab_channel=ZeldaGamer\nhttps://www.youtube.com/watch?v=fbtAlcOIKAk&ab_channel=TrontenRetro\n\nInterview:\nhttps://www.youtube.com/watch?v=j6a4ywXRxgs&t&ab_channel=kNIGHTWING01\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progress of future videos: https://twitter.com/GlenCallaert\n\n#ShovelKnight #YachtClubGames #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xMikv4TFQ6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xMikv4TFQ6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xMikv4TFQ6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xMikv4TFQ6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xMikv4TFQ6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xMikv4TFQ6A"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "xMikv4TFQ6A",
+        "videoPublishedAt": "2021-02-19T15:03:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TJYM_Yz7ztTMsf7ITPxqzsieVmQ",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-01-17T15:06:32Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Papers, Please Was Made and The History of The Developer",
+        "description": "This Papers, Please documentary details the development of the indie video game Papers, Please and goes behind the scenes of its creation. It also details the history of Lucas Pope\u2019s development career. Discover how solo developer Lucas Pope got the idea for a game about checking people\u2019s documents and how he was able to generate thousands upon thousands of unique travelers all on his own.\n\nThe documentary also explores the entire development history of Lucas Pope, all the way from when he started his own development studio in the nineties, to working on the Uncharted series at Naughty Dog. It also details all the design decisions that Lucas made throughout development and how he not only wanted to make a fun game, but also put the player\u2019s moral compass to the test. Lastly, the documentary also takes a brief look at what Lucas did next and what he\u2019s up to currently.\n\n0:00 Intro\n0:54 The history of Lucas Pope\n14:11 How Papers, Please was made\n\nSources:\nhttps://www.bbc.com/news/technology-26527109\nhttps://web.archive.org/web/20140122052214/http://www.edge-online.com/features/the-making-of-papers-please/\nhttps://www.vg247.com/2014/03/05/lucas-pope-im-kind-of-sick-to-death-of-papers-please/\nhttps://abcnews.go.com/ABC_Univision/papers-game-surprise/story?id=19135556\nhttps://web.archive.org/web/20140111232206/http://culturemass.com/2013/04/14/papers-please-and-an-interview-with-its-creator/\nhttps://web.archive.org/web/20140111172010/http://forums.tigsource.com/index.php?topic=29750\nhttps://www.gamasutra.com/view/news/199383/Designing_the_bleak_genius_of_Papers_Please.php\nhttps://www.theverge.com/2013/5/14/4329676/papers-please-a-game-about-an-immigration-inspector\nhttps://arstechnica.com/gaming/2019/01/from-uncharted-to-obra-dinn-lucas-pope-dishes-on-his-illustrious-game-dev-career/\nhttp://pope.jeffsys.net/index.php#trt\n\nGameplay:\nhttps://www.youtube.com/watch?v=VVREohJWWZs&t&ab_channel=GamingFasterthanLight%21\nhttps://www.youtube.com/watch?v=kMC-r0e_Ly4&t&ab_channel=Rainerius\nhttps://www.youtube.com/watch?v=XHEoRI76cwc&t&ab_channel=Develogger\nhttps://www.youtube.com/watch?v=C2CMGQBPPpc&t&ab_channel=KolyaDragon99\nhttps://www.youtube.com/watch?v=fjzh2poxB6A&t&ab_channel=NetoAdventure\nhttps://www.youtube.com/watch?v=n1Yc3u5Kjo8&t&ab_channel=Gameruni\nhttps://www.youtube.com/watch?v=N75coXr23Pc&t&ab_channel=UndefinedGamer\nhttps://www.youtube.com/watch?v=L5zU9YVyBjM&ab_channel=Zorlac\nhttps://www.youtube.com/watch?v=abnvHqeKOME&t&ab_channel=RichardFlannagan\n\nInterview:\nhttps://www.youtube.com/watch?v=hDt5lvzZ1FI&t&ab_channel=Gamereactor\n\nOther:\nhttps://www.youtube.com/watch?v=FquNpWdf9vg&ab_channel=TheComputerChronicles\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progress of future videos: https://twitter.com/GlenCallaert\n\n#PapersPlease #LucasPope #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KNC_kUPIYDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KNC_kUPIYDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KNC_kUPIYDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KNC_kUPIYDg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KNC_kUPIYDg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KNC_kUPIYDg"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "KNC_kUPIYDg",
+        "videoPublishedAt": "2021-01-17T15:06:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LXFWHmJeYqtXVEYwJrARFbevwsA",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-11-30T17:36:08Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Among Us Was Made and Why The Developers Wanted to Quit",
+        "description": "This Among Us documentary details the development of the video game Among Us and goes behind the scenes of its creation. Discover how the members of the small indie studio InnerSloth all met each other in college and started working on Among Us in 2017, after a previous project failed. Originally, the game was only playable on mobile and didn\u2019t support online multiplayer. After the Steam release months later, the team was thinking about giving up on the game entirely.\n\nThe documentary also explores how Among Us became a massive success for the small indie studio and what kind of impact it had on the game itself and the developers. It also details all the design decisions that InnerSloth made throughout development. Lastly, the documentary also takes a look at what\u2019s next for Among Us.\n\nSources:\nhttps://innersloth.itch.io/among-us/devlog\nhttps://www.gamasutra.com/blogs/SimonCarless/20200910/369968/Behind_the_dizzying_ride_to_the_top_for_Among_Us.php\nhttps://www.pcgamer.com/how-among-us-became-so-popular/\nhttps://web.archive.org/web/20200909025025if_/https://www.kotaku.com.au/2020/09/among-us-improbable-rise-to-the-top-of-twitch/\nhttps://www.escapistmagazine.com/v2/among-us-devs-have-created-a-gaming-phenomenon-albeit-two-years-after-it-launched/\nhttps://screenrant.com/among-us-pubg-concurrent-players/\nhttps://www.gamespot.com/articles/among-us-ps4-xbox-one-console-ports-are-more-complicated-than-you-think/1100-6482373/\nhttps://www.inverse.com/gaming/among-us-xbox-ps4-release-date-update\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=700228371\nhttps://www.reddit.com/r/gamedev/comments/bpyna9/reviving_a_dead_project/\nhttps://www.reddit.com/r/gamedev/comments/ccqrhp/what_was_the_first_game_you_launched_on_steam_and/\nhttps://innersloth.itch.io/among-us/devlog/80272/improving-meetings-in-among-us-201957\nhttps://www.pcgamer.com/how-among-us-became-so-popular/\nhttps://web.archive.org/web/20200921123233/https://www.thegamer.com/among-us-1-5-million-players-simultaneous-innersloth-party-game/\nhttps://web.archive.org/web/20200921123458/https://twitter.com/InnerslothDevs/status/1302088787384700928?ref_src=twsrc%5Etfw\nhttps://twitter.com/forte_bass/status/1310704642301460482\nhttps://www.youtube.com/trends/articles/among-us-september/\nhttps://steamcommunity.com/app/945360/discussions/0/2923353981937819321/\nhttps://www.inverse.com/gaming/among-us-ghost-update\nhttps://www.polygon.com/2020/10/7/21506187/among-us-crewmates-concept-art\n\nGameplay:\nhttps://www.youtube.com/watch?v=Bb3eNqVemis&t=32s&ab_channel=IPLAYGAMES\nhttps://www.youtube.com/watch?v=JgDWItzos0g&t=713s&ab_channel=Kaif\nhttps://www.youtube.com/watch?v=cYOJvRE9V14&t=33s&ab_channel=Sodapoppin\nhttps://www.youtube.com/watch?v=58zWgyXJ5fM&t=79s&ab_channel=Nixian\n\nInterview:\nhttps://www.newgrounds.com/audio/listen/972286\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#AmongUs #InnerSloth #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBib9vPxhBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBib9vPxhBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBib9vPxhBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JBib9vPxhBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JBib9vPxhBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JBib9vPxhBE"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "JBib9vPxhBE",
+        "videoPublishedAt": "2020-11-30T17:36:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6IURYRoHLs1ad8phUmm1v-qqqsQ",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-11-01T15:03:25Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How The Stanley Parable Was Made and Broke Up The Dev Team",
+        "description": "This The Stanley Parable documentary details the development of the video game The Stanley Parable and goes behind the scenes of its creation. Discover how Davey Wreden started working on the original Half-Life 2 mod version of The Stanley Parable when he was a 19 year old film student. Davey created the mod all on his own and when he released it, it instantly became an immense success.\n\nDespite all the success, Davey felt very lost after the game\u2019s release, but thanks to the positive feedback from fans, he felt energized again and decided to remake the Half-Life 2 mod into a fully fledged game. He brought in developers from all over the world to help create the remake, including an independent developer named William Pugh. The duo were equal partners on the project, sharing the title of designer and writer. They set up their own studio called Galactic Cafe.\n\nThe documentary also explores all the design decisions that Davey and William made and how, after the game\u2019s release, the two developers struggled and parted ways. Lastly, the documentary also takes a look at how Davey and William found their way back to each other to create The Stanley Parable: Ultra Deluxe edition.\n\nSources:\nhttps://www.gamasutra.com/view/news/202359/Behind_the_scenes_with_The_Stanley_Parable.php\nhttps://www.rockpapershotgun.com/2011/11/22/level-with-me-davey-wreden/#more-83225\nhttps://kotaku.com/the-stanley-parable-turns-video-game-storytelling-on-it-5829254\nhttps://www.shacknews.com/article/70363/interview-davey-wreden-on-stanley-parable-remake-and-self-taught\nhttps://www.wired.com/2011/08/the-stanley-parable/\nhttps://www.rockpapershotgun.com/2014/03/28/davey-wreden-william-pugh-the-stanley-parable-interview/\nhttps://www.gamespot.com/articles/breaking-out-of-the-routine-player-agency-in-the-stanley-parable/1100-6413312/\nhttps://www.rockpapershotgun.com/2012/09/13/stanley-clicked-yes-the-stanley-parable-returns/\nhttps://www.rockpapershotgun.com/2012/10/16/postal-dad-stanliest-gnome-21-new-games-greenlit/\nhttps://www.gameinformer.com/b/news/archive/2013/12/19/the-stanley-parable-now-available-for-mac.aspx\nhttps://www.gamingonlinux.com/articles/the-stanley-parable-released-for-linux-you-will-play-it-you-wont-play-it.5919\nhttps://www.polygon.com/2013/10/10/4823566/the-stanley-parable-demo-hands-on\nhttps://web.archive.org/web/20150209063143/http://www.stanleyparable.com/2013/10/a-postmortem-on-the-launch-of-the-stanley-parable/\nhttps://www.gameinformer.com/b/news/archive/2013/10/20/the-stanley-parable-has-sold-more-than-100-000-copies-since-launch.aspx\nhttps://www.polygon.com/2013/10/21/4861948/the-stanley-parables-popular-demo-helped-make-the-game-a-success-dev\nhttps://www.mcvuk.com/business-news/a-pc-developers-tale-william-pugh-on-making-the-stanley-parable/\nhttps://www.gameinformer.com/b/news/archive/2013/10/20/the-stanley-parable-has-sold-more-than-100-000-copies-since-launch.aspx\nhttps://www.eurogamer.net/articles/2020-08-19-the-stanley-parables-ultra-deluxe-edition-has-been-delayed-until-next-year-again\nhttps://www.pcgamesn.com/the-stanley-parable/the-big-interview-william-pugh-closes-the-book-on-the-stanley-parable\nhttps://www.teamfortress.com/post.php?id=5626\n\nGameplay:\nhttps://www.youtube.com/watch?v=gblvOhnv2k0&t&ab_channel=MaximeLebled-3Danimator\nhttps://www.youtube.com/watch?v=ia3S1TkRavU&t&ab_channel=Supple\nhttps://www.youtube.com/watch?v=F_nF9vFh4MY&t&ab_channel=Santosx07\nhttps://www.youtube.com/watch?v=EOnxXJyOJ0s&t&ab_channel=GameGrumps\nhttps://www.youtube.com/watch?v=pbex71BucRI&t&ab_channel=Markiplier\nhttps://www.youtube.com/watch?v=s6xaO9QxmJw&t&ab_channel=PewDiePie\n\nInterviews:\nhttps://www.youtube.com/watch?v=-Btc34eRsN8&t&ab_channel=GameLoading\nhttps://www.youtube.com/watch?v=NtU3JUFPPe4&ab_channel=CriticalPath\nhttps://www.youtube.com/watch?v=YOzdjXVt53s&t&ab_channel=PowerUnlimited\nhttps://www.youtube.com/watch?v=lB0OoYX9UfI&ab_channel=GDC\nhttps://www.youtube.com/watch?v=cGgLllLyVmA&t&ab_channel=Rev3Games\nhttps://www.youtube.com/watch?v=icV3oliepKA&t&ab_channel=BAFTA\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#TheStanleyParable #DaveyWreden #WilliamPugh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EleHVjLM7tU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EleHVjLM7tU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EleHVjLM7tU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EleHVjLM7tU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EleHVjLM7tU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EleHVjLM7tU"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "EleHVjLM7tU",
+        "videoPublishedAt": "2020-11-01T15:03:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vaCbtNm_kGaefVfYncGFnz8aG7E",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-10-02T14:37:12Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Celeste Was Made and Inspired by Real-Life Rock Climbing",
+        "description": "This Celeste documentary details the development of the video game Celeste and goes behind the scenes of its creation. Discover how Celeste started out as a simple PICO-8 game that was developed in four days and grew to the beloved indie platformer we know today. Once developers Maddy Thorson and Noel Berry were done with the PICO-8 game they decided to assemble a team to expand it into a fully-fledged game.\n\nThe documentary also explores all the design decisions that the studio Matt Makes Games made and how the story of Celeste is very much a reflection of director Maddy Thorson\u2019s personal experience with anxiety. Lastly, the documentary also takes a look at what\u2019s next for the studio.\n\nSources:\nhttps://web.archive.org/web/20180105123149/https://killscreen.com/articles/celeste/\nhttps://www.polygon.com/2017/2/22/14701712/nintendo-switch-celeste-towerfall\nhttps://web.archive.org/web/20180105123137/https://killscreen.com/articles/celeste-insanely-difficult-insanely-cute-platformer-deserve/\nhttps://www.polygon.com/2016/8/26/12666236/celeste-gameplay-video-towerfall-successor-matt-thorson-matt-makes-games-pax-west-indie-megabooth\nhttps://twitter.com/NoelFB/status/951470996854206464\nhttps://www.polygon.com/2018/12/28/18159575/celeste-collectors-edition-limited-run-games-release#:~:text=Limited%20Run's%20Celeste%20collector's%20edition,1%20at%2010%20a.m.%20ET.\nhttps://www.rockpapershotgun.com/2019/09/09/celeste-has-set-off-on-its-final-farewell-update/\nhttps://twitter.com/exok_games/status/1169731121401040897\nhttps://www.pcgamer.com/celeste-developer-says-that-a-sequel-is-not-in-the-works/\nhttps://www.usgamer.net/articles/celestes-designer-reveals-all-the-secret-ways-the-brutal-platformer-is-surprisingly-forgiving\nhttps://www.gamasutra.com/view/news/333554/Celeste_has_sold_over_500000_copies_since_January.php\nhttps://www.destructoid.com/review-celeste-484157.phtml\nhttps://twitter.com/kuraine/status/967900071709761536\nhttps://www.gamespot.com/articles/a-celeste-piano-album-is-coming-and-it-sounds-and-/1100-6464520/\nhttps://kotaku.com/celeste-taught-fans-and-its-own-creator-to-take-better-1825305692\nhttps://blog.playstation.com/2016/12/03/celeste-from-towerfall-creator-matt-thorson-hits-ps4-next-year/\nhttps://celestegame.tumblr.com/tools\nhttps://twitter.com/MattThorson/status/1278840712574799872\nhttps://www.nintendolife.com/news/2018/01/feature_conquering_the_indie_mountain_with_celeste_creator_matt_makes_games\nhttps://www.eurogamer.net/articles/2016-07-20-towerfall-devs-next-game-celeste-recalls-super-meat-boy\nhttps://nichegamer.com/2017/07/04/celeste-delayed-to-january-2018-for-pc-ps4-and-switch/\nhttps://www.pcgamer.com/celestes-free-dlc-will-contain-more-than-100-levels/\nhttps://www.youtube.com/watch?v=NKDrdaCT0XU\nhttps://www.youtube.com/watch?v=c3mbELVqAmo&t\nhttps://www.youtube.com/watch?v=u-nSjhIgmXc&ab_channel=MattThorson\nhttps://www.youtube.com/watch?v=4RlpMhBKNr0&ab_channel=GDC\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#Celeste #MattMakesGames #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MSKOQr_YS-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MSKOQr_YS-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MSKOQr_YS-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MSKOQr_YS-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MSKOQr_YS-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MSKOQr_YS-U"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "MSKOQr_YS-U",
+        "videoPublishedAt": "2020-10-02T14:37:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M93Vw7jcjtdZo3akOE_4lkcvtEY",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-08-30T18:23:19Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Undertale Was Made and Why its Success Scared The Creator",
+        "description": "This Undertale documentary details the development of the video game Undertale and goes behind the scenes of its creation. Discover how developer Toby Fox came up with the idea for the unconventional RPG and how he wanted to challenge conventional RPG mechanics and tropes and fully embrace the video game medium. While Toby developed Undertale mostly on his own, he did receive help from several artists, most notably a friend of his named Temmie Chang.\n\nThe documentary also explores all the design decisions that Toby Fox made and how the game was inspired by a Wikipedia article about arrays. It also details how Toby Fox struggled with the success of Undertale and even caused a burnout. Lastly, the documentary also takes a look at Toby's next project Deltarune.\n\nSources:\nhttps://www.kickstarter.com/projects/1002143342/undertale\nhttps://www.reddit.com/r/Undertale/comments/a1eavt/has_it_been_revealed_what_programs_were_used_to/\nhttps://www.webcitation.org/6eg0CkoY2?url=https://seagaia.wordpress.com/2013/05/25/toby-foxs-undertale-dev-2-dev-interview-1/\nhttps://www.fangamer.com/products/undertale-art-book\nhttps://www.webcitation.org/6efmf8UHg?url=https://killscreen.com/articles/behind-humor-toby-foxs-undertale/\nhttps://en.wikiversity.org/wiki/Digital_Media_Concepts/Toby_Fox#:~:text=Undertale%20was%20the%20first%20major,using%20the%20engine%20GameMaker%3A%20Studio.\nhttps://www.pcgamer.com/the-making-of-undertale/\nhttps://medium.com/kickstarter/undertale-creator-toby-fox-on-the-indie-computer-game-that-s-become-an-industry-darling-fa4df6cee2db\nhttps://undertale.fandom.com/wiki/Toby_Fox\nhttps://undertale.tumblr.com/page/11\nhttps://fwugradiation.tumblr.com/page/15\nhttps://undertale.fandom.com/wiki/Undertale\nhttps://aminoapps.com/c/undertale/page/blog/undertale-concept-art-book-part-2/LD2i_8ueQ7n5a5RXGMJE6Yo8Vr8WqYw\nhttps://kotaku.com/undertale-creator-shares-notebook-full-of-early-concept-1790978697\nhttps://v1.escapistmagazine.com/news/view/125361-Undertale-Dev-Every-Monster-Should-Feel-Like-an-Individual\nhttps://www.webcitation.org/6efnGRPgb?url=http://boingboing.net/2015/09/24/undertale-game.html\nhttps://www.webcitation.org/6efnlwrcn?url=http://indiegames.com/2015/10/thinking_for_ourselves_-_toby_.html\nhttps://www.gamasutra.com/view/news/257471/How_Undertale_makes_you_think_hard_before_killing_monsters.php\nhttps://undertale.fandom.com/wiki/Annoying_Dog\nhttps://undertale.fandom.com/wiki/Temmie_Chang\nhttps://screenrant.com/undertale-video-game-facts-trivia/\nhttps://www.eurogamer.net/articles/2018-11-02-undertale-creator-says-the-rest-of-deltarune-has-not-been-made-yet\nhttps://undertale.tumblr.com/post/150397346860/retrospective-on-undertales-popularity\n\nGameplay footage Undertale: https://www.youtube.com/watch?v=L-tAQHP_zCU\nGameplay footage Deltarune: https://www.youtube.com/watch?v=TmyNeAC0wow&t\nGameplay footage Touhou Project: https://www.youtube.com/watch?v=-A6w_cqPGow&t\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#Undertale #TobyFox #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NIIx3gmLdpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NIIx3gmLdpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NIIx3gmLdpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NIIx3gmLdpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NIIx3gmLdpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NIIx3gmLdpA"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "NIIx3gmLdpA",
+        "videoPublishedAt": "2020-08-30T19:07:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C7ekisI9HJfloCuATdaBM8m_bjM",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-07-19T18:43:01Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Hollow Knight Was Made and First Appeared on Newgrounds",
+        "description": "This Hollow Knight documentary details the development of the video game Hollow Knight and goes behind the scenes of its creation. Discover how Ari Gibson and William Pellen became friends and eventually came up with the idea for Hollow Knight while participating in Game Jams together. Afterwards, they quit their jobs and founded their own Indie Studio called Team Cherry. After almost three years of development, the 2D platformer would go on to be a huge success, selling 2.8 million copies as of February 2019. Team Cherry announced a sequel called Silksong in 2019.\n\nThe documentary also explores all the design decisions that Team Cherry made and how the game started out as a top-down survival game. It also details how the developers wanted to make Hollow Knight stand out from other Metroidvania games and how challenging it was to balance the game\u2019s difficulty.\n\nSources:\nhttps://www.gameinformer.com/2018/10/16/the-making-of-hollow-knight\nhttps://www.kickstarter.com/projects/11662585/hollow-knight/posts/1120881\nhttps://www.reddit.com/r/gaming/comments/6rvds8/we_are_team_cherry_the_developers_of_hollow/\nhttps://kotaku.com/the-makers-of-hollow-knight-are-fine-with-players-missi-1828721254\nhttps://www.rockpapershotgun.com/2017/08/04/hollow-knight-hidden-dreams/\nhttp://mossbag69.blogspot.com/2019/07/team-cherry-lore-and-plot-explained.html#:~:text=The%20name%20Team%20Cherry%20actually,basically%20the%20same%20game%2C%20guys.\nhttps://www.pcgamer.com/how-to-design-a-great-metroidvania-map/?utm_content=bufferd26c5&utm_medium=social&utm_source=twitter&utm_campaign=buffer-pcgamertw\nhttps://www.kickstarter.com/projects/11662585/hollow-knight/description\nhttps://teamcherry.com.au/\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#HollowKnight #TeamCherry #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kSAlVBFdC6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kSAlVBFdC6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kSAlVBFdC6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kSAlVBFdC6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kSAlVBFdC6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kSAlVBFdC6k"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "kSAlVBFdC6k",
+        "videoPublishedAt": "2020-07-19T20:09:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dxnURML89UFxhKRarLHKnRjSoCY",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-06-14T17:07:20Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Super Mario 64 Was Made and Inspired by a Yoshi Prototype",
+        "description": "This Super Mario 64 documentary details the development of the video game Super Mario 64 and goes behind the scenes of its creation. Discover how Shigeru Miyamoto first had the idea for a 3D Mario game during the development of Star Fox on the SNES and how it was later inspired by a Yoshi prototype that was pitched by the UK-based development studio Argonaut Software. \n\nThe documentary also explores the many trials and tribulations the development team faced and takes a look at the many design decisions that were made during development of the Nintendo 64 launch title. Super Mario 64 became a huge success for Nintendo and was one of the main contributing factors of the Nintendo 64\u2019s initial popularity. It also set a new standard for 3D platformers and even to this day, it\u2019s still considered to be one of the best platformers around.\n\nSources:\nhttp://www.zeldalegends.net/index.php?n=interviews&id=1996-01-np080-miya-tezu&m=html\nhttps://readcomiconline.to/Comic/Nintendo-Power/Issue-80?id=50566\nhttps://web.archive.org/web/20120216163241/http://top100.ign.com/2007/ign_top_game_5.html\nhttps://www.nsidr.com/archive/profile-shigeru-miyamoto\nhttps://www.eurogamer.net/articles/2013-07-04-born-slippy-the-making-of-star-fox\nhttp://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/\nhttps://www.destructoid.com/mario-64-once-had-a-co-op-mode-156090.phtml\nhttps://www.gamasutra.com/php-bin/news_index.php?story=16386#.UERP19ZlRWw\nhttps://www.mariowiki.com/MIPS\nhttps://tcrf.net/Prerelease:Super_Mario_64_(Nintendo_64)#Development_Timeline\nhttps://kotaku.com/some-cool-stories-about-the-making-of-mario-64-1786928623\nhttp://shmuplations.com/mario64/\nhttps://www.youtube.com/watch?v=cg8dzVg6Fow\nhttps://www.youtube.com/watch?v=OZ7rVETzIwc\nhttps://www.youtube.com/watch?v=lKBNzjgN_hk\nhttps://www.youtube.com/watch?v=GjgaRzI853o\n\nGameplay footage by RetroGame.Stream channel on YouTube: https://www.youtube.com/watch?v=Z3G4t6i5PAc&t=9143s\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#SuperMario64 #Nintendo #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AzTi_Gt-eSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AzTi_Gt-eSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AzTi_Gt-eSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AzTi_Gt-eSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AzTi_Gt-eSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AzTi_Gt-eSI"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "AzTi_Gt-eSI",
+        "videoPublishedAt": "2020-06-14T18:02:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tBUQFhK4YTR9E3KSemhQyYFRJTc",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-05-19T17:40:01Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Stardew Valley Was Made by Only One Person",
+        "description": "This Stardew Valley documentary details the development of the video game Stardew Valley and goes behind the scenes of its creation. Discover how Eric Barone, an Auburn native, made the very successful farming simulator RPG all by himself. Creating all the art, music, sound effects, dialogue and programming were a daunting task that had its ups and downs, but after four years of development, it all paid off for Eric. Stardew Valley would go on to be a huge success, selling 10 million copies as of January 2020.\n\nThe documentary also explores how Eric wanted to develop a small Harvest Moon clone at first, but eventually decided to expand the scope of his passion project and develop his dream version of what Harvest Moon could be. It also details why Eric Barone kept his real-life identity a secret for years and instead used his nickname ConcernedApe when he communicated about Stardew Valley\u2019s development.\n\nSources:\nhttps://gamasutra.com/view/news/267563/The_4_years_of_selfimposed_crunch_that_went_into_Stardew_Valley.php\nhttps://kotaku.com/stardew-valley-s-creator-has-won-the-hearts-of-pc-gamer-1762636730\nhttps://www.pcgamer.com/stardew-valley-interview/\nhttps://www.vulture.com/2016/03/first-time-developer-made-stardew-valley.html\nhttps://www.pcgamer.com/see-what-stardew-valley-looked-like-four-years-before-it-was-finished/\nhttps://www.stardewvalley.net/stardew-valley-1-year-anniversary/\nhttps://cornellsun.com/2016/02/23/stardew-valley-pushing-the-boundaries-of-farming-rpgs/\nhttps://www.polygon.com/2016/2/29/11134934/stardew-valley-steam-indie-farming-rpg-harvest-moon\nhttps://www.pcgamer.com/stardew-valley-creator-eric-barone-finally-has-a-decent-desk/\nhttps://www.kotaku.com.au/2016/03/the-past-present-and-future-of-stardew-valley/\nhttps://www.gq.com/story/stardew-valley-eric-barone-profile\nhttps://youtu.be/9YqdutJLIi8\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#StardewValley #EricBarone #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4-k6j9g5Hzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4-k6j9g5Hzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4-k6j9g5Hzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4-k6j9g5Hzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4-k6j9g5Hzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4-k6j9g5Hzk"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "4-k6j9g5Hzk",
+        "videoPublishedAt": "2020-05-19T19:02:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VIHZL45fL_2WUy8sy1V_PqPa628",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-04-25T08:02:01Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Darkest Dungeon Was Made and Caused an Outrage",
+        "description": "This Darkest Dungeon documentary details the development of the video game Darkest Dungeon and goes behind the scenes of its creation. Discover how Tyler Sigman and Chris Bourassa created their own game development studio and brought their idea for Darkest Dungeon to life, as well as how they managed to develop a critically and financially successful game with the help of Kickstarter and Early Access.\n\nThe documentary also explores why the developer had to deal with an outrage after they implemented two new gameplay changes in the Early Access version. Red Hook Studios is far from done with the world they created for Darkest Dungeon and is currently working on Darkest Dungeon 2, a direct sequel that will release on Early Access first, just like the original.\n\nSources:\nhttps://www.gamasutra.com/view/news/265011/Road_to_the_IGF_Red_Hook_Studios_Darkest_Dungeon.php\nhttps://www.gamasutra.com/view/news/244480/Game_Design_Deep_Dive_Darkest_Dungeons_Affliction_System.php\nhttps://www.gamasutra.com/view/news/237092/Darkest_Dungeon_Designing_for_despair_and_kicking_you_when_youre_down.php\nhttps://www.pcgamer.com/how-darkest-dungeon-got-inspiration-from-band-of-brothers-and-aliens/\nhttps://www.theglobeandmail.com/news/british-columbia/darkest-dungeon-developers-find-success-in-bcs-budding-gaming-industry/article28409660/\nhttps://www.gamasutra.com/blogs/TylerSigman/20140305/211326/A_Darkest_Dungeon_Kickstarter_PostMortem_Part_1.php\nhttps://www.rockpapershotgun.com/2017/01/27/how-darkest-dungeon-found-new-horror-through-its-turn-based-combat/\nhttps://80.lv/articles/red-hook-studios-talks-about-the-creation-of-darkest-dungeon/\nhttps://www.pcgamer.com/darkest-dungeon-2-trailer/\nhttps://www.usgamer.net/articles/darkest-dungeon-lets-you-turn-the-devs-official-vision-off\nhttps://www.pcgamer.com/darkest-dungeon-gets-toggle-for-heart-attacks-and-corpses/\n\nMusic tracks:\nEnter the Maze by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100782\nArtist: http://incompetech.com/\n\nHalls of the Undead by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100355\nArtist: http://incompetech.com/\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#DarkestDungeon #RedHookStudios #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pbnsCYU0WHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pbnsCYU0WHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pbnsCYU0WHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pbnsCYU0WHQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pbnsCYU0WHQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pbnsCYU0WHQ"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "pbnsCYU0WHQ",
+        "videoPublishedAt": "2020-04-25T14:48:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dk9XlTJF4RqXYDl_Elfd2r7zsDQ",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-15T13:09:17Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Journey Was Made and Why The Developer Went Bankrupt",
+        "description": "This Journey documentary details the development of the video game Journey and goes behind the scenes of its creation. The documentary also explores why the developer Thatgamecompany went bankrupt a couple of months before Journey was released in 2012. Jenova Chen was the creative director of Journey and made it his mission to make a video game where players can emotionally connect with each other. Discover the many struggles the team had to go through while developing this amazing video game.\n\nSources:\nhttps://www.theguardian.com/technology/gamesblog/2012/nov/21/journey-emotional-game-design\nhttps://venturebeat.com/2012/03/09/kellee-santiago-describes-the-making-of-thatgamecompanys-journey/\nhttps://www.gamasutra.com/view/feature/170547/a_personal_journey_jenova_chens_.php\nhttps://www.destructoid.com/journey-took-thatgamecompany-into-bankruptcy-244311.phtml\nhttps://www.ign.com/articles/2012/08/14/how-thatgamecompany-struggled-to-save-journey\nhttps://gamasutra.com/view/news/175966/What_went_wrong_during_the_making_of_Journey.php\nhttps://gamasutra.com/view/news/163143/InDepth_Journeys_rare_and_magical_success.php\nhttps://www.fastcompany.com/1680062/game-designer-jenova-chen-on-the-art-behind-his-journey\nhttp://www.thesixthaxis.com/2012/03/15/interview-journey-composer-austin-wintory/\nhttps://www.eurogamer.net/articles/2018-07-08-how-journey-only-truly-made-sense-when-almost-everything-had-been-cut\nhttps://www.youtube.com/watch?v=rdfzpkmmLqU\nhttps://www.youtube.com/watch?v=Yc-gPhFlbgo\nhttps://www.youtube.com/watch?v=a16DyGGGPwQ\nhttps://www.youtube.com/watch?v=4di1KBqdOWo\nhttps://www.youtube.com/watch?v=Lbxp3WX4Hig\nhttps://www.youtube.com/watch?v=21_CK1S70wg\nhttps://www.youtube.com/watch?v=ApXEgZ9ypZI\nhttps://www.youtube.com/watch?v=VK_Q-Ez7KNs\nhttps://www.youtube.com/watch?v=aO-sKHz6HMI\nhttps://www.youtube.com/watch?v=qXzYbIguAOE\n\nBackground music: Court and Page - Silent Partner\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#Journey #Thatgamecompany #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7zEmSjpmTNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7zEmSjpmTNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7zEmSjpmTNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7zEmSjpmTNU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7zEmSjpmTNU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7zEmSjpmTNU"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "7zEmSjpmTNU",
+        "videoPublishedAt": "2020-03-15T13:07:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wsehrQsFU6k7XJN41EqdwhUSW_k",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-02-13T23:35:43Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Subnautica Was Made and Saved by its Community",
+        "description": "This Subnautica documentary details the development of the video game Subnautica and goes behind the scenes of its creation. Discover how the developer Unknown Worlds did Early Access right with the development of Subnautica. The documentary explores why the game is a showcase for how to successfully apply a transparant game development approach. Unknown Worlds is currently applying everything they learned from the development of Subnautica to its sequel Subnautica: Below Zero.\n\nSources:\nhttps://www.pcgamesn.com/subnautica/subnautica-10-launch-survival-interview\nhttps://www.fandom.com/articles/subnautica-charlie-cleveland-interview\nhttps://steamcommunity.com/app/264710/discussions/0/1698294337788424210/\nhttps://www.rockpapershotgun.com/2018/01/24/subnautica-devs-violence-guns-interview/\nhttps://www.pcgamer.com/subnautica-dev-to-g2a-you-now-owe-us-dollar300000/\nhttps://www.rockpapershotgun.com/2017/02/24/subnautica-horror/\nhttps://www.destructoid.com/dna-splicing-will-make-you-a-better-you-in-subnautica-275320.phtml?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Destructoid+%28Destructoid%29&utm_content=FaceBook\nhttps://trello.com/b/yxoJrFgP/subnautica-development\nhttps://subnautica.unknownworlds.com/#/subnautica/feedback\nhttps://forums.unknownworlds.com/discussion/135752/ideas-for-things-you-want-to-craft\nhttps://unknownworlds.com/subnautica/welcome-to-the-subnautica-blog/\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#Subnautica #UnknownWorlds #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2R9YWticVfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2R9YWticVfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2R9YWticVfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2R9YWticVfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2R9YWticVfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2R9YWticVfw"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "2R9YWticVfw",
+        "videoPublishedAt": "2020-02-13T23:42:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RdrbkgRZlxKp_pTd448jjPV72oo",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-02-13T23:35:34Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How Untitled Goose Game Was Made and Inspired by Hitman",
+        "description": "This Untitled Goose Game documentary details the development of the video game Untitled Goose game and goes behind the scenes of its creation. Discover how the Australian developer House House got the idea for the goose game and how it became a huge internet sensation.\n\nSources:\nhttps://www.vox.com/culture/2019/10/10/20897212/what-is-untitled-goose-game-explained-nintendo-switch-pc-mac\nhttp://theconversation.com/honk-if-you-love-untitled-goose-game-why-we-should-invest-more-in-our-indie-game-creators-124508\nhttps://www.vulture.com/2019/09/untitled-goose-game-creators-interview.html\nhttps://www.gamasutra.com/view/news/352323/Untitled_Goose_Game_passed_100000_sales_in_first_two_weeks.php\nhttps://www.theguardian.com/games/2019/oct/04/poultry-in-motion-untitled-goose-games-creators-on-how-they-laid-the-golden-egg\nhttps://www.bbc.com/news/technology-49852317\nhttps://www.abc.net.au/news/2019-10-02/untitled-goose-game-goes-from-gag-to-cultural-fad/11567216\nhttps://www.gamasutra.com/view/news/354076/How_Mario_64_inspired_that_horrible_gooses_moveset.php\nhttps://www.destructoid.com/untitled-goose-game-developer-catered-to-players-who-look-for-ways-of-making-mischief--568523.phtml\nhttps://www.usgamer.net/articles/untitled-goose-game-developer-i-could-never-have-seen-these-last-few-weeks-coming\nhttp://www.nintendolife.com/news/2019/09/feature_how_a_joke_hatched_gamings_most_horrible_goose\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#UntitledGooseGame #HouseHouse #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZpZZ49-ifJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZpZZ49-ifJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZpZZ49-ifJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZpZZ49-ifJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZpZZ49-ifJw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZpZZ49-ifJw"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "ZpZZ49-ifJw",
+        "videoPublishedAt": "2020-01-24T19:42:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "heJCIghzPXXUQqkmjMqmcw7lvaY",
+      "id": "UExxcHFQLTBNaS1TbFFEVDRLa2MwMVQ4NXJYRmZELXJzai41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-02-13T23:35:24Z",
+        "channelId": "UC_0e1271DHhRyiDIuX6B6aQ",
+        "title": "How The Last Guardian Was Made and Survived Development Hell",
+        "description": "This The Last Guardian documentary details the development of the video game The Last Guardian and goes behind the scenes of its creation. Discover why the game was delayed for so long and how the start of its development goes all the way to 2005, when Fumito Ueda started to think about ideas for his next project. The Last Guardian was eventually released on the 6th of December 2016.\n\nThe documentary also takes a look at Fumito Udea's next project which he has hinted at on the genDESIGN website with an image titled \"Beauty and the Beast 2018\".\n\nSources:\nhttp://www.ign.com/wikis/the-last-guardian/Development\nhttp://www.forbes.com/sites/olliebarder/2016/11/12/despite-nearly-a-decade-of-development-the-last-guardian-is-almost-here/#47c3d88e538a\nhttps://www.theguardian.com/technology/2005/aug/18/games.shopping\nhttp://www.ign.com/articles/2016/05/30/creating-a-legend-the-inside-story-of-the-last-guardian\nhttps://www.theguardian.com/technology/2016/jun/28/the-last-guardian-fumito-ueda-interview\nhttp://uk.businessinsider.com/the-last-guardian-survived-6-years-of-development-hell-to-get-to-e3-2015-6?r=US&IR=T\nhttps://mygaming.co.za/news/features/82050-the-last-guardian-development-hell.html\nhttps://gamerant.com/last-guardian-long-development-details-374/\nhttp://www.heypoorplayer.com/2016/11/25/final-fantasy-and-the-last-guardian/\nhttp://www.glixel.com/interviews/last-guardian-director-on-trico-classic-anime-and-vr-w457582\nhttp://www.eurogamer.net/articles/2015-06-26-shuhei-yoshida-on-saving-the-last-guardian-and-ps4-in-japan\nhttp://www.gameinformer.com/b/features/archive/2015/06/23/the-last-guardians-long-journey-an-interview-with-fumito-ueda.aspx\nhttps://www.theverge.com/2016/11/10/13576764/the-last-guardian-ps4-director-fumito-ueda-interview\nhttps://www.eurogamer.net/articles/2015-06-16-the-last-guardian-lives-still-directed-by-fumito-ueda\nhttps://comicbook.com/gaming/2019/08/27/fumito-ueda-new-game-playstation-ps4/\nhttps://www.playstationlifestyle.net/2019/08/28/ex-team-ico-developer-fumito-ueda-is-seeking-publisher-for-next-game/\nhttps://www.eurogamer.net/articles/2018-09-13-shadow-of-colossus-creator-fumito-ueda-offers-update-on-his-mysterious-new-game\n\nOutro song: Thank You R.G.E. - Joe Bagale\n\nFollow me on Twitter if you'd like to follow the progression of future videos: https://twitter.com/GlenCallaert\n\n#TheLastGuardian #FumitoUeda #GameDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QdKLXdCpSIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QdKLXdCpSIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QdKLXdCpSIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QdKLXdCpSIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QdKLXdCpSIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatGuyGlen",
+        "playlistId": "PLqpqP-0Mi-SlQDT4Kkc01T85rXFfD-rsj",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QdKLXdCpSIs"
+        },
+        "videoOwnerChannelTitle": "ThatGuyGlen",
+        "videoOwnerChannelId": "UC_0e1271DHhRyiDIuX6B6aQ"
+      },
+      "contentDetails": {
+        "videoId": "QdKLXdCpSIs",
+        "videoPublishedAt": "2019-12-21T21:49:07Z"
+      }
+    }
+  ]
+}

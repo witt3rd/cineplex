@@ -144,7 +144,8 @@ def get_video_from_youtube(video_url):
             'writethumbnail': True,
             'paths': {
                 'home': settings.tmp_dir,
-            }
+            },
+            'outtmpl': '%(title)s-%(id)s.%(ext)s',
         }
 
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:

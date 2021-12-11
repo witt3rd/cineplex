@@ -1,6 +1,6 @@
 {
   "_id": "3_iU67Q-zGg",
-  "as_of": "2021-12-10 07:27:23.711019",
+  "as_of": "2021-12-10 23:52:38.675957",
   "video": {
     "title": "How The Grinch Stole Christmas - Returning of the presents",
     "description": "How The Grinch Stole Christmas - Returning of the presents",
@@ -20,14 +20,14 @@
     "uploader_id": "UCUi88uijCmus3eP3aDOjpsQ",
     "upload_date": "2020-12-18 00:00:00",
     "duration_seconds": 257,
-    "view_count": 4381,
-    "like_count": 25,
+    "view_count": 4713,
+    "like_count": 28,
     "dislike_count": 0,
-    "average_rating": 4.8461537,
+    "average_rating": 4.8620691,
     "files": {
-      "video_filename": "How The Grinch Stole Christmas - Returning of the presents [3_iU67Q-zGg].webm",
-      "info_filename": "How The Grinch Stole Christmas - Returning of the presents [3_iU67Q-zGg].info.json",
-      "thumbnail_filename": "How The Grinch Stole Christmas - Returning of the presents [3_iU67Q-zGg].webp"
+      "video_filename": "How The Grinch Stole Christmas - Returning of the presents-3_iU67Q-zGg.webm",
+      "info_filename": "How The Grinch Stole Christmas - Returning of the presents-3_iU67Q-zGg.info.json",
+      "thumbnail_filename": "How The Grinch Stole Christmas - Returning of the presents-3_iU67Q-zGg.webp"
     }
   }
 }

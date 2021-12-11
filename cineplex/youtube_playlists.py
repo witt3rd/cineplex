@@ -16,6 +16,16 @@ yt_playlist_items_data_dir = os.path.join(
 os.makedirs(yt_playlist_items_data_dir, exist_ok=True)
 
 
+def get_playlist_from_youtube(playlist_id):
+
+    try:
+        playlist_with_meta = get_playlist_from_youtube_batch([playlist_id])[0]
+        return playlist_with_meta
+
+    except Exception as e:
+        Logger().exception(e)
+
+
 def get_playlist_from_youtube_batch(playlist_id_batch):
 
     try:
@@ -29,22 +39,25 @@ def get_playlist_from_youtube_batch(playlist_id_batch):
         playlist_with_meta_batch = []
 
         while request:
+
             response = request.execute()
+
             if 'items' not in response:
                 break
+
             for playlist in response['items']:
                 playlist_with_meta = {}
                 playlist_with_meta['_id'] = playlist['id']
                 playlist_with_meta['as_of'] = str(datetime.now())
                 playlist_with_meta['playlist'] = playlist
                 playlist_with_meta_batch.append(playlist_with_meta)
+
             request = youtube.playlists().list_next(request, response)
 
         return playlist_with_meta_batch
 
     except Exception as e:
         Logger().exception(e)
-        return []
 
 
 def get_playlist_from_db(playlist_id):
@@ -52,16 +65,10 @@ def get_playlist_from_db(playlist_id):
     try:
         playlist = get_db().yt_playlists.find_one({'_id': playlist_id})
 
-        if (playlist is None):
-            return None
-
-        title = playlist['playlist']['snippet']['title']
-
         return playlist
 
     except Exception as e:
         Logger().exception(e)
-        return None
 
 
 def get_playlist_from_db_batch(playlist_id_batch):
@@ -70,13 +77,10 @@ def get_playlist_from_db_batch(playlist_id_batch):
         playlist_cursor = get_db().yt_playlists.find(
             {'_id': {'$in': playlist_id_batch}})
 
-        playlist_batch = list(playlist_cursor)
-
-        return playlist_batch
+        return list(playlist_cursor)
 
     except Exception as e:
         Logger().exception(e)
-        return []
 
 
 def save_playlist_to_db(playlist_with_meta, to_disk=True):
@@ -120,6 +124,7 @@ def get_playlist_items_from_youtube(playlist_id):
             '_id': playlist_id,
             'as_of': str(datetime.now())
         }
+
         items = []
 
         while request:
@@ -135,7 +140,24 @@ def get_playlist_items_from_youtube(playlist_id):
 
     except Exception as e:
         Logger().exception(e)
-        return []
+
+
+def get_playlist_items_from_youtube_batch(playlist_id_batch):
+
+    try:
+
+        playlist_items_with_meta_batch = []
+
+        for playlist_id in playlist_id_batch:
+            playlist_items_with_meta = get_playlist_items_from_youtube(
+                playlist_id)
+            if playlist_items_with_meta:
+                playlist_items_with_meta_batch.append(playlist_items_with_meta)
+
+        return playlist_items_with_meta_batch
+
+    except Exception as e:
+        Logger().exception(e)
 
 
 def get_playlist_items_from_db(playlist_id):
@@ -145,7 +167,21 @@ def get_playlist_items_from_db(playlist_id):
 
     except Exception as e:
         Logger().exception(e)
-        return None
+
+
+def get_playlist_items_from_db_batch(playlist_id_batch):
+
+    try:
+        playlist_items_with_meta_batch = []
+
+        for playlist_id in playlist_id_batch:
+            playlist_items_with_meta = get_playlist_items_from_db(playlist_id)
+            if playlist_items_with_meta:
+                playlist_items_with_meta_batch.append(playlist_items_with_meta)
+        return playlist_items_with_meta_batch
+
+    except Exception as e:
+        Logger().exception(e)
 
 
 def save_playlist_items_to_db(playlist_items_with_meta, to_disk=True):
@@ -162,3 +198,9 @@ def save_playlist_items_to_db(playlist_items_with_meta, to_disk=True):
 
     except Exception as e:
         Logger().exception(e)
+
+
+def save_playlist_items_to_db_batch(playlist_items_with_meta_batch, to_disk=True):
+
+    for playlist_items_with_meta in playlist_items_with_meta_batch:
+        save_playlist_items_to_db(playlist_items_with_meta, to_disk)

@@ -1,0 +1,50 @@
+{
+  "_id": "PL6Zppct3oTYYAwmFNrkLaR-e1HPIU8p80",
+  "as_of": "2021-12-10 12:43:59.284781",
+  "playlist": {
+    "kind": "youtube#playlist",
+    "etag": "2gqwCNPyMBbRnxWpr5B-OIxn-rA",
+    "id": "PL6Zppct3oTYYAwmFNrkLaR-e1HPIU8p80",
+    "snippet": {
+      "publishedAt": "2020-02-05T16:03:50Z",
+      "channelId": "UCwrCgfC5Z5biFxMZCSqnEcA",
+      "title": "Study Music",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ya3XufguZMY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ya3XufguZMY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ya3XufguZMY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ya3XufguZMY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ya3XufguZMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Abe Peters",
+      "localized": {
+        "title": "Study Music",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 17
+    }
+  }
+}
