@@ -1,0 +1,31 @@
+{
+  "_id": "qD6Pmp45sO4",
+  "as_of": "2021-12-13 03:03:24.488549",
+  "video": {
+    "title": "Rich Harris - Svelte Cubed",
+    "description": "Platinum Sponsor:\nGraphCMS - https://bit.ly/3Ft8ojy\n\nGold Sponsors:\nLevelUp Tutorials - https://leveluptutorials.com/\nCloudflare Pages - https://pages.cloudflare.com\nSvekyll - https://bit.ly/3qZc4FR\nNetlify - https://netlify.com/\nVercel - https://vercel.com\nMagic - https://magic.link\nFaunaDB - https://bit.ly/30FdKJy\nWPEngine - https://wpengine.com/atlas/\n\nMusic By:\nFractal - https://soundcloud.com/officialfractal\n\nAbout the talk:\nThe other side of SvelteKit\n\nSpeaker: https://twitter.com/Rich_Harris",
+    "tags": [
+      "Svelte",
+      "Javascript",
+      "Web development"
+    ],
+    "categories": [
+      "Science & Technology"
+    ],
+    "channel_id": "UCZSr5B0l07JXK2FIeWA0-jw",
+    "channel_title": "Svelte Society",
+    "uploader": "Svelte Society",
+    "uploader_id": "UCZSr5B0l07JXK2FIeWA0-jw",
+    "upload_date": "2021-11-30 00:00:00",
+    "duration_seconds": 633,
+    "view_count": 5912,
+    "like_count": 421,
+    "dislike_count": 0,
+    "average_rating": 4.9716983,
+    "files": {
+      "video_filename": "Rich Harris - Svelte Cubed-qD6Pmp45sO4.webm",
+      "info_filename": "Rich Harris - Svelte Cubed-qD6Pmp45sO4.info.json",
+      "thumbnail_filename": "Rich Harris - Svelte Cubed-qD6Pmp45sO4.webp"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "aOEZ449Ufz8",
+  "as_of": "2021-12-13 03:04:22.055683",
+  "video": {
+    "title": "Python NASA CLI App #2 - Fetching Images and Saving to Filesystem",
+    "description": "In this video, we will create a Typer command to fetch images for a given date from the NASA APOD API. Users can pass in the date they want to fetch images for, or else the command will default to the current date.\n\nAPI requests will be made with the Python requests library.\n\nWe will fetch the image from NASA's API and show the image on the user's desktop, using the Pillow library.\n\nWe will also configure a command-line flag that allows users to save the image to a directory on their local filesystem\n\n\ud83d\udccc \ud835\uddd6\ud835\uddf5\ud835\uddee\ud835\uddfd\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\ude00:\n00:00 Intro\n00:24 NASA API Key & Fields\n03:07 Fetching NASA Images\n08:38 Saving Images to Filesystem\n\n\u2615\ufe0f \ud835\uddd5\ud835\ude02\ud835\ude06 \ud835\uddfa\ud835\uddf2 \ud835\uddee \ud835\uddf0\ud835\uddfc\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddf2:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n\ud835\udde6\ud835\uddfc\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\udde0\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddee:\n\ud83d\udcd6 Blog: https://www.bugbytes.io/posts/nasa-command-line-application-with-typer-and-python-fetching-images/\n\ud83d\udc7e Github: https://github.com/bugbytes-io/nasa-cli-app/tree/typer2\n\ud83d\udc26 Twitter: https://twitter.com/bugbytesio\n\n\ud83d\udcda \ud835\uddd9\ud835\ude02\ud835\uddff\ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\uddff \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddf6\ud835\uddfb\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb:\nTyper: https://typer.tiangolo.com/\nNASA API: https://api.nasa.gov/\nSample API response: https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY\n\n#typer #python #cli #requests",
+    "tags": [],
+    "categories": [
+      "People & Blogs"
+    ],
+    "channel_id": "UCTwxaBjziKfy6y_uWu30orA",
+    "channel_title": "BugBytes",
+    "uploader": "BugBytes",
+    "uploader_id": "UCTwxaBjziKfy6y_uWu30orA",
+    "upload_date": "2021-11-23 00:00:00",
+    "duration_seconds": 902,
+    "view_count": 164,
+    "like_count": 16,
+    "dislike_count": 0,
+    "average_rating": 5.0,
+    "files": {
+      "video_filename": "Python NASA CLI App #2 - Fetching Images and Saving to Filesystem-aOEZ449Ufz8.webm",
+      "info_filename": "Python NASA CLI App #2 - Fetching Images and Saving to Filesystem-aOEZ449Ufz8.info.json",
+      "thumbnail_filename": "Python NASA CLI App #2 - Fetching Images and Saving to Filesystem-aOEZ449Ufz8.webp"
+    }
+  }
+}

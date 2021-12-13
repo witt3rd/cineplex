@@ -1,9 +1,9 @@
 {
   "_id": "PLIjhfluhNd980TfK_vipfrX-FQ2GSxxJ3",
-  "as_of": "2021-12-12 23:19:53.079335",
+  "as_of": "2021-12-13 03:52:19.858039",
   "playlist": {
     "kind": "youtube#playlist",
-    "etag": "6z8Vi5mzAuQRaPPo1ZnPsAYqIVY",
+    "etag": "kBCGLub0BFVMRPjzPzY8nkWpJus",
     "id": "PLIjhfluhNd980TfK_vipfrX-FQ2GSxxJ3",
     "snippet": {
       "publishedAt": "2020-11-23T13:36:51Z",
@@ -12,27 +12,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jJL0XoNBaac/default.jpg",
+          "url": "https://i.ytimg.com/vi/f2OgP49J7Pg/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jJL0XoNBaac/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f2OgP49J7Pg/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jJL0XoNBaac/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f2OgP49J7Pg/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/jJL0XoNBaac/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/f2OgP49J7Pg/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/jJL0XoNBaac/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f2OgP49J7Pg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -44,7 +44,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 994
+      "itemCount": 996
     }
   }
 }

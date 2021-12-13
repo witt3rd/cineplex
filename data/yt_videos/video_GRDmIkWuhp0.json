@@ -1,0 +1,27 @@
+{
+  "_id": "GRDmIkWuhp0",
+  "as_of": "2021-12-13 03:07:35.513567",
+  "video": {
+    "title": "Building a Solid State Laser - Pt. 1",
+    "description": "PART 2: https://youtu.be/vC3VKAqnwIE\n\nShowcasing the operation principles and engineering decisions needed to build an Nd:Glass laser in the homeshop.This project is a work in progress,  and still needs some work to get it operational.\n\n============================Links============================\n\nAwesome website with some info about Solid State Lasers: http://www.repairfaq.org/sam/lasercps.htm#cpstoc\n\nThe Bible:\nhttp://www-personal.umich.edu/~andrewcb/DSO/Books/Solid-State%20Lasers%20-%20A%20Graduate%20Text%20-%20%20W.Koechner,%20M.Bass.pdf\n\nInfo about flashtubes:\nhttps://www.flashlamps-vq.com/CatalogueVQF.pdf\n\nApplied Science's Ruby Laser:\nhttps://www.youtube.com/watch?v=VSdUQ4oNKiI\n\n==========================Attributions=========================\n\n(in order of appearance):\nFirst laser pic - By Theodore and Kathleen Maiman - picture taken in Vancouver on Alberni Street , received from Kathleen Maiman, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91493871s\n\nmaiman - By Unknown author - Press photo taken for the periodical Los Angeles Reader, 1985, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91254657\n\nLaser taken apart - By Guy Immega - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=10397843\n\nspec - graph: By derivative work: Papa November (talk)Helium_neon_laser_spectrum.png: Original uploader was Deglr6328 at en.wikipedia - Helium_neon_laser_spectrum.png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4568995\n\nlaser beams - By Jeff Keyzer from San Francisco, CA, USA - Beams in Fog + Car WindshieldUploaded by PDTillman, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=7065667\n\nbarcode scanner - CC BY 1.0, https://commons.wikimedia.org/w/index.php?curid=406469\n\nbeep sound fx - https://freesound.org/people/KeyKrusher/sounds/154953/\n\npipe wave - By Lookang many thanks to author of original simulation = Juan M. Aguirregabiria author of Easy Java Simulation = Francisco Esquembre - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28845295\n\nstring anamiation - By Adjwilley - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26249625\n\ngarnet gemstone - By Moha112100 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27631797\n\nflashtube sequence - By Gregory Maxwell - Own work, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=183174\n\nreflectance graph - By DrBob, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1729695\n\ntest bars - By Denelson83 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1067498",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ],
+    "channel_id": "UC3DFmrDyTYqZmi4UcZSTReQ",
+    "channel_title": "Eric Thornton",
+    "uploader": "Eric Thornton",
+    "uploader_id": "UC3DFmrDyTYqZmi4UcZSTReQ",
+    "upload_date": "2021-01-03 00:00:00",
+    "duration_seconds": 1664,
+    "view_count": 73906,
+    "like_count": 1392,
+    "dislike_count": 0,
+    "average_rating": 4.8532872,
+    "files": {
+      "video_filename": "Building a Solid State Laser - Pt. 1-GRDmIkWuhp0.webm",
+      "info_filename": "Building a Solid State Laser - Pt. 1-GRDmIkWuhp0.info.json",
+      "thumbnail_filename": "Building a Solid State Laser - Pt. 1-GRDmIkWuhp0.webp"
+    }
+  }
+}

@@ -378,7 +378,7 @@ def sync_youtube_playlist(playlist_id_batch: List[str], with_items: bool = False
     typer.echo(f"✅ Playlist {green(playlist_id_batch)} synced")
 
     if with_items:
-        sync_youtube_playlist_items(playlist_id_batch)
+        return sync_youtube_playlist_items(playlist_id_batch)
 
     return playlist_with_meta_batch
 
@@ -522,11 +522,14 @@ def offline_youtube_video(video_id_batch: List[str], force: bool = False):
         # verify any videos that are already in the database
         video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
         missing, found = _missing_found(video_id_batch, video_with_meta_batch)
-        for video_id in found:
-            video_with_meta = [
-                x for x in video_with_meta_batch if x['_id'] == video_id][0]
-            if not ytv.audit_video_files(video_with_meta):
-                missing.append(video_id)
+        with typer.progressbar(found, label='Auditing', fill_char=click.style(
+                "█", fg="green"),
+                show_percent=True, show_pos=True, show_eta=True) as found_bar:
+            for video_id in found_bar:
+                video_with_meta = [
+                    x for x in video_with_meta_batch if x['_id'] == video_id][0]
+                if not ytv.audit_video_files(video_with_meta):
+                    missing.append(video_id)
 
         verified_with_meta_batch = [
             x for x in video_with_meta_batch if x['_id'] not in missing]

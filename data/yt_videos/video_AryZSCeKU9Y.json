@@ -1,0 +1,48 @@
+{
+  "_id": "AryZSCeKU9Y",
+  "as_of": "2021-12-13 02:59:15.488852",
+  "video": {
+    "title": "Rare but Super Useful HTML tags that will turn you into a web ninja",
+    "description": "In this video we are covering some of the useful and productive , but rare html5 tags that will help you to become better web developer. These tags will save a lot of your time and make you more productive. \nThese HTML tags have nice support in most modern browsers and we can use them instead of implementing 100s of custom features.\n\nTimeline:\n--------------------------------------\n00:00 Details+Summary Tags\n00:51 Awesome Input Types\n02:41 Meter Tag\n03:03 Progress Tag\n03:55 Datalist tag\n05:32 Optgroup tag\n06:08 (BONUS) js .closest() function\n\nINPUT TYPES COVERED\n--------------------------------------\nInput Type Color\nInput Type range\nInput Type Date\nInput Type DateTime-Local\nInput Type Time\nInput Type Week\n\n\nSubscribe for more videos.",
+    "tags": [
+      "html",
+      "html5",
+      "tag",
+      "tags",
+      "js",
+      "javascript",
+      "css",
+      "computer",
+      "computer science",
+      "useful",
+      "ui",
+      "user interface",
+      "ux",
+      "HTML tags",
+      "input tags",
+      "input",
+      "datalist",
+      "meter",
+      "progress",
+      "video"
+    ],
+    "categories": [
+      "Education"
+    ],
+    "channel_id": "UC36VeV5TnBFH2m5hzCuq4RA",
+    "channel_title": "Dev.Doodle",
+    "uploader": "Dev.Doodle",
+    "uploader_id": "UC36VeV5TnBFH2m5hzCuq4RA",
+    "upload_date": "2021-08-24 00:00:00",
+    "duration_seconds": 469,
+    "view_count": 229331,
+    "like_count": 11793,
+    "dislike_count": 0,
+    "average_rating": 4.8859873,
+    "files": {
+      "video_filename": "Rare but Super Useful HTML tags that will turn you into a web ninja-AryZSCeKU9Y.webm",
+      "info_filename": "Rare but Super Useful HTML tags that will turn you into a web ninja-AryZSCeKU9Y.info.json",
+      "thumbnail_filename": "Rare but Super Useful HTML tags that will turn you into a web ninja-AryZSCeKU9Y.webp"
+    }
+  }
+}

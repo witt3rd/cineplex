@@ -1,0 +1,27 @@
+{
+  "_id": "IRHqgXRLb0w",
+  "as_of": "2021-12-13 02:55:47.797983",
+  "video": {
+    "title": "What Infrastructure as Code is All About & How Terraform Helps you Work With It",
+    "description": "Check out Ashley Davis' book \ud83d\udcd6 Bootstrapping Microservices with Docker, Kubernetes, and Terraform | http://mng.bz/zrwa \ud83d\udcd6 To save 40% off this book \u2b50 DISCOUNT CODE: WATCHDAVIS40 \u2b50 In this video, Ashley demonstrates how to upgrade your infrastructure through code using Terraform. This video is an excerpt from Infrastructure as Code: Using Terraform to Deploy Kubernetes and Microservices by Ashley Davis. Watch the full video at http://mng.bz/XWwE\n\n\ud83d\udcda\ud83d\udcda\ud83d\udcda\nBootstrapping Microservices with Docker, Kubernetes, and Terraform | http://mng.bz/zrwa \nTo save 40% off this book use discount code: WATCHDAVIS40 \n\ud83d\udcda\ud83d\udcda\ud83d\udcda\n\nIn \"Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide\", 20-year software veteran Ashley Davis lays out his practical approach to microservices. There\u2019s no unnecessary theory\u2014just working examples, and hands-on learning that you can use to build a useful application! You\u2019ll learn how to create cloud infrastructure with Terraform, how to configure and package microservices using Docker, and how to deploy a microservice application on a Kubernetes cluster. When you\u2019re finished with this engaging project, you\u2019ll have all the skills you need to start building and deploying microservices to your own infrastructure.",
+    "tags": [],
+    "categories": [
+      "Education"
+    ],
+    "channel_id": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+    "channel_title": "Coding Tech",
+    "uploader": "Coding Tech",
+    "uploader_id": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+    "upload_date": "2021-12-09 00:00:00",
+    "duration_seconds": 1236,
+    "view_count": 3686,
+    "like_count": 99,
+    "dislike_count": 0,
+    "average_rating": 4.7714286,
+    "files": {
+      "video_filename": "What Infrastructure as Code is All About & How Terraform Helps you Work With It-IRHqgXRLb0w.webm",
+      "info_filename": "What Infrastructure as Code is All About & How Terraform Helps you Work With It-IRHqgXRLb0w.info.json",
+      "thumbnail_filename": "What Infrastructure as Code is All About & How Terraform Helps you Work With It-IRHqgXRLb0w.webp"
+    }
+  }
+}

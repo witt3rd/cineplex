@@ -1,0 +1,27 @@
+{
+  "_id": "tqUe0gcfqAU",
+  "as_of": "2021-12-13 03:01:29.720704",
+  "video": {
+    "title": "Talk: Dean Wampler - Ray: A System for High-performance, Distributed Python Applications",
+    "description": "Presented by:\nDean Wampler\n\nRay is an open-source, distributed framework from U.C. Berkeley\u2019s RISELab that easily scales Python applications from a laptop to a cluster, with an emphasis on the unique performance challenges of ML/AI systems. It is now used in many production deployments.\n\nI\u2019ll explain the problems that Ray solves and useful features it provides, such as rapid distribution, scheduling, and execution of \u201ctasks\u201d and management of distributed stateful \u201cserverless\u201d computing. I\u2019ll illustrate how it\u2019s used in several ML libraries. You\u2019ll learn when to use Ray and how to use it in your projects.\n\n\n\n\nTalk slides: https://speakerdeck.com/wampler/ray-scalability-from-a-laptop-to-a-cluster-582a9702-9c67-4f12-9b27-64846dc52162",
+    "tags": [],
+    "categories": [
+      "People & Blogs"
+    ],
+    "channel_id": "UCMjMBMGt0WJQLeluw6qNJuA",
+    "channel_title": "PyCon US",
+    "uploader": "PyCon US",
+    "uploader_id": "UCMjMBMGt0WJQLeluw6qNJuA",
+    "upload_date": "2020-04-15 00:00:00",
+    "duration_seconds": 1566,
+    "view_count": 3064,
+    "like_count": 59,
+    "dislike_count": 0,
+    "average_rating": 4.8064518,
+    "files": {
+      "video_filename": "Talk - Dean Wampler - Ray - A System for High-performance, Distributed Python Applications-tqUe0gcfqAU.webm",
+      "info_filename": "Talk - Dean Wampler - Ray - A System for High-performance, Distributed Python Applications-tqUe0gcfqAU.info.json",
+      "thumbnail_filename": "Talk - Dean Wampler - Ray - A System for High-performance, Distributed Python Applications-tqUe0gcfqAU.webp"
+    }
+  }
+}

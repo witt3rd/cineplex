@@ -1,0 +1,27 @@
+{
+  "_id": "-UlxHPIEVqA",
+  "as_of": "2021-12-13 02:58:05.207238",
+  "video": {
+    "title": "The Map of Quantum Computing | Your Ultimate Guide to Quantum Computer",
+    "description": "An excellent summary of the field of quantum computing. Find out more about Qiskit at https://qiskit.org and their YouTube channel https://www.youtube.com/c/qiskit\nAnd get the poster here: https://store.dftba.com/collections/domain-of-science/products/map-of-quantum-computing\n\nWith this video I aim to give a really good overview of the field of quantum computing with a clear explanation of how they work, why people are excited about quantum algorithms and their value, the potential applications of quantum computers including quantum simulation, artificial intelligence and more, and the different models and physical implementations people are using to build quantum computers like superconducting devices, quantum dots, trapped ions, photons or neutral atoms, and the challenges they face.\n\n#quantumcomputer #quantum #domainofscience\n\n--- Get My Posters Here ----\nDFTBA Store: https://store.dftba.com/collections/domain-of-science \nRedBubble Store: https://www.redbubble.com/people/DominicWalliman\n\nI have also made posters available for personal or educational use which you can find here: https://www.flickr.com/photos/95869671@N08/\n\n-- Some Awesome People --- \nAnd many thanks to my $10 supporters and above on Patreon, you are awesome!\nJoin the gang and help support me produce free and high quality science content:\nhttps://www.patreon.com/domainofscience\n\nBob Milano\nRaj Duphare\nBen\nAnca Selariu\nEric Epstein\nGordon D Collins\nKamil Qbitskey\nMirik Gogri\nnoggieB\nPetr Murmak \nPrabhakar R\nReggie Fourmyle\nSandy Toye\nSebastian \nTerrence Masson \nTheodore Chu\nJoshua Rau\u00df\n\n--- Special thanks ---\nSpecial thanks for giving their time to help me with the script to:\nNicholas Bronn\nSergio Boixo\nStephanie Simmons\n\n--- My Science Books ----\nI also write science books for kids called Professor Astro Cat. You can see them all here:\nhttps://store.dftba.com/collections/domain-of-science\nhttp://profastrocat.com \n\n--- Follow me around the internet --- \nhttp://dominicwalliman.com\nhttps://twitter.com/DominicWalliman\nhttps://www.instagram.com/dominicwalliman\n\n--- Credits ---\nWriter, art, animation and edited by Dominic Walliman\nI use Adobe Illustrator and After Effects for the graphics (for the many people who ask :)\n\n--- References ----\n[1] Why qubits need so much storage space\nhttps://quantumcomputing.stackexchange.com/questions/5005/why-it-is-hard-to-simulate-a-quantum-device-by-a-classical-devices\n\n[2] Storage space of the world\nhttps://www.quora.com/Whats-the-worlds-total-data-storage-capacity\n\n[3] Quantum Algorithms\nhttps://en.wikipedia.org/wiki/Quantum_algorithm?wprov=sfla1\n\n[4] Models of Quantum Computing\nhttps://quantumcomputing.stackexchange.com/questions/74/what-are-the-models-of-quantum-computation\n\n[5] Topological Quantum Computing\nhttps://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/\n\n[6] Optical Lattice \nhttps://www.mewburn.com/news-insights/creating-qubits-a-hot-lead-at-coldquanta?utm_campaign=ICT&utm_source=caitlin\nultracold atom quantum simulator\nhttps://arxiv.org/abs/1901.01146\n\n[7] Linear optical quantum computing (Xanadu)\nhttps://arstechnica.com/science/2021/03/programmable-optical-quantum-computer-arrives-late-steals-the-show/\nand\nhttps://arstechnica.com/science/2020/12/un-computable-quantum-maze-computed-by-quantum-maze-computer/\n\n[8] Quantum computing overview\nhttps://cen.acs.org/materials/electronic-materials/upgrade-quantum-computers-researchers-look/97/i15\n\n[9] Linear photonic qubits\nhttps://www.youtube.com/watch?v=62Y7uT26hzo\nhttps://arstechnica.com/science/2021/03/programmable-optical-quantum-computer-arrives-late-steals-the-show/\n\n[10] Google Roadmap\nhttps://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/\n\n--- Chapters ---\n00:00 Introduction\n00:44 How Quantum Computers Work\n06:19 Quantum Algorithms\n12:01 Potential Applications of Quantum Computing\n15:26 Models of Quantum Computing\n17:29 Qiskit Sponsorship Message\n19:29 Models of Quantum Computing Continued\n24:59 Obstacles to Building a Quantum Computer\n27:24 What Real Quantum Computers Are Made From\n31:45 Summary",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ],
+    "channel_id": "UCxqAWLTk1CmBvZFPzeZMd9A",
+    "channel_title": "DoS - Domain of Science",
+    "uploader": "DoS - Domain of Science",
+    "uploader_id": "dominicwalliman",
+    "upload_date": "2021-12-03 00:00:00",
+    "duration_seconds": 2008,
+    "view_count": 219962,
+    "like_count": 10611,
+    "dislike_count": 0,
+    "average_rating": 4.9689546,
+    "files": {
+      "video_filename": "The Map of Quantum Computing _ Your Ultimate Guide to Quantum Computer--UlxHPIEVqA.webm",
+      "info_filename": "The Map of Quantum Computing _ Your Ultimate Guide to Quantum Computer--UlxHPIEVqA.info.json",
+      "thumbnail_filename": "The Map of Quantum Computing _ Your Ultimate Guide to Quantum Computer--UlxHPIEVqA.webp"
+    }
+  }
+}

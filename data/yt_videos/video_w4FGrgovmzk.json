@@ -1,0 +1,33 @@
+{
+  "_id": "w4FGrgovmzk",
+  "as_of": "2021-12-13 02:59:47.166706",
+  "video": {
+    "title": "CSS Layout From the Inside Out",
+    "description": "We spent years trying to get floats to give us a 12 column grid. Then flexbox came along, and it was better at making a 12 column grid. Then grid layout landed, and we celebrated by making a 12 column grid in two lines of code. However, if we stop there, we miss out on much that these new layout methods have to offer.\n\nIn this talk, discover how CSS is evolving to allow components to react to their content and immediate location in a document. We\u2019ll look at tools you can use right now and take a compelling look at what is just around the corner with container queries.\n\nPUBLICATION PERMISSIONS:\nOriginal video was published with the Creative Commons Attribution license (reuse allowed). Link: https://www.youtube.com/watch?v=mlmADytUiiw",
+    "tags": [
+      "css",
+      "css grid",
+      "css layout",
+      "web design",
+      "web development"
+    ],
+    "categories": [
+      "Education"
+    ],
+    "channel_id": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+    "channel_title": "Coding Tech",
+    "uploader": "Coding Tech",
+    "uploader_id": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+    "upload_date": "2021-11-30 00:00:00",
+    "duration_seconds": 1840,
+    "view_count": 9456,
+    "like_count": 357,
+    "dislike_count": 0,
+    "average_rating": 4.9016395,
+    "files": {
+      "video_filename": "CSS Layout From the Inside Out-w4FGrgovmzk.webm",
+      "info_filename": "CSS Layout From the Inside Out-w4FGrgovmzk.info.json",
+      "thumbnail_filename": "CSS Layout From the Inside Out-w4FGrgovmzk.webp"
+    }
+  }
+}
