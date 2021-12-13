@@ -1,15 +1,18 @@
 import glob
+from importlib.metadata import files
 import json
 import os
 import re
-import shutil
 from datetime import datetime
-from tkinter import E
 import yt_dlp
-from cineplex.youtube import youtube_api
 from cineplex.db import get_db
 from cineplex.logger import Logger
 from cineplex.config import Settings
+from cineplex.utils import (
+    IMAGE_EXTS,
+    VIDEO_EXTS,
+    move_file
+)
 
 settings = Settings()
 
@@ -18,11 +21,115 @@ os.makedirs(videos_data_dir, exist_ok=True)
 
 os.makedirs(settings.tmp_dir, exist_ok=True)
 
-image_exts = ['.jpg', '.webp', '.png']
-videos_exts = ['.webm', '.mkv', '.mp4']
+
+def _expand_video_files(video_with_meta):
+
+    try:
+        video = video_with_meta['video']
+        files = video['files']
+
+        uploader = video['uploader'] if 'uploader' in video else ''
+        channel_title = video['channel_title'] if video['channel_title'] else uploader
+
+        if not channel_title:
+            Logger().error(
+                f"No channel title for {video_with_meta}")
+            return None, None, None
+
+        video_filename = os.path.join(settings.youtube_channels_dir,
+                                      channel_title,
+                                      files['video_filename']) if 'video_filename' in files else None
+        if not video_filename:
+            Logger().error(
+                f"No video filename for {video_with_meta['_id']}")
+            return None, None, None
+
+        if not os.path.exists(video_filename):
+            Logger().error(
+                f"Video file {video_filename} does not exist")
+            return None, None, None
+
+        if not video['title']:
+            Logger().error(
+                f"No video title for {video_with_meta}")
+            return None, None, None
+
+        video_title = video['title']
+        video_title = video_title.replace('/', '-')
+        video_title = video_title.replace('\\', '-')
+        video_title = video_title.replace('*', '-')
+        video_title = video_title.replace('?', '-')
+        video_title = video_title.replace('"', '-')
+        info_filename = os.path.join(settings.youtube_channels_dir,
+                                     channel_title,
+                                     files['info_filename'])
+        thumbnail_filename = os.path.join(settings.youtube_channels_dir,
+                                          channel_title,
+                                          files['thumbnail_filename'])
+
+        return video_filename, info_filename, thumbnail_filename
+
+    except Exception as e:
+        Logger().error(e)
+        return None, None, None
 
 
-def _resolve_files(json_filename):
+def audit_video_files(video_with_meta):
+
+    try:
+
+        video_filename, info_filename, thumbnail_filename = _expand_video_files(
+            video_with_meta)
+
+        if video_filename and not os.path.exists(video_filename):
+            Logger().error(f"Missing video file: {video_filename}")
+            return False
+
+        if info_filename and not os.path.exists(info_filename):
+            Logger().error(f"Missing info file: {info_filename}")
+            return False
+
+        if thumbnail_filename and not os.path.exists(thumbnail_filename):
+            Logger().error(f"Missing thumbnail file: {thumbnail_filename}")
+            return False
+
+        return True
+
+    except Exception as e:
+        Logger().error(e)
+        return False
+
+
+def delete_video_files(video_with_meta):
+
+    try:
+
+        video_filename, info_filename, thumbnail_filename = _expand_video_files(
+            video_with_meta)
+
+        if os.path.exists(video_filename):
+            os.remove(video_filename)
+
+        if os.path.exists(info_filename):
+            os.remove(info_filename)
+
+        if os.path.exists(thumbnail_filename):
+            os.remove(thumbnail_filename)
+
+    except Exception as e:
+        Logger().error(e)
+
+
+def _resolve_multiple_files(file1, file2):
+    size1 = os.path.getsize(file1)
+    size2 = os.path.getsize(file2)
+    if size2 > size1:
+        os.remove(file1)
+        return file2
+    return file1
+
+
+def resolve_video_files(json_filename):
 
     # expecting filenames of the form: <path>/<title>.info.json
     # and the corresponding thumbnail and video files (with the same title)
@@ -42,22 +149,23 @@ def _resolve_files(json_filename):
     glob_path = re.sub('([\[\]])', '[\\1]', filepath)
     files = glob.glob(f"{glob_path}.*")
 
-    if len(files) != 3:
-        Logger().error(
-            f"found {len(files)} files (expecting 3) at {filepath=}")
-        return None
-
     thumbnail_filename = None
     video_filename = None
     info_filename = json_filename.split('/')[-1]
 
     for file in files:
         _, ext = os.path.splitext(file)
-        filename = file.split('/')[-1]
-        if ext in image_exts:
-            thumbnail_filename = filename
-        elif ext in videos_exts:
-            video_filename = filename
+        if ext in IMAGE_EXTS:
+            if thumbnail_filename is None:
+                thumbnail_filename = file
+            else:
+                thumbnail_filename = _resolve_multiple_files(
+                    thumbnail_filename, file)
+        elif ext in VIDEO_EXTS:
+            if video_filename is None:
+                video_filename = file
+            else:
+                video_filename = _resolve_multiple_files(video_filename, file)
 
     if video_filename is None:
         Logger().error(f"no video file found for {info_filename=} | {files=}")
@@ -67,6 +175,9 @@ def _resolve_files(json_filename):
         Logger().warning(
             f"no thumbnail file found for {info_filename=} | {files=}")
 
+    video_filename = video_filename.split('/')[-1]
+    thumbnail_filename = thumbnail_filename.split(
+        '/')[-1] if thumbnail_filename else None
     return {
         'thumbnail_filename': thumbnail_filename,
         'video_filename': video_filename,
@@ -79,7 +190,7 @@ def extract_video_info_from_file(json_filename, files=None):
     try:
 
         if files is None:
-            files = _resolve_files(json_filename)
+            files = resolve_video_files(json_filename)
             if files is None:
                 return None
 
@@ -101,6 +212,9 @@ def extract_video_info(data, files=None):
 
     try:
 
+        uploader = data['uploader'] if 'uploader' in data else ''
+        channel_title = data['channel'] if 'channel' in data else uploader
+
         info_with_meta = {
             '_id': data['id'],
             'as_of': str(datetime.now()),
@@ -110,8 +224,8 @@ def extract_video_info(data, files=None):
                 'tags': data['tags'] if 'tags' in data else [],
                 'categories': data['categories'] if 'categories' in data else [],
                 'channel_id': data['channel_id'] if 'channel_id' in data else '',
-                'channel_title': data['channel'] if 'channel' in data else '',
-                'uploader': data['uploader'] if 'uploader' in data else '',
+                'channel_title': channel_title,
+                'uploader': uploader,
                 'uploader_id': data['uploader_id'] if 'uploader_id' in data else '',
                 'upload_date': str(datetime.strptime(data['upload_date'], "%Y%m%d")) if 'upload_date' in data else '',
                 'duration_seconds': data['duration'] if 'duration' in data else 0,
@@ -127,12 +241,6 @@ def extract_video_info(data, files=None):
     except Exception as e:
         Logger().error(e)
         return None
-
-
-def move_file(src_dir, dst_dir, filename):
-    src_filename = os.path.join(src_dir, filename)
-    dst_filename = os.path.join(dst_dir, filename)
-    shutil.move(src_filename, dst_filename)
 
 
 def get_video_from_youtube(video_url):
@@ -211,6 +319,54 @@ def get_video_from_db_batch(video_id_batch):
         return None
 
 
+def delete_video_from_db(video_id):
+
+    try:
+
+        x = get_db().yt_videos.delete_one({'_id': video_id})
+        return x.deleted_count
+
+    except Exception as e:
+        Logger().error(e)
+        return 0
+
+
+def delete_video_from_db_batch(video_id_batch):
+
+    try:
+
+        x = get_db().yt_videos.delete_many({'_id': {'$in': video_id_batch}})
+        return x.deleted_count
+
+    except Exception as e:
+        Logger().error(e)
+        return 0
+
+
+def get_videos_for_audit():
+
+    try:
+
+        videos_cursor = get_db().yt_videos.find()
+        for video_with_meta in videos_cursor:
+            id = video_with_meta['_id']
+            video = video_with_meta['video']
+            channel_title = video['channel_title']
+            uploader = video['uploader']
+            files = video['files']
+            yield {
+                '_id': id,
+                'video': {
+                    'channel_title': channel_title if channel_title else uploader,
+                    'files': files
+                }
+            }
+
+    except Exception as e:
+        Logger().error(e)
+        return None
+
+
 def save_video_to_db(video_with_meta, to_disk=True):
 
     try:
@@ -237,3 +393,16 @@ def save_video_to_db_batch(video_with_meta_batch, to_disk=True):
 
     except Exception as e:
         Logger().error(e)
+
+
+def search_db(query):
+
+    try:
+
+        videos_cursor = get_db().yt_videos.find(
+            {'$text': {'$search': query}})  # .sort({'score': {'$meta': "textScore"}})
+        return list(videos_cursor)
+
+    except Exception as e:
+        Logger().error(e)
+        return None

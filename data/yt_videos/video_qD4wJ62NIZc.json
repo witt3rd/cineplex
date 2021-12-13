@@ -1,0 +1,44 @@
+{
+  "_id": "qD4wJ62NIZc",
+  "as_of": "2021-12-12 09:41:05.913386",
+  "video": {
+    "title": "SvelteKit Crash Course Follow Up - Deploy Your Project to Production",
+    "description": "Follow up video for the SvelteKit Crash Course!\n\nDeploy your project to Netlify and Vercel without GitHub, then push the project to GitHub and deploy via code changes and Pull Requests.\n\nSource code on GitHub: https://github.com/spences10/sparkles-blog\n\nFull Crash Course here: https://www.youtube.com/watch?v=zH2qG9YwN3s\n\n00:00 - Intro\n00:58 - Adapters documentation\n01:52 - Configure Adapter Static\n02:21 - Build Static project\n03:21 - Deploy project to Netlify without git\n04:58 - Deploy to Vercel without git\n05:29 - Vercel CLI\n08:23 - Push project to GitHub\n10:00 - Connect Vercel Project to GitHub project\n10:26 - Deploy project to Vercel with GitHub\n13:50 - Change Vercel project domain name\n14:18 - Configure adapter static to deploy to Netlify\n15:40 - Deploy to Netlify with GitHub\n19:05 - Change Netlify project domain name\n20:10 - Using hybrid (Vercel node) and jamstack",
+    "tags": [
+      "web development",
+      "svelte 3",
+      "front end",
+      "sveltekit crash course",
+      "how to make a sveltekit app",
+      "sveltekit tutorial",
+      "svelte tutorial",
+      "svelte basics",
+      "web development tutorial",
+      "tailwind css",
+      "tailwind css tutorial",
+      "tailwind tutorial",
+      "sveltekit blog tutorial",
+      "tailwind css navbar",
+      "tailwind css project",
+      "web development course"
+    ],
+    "categories": [
+      "Science & Technology"
+    ],
+    "channel_id": "UCnngLXpLSFsKkDhFoO9Ct3w",
+    "channel_title": "Scott Spence",
+    "uploader": "Scott Spence",
+    "uploader_id": "UCnngLXpLSFsKkDhFoO9Ct3w",
+    "upload_date": "2021-10-01 00:00:00",
+    "duration_seconds": 1402,
+    "view_count": 1019,
+    "like_count": 42,
+    "dislike_count": 0,
+    "average_rating": 4.9069767,
+    "files": {
+      "video_filename": "SvelteKit Crash Course Follow Up - Deploy Your Project to Production-qD4wJ62NIZc.webm",
+      "info_filename": "SvelteKit Crash Course Follow Up - Deploy Your Project to Production-qD4wJ62NIZc.info.json",
+      "thumbnail_filename": "SvelteKit Crash Course Follow Up - Deploy Your Project to Production-qD4wJ62NIZc.webp"
+    }
+  }
+}

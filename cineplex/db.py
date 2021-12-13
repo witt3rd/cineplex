@@ -17,3 +17,9 @@ class Database:
 
 def get_db():
     return Database().db
+
+
+def create_indices():
+    db = get_db()
+
+    db.yt_videos.create_index([('$**', "text")])

@@ -1,30 +1,13 @@
 from enum import Enum
 import json
+import os
+import shutil
 import hashlib
 # --
 
 FILE_BLACKLIST = set([".DS_Store"])
 VIDEO_EXTS = set([".mkv", ".webm", ".mp4"])
-THUMBNAIL_EXTS = set([".jpg", ".webp", ".png"])
-
-
-class MediaType(Enum):
-    METADATA = "meta"
-    THUMBNAIL = "thumb"
-    UNKNOWN = "unk"
-    VIDEO = "vid"
-
-
-def get_media_type_from_ext(ext):
-    if ext == ".json":
-        type = MediaType.METADATA
-    elif ext in THUMBNAIL_EXTS:
-        type = MediaType.THUMBNAIL
-    elif ext in VIDEO_EXTS:
-        type = MediaType.VIDEO
-    else:
-        type = MediaType.UNKNOWN
-    return type
+IMAGE_EXTS = set([".jpg", ".webp", ".png"])
 
 
 class SetEncoder(json.JSONEncoder):
@@ -42,3 +25,18 @@ def calc_file_sha256(filename):
         for byte_block in iter(lambda: f.read(4096), b""):
             sha256_hash.update(byte_block)
         return sha256_hash.hexdigest()
+
+
+# build a recursive list of all files in a directory
+def get_all_files(dir_path):
+    all_files = []
+    for root, _, files in os.walk(dir_path):
+        for file in files:
+            all_files.append(os.path.join(root, file))
+    return all_files
+
+
+def move_file(src_dir, dst_dir, filename):
+    src_filename = os.path.join(src_dir, filename)
+    dst_filename = os.path.join(dst_dir, filename)
+    shutil.move(src_filename, dst_filename)

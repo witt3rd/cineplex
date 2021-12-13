@@ -20,7 +20,7 @@ class Settings(BaseSettings):
 
     tmp_dir: str = './tmp'
     data_dir: str = './data'
-    youtube_channels_dir: str = '/Volumes/Cineplex00/youtube/channels'
+    youtube_channels_dir: str = '/Volumes/Cineplex00/YouTube/channels'
 
     log_name: str = ''
     log_level: str = 'INFO'

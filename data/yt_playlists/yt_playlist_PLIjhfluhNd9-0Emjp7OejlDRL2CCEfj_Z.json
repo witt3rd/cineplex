@@ -1,9 +1,9 @@
 {
   "_id": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
-  "as_of": "2021-12-10 00:21:41.763670",
+  "as_of": "2021-12-12 23:19:53.079375",
   "playlist": {
     "kind": "youtube#playlist",
-    "etag": "zSbJsTsdFuWRS-UBBMIxTPZuDQQ",
+    "etag": "W9xnitqePEpn2rxzdN_KEENrvBg",
     "id": "PLIjhfluhNd9-0Emjp7OejlDRL2CCEfj_Z",
     "snippet": {
       "publishedAt": "2021-08-28T16:50:46Z",
@@ -44,7 +44,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 64
+      "itemCount": 69
     }
   }
 }

@@ -8,6 +8,8 @@ import cineplex.youtube_playlists as ytpl
 import cineplex.youtube_channels as ytch
 import cineplex.youtube_videos as ytv
 from cineplex.config import Settings
+import cineplex.db as db
+from cineplex.utils import get_all_files
 
 settings = Settings()
 
@@ -495,42 +497,50 @@ def offline_youtube_channel(channel_id: str):
     pass
 
 
+def _download_video(video_id):
+    video_url = f'https://www.youtube.com/watch?v={video_id}'
+    video_with_meta = ytv.get_video_from_youtube(video_url)
+    if video_with_meta:
+        ytv.save_video_to_db(video_with_meta)
+    return video_with_meta
+
+
 @app.command()
-def offline_youtube_video(video_id_batch: List[str]):
+def offline_youtube_video(video_id_batch: List[str], force: bool = False):
     """Download a video from YouTube and place it in its channel's folder."""
     video_id_batch = list(video_id_batch)
 
-    # verify any videos that are already in the database
-    video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
-    missing, found = _missing_found(video_id_batch, video_with_meta_batch)
-    for video_id in found:
-        video_with_meta = [
-            x for x in video_with_meta_batch if x['_id'] == video_id][0]
-        if not _files_exists(video_with_meta):
-            missing.append(video_id)
+    if not force:
+        # verify any videos that are already in the database
+        video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
+        missing, found = _missing_found(video_id_batch, video_with_meta_batch)
+        for video_id in found:
+            video_with_meta = [
+                x for x in video_with_meta_batch if x['_id'] == video_id][0]
+            if not ytv.audit_video_files(video_with_meta):
+                missing.append(video_id)
 
-    verified_with_meta_batch = [
-        x for x in video_with_meta_batch if x['_id'] not in missing]
-    for verified_with_meta in verified_with_meta_batch:
-        id = verified_with_meta['_id']
-        video = verified_with_meta['video']
-        title = video['title']
-        typer.echo(f"✅ {blue(id)} {green(title)}")
+        verified_with_meta_batch = [
+            x for x in video_with_meta_batch if x['_id'] not in missing]
+        for verified_with_meta in verified_with_meta_batch:
+            id = verified_with_meta['_id']
+            video = verified_with_meta['video']
+            title = video['title']
+            typer.echo(f"✅ {blue(id)} {green(title)}")
 
-    if not missing:
-        return verified_with_meta_batch
+        if not missing:
+            return verified_with_meta_batch
+    else:
+        missing = video_id_batch
+        verified_with_meta_batch = []
 
     # download any videos that are not in the database or had missing files
     for video_id in missing:
-        video_url = f'https://www.youtube.com/watch?v={video_id}'
-        video_with_meta = ytv.get_video_from_youtube(video_url)
+        video_with_meta = _download_video(video_id)
         if not video_with_meta:
             typer.echo(
-                f"❗ {red('Unable to download video')}: {blue(video_id)} {green(video_url)}")
+                f"❗ {red('Unable to download video')}: {blue(video_id)}")
             return
-
-        ytv.save_video_to_db(video_with_meta)
-
         id = video_with_meta['_id']
         video = video_with_meta['video']
         title = video['title']
@@ -541,41 +551,130 @@ def offline_youtube_video(video_id_batch: List[str]):
     return verified_with_meta_batch
 
 
-def _files_exists(video_with_meta):
-    video = video_with_meta['video']
-    files = video['files']
-    channel_title = video['channel_title'] if video['channel_title'] else video['uploader']
+def _refresh_video_info(info_file):
 
-    if not channel_title:
-        typer.echo(
-            f"❗ {red('No channel title')}: {blue(video_with_meta['_id'])} {green(video['title'])}")
-        return False
+    video_with_meta = ytv.extract_video_info_from_file(info_file)
+    if video_with_meta is None:
+        return info_file
 
-    video_filename = os.path.join(settings.youtube_channels_dir,
-                                  channel_title,
-                                  files['video_filename'])
-    if not os.path.exists(video_filename):
-        typer.echo(
-            f"❗ {red('Missing video file')}: {green(video_filename)}")
-        return False
+    ytv.save_video_to_db(video_with_meta, False)
+    return None
 
-    info_filename = os.path.join(settings.youtube_channels_dir,
-                                 channel_title,
-                                 files['info_filename'])
-    if not os.path.exists(info_filename):
-        typer.echo(
-            f"❗ {red('Missing info file')}: {green(info_filename)}")
-        return False
 
-    thumbnail_filename = os.path.join(settings.youtube_channels_dir,
-                                      channel_title,
-                                      files['thumbnail_filename'])
-    if not os.path.exists(thumbnail_filename):
-        typer.echo(
-            f"❗ {red('Missing thumbnail file')}: {green(thumbnail_filename)}")
-        return False
+def _delete_video(video_with_meta):
+    ytv.delete_video_files(video_with_meta)
+    ytv.delete_video_from_db(video_with_meta['_id'])
 
-    return True
+
+@app.command()
+def audit_youtube_video(video_id_batch: List[str], repair: bool = False, clean: bool = False):
+    """Audit videos in the database"""
+    video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
+    if not video_with_meta_batch:
+        typer.echo(f'{red("❗ No video(s) to audit")}')
+        return
+
+    typer.echo(
+        f'found {blue(len(video_with_meta_batch))} video(s) with metadata')
+
+    for video_with_meta in video_with_meta_batch:
+        video_id = video_with_meta['_id']
+        title = video_with_meta['video']['title']
+        if ytv.audit_video_files(video_with_meta):
+            typer.echo(f'✅ {blue(video_id)} {green(title)} No missing files')
+        else:
+            if repair:
+                new_video_with_meta = _download_video(video_id)
+                if new_video_with_meta:
+                    typer.echo(
+                        f'✅ {blue(video_id)} {green(title)} Repaired missing files')
+                else:
+                    typer.echo(
+                        f'❗ {blue(video_id)} {green(title)} {red("Unable to repair video")}')
+                    if clean:
+                        _delete_video(video_with_meta)
+                        typer.echo(
+                            f'🗑 {blue(video_id)} {green(title)} Cleaned')
+            else:
+                typer.echo(
+                    f'❗ {blue(video_id)} {green(title)} {red("Missing files (no repair)")}')
+                if clean:
+                    _delete_video(video_with_meta)
+                    typer.echo(f'🗑 {blue(video_id)} {green(title)} Cleaned')
+
+
+@app.command()
+def audit_youtube_videos():
+    """Audit videos in the database"""
+    # channel_files = get_all_files(settings.youtube_channels_dir)
+    # with open(os.path.join(settings.data_dir, 'channel_files.json'), 'r') as infile:
+    #     channel_files = json.load(infile)
+
+    # with open(os.path.join(settings.data_dir,'channel_files.json'), 'w') as outfile:
+    #     json.dump(channel_files, outfile)
+    with open(os.path.join(settings.data_dir, 'bad_metadata.json'), 'r') as infile:
+        channel_files = json.load(infile)
+
+    typer.echo(
+        f'found {blue(len(channel_files))} files in {green(settings.youtube_channels_dir)}')
+
+    info_files = [x for x in channel_files if x.endswith('.info.json')]
+
+    typer.echo(f'found {blue(len(info_files))} metadata files')
+
+    bad_metadata = []
+    for x in info_files:
+        res = _refresh_video_info(x)  # .remote(x)
+        if not res:
+            typer.echo(f'✅ Refreshed {green(x)}')
+        else:
+            typer.echo(
+                f'❗ {red("Unable to refresh video")} {blue(x)}')
+            bad_metadata.append(res)
+
+    with open(os.path.join(settings.data_dir, 'bad_metadata.json'), 'w') as outfile:
+        json.dump(bad_metadata, outfile)
+
+    typer.echo(f'found {blue(len(bad_metadata))} bad metadata')
+
+@app.command()
+def repair_all():
+
+    with open(os.path.join(settings.data_dir, 'bad_db_videos.json'), 'r') as infile:
+        bad = json.load(infile)
+
+    for video_id in bad:
+        audit_youtube_video([video_id], repair=True, clean=True)
+
+@app.command()
+def audit_youtube_db(repair: bool = False, clean: bool = False):
+    """Audit videos in the database"""
+    for video in ytv.get_videos_for_audit():
+        if not ytv.audit_video_files(video):
+            audit_youtube_video(video['_id'], repair, clean)
+
+
+@app.command()
+def init_db():
+    """Initialize the database"""
+    db.create_indices()
+
+
+@app.command()
+def search(query):
+    """Search videos in the database"""
+    video_with_meta_batch = ytv.search_db(query)
+    if not video_with_meta_batch:
+        typer.echo(f'{red("❗ No video(s) to audit")}')
+        return
+
+    typer.echo(
+        f'found {blue(len(video_with_meta_batch))} video(s) with metadata')
+
+    for video_with_meta in video_with_meta_batch:
+        video_id = video_with_meta['_id']
+        title = video_with_meta['video']['title']
+        typer.echo(f'✅ {blue(video_id)} {green(title)}')
 
 
 if __name__ == "__main__":

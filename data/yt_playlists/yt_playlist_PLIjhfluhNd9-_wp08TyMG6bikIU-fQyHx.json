@@ -1,9 +1,9 @@
 {
   "_id": "PLIjhfluhNd9-_wp08TyMG6bikIU-fQyHx",
-  "as_of": "2021-12-10 00:21:41.763639",
+  "as_of": "2021-12-12 23:19:53.079348",
   "playlist": {
     "kind": "youtube#playlist",
-    "etag": "1IDkCTTOcoDS6UkaL_Zi1m6fl2o",
+    "etag": "EWMN49mgRGIXuq8xYviXwJSQdb4",
     "id": "PLIjhfluhNd9-_wp08TyMG6bikIU-fQyHx",
     "snippet": {
       "publishedAt": "2019-10-31T20:30:02Z",
@@ -12,27 +12,27 @@
       "description": "poo is #1!",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/default.jpg",
+          "url": "https://i.ytimg.com/vi/QbJJwaVdgIs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QbJJwaVdgIs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QbJJwaVdgIs/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/QbJJwaVdgIs/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/gjNQT2RlN5U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QbJJwaVdgIs/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
