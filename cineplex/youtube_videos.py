@@ -1,8 +1,9 @@
 import glob
-from importlib.metadata import files
 import json
 import os
 import re
+from turtle import update
+import click
 from datetime import datetime
 import yt_dlp
 from cineplex.db import get_db
@@ -78,19 +79,21 @@ def audit_video_files(video_with_meta):
 
     try:
 
+        video_id = video_with_meta['_id']
+
         video_filename, info_filename, thumbnail_filename = _expand_video_files(
             video_with_meta)
 
-        if video_filename and not os.path.exists(video_filename):
-            Logger().error(f"Missing video file: {video_filename}")
+        if not video_filename or not os.path.exists(video_filename):
+            Logger().error(f"Missing video file for {video_id}")
             return False
 
-        if info_filename and not os.path.exists(info_filename):
-            Logger().error(f"Missing info file: {info_filename}")
+        if not info_filename or not os.path.exists(info_filename):
+            Logger().error(f"Missing info file for {video_id}")
             return False
 
-        if thumbnail_filename and not os.path.exists(thumbnail_filename):
-            Logger().error(f"Missing thumbnail file: {thumbnail_filename}")
+        if not thumbnail_filename or not os.path.exists(thumbnail_filename):
+            Logger().error(f"Missing thumbnail fil for {video_id}")
             return False
 
         return True
@@ -243,17 +246,69 @@ def extract_video_info(data, files=None):
         return None
 
 
+class MyLogger:
+
+    def __init__(self):
+        self._progress_bar = None
+        self._last_progress = 0
+        self._progress_length = 0
+
+    def debug(self, msg):
+        # For compatability with youtube-dl, both debug and info are passed into debug
+        # You can distinguish them by the prefix '[debug] '
+        if msg.startswith('[debug] ') or msg.startswith('[info] ') or msg.startswith('[download] '):
+            pass
+        else:
+            self.info(msg)
+
+    def info(self, msg):
+        Logger().info(msg)
+
+    def warning(self, msg):
+        Logger().warning(msg)
+
+    def error(self, msg):
+        Logger().error(msg)
+
+    def progress_hook(self, d):
+
+        def _total_bytes():
+            return int(d['total_bytes'] if 'total_bytes' in d else d['total_bytes_estimate'])
+
+        if d['status'] == 'downloading':
+
+            if self._progress_bar is None:
+                self._progress_length = _total_bytes()
+                self._progress_bar = click.progressbar(
+                    length=self._progress_length, fill_char=click.style(
+                        "█", fg="green"),
+                    show_percent=True, show_pos=True, show_eta=True)
+
+            self._progress_bar.label = f"{d['_speed_str']:14s}"
+
+            length = _total_bytes()
+            if self._progress_length != length:
+                self._progress_length = length
+                self._progress_bar.length = self._progress_length
+
+            update = int(d['downloaded_bytes']) - self._last_progress
+            self._last_progress += update
+            self._progress_bar.update(update)
+
+
 def get_video_from_youtube(video_url):
 
     try:
 
+        yt_logger = MyLogger()
         ydl_opts = {
-            'logger': Logger(),
+            'logger': yt_logger,
             'writethumbnail': True,
             'paths': {
                 'home': settings.tmp_dir,
             },
             'outtmpl': '%(title)s-%(id)s.%(ext)s',
+            'progress_hooks': [yt_logger.progress_hook],
         }
 
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:

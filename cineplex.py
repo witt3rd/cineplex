@@ -1,7 +1,8 @@
 import os
 import json
-import pprint
+import ray
 from re import M
+import click
 import typer
 from typing import List
 import cineplex.youtube_playlists as ytpl
@@ -561,9 +562,27 @@ def _refresh_video_info(info_file):
     return None
 
 
-def _delete_video(video_with_meta):
+def _delete_youtube_video(video_with_meta):
     ytv.delete_video_files(video_with_meta)
     ytv.delete_video_from_db(video_with_meta['_id'])
+
+
+@app.command()
+def delete_youtube_video(video_id_batch: List[str]):
+    """Delete a video from the database and its files."""
+    video_with_meta_batch = ytv.get_video_from_db_batch(video_id_batch)
+    if not video_with_meta_batch:
+        typer.echo(f'{red("❗ No video(s) to delete")}')
+        return
+
+    typer.echo(
+        f'deleting {blue(len(video_with_meta_batch))} video(s)')
+
+    click.confirm('Do you want to continue?', abort=True)
+
+    for video_with_meta in video_with_meta_batch:
+        print(
+            f'{blue(video_with_meta["_id"])} {green(video_with_meta["video"]["title"])}')
 
 
 @app.command()
@@ -575,7 +594,7 @@ def audit_youtube_video(video_id_batch: List[str], repair: bool = False, clean: 
         return
 
     typer.echo(
-        f'found {blue(len(video_with_meta_batch))} video(s) with metadata')
+        f'auditing {blue(len(video_with_meta_batch))} video(s)')
 
     for video_with_meta in video_with_meta_batch:
         video_id = video_with_meta['_id']
@@ -592,28 +611,28 @@ def audit_youtube_video(video_id_batch: List[str], repair: bool = False, clean: 
                     typer.echo(
                         f'❗ {blue(video_id)} {green(title)} {red("Unable to repair video")}')
                     if clean:
-                        _delete_video(video_with_meta)
+                        _delete_youtube_video(video_with_meta)
                         typer.echo(
                             f'🗑 {blue(video_id)} {green(title)} Cleaned')
             else:
                 typer.echo(
                     f'❗ {blue(video_id)} {green(title)} {red("Missing files (no repair)")}')
                 if clean:
-                    _delete_video(video_with_meta)
+                    _delete_youtube_video(video_with_meta)
                     typer.echo(f'🗑 {blue(video_id)} {green(title)} Cleaned')
 
 
 @app.command()
 def audit_youtube_videos():
     """Audit videos in the database"""
-    # channel_files = get_all_files(settings.youtube_channels_dir)
-    # with open(os.path.join(settings.data_dir, 'channel_files.json'), 'r') as infile:
-    #     channel_files = json.load(infile)
-
-    # with open(os.path.join(settings.data_dir,'channel_files.json'), 'w') as outfile:
-    #     json.dump(channel_files, outfile)
-    with open(os.path.join(settings.data_dir, 'bad_metadata.json'), 'r') as infile:
+    channel_files = get_all_files(settings.youtube_channels_dir)
+    with open(os.path.join(settings.data_dir, 'channel_files.json'), 'r') as infile:
         channel_files = json.load(infile)
+
+    with open(os.path.join(settings.data_dir, 'channel_files.json'), 'w') as outfile:
+        json.dump(channel_files, outfile)
+    # with open(os.path.join(settings.data_dir, 'bad_metadata.json'), 'r') as infile:
+    #     channel_files = json.load(infile)
 
     typer.echo(
         f'found {blue(len(channel_files))} files in {green(settings.youtube_channels_dir)}')
@@ -637,6 +656,7 @@ def audit_youtube_videos():
 
     typer.echo(f'found {blue(len(bad_metadata))} bad metadata')
 
+
 @app.command()
 def repair_all():
 
@@ -645,6 +665,7 @@ def repair_all():
 
     for video_id in bad:
         audit_youtube_video([video_id], repair=True, clean=True)
+
 
 @app.command()
 def audit_youtube_db(repair: bool = False, clean: bool = False):
