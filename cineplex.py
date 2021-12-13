@@ -195,6 +195,8 @@ def print_yt_video_batch(video_with_meta_batch):
 
 
 def _missing_found(id_batch, meta_batch):
+    if not meta_batch:
+        return id_batch, []
     found_id_batch = [x['_id'] for x in meta_batch]
     missing_id_batch = [x for x in id_batch if x not in found_id_batch]
     return missing_id_batch, found_id_batch
@@ -498,12 +500,17 @@ def offline_youtube_channel(channel_id: str):
     pass
 
 
-def _download_video(video_id):
+def _download_youtube_video(video_id, show_progress=True):
     video_url = f'https://www.youtube.com/watch?v={video_id}'
-    video_with_meta = ytv.get_video_from_youtube(video_url)
+    video_with_meta = ytv.get_video_from_youtube(video_url, show_progress)
     if video_with_meta:
         ytv.save_video_to_db(video_with_meta)
     return video_with_meta
+
+
+@ray.remote
+def _download_youtube_video_ray(video_id):
+    return _download_youtube_video(video_id, False)
 
 
 @app.command()
@@ -535,19 +542,29 @@ def offline_youtube_video(video_id_batch: List[str], force: bool = False):
         missing = video_id_batch
         verified_with_meta_batch = []
 
-    # download any videos that are not in the database or had missing files
-    for video_id in missing:
-        video_with_meta = _download_video(video_id)
-        if not video_with_meta:
-            typer.echo(
-                f"❗ {red('Unable to download video')}: {blue(video_id)}")
-            return
-        id = video_with_meta['_id']
-        video = video_with_meta['video']
+    typer.echo(
+        f"💡 {yellow('Downloading')} {blue(len(missing))} video(s): {green(missing)}")
+
+    if len(missing) > 1:
+        ray.init()
+        futures = [_download_youtube_video_ray.remote(x) for x in missing]
+        dl_video_with_meta_batch = [x for x in ray.get(futures) if x]
+    else:
+        res = _download_youtube_video(missing[0])
+        dl_video_with_meta_batch = [res] if res else []
+
+    not_dl_id_batch, _ = _missing_found(missing, dl_video_with_meta_batch)
+
+    if not_dl_id_batch:
+        typer.echo(
+            f"❗ {red('Unable to download')} {blue(len(not_dl_id_batch))}: {green(not_dl_id_batch)}")
+
+    for dl_video_with_meta in dl_video_with_meta_batch:
+        id = dl_video_with_meta['_id']
+        video = dl_video_with_meta['video']
         title = video['title']
         typer.echo(f"⬇️ {blue(id)} {green(title)}")
-
-        verified_with_meta_batch.append(video_with_meta)
+        verified_with_meta_batch.append(dl_video_with_meta)
 
     return verified_with_meta_batch
 
@@ -603,7 +620,7 @@ def audit_youtube_video(video_id_batch: List[str], repair: bool = False, clean: 
             typer.echo(f'✅ {blue(video_id)} {green(title)} No missing files')
         else:
             if repair:
-                new_video_with_meta = _download_video(video_id)
+                new_video_with_meta = _download_youtube_video(video_id)
                 if new_video_with_meta:
                     typer.echo(
                         f'✅ {blue(video_id)} {green(title)} Repaired missing files')

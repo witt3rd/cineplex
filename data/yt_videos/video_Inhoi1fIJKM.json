@@ -1,0 +1,27 @@
+{
+  "_id": "Inhoi1fIJKM",
+  "as_of": "2021-12-13 02:35:19.183251",
+  "video": {
+    "title": "VFX Breakdown: Polyfjord Headquarters",
+    "description": "In this video, we'll do a breakdown a flying car entering a huge sci-fi building! We'll examine the different elements used, to see how this VFX shot was made entirely in Blender.\n\nIf you want to support the channel: https://patreon.com/polyfjord\n\nAssets used:\nReal City: https://blendermarket.com/products/real-city\nCar - Traffiq Library: https://blendermarket.com/products/car-library-traffiq-vehicles-for-blender\nJSplacement: https://windmillart.net/?p=jsplacement\nRust texture from Poly Haven: https://polyhaven.com/a/rusty_metal_02\n\nReferences:\nIan Hubert's amazing 3D tracking tutorial: https://youtu.be/lY8Ol2n4o4A\n\nMade with Blender:\nhttps://www.blender.org/download/\n\nInstagram: https://instagr.am/polyfjord\nTwitter: https://twitter.com/polyfjord\n\n#opensource #VFX\n\nChapters:\n00:00 Intro & final result\n01:11 Creating and customizing the building\n02:52 You wouldn't download a car\n03:23 Thruster setup\n03:54 3D tracking\n04:32 Creating video proxies\n05:14 Shadow catcher setup\n06:22 HDRI workaround\n07:20 Compositing setup overview\n09:16 Sunlight setup\n09:37 What I love about VFX\n\nMUSIC:\nPurchases made through the links below may provide some compensation to Polyfjord. (This is a great way to support the channel!):\nIntro music: https://shutterstock.7eer.net/QO2Da9",
+    "tags": [],
+    "categories": [
+      "Education"
+    ],
+    "channel_id": "UC1MmrnDaPnNa55twYBiH4NA",
+    "channel_title": "Polyfjord",
+    "uploader": "Polyfjord",
+    "uploader_id": "lotsalote",
+    "upload_date": "2021-12-05 00:00:00",
+    "duration_seconds": 656,
+    "view_count": 97808,
+    "like_count": 5934,
+    "dislike_count": 0,
+    "average_rating": 4.9259014,
+    "files": {
+      "video_filename": "VFX Breakdown - Polyfjord Headquarters-Inhoi1fIJKM.webm",
+      "info_filename": "VFX Breakdown - Polyfjord Headquarters-Inhoi1fIJKM.info.json",
+      "thumbnail_filename": "VFX Breakdown - Polyfjord Headquarters-Inhoi1fIJKM.webp"
+    }
+  }
+}

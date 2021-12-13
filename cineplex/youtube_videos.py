@@ -208,7 +208,6 @@ def extract_video_info_from_file(json_filename, files=None):
 
     except Exception as e:
         Logger().error(e)
-        return None
 
 
 def extract_video_info(data, files=None):
@@ -243,12 +242,12 @@ def extract_video_info(data, files=None):
 
     except Exception as e:
         Logger().error(e)
-        return None
 
 
 class MyLogger:
 
-    def __init__(self):
+    def __init__(self, show_progress=True):
+        self._show_progress = show_progress
         self._progress_bar = None
         self._last_progress = 0
         self._progress_length = 0
@@ -256,7 +255,9 @@ class MyLogger:
     def debug(self, msg):
         # For compatability with youtube-dl, both debug and info are passed into debug
         # You can distinguish them by the prefix '[debug] '
-        if msg.startswith('[debug] ') or msg.startswith('[info] ') or msg.startswith('[download] '):
+        if not self._show_progress and not msg.startswith('[download] '):
+            Logger().debug(msg)
+        elif msg.startswith('[debug] ') or msg.startswith('[info] ') or msg.startswith('[download] '):
             pass
         else:
             self.info(msg)
@@ -296,11 +297,11 @@ class MyLogger:
             self._progress_bar.update(update)
 
 
-def get_video_from_youtube(video_url):
+def get_video_from_youtube(video_url, show_progress=True):
 
     try:
 
-        yt_logger = MyLogger()
+        yt_logger = MyLogger(show_progress)
         ydl_opts = {
             'logger': yt_logger,
             'writethumbnail': True,
@@ -308,7 +309,7 @@ def get_video_from_youtube(video_url):
                 'home': settings.tmp_dir,
             },
             'outtmpl': '%(title)s-%(id)s.%(ext)s',
-            'progress_hooks': [yt_logger.progress_hook],
+            'progress_hooks': [yt_logger.progress_hook] if show_progress else [],
         }
 
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -347,7 +348,6 @@ def get_video_from_youtube(video_url):
 
     except Exception as e:
         Logger().error(e)
-        return None
 
 
 def get_video_from_db(video_id):
@@ -358,7 +358,6 @@ def get_video_from_db(video_id):
 
     except Exception as e:
         Logger().error(e)
-        return None
 
 
 def get_video_from_db_batch(video_id_batch):
@@ -371,7 +370,6 @@ def get_video_from_db_batch(video_id_batch):
 
     except Exception as e:
         Logger().error(e)
-        return None
 
 
 def delete_video_from_db(video_id):
@@ -419,7 +417,6 @@ def get_videos_for_audit():
 
     except Exception as e:
         Logger().error(e)
-        return None
 
 
 def save_video_to_db(video_with_meta, to_disk=True):
@@ -460,4 +457,3 @@ def search_db(query):
 
     except Exception as e:
         Logger().error(e)
-        return None

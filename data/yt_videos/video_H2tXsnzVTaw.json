@@ -1,0 +1,33 @@
+{
+  "_id": "H2tXsnzVTaw",
+  "as_of": "2021-12-13 02:22:58.736705",
+  "video": {
+    "title": "SproutLife - Simulating the evolution of complex life",
+    "description": "SproutLife simulates the evolution of complex life.\n\nTranscript:\n\nHi I'm Alex Shapiro. I'd like to tell you about my project called SproutLife which simulates the evolution of complex life.\n\nSproutLife is based on the Game of Life, which was created back in 1970 by the late and great mathematician John Conway. Sadly he just passed away last year.\n\nWhile the original Game of Life pretty quickly stabilizes, SproutLife adds an extra rule that keeps the game going and evolving. That rule is that whenever we see a particular seed pattern, we replace it with a sprout pattern. For example we replace a 2x2 block with an r-pentomino. That replacement becomes the birth of a new child organism.\n\nTo make the simulation easier to follow, we add a visualization layer on top of the grid of cells. We track the paths between the coordinates where an organism was born to where its children are born to where their children are born and connect them by lines. We color the lines based on the angle between them. This allows us see what's happening even when the game runs at many cycles a second.\n\nThe organisms have a genome. It works by turning off some of the cells as the organisms grow, which can actually them grow larger. The biggest organisms win collisions against smaller ones. On the other hand small organisms can reproduce faster and crowd out the big organisms. This sets up many interesting dynamics.\n\nSometimes we can see big organisms coexisting with smaller organisms forming milti-species ecosystems. Other times we see situations analogous to the fall of Rome or the development of an epidemic where the population of big organisms collapses due to internal competition while small organisms arise and completely take over.\n\nThe genome is open ended and the game of life is Turing complete so in theory any kind of behavior is possible. In practice there do seem to be limitations where we don't get the rise of advanced structures like cell walls and a nucleus.\n\nEven without fully imitating biological life, SproutLife can help us understand life-like behavior. The emergence of cultural trends, political revolutions, and even business disruption all follow evolutionary patterns. By examining what we see in artificial life we can better understand real life, and SproutLife help us do that by serving as a realistic simulation.\n\nSproutLife is an open source project, whose development has been motivated by curiosity and a passion for the subject area. Please reach out or comment on the video if you'd like to contribute.\n\nYou can find more at http://SproutLife.org or email me at shapiro.alex at gmail dot com. Thanks!",
+    "tags": [
+      "evolution",
+      "artificial life",
+      "game of life",
+      "cellular automata",
+      "genetic algorithms"
+    ],
+    "categories": [
+      "Science & Technology"
+    ],
+    "channel_id": "UCBoOuWMtS7mg2qw1OlSRRQA",
+    "channel_title": "shpralex",
+    "uploader": "shpralex",
+    "uploader_id": "shpralex",
+    "upload_date": "2021-09-19 00:00:00",
+    "duration_seconds": 193,
+    "view_count": 8846,
+    "like_count": 456,
+    "dislike_count": 0,
+    "average_rating": 4.8974357,
+    "files": {
+      "video_filename": "SproutLife - Simulating the evolution of complex life-H2tXsnzVTaw.webm",
+      "info_filename": "SproutLife - Simulating the evolution of complex life-H2tXsnzVTaw.info.json",
+      "thumbnail_filename": "SproutLife - Simulating the evolution of complex life-H2tXsnzVTaw.webp"
+    }
+  }
+}
