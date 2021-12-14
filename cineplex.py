@@ -687,22 +687,15 @@ def offline_youtube_video(video_id_batch: List[str], force: bool = False):
         # verify any videos that are already in the database
         video_with_meta_batch = yt.get_video_from_db_batch(video_id_batch)
         missing, found = _missing_found(video_id_batch, video_with_meta_batch)
-        with typer.progressbar(found, label='Auditing', fill_char=click.style(
-                "█", fg="green"),
-                show_percent=True, show_pos=True, show_eta=True) as found_bar:
-            for video_id in found_bar:
-                video_with_meta = [
-                    x for x in video_with_meta_batch if x['_id'] == video_id][0]
-                if not yt.audit_video_files(video_with_meta):
-                    missing.append(video_id)
+        missing.extend(audit_youtube_video(found, repair=True, clean=True))
 
         verified_with_meta_batch = [
             x for x in video_with_meta_batch if x['_id'] not in missing]
-        for verified_with_meta in verified_with_meta_batch:
-            id = verified_with_meta['_id']
-            video = verified_with_meta['video']
-            title = video['title']
-            typer.echo(f"✅ {blue(id)} {green(title)}")
+
+        count = len(verified_with_meta_batch)
+        plural = 's' if count > 1 else ''
+        typer.echo(
+            f"✅ Verified {blue(len(verified_with_meta_batch))} video" + plural)
 
         if not missing:
             return verified_with_meta_batch
@@ -710,8 +703,10 @@ def offline_youtube_video(video_id_batch: List[str], force: bool = False):
         missing = video_id_batch
         verified_with_meta_batch = []
 
+    count = len(missing)
+    plural = 's' if count > 1 else ''
     typer.echo(
-        f"💡 {yellow('Downloading')} {blue(len(missing))} video(s): {green(missing)}")
+        f"💡 {yellow('Downloading')} {blue(count)} video" + plural)
 
     if len(missing) > 1:
         ray.init()
@@ -741,7 +736,7 @@ def offline_youtube_video(video_id_batch: List[str], force: bool = False):
 # Search
 #
 
-@app.command()
+@ app.command()
 def search(query):
     """Search videos in the database"""
     video_with_meta_batch = yt.search_db(query)
@@ -763,9 +758,12 @@ def search(query):
 #
 
 def _audit_youtube_video(video_with_meta_batch: List[str], repair: bool = False, clean: bool = False, label=None):
+
+    missing = []
+
     if not video_with_meta_batch:
         typer.echo(f'{red("❗ No video(s) to audit")}')
-        return
+        return missing
 
     label = label or 'Auditing'
     with typer.progressbar(video_with_meta_batch, label=f'{yellow(label)}', fill_char=click.style("█", fg="green"), show_pos=True) as bar:
@@ -787,6 +785,8 @@ def _audit_youtube_video(video_with_meta_batch: List[str], repair: bool = False,
                 else:
                     typer.echo(
                         f'❗ {blue(video_id)} {green(title)} {red("Unable to repair video")}')
+                    unrepaired += 1
+                    missing.append(video_id)
                     if clean:
                         _delete_youtube_video(video_with_meta)
                         typer.echo(
@@ -802,12 +802,13 @@ def _audit_youtube_video(video_with_meta_batch: List[str], repair: bool = False,
     typer.echo(
         f"✅ {red(unrepaired)} unrepaired, {green(repaired)} repaired, {yellow(cleaned)} cleaned")
 
+    return missing
+
 
 @app.command()
 def audit_youtube_video(video_id_batch: List[str], repair: bool = False, clean: bool = False, label=None):
     """Audit videos in the database"""
-    _audit_youtube_video(yt.get_video_from_db_batch(
-        video_id_batch, repair, clean, label))
+    return _audit_youtube_video(yt.get_video_from_db_batch(video_id_batch), repair, clean, label)
 
 
 @app.command()
