@@ -1,3 +1,4 @@
+from calendar import c
 import os
 import glob
 import pickle
@@ -102,27 +103,40 @@ def get_channel_from_youtube_batch(channel_id_batch):
 
     try:
         youtube = youtube_api()
-        request = youtube.channels().list(
-            part="snippet,contentDetails,statistics,brandingSettings",
-            id=channel_id_batch,
-            maxResults=50,
-        )
 
         channel_with_meta_batch = []
 
-        while request:
-            response = request.execute()
-            if 'items' not in response:
-                break
-            for channel in response['items']:
-                channel_with_meta = {}
-                channel_with_meta['_id'] = channel['id']
-                channel_with_meta['as_of'] = str(datetime.now())
-                channel_with_meta['channel'] = channel
-                channel_with_meta_batch.append(channel_with_meta)
-            request = youtube.channels().list_next(request, response)
+        N = 50
+        for i in range(0, len(channel_id_batch), N):
+
+            request = youtube.channels().list(
+                part="snippet,contentDetails,statistics,brandingSettings",
+                id=channel_id_batch[i:i+N],
+                maxResults=50,
+            )
+
+            while request:
+                response = request.execute()
+                if 'items' not in response:
+                    break
+                for channel in response['items']:
+                    channel_with_meta = {}
+                    channel_with_meta['_id'] = channel['id']
+                    channel_with_meta['as_of'] = str(datetime.now())
+                    channel_with_meta['channel'] = channel
+                    channel_with_meta_batch.append(channel_with_meta)
+                request = youtube.channels().list_next(request, response)
 
         return channel_with_meta_batch
+
+    except Exception as e:
+        Logger().exception(e)
+
+
+def get_all_channel_ids_from_db():
+
+    try:
+        return [channel['_id'] for channel in get_db().yt_channels.find()]
 
     except Exception as e:
         Logger().exception(e)
@@ -264,6 +278,15 @@ def save_channel_playlists_to_db_batch(channel_playlists_with_meta_batch, to_dis
         Logger().exception(e)
 
 
+def get_channel_videos_from_db(channel_id):
+
+    try:
+        return list(get_db().yt_videos.find({'video.channel_id': channel_id, }))
+
+    except Exception as e:
+        Logger().exception(e)
+
+
 def save_offline_channel_to_db(channel_id, as_of: datetime = None, is_auto: bool = False):
 
     try:
@@ -306,29 +329,29 @@ def get_playlist_from_youtube_batch(playlist_id_batch):
 
     try:
         youtube = youtube_api()
-        request = youtube.playlists().list(
-            id=playlist_id_batch,
-            part="id,snippet,contentDetails",
-            maxResults=50,
-        )
 
         playlist_with_meta_batch = []
 
-        while request:
+        N = 50
+        for i in range(0, len(playlist_id_batch), N):
 
-            response = request.execute()
+            request = youtube.playlists().list(
+                id=playlist_id_batch[i:i+N],
+                part="id,snippet,contentDetails",
+                maxResults=50,
+            )
 
-            if 'items' not in response:
-                break
-
-            for playlist in response['items']:
-                playlist_with_meta = {}
-                playlist_with_meta['_id'] = playlist['id']
-                playlist_with_meta['as_of'] = str(datetime.now())
-                playlist_with_meta['playlist'] = playlist
-                playlist_with_meta_batch.append(playlist_with_meta)
-
-            request = youtube.playlists().list_next(request, response)
+            while request:
+                response = request.execute()
+                if 'items' not in response:
+                    break
+                for playlist in response['items']:
+                    playlist_with_meta = {}
+                    playlist_with_meta['_id'] = playlist['id']
+                    playlist_with_meta['as_of'] = str(datetime.now())
+                    playlist_with_meta['playlist'] = playlist
+                    playlist_with_meta_batch.append(playlist_with_meta)
+                request = youtube.playlists().list_next(request, response)
 
         return playlist_with_meta_batch
 
@@ -515,12 +538,10 @@ def _expand_video_files(video_with_meta):
         video = video_with_meta['video']
         files = video['files']
 
-        uploader = video['uploader'] if 'uploader' in video else ''
-        channel_title = video['channel_title'] if video['channel_title'] else uploader
-
+        channel_title = video['channel_title'] if 'channel_title' in video else None
         if not channel_title:
             Logger().error(
-                f"No channel title for {video_with_meta}")
+                f"No channel title for {video_with_meta['_id']} ({video['channel_id']})")
             return None, None, None
 
         video_filename = os.path.join(settings.youtube_channels_dir,
@@ -905,7 +926,7 @@ def get_videos_for_audit():
         Logger().error(e)
 
 
-def save_video_to_db(video_with_meta, to_disk=True):
+def save_video_to_db(video_with_meta, to_disk=False):
 
     try:
 
