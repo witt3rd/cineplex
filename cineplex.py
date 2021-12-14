@@ -276,16 +276,18 @@ def ensure_youtube_channel_batch(id_batch):
 def sync_youtube_channel(channel_id_batch: List[str]):
     """Get a channel from YouTube and save it to the database."""
     channel_id_batch = list(channel_id_batch)
+    print(f"🔄 Syncing {len(channel_id_batch)} channels from YouTube...")
+
     channel_with_meta_batch = yt.get_channel_from_youtube_batch(
         channel_id_batch)
     if not channel_with_meta_batch:
         plural = 's' if len(channel_id_batch) > 1 else ''
-        typer.echo(
-            f"❗ {red('Channel' + plural + ' not found')}: {green(channel_id_batch)}")
+        msg = 'Channel' + plural + ' not found'
+        typer.echo(f"❗ {red(msg)}: {green(channel_id_batch)}")
         return
 
     yt.save_channel_to_db_batch(channel_with_meta_batch)
-    print_yt_channel_batch(channel_with_meta_batch)
+    typer.echo(f"✅ {green(len(channel_with_meta_batch))} channels synced")
 
     return channel_with_meta_batch
 
@@ -389,9 +391,14 @@ def show_youtube_channel_videos(channel_id_batch: List[str]):
 def sync_youtube_channel_uploads(channel_id_batch: List[str]):
     channel_id_batch = list(channel_id_batch)
     channel_with_meta_batch = ensure_youtube_channel_batch(channel_id_batch)
-    upload_playlist_id_batch = [
-        x['channel']['contentDetails']['relatedPlaylists']['uploads'] for x in channel_with_meta_batch]
-    return sync_youtube_playlist(upload_playlist_id_batch, with_items=True)
+
+    if not channel_with_meta_batch:
+        return
+
+    playlist_id_batch = [x['channel']['contentDetails']
+                         ['relatedPlaylists']['uploads'] for x in channel_with_meta_batch]
+
+    return sync_youtube_playlist(playlist_id_batch, with_items=True)
 
 
 @app.command()
@@ -420,12 +427,15 @@ def offline_youtube_channel_uploads(channel_id_batch: List[str] = [], sync: bool
     """Get offline channel"""
     channel_id_batch = list(channel_id_batch)
 
-    if not channel_id_batch and auto:
+    if not channel_id_batch:
+        if not auto:
+            typer.echo(f"❗ {red('No channel id specified')}")
+            return
+
         channel_id_batch = [x['_id']
                             for x in yt.get_offline_channels_from_db()]
 
-    channel_with_meta_batch = sync_my_youtube_channel(
-        channel_id_batch) if sync else ensure_youtube_channel_batch(channel_id_batch)
+    channel_with_meta_batch = ensure_youtube_channel_batch(channel_id_batch)
 
     if not channel_with_meta_batch:
         return
@@ -433,7 +443,7 @@ def offline_youtube_channel_uploads(channel_id_batch: List[str] = [], sync: bool
     playlist_id_batch = [x['channel']['contentDetails']
                          ['relatedPlaylists']['uploads'] for x in channel_with_meta_batch]
 
-    res = offline_youtube_playlist(playlist_id_batch, sync)
+    res = offline_youtube_playlist(playlist_id_batch, sync=sync)
 
     for id in [x['_id'] for x in channel_with_meta_batch]:
         yt.save_offline_channel_to_db(id, is_auto=auto)
@@ -478,7 +488,7 @@ def sync_youtube_playlist(playlist_id_batch: List[str], with_items: bool = False
     """Get playlist info from YouTube and save it to the database."""
     playlist_id_batch = list(playlist_id_batch)
     print(f"🔄 Syncing {len(playlist_id_batch)} playlists from YouTube...")
-    return
+
     playlist_with_meta_batch = yt.get_playlist_from_youtube_batch(
         playlist_id_batch)
     if not playlist_with_meta_batch:
@@ -488,7 +498,7 @@ def sync_youtube_playlist(playlist_id_batch: List[str], with_items: bool = False
         return
 
     yt.save_playlist_to_db_batch(playlist_with_meta_batch)
-    typer.echo(f"✅ Playlist {green(playlist_id_batch)} synced")
+    typer.echo(f"✅ {green(len(playlist_with_meta_batch))} plalists synced")
 
     if with_items:
         return sync_youtube_playlist_items(playlist_id_batch)
@@ -511,7 +521,11 @@ def offline_youtube_playlist(playlist_id_batch: List[str] = [], sync: bool = Fal
     """Get offline playlist"""
     playlist_id_batch = list(playlist_id_batch)
 
-    if not playlist_id_batch and auto:
+    if not playlist_id_batch:
+        if not auto:
+            typer.echo(f"❗ {red('Playlist id not found')}")
+            return
+
         playlist_id_batch = [x['_id']
                              for x in yt.get_offline_playlists_from_db()]
 
@@ -584,18 +598,18 @@ def sync_youtube_playlist_items(playlist_id: List[str]):
     playlist_id_batch = list(playlist_id)
     playlist_items_with_meta_batch = []
 
-    for playlist_id in playlist_id_batch:
-        playlist_items_with_meta = yt.get_playlist_items_from_youtube(
-            playlist_id)
-        if not playlist_items_with_meta:
-            msg = "Playlist not found"
-            typer.echo(f"❗ {red(msg)}: {green(playlist_id)}")
-            return
+    with typer.progressbar(playlist_id_batch, label='Syncing playlist items', fill_char=click.style("█", fg="green"), show_pos=True) as bar:
+        for playlist_id in bar:
+            playlist_items_with_meta = yt.get_playlist_items_from_youtube(
+                playlist_id)
+            if not playlist_items_with_meta:
+                msg = "Playlist not found"
+                typer.echo(f"❗ {red(msg)}: {green(playlist_id)}")
+                return
 
-        yt.save_playlist_items_to_db(playlist_items_with_meta)
-        typer.echo(f"✅ Playlist items {green(playlist_id_batch)} synced")
+            yt.save_playlist_items_to_db(playlist_items_with_meta)
 
-        playlist_items_with_meta_batch.append(playlist_items_with_meta)
+            playlist_items_with_meta_batch.append(playlist_items_with_meta)
 
     return playlist_items_with_meta_batch
 
@@ -722,12 +736,18 @@ def offline_youtube_video(video_id_batch: List[str], force: bool = False):
         typer.echo(
             f"❗ {red('Unable to download')} {blue(len(not_dl_id_batch))}: {green(not_dl_id_batch)}")
 
-    for dl_video_with_meta in dl_video_with_meta_batch:
-        id = dl_video_with_meta['_id']
-        video = dl_video_with_meta['video']
-        title = video['title']
-        typer.echo(f"⬇️ {blue(id)} {green(title)}")
-        verified_with_meta_batch.append(dl_video_with_meta)
+    if dl_video_with_meta_batch:
+        count = len(missing)
+        plural = 's' if count > 1 else ''
+        typer.echo(f"✅  Downloaded {blue(count)} video" + plural)
+        for dl_video_with_meta in dl_video_with_meta_batch:
+            id = dl_video_with_meta['_id']
+            video = dl_video_with_meta['video']
+            title = video['title']
+            typer.echo(f"⬇️  {blue(id)} {green(title)}")
+            verified_with_meta_batch.append(dl_video_with_meta)
+    else:
+        typer.echo(f"✅  Downloaded {red(0)} videos")
 
     return verified_with_meta_batch
 
