@@ -17,8 +17,8 @@ from cineplex.utils import (
 
 settings = Settings()
 
-videos_data_dir = os.path.join(settings.data_dir, 'yt_videos')
-os.makedirs(videos_data_dir, exist_ok=True)
+videos_bkp_dir = os.path.join(settings.bkp_dir, 'yt_videos')
+os.makedirs(videos_bkp_dir, exist_ok=True)
 
 os.makedirs(settings.tmp_dir, exist_ok=True)
 
@@ -426,7 +426,7 @@ def save_video_to_db(video_with_meta, to_disk=True):
         id = video_with_meta['_id']
 
         if to_disk:
-            with open(os.path.join(videos_data_dir, f'video_{id}.json'), 'w') as f:
+            with open(os.path.join(videos_bkp_dir, f'video_{id}.json'), 'w') as f:
                 json.dump(video_with_meta, f, indent=2)
 
         get_db().yt_videos.update_one(

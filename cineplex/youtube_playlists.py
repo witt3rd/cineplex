@@ -1,4 +1,5 @@
 import json
+from operator import mod
 import os
 from datetime import datetime
 from cineplex.youtube import youtube_api
@@ -8,12 +9,12 @@ from cineplex.config import Settings
 
 settings = Settings()
 
-yt_playlists_data_dir = os.path.join(settings.data_dir, 'yt_playlists')
-os.makedirs(yt_playlists_data_dir, exist_ok=True)
+yt_playlists_bkp_dir = os.path.join(settings.bkp_dir, 'yt_playlists')
+os.makedirs(yt_playlists_bkp_dir, exist_ok=True)
 
-yt_playlist_items_data_dir = os.path.join(
-    settings.data_dir, 'yt_playlist_items')
-os.makedirs(yt_playlist_items_data_dir, exist_ok=True)
+yt_playlist_items_bkp_dir = os.path.join(
+    settings.bkp_dir, 'yt_playlist_items')
+os.makedirs(yt_playlist_items_bkp_dir, exist_ok=True)
 
 
 def get_playlist_from_youtube(playlist_id):
@@ -89,7 +90,7 @@ def save_playlist_to_db(playlist_with_meta, to_disk=True):
         playlist_id = playlist_with_meta['_id']
 
         if to_disk:
-            with open(os.path.join(yt_playlists_data_dir, f"yt_playlist_{playlist_id}.json"), "w") as result:
+            with open(os.path.join(yt_playlists_bkp_dir, f"yt_playlist_{playlist_id}.json"), "w") as result:
                 json.dump(playlist_with_meta, result, indent=2)
 
         get_db().yt_playlists.update_one(
@@ -190,7 +191,7 @@ def save_playlist_items_to_db(playlist_items_with_meta, to_disk=True):
         playlist_id = playlist_items_with_meta['_id']
 
         if to_disk:
-            with open(os.path.join(yt_playlist_items_data_dir, f"yt_playlist_items_{playlist_id}.json"), "w") as result:
+            with open(os.path.join(yt_playlist_items_bkp_dir, f"yt_playlist_items_{playlist_id}.json"), "w") as result:
                 json.dump(playlist_items_with_meta, result, indent=2)
 
         get_db().yt_playlist_items.update_one(
@@ -204,3 +205,26 @@ def save_playlist_items_to_db_batch(playlist_items_with_meta_batch, to_disk=True
 
     for playlist_items_with_meta in playlist_items_with_meta_batch:
         save_playlist_items_to_db(playlist_items_with_meta, to_disk)
+
+
+def save_offline_playlist_to_db(playlist_id, as_of: datetime = None):
+
+    try:
+        res = get_db().yt_playlists.update_one(
+            {'_id': playlist_id},
+            {'$set': {'offline': True,
+                      'offline_as_of': as_of if as_of else str(datetime.now())}},
+        )
+        return res.modified_count
+
+    except Exception as e:
+        Logger().exception(e)
+
+
+def get_offline_playlists_from_db():
+
+    try:
+        return list(get_db().yt_playlists.find({'offline': True}))
+
+    except Exception as e:
+        Logger().exception(e)

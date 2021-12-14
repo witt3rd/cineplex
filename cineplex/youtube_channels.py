@@ -11,12 +11,12 @@ from cineplex.config import Settings
 
 settings = Settings()
 
-yt_channels_data_dir = os.path.join(settings.data_dir, 'yt_channels')
-os.makedirs(yt_channels_data_dir, exist_ok=True)
+yt_channels_bkp_dir = os.path.join(settings.bkp_dir, 'yt_channels')
+os.makedirs(yt_channels_bkp_dir, exist_ok=True)
 
-yt_channel_playlists_data_dir = os.path.join(
-    settings.data_dir, 'yt_channel_playlists')
-os.makedirs(yt_channel_playlists_data_dir, exist_ok=True)
+yt_channel_playlists_bkp_dir = os.path.join(
+    settings.bkp_dir, 'yt_channel_playlists')
+os.makedirs(yt_channel_playlists_bkp_dir, exist_ok=True)
 
 
 def get_channel_from_youtube(channel_id):
@@ -82,7 +82,7 @@ def save_channel_to_db(channel_with_meta, to_disk=True):
         channel_id = channel_with_meta['_id']
 
         if to_disk:
-            with open(os.path.join(yt_channels_data_dir, f"yt_channel_{channel_id}.json"), "w") as result:
+            with open(os.path.join(yt_channels_bkp_dir, f"yt_channel_{channel_id}.json"), "w") as result:
                 json.dump(channel_with_meta, result, indent=2)
 
         get_db().yt_channels.update_one(
@@ -149,7 +149,7 @@ def get_channel_playlists_from_db(channel_id):
         return get_db().yt_channel_playlists.find_one({'_id': channel_id})
 
     except Exception as e:
-        Logger.exception(e)
+        Logger().exception(e)
 
 
 def get_channel_playlists_from_db_batch(channel_id_batch):
@@ -161,16 +161,16 @@ def get_channel_playlists_from_db_batch(channel_id_batch):
         return list(channels_cursor)
 
     except Exception as e:
-        Logger.exception(e)
+        Logger().exception(e)
 
 
-def save_channel_playlists(channel_playlists_with_meta, to_disk=True):
+def save_channel_playlists_to_db(channel_playlists_with_meta, to_disk=True):
 
     try:
         channel_id = channel_playlists_with_meta['_id']
 
         if to_disk:
-            with open(os.path.join(yt_channel_playlists_data_dir, f"yt_channel_playlists_{channel_id}.json"), "w") as result:
+            with open(os.path.join(yt_channel_playlists_bkp_dir, f"yt_channel_playlists_{channel_id}.json"), "w") as result:
                 json.dump(channel_playlists_with_meta, result, indent=2)
 
         get_db().yt_channel_playlists.update_one(
@@ -178,14 +178,37 @@ def save_channel_playlists(channel_playlists_with_meta, to_disk=True):
             {'$set': channel_playlists_with_meta}, upsert=True)
 
     except Exception as e:
-        Logger.exception(e)
+        Logger().exception(e)
 
 
-def save_channel_playlists_batch(channel_playlists_with_meta_batch, to_disk=True):
+def save_channel_playlists_to_db_batch(channel_playlists_with_meta_batch, to_disk=True):
 
     try:
         for channel_playlists_with_meta in channel_playlists_with_meta_batch:
-            save_channel_playlists(channel_playlists_with_meta, to_disk)
+            save_channel_playlists_to_db(channel_playlists_with_meta, to_disk)
 
     except Exception as e:
-        Logger.exception(e)
+        Logger().exception(e)
+
+
+def save_offline_channel_to_db(channel_id, as_of: datetime = None):
+
+    try:
+        res = get_db().yt_channels.update_one(
+            {'_id': channel_id},
+            {'$set': {'offline': True,
+                      'offline_as_of': as_of if as_of else str(datetime.now())}},
+        )
+        return res.modified_count
+
+    except Exception as e:
+        Logger().exception(e)
+
+
+def get_offline_channels_from_db():
+
+    try:
+        return list(get_db().yt_channels.find({'offline': True}))
+
+    except Exception as e:
+        Logger().exception(e)
