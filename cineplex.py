@@ -423,7 +423,7 @@ def show_my_youtube_channel_uploads():
 
 
 @app.command()
-def offline_youtube_channel_uploads(channel_id_batch: List[str] = [], sync: bool = False, auto: bool = False):
+def offline_youtube_channel_uploads(channel_id_batch: List[str] = [], sync: bool = False, auto: bool = False, audit: bool = False):
     """Get offline channel"""
     channel_id_batch = list(channel_id_batch)
 
@@ -443,7 +443,7 @@ def offline_youtube_channel_uploads(channel_id_batch: List[str] = [], sync: bool
     playlist_id_batch = [x['channel']['contentDetails']
                          ['relatedPlaylists']['uploads'] for x in channel_with_meta_batch]
 
-    res = offline_youtube_playlist(playlist_id_batch, sync=sync)
+    res = offline_youtube_playlist(playlist_id_batch, sync=sync, audit=audit)
 
     for id in [x['_id'] for x in channel_with_meta_batch]:
         yt.save_offline_channel_to_db(id, is_auto=auto)
@@ -517,7 +517,7 @@ def show_youtube_playlist(playlist_id_batch: List[str]):
 
 
 @app.command()
-def offline_youtube_playlist(playlist_id_batch: List[str] = [], sync: bool = False, auto: bool = False):
+def offline_youtube_playlist(playlist_id_batch: List[str] = [], sync: bool = False, auto: bool = False, audit: bool = False):
     """Get offline playlist"""
     playlist_id_batch = list(playlist_id_batch)
 
@@ -528,6 +528,8 @@ def offline_youtube_playlist(playlist_id_batch: List[str] = [], sync: bool = Fal
 
         playlist_id_batch = [x['_id']
                              for x in yt.get_offline_playlists_from_db()]
+
+    typer.echo(f"💡 Offlining {blue(len(playlist_id_batch))} playlist(s)")
 
     playlist_items_with_meta_batch = sync_youtube_playlist(
         playlist_id_batch, with_items=True) if sync else ensure_youtube_playlist_items_batch(playlist_id_batch)
@@ -545,7 +547,7 @@ def offline_youtube_playlist(playlist_id_batch: List[str] = [], sync: bool = Fal
         typer.echo(f"❗ {red(msg)}: {green(playlist_id_batch)}")
         return
 
-    res = offline_youtube_video(video_id_batch)
+    res = offline_youtube_video(video_id_batch, audit=audit)
 
     for id in [x['_id'] for x in playlist_items_with_meta_batch]:
         yt.save_offline_playlist_to_db(id, is_auto=auto)
@@ -693,23 +695,22 @@ def _download_youtube_video_ray(video_id):
 
 
 @app.command()
-def offline_youtube_video(video_id_batch: List[str], force: bool = False):
+def offline_youtube_video(video_id_batch: List[str], force: bool = False, audit: bool = False):
     """Download a video from YouTube and place it in its channel's folder."""
     video_id_batch = list(video_id_batch)
 
     if not force:
-        # verify any videos that are already in the database
+        typer.echo(f"💡 Processing {blue(len(video_id_batch))} video(s)")
         video_with_meta_batch = yt.get_video_from_db_batch(video_id_batch)
         missing, found = _missing_found(video_id_batch, video_with_meta_batch)
-        missing.extend(audit_youtube_video(found, repair=True, clean=True))
+        if audit:
+            missing.extend(audit_youtube_video(found, repair=True, clean=True))
 
         verified_with_meta_batch = [
             x for x in video_with_meta_batch if x['_id'] not in missing]
 
-        count = len(verified_with_meta_batch)
-        plural = 's' if count > 1 else ''
         typer.echo(
-            f"✅ Verified {blue(len(verified_with_meta_batch))} video" + plural)
+            f"✅ {blue(len(verified_with_meta_batch))} verified {red(len(missing))} missing")
 
         if not missing:
             return verified_with_meta_batch
