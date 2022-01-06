@@ -1,26 +1,47 @@
-from calendar import c
+from operator import sub
 import os
 import glob
 import pickle
 import json
+from bson import ObjectId
 import os
 import re
 from datetime import datetime
+import time
+#
 import pymongo
-import click
+import typer
 import yt_dlp
-from cineplex.db import get_db
+#
+from typing import TypeVar, List, Set, Union
+from pydantic import BaseModel, Field
+from functools import singledispatch
+#
+import ray
+from ray import serve
+from fastapi import FastAPI
+#
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
+from googleapiclient.discovery import build
+#
+from cineplex.db import PyObjectId, get_db
+
 from cineplex.logger import Logger
 from cineplex.config import Settings
 from cineplex.utils import (
     IMAGE_EXTS,
     VIDEO_EXTS,
-    move_file
+    move_file,
+    ensure_batch,
+    green,
+    blue,
+    yellow,
+    red,
+    magenta
 )
 
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
-from googleapiclient.discovery import build
+cli = typer.Typer()
 
 
 settings = Settings()
@@ -29,68 +50,550 @@ settings = Settings()
 # Paths
 #
 
-os.makedirs(settings.tmp_dir, exist_ok=True)
-
-yt_channels_bkp_dir = os.path.join(settings.bkp_dir, 'yt_channels')
-os.makedirs(yt_channels_bkp_dir, exist_ok=True)
-
-yt_channel_playlists_bkp_dir = os.path.join(
-    settings.bkp_dir, 'yt_channel_playlists')
-os.makedirs(yt_channel_playlists_bkp_dir, exist_ok=True)
-
-yt_playlists_bkp_dir = os.path.join(settings.bkp_dir, 'yt_playlists')
-os.makedirs(yt_playlists_bkp_dir, exist_ok=True)
-
-yt_playlist_items_bkp_dir = os.path.join(settings.bkp_dir, 'yt_playlist_items')
-os.makedirs(yt_playlist_items_bkp_dir, exist_ok=True)
-
 videos_bkp_dir = os.path.join(settings.bkp_dir, 'yt_videos')
 os.makedirs(videos_bkp_dir, exist_ok=True)
 
 
 #
-# YouTube API
+# Video model
 #
 
-scopes = ["https://www.googleapis.com/auth/youtube"]
+
+class VideoId(str):
+
+    @classmethod
+    def __get_validators__(cls):
+        yield cls.validate
+
+    @classmethod
+    def validate(cls, v):
+        if not isinstance(v, str):
+            raise TypeError('string required')
+        if not len(v) == 11:
+            raise ValueError('invalid video id')
+        return cls(v)
+
+    def __repr__(self):
+        return f'VideoId({super().__repr__()})'
 
 
-def youtube_api():
-    # Disable OAuthlib's HTTPS verification when running locally.
-    # *DO NOT* leave this option enabled in production.
-    os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
+class Video(BaseModel):
+    id: VideoId
+    title: str
+    description: str
 
-    api_service_name = "youtube"
-    api_version = "v3"
-    client_secrets_file = "youtube.keys.json"
-    token_file = "token.pickle"
-    credentials = None
 
-    if os.path.exists(token_file):
-        with open(token_file, "rb") as token:
-            credentials = pickle.load(token)
+#
+# Videos
+#
 
-    if not credentials or not credentials.valid:
-        if credentials and credentials.expired and credentials.refresh_token:
-            credentials.refresh(Request())
+
+@cli.command()
+def show_youtube_video(video_id_batch: List[str]):
+    """Show a video from the database."""
+    video_id_batch = list(video_id_batch)
+    video_with_meta_batch = yt.get_video_from_db_batch(video_id_batch)
+    missing, found = missing_found(video_id_batch, video_with_meta_batch)
+    if found:
+        print_yt_video_batch(
+            [x for x in video_with_meta_batch if x['_id'] in found])
+    if missing:
+        plural = 's' if len(video_id_batch) > 1 else ''
+        typer.echo(
+            f"💡 {yellow('Video' + plural + ' not in db')} {green(missing)}")
+
+
+def _refresh_video_info(info_file):
+
+    video_with_meta = yt.extract_video_info_from_file(info_file)
+    if video_with_meta is None:
+        return info_file
+
+    yt.save_video_to_db(video_with_meta, False)
+    return None
+
+
+def _delete_youtube_video(video_with_meta):
+    yt.delete_video_files(video_with_meta)
+    yt.delete_video_from_db(video_with_meta['_id'])
+
+
+@cli.command()
+def delete_youtube_video(video_id_batch: List[str]):
+    """Delete a video from the database and its files."""
+    video_with_meta_batch = yt.get_video_from_db_batch(video_id_batch)
+    if not video_with_meta_batch:
+        typer.echo(f'{red("❗ No video(s) to delete")}')
+        return
+
+    typer.echo(
+        f'deleting {blue(len(video_with_meta_batch))} video(s)')
+
+    typer.confirm('Do you want to continue?', abort=True)
+
+    with typer.progressbar(video_with_meta_batch, label='Deleting', fill_char=typer.style(
+            "█", fg="red"),
+            show_percent=True, show_pos=True, show_eta=True) as video_with_meta_bar:
+        for video_with_meta in video_with_meta_bar:
+            _delete_youtube_video(video_with_meta)
+
+
+def _download_youtube_video(video_id, show_progress=True):
+    video_url = f'https://www.youtube.com/watch?v={video_id}'
+    video_with_meta = yt.get_video_from_youtube(video_url, show_progress)
+    if video_with_meta:
+        yt.save_video_to_db(video_with_meta)
+    return video_with_meta
+
+
+@ray.remote
+def _download_youtube_video_ray(video_id):
+    return _download_youtube_video(video_id, False)
+
+
+@cli.command()
+def offline_youtube_video(video_id_batch: List[str], force: bool = False, audit: bool = False):
+    """Download a video from YouTube and place it in its channel's folder."""
+    video_id_batch = list(video_id_batch)
+
+    if not force:
+        typer.echo(f"💡 Processing {blue(len(video_id_batch))} video(s)")
+        video_with_meta_batch = yt.get_video_from_db_batch(video_id_batch)
+        missing, found = missing_found(video_id_batch, video_with_meta_batch)
+        if audit:
+            missing.extend(audit_youtube_video(found, repair=True, clean=True))
+
+        verified_with_meta_batch = [
+            x for x in video_with_meta_batch if x['_id'] not in missing]
+
+        typer.echo(
+            f"✅ {blue(len(verified_with_meta_batch))} verified {red(len(missing))} missing")
+
+        if not missing:
+            return verified_with_meta_batch
+    else:
+        missing = video_id_batch
+        verified_with_meta_batch = []
+
+    count = len(missing)
+    plural = 's' if count > 1 else ''
+    typer.echo(
+        f"💡 {yellow('Downloading')} {blue(count)} video" + plural)
+
+    if len(missing) > 1:
+        ray.init()
+        futures = [_download_youtube_video_ray.remote(x) for x in missing]
+        dl_video_with_meta_batch = [x for x in ray.get(futures) if x]
+    else:
+        res = _download_youtube_video(missing[0])
+        dl_video_with_meta_batch = [res] if res else []
+
+    not_dl_id_batch, _ = missing_found(missing, dl_video_with_meta_batch)
+
+    if not_dl_id_batch:
+        typer.echo(
+            f"❗ {red('Unable to download')} {blue(len(not_dl_id_batch))}: {green(not_dl_id_batch)}")
+
+    if dl_video_with_meta_batch:
+        count = len(missing)
+        plural = 's' if count > 1 else ''
+        typer.echo(f"✅  Downloaded {blue(count)} video" + plural)
+        for dl_video_with_meta in dl_video_with_meta_batch:
+            id = dl_video_with_meta['_id']
+            video = dl_video_with_meta['video']
+            title = video['title']
+            typer.echo(f"⬇️  {blue(id)} {green(title)}")
+            verified_with_meta_batch.append(dl_video_with_meta)
+    else:
+        typer.echo(f"✅  Downloaded {red(0)} videos")
+
+    return verified_with_meta_batch
+
+
+#
+# Search
+#
+
+@cli.command()
+def search(query):
+    """Search videos in the database"""
+    video_with_meta_batch = yt.search_db(query)
+    if not video_with_meta_batch:
+        typer.echo(f'{red("❗ No video(s) to found")}')
+        return
+
+    typer.echo(
+        f'found {blue(len(video_with_meta_batch))} video(s) with metadata')
+
+    for video_with_meta in video_with_meta_batch:
+        video_id = video_with_meta['_id']
+        title = video_with_meta['video']['title']
+        typer.echo(f'✅ {blue(video_id)} {green(title)}')
+
+
+#
+# Audit (data integrity)
+#
+
+def _audit_youtube_video(video_with_meta_batch: List[str], repair: bool = False, clean: bool = False, label=None):
+
+    missing = []
+
+    if not video_with_meta_batch:
+        typer.echo(f'{red("❗ No video(s) to audit")}')
+        return missing
+
+    label = label or 'Auditing'
+    with typer.progressbar(video_with_meta_batch, label=f'{yellow(label)}', fill_char=typer.style("█", fg="green"), show_pos=True) as bar:
+
+        unrepaired = 0
+        repaired = 0
+        cleaned = 0
+        for video_with_meta in bar:
+            video_id = video_with_meta['_id']
+            title = video_with_meta['video']['title']
+            if yt.audit_video_files(video_with_meta):
+                continue
+            if repair:
+                new_video_with_meta = _download_youtube_video(video_id)
+                if new_video_with_meta:
+                    typer.echo(
+                        f'✅ {blue(video_id)} {green(title)} Repaired missing files')
+                    repaired += 1
+                else:
+                    typer.echo(
+                        f'❗ {blue(video_id)} {green(title)} {red("Unable to repair video")}')
+                    unrepaired += 1
+                    missing.append(video_id)
+                    if clean:
+                        _delete_youtube_video(video_with_meta)
+                        typer.echo(
+                            f'🗑 {blue(video_id)} {green(title)} Cleaned')
+                        cleaned += 1
+            else:
+                typer.echo(
+                    f'❗ {blue(video_id)} {green(title)} {red("Missing files (no repair)")}')
+                if clean:
+                    _delete_youtube_video(video_with_meta)
+                    typer.echo(f'🗑 {blue(video_id)} {green(title)} Cleaned')
+                    cleaned += 1
+    typer.echo(
+        f"✅ {red(unrepaired)} unrepaired, {green(repaired)} repaired, {yellow(cleaned)} cleaned")
+
+    return missing
+
+
+@cli.command()
+def audit_youtube_video(video_id_batch: List[str], repair: bool = False, clean: bool = False, label=None):
+    """Audit videos in the database"""
+    return _audit_youtube_video(yt.get_video_from_db_batch(video_id_batch), repair, clean, label)
+
+
+@cli.command()
+def audit_all_youtube_videos():
+    """Audit videos in the database"""
+    channel_files = get_all_files(settings.youtube_channels_dir)
+    with open(os.path.join(settings.data_dir, 'channel_files.json'), 'r') as infile:
+        channel_files = json.load(infile)
+
+    with open(os.path.join(settings.data_dir, 'channel_files.json'), 'w') as outfile:
+        json.dump(channel_files, outfile)
+    # with open(os.path.join(settings.data_dir, 'bad_metadata.json'), 'r') as infile:
+    #     channel_files = json.load(infile)
+
+    typer.echo(
+        f'found {blue(len(channel_files))} files in {green(settings.youtube_channels_dir)}')
+
+    info_files = [x for x in channel_files if x.endswith('.info.json')]
+
+    typer.echo(f'found {blue(len(info_files))} metadata files')
+
+    bad_metadata = []
+    for x in info_files:
+        res = _refresh_video_info(x)  # .remote(x)
+        if not res:
+            typer.echo(f'✅ Refreshed {green(x)}')
         else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                client_secrets_file, scopes)
-            credentials = flow.run_local_server(
-                port=8080, prompty="consent", authorization_prompt_message="")
+            typer.echo(
+                f'❗ {red("Unable to refresh video")} {blue(x)}')
+            bad_metadata.append(res)
 
-        with open(token_file, "wb") as token:
-            pickle.dump(credentials, token)
+    with open(os.path.join(settings.data_dir, 'bad_metadata.json'), 'w') as outfile:
+        json.dump(bad_metadata, outfile)
 
-    youtube = build(
-        api_service_name, api_version, credentials=credentials)
+    typer.echo(f'found {blue(len(bad_metadata))} bad metadata')
 
-    return youtube
 
+@cli.command()
+def audit_youtube_channel_videos(channel_id_batch: List[str]):
+    """List videos for a channel from the database."""
+    for channel_id in channel_id_batch:
+        channel_with_meta = yt.get_channel_from_db(channel_id)
+        if not channel_with_meta:
+            msg = "Channel not found"
+            typer.echo(f"❗ {red(msg)}: {green(channel_id)}")
+            continue
+        channel_title = channel_with_meta['channel']['snippet']['title']
+        video_with_meta_batch = yt.get_channel_videos_from_db(channel_id)
+        count = 0
+        with typer.progressbar(video_with_meta_batch, label=f'{yellow(channel_title)}', fill_char=typer.style("█", fg="green"), show_pos=True) as bar:
+            for video_with_meta in bar:
+                id = video_with_meta['_id']
+                video = video_with_meta['video']
+                title = video['title']
+                video_channel_title = video['channel_title']
+                if video_channel_title != channel_title:
+                    typer.echo(
+                        f"❗ Repairing channel title: {blue(id)} {green(title)} {red(video_channel_title)} != {green(channel_title)}")
+                    video['channel_title'] = channel_title
+                    yt.save_video_to_db(video_with_meta)
+                    count += 1
+        if count:
+            typer.echo(
+                f"✅ {blue(count)} channel titles repaired for {green(channel_title)}")
+        else:
+            print(f"✅ No channel titles repaired for {green(channel_title)}")
+
+        _audit_youtube_video(video_with_meta_batch,
+                             repair=True, clean=True, label=channel_title)
+
+
+@cli.command()
+def audit_all_youtube_channel_videos():
+    """Audit all videos for a channel from the database."""
+    return(audit_youtube_channel_videos(yt.get_all_channel_ids_from_db()))
+
+
+@cli.command()
+def repair_all():
+
+    with open(os.path.join(settings.data_dir, 'bad_db_videos.json'), 'r') as infile:
+        bad = json.load(infile)
+
+    for video_id in bad:
+        audit_youtube_video([video_id], repair=True, clean=True)
+
+
+@cli.command()
+def audit_youtube_db(repair: bool = False, clean: bool = False):
+    """Audit videos in the database"""
+    for video in yt.get_videos_for_audit():
+        if not yt.audit_video_files(video):
+            audit_youtube_video(video['_id'], repair, clean)
+
+
+# def print_yt_channel_batch(channel_with_meta_batch):
+#     for channel_with_meta in channel_with_meta_batch:
+#         print_yt_channel(channel_with_meta)
+
+
+# def print_yt_channel_playlists(channel_playlists_with_meta):
+#     channel_id = channel_playlists_with_meta['_id']
+#     as_of = channel_playlists_with_meta['as_of']
+#     playlists = channel_playlists_with_meta['playlists']
+
+#     typer.echo(
+#         f"📝 YouTube playlists for {green(channel_id)} as of {green(as_of)}:")
+
+#     # sort by item count
+#     playlists.sort(key=lambda x: x['contentDetails']
+#                    ['itemCount'], reverse=True)
+
+#     for playlist in playlists:
+#         id = playlist['id']
+#         snippet = playlist['snippet']
+#         contentDetails = playlist['contentDetails']
+#         typer.echo(
+#             f'{id}: {green(snippet["title"])} ({blue(contentDetails["itemCount"])})')
+
+
+# def print_yt_channel_playlists_batch(channel_playlists_with_meta_batch):
+#     for channel_playlists_with_meta in channel_playlists_with_meta_batch:
+#         print_yt_channel_playlists(channel_playlists_with_meta)
+
+
+# def print_yt_playlist(playlist_with_meta):
+#     playlist_id = playlist_with_meta['_id']
+#     as_of = playlist_with_meta['as_of']
+#     playlist = playlist_with_meta['playlist']
+#     snippet = playlist['snippet']
+#     contentDetails = playlist['contentDetails']
+
+#     typer.echo(
+#         f"📝 YouTube playlist {green(playlist_id)} as of {green(as_of)}:")
+#     typer.echo(f"- Title        : {green(snippet['title'])}")
+#     typer.echo(f"- Published at : {green(snippet['publishedAt'])}")
+#     typer.echo(f"- Description  : {green(snippet['description'])}")
+#     typer.echo(f"- Channel title: {green(snippet['channelTitle'])}")
+#     typer.echo(f"- Item count   : {green(contentDetails['itemCount'])}")
+
+
+# def print_yt_playlist_batch(playlist_with_meta_batch):
+#     for playlist_with_meta in playlist_with_meta_batch:
+#         print_yt_playlist(playlist_with_meta)
+
+
+# def print_yt_playlist_items(playlist_items_with_meta):
+#     playlist_id = playlist_items_with_meta['_id']
+#     as_of = playlist_items_with_meta['as_of']
+#     items = playlist_items_with_meta['items']
+
+#     typer.echo(
+#         f"📝 YouTube playlist items for {green(playlist_id)} as of {blue(as_of)}:")
+
+#     # sort items by position
+#     items.sort(key=lambda x: x['snippet']['position'])
+
+#     for item in items:
+#         snippet = item['snippet']
+#         pos = blue(f"{snippet['position']:04d}")
+#         video_id = green(snippet['resourceId']['videoId'])
+#         channel_title = yellow(snippet['channelTitle'])
+#         title = green(snippet['title'])
+#         published_at = blue(f"{snippet['publishedAt']}")
+#         typer.echo(
+#             f"{pos}) {video_id}: {channel_title}: {title} @ {published_at}")
+
+
+# def print_yt_playlist_items_batch(playlist_items_with_meta_batch):
+#     for playlist_items_with_meta in playlist_items_with_meta_batch:
+#         print_yt_playlist_items(playlist_items_with_meta)
+
+
+# def print_yt_video(video_with_meta):
+
+#     id = green(video_with_meta['_id'])
+#     video = video_with_meta['video']
+#     files = video['files']
+#     title = green(video['title'])
+#     description = green(video['description'])
+#     tags = green(video['tags'])
+#     categories = green(video['categories'])
+#     channel_id = green(video['channel_id'])
+#     channel_title = green(video['channel_title'])
+#     uploader = green(video['uploader'])
+#     uploader_id = green(video['uploader_id'])
+#     upload_date = blue(video['upload_date'])
+#     duration_seconds = green(video['duration_seconds'])
+#     view_count = green(video['view_count'])
+#     like_count = green(video['like_count'])
+#     dislike_count = green(video['dislike_count'])
+#     average_rating = green(video['average_rating'])
+#     video_filename = green(files['video_filename'])
+#     info_filename = green(files['info_filename'])
+#     thumbnail_filename = green(files['thumbnail_filename'])
+
+#     typer.echo(
+#         f"📼 {id}: {title} @ {upload_date}")
+#     typer.echo(f"- Description  : {description}")
+#     typer.echo(f"- Tags         : {tags}")
+#     typer.echo(f"- Categories   : {categories}")
+#     typer.echo(f"- Channel      : {channel_id} ({channel_title})")
+#     typer.echo(f"- Uploader     : {uploader} ({uploader_id})")
+#     typer.echo(f"- Duration     : {duration_seconds}s")
+#     typer.echo(f"- Views        : {view_count}")
+#     typer.echo(f"- Likes        : 👍🏻 {like_count} / 👎🏻 {dislike_count}")
+#     typer.echo(f"- Rating       : {average_rating}")
+#     typer.echo(f"- Video file   : {video_filename}")
+#     typer.echo(f"- Info file    : {info_filename}")
+#     typer.echo(f"- Thumbnail    : {thumbnail_filename}")
+
+
+# def print_yt_video_batch(video_with_meta_batch):
+#     for video_with_meta in video_with_meta_batch:
+#         print_yt_video(video_with_meta)
+
+
+# def print_auto_offline_batch(item_with_meta_batch, kind: str):
+#     if not item_with_meta_batch:
+#         typer.echo(f"💡 {yellow('You have no auto offline ' + kind + 's')}")
+#         return
+
+#     # item_with_meta_batch.sort(key=lambda x: x['offline_as_of'])
+
+#     for item_with_meta in item_with_meta_batch:
+#         id = item_with_meta['_id']
+#         title = item_with_meta[kind]['snippet']['title']
+#         as_of = item_with_meta['offline_as_of']
+#         typer.echo(f"{magenta(as_of)} {blue(id)} {green(title)}")
+
+
+# @singledispatch
+# def ensure(Id, force: bool = False):
+#     raise NotImplementedError(Id)
 
 #
 # Channels
 #
+
+@show.register
+def show(entity: Channel) -> None:
+    typer.echo(
+        f"📺 YouTube channel {green(entity.id)} as of {green(entity.as_of)}:")
+    typer.echo(f'- Title       : {green(entity.title)}')
+    typer.echo(f'- Description : {green(entity.description)}')
+    typer.echo(f'- Published at: {green(entity.publishedAt)}')
+    typer.echo(f'- Subscribers : {green(entity.subscriberCount)}')
+    typer.echo(f'- Views       : {green(entity.viewCount)}')
+    typer.echo(f'- Videos      : {green(entity.videoCount)}')
+
+    # brandingSettings = channel['brandingSettings']
+    # branding_channel = brandingSettings['channel']
+    # if 'title' in branding_channel:
+    #     typer.echo(
+    #         f"- Title (B)   : {green(branding_channel['title'])}")
+    # if 'description' in branding_channel:
+    #     typer.echo(
+    #         f"- Desc. (B)   : {green(branding_channel['description'])}")
+    # if 'keywords' in branding_channel:
+    #     typer.echo(
+    #         f"- Keywords (B): {green(branding_channel['keywords'])}")
+
+
+@get_from_db.register(ChannelId)
+def _(id: ChannelId) -> Channel:
+
+    try:
+        return get_db().yt_channels.find_one({'_id': id})
+
+    except Exception as e:
+        Logger().exception(e)
+
+# @ensure.register(ChannelId)
+
+
+def ensure_channel(id, force: bool = False):
+    return ensure_batch(id_batch, yt.get_channel_from_db_batch, sync_youtube_channel_batch, force)
+
+
+def sync_channel_batch(channel_id_batch: List[str]):
+    """Get a channel from YouTube and save it to the database."""
+    channel_id_batch = list(channel_id_batch)
+    print(f"🔄 Syncing {len(channel_id_batch)} channels from YouTube...")
+
+    channel_with_meta_batch = yt.get_channel_from_youtube_batch(
+        channel_id_batch)
+    if not channel_with_meta_batch:
+        plural = 's' if len(channel_id_batch) > 1 else ''
+        msg = 'Channel' + plural + ' not found'
+        typer.echo(f"❗ {red(msg)}: {green(channel_id_batch)}")
+        return
+
+    yt.save_channel_to_db_batch(channel_with_meta_batch)
+    typer.echo(f"✅ {green(len(channel_with_meta_batch))} channels synced")
+
+    return channel_with_meta_batch
+
+
+def sync_channel(channel_id: str):
+    res = sync_channel_batch([channel_id])
+    return res[0] if res else None
+
+
+def sync_my_channel():
+    """Get my channel from YouTube and save it to the database."""
+    res = sync_channel_batch([settings.my_youtube_channel_id])
+    return res[0] if res else None
 
 
 def get_channel_from_youtube(channel_id):
@@ -137,15 +640,6 @@ def get_all_channel_ids_from_db():
 
     try:
         return [channel['_id'] for channel in get_db().yt_channels.find()]
-
-    except Exception as e:
-        Logger().exception(e)
-
-
-def get_channel_from_db(channel_id):
-
-    try:
-        return get_db().yt_channels.find_one({'_id': channel_id})
 
     except Exception as e:
         Logger().exception(e)
@@ -528,9 +1022,96 @@ def get_offline_playlists_from_db():
         Logger().exception(e)
 
 
+def add_item_to_youtube_playlist(playlist_id, item_id):
+
+    try:
+        youtube = youtube_api()
+        request = youtube.playlistItems().insert(
+            part="snippet",
+            body={
+                "snippet": {
+                    "playlistId": playlist_id,
+                    "resourceId": {
+                        "kind": "youtube#video",
+                        "videoId": item_id
+                    }
+                }
+            }
+        )
+        res = request.execute()
+
+        Logger().info(
+            f"Added item {item_id} to playlist {playlist_id}: {res}")
+
+        return res
+
+    except Exception as e:
+        Logger().exception(e)
+
+
+def add_item_to_youtube_playlist_batch(playlist_id, item_id_batch):
+
+    try:
+        for item_id in item_id_batch:
+            res = add_item_to_youtube_playlist(playlist_id, item_id)
+            print(
+                f"Batch: Added item {item_id} to playlist {playlist_id}: {res}")
+            # avoid rate limit
+            time.sleep(1)
+
+    except Exception as e:
+        Logger().exception(e)
+
+
+def get_playlist_merges_from_db(target_playlist_id=None):
+
+    try:
+        return list(get_db().yt_playlist_merges.find({'target_playlist_id': target_playlist_id}))
+
+    except Exception as e:
+        Logger().exception(e)
+
+
+def add_playlist_merge_to_db(target_playlist_id, source_playlist_id, as_of: datetime = None):
+
+    try:
+        res = get_db().yt_playlist_merges.insert_one(
+            {'target_playlist_id': target_playlist_id,
+                'source_playlist_id': source_playlist_id},
+            {'$set': {'as_of': as_of if as_of else str(datetime.now())}},
+        )
+        return res.inserted_id
+
+    except Exception as e:
+        Logger().exception(e)
+
+
+def update_playlist_merge_to_db(target_playlist_id, source_playlist_id, as_of: datetime = None):
+
+    try:
+        res = get_db().yt_playlist_merges.update_one(
+            {'target_playlist_id': target_playlist_id,
+                'source_playlist_id': source_playlist_id},
+            {'$set': {'as_of': as_of if as_of else str(datetime.now())}},
+        )
+        return res.modified_count
+
+    except Exception as e:
+        Logger().exception(e)
+
+    try:
+        get_db().yt_playlist_merges.update_one(
+            {'target_playlist_id': target_playlist_id,
+             'source_playlist_id': source_playlist_id},
+            {'$set': {'status': status}}
+        )
+
+    except Exception as e:
+        Logger().exception(e)
 #
 # Videos
 #
+
 
 def _expand_video_files(video_with_meta):
 
@@ -787,8 +1368,8 @@ class MyLogger:
 
             if self._progress_bar is None:
                 self._progress_length = _total_bytes()
-                self._progress_bar = click.progressbar(
-                    length=self._progress_length, fill_char=click.style(
+                self._progress_bar = typer.progressbar(
+                    length=self._progress_length, fill_char=typer.style(
                         "█", fg="green"),
                     show_percent=True, show_pos=True, show_eta=True)
 
@@ -964,3 +1545,7 @@ def search_db(query):
 
     except Exception as e:
         Logger().error(e)
+
+
+if __name__ == "__main__":
+    cli()
